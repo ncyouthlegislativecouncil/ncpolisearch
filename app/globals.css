@@ -1,0 +1,147 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --background: #f6f8fa;
+  --foreground: #1a1f8f;
+}
+
+body {
+  color: var(--foreground);
+  background: var(--background);
+  font-family: var(--font-ibm-plex-sans), system-ui, sans-serif;
+}
+
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+
+  /* Small uppercase section label used throughout the design (monospace,
+     wide tracking, navy) with a crimson accent bar — the deep-red accent
+     that recurs site-wide alongside the navy. */
+  .section-label {
+    font-family: var(--font-ibm-plex-mono), ui-monospace, monospace;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    font-weight: 700;
+    font-size: 0.7rem;
+    color: #1a1f8f;
+    border-left: 3px solid #8c1616;
+    padding-left: 8px;
+  }
+}
+
+/* Hero background: very faint skyblue diagonal lines over navy, slowly drifting
+   for a subtle sense of motion. Sits behind the hero content (which is z-raised). */
+.hero-pattern {
+  background-image: repeating-linear-gradient(
+    45deg,
+    rgba(142, 198, 232, 0.07) 0px,
+    rgba(142, 198, 232, 0.07) 1px,
+    transparent 1px,
+    transparent 22px
+  );
+  background-size: 31px 31px;
+  animation: hero-drift 30s linear infinite;
+}
+
+@keyframes hero-drift {
+  from {
+    background-position: 0 0;
+  }
+  to {
+    background-position: 62px 62px;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .hero-pattern {
+    animation: none;
+  }
+}
+
+/* Homepage live-activity ticker: the track holds two copies of the items and
+   slides left by half its width, so the loop is seamless and continuous. */
+@keyframes ticker-scroll {
+  from {
+    transform: translateX(0);
+  }
+  to {
+    transform: translateX(-50%);
+  }
+}
+
+.animate-ticker {
+  animation: ticker-scroll 60s linear infinite;
+}
+
+.ticker-pause:hover .animate-ticker {
+  animation-play-state: paused;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .animate-ticker {
+    animation: none;
+  }
+}
+
+/* Leaflet district map — tooltip + base font to match the site. */
+.leaflet-container {
+  font-family: var(--font-ibm-plex-sans), system-ui, sans-serif;
+}
+
+.district-tip.leaflet-tooltip {
+  background: #1a1f8f;
+  color: #ffffff;
+  border: none;
+  border-radius: 4px;
+  padding: 2px 8px;
+  font-family: var(--font-ibm-plex-mono), monospace;
+  font-size: 11px;
+  font-weight: 600;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.2);
+}
+
+/* Hide the tooltip's pointer arrow for a cleaner pill look. */
+.district-tip.leaflet-tooltip-top::before,
+.district-tip.leaflet-tooltip-bottom::before,
+.district-tip.leaflet-tooltip-left::before,
+.district-tip.leaflet-tooltip-right::before {
+  display: none;
+}
+
+/* Soft drop-shadow under the dissolved state silhouette so the whole map reads
+   as one floating shape lifted off the background. */
+.leaflet-outline-pane {
+  filter: drop-shadow(0 6px 14px rgba(26, 31, 143, 0.18));
+}
+
+/* Round and tint the zoom controls to match the site chrome. */
+.leaflet-control-zoom {
+  border: none !important;
+  box-shadow: 0 1px 6px rgba(0, 0, 0, 0.15) !important;
+  border-radius: 8px !important;
+  overflow: hidden;
+}
+
+.leaflet-control-zoom a {
+  background: #ffffff;
+  color: #1a1f8f;
+  border: none;
+  width: 32px;
+  height: 32px;
+  line-height: 32px;
+  font-size: 18px;
+  font-weight: 600;
+}
+
+.leaflet-control-zoom a:hover {
+  background: #eef3f8;
+  color: #1a1f8f;
+}
+
+.leaflet-control-zoom a:first-child {
+  border-bottom: 1px solid #e5e7eb;
+}
