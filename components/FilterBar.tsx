@@ -72,6 +72,17 @@ export default function FilterBar() {
       </select>
 
       <select
+        value={params.get("party") ?? ""}
+        onChange={(e) => update("party", e.target.value)}
+        className={selectClass}
+      >
+        <option value="">All Parties</option>
+        <option value="Bipartisan">Bipartisan</option>
+        <option value="Republican">Republican</option>
+        <option value="Democrat">Democrat</option>
+      </select>
+
+      <select
         value={params.get("sort") ?? "newest"}
         onChange={(e) => update("sort", e.target.value)}
         className={selectClass}

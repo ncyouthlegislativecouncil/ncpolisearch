@@ -6,6 +6,7 @@ import { getLegislators } from "../../lib/legislators";
 type SearchParams = {
   chamber?: string;
   party?: string;
+  search?: string;
 };
 
 export default async function LegislatorsPage({
@@ -16,6 +17,7 @@ export default async function LegislatorsPage({
   const list = await getLegislators({
     chamber: searchParams.chamber,
     party: searchParams.party,
+    search: searchParams.search,
   });
 
   const house = list.filter((leg) => leg.role === "Rep");
@@ -72,7 +74,7 @@ export default async function LegislatorsPage({
         </div>
       ) : (
         <p className="mt-10 text-center text-navymuted">
-          Try adjusting your filters.
+          Try adjusting your search or filters.
         </p>
       )}
     </main>

@@ -6,8 +6,16 @@ import { usePathname } from "next/navigation";
 import { AnimatePresence, motion } from "framer-motion";
 
 const NAV_LINKS = [
-  { href: "/bills", label: "Bills" },
-  { href: "/legislators", label: "Legislators" },
+  // Bills and Legislators are filterable via searchParams (?party=, ?search=,
+  // etc). This link is always mounted in the sticky header, so Next.js
+  // prefetches the bare "/bills"/"/legislators" (no query) in the background
+  // and caches it. That cached bare-URL entry can collide with a filtered
+  // variant's Client Router Cache entry, so navigating Back after applying a
+  // filter sometimes lands on this stale, unfiltered prefetch instead of the
+  // actual filtered page. Disabling prefetch here avoids populating that
+  // colliding cache entry in the first place.
+  { href: "/bills", label: "Bills", prefetch: false },
+  { href: "/legislators", label: "Legislators", prefetch: false },
   { href: "/map", label: "District Map" },
   { href: "/ballot", label: "November Ballot" },
   { href: "/compare", label: "Compare" },
@@ -50,6 +58,7 @@ export default function Navbar() {
             <Link
               key={link.href}
               href={link.href}
+              prefetch={link.prefetch ?? true}
               className={`transition-colors hover:text-white ${
                 isActive(pathname, link.href) ? "text-white" : "text-skyblue"
               }`}
@@ -95,6 +104,7 @@ export default function Navbar() {
                 <Link
                   key={link.href}
                   href={link.href}
+                  prefetch={link.prefetch ?? true}
                   onClick={() => setOpen(false)}
                   className={`rounded-md px-3 py-3 text-base font-medium transition-colors hover:bg-white/5 ${
                     isActive(pathname, link.href) ? "text-white" : "text-skyblue"

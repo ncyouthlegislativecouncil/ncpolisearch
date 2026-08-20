@@ -260,13 +260,14 @@ export type BillFilters = {
   search?: string;
   chamber?: string;
   status?: string;
+  party?: string; // "Republican" | "Democrat" | "Bipartisan"
   sort?: string;
   page?: number;
   pageSize?: number;
 };
 
 export async function getBills(filters: BillFilters) {
-  const { search, chamber, status, sort = "newest", page = 1, pageSize = 24 } = filters;
+  const { search, chamber, status, party, sort = "newest", page = 1, pageSize = 24 } = filters;
 
   const conditions = [];
   if (search) {
@@ -276,6 +277,22 @@ export async function getBills(filters: BillFilters) {
   }
   if (chamber === "H" || chamber === "S") conditions.push(eq(bills.chamber, chamber));
   if (status) conditions.push(eq(bills.status, status));
+  // "Republican"/"Democrat" match the bill's primary sponsor's party — the same
+  // party BillCard displays as "Introduced by". "Bipartisan" is the standalone
+  // case of a bill carrying sponsors (any role) from BOTH parties.
+  if (party === "Republican" || party === "Democrat") {
+    const code = party === "Republican" ? "R" : "D";
+    conditions.push(sql`EXISTS (
+      SELECT 1 FROM ${billSponsors} bs
+      WHERE bs.bill_id = ${bills.billId} AND bs.is_primary = true AND bs.party = ${code}
+    )`);
+  } else if (party === "Bipartisan") {
+    conditions.push(sql`EXISTS (
+      SELECT 1 FROM ${billSponsors} bs WHERE bs.bill_id = ${bills.billId} AND bs.party = 'D'
+    ) AND EXISTS (
+      SELECT 1 FROM ${billSponsors} bs WHERE bs.bill_id = ${bills.billId} AND bs.party = 'R'
+    )`);
+  }
   const where = conditions.length ? and(...conditions) : undefined;
 
   const orderBy =

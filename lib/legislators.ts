@@ -1,10 +1,11 @@
-import { and, count, desc, eq, sql } from "drizzle-orm";
+import { and, count, desc, eq, ilike, sql } from "drizzle-orm";
 import { db } from "../db";
 import { legislators, billSponsors, bills } from "../db/schema";
 
 export type LegislatorFilters = {
   chamber?: string; // "House" | "Senate"
   party?: string; // "Republican" | "Democrat"
+  search?: string; // matches name
 };
 
 export async function getLegislators(filters: LegislatorFilters = {}) {
@@ -35,6 +36,9 @@ export async function getLegislators(filters: LegislatorFilters = {}) {
   if (filters.chamber === "Senate") conditions.push(eq(legislators.role, "Sen"));
   if (filters.party === "Republican") conditions.push(eq(legislators.party, "R"));
   if (filters.party === "Democrat") conditions.push(eq(legislators.party, "D"));
+  if (filters.search?.trim()) {
+    conditions.push(ilike(legislators.name, `%${filters.search.trim()}%`));
+  }
   const where = conditions.length ? and(...conditions) : undefined;
 
   // Order alphabetically by last name. Names are stored "First Last", so the
