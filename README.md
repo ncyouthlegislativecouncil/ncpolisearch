@@ -1,36 +1,74 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# NCPoliSearch
 
-## Getting Started
+Nonpartisan, plain-language tracker for North Carolina General Assembly legislation. Built for the [NC Youth Legislative Council](https://ncylc.org). Live at **https://ncpolisearch.vercel.app**.
 
-First, run the development server:
+## Stack
+
+- **Next.js 14** (App Router) + TypeScript + Tailwind
+- **Neon** (serverless Postgres) via **Drizzle ORM**
+- **LegiScan API** — source of bill/legislator/vote data
+- **Anthropic API** (`claude-haiku-4-5`) — generates the plain-language bill summaries and pro/con arguments
+- **Vercel** — hosting, auto-deploy, and the daily cron job
+
+## Local setup
+
+```bash
+npm install
+```
+
+Create `.env.local` in the project root with:
+
+```
+DATABASE_URL=postgresql://...        # Neon connection string
+ANTHROPIC_API_KEY=sk-ant-...
+LEGISCAN_API_KEY=...
+CRON_SECRET=any-random-string        # only needed to hit /api/cron/poll locally
+```
+
+Ask a current NCYLC admin (or check the Environment Variables tab on the Vercel project) for the real values — they're never committed to this repo.
 
 ```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open http://localhost:3000.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Deployment
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+**There is no manual deploy step.** This repo is connected to Vercel's GitHub integration: every push to `main` triggers an automatic production build and deploy. To ship a change, just merge/push to `main`.
 
-## Learn More
+The Vercel project lives under the **NCYLC Vercel account** (not a personal account). The same 4 env vars above must be set there (Production, Preview, and Development) under **Project → Settings → Environment Variables** — if you rotate an API key, update it there too.
 
-To learn more about Next.js, take a look at the following resources:
+## How data stays up to date
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+`app/api/cron/poll/route.ts` runs automatically once a day (see `vercel.json` for the schedule), protected by `Authorization: Bearer <CRON_SECRET>`. Each run:
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+1. Polls LegiScan for new/changed NC bills and upserts them (`lib/poll.ts`).
+2. Generates AI summaries for the newest bills that don't have one yet (`lib/summarize.ts`), using `claude-haiku-4-5`. Capped at 10 bills/run to stay inside the serverless time limit — a large backlog catches up over a few days automatically.
 
-## Deploy on Vercel
+You can also run these manually against production data:
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+```bash
+npm run poll         # fetch new/changed bills from LegiScan
+npm run summarize    # backfill AI summaries for the whole pending queue (resumable, logs a running cost estimate)
+```
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## Project structure
+
+```
+app/            Next.js App Router pages + API routes (bills, legislators, map, ballot, compare)
+components/     Shared UI (BillCard, FeaturedBillCard, DistrictMap, etc.)
+lib/            Data access (lib/bills.ts, lib/legislators.ts), LegiScan client, AI summarization, PDF text extraction
+db/             Drizzle schema (db/schema.ts) + migrations
+scripts/        One-off/CLI scripts: poll, summarize, backfill, vote backfill, photo backfill
+```
+
+Notable details for future changes:
+
+- **Legislator counts**: the `legislators` table can hold more rows than actual seats (mid-session replacements leave both the departed and incoming member on file). Queries that report a legislator count or roster (`getLegislators` in `lib/legislators.ts`, `getHomeStats` in `lib/bills.ts`) filter to the *current* member per district — keep both in sync if you touch this logic.
+- **PDF parsing on Vercel**: `lib/billtext.ts` imports `lib/pdf-polyfill.ts` before `pdf-parse`, because `pdf-parse` (via pdf.js) expects a browser `DOMMatrix` global that Vercel's serverless Node runtime doesn't provide. Don't remove that import — the cron route will crash at load without it.
+- **Homepage caching**: `app/page.tsx` sets `export const revalidate = 3600` (ISR) so stats and featured bills refresh hourly. The `/bills` and `/legislators` pages render dynamically instead because they read `searchParams`.
+
+## License / ownership
+
+Maintained by NC Youth Legislative Council. Code lives at `github.com/ncyouthlegislativecouncil/ncpolisearch`; hosting is on the NCYLC Vercel account so the project can be handed off between student maintainers without depending on any one person's accounts.
