@@ -278,8 +278,11 @@ export async function getBills(filters: BillFilters) {
   if (chamber === "H" || chamber === "S") conditions.push(eq(bills.chamber, chamber));
   if (status) conditions.push(eq(bills.status, status));
   // "Republican"/"Democrat" match the bill's primary sponsor's party — the same
-  // party BillCard displays as "Introduced by". "Bipartisan" is the standalone
-  // case of a bill carrying sponsors (any role) from BOTH parties.
+  // party BillCard displays as "Introduced by". "Bipartisan" requires REAL
+  // cross-party support, not just one token sponsor from the minority side: at
+  // least MIN_BIPARTISAN_SPONSORS from each party (calibrated against H1104,
+  // 7 Democrat / 16 Republican sponsors, and H1200, 18 Democrat / 15 Republican
+  // — both comfortably clear this bar).
   if (party === "Republican" || party === "Democrat") {
     const code = party === "Republican" ? "R" : "D";
     conditions.push(sql`EXISTS (
@@ -287,10 +290,11 @@ export async function getBills(filters: BillFilters) {
       WHERE bs.bill_id = ${bills.billId} AND bs.is_primary = true AND bs.party = ${code}
     )`);
   } else if (party === "Bipartisan") {
-    conditions.push(sql`EXISTS (
-      SELECT 1 FROM ${billSponsors} bs WHERE bs.bill_id = ${bills.billId} AND bs.party = 'D'
-    ) AND EXISTS (
-      SELECT 1 FROM ${billSponsors} bs WHERE bs.bill_id = ${bills.billId} AND bs.party = 'R'
+    const MIN_BIPARTISAN_SPONSORS = 5;
+    conditions.push(sql`(
+      SELECT count(*) FILTER (WHERE bs.party = 'D') >= ${MIN_BIPARTISAN_SPONSORS}
+        AND count(*) FILTER (WHERE bs.party = 'R') >= ${MIN_BIPARTISAN_SPONSORS}
+      FROM ${billSponsors} bs WHERE bs.bill_id = ${bills.billId}
     )`);
   }
   const where = conditions.length ? and(...conditions) : undefined;

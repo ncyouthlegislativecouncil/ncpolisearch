@@ -30,6 +30,9 @@ export default function FilterBar() {
   const selectClass =
     "rounded-md border border-gray-300 bg-white px-3 py-2 text-sm text-gray-900 focus:border-navy focus:outline-none focus:ring-1 focus:ring-navy";
 
+  const party = params.get("party") ?? "";
+  const isBipartisan = party === "Bipartisan";
+
   return (
     <div className="flex flex-col gap-3 rounded-lg border border-gray-200 bg-white p-4 shadow-sm sm:flex-row sm:flex-wrap sm:items-center">
       <form onSubmit={submitSearch} className="flex flex-1 gap-2">
@@ -72,12 +75,11 @@ export default function FilterBar() {
       </select>
 
       <select
-        value={params.get("party") ?? ""}
+        value={isBipartisan ? "" : party}
         onChange={(e) => update("party", e.target.value)}
         className={selectClass}
       >
         <option value="">All Parties</option>
-        <option value="Bipartisan">Bipartisan</option>
         <option value="Republican">Republican</option>
         <option value="Democrat">Democrat</option>
       </select>
@@ -91,6 +93,30 @@ export default function FilterBar() {
         <option value="oldest">Oldest</option>
         <option value="title">Title A–Z</option>
       </select>
+
+      {/* Standalone toggle, not a dropdown option — bipartisan bills (real
+          cross-party support, not just a token minority sponsor) get a red/blue
+          glow behind the button so it visually reads as "both sides" at a glance. */}
+      <div className="relative inline-flex">
+        {isBipartisan && (
+          <span
+            aria-hidden
+            className="absolute -inset-1 rounded-lg bg-gradient-to-r from-republican to-democrat opacity-70 blur-md"
+          />
+        )}
+        <button
+          type="button"
+          onClick={() => update("party", isBipartisan ? "" : "Bipartisan")}
+          aria-pressed={isBipartisan}
+          className={`relative rounded-md px-4 py-2 text-sm font-semibold transition-all ${
+            isBipartisan
+              ? "bg-white text-navy ring-2 ring-navy"
+              : "border border-gray-300 bg-white text-gray-700 hover:border-navy hover:text-navy"
+          }`}
+        >
+          Bipartisan
+        </button>
+      </div>
     </div>
   );
 }
