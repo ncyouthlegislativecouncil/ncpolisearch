@@ -4,12 +4,14 @@ import CollapsibleBills from "../../../components/CollapsibleBills";
 import VotingRecord from "../../../components/VotingRecord";
 import LegislatorAvatar from "../../../components/LegislatorAvatar";
 import NcOutline from "../../../components/NcOutline";
+import LegislatorMiniMap from "../../../components/map/LegislatorMiniMap";
 import { getLegislator, getLegislatorBills } from "../../../lib/legislators";
 import {
   getLegislatorVotes,
   getLegislatorVoteSummary,
   getPartyUnity,
 } from "../../../lib/votes";
+import { getDistrictPartyMap } from "../../../lib/district";
 import {
   partyInfo,
   roleLabel,
@@ -52,15 +54,18 @@ export default async function LegislatorProfilePage({
   const votePage =
     Number.isInteger(parsedPage) && parsedPage > 0 ? parsedPage : 1;
 
-  const [{ sponsored, cosponsored }, voteSummary, voteData, unity] =
+  const [{ sponsored, cosponsored }, voteSummary, voteData, unity, districtPartyMap] =
     await Promise.all([
       getLegislatorBills(peopleId),
       getLegislatorVoteSummary(peopleId),
       getLegislatorVotes(peopleId, votePage, VOTES_PER_PAGE),
       getPartyUnity(peopleId),
+      getDistrictPartyMap(),
     ]);
   const party = partyInfo(legislator.party);
   const dist = districtNumber(legislator.district);
+  const districtNum = dist ? parseInt(dist, 10) : null;
+  const mapChamber = legislator.role === "Rep" ? "house" : legislator.role === "Sen" ? "senate" : null;
   const reelection = reelectionInfo(legislator.runningForReelection);
   const unityLabel = unity != null ? `${Math.round(unity * 100)}%` : "—";
 
@@ -130,6 +135,16 @@ export default async function LegislatorProfilePage({
           </div>
         </div>
       </section>
+
+      {/* Where this district sits on the state map — answers "where is she" for
+          anyone who only knows the district number, not its geography. */}
+      {mapChamber && districtNum != null && (
+        <LegislatorMiniMap
+          chamber={mapChamber}
+          district={districtNum}
+          partyMap={mapChamber === "house" ? districtPartyMap.house : districtPartyMap.senate}
+        />
+      )}
 
       {/* Stats row — four cards. */}
       <div className="mt-6 grid grid-cols-2 gap-3 sm:grid-cols-4">
