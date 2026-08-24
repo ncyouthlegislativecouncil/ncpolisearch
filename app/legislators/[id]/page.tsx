@@ -83,13 +83,17 @@ export default async function LegislatorProfilePage({
           {/* District silhouette — the whole state faint, this legislator's
               district lit up in gold, so "where is her district" reads at a
               glance without spending page space on a full map. */}
+          {/* Sized to fit fully WITHIN the banner — no oversize-and-clip trick.
+              The badge's own viewBox is already framed around this specific
+              district (see lib/district-shape.ts), so clipping it further
+              here would risk cutting districts near NC's edges back out. */}
           {badge ? (
             <DistrictBadge
               data={badge}
-              className="pointer-events-none absolute -right-6 top-1/2 h-[170%] -translate-y-1/2 text-gold sm:-right-10 sm:h-[240%] lg:-right-16 lg:h-[320%]"
+              className="pointer-events-none absolute right-4 top-1/2 h-32 -translate-y-1/2 text-gold sm:right-6 sm:h-36 lg:right-10 lg:h-40"
             />
           ) : (
-            <NcOutline className="pointer-events-none absolute -right-6 top-1/2 h-[170%] -translate-y-1/2 text-navylight/40 sm:-right-10 sm:h-[240%] lg:-right-16 lg:h-[320%]" />
+            <NcOutline className="pointer-events-none absolute right-4 top-1/2 h-32 -translate-y-1/2 text-navylight/40 sm:right-6 sm:h-36 lg:right-10 lg:h-40" />
           )}
           <div className="absolute inset-x-0 bottom-0 h-1 bg-gold" />
           <div className="relative flex h-full flex-col justify-end pb-7 pl-[198px] pr-6">
