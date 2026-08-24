@@ -86,10 +86,10 @@ export default async function LegislatorProfilePage({
           {badge ? (
             <DistrictBadge
               data={badge}
-              className="pointer-events-none absolute -right-6 top-1/2 h-[150%] -translate-y-1/2 text-gold"
+              className="pointer-events-none absolute -right-6 top-1/2 h-[170%] -translate-y-1/2 text-gold sm:-right-10 sm:h-[240%] lg:-right-16 lg:h-[320%]"
             />
           ) : (
-            <NcOutline className="pointer-events-none absolute -right-6 top-1/2 h-[150%] -translate-y-1/2 text-navylight/40" />
+            <NcOutline className="pointer-events-none absolute -right-6 top-1/2 h-[170%] -translate-y-1/2 text-navylight/40 sm:-right-10 sm:h-[240%] lg:-right-16 lg:h-[320%]" />
           )}
           <div className="absolute inset-x-0 bottom-0 h-1 bg-gold" />
           <div className="relative flex h-full flex-col justify-end pb-7 pl-[198px] pr-6">

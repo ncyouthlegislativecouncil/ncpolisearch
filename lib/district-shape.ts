@@ -79,24 +79,19 @@ const VIEW_WIDTH = 140;
 const VIEW_HEIGHT = 90;
 const MAX_POINTS = 140;
 
-// Dense urban districts (Wake, Mecklenburg, etc.) are genuinely a fraction of
-// a percent of the state's area — real geography, not a rendering bug — so
-// they can shrink to just a couple pixels at badge size. Below this size a
-// marker dot is drawn at the district's centroid on top of the (still
-// rendered, just hard to see) shape, so every district reads as *something*.
-const MIN_VISIBLE_SIZE = 5;
-
 export type DistrictBadge = {
   viewBox: string;
   outlineD: string;
   districtD: string;
-  marker: { cx: number; cy: number } | null;
 };
 
 // Looks up one district's shape and returns ready-to-render SVG path data,
 // both shapes projected into the SAME coordinate frame (the whole state's
 // bounding box) so the district reads in its correct position relative to
-// the rest of NC — not just an isolated blob.
+// the rest of NC — not just an isolated blob. SVG paths scale losslessly, so
+// small urban districts (real geography — NC districts are drawn for equal
+// population, not equal land area) stay legible as long as the badge is
+// rendered at a generous CSS size; see the className on <DistrictBadge>.
 export function getDistrictBadge(chamber: Chamber, district: number): DistrictBadge | null {
   const outlineFc = loadGeojson("nc-outline.geojson");
   const districtsFc = loadGeojson(`nc-${chamber}.geojson`);
@@ -117,19 +112,9 @@ export function getDistrictBadge(chamber: Chamber, district: number): DistrictBa
   const outlinePts = project(decimate(outlineRing, MAX_POINTS), bounds, VIEW_WIDTH, VIEW_HEIGHT);
   const districtPts = project(decimate(districtRing, MAX_POINTS), bounds, VIEW_WIDTH, VIEW_HEIGHT);
 
-  let minX = Infinity, maxX = -Infinity, minY = Infinity, maxY = -Infinity;
-  for (const [x, y] of districtPts) {
-    if (x < minX) minX = x;
-    if (x > maxX) maxX = x;
-    if (y < minY) minY = y;
-    if (y > maxY) maxY = y;
-  }
-  const tooSmall = maxX - minX < MIN_VISIBLE_SIZE || maxY - minY < MIN_VISIBLE_SIZE;
-
   return {
     viewBox: `0 0 ${VIEW_WIDTH} ${VIEW_HEIGHT}`,
     outlineD: pathD(outlinePts),
     districtD: pathD(districtPts),
-    marker: tooSmall ? { cx: (minX + maxX) / 2, cy: (minY + maxY) / 2 } : null,
   };
 }
