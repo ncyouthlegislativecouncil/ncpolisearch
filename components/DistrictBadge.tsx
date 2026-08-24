@@ -31,7 +31,28 @@ export default function DistrictBadge({
         </filter>
       </defs>
       <path d={data.outlineD} fill="currentColor" opacity="0.3" />
-      <path d={data.districtD} fill="currentColor" filter="url(#district-badge-glow)" />
+      <path
+        d={data.districtD}
+        fill="currentColor"
+        stroke="white"
+        strokeWidth="0.8"
+        strokeOpacity="0.9"
+        filter="url(#district-badge-glow)"
+      />
+      {/* Dense urban districts can shrink to a couple pixels at this scale —
+          a real fact about their geography, not a bug (see lib/district-shape).
+          A small marker dot guarantees every district reads as something. */}
+      {data.marker && (
+        <circle
+          cx={data.marker.cx}
+          cy={data.marker.cy}
+          r="3"
+          fill="currentColor"
+          stroke="white"
+          strokeWidth="0.8"
+          filter="url(#district-badge-glow)"
+        />
+      )}
     </svg>
   );
 }
