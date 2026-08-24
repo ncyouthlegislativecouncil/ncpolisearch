@@ -4,14 +4,14 @@ import CollapsibleBills from "../../../components/CollapsibleBills";
 import VotingRecord from "../../../components/VotingRecord";
 import LegislatorAvatar from "../../../components/LegislatorAvatar";
 import NcOutline from "../../../components/NcOutline";
-import LegislatorMiniMap from "../../../components/map/LegislatorMiniMap";
+import DistrictBadge from "../../../components/DistrictBadge";
 import { getLegislator, getLegislatorBills } from "../../../lib/legislators";
 import {
   getLegislatorVotes,
   getLegislatorVoteSummary,
   getPartyUnity,
 } from "../../../lib/votes";
-import { getDistrictPartyMap } from "../../../lib/district";
+import { getDistrictBadge } from "../../../lib/district-shape";
 import {
   partyInfo,
   roleLabel,
@@ -54,18 +54,20 @@ export default async function LegislatorProfilePage({
   const votePage =
     Number.isInteger(parsedPage) && parsedPage > 0 ? parsedPage : 1;
 
-  const [{ sponsored, cosponsored }, voteSummary, voteData, unity, districtPartyMap] =
+  const [{ sponsored, cosponsored }, voteSummary, voteData, unity] =
     await Promise.all([
       getLegislatorBills(peopleId),
       getLegislatorVoteSummary(peopleId),
       getLegislatorVotes(peopleId, votePage, VOTES_PER_PAGE),
       getPartyUnity(peopleId),
-      getDistrictPartyMap(),
     ]);
   const party = partyInfo(legislator.party);
   const dist = districtNumber(legislator.district);
   const districtNum = dist ? parseInt(dist, 10) : null;
   const mapChamber = legislator.role === "Rep" ? "house" : legislator.role === "Sen" ? "senate" : null;
+  // Small static silhouette for the banner — computed synchronously from the
+  // same GeoJSON /map uses, no client-side map library involved.
+  const badge = mapChamber && districtNum != null ? getDistrictBadge(mapChamber, districtNum) : null;
   const reelection = reelectionInfo(legislator.runningForReelection);
   const unityLabel = unity != null ? `${Math.round(unity * 100)}%` : "—";
 
@@ -78,7 +80,17 @@ export default async function LegislatorProfilePage({
       {/* Profile header — navy banner with overlapping photo. */}
       <section className="relative mt-4 rounded-lg border border-gray-200 bg-white shadow-sm">
         <div className="relative h-44 overflow-hidden rounded-t-lg bg-navy">
-          <NcOutline className="pointer-events-none absolute -right-6 top-1/2 h-[150%] -translate-y-1/2 text-navylight/40" />
+          {/* District silhouette — the whole state faint, this legislator's
+              district lit up in gold, so "where is her district" reads at a
+              glance without spending page space on a full map. */}
+          {badge ? (
+            <DistrictBadge
+              data={badge}
+              className="pointer-events-none absolute -right-6 top-1/2 h-[150%] -translate-y-1/2 text-gold"
+            />
+          ) : (
+            <NcOutline className="pointer-events-none absolute -right-6 top-1/2 h-[150%] -translate-y-1/2 text-navylight/40" />
+          )}
           <div className="absolute inset-x-0 bottom-0 h-1 bg-gold" />
           <div className="relative flex h-full flex-col justify-end pb-7 pl-[198px] pr-6">
             <span className="font-mono text-xs font-semibold uppercase tracking-widest text-gold">
@@ -135,16 +147,6 @@ export default async function LegislatorProfilePage({
           </div>
         </div>
       </section>
-
-      {/* Where this district sits on the state map — answers "where is she" for
-          anyone who only knows the district number, not its geography. */}
-      {mapChamber && districtNum != null && (
-        <LegislatorMiniMap
-          chamber={mapChamber}
-          district={districtNum}
-          partyMap={mapChamber === "house" ? districtPartyMap.house : districtPartyMap.senate}
-        />
-      )}
 
       {/* Stats row — four cards. */}
       <div className="mt-6 grid grid-cols-2 gap-3 sm:grid-cols-4">
