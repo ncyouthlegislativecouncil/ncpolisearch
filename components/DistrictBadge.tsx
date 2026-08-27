@@ -6,9 +6,14 @@ import type { DistrictBadge as DistrictBadgeData } from "../lib/district-shape";
 export default function DistrictBadge({
   data,
   className = "",
+  filterId = "district-badge-glow",
 }: {
   data: DistrictBadgeData;
   className?: string;
+  // Two instances of this component can be mounted at once (the small button
+  // in the banner, plus the bigger one in DistrictBadgeModal) — SVG ids must
+  // be unique per document, so the modal passes a different id.
+  filterId?: string;
 }) {
   return (
     <svg
@@ -21,7 +26,7 @@ export default function DistrictBadge({
         {/* Soft halo around the district shape so it reads immediately against
             the banner, not just on close inspection — small districts in
             particular can otherwise disappear into the background. */}
-        <filter id="district-badge-glow" x="-75%" y="-75%" width="250%" height="250%">
+        <filter id={filterId} x="-75%" y="-75%" width="250%" height="250%">
           <feGaussianBlur in="SourceGraphic" stdDeviation="2.2" result="blur" />
           <feMerge>
             <feMergeNode in="blur" />
@@ -37,7 +42,7 @@ export default function DistrictBadge({
         stroke="white"
         strokeWidth="0.4"
         strokeOpacity="0.9"
-        filter="url(#district-badge-glow)"
+        filter={`url(#${filterId})`}
       />
     </svg>
   );

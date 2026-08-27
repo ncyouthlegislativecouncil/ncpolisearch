@@ -78,61 +78,6 @@ function pathD(points: [number, number][]): string {
 const VIEW_WIDTH = 140;
 const VIEW_HEIGHT = 90;
 const MAX_POINTS = 140;
-const TARGET_ASPECT = VIEW_WIDTH / VIEW_HEIGHT;
-
-// How much context to show around a district: PAD_FACTOR x its own size, or
-// MIN_WINDOW_LON degrees, whichever is bigger — the floor keeps tiny urban
-// districts from zooming in so far that all surrounding context (and any
-// sense of "where in NC") disappears.
-const PAD_FACTOR = 3.2;
-const MIN_WINDOW_LON = 1.3;
-
-// A window centered on the state's own middle (the old approach) cuts off
-// districts near the coast or borders once the badge is enlarged — a
-// northeastern or southern legislator's district could fall partly or
-// entirely outside that fixed frame. Instead, center the "camera" on THIS
-// district's own centroid, sized to its own extent plus padding, then pan
-// (never shrink) it back inside the state's bounds if it would spill past an
-// edge — so every district ends up framed, wherever in NC it sits.
-function districtWindow(districtBounds: Bounds, stateBounds: Bounds): Bounds {
-  const districtLonSpan = districtBounds.maxLon - districtBounds.minLon;
-  const districtLatSpan = districtBounds.maxLat - districtBounds.minLat;
-  const centroidLon = (districtBounds.minLon + districtBounds.maxLon) / 2;
-  const centroidLat = (districtBounds.minLat + districtBounds.maxLat) / 2;
-
-  let winLon = Math.max(districtLonSpan * PAD_FACTOR, MIN_WINDOW_LON);
-  let winLat = Math.max(districtLatSpan * PAD_FACTOR, MIN_WINDOW_LON / TARGET_ASPECT);
-  if (winLon / winLat > TARGET_ASPECT) winLat = winLon / TARGET_ASPECT;
-  else winLon = winLat * TARGET_ASPECT;
-
-  let minLon = centroidLon - winLon / 2;
-  let maxLon = centroidLon + winLon / 2;
-  let minLat = centroidLat - winLat / 2;
-  let maxLat = centroidLat + winLat / 2;
-
-  if (minLon < stateBounds.minLon) {
-    const d = stateBounds.minLon - minLon;
-    minLon += d;
-    maxLon += d;
-  }
-  if (maxLon > stateBounds.maxLon) {
-    const d = maxLon - stateBounds.maxLon;
-    minLon -= d;
-    maxLon -= d;
-  }
-  if (minLat < stateBounds.minLat) {
-    const d = stateBounds.minLat - minLat;
-    minLat += d;
-    maxLat += d;
-  }
-  if (maxLat > stateBounds.maxLat) {
-    const d = maxLat - stateBounds.maxLat;
-    minLat -= d;
-    maxLat -= d;
-  }
-
-  return { minLon, maxLon, minLat, maxLat };
-}
 
 export type DistrictBadge = {
   viewBox: string;
@@ -142,10 +87,14 @@ export type DistrictBadge = {
 
 // Looks up one district's shape and returns ready-to-render SVG path data.
 // Both the district and the full state outline are projected into the SAME
-// district-centered camera window (see districtWindow above), so the badge
-// always shows the district clearly with real surrounding context, correctly
-// positioned relative to the rest of NC — not cut off at an edge and not
-// just an isolated blob either.
+// coordinate frame — the WHOLE state's bounding box — so the badge always
+// reads immediately as "North Carolina" at a glance, with the district shown
+// in its correct real position. (An earlier version zoomed a "camera" in
+// tight around just the district for visibility; that made small districts
+// clearer but cropped the state down to an unrecognizable fragment of
+// coastline, which defeated the point of a silhouette badge. Visibility for
+// small districts is handled instead by rendering this same data bigger —
+// see DistrictBadgeModal — rather than by cropping.)
 export function getDistrictBadge(chamber: Chamber, district: number): DistrictBadge | null {
   const outlineFc = loadGeojson("nc-outline.geojson");
   const districtsFc = loadGeojson(`nc-${chamber}.geojson`);
@@ -161,11 +110,10 @@ export function getDistrictBadge(chamber: Chamber, district: number): DistrictBa
   const districtRing = districtGeom?.coordinates?.[0] as LonLat[] | undefined;
   if (!districtRing) return null;
 
-  const stateBounds = boundsOf(outlineRing);
-  const window = districtWindow(boundsOf(districtRing), stateBounds);
+  const bounds = boundsOf(outlineRing);
 
-  const outlinePts = project(decimate(outlineRing, MAX_POINTS), window, VIEW_WIDTH, VIEW_HEIGHT);
-  const districtPts = project(decimate(districtRing, MAX_POINTS), window, VIEW_WIDTH, VIEW_HEIGHT);
+  const outlinePts = project(decimate(outlineRing, MAX_POINTS), bounds, VIEW_WIDTH, VIEW_HEIGHT);
+  const districtPts = project(decimate(districtRing, MAX_POINTS), bounds, VIEW_WIDTH, VIEW_HEIGHT);
 
   return {
     viewBox: `0 0 ${VIEW_WIDTH} ${VIEW_HEIGHT}`,

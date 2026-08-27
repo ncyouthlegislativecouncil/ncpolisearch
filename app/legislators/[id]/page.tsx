@@ -4,7 +4,7 @@ import CollapsibleBills from "../../../components/CollapsibleBills";
 import VotingRecord from "../../../components/VotingRecord";
 import LegislatorAvatar from "../../../components/LegislatorAvatar";
 import NcOutline from "../../../components/NcOutline";
-import DistrictBadge from "../../../components/DistrictBadge";
+import DistrictBadgeModal from "../../../components/DistrictBadgeModal";
 import { getLegislator, getLegislatorBills } from "../../../lib/legislators";
 import {
   getLegislatorVotes,
@@ -80,18 +80,22 @@ export default async function LegislatorProfilePage({
       {/* Profile header — navy banner with overlapping photo. */}
       <section className="relative mt-4 rounded-lg border border-gray-200 bg-white shadow-sm">
         <div className="relative h-44 overflow-hidden rounded-t-lg bg-navy">
-          {/* District silhouette — the whole state faint, this legislator's
-              district lit up in gold, so "where is her district" reads at a
-              glance without spending page space on a full map. */}
-          {/* Sized to fit fully WITHIN the banner — no oversize-and-clip trick.
-              The badge's own viewBox is already framed around this specific
-              district (see lib/district-shape.ts), so clipping it further
-              here would risk cutting districts near NC's edges back out. */}
+          {/* District silhouette — the whole state, this legislator's district
+              lit up in gold, so it always reads as "North Carolina" at a
+              glance. Small urban districts can be hard to make out at this
+              size, so it's a button: clicking opens the same silhouette much
+              bigger (DistrictBadgeModal) instead of cropping the state down
+              to an unrecognizable fragment. */}
           {badge ? (
-            <DistrictBadge
-              data={badge}
-              className="pointer-events-none absolute right-4 top-1/2 h-32 -translate-y-1/2 text-gold sm:right-6 sm:h-36 lg:right-10 lg:h-40"
-            />
+            <div className="absolute right-4 top-1/2 h-32 -translate-y-1/2 sm:right-6 sm:h-36 lg:right-10 lg:h-40">
+              <DistrictBadgeModal
+                data={badge}
+                chamberLabel={chamberFromRole(legislator.role)}
+                district={districtNum!}
+                legislatorName={legislator.name}
+                buttonClassName="h-full w-auto text-gold"
+              />
+            </div>
           ) : (
             <NcOutline className="pointer-events-none absolute right-4 top-1/2 h-32 -translate-y-1/2 text-navylight/40 sm:right-6 sm:h-36 lg:right-10 lg:h-40" />
           )}
