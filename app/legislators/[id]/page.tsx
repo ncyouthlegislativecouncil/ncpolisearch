@@ -20,7 +20,7 @@ import {
   reelectionInfo,
 } from "../../../lib/legislator-display";
 
-const VOTES_PER_PAGE = 20;
+const VOTES_PER_PAGE = 10;
 
 function StatCard({
   value,
@@ -77,8 +77,85 @@ export default async function LegislatorProfilePage({
         ← Back to all legislators
       </Link>
 
-      {/* Profile header — navy banner with overlapping photo. */}
-      <section className="relative mt-4 rounded-lg border border-gray-200 bg-white shadow-sm">
+      {/* Profile header. Mobile and desktop get genuinely different layouts
+          (not just resized versions of each other) — cramming the same
+          photo-overlaps-banner arrangement into a narrow screen made the
+          district badge collide with the name and left the photo hanging
+          awkwardly far below the banner. Only one of these two sections
+          renders visually at a time; the other stays in the DOM as
+          `hidden`. */}
+
+      {/* --- Mobile: photo in the banner, everything else in the white area
+          below, all centered — a plain stacked card instead of the overlap
+          trick. --- */}
+      <section className="mt-4 overflow-hidden rounded-lg border border-gray-200 bg-white shadow-sm sm:hidden">
+        <div className="relative flex h-40 items-center justify-center bg-navy">
+          {badge ? (
+            <DistrictBadgeModal
+              data={badge}
+              chamberLabel={chamberFromRole(legislator.role)}
+              district={districtNum!}
+              legislatorName={legislator.name}
+              buttonClassName="absolute right-3 top-3 h-14 text-gold"
+              idPrefix="district-badge-glow-mobile"
+            />
+          ) : (
+            <NcOutline className="pointer-events-none absolute right-3 top-3 h-14 text-navylight/40" />
+          )}
+          <LegislatorAvatar
+            name={legislator.name}
+            imageUrl={legislator.imageUrl}
+            width={150}
+            height={190}
+            circle={false}
+            sizeClassName="h-28 w-[110px]"
+            className="ring-2 ring-gold shadow-lg"
+          />
+          <div className="absolute inset-x-0 bottom-0 h-1 bg-gold" />
+        </div>
+
+        <div className="px-5 py-5 text-center">
+          <p className="section-label inline-block">
+            North Carolina {chamberFromRole(legislator.role)}
+          </p>
+          <h1 className="mt-2 font-serif text-2xl font-bold text-navy">
+            {legislator.name}
+          </h1>
+
+          <div className="mt-3 flex flex-wrap items-center justify-center gap-2">
+            <span className={`rounded px-2.5 py-1 text-xs font-semibold ${party.className}`}>
+              {party.label}
+            </span>
+            <span className="text-sm text-navylight">
+              {roleLabel(legislator.role)}
+              {dist ? ` · District ${dist}` : ""}
+            </span>
+          </div>
+
+          <div className="mt-4">
+            <span
+              className={`inline-block rounded-full px-3 py-1 text-xs font-semibold ${reelection.className}`}
+            >
+              {reelection.label}
+            </span>
+            <p className="mt-2 text-xs text-navymuted">
+              Election Day: November 3, 2026 ·{" "}
+              <a
+                href="https://www.ncsbe.gov/registering"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="font-medium text-navy underline-offset-2 hover:text-skyblue hover:underline"
+              >
+                Register to vote at ncsbe.gov
+              </a>
+            </p>
+          </div>
+        </div>
+      </section>
+
+      {/* --- Desktop/tablet: the original wide layout — navy banner with the
+          photo overlapping its bottom edge, name in the banner. --- */}
+      <section className="relative mt-4 hidden rounded-lg border border-gray-200 bg-white shadow-sm sm:block">
         <div className="relative h-44 overflow-hidden rounded-t-lg bg-navy">
           {/* District silhouette — the whole state, this legislator's district
               lit up in gold, so it always reads as "North Carolina" at a
@@ -87,17 +164,16 @@ export default async function LegislatorProfilePage({
               bigger (DistrictBadgeModal) instead of cropping the state down
               to an unrecognizable fragment. */}
           {badge ? (
-            <div className="absolute right-4 top-1/2 h-32 -translate-y-1/2 sm:right-6 sm:h-36 lg:right-10 lg:h-40">
-              <DistrictBadgeModal
-                data={badge}
-                chamberLabel={chamberFromRole(legislator.role)}
-                district={districtNum!}
-                legislatorName={legislator.name}
-                buttonClassName="h-full w-auto text-gold"
-              />
-            </div>
+            <DistrictBadgeModal
+              data={badge}
+              chamberLabel={chamberFromRole(legislator.role)}
+              district={districtNum!}
+              legislatorName={legislator.name}
+              buttonClassName="absolute right-6 top-1/2 h-36 -translate-y-1/2 text-gold lg:right-10 lg:h-40"
+              idPrefix="district-badge-glow-desktop"
+            />
           ) : (
-            <NcOutline className="pointer-events-none absolute right-4 top-1/2 h-32 -translate-y-1/2 text-navylight/40 sm:right-6 sm:h-36 lg:right-10 lg:h-40" />
+            <NcOutline className="pointer-events-none absolute right-6 top-1/2 h-36 -translate-y-1/2 text-navylight/40 lg:right-10 lg:h-40" />
           )}
           <div className="absolute inset-x-0 bottom-0 h-1 bg-gold" />
           <div className="relative flex h-full flex-col justify-end pb-7 pl-[198px] pr-6">

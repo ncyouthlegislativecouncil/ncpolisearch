@@ -14,7 +14,15 @@ type BillRow = {
   aiSummary?: string | null;
 };
 
-const INITIAL_VISIBLE = 9;
+// Mobile gets a tighter collapse than desktop — 9 stacked full bill cards in a
+// single mobile column was a lot of scrolling before finding "show more".
+// Rather than detect viewport width in JS (which would either mismatch the
+// server-rendered HTML or flash between counts on load), every card is
+// rendered up front and per-card CSS classes decide what's visible at each
+// breakpoint — this stays correct on the very first paint, no client-only
+// state needed for it.
+const MOBILE_VISIBLE = 3;
+const DESKTOP_VISIBLE = 9;
 
 export default function CollapsibleBills({
   title,
@@ -24,9 +32,9 @@ export default function CollapsibleBills({
   bills: BillRow[];
 }) {
   const [expanded, setExpanded] = useState(false);
-  const canCollapse = bills.length > INITIAL_VISIBLE;
-  const visible = expanded || !canCollapse ? bills : bills.slice(0, INITIAL_VISIBLE);
-  const hiddenCount = bills.length - INITIAL_VISIBLE;
+  const canCollapse = bills.length > MOBILE_VISIBLE;
+  const mobileHiddenCount = bills.length - MOBILE_VISIBLE;
+  const desktopHiddenCount = bills.length - DESKTOP_VISIBLE;
 
   return (
     <section className="mt-10">
@@ -37,15 +45,35 @@ export default function CollapsibleBills({
       {bills.length > 0 ? (
         <>
           <div className="mt-4 grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
-            {visible.map((bill) => (
-              <BillCard key={bill.billId} bill={bill} />
-            ))}
+            {bills.map((bill, i) => {
+              // Below the mobile cutoff but within the desktop one: hidden on
+              // mobile only, unless expanded. Below the desktop cutoff too:
+              // hidden everywhere, unless expanded.
+              const cls = expanded
+                ? ""
+                : i >= DESKTOP_VISIBLE
+                  ? "hidden"
+                  : i >= MOBILE_VISIBLE
+                    ? "hidden sm:block"
+                    : "";
+              return (
+                <div key={bill.billId} className={cls}>
+                  <BillCard bill={bill} />
+                </div>
+              );
+            })}
           </div>
           {canCollapse && (
             <button
               type="button"
               onClick={() => setExpanded((v) => !v)}
-              className="mt-4 flex w-full items-center justify-center gap-1.5 rounded-md border border-gray-200 bg-white py-2.5 text-sm font-medium text-navy transition-colors hover:border-skyblue hover:text-skyblue"
+              // When there are 4-8 bills, mobile needs collapsing but desktop
+              // doesn't (everything's already under DESKTOP_VISIBLE) — hide
+              // the button on sm+ in that case rather than show a "more"
+              // count of zero or negative.
+              className={`mt-4 flex w-full items-center justify-center gap-1.5 rounded-md border border-gray-200 bg-white py-2.5 text-sm font-medium text-navy transition-colors hover:border-skyblue hover:text-skyblue ${
+                !expanded && desktopHiddenCount <= 0 ? "sm:hidden" : ""
+              }`}
             >
               {expanded ? (
                 <>
@@ -62,7 +90,8 @@ export default function CollapsibleBills({
                 </>
               ) : (
                 <>
-                  Show {hiddenCount} more
+                  <span className="sm:hidden">Show {mobileHiddenCount} more</span>
+                  <span className="hidden sm:inline">Show {desktopHiddenCount} more</span>
                   <svg
                     className="h-4 w-4"
                     viewBox="0 0 20 20"

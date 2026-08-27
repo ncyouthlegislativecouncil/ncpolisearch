@@ -18,12 +18,17 @@ export default function DistrictBadgeModal({
   district,
   legislatorName,
   buttonClassName,
+  idPrefix = "district-badge-glow",
 }: {
   data: DistrictBadgeData;
   chamberLabel: string;
   district: number;
   legislatorName: string | null;
   buttonClassName: string;
+  // The profile page renders a mobile AND a desktop copy of this component at
+  // once (CSS hides whichever doesn't apply — it stays mounted), so their SVG
+  // filter ids would collide unless each caller passes a distinct prefix.
+  idPrefix?: string;
 }) {
   const [open, setOpen] = useState(false);
 
@@ -38,13 +43,18 @@ export default function DistrictBadgeModal({
 
   return (
     <>
+      {/* buttonClassName carries the real sizing/positioning (e.g. "absolute
+          right-4 top-1/2 h-32 ..."). It has to live on the button itself, not
+          just the inner svg — a bare <button> has no defined height, so an
+          h-full on a child resolves against that auto height and collapses
+          to nothing, which is why the badge disappeared entirely. */}
       <button
         type="button"
         onClick={() => setOpen(true)}
         aria-label={`Show ${chamberLabel} District ${district} on a larger map of North Carolina`}
-        className="cursor-pointer border-0 bg-transparent p-0 transition-opacity hover:opacity-80"
+        className={`cursor-pointer border-0 bg-transparent p-0 transition-opacity hover:opacity-80 ${buttonClassName}`}
       >
-        <DistrictBadge data={data} className={buttonClassName} />
+        <DistrictBadge data={data} className="h-full w-auto" filterId={idPrefix} />
       </button>
 
       {open &&
@@ -93,7 +103,7 @@ export default function DistrictBadgeModal({
 
               <DistrictBadge
                 data={data}
-                filterId="district-badge-glow-modal"
+                filterId={`${idPrefix}-modal`}
                 className="mx-auto mt-6 h-[46vh] w-full max-w-full text-gold"
               />
             </div>
