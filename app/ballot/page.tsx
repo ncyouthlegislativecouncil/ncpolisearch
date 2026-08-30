@@ -27,22 +27,10 @@ export default function BallotPage() {
       </section>
 
       <div className="mx-auto max-w-[1600px] px-4 py-10 sm:px-6 sm:py-12">
-        {/* INTRO CARD — white, skyblue left border, ballot icon. */}
-        <div className="rounded-lg border-l-4 border-skyblue bg-white p-6 shadow-md sm:p-7">
-          <p className="text-base leading-relaxed text-gray-700 sm:text-lg">
-            <span className="mr-2" aria-hidden>
-              🗳️
-            </span>
-            Every NC voter will see these three constitutional amendments on
-            their ballot this November. We&apos;ve explained what each one
-            actually does — not just what it says.
-          </p>
-        </div>
-
         {/* INTERACTIVE BALLOT — an actual ballot-styled card. Pick an
             amendment to slide the ballot aside and reveal the full
             breakdown; "Back to Ballot" slides it back. */}
-        <div className="mt-10">
+        <div>
           <InteractiveBallot />
         </div>
 

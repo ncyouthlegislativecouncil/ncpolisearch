@@ -3,6 +3,7 @@
 import { useRouter, useSearchParams } from "next/navigation";
 import { useState } from "react";
 import { STATUS_OPTIONS } from "../lib/status";
+import { useDebouncedEffect } from "../lib/useDebouncedEffect";
 
 export default function FilterBar() {
   const router = useRouter();
@@ -21,6 +22,12 @@ export default function FilterBar() {
     else next.delete(key);
     pushParams(next);
   }
+
+  // Live search — updates the URL (and re-fetches results) shortly after the
+  // user stops typing, so results filter as you go instead of waiting for
+  // Enter/Search. The button and Enter key still work too, for anyone who
+  // wants it to apply immediately.
+  useDebouncedEffect(search, 350, (value) => update("search", value.trim()));
 
   function submitSearch(e: React.FormEvent) {
     e.preventDefault();
