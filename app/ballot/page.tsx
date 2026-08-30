@@ -1,151 +1,12 @@
 import type { Metadata } from "next";
 import Link from "next/link";
+import InteractiveBallot from "../../components/ballot/InteractiveBallot";
 
 export const metadata: Metadata = {
   title: "Your November 2026 Ballot — NCPoliSearch",
   description:
     "North Carolina's statewide constitutional amendments for the November 2026 election, explained in plain English by NCPoliSearch.",
 };
-
-// ---------------------------------------------------------------------------
-// Amendment content. Each card is rendered identically from this data so the
-// three sections stay consistent and easy to update.
-// ---------------------------------------------------------------------------
-type Amendment = {
-  number: number;
-  shortTitle: string;
-  ballotLabel: string;
-  question: string;
-  actuallyDoes: string;
-  ifPasses: string;
-  ifFails: string;
-  argFor: string;
-  argAgainst: string;
-};
-
-const AMENDMENTS: Amendment[] = [
-  {
-    number: 1,
-    shortTitle: "Income Tax Cap",
-    ballotLabel: "SB 1080 · Income Tax",
-    question:
-      "Constitutional amendment to lower the maximum allowable state income tax rate from 7% to 3.5%",
-    actuallyDoes:
-      "NC's income tax rate is already scheduled to drop to 3.49% next year regardless of this vote. This amendment doesn't lower your taxes today — it permanently prevents any future legislature from raising the income tax above 3.5%, even during a recession, natural disaster, or state emergency. Changing it later would require another statewide vote.",
-    ifPasses:
-      "Future legislators cannot raise income taxes above 3.5% without voter approval.",
-    ifFails:
-      "The current 7% constitutional cap remains. Income taxes still drop to 3.49% next year as already planned.",
-    argFor:
-      "Protects taxpayers from future tax hikes and locks in the legislature's commitment to lower taxes permanently.",
-    argAgainst:
-      "Tying the state's hands during future emergencies could force cuts to schools, roads, disaster relief, and public safety when revenue is needed most.",
-  },
-  {
-    number: 2,
-    shortTitle: "Property Tax Limit",
-    ballotLabel: "HB 1089 · Property Tax",
-    question:
-      "Constitutional amendment requiring limits on property tax increases by local governments",
-    actuallyDoes:
-      "Requires the legislature to pass a law capping how fast local governments can raise property taxes — but the actual cap number is not decided yet. You are voting to require a limit without knowing what that limit will be.",
-    ifPasses:
-      "The legislature must create a property tax cap law. Cities and counties will face new restrictions on raising property taxes.",
-    ifFails:
-      "Local governments keep their current authority to set property tax rates based on local needs.",
-    argFor:
-      "Property taxes have risen too fast in NC and homeowners need constitutional protection from local government overtaxing.",
-    argAgainst:
-      "Local governments use property taxes to fund schools, emergency services, and infrastructure. A vague amendment with no specified limit gives voters no way to evaluate what they're actually agreeing to.",
-  },
-  {
-    number: 3,
-    shortTitle: "Photo Voter ID",
-    ballotLabel: "SB 921 · Voter ID",
-    question:
-      "Constitutional amendment requiring photographic identification to vote, including for mail-in ballots",
-    actuallyDoes:
-      "Photo ID for in-person voting is already NC law. This amendment adds mail-in voter ID to the state constitution, making both requirements permanent and much harder for future legislators to modify or repeal. Free photo IDs are available from county election boards and the DMV.",
-    ifPasses:
-      "Photo ID becomes a constitutional requirement for all voting in NC — in person and by mail.",
-    ifFails:
-      "In-person photo ID requirement stays as state law. Mail-in voters are not required to include a photo ID.",
-    argFor:
-      "Putting voter ID in the constitution ensures consistent election security that can't be undone by a future legislature.",
-    argAgainst:
-      "Elderly, low-income, and minority voters are less likely to have qualifying photo ID, and adding a mail-in ID requirement could disenfranchise voters who already face barriers to getting to polling locations.",
-  },
-];
-
-function AmendmentCard({ a }: { a: Amendment }) {
-  return (
-    <article className="rounded-lg border-t-4 border-[#c9a84c] bg-white p-6 shadow-lg sm:p-8">
-      {/* Amendment label pill + bill number. */}
-      <div className="flex flex-wrap items-center gap-3">
-        <span className="rounded-full bg-navy px-3 py-1 text-xs font-bold text-white">
-          Amendment {a.number}
-        </span>
-        <span className="font-mono text-sm text-gray-500">{a.ballotLabel}</span>
-      </div>
-
-      {/* Title. */}
-      <h2 className="mt-4 font-serif text-2xl font-bold text-navy sm:text-3xl">
-        {a.shortTitle}
-      </h2>
-
-      {/* Ballot question — italic gray inside a light gray inset box. */}
-      <div className="mt-4 rounded-md bg-pagebg p-4">
-        <p className="text-base italic leading-relaxed text-gray-600">
-          {a.question}
-        </p>
-      </div>
-
-      {/* What it actually does — navy left border. */}
-      <div className="mt-6 border-l-4 border-navy pl-4">
-        <p className="text-sm font-bold uppercase tracking-wide text-navy">
-          What it actually does
-        </p>
-        <p className="mt-2 text-base leading-relaxed text-gray-700">
-          {a.actuallyDoes}
-        </p>
-      </div>
-
-      {/* If it passes / if it fails — side by side, stack on mobile. */}
-      <div className="mt-6 grid gap-4 sm:grid-cols-2">
-        <div className="rounded-md border-l-4 border-lowrisk bg-[#f0fdf4] p-4">
-          <p className="font-bold text-lowrisk">✅ If it passes</p>
-          <p className="mt-2 text-base leading-relaxed text-gray-700">
-            {a.ifPasses}
-          </p>
-        </div>
-        <div className="rounded-md border-l-4 border-ncred bg-[#fef2f2] p-4">
-          <p className="font-bold text-ncred">❌ If it fails</p>
-          <p className="mt-2 text-base leading-relaxed text-gray-700">
-            {a.ifFails}
-          </p>
-        </div>
-      </div>
-
-      {/* Arguments — side by side, stack on mobile. */}
-      <div className="mt-4 grid gap-4 sm:grid-cols-2">
-        <div className="rounded-md border border-lowrisk bg-[#f0fdf4] p-5">
-          <p className="text-base font-bold text-lowrisk">
-            👍 Arguments in Favor
-          </p>
-          <p className="mt-2 text-base leading-relaxed text-gray-700">
-            {a.argFor}
-          </p>
-        </div>
-        <div className="rounded-md border border-ncred bg-[#fef2f2] p-5">
-          <p className="text-base font-bold text-ncred">👎 Arguments Against</p>
-          <p className="mt-2 text-base leading-relaxed text-gray-700">
-            {a.argAgainst}
-          </p>
-        </div>
-      </div>
-    </article>
-  );
-}
 
 export default function BallotPage() {
   return (
@@ -178,18 +39,11 @@ export default function BallotPage() {
           </p>
         </div>
 
-        {/* AMENDMENT CARDS — two side by side, third beneath the first.
-            The bottom-right slot is reserved for future ballot content. */}
-        <div className="mt-10 grid gap-6 lg:grid-cols-2 lg:items-start">
-          {AMENDMENTS.map((a) => (
-            <AmendmentCard key={a.number} a={a} />
-          ))}
-          {/* Placeholder — fills the open bottom-right slot on desktop. */}
-          <div className="hidden rounded-lg border-2 border-dashed border-[#c9a84c]/60 bg-white/40 p-8 lg:flex lg:min-h-[12rem] lg:items-center lg:justify-center">
-            <p className="text-center text-sm font-medium text-navymuted">
-              More ballot information coming soon
-            </p>
-          </div>
+        {/* INTERACTIVE BALLOT — an actual ballot-styled card. Pick an
+            amendment to slide the ballot aside and reveal the full
+            breakdown; "Back to Ballot" slides it back. */}
+        <div className="mt-10">
+          <InteractiveBallot />
         </div>
 
         {/* BOTTOM CTA — gold card. */}
