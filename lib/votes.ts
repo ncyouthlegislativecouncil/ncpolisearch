@@ -1,5 +1,5 @@
 import { eq, inArray, sql } from "drizzle-orm";
-import { db } from "../db";
+import { db, execRows } from "../db";
 import { bills, votes, voteDetail } from "../db/schema";
 import { chamberLabel } from "./status";
 
@@ -102,7 +102,7 @@ export async function getLegislatorVotes(
 // side with the majority of their own party on each roll call. Returns a 0..1
 // fraction, or null when there are no decisive party-line votes on record.
 export async function getPartyUnity(peopleId: number): Promise<number | null> {
-  const result = await db.execute(sql`
+  const rows = await execRows<{ party_line: number; total_cast: number }>(sql`
     WITH party_majority AS (
       SELECT roll_call_id, party,
         CASE
@@ -124,7 +124,6 @@ export async function getPartyUnity(peopleId: number): Promise<number | null> {
       AND vd.party IN ('R', 'D')
   `);
 
-  const rows = result as unknown as { party_line: number; total_cast: number }[];
   const r = rows[0];
   if (!r || r.total_cast === 0) return null;
   return r.party_line / r.total_cast;

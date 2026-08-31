@@ -1,5 +1,5 @@
 import { and, eq, inArray, sql } from "drizzle-orm";
-import { db } from "../db";
+import { db, execRows } from "../db";
 import { legislators, bills, votes, voteDetail } from "../db/schema";
 import { getLegislatorBills } from "./legislators";
 import { getPartyUnity } from "./votes";
@@ -41,7 +41,7 @@ export type DistrictPartyMap = {
 // One party letter ("R"/"D") per district, used to tint the map on load. When a
 // district has had multiple members, the most recently active one's party wins.
 export async function getDistrictPartyMap(): Promise<DistrictPartyMap> {
-  const rows = (await db.execute(sql`
+  const rows = await execRows<{ role: string; district: string; party: string }>(sql`
     SELECT role, district, party FROM (
       SELECT l.role, l.district, l.party,
         row_number() OVER (
@@ -57,7 +57,7 @@ export async function getDistrictPartyMap(): Promise<DistrictPartyMap> {
       GROUP BY l.people_id, l.role, l.district, l.party
     ) t
     WHERE rn = 1
-  `)) as unknown as { role: string; district: string; party: string }[];
+  `);
 
   const map: DistrictPartyMap = { house: {}, senate: {} };
   for (const r of rows) {
@@ -109,7 +109,7 @@ async function resolveCurrentMember(
   district: number
 ): Promise<number | null> {
   const code = districtCode(chamber, district);
-  const ranked = (await db.execute(sql`
+  const ranked = await execRows<{ people_id: number }>(sql`
     SELECT l.people_id AS people_id
     FROM legislators l
     LEFT JOIN bill_sponsors bs ON bs.people_id = l.people_id
@@ -118,7 +118,7 @@ async function resolveCurrentMember(
     GROUP BY l.people_id
     ORDER BY max(b.last_action_date) DESC NULLS LAST, count(bs.id) DESC
     LIMIT 1
-  `)) as unknown as { people_id: number }[];
+  `);
   return ranked[0]?.people_id ?? null;
 }
 

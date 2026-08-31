@@ -1,5 +1,5 @@
 import { and, asc, eq, ilike, inArray, or, sql } from "drizzle-orm";
-import { db } from "../db";
+import { db, execRows } from "../db";
 import { bills, billSponsors, legislators } from "../db/schema";
 import { getBillVoteSummary, type BillVoteSummary } from "./votes";
 
@@ -106,7 +106,7 @@ export async function getHomeStats(): Promise<HomeStats> {
     // Count only the CURRENT member per district (120 House + 50 Senate = 170),
     // matching the /legislators roster. A raw count(*) would include departed
     // members still on file from mid-session turnover and overcount (e.g. 176).
-    db.execute(sql`
+    execRows<{ n: number }>(sql`
       SELECT count(*)::int AS n FROM (
         SELECT l.people_id, row_number() OVER (
           PARTITION BY l.role, l.district
@@ -126,7 +126,7 @@ export async function getHomeStats(): Promise<HomeStats> {
     totalBills: billRows[0]?.total ?? 0,
     introduced: billRows[0]?.introduced ?? 0,
     enacted: billRows[0]?.enacted ?? 0,
-    legislators: Number((legRows[0] as { n?: number } | undefined)?.n ?? 0),
+    legislators: Number(legRows[0]?.n ?? 0),
   };
 }
 
