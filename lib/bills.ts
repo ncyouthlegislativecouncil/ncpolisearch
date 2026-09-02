@@ -1,4 +1,5 @@
 import { and, asc, eq, ilike, inArray, or, sql } from "drizzle-orm";
+import { unstable_cache } from "next/cache";
 import { db, execRows } from "../db";
 import { bills, billSponsors, legislators } from "../db/schema";
 import { getBillVoteSummary, type BillVoteSummary } from "./votes";
@@ -266,7 +267,7 @@ export type BillFilters = {
   pageSize?: number;
 };
 
-export async function getBills(filters: BillFilters) {
+async function getBillsUncached(filters: BillFilters) {
   const { search, chamber, status, party, sort = "newest", page = 1, pageSize = 24 } = filters;
 
   const conditions = [];
@@ -336,3 +337,16 @@ export async function getBills(filters: BillFilters) {
 
   return { bills: rows, total, sponsorMap, page, pageSize };
 }
+
+// /bills is always dynamically rendered (it reads searchParams, which forces
+// that for the whole route in the App Router — even the plain unfiltered
+// view can't be statically cached at the PAGE level). Caching the underlying
+// query result instead means repeat requests for the same filters within the
+// window reuse one result instead of each hitting the database fresh —
+// directly cutting how often Neon's compute endpoint gets woken, independent
+// of the page's own render being dynamic. 60s is short enough that a newly
+// polled bill shows up well within a minute, long enough to absorb bursts of
+// near-simultaneous visitors browsing the same (often unfiltered) view.
+export const getBills = unstable_cache(getBillsUncached, ["bills-list"], {
+  revalidate: 60,
+});

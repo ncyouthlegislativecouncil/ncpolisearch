@@ -1,4 +1,5 @@
 import { and, count, desc, eq, ilike, sql } from "drizzle-orm";
+import { unstable_cache } from "next/cache";
 import { db } from "../db";
 import { legislators, billSponsors, bills } from "../db/schema";
 
@@ -8,7 +9,7 @@ export type LegislatorFilters = {
   search?: string; // matches name
 };
 
-export async function getLegislators(filters: LegislatorFilters = {}) {
+async function getLegislatorsUncached(filters: LegislatorFilters = {}) {
   const conditions = [];
   // Defensive guard: committee "sponsors" from LegiScan (e.g. "Appropriations")
   // carry an empty party. Real legislators always have a party, so exclude the
@@ -52,6 +53,15 @@ export async function getLegislators(filters: LegislatorFilters = {}) {
       sql`lower(regexp_replace(${legislators.name}, '^.*[[:space:]]', '')) ASC, lower(${legislators.name}) ASC`
     );
 }
+
+// Same reasoning as getBills in lib/bills.ts: /legislators reads searchParams
+// so the page itself can never be statically cached, but caching the query
+// result means repeat requests for the same filters within the window skip
+// the database entirely — this one in particular is worth caching since it
+// runs a window-function dedup subquery on every call.
+export const getLegislators = unstable_cache(getLegislatorsUncached, ["legislators-list"], {
+  revalidate: 60,
+});
 
 export type TopSponsor = {
   peopleId: number;
