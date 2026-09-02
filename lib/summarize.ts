@@ -5,6 +5,7 @@ import Anthropic from "@anthropic-ai/sdk";
 import { bills } from "../db/schema";
 import { getBill, getBillText } from "./legiscan";
 import { decodeDocText, condenseBillText } from "./billtext";
+import { TOPICS, isValidTopic } from "./topics";
 
 // ---------------------------------------------------------------------------
 // Shared AI-analysis logic, used by both the CLI backfill (scripts/summarize.ts,
@@ -26,7 +27,8 @@ function userPrompt(title: string, billText: string): string {
 {
   "summary": "2-3 sentence plain language explanation of what this bill does. Neutral, factual, no opinion.",
   "pro_arguments": "2-3 sentences explaining what supporters of this bill argue. What problem does it solve? Who benefits?",
-  "con_arguments": "2-3 sentences explaining what opponents of this bill argue. What are the concerns or tradeoffs?"
+  "con_arguments": "2-3 sentences explaining what opponents of this bill argue. What are the concerns or tradeoffs?",
+  "topic": "The single best-fit category for this bill. Must be EXACTLY one of: ${TOPICS.join(", ")}."
 }
 
 Bill title: ${title}
@@ -37,6 +39,7 @@ type Analysis = {
   summary: string;
   pro_arguments: string;
   con_arguments: string;
+  topic: string;
 };
 
 // Claude is told to return only JSON, but defend against stray prose/code fences
@@ -50,7 +53,9 @@ function parseAnalysis(text: string): Analysis | null {
     if (
       typeof obj.summary === "string" &&
       typeof obj.pro_arguments === "string" &&
-      typeof obj.con_arguments === "string"
+      typeof obj.con_arguments === "string" &&
+      typeof obj.topic === "string" &&
+      isValidTopic(obj.topic)
     ) {
       return obj as Analysis;
     }
@@ -171,6 +176,7 @@ export async function summarizePending(limit = 10): Promise<SummarizeResult> {
             aiSummary: analysis.summary,
             aiProArguments: analysis.pro_arguments,
             aiConArguments: analysis.con_arguments,
+            topic: analysis.topic,
           })
           .where(eq(bills.billId, bill.billId));
         analyzed++;

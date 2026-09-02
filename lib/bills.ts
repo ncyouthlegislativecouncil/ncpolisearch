@@ -262,13 +262,23 @@ export type BillFilters = {
   chamber?: string;
   status?: string;
   party?: string; // "Republican" | "Democrat" | "Bipartisan"
+  topic?: string;
   sort?: string;
   page?: number;
   pageSize?: number;
 };
 
 async function getBillsUncached(filters: BillFilters) {
-  const { search, chamber, status, party, sort = "newest", page = 1, pageSize = 24 } = filters;
+  const {
+    search,
+    chamber,
+    status,
+    party,
+    topic,
+    sort = "newest",
+    page = 1,
+    pageSize = 24,
+  } = filters;
 
   const conditions = [];
   if (search) {
@@ -278,6 +288,7 @@ async function getBillsUncached(filters: BillFilters) {
   }
   if (chamber === "H" || chamber === "S") conditions.push(eq(bills.chamber, chamber));
   if (status) conditions.push(eq(bills.status, status));
+  if (topic) conditions.push(eq(bills.topic, topic));
   // "Republican"/"Democrat" match the bill's primary sponsor's party — the same
   // party BillCard displays as "Introduced by". "Bipartisan" requires REAL
   // cross-party support, not just one token sponsor from the minority side: at

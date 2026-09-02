@@ -285,6 +285,16 @@ export default async function BillDetailPage({
               ·
             </span>
             <span className="font-mono text-xs">2025–2026 Session</span>
+            {bill.topic && (
+              <>
+                <span className="text-white/40" aria-hidden>
+                  ·
+                </span>
+                <span className="rounded bg-skyblue/20 px-2 py-0.5 text-xs font-semibold text-skyblue">
+                  {bill.topic}
+                </span>
+              </>
+            )}
           </div>
         </div>
       </section>

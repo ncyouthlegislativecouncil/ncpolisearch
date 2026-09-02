@@ -9,6 +9,7 @@ type SearchParams = {
   chamber?: string;
   status?: string;
   party?: string;
+  topic?: string;
   sort?: string;
   page?: string;
 };
@@ -19,6 +20,7 @@ function buildQuery(params: SearchParams, page: number) {
   if (params.chamber) next.set("chamber", params.chamber);
   if (params.status) next.set("status", params.status);
   if (params.party) next.set("party", params.party);
+  if (params.topic) next.set("topic", params.topic);
   if (params.sort) next.set("sort", params.sort);
   if (page > 1) next.set("page", String(page));
   const qs = next.toString();
@@ -38,6 +40,7 @@ export default async function BillsPage({
     chamber: searchParams.chamber,
     status: searchParams.status,
     party: searchParams.party,
+    topic: searchParams.topic,
     sort: searchParams.sort,
     page,
     pageSize,
@@ -54,6 +57,7 @@ export default async function BillsPage({
     searchParams.chamber ?? "",
     searchParams.status ?? "",
     searchParams.party ?? "",
+    searchParams.topic ?? "",
     searchParams.sort ?? "",
     page,
   ].join("|");

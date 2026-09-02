@@ -22,6 +22,13 @@
       "when": 1782251663866,
       "tag": "0002_lovely_diamondback",
       "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "7",
+      "when": 1788382409866,
+      "tag": "0003_spotty_rockslide",
+      "breakpoints": true
     }
   ]
 }

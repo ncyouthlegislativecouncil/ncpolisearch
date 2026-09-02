@@ -10,6 +10,7 @@ type Bill = {
   lastAction: string | null;
   lastActionDate: string | null;
   aiSummary?: string | null;
+  topic?: string | null;
 };
 
 export default function BillCard({ bill, sponsor }: { bill: Bill; sponsor?: string }) {
@@ -42,6 +43,10 @@ export default function BillCard({ bill, sponsor }: { bill: Bill; sponsor?: stri
         <p className="mt-3 line-clamp-3 text-sm leading-relaxed text-gray-600">
           {bill.aiSummary}
         </p>
+      )}
+
+      {bill.topic && (
+        <p className="mt-2 text-xs font-medium text-skyblue">{bill.topic}</p>
       )}
 
       <div className="mt-auto flex items-center justify-between pt-4 text-xs text-navymuted">

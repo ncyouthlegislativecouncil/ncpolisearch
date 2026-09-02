@@ -3,6 +3,7 @@
 import { useRouter, useSearchParams } from "next/navigation";
 import { useState } from "react";
 import { STATUS_OPTIONS } from "../lib/status";
+import { TOPICS } from "../lib/topics";
 import { useDebouncedEffect } from "../lib/useDebouncedEffect";
 
 export default function FilterBar() {
@@ -89,6 +90,19 @@ export default function FilterBar() {
         <option value="">All Parties</option>
         <option value="Republican">Republican</option>
         <option value="Democrat">Democrat</option>
+      </select>
+
+      <select
+        value={params.get("topic") ?? ""}
+        onChange={(e) => update("topic", e.target.value)}
+        className={selectClass}
+      >
+        <option value="">All Topics</option>
+        {TOPICS.map((t) => (
+          <option key={t} value={t}>
+            {t}
+          </option>
+        ))}
       </select>
 
       <select

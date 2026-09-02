@@ -14,6 +14,7 @@
     "poll": "npx tsx scripts/poll.ts",
     "backfill-votes": "npx tsx scripts/backfill-votes.ts",
     "summarize": "npx tsx scripts/summarize.ts",
+    "backfill-topics": "npx tsx scripts/backfill-topics.ts",
     "test-api": "tsx --env-file=.env.local scripts/test-api.ts"
   },
   "dependencies": {

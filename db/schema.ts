@@ -24,6 +24,9 @@ export const bills = pgTable("bills", {
   aiSummary: text("ai_summary"),
   aiProArguments: text("ai_pro_arguments"),
   aiConArguments: text("ai_con_arguments"),
+  // One of TOPICS (lib/topics.ts), assigned by the same AI call as the
+  // summary. Powers the topic filter on /bills.
+  topic: text("topic"),
   createdAt: timestamp("created_at").defaultNow(),
 });
 
