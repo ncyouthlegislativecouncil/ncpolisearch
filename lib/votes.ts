@@ -1,4 +1,5 @@
 import { eq, inArray, sql } from "drizzle-orm";
+import { unstable_cache } from "next/cache";
 import { db, execRows } from "../db";
 import { bills, votes, voteDetail } from "../db/schema";
 import { chamberLabel } from "./status";
@@ -29,7 +30,10 @@ export type LegislatorVoteSummary = {
 };
 
 // Aggregate counts for the summary strip at the top of the voting record.
-export async function getLegislatorVoteSummary(
+// Cached for the same reason as getLegislator/getLegislatorBills in
+// lib/legislators.ts: /legislators/[id] is forced dynamic by the vote-record
+// searchParam, so this ran fresh on every profile view.
+async function getLegislatorVoteSummaryUncached(
   peopleId: number
 ): Promise<LegislatorVoteSummary> {
   const rows = await db
@@ -57,8 +61,14 @@ export async function getLegislatorVoteSummary(
   };
 }
 
+export const getLegislatorVoteSummary = unstable_cache(
+  getLegislatorVoteSummaryUncached,
+  ["legislator-vote-summary"],
+  { revalidate: 3600 }
+);
+
 // A page of this legislator's votes, most recent first.
-export async function getLegislatorVotes(
+async function getLegislatorVotesUncached(
   peopleId: number,
   page = 1,
   pageSize = 20
@@ -98,10 +108,16 @@ export async function getLegislatorVotes(
   return { rows, total: countRows[0]?.n ?? 0, page, pageSize };
 }
 
+export const getLegislatorVotes = unstable_cache(
+  getLegislatorVotesUncached,
+  ["legislator-votes"],
+  { revalidate: 3600 }
+);
+
 // Party unity: the share of this legislator's decisive (Yea/Nay) votes that
 // side with the majority of their own party on each roll call. Returns a 0..1
 // fraction, or null when there are no decisive party-line votes on record.
-export async function getPartyUnity(peopleId: number): Promise<number | null> {
+async function getPartyUnityUncached(peopleId: number): Promise<number | null> {
   const rows = await execRows<{ party_line: number; total_cast: number }>(sql`
     WITH party_majority AS (
       SELECT roll_call_id, party,
@@ -128,6 +144,10 @@ export async function getPartyUnity(peopleId: number): Promise<number | null> {
   if (!r || r.total_cast === 0) return null;
   return r.party_line / r.total_cast;
 }
+
+export const getPartyUnity = unstable_cache(getPartyUnityUncached, ["party-unity"], {
+  revalidate: 3600,
+});
 
 // Compact yea/nay summary for the compare page. Uses the most recent roll
 // call as the representative vote, since that's the bill's latest standing.

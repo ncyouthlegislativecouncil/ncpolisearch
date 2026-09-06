@@ -58,9 +58,10 @@ async function getLegislatorsUncached(filters: LegislatorFilters = {}) {
 // so the page itself can never be statically cached, but caching the query
 // result means repeat requests for the same filters within the window skip
 // the database entirely — this one in particular is worth caching since it
-// runs a window-function dedup subquery on every call.
+// runs a window-function dedup subquery on every call. Roster data changes at
+// most once a day (the cron poll), so a 1hr window costs no real freshness.
 export const getLegislators = unstable_cache(getLegislatorsUncached, ["legislators-list"], {
-  revalidate: 60,
+  revalidate: 3600,
 });
 
 export type TopSponsor = {
@@ -139,7 +140,7 @@ export async function getTopSponsorsOverall(
     .limit(limit);
 }
 
-export async function getLegislator(peopleId: number) {
+async function getLegislatorUncached(peopleId: number) {
   const rows = await db
     .select()
     .from(legislators)
@@ -148,7 +149,15 @@ export async function getLegislator(peopleId: number) {
   return rows[0] ?? null;
 }
 
-export async function getLegislatorBills(peopleId: number) {
+// /legislators/[id] reads searchParams (vote-record pagination), which forces
+// the whole page dynamic the same way /legislators is — so every profile
+// view hit the database fresh (this, plus 3 more queries in lib/votes.ts run
+// per view). Same fix as getLegislators above: cache the query, not the page.
+export const getLegislator = unstable_cache(getLegislatorUncached, ["legislator-detail"], {
+  revalidate: 3600,
+});
+
+async function getLegislatorBillsUncached(peopleId: number) {
   const rows = await db
     .select({
       billId: bills.billId,
@@ -171,3 +180,9 @@ export async function getLegislatorBills(peopleId: number) {
     cosponsored: rows.filter((r) => !r.isPrimary),
   };
 }
+
+export const getLegislatorBills = unstable_cache(
+  getLegislatorBillsUncached,
+  ["legislator-bills"],
+  { revalidate: 3600 }
+);

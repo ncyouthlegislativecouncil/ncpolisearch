@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 import Link from "next/link";
 import { notFound } from "next/navigation";
-import { getBill, getBillSponsors } from "../../../lib/bills";
+import { getBill, getBillSponsors, getAllBillIds } from "../../../lib/bills";
 import { getBillVotes, buildVoteBreakdown } from "../../../lib/votes";
 import { chamberLabel, statusInfo } from "../../../lib/status";
 import {
@@ -13,6 +13,19 @@ import LegislatorAvatar from "../../../components/LegislatorAvatar";
 import ShareBar from "../../../components/ShareBar";
 import BillArguments from "../../../components/BillArguments";
 import BillVoteBreakdown from "../../../components/BillVoteBreakdown";
+
+// Unlike /bills and /legislators, this page doesn't read searchParams, so it
+// CAN be fully static instead of just data-cached. Pre-building every bill id
+// at deploy time means normal visits are served straight from Vercel's CDN
+// with zero database contact — the strongest form of the fix applied to the
+// query-level caches elsewhere in lib/. Data only actually changes once a day
+// (the cron poll), so the 24hr revalidate window costs no real freshness.
+export async function generateStaticParams() {
+  const ids = await getAllBillIds();
+  return ids.map((id) => ({ id: String(id) }));
+}
+
+export const revalidate = 86400;
 
 // FEATURE 4 — Open Graph / social preview metadata for shared bill links.
 export async function generateMetadata({

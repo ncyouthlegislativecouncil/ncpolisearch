@@ -9,6 +9,14 @@ export async function getBillCount(): Promise<number> {
   return rows[0]?.n ?? 0;
 }
 
+// Every bill id, for pre-building all /bills/[id] pages as static HTML at
+// build time (see generateStaticParams in that page) instead of letting them
+// get generated one-by-one from scattered visitor traffic after each deploy.
+export async function getAllBillIds(): Promise<number[]> {
+  const rows = await db.select({ billId: bills.billId }).from(bills);
+  return rows.map((r) => r.billId);
+}
+
 export async function getRecentBills(limit = 6) {
   return db
     .select()
@@ -227,7 +235,10 @@ export type CompareBill = {
   vote: BillVoteSummary | null;
 };
 
-export async function getBillForCompare(billId: number): Promise<CompareBill | null> {
+// /compare reads searchParams (the two bill ids being compared), which forces
+// it dynamic the same way /bills does — so every view re-ran this fresh.
+// Same fix as getBills above: cache the query result, not the page.
+async function getBillForCompareUncached(billId: number): Promise<CompareBill | null> {
   const bill = await getBill(billId);
   if (!bill) return null;
 
@@ -256,6 +267,12 @@ export async function getBillForCompare(billId: number): Promise<CompareBill | n
     vote,
   };
 }
+
+export const getBillForCompare = unstable_cache(
+  getBillForCompareUncached,
+  ["bill-compare"],
+  { revalidate: 3600 }
+);
 
 export type BillFilters = {
   search?: string;
@@ -355,9 +372,10 @@ async function getBillsUncached(filters: BillFilters) {
 // query result instead means repeat requests for the same filters within the
 // window reuse one result instead of each hitting the database fresh —
 // directly cutting how often Neon's compute endpoint gets woken, independent
-// of the page's own render being dynamic. 60s is short enough that a newly
-// polled bill shows up well within a minute, long enough to absorb bursts of
-// near-simultaneous visitors browsing the same (often unfiltered) view.
+// of the page's own render being dynamic. The underlying data only actually
+// changes once a day (the cron poll), so there's no freshness benefit to a
+// short window — 1hr cuts wake-events ~60x versus the original 60s with no
+// perceptible staleness.
 export const getBills = unstable_cache(getBillsUncached, ["bills-list"], {
-  revalidate: 60,
+  revalidate: 3600,
 });
