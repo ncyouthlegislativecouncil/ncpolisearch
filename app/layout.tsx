@@ -1,4 +1,4 @@
-import type { Metadata } from "next";
+import type { Metadata, Viewport } from "next";
 import { IBM_Plex_Sans, IBM_Plex_Mono, Playfair_Display } from "next/font/google";
 import "./globals.css";
 import { Analytics } from "@vercel/analytics/next";
@@ -6,6 +6,7 @@ import { SpeedInsights } from "@vercel/speed-insights/next";
 import Navbar from "../components/Navbar";
 import Footer from "../components/Footer";
 import PageTransition from "../components/PageTransition";
+import RegisterServiceWorker from "../components/RegisterServiceWorker";
 
 // Design system fonts: Playfair Display (serif headlines), IBM Plex Sans (body
 // & UI), IBM Plex Mono (bill numbers, data, section labels).
@@ -51,6 +52,21 @@ export const metadata: Metadata = {
       "Plain-language summaries of every bill in the NC General Assembly. Nonpartisan, free, and built by NC Youth Legislative Council.",
     images: ["/og-image.png"],
   },
+  // PWA — lets visitors "Add to Home Screen" / "Install app" so it opens
+  // full-screen with its own icon, no browser bar, like a native app.
+  manifest: "/manifest.json",
+  icons: {
+    apple: "/icons/apple-touch-icon.png",
+  },
+  appleWebApp: {
+    capable: true,
+    statusBarStyle: "default",
+    title: "NCPoliSearch",
+  },
+};
+
+export const viewport: Viewport = {
+  themeColor: "#1a1f8f",
 };
 
 export default function RootLayout({
@@ -68,6 +84,7 @@ export default function RootLayout({
         <Footer />
         <Analytics />
         <SpeedInsights />
+        <RegisterServiceWorker />
       </body>
     </html>
   );
