@@ -1,5 +1,6 @@
 import Link from "next/link";
 import { notFound } from "next/navigation";
+import BackLink from "../../../components/BackLink";
 import CollapsibleBills from "../../../components/CollapsibleBills";
 import VotingRecord from "../../../components/VotingRecord";
 import LegislatorAvatar from "../../../components/LegislatorAvatar";
@@ -73,9 +74,7 @@ export default async function LegislatorProfilePage({
 
   return (
     <main className="mx-auto max-w-[1600px] px-6 py-10">
-      <Link href="/legislators" className="text-sm text-navylight hover:text-skyblue">
-        ← Back to all legislators
-      </Link>
+      <BackLink fallbackHref="/legislators" label="← Back to all legislators" />
 
       {/* Profile header. Mobile and desktop get genuinely different layouts
           (not just resized versions of each other) — cramming the same

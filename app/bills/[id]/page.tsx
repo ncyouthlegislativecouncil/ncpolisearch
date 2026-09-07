@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import { getBill, getBillSponsors, getAllBillIds } from "../../../lib/bills";
+import BackLink from "../../../components/BackLink";
 import { getBillVotes, buildVoteBreakdown } from "../../../lib/votes";
 import { chamberLabel, statusInfo } from "../../../lib/status";
 import {
@@ -248,9 +249,7 @@ export default async function BillDetailPage({
 
   return (
     <main className="mx-auto max-w-[1600px] px-6 py-10">
-      <Link href="/bills" className="text-sm text-navylight hover:text-skyblue">
-        ← Back to all bills
-      </Link>
+      <BackLink fallbackHref="/bills" label="← Back to all bills" />
 
       {/* BILL HEADER — full-width navy banner. */}
       <section className="mt-4 overflow-hidden rounded-lg border border-gray-200 shadow-sm">
