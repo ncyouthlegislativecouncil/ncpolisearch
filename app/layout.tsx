@@ -32,7 +32,7 @@ const playfair = Playfair_Display({
 export const metadata: Metadata = {
   // Resolves relative OG/Twitter image paths (e.g. "/og-image.png") to absolute
   // URLs, which social scrapers (Instagram, WhatsApp, iMessage, etc.) require.
-  metadataBase: new URL("https://ncpolisearch.vercel.app"),
+  metadataBase: new URL("https://www.ncpolisearch.com"),
   title: "NCPoliSearch — NC Legislation Made Simple",
   description:
     "Plain-language summaries of every bill in the NC General Assembly. Nonpartisan, free, and built by NC Youth Legislative Council.",
@@ -41,7 +41,7 @@ export const metadata: Metadata = {
     description:
       "Plain-language summaries of every bill in the NC General Assembly. Nonpartisan, free, and built by NC Youth Legislative Council.",
     images: ["/og-image.png"],
-    url: "https://ncpolisearch.vercel.app",
+    url: "https://www.ncpolisearch.com",
     siteName: "NCPoliSearch",
     type: "website",
   },

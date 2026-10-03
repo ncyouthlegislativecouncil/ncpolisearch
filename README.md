@@ -1,6 +1,6 @@
 # NCPoliSearch
 
-Nonpartisan, plain-language tracker for North Carolina General Assembly legislation. Built for the [NC Youth Legislative Council](https://ncylc.org). Live at **https://ncpolisearch.vercel.app**.
+Nonpartisan, plain-language tracker for North Carolina General Assembly legislation. Built for the [NC Youth Legislative Council](https://ncylc.org). Live at **https://www.ncpolisearch.com**.
 
 ## Stack
 
