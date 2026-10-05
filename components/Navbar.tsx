@@ -19,6 +19,7 @@ const NAV_LINKS = [
   { href: "/map", label: "District Map" },
   { href: "/ballot", label: "November Ballot" },
   { href: "/compare", label: "Compare" },
+  { href: "/write", label: "Write a Legislator" },
   { href: "/about", label: "About" },
 ];
 
@@ -53,7 +54,7 @@ export default function Navbar() {
         </Link>
 
         {/* Desktop links — hidden on small screens. */}
-        <div className="hidden items-center gap-7 text-sm font-medium sm:flex">
+        <div className="hidden items-center gap-5 whitespace-nowrap text-sm font-medium lg:flex xl:gap-7">
           {NAV_LINKS.map((link) => (
             <Link
               key={link.href}
@@ -74,7 +75,7 @@ export default function Navbar() {
           onClick={() => setOpen((v) => !v)}
           aria-label={open ? "Close menu" : "Open menu"}
           aria-expanded={open}
-          className="-mr-2 flex h-10 w-10 items-center justify-center rounded-md text-skyblue transition-colors hover:text-white sm:hidden"
+          className="-mr-2 flex h-10 w-10 items-center justify-center rounded-md text-skyblue transition-colors hover:text-white lg:hidden"
         >
           {open ? (
             <svg className="h-6 w-6" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
@@ -97,7 +98,7 @@ export default function Navbar() {
             animate={{ height: "auto", opacity: 1 }}
             exit={{ height: 0, opacity: 0 }}
             transition={{ duration: 0.2, ease: "easeOut" }}
-            className="overflow-hidden border-t border-white/10 sm:hidden"
+            className="overflow-hidden border-t border-white/10 lg:hidden"
           >
             <div className="mx-auto flex max-w-[1600px] flex-col px-4 py-2">
               {NAV_LINKS.map((link) => (

@@ -9,7 +9,7 @@ const BASE = "https://www.ncpolisearch.com";
 export const revalidate = 86400;
 
 export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
-  const pages = ["", "/bills", "/legislators", "/map", "/ballot", "/compare", "/about"];
+  const pages = ["", "/bills", "/legislators", "/map", "/ballot", "/compare", "/write", "/about"];
   // Falls back to just the static pages if the DB is unreachable at build time,
   // rather than failing the whole deploy.
   const billIds = await safeQuery(() => getAllBillIds(), [] as number[], "sitemap:getAllBillIds");
