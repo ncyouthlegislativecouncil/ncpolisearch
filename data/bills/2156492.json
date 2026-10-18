@@ -8,11 +8,11 @@
   "lastAction": "Ch. SL 2026-55",
   "lastActionDate": "2026-08-06",
   "url": "https://legiscan.com/NC/bill/S1092/2025",
-  "aiSummary": null,
-  "aiProArguments": null,
-  "aiConArguments": null,
-  "topic": null,
-  "textLength": 0,
+  "aiSummary": "This bill makes appointments to various state boards, commissions, and community college trustee positions, as recommended by the President Pro Tempore of the Senate and the Speaker of the House of Representatives. The appointments span numerous agencies including education, professional licensing, transportation, healthcare, and other state functions, with most terms expiring in 2028-2030.",
+  "aiProArguments": "Supporters argue these appointments are necessary to fill vacancies on important state boards and commissions that oversee education, professional licensing, transportation, and other essential functions. The bill ensures continuity of leadership across North Carolina's community colleges and state agencies, allowing these organizations to operate with full boards and qualified personnel making policy decisions.",
+  "aiConArguments": "Critics may contend that the bill concentrates significant appointment power in the hands of two legislative leaders without extensive public transparency or detailed information about appointees' qualifications. Opponents might argue that having so many appointments in a single bill limits individual scrutiny of each appointment and raises questions about whether these selections truly reflect diverse representation across the state.",
+  "topic": "Local Government",
+  "textLength": 29390,
   "createdAt": "2026-07-28T11:03:45.973Z",
   "sponsors": [
     {"peopleId":12031,"name":"William Rabon","party":"R","isPrimary":true}

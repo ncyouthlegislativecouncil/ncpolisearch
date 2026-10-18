@@ -8,11 +8,11 @@
   "lastAction": "Ch. Res 2026-6",
   "lastActionDate": "2026-08-06",
   "url": "https://legiscan.com/NC/bill/S1091/2025",
-  "aiSummary": null,
-  "aiProArguments": null,
-  "aiConArguments": null,
-  "topic": null,
-  "textLength": 0,
+  "aiSummary": "This resolution sets a schedule for the 2025 North Carolina legislative session to adjourn and reconvene on specific dates between August 2026 and December 2026, with the session ending permanently on December 18, 2026. During each reconvening period, the General Assembly can only consider limited matters such as gubernatorial vetoes, appointments, election laws, constitutional amendments, and conference reports from bills started before August 6, 2026.",
+  "aiProArguments": "Supporters argue this structured adjournment schedule allows legislators to work on constituent issues and committee work during breaks while maintaining flexibility to handle urgent matters like veto overrides and appointments. The defined dates provide predictability for the legislative calendar and allow time for committees to review budget matters and prepare reports between sessions.",
+  "aiConArguments": "Critics may contend that the restrictions on what can be considered during reconvening periods limits the legislature's ability to respond to unexpected problems or urgent legislation that arises after August 6, 2026. Some might argue that the fragmented schedule with multiple adjournments and reconvening dates extends the session unnecessarily and could reduce legislative productivity.",
+  "topic": "Other / General Government",
+  "textLength": 12442,
   "createdAt": "2026-07-28T11:03:46.349Z",
   "sponsors": [
     {"peopleId":12031,"name":"William Rabon","party":"R","isPrimary":true}
