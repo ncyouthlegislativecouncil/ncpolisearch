@@ -1,0 +1,21 @@
+{
+  "billId": 1985362,
+  "billNumber": "H233",
+  "title": "Funds for Town of Milton",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "68ec9b9d9d45fc37f9a322c6e8ae957f",
+  "lastAction": "Re-ref Com On Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-03-03",
+  "url": "https://legiscan.com/NC/bill/H233/2025",
+  "aiSummary": "This bill appropriates $13,215 in state funds to the Town of Milton during the 2025-2026 fiscal year to repair the town's wastewater pump station. The funds are designated as a one-time grant and become effective July 1, 2025.",
+  "aiProArguments": "Supporters argue this targeted funding helps a small town address critical infrastructure needs that protect public health and environmental quality. The wastewater pump station is essential infrastructure, and state assistance can help municipalities that lack sufficient local revenue to cover major repairs on their own.",
+  "aiConArguments": "Opponents may question whether state general funds should be used for individual town projects when many communities have similar infrastructure needs, and whether the town should prioritize this repair through local budgets or regional cooperation. They might also ask why this specific project merits state funding compared to other infrastructure priorities across North Carolina.",
+  "topic": "Taxes & Budget",
+  "textLength": 925,
+  "createdAt": "2026-06-23T02:45:35.336Z",
+  "sponsors": [
+    {"peopleId":24214,"name":"Renee Price","party":"D","isPrimary":true}
+  ],
+  "rollCalls": []
+}

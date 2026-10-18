@@ -1,0 +1,22 @@
+{
+  "billId": 2014043,
+  "billNumber": "S731",
+  "title": "County Service Districts/Research & URSD",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "1028b81e1626ce62702e472c79c8f38a",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-26",
+  "url": "https://legiscan.com/NC/bill/S731/2025",
+  "aiSummary": "This bill modifies North Carolina laws governing Research and Production Service Districts (RPSDs) and Urban Research Service Districts (URSDs)—special taxing districts that allow counties to provide enhanced services to specific areas like research parks. The changes allow these districts to span multiple counties, increase tax rate limits from 10 cents to 20 cents per $100 of property value, and give park developers greater authority to contract for services and own public infrastructure like streets and utilities.",
+  "aiProArguments": "Supporters argue these changes make it easier to develop regional research parks that cross county lines, removing bureaucratic barriers that could slow economic development. They contend that allowing developers to own and manage infrastructure like roads and utilities reduces costs and improves efficiency, while the higher tax rate limit (20 cents instead of 10 cents) provides necessary funding for districts with significant infrastructure needs. Proponents believe this attracts investment and creates jobs in research and technology sectors.",
+  "aiConArguments": "Opponents worry that giving private developers authority to own and manage public infrastructure like streets and parks blurs the line between public and private control. They express concern that the doubled tax rate limit could burden property owners in these districts with substantially higher taxes. Critics also question whether multi-county districts adequately protect the interests of less-developed counties and whether developer-controlled advisory committees sufficiently represent the public interest versus developer profits.",
+  "topic": "Local Government",
+  "textLength": 14990,
+  "createdAt": "2026-06-23T03:10:23.354Z",
+  "sponsors": [
+    {"peopleId":21633,"name":"Natalie Murdock","party":"D","isPrimary":true},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

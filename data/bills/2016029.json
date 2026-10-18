@@ -1,0 +1,28 @@
+{
+  "billId": 2016029,
+  "billNumber": "H573",
+  "title": "Remove Testing Requirement for Teacher Lisc",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "13cc8203bd9ca1da4c500829a4c7b6fa",
+  "lastAction": "Serial Referral To State and Local Government Stricken",
+  "lastActionDate": "2025-04-17",
+  "url": "https://legiscan.com/NC/bill/H573/2025",
+  "aiSummary": "This bill removes the requirement that teacher license applicants in North Carolina pass a standardized examination. It repeals existing testing requirements and prohibits the State Board of Education from adopting new rules that would require standardized tests for teacher licensure.",
+  "aiProArguments": "Supporters argue that standardized tests create barriers to teacher licensure that don't necessarily measure teaching ability or classroom effectiveness. They contend this change could help address teacher shortages by making it easier for qualified candidates to become licensed, particularly in hard-to-fill positions, and could expand opportunities for alternative pathway teachers and career-changers to enter the profession.",
+  "aiConArguments": "Opponents worry that removing testing requirements could lower teaching standards and quality by eliminating an objective measure of subject matter knowledge and teaching competency. They argue that standardized exams help ensure teachers meet baseline qualifications and that removing this requirement could disadvantage students, particularly in low-income schools that may struggle to hire highly qualified educators.",
+  "topic": "Education",
+  "textLength": 2853,
+  "createdAt": "2026-06-23T02:54:53.202Z",
+  "sponsors": [
+    {"peopleId":2049,"name":"Patricia Cotham","party":"R","isPrimary":true},
+    {"peopleId":25857,"name":"Richard Carver","party":"R","isPrimary":true},
+    {"peopleId":24197,"name":"Brian Biggs","party":"R","isPrimary":false},
+    {"peopleId":2077,"name":"Mary Harrison","party":"D","isPrimary":false},
+    {"peopleId":24206,"name":"Frances Jackson","party":"D","isPrimary":false},
+    {"peopleId":21377,"name":"Jake Johnson","party":"R","isPrimary":false},
+    {"peopleId":21375,"name":"Jeffrey McNeely","party":"R","isPrimary":false},
+    {"peopleId":24219,"name":"Bill Ward","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

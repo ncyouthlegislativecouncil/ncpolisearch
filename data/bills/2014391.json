@@ -1,0 +1,21 @@
+{
+  "billId": 2014391,
+  "billNumber": "S613",
+  "title": "Number of Medicaid Standard Plan Contracts",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "8e7978ef5a953bb16377f1e3b18ba05d",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-26",
+  "url": "https://legiscan.com/NC/bill/S613/2025",
+  "aiSummary": "This bill changes how many health insurance contracts North Carolina awards to manage Medicaid coverage. For future contract cycles after the initial round, it reduces the number of regional contracts available to Provider-Led Entities (PLEs) from up to 12 down to up to 4, while keeping 4 statewide contracts for commercial insurance plans. It also adds a rule that if fewer than 4 PLEs apply, all qualified applicants get a contract; if 4 or more apply, only 4 contracts are awarded.",
+  "aiProArguments": "Supporters argue this streamlines the Medicaid managed care system by reducing administrative complexity and the number of insurance plans people must choose from. They contend that fewer, larger regional contracts may improve coordination, reduce overhead costs, and make it easier for the state to manage the program efficiently while still allowing competition among qualified providers.",
+  "aiConArguments": "Opponents may worry that cutting regional contracts from 12 to 4 reduces competition and options for patients, potentially giving remaining insurers more market power to raise prices or limit provider networks. They could also argue that limiting PLE opportunities may harm community-based organizations that serve local populations and understand regional healthcare needs better than large commercial plans.",
+  "topic": "Healthcare",
+  "textLength": 4028,
+  "createdAt": "2026-06-23T03:09:20.343Z",
+  "sponsors": [
+    {"peopleId":24225,"name":"Benton Sawrey","party":"R","isPrimary":true}
+  ],
+  "rollCalls": []
+}

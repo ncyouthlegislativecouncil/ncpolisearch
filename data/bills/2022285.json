@@ -1,0 +1,28 @@
+{
+  "billId": 2022285,
+  "billNumber": "H893",
+  "title": "Chiropractic Investigatory Costs",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "59dca57ea6114ff15f8befd8cd89dbb9",
+  "lastAction": "Ref To Com On Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-04-14",
+  "url": "https://legiscan.com/NC/bill/H893/2025",
+  "aiSummary": "This bill limits the costs that North Carolina's State Board of Chiropractic Examiners can charge chiropractors during disciplinary proceedings to $1,000 for settled cases or $3,000 for cases with full hearings (except in cases of bad faith defense). The bill also requires the Board to keep accurate meeting minutes with specific details and to provide itemized cost descriptions to chiropractors, with refunds if overcharged.",
+  "aiProArguments": "Supporters argue this bill protects chiropractors from excessive fees charged during investigations and disciplinary actions, which can be financially burdensome even when allegations are minor. Proponents also contend that the transparency requirements—detailed minutes and itemized cost descriptions—increase accountability and ensure the Board operates fairly and openly with public funds.",
+  "aiConArguments": "Opponents may argue that cost caps could limit the Board's ability to fully investigate complaints and protect public health by covering legitimate investigative and legal expenses. They might also contend that strict cost limitations could reduce resources available for proper disciplinary proceedings, potentially affecting the thoroughness of investigations into chiropractor misconduct.",
+  "topic": "Business & Labor",
+  "textLength": 5253,
+  "createdAt": "2026-06-23T02:59:02.905Z",
+  "sponsors": [
+    {"peopleId":25845,"name":"Grant Campbell","party":"R","isPrimary":true},
+    {"peopleId":25848,"name":"Cody Huneycutt","party":"R","isPrimary":true},
+    {"peopleId":25856,"name":"Paul Scott","party":"R","isPrimary":true},
+    {"peopleId":18451,"name":"Mary Belk","party":"D","isPrimary":false},
+    {"peopleId":11848,"name":"James Dixon","party":"R","isPrimary":false},
+    {"peopleId":2077,"name":"Mary Harrison","party":"D","isPrimary":false},
+    {"peopleId":24215,"name":"Timothy Reeder","party":"R","isPrimary":false},
+    {"peopleId":24219,"name":"Bill Ward","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

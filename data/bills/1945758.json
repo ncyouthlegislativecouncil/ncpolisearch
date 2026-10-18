@@ -1,0 +1,30 @@
+{
+  "billId": 1945758,
+  "billNumber": "S14",
+  "title": "Constitutional Amendment/Repeal Literacy Test",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "97cca310771d9118664d92429b232ff8",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-01-30",
+  "url": "https://legiscan.com/NC/bill/S14/2025",
+  "aiSummary": "This bill proposes a constitutional amendment to remove North Carolina's literacy test requirement for voter registration, which currently requires people to read and write any section of the Constitution in English. The amendment would be submitted to voters in November 2026, and if approved by a majority, would eliminate this registration requirement.",
+  "aiProArguments": "Supporters argue that literacy tests have a well-documented history of being used to discriminate against Black voters and other minorities during and after the Jim Crow era. They contend that removing this outdated provision modernizes the state constitution and removes a vestigial tool of discrimination, even if it is not currently enforced. Advocates also note that federal law already protects voting access regardless of literacy level.",
+  "aiConArguments": "Opponents may argue that the literacy test provision, even if not enforced, serves as a constitutional statement about voting qualifications. Some could contend that removing any voting-related qualification from the constitution represents a change to voter eligibility standards. Others might question whether removing an unenforced provision is necessary or if the focus should be on other election matters.",
+  "topic": "Elections & Voting",
+  "textLength": 1981,
+  "createdAt": "2026-06-23T03:04:10.423Z",
+  "sponsors": [
+    {"peopleId":20513,"name":"Bobby Hanig","party":"R","isPrimary":true},
+    {"peopleId":11937,"name":"Ralph Hise","party":"R","isPrimary":true},
+    {"peopleId":11858,"name":"Timothy Moffitt","party":"R","isPrimary":true},
+    {"peopleId":18465,"name":"Danny Britt","party":"R","isPrimary":false},
+    {"peopleId":11853,"name":"Mark Hollo","party":"R","isPrimary":false},
+    {"peopleId":17504,"name":"Michael Lee","party":"R","isPrimary":false},
+    {"peopleId":17457,"name":"Paul Lowe","party":"D","isPrimary":false},
+    {"peopleId":12032,"name":"Gladys Robinson","party":"D","isPrimary":false},
+    {"peopleId":11862,"name":"Norman Sanderson","party":"R","isPrimary":false},
+    {"peopleId":19669,"name":"Vickie Sawyer","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

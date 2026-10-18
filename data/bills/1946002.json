@@ -1,0 +1,21 @@
+{
+  "billId": 1946002,
+  "billNumber": "S25",
+  "title": "45th Senatorial District Local Act-1",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "1a3aafdd9fdddaed081e42d2c15b4559",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-01-30",
+  "url": "https://legiscan.com/NC/bill/S25/2025",
+  "aiSummary": "This is a local bill that applies specifically to North Carolina's 45th Senatorial District. The bill text does not contain specific substantive provisions—it only establishes that any measures included would apply only to that district and would take effect upon becoming law.",
+  "aiProArguments": "Supporters of local bills argue they allow the General Assembly to address unique, district-specific needs that may not require statewide legislation. Local bills can provide targeted solutions for particular communities without affecting the entire state, making government more efficient and responsive to regional concerns.",
+  "aiConArguments": "Opponents of local bills raise concerns about transparency and equal treatment, arguing that legislation affecting some citizens but not others may lack sufficient public scrutiny. Additionally, without seeing the specific provisions of this bill, it is unclear what issues it addresses or whether similar districts with comparable needs receive equal treatment.",
+  "topic": "Local Government",
+  "textLength": 505,
+  "createdAt": "2026-06-23T03:04:16.401Z",
+  "sponsors": [
+    {"peopleId":11853,"name":"Mark Hollo","party":"R","isPrimary":true}
+  ],
+  "rollCalls": []
+}

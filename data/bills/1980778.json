@@ -1,0 +1,21 @@
+{
+  "billId": 1980778,
+  "billNumber": "S148",
+  "title": "22nd Senatorial District Local Act-1",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "fa18a68ea9927646acec50347fc8ffdd",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-02-25",
+  "url": "https://legiscan.com/NC/bill/S148/2025",
+  "aiSummary": "This is a local bill that applies only to North Carolina's 22nd Senatorial District. The bill text does not specify what changes or policies it implements—it only establishes that whatever provisions follow would apply to that district and become effective upon passage.",
+  "aiProArguments": "Supporters of local bills argue they allow the legislature to address specific, localized needs of particular districts without affecting the entire state. This targeted approach enables solutions tailored to a region's unique circumstances and constituent concerns.",
+  "aiConArguments": "Opponents of local bills raise concerns about transparency and equal treatment, arguing that district-specific legislation can be difficult for the public to track and may create inconsistent policies across the state. Additionally, without knowing the specific provisions, it is unclear what impacts this bill would have on residents of the 22nd Senatorial District.",
+  "topic": "Local Government",
+  "textLength": 510,
+  "createdAt": "2026-06-23T03:05:19.739Z",
+  "sponsors": [
+    {"peopleId":25858,"name":"Sophia Chitlik","party":"D","isPrimary":true}
+  ],
+  "rollCalls": []
+}

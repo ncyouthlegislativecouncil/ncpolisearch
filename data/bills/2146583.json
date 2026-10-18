@@ -1,0 +1,25 @@
+{
+  "billId": 2146583,
+  "billNumber": "S940",
+  "title": "2026 Appropriations Act",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "e306d966b0a7b7d56c538c5feab987ae",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2026-04-30",
+  "url": "https://legiscan.com/NC/bill/S940/2025",
+  "aiSummary": "This bill appropriates state funding for the normal operations of North Carolina state agencies, departments, and institutions for the 2026-2027 fiscal year. It allocates money from the General Fund, Highway Fund, Highway Trust Fund, and federal block grants to cover ongoing government services and programs.",
+  "aiProArguments": "Supporters argue this bill is necessary to maintain essential state services that citizens depend on, including education, transportation, healthcare, and public safety. The appropriations ensure government agencies can continue operating and serving North Carolina residents without interruption during the fiscal year.",
+  "aiConArguments": "Opponents may argue about the size of overall spending, priorities within the budget, or whether specific agencies receive too much or too little funding. Some may question whether all appropriated money is spent efficiently or whether certain programs deserve more or less resources than allocated.",
+  "topic": "Taxes & Budget",
+  "textLength": 3883,
+  "createdAt": "2026-06-23T03:12:02.218Z",
+  "sponsors": [
+    {"peopleId":11937,"name":"Ralph Hise","party":"R","isPrimary":true},
+    {"peopleId":12009,"name":"William Jackson","party":"R","isPrimary":true},
+    {"peopleId":17504,"name":"Michael Lee","party":"R","isPrimary":true},
+    {"peopleId":22423,"name":"Amy Galey","party":"R","isPrimary":false},
+    {"peopleId":11862,"name":"Norman Sanderson","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

@@ -1,0 +1,28 @@
+{
+  "billId": 2146083,
+  "billNumber": "S865",
+  "title": "Restore Benefits to Educators/State Employees",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "7eef651c6bcdd13e52184b7f3f856f12",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2026-04-29",
+  "url": "https://legiscan.com/NC/bill/S865/2025",
+  "aiSummary": "This bill restores several benefits and compensation for North Carolina educators and state employees beginning in the 2026-2027 fiscal year. It reinstates education-based salary supplements for teachers, restores longevity payments (annual bonuses based on years of service), preserves retiree medical benefits for educators hired after January 1, 2021, and expands the NC Teaching Fellows Program to include one additional higher education institution.",
+  "aiProArguments": "Supporters argue this bill addresses educator recruitment and retention by restoring compensation that was previously eliminated or reduced. They contend that longevity payments and education-based supplements reward experienced teachers and incentivize career longevity in the profession. Proponents also argue that preserving retiree medical benefits makes teaching careers more financially secure and attracts quality candidates to the profession, while expanding the Teaching Fellows Program increases support for future teacher training.",
+  "aiConArguments": "Opponents may argue this bill creates significant recurring budget obligations—approximately $150.3 million annually—at a time when state resources face competing demands. They may question whether these salary and benefit restorations are the most cost-effective way to improve education outcomes compared to other investments. Concerns may also include whether the bill's benefits are broadly available to all educators or concentrated among certain groups, and whether expanding the Teaching Fellows Program represents an efficient use of state funds versus other teacher recruitment strategies.",
+  "topic": "Education",
+  "textLength": 7992,
+  "createdAt": "2026-06-23T03:11:24.569Z",
+  "sponsors": [
+    {"peopleId":20223,"name":"Mujtaba Mohammed","party":"D","isPrimary":true},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":true},
+    {"peopleId":17147,"name":"Gale Adcock","party":"D","isPrimary":false},
+    {"peopleId":21633,"name":"Natalie Murdock","party":"D","isPrimary":false},
+    {"peopleId":12032,"name":"Gladys Robinson","party":"D","isPrimary":false},
+    {"peopleId":22426,"name":"DeAndrea Salvador","party":"D","isPrimary":false},
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":false},
+    {"peopleId":25859,"name":"Caleb Theodros","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

@@ -1,0 +1,27 @@
+{
+  "billId": 2014377,
+  "billNumber": "S619",
+  "title": "AI Academic Support Grant Program",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "be784e49e61ffbdce85e89916e3ae4bd",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2025-03-26",
+  "url": "https://legiscan.com/NC/bill/S619/2025",
+  "aiSummary": "This bill establishes the AI Academic Support Grant Program, which provides funding to North Carolina public school units in grades 6-12 to contract with Khan Academy for use of Khanmigo, an AI tool that helps teachers develop lesson plans and supports students with comprehension. The bill appropriates $10,060,560 in recurring funds for the 2025-2026 fiscal year and requires schools to evaluate the program's effectiveness annually.",
+  "aiProArguments": "Supporters argue this bill provides schools with modern technology tools to improve student learning and teacher efficiency at no direct cost to individual districts. Proponents point out that the bill includes rigorous evaluation requirements and a research study to measure impact on student performance, ensuring accountability for how public funds are spent. Additionally, extending access to students in the juvenile justice system may help address educational gaps for vulnerable populations.",
+  "aiConArguments": "Critics may be concerned about the significant public investment ($10+ million) in a contract with a private company, questioning whether this represents the best use of limited education funding. Opponents might also worry about data privacy and security given that the bill requires cloud-based rostering systems to manage sensitive student information, and about potential over-reliance on AI rather than traditional teaching methods.",
+  "topic": "Education",
+  "textLength": 5438,
+  "createdAt": "2026-06-23T03:09:22.788Z",
+  "sponsors": [
+    {"peopleId":17504,"name":"Michael Lee","party":"R","isPrimary":true},
+    {"peopleId":24223,"name":"Brad Overcash","party":"R","isPrimary":true},
+    {"peopleId":18454,"name":"Kevin Corbin","party":"R","isPrimary":true},
+    {"peopleId":24220,"name":"Val Applewhite","party":"D","isPrimary":false},
+    {"peopleId":25860,"name":"Woodson Bradley","party":"D","isPrimary":false},
+    {"peopleId":21663,"name":"David Craven","party":"R","isPrimary":false},
+    {"peopleId":11858,"name":"Timothy Moffitt","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

@@ -1,0 +1,24 @@
+{
+  "billId": 2146183,
+  "billNumber": "S888",
+  "title": "Immigration Data Privacy",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "870bea13bc8f13324ecc6361cacd1189",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2026-04-29",
+  "url": "https://legiscan.com/NC/bill/S888/2025",
+  "aiSummary": "This bill prohibits North Carolina state departments and agencies from sharing immigration-related data with federal, state, or local law enforcement for civil immigration enforcement purposes unless the individual consents or a court issues a judicial order, subpoena, or warrant. The bill requires state agencies to notify individuals when their immigration data is requested and to report all such requests annually to the Attorney General.",
+  "aiProArguments": "Supporters argue this bill protects privacy rights and prevents state resources from being used to enforce federal immigration policy without judicial oversight. They contend it prevents vulnerable populations from avoiding state services due to fear of immigration enforcement, which could harm public health, education, and community safety by discouraging people from seeking help or cooperating with authorities.",
+  "aiConArguments": "Opponents argue the bill may limit law enforcement's ability to investigate crimes and could obstruct cooperation between state and federal authorities on serious criminal matters. They contend the restrictions could complicate legitimate law enforcement operations and that the $1.5 million appropriation for implementation represents a significant cost to taxpayers.",
+  "topic": "Technology & Privacy",
+  "textLength": 4077,
+  "createdAt": "2026-06-23T03:11:35.683Z",
+  "sponsors": [
+    {"peopleId":21633,"name":"Natalie Murdock","party":"D","isPrimary":true},
+    {"peopleId":25859,"name":"Caleb Theodros","party":"D","isPrimary":true},
+    {"peopleId":25858,"name":"Sophia Chitlik","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

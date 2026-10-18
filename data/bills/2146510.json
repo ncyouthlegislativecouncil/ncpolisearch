@@ -1,0 +1,25 @@
+{
+  "billId": 2146510,
+  "billNumber": "S908",
+  "title": "Janell Green Smith Maternal Health Acc. Act",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "c5ba2925b230dd136c4126003a442944",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2026-04-30",
+  "url": "https://legiscan.com/NC/bill/S908/2025",
+  "aiSummary": "This bill establishes a comprehensive maternal health accountability framework in North Carolina by creating new regulations for Certified Professional Midwives and Certified Midwives, requiring hospitals to implement safety protocols and report maternal health outcomes, establishing a patient advocacy system, and requiring equal insurance reimbursement for midwife-provided maternity care.",
+  "aiProArguments": "Supporters argue this bill addresses North Carolina's high maternal mortality and morbidity rates, particularly among Black, Indigenous, rural, and low-income communities. They contend that licensed midwife care improves outcomes, patient satisfaction, and continuity of care, citing peer-reviewed evidence and successful implementations in neighboring states like Virginia and South Carolina. The bill also establishes accountability measures for hospitals through data reporting and patient grievance support, while ensuring fair compensation for midwives and doulas as essential maternal health workers.",
+  "aiConArguments": "Opponents may be concerned about the regulatory burden and costs placed on hospitals through new compliance requirements, data collection, and training mandates. Some medical professionals might question whether expanding midwife autonomy without physician supervision requirements could pose safety risks in certain circumstances. Additionally, the bill's requirement for equal reimbursement rates for midwives regardless of credentials or settings, along with unfunded mandate concerns about establishing new oversight councils and patient advocacy systems, may raise questions about implementation costs and whether these provisions can be sustained.",
+  "topic": "Healthcare",
+  "textLength": 30853,
+  "createdAt": "2026-06-23T03:11:46.617Z",
+  "sponsors": [
+    {"peopleId":21633,"name":"Natalie Murdock","party":"D","isPrimary":true},
+    {"peopleId":22426,"name":"DeAndrea Salvador","party":"D","isPrimary":true},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":true},
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":false},
+    {"peopleId":25859,"name":"Caleb Theodros","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

@@ -1,0 +1,21 @@
+{
+  "billId": 2148092,
+  "billNumber": "H1223",
+  "title": "Reenact Funding/Meck. Emerg. Pension Fund",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "6448f13ccd80a1095b58afcbcaac8bd6",
+  "lastAction": "Ref to the Com on Pensions and Retirement, if favorable, Finance, if favorable, Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2026-05-06",
+  "url": "https://legiscan.com/NC/bill/H1223/2025",
+  "aiSummary": "This bill restores and increases funding for the Emergency Pension Fund for sworn law enforcement officers in Mecklenburg County by raising a court fee collected in criminal cases. The fee charged at conviction or guilty plea increases from $1.00 to $2.00 in most criminal cases, with the collected money going to support the pension fund. The change takes effect October 1, 2026.",
+  "aiProArguments": "Supporters argue this bill provides necessary funding for law enforcement officer pensions and benefits in Mecklenburg County, which had been depleted or eliminated. The modest $1 increase per criminal case conviction is a reasonable way to generate revenue for this purpose without requiring general tax increases. This dedicated fee ensures officers have reliable pension support.",
+  "aiConArguments": "Opponents may argue that increasing court fees adds costs to the criminal justice system that fall on defendants and potentially burden low-income individuals involved in the court system. Some may question whether this is the most appropriate funding mechanism or whether the pension fund should be supported through other county budget processes. There are also questions about whether the fund's original repeal had sound reasons that should be reconsidered.",
+  "topic": "Taxes & Budget",
+  "textLength": 3861,
+  "createdAt": "2026-06-23T03:03:38.859Z",
+  "sponsors": [
+    {"peopleId":2049,"name":"Patricia Cotham","party":"R","isPrimary":true}
+  ],
+  "rollCalls": []
+}

@@ -1,0 +1,31 @@
+{
+  "billId": 2012929,
+  "billNumber": "S428",
+  "title": "IBT Reforms",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "cd6910ce56b2b8f5db46b4d17135e48f",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-25",
+  "url": "https://legiscan.com/NC/bill/S428/2025",
+  "aiSummary": "This bill revises North Carolina's laws governing transfers of surface water between river basins. It establishes new requirements for water transfer permits, including mandatory environmental impact statements for major transfers (over 30 million gallons per day), detailed public hearing processes, and stricter conditions such as water loss ratio limits and revenue set-asides for source basin infrastructure improvements.",
+  "aiProArguments": "Supporters argue this bill protects source river basins and communities that depend on them by requiring extensive environmental review, public input, and mitigation measures before large water transfers are approved. The bill prioritizes source basin water needs over receiving basin needs through policy language and requires applicants to exhaust local alternatives and maintain water conservation standards. It also establishes a 20-year limit on major transfer certificates and requires applicants to fund infrastructure improvements in source basins.",
+  "aiConArguments": "Opponents contend the bill makes it significantly harder and more expensive for growing areas to obtain needed water supplies by imposing stringent requirements, lengthy review processes, and substantial financial obligations. The requirements for demonstrating necessity, conducting environmental impact statements, and funding source basin improvements could delay or prevent legitimate water transfers that communities need for economic growth and public health, potentially raising utility costs for consumers in receiving areas.",
+  "topic": "Environment & Energy",
+  "textLength": 44748,
+  "createdAt": "2026-06-23T03:07:43.093Z",
+  "sponsors": [
+    {"peopleId":12033,"name":"Warren Daniel","party":"R","isPrimary":true},
+    {"peopleId":11858,"name":"Timothy Moffitt","party":"R","isPrimary":true},
+    {"peopleId":11853,"name":"Mark Hollo","party":"R","isPrimary":true},
+    {"peopleId":20504,"name":"Lisa Barnes","party":"R","isPrimary":false},
+    {"peopleId":25212,"name":"Bob Brinson","party":"R","isPrimary":false},
+    {"peopleId":22423,"name":"Amy Galey","party":"R","isPrimary":false},
+    {"peopleId":11937,"name":"Ralph Hise","party":"R","isPrimary":false},
+    {"peopleId":17437,"name":"Thomas McInnis","party":"R","isPrimary":false},
+    {"peopleId":24224,"name":"Buck Newton","party":"R","isPrimary":false},
+    {"peopleId":24225,"name":"Benton Sawrey","party":"R","isPrimary":false},
+    {"peopleId":24226,"name":"Eddie Settle","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

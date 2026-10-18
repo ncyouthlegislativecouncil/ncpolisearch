@@ -1,0 +1,22 @@
+{
+  "billId": 1992530,
+  "billNumber": "S241",
+  "title": "Funds for Smith Reynolds Airport MRO Hangar",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "b610a8015d0c86789fd7f3dfcdf55aa6",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2025-03-06",
+  "url": "https://legiscan.com/NC/bill/S241/2025",
+  "aiSummary": "This bill provides $3.5 million in state funding from the General Fund to renovate and upgrade the maintenance, repair, and overhaul (MRO) hangar at Smith Reynolds Airport in Forsyth County. The funds will be used for structural repairs, modernization, HVAC upgrades, and infrastructure improvements, with quarterly reporting required to the legislature.",
+  "aiProArguments": "Supporters argue that modernizing airport infrastructure improves economic development and attracts aviation businesses to the region. A renovated MRO hangar can support aircraft maintenance operations, create jobs, and generate revenue for the county while ensuring the facility meets current safety and operational standards.",
+  "aiConArguments": "Opponents may question whether $3.5 million in state General Fund dollars is the best use of limited public resources, particularly if other pressing state needs compete for funding. Some may argue that airport improvements should be funded through airport revenue, federal grants, or local/private sources rather than state general revenues.",
+  "topic": "Transportation & Infrastructure",
+  "textLength": 1215,
+  "createdAt": "2026-06-23T03:06:04.052Z",
+  "sponsors": [
+    {"peopleId":17457,"name":"Paul Lowe","party":"D","isPrimary":true},
+    {"peopleId":25250,"name":"Dana Jones","party":"R","isPrimary":true}
+  ],
+  "rollCalls": []
+}

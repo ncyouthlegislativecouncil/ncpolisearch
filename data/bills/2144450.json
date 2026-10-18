@@ -1,0 +1,25 @@
+{
+  "billId": 2144450,
+  "billNumber": "S781",
+  "title": "Health Insurance Premium Tax Credit",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "800cb1ce19ea87bd82106088ed55b59b",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2026-04-22",
+  "url": "https://legiscan.com/NC/bill/S781/2025",
+  "aiSummary": "This bill creates a state tax credit for North Carolina businesses that pay wages to help employees cover health insurance premiums. Eligible businesses can claim up to $400 per qualifying full-time employee, with a statewide cap of $5 million in total credits per year distributed on a first-come, first-served basis.",
+  "aiProArguments": "Supporters argue this bill helps small and mid-sized businesses afford to offer health insurance benefits to employees, which can improve employee recruitment, retention, and wellness. They contend the tax credit makes health coverage more accessible to workers by reducing the financial burden on employers, particularly those with limited resources, while encouraging responsible business practices.",
+  "aiConArguments": "Opponents may argue the $5 million annual cap limits the program's impact and that only early applicants will receive the full credit due to the first-come, first-served structure, creating uncertainty for businesses. Critics might also question whether tax credits are the most efficient way to expand health insurance coverage, and express concern about the administrative costs and revenue loss to the state.",
+  "topic": "Taxes & Budget",
+  "textLength": 3666,
+  "createdAt": "2026-06-23T03:10:41.735Z",
+  "sponsors": [
+    {"peopleId":25860,"name":"Woodson Bradley","party":"D","isPrimary":true},
+    {"peopleId":20220,"name":"Michael Garrett","party":"D","isPrimary":false},
+    {"peopleId":12032,"name":"Gladys Robinson","party":"D","isPrimary":false},
+    {"peopleId":25859,"name":"Caleb Theodros","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

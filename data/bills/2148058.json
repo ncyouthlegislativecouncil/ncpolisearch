@@ -1,0 +1,22 @@
+{
+  "billId": 2148058,
+  "billNumber": "H1224",
+  "title": "Local Gov. Assisting Affordable Housing",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "3bbda6fca9c580486ef5bc9130764986",
+  "lastAction": "Ref To Com On Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2026-05-06",
+  "url": "https://legiscan.com/NC/bill/H1224/2025",
+  "aiSummary": "This bill gives the City of Winston-Salem the authority to exempt affordable housing developments from water and sewer system development fees, or to reduce the cost of those fees. Local governments must establish criteria to determine which developments qualify for these exemptions or reductions.",
+  "aiProArguments": "Supporters argue this reduces barriers for developers building affordable housing by lowering upfront costs, making it more financially feasible to construct housing for lower-income residents. They contend that fee waivers or reductions help address housing affordability challenges by incentivizing private developers to build affordable units without passing those infrastructure costs to renters or buyers.",
+  "aiConArguments": "Opponents may argue that exempting or reducing system development fees shifts infrastructure costs onto existing residents and businesses who pay full fees, potentially raising their water and sewer costs. They contend that local governments should not forgo these revenues since water and sewer systems require ongoing maintenance and infrastructure investments that fees help fund.",
+  "topic": "Housing",
+  "textLength": 1557,
+  "createdAt": "2026-06-23T03:03:39.239Z",
+  "sponsors": [
+    {"peopleId":24199,"name":"Kanika Brown","party":"D","isPrimary":true},
+    {"peopleId":22599,"name":"Amber Baker","party":"D","isPrimary":true}
+  ],
+  "rollCalls": []
+}

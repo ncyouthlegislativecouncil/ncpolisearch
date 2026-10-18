@@ -1,0 +1,32 @@
+{
+  "billId": 2022918,
+  "billNumber": "H989",
+  "title": "Build Safer Communities and Schools Act",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "2a31235b84e628c1c72d4c7858958c60",
+  "lastAction": "Ref to the Com on Appropriations, if favorable, Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-04-14",
+  "url": "https://legiscan.com/NC/bill/H989/2025",
+  "aiSummary": "This bill establishes a School Safety Grants Program that provides funding to North Carolina public schools for crisis services, training, and safety equipment. The program is administered by the Center for Safer Schools and funded with $20 million per year for the 2025-2027 fiscal period, with the intent to use recurring funds thereafter.",
+  "aiProArguments": "Supporters argue this bill addresses critical school safety needs by providing resources for mental health crisis services, evidence-based trauma training, and physical security improvements like door locks and alarm systems. The program funds therapeutic interventions (trauma counseling, suicide prevention training) and equipment upgrades that can help prevent incidents and support students in crisis, while giving schools flexibility to apply based on their specific safety assessments.",
+  "aiConArguments": "Opponents may question whether $20 million is sufficient across all NC schools and whether the funding structure adequately supports rural or under-resourced districts. Some may be concerned about the focus on equipment like bullet-resistant glass and active shooter alarms, arguing the bill emphasizes security hardware over addressing root causes of school violence, or worry that the program could divert funding from other educational priorities.",
+  "topic": "Education",
+  "textLength": 11242,
+  "createdAt": "2026-06-23T03:00:07.297Z",
+  "sponsors": [
+    {"peopleId":25213,"name":"Tracy Clark","party":"D","isPrimary":true},
+    {"peopleId":20521,"name":"Carolyn Logan","party":"D","isPrimary":true},
+    {"peopleId":24206,"name":"Frances Jackson","party":"D","isPrimary":true},
+    {"peopleId":24200,"name":"Laura Budd","party":"D","isPrimary":true},
+    {"peopleId":24890,"name":"Eric Ager","party":"D","isPrimary":false},
+    {"peopleId":18451,"name":"Mary Belk","party":"D","isPrimary":false},
+    {"peopleId":24202,"name":"Maria Cervania","party":"D","isPrimary":false},
+    {"peopleId":25846,"name":"Mike Colvin","party":"D","isPrimary":false},
+    {"peopleId":2077,"name":"Mary Harrison","party":"D","isPrimary":false},
+    {"peopleId":19360,"name":"Marcia Morey","party":"D","isPrimary":false},
+    {"peopleId":24213,"name":"Lindsey Prather","party":"D","isPrimary":false},
+    {"peopleId":26396,"name":"Phil Rubin","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

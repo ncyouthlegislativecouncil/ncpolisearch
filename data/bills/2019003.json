@@ -1,0 +1,27 @@
+{
+  "billId": 2019003,
+  "billNumber": "H744",
+  "title": "Fertility Preservation Pilot Program",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "b3a4a3421889608c47dbe2ab402b4bb6",
+  "lastAction": "Ref to the Com on Appropriations, if favorable, Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-04-03",
+  "url": "https://legiscan.com/NC/bill/H744/2025",
+  "aiSummary": "This bill establishes a seven-year Fertility Preservation Pilot Program that allocates $2.25 million per year to three medical institutions (Duke University, UNC Chapel Hill, and Atrium Health Levine Cancer Center) to help cancer patients afford fertility services like egg/sperm freezing and IVF/IUI treatments. Eligible participants include uninsured individuals, those with inadequate insurance coverage, or those facing high out-of-pocket costs, with financial assistance capped at $12,000 for female participants and $26,000 for IVF/IUI services.",
+  "aiProArguments": "Supporters argue this program addresses a critical gap for cancer patients who face fertility loss from treatment but lack affordable access to preservation options. They contend it helps individuals, particularly those with limited financial resources, maintain reproductive choices during a health crisis. Additionally, supporters note the program includes accountability measures requiring annual reports to track outcomes and program effectiveness.",
+  "aiConArguments": "Opponents may question whether state funds should subsidize fertility services when other healthcare needs remain underfunded, and whether this represents an appropriate use of limited budget resources. Some may also raise concerns about whether the $4.5 million total investment (for the biennium) is sufficient to meaningfully serve the population, or whether eligibility criteria are too broad or too narrow relative to actual need.",
+  "topic": "Healthcare",
+  "textLength": 5635,
+  "createdAt": "2026-06-23T02:57:09.994Z",
+  "sponsors": [
+    {"peopleId":25845,"name":"Grant Campbell","party":"R","isPrimary":true},
+    {"peopleId":2049,"name":"Patricia Cotham","party":"R","isPrimary":true},
+    {"peopleId":25855,"name":"Mike Schietzelt","party":"R","isPrimary":true},
+    {"peopleId":24199,"name":"Kanika Brown","party":"D","isPrimary":false},
+    {"peopleId":24206,"name":"Frances Jackson","party":"D","isPrimary":false},
+    {"peopleId":25214,"name":"Heather Rhyne","party":"R","isPrimary":false},
+    {"peopleId":17149,"name":"Brian Turner","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

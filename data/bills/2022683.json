@@ -1,0 +1,27 @@
+{
+  "billId": 2022683,
+  "billNumber": "H993",
+  "title": "HOA Organization and Reporting Act",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "41477002e3b28bcf3f7a23df91cfd5ec",
+  "lastAction": "Ref To Com On Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-04-14",
+  "url": "https://legiscan.com/NC/bill/H993/2025",
+  "aiSummary": "This bill requires homeowners associations (HOAs) in North Carolina—both condominium unit owners' associations and planned community lot owners' associations—to incorporate or organize as corporations or limited liability companies and submit annual reports to the Secretary of State. The reports must include contact information for board members, management agents, and links to recorded covenants, with requirements taking effect October 1, 2026.",
+  "aiProArguments": "Supporters argue this bill increases transparency and accountability in HOA operations by requiring public disclosure of leadership contact information and management details. The annual reporting requirement helps unit and lot owners locate key decision-makers and verify HOA compliance, addressing concerns about unresponsive or poorly managed associations. The bill also provides a mechanism to suspend collection powers for associations that fail to report, incentivizing compliance and protecting homeowners from associations operating without proper oversight.",
+  "aiConArguments": "Opponents may contend the bill creates administrative burdens and costs for HOA boards, particularly smaller associations with limited resources, and that filing fees add expenses ultimately paid by homeowners. Some argue the threat of suspending collection powers could harm legitimate associations through technical filing delays and create compliance challenges for associations that operate informally. Critics might also question whether these reporting requirements address underlying HOA governance issues or simply shift responsibility to state oversight without solving substantive problems like unfair fee structures or unresponsive boards.",
+  "topic": "Local Government",
+  "textLength": 33984,
+  "createdAt": "2026-06-23T03:00:10.352Z",
+  "sponsors": [
+    {"peopleId":24200,"name":"Laura Budd","party":"D","isPrimary":true},
+    {"peopleId":2086,"name":"Francis Iler","party":"R","isPrimary":true},
+    {"peopleId":24209,"name":"Ya Liu","party":"D","isPrimary":true},
+    {"peopleId":18451,"name":"Mary Belk","party":"D","isPrimary":false},
+    {"peopleId":2077,"name":"Mary Harrison","party":"D","isPrimary":false},
+    {"peopleId":24206,"name":"Frances Jackson","party":"D","isPrimary":false},
+    {"peopleId":20521,"name":"Carolyn Logan","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

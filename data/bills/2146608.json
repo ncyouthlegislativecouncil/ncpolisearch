@@ -1,0 +1,31 @@
+{
+  "billId": 2146608,
+  "billNumber": "H1112",
+  "title": "NC Workforce Stability & Economic Protection",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "4ea99831e796905a238e967ca58ba4c6",
+  "lastAction": "Ref To Com On Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2026-04-30",
+  "url": "https://legiscan.com/NC/bill/H1112/2025",
+  "aiSummary": "This bill requires North Carolina to conduct annual studies measuring how federal immigration enforcement operations affect the state's economy, workforce, and tax revenues. It also mandates that employers notify employees within 72 hours when they receive federal immigration audits, establishes penalties for employers who retaliate against employees for exercising these rights, and authorizes the Attorney General to monitor federal enforcement actions and receive reports of economic disruptions from businesses and workers.",
+  "aiProArguments": "Supporters argue that the bill provides critical data North Carolina needs to understand and respond to federal policies affecting state businesses and workers. They contend that sudden workforce disruptions from enforcement operations harm agriculture, manufacturing, and other key industries, reduce tax revenue, and destabilize communities—and that employers and workers deserve transparency about audits so they can prepare and protect themselves from potential consequences.",
+  "aiConArguments": "Opponents may argue the bill creates administrative burdens and costs for state government ($100,000 annually) without clear benefit, and that employer notification requirements could interfere with federal law enforcement operations or tip off employers to audits in ways that undermine federal immigration authority. Some may also contend the bill inappropriately positions the state in opposition to federal enforcement policies rather than supporting cooperation between state and federal authorities.",
+  "topic": "Business & Labor",
+  "textLength": 5515,
+  "createdAt": "2026-06-23T03:01:58.643Z",
+  "sponsors": [
+    {"peopleId":19238,"name":"Deb Butler","party":"D","isPrimary":true},
+    {"peopleId":2077,"name":"Mary Harrison","party":"D","isPrimary":true},
+    {"peopleId":19360,"name":"Marcia Morey","party":"D","isPrimary":true},
+    {"peopleId":26662,"name":"Amanda Cook","party":"D","isPrimary":true},
+    {"peopleId":24199,"name":"Kanika Brown","party":"D","isPrimary":false},
+    {"peopleId":25213,"name":"Tracy Clark","party":"D","isPrimary":false},
+    {"peopleId":25844,"name":"Julia Greenfield","party":"D","isPrimary":false},
+    {"peopleId":20521,"name":"Carolyn Logan","party":"D","isPrimary":false},
+    {"peopleId":24214,"name":"Renee Price","party":"D","isPrimary":false},
+    {"peopleId":22606,"name":"James Roberson","party":"D","isPrimary":false},
+    {"peopleId":26396,"name":"Phil Rubin","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

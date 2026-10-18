@@ -1,0 +1,29 @@
+{
+  "billId": 2146504,
+  "billNumber": "S898",
+  "title": "Citizens' Tax Relief Circuit Breaker Mods",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "e32de440b57dc1c596069e5ecead95f5",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2026-04-30",
+  "url": "https://legiscan.com/NC/bill/S898/2025",
+  "aiSummary": "This bill appropriates $250,000 to help counties advertise North Carolina's property tax relief programs and modifies the Property Tax Homestead Circuit Breaker program by raising the income eligibility limit to $45,000 (with an additional allowance for married couples) and adjusting it annually for cost-of-living increases.",
+  "aiProArguments": "Supporters argue this bill helps low and moderate-income homeowners keep their properties by making the circuit breaker program more accessible and easier to understand. By raising the income threshold and funding county advertising, more eligible residents may learn about and benefit from tax relief they are entitled to, reducing the financial burden on seniors and struggling homeowners.",
+  "aiConArguments": "Opponents may argue the bill increases state spending and creates ongoing budget obligations through the cost-of-living adjustment mechanism. Concerns may also be raised about whether the $250,000 advertising allocation is sufficient and whether raising eligibility thresholds is the most effective use of state resources compared to other tax relief approaches.",
+  "topic": "Taxes & Budget",
+  "textLength": 4176,
+  "createdAt": "2026-06-23T03:11:41.046Z",
+  "sponsors": [
+    {"peopleId":21633,"name":"Natalie Murdock","party":"D","isPrimary":true},
+    {"peopleId":20223,"name":"Mujtaba Mohammed","party":"D","isPrimary":true},
+    {"peopleId":22426,"name":"DeAndrea Salvador","party":"D","isPrimary":true},
+    {"peopleId":24220,"name":"Val Applewhite","party":"D","isPrimary":false},
+    {"peopleId":20505,"name":"Sydney Batch","party":"D","isPrimary":false},
+    {"peopleId":24222,"name":"Lisa Grafstein","party":"D","isPrimary":false},
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":false},
+    {"peopleId":25859,"name":"Caleb Theodros","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

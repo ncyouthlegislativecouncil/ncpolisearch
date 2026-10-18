@@ -1,0 +1,26 @@
+{
+  "billId": 2014447,
+  "billNumber": "H518",
+  "title": "Project Newsletter",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "1d631e0b08a4d05630e8a0ead4b0b071",
+  "lastAction": "Ref to the Com on State and Local Government, if favorable, Commerce and Economic Development, if favorable, Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-03-27",
+  "url": "https://legiscan.com/NC/bill/H518/2025",
+  "aiSummary": "This bill requires North Carolina local governments and school districts to use a competitive bidding process when selecting newspapers to publish required public notices. Instead of using commercial advertising rates, governments must award contracts to the lowest responsible bidder through an informal bid process that considers quality, performance, circulation, and cost.",
+  "aiProArguments": "Supporters argue this bill will reduce costs for local governments and schools by introducing competitive bidding for notice publication contracts. They contend that the current system allows newspapers to charge commercial advertising rates without competition, and that requiring informal bids will ensure taxpayer money is spent efficiently while still maintaining quality standards and adequate public notice through newspapers with sufficient circulation.",
+  "aiConArguments": "Opponents may argue that this bill could harm local newspapers by forcing them to compete on price rather than value, potentially reducing revenues for publications that serve their communities. They might also express concern that the competitive bidding process could lead governments to select newspapers with lower circulation or quality, potentially reducing the effectiveness of public notice distribution and undermining local news organizations.",
+  "topic": "Local Government",
+  "textLength": 3603,
+  "createdAt": "2026-06-23T02:54:04.275Z",
+  "sponsors": [
+    {"peopleId":2122,"name":"Mitchell Setzer","party":"R","isPrimary":true},
+    {"peopleId":20522,"name":"Nasif Majeed","party":"D","isPrimary":false},
+    {"peopleId":21375,"name":"Jeffrey McNeely","party":"R","isPrimary":false},
+    {"peopleId":22613,"name":"Ben Moss","party":"R","isPrimary":false},
+    {"peopleId":24219,"name":"Bill Ward","party":"R","isPrimary":false},
+    {"peopleId":17158,"name":"Shelly Willingham","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

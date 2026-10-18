@@ -1,0 +1,31 @@
+{
+  "billId": 1979169,
+  "billNumber": "H165",
+  "title": "Child and Family Welfare Ombudsman Office",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "07d4ca3016f085420957cb520091598e",
+  "lastAction": "Re-ref to the Com on Health, if favorable, Appropriations, if favorable, Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2026-05-28",
+  "url": "https://legiscan.com/NC/bill/H165/2025",
+  "aiSummary": "This bill creates a new Child and Family Welfare Ombudsman Office within the Department of Health and Human Services to serve foster youth, birth families, and foster parents. The office would investigate complaints, help resolve licensing issues, provide education about foster care laws, and submit annual reports on recurring problems in the foster care system.",
+  "aiProArguments": "Supporters argue this office gives foster parents and families a neutral advocate to help navigate complex licensing rules and resolve conflicts with social services agencies. They contend it provides needed support for foster care recruitment and retention by addressing resource parents' concerns, protecting whistleblowers who report violations, and ensuring youth and families have a dedicated voice in the system.",
+  "aiConArguments": "Opponents may express concerns about the cost ($137,000-$145,000 annually) and whether a new bureaucracy is the most efficient solution to foster care issues. They might question whether the office's independence and confidentiality protections could complicate oversight of the child welfare system or create conflicts with existing Department of Health and Human Services authority and accountability.",
+  "topic": "Social Services & Welfare",
+  "textLength": 6719,
+  "createdAt": "2026-06-23T02:43:37.422Z",
+  "sponsors": [
+    {"peopleId":11866,"name":"John Torbett","party":"R","isPrimary":true},
+    {"peopleId":22965,"name":"Donnie Loftis","party":"R","isPrimary":true},
+    {"peopleId":25197,"name":"Jerry Branson","party":"R","isPrimary":false},
+    {"peopleId":2049,"name":"Patricia Cotham","party":"R","isPrimary":false},
+    {"peopleId":14612,"name":"Carla Cunningham","party":"D","isPrimary":false},
+    {"peopleId":24207,"name":"Neal Jackson","party":"R","isPrimary":false},
+    {"peopleId":21375,"name":"Jeffrey McNeely","party":"R","isPrimary":false},
+    {"peopleId":22613,"name":"Ben Moss","party":"R","isPrimary":false},
+    {"peopleId":24219,"name":"Bill Ward","party":"R","isPrimary":false},
+    {"peopleId":17158,"name":"Shelly Willingham","party":"D","isPrimary":false},
+    {"peopleId":22609,"name":"David Willis","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

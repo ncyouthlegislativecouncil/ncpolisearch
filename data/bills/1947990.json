@@ -1,0 +1,21 @@
+{
+  "billId": 1947990,
+  "billNumber": "S30",
+  "title": "8th Senatorial District Local Act-1",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "70819baf1719b26abdbae560cff5bcf5",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-02-03",
+  "url": "https://legiscan.com/NC/bill/S30/2025",
+  "aiSummary": "This is a local bill that applies only to North Carolina's 8th Senatorial District. The bill text provided does not specify what changes or provisions apply to the district—it only establishes that the law, once passed, will take effect immediately and affect only that specific geographic area.",
+  "aiProArguments": "Supporters of local bills argue they allow the General Assembly to address specific regional needs and circumstances that may not require statewide legislation. Local acts can provide targeted solutions for particular districts without affecting other parts of the state, allowing flexibility in governance to meet community-specific challenges.",
+  "aiConArguments": "Opponents of local bills raise concerns about transparency and equal treatment, arguing that legislation affecting specific districts should be clearly explained in public bill text so constituents understand what is being changed. Critics also question whether local bills should receive the same scrutiny and public input as statewide legislation that affects all North Carolinians.",
+  "topic": "Local Government",
+  "textLength": 502,
+  "createdAt": "2026-06-23T03:04:18.481Z",
+  "sponsors": [
+    {"peopleId":12031,"name":"William Rabon","party":"R","isPrimary":true}
+  ],
+  "rollCalls": []
+}

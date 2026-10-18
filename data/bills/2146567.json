@@ -1,0 +1,21 @@
+{
+  "billId": 2146567,
+  "billNumber": "S937",
+  "title": "Marijuana and Vapor Products Reform",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "64c101d6ddebc3931aa12a0d4e23adb2",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2026-04-30",
+  "url": "https://legiscan.com/NC/bill/S937/2025",
+  "aiSummary": "This bill decriminalizes possession of 5 grams or less of marijuana as a Class 3 misdemeanor, increases penalties for manufacturing and selling marijuana, raises the legal age to purchase tobacco and vapor products from 18 to 21 years old, increases excise taxes on vapor products and marijuana, expands Alcohol Law Enforcement's authority to enforce these laws, and makes hemp-derived cannabinoid products subject to strict liability in product liability cases.",
+  "aiProArguments": "Supporters argue this bill balances criminal justice reform by reducing penalties for simple marijuana possession while cracking down on large-scale drug trafficking and manufacturing. They contend raising the age to 21 for vapor and tobacco products protects youth health by delaying access to addictive nicotine products. Increased excise taxes on vapor products and marijuana generate state revenue for public health programs, foster care, and substance abuse education. Expanding law enforcement jurisdiction and funding (approximately $3.25 million appropriated) improves enforcement capacity.",
+  "aiConArguments": "Opponents may argue that decriminalization of marijuana possession could encourage use and conflicts with federal law, while the increased penalties for trafficking represent harsh sentencing. Raising the age limit to 21 for vapor products may face resistance from those who argue it infringes on personal freedom and creates inconsistencies with other age-of-majority laws. Critics contend the excise tax increases could burden consumers and small businesses, potentially pushing sales to illegal markets. Expanding law enforcement authority and funding represents significant state spending during budget constraints.",
+  "topic": "Criminal Justice & Public Safety",
+  "textLength": 36259,
+  "createdAt": "2026-06-23T03:12:00.995Z",
+  "sponsors": [
+    {"peopleId":20216,"name":"Jim Burgin","party":"R","isPrimary":true}
+  ],
+  "rollCalls": []
+}

@@ -1,0 +1,24 @@
+{
+  "billId": 2008691,
+  "billNumber": "H417",
+  "title": "Funds for Hoke County Park",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "d24adbdf582887b17fe992233797eb14",
+  "lastAction": "Ref to the Com on Appropriations, if favorable, Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-03-18",
+  "url": "https://legiscan.com/NC/bill/H417/2025",
+  "aiSummary": "This bill appropriates $50,000 in state funds to Hoke County for improvements and upgrades to Rockfish Park in Raeford. The funding is nonrecurring, meaning it is a one-time allocation for the 2025-2026 fiscal year.",
+  "aiProArguments": "Supporters argue that this funding will improve recreational facilities and quality of life for Hoke County residents, particularly in Raeford. The investment in park infrastructure can benefit the community by providing better amenities for families and potentially attracting visitors to the area.",
+  "aiConArguments": "Opponents may question whether state funds should be used for local park improvements when counties and municipalities typically manage recreation facilities, and whether this represents the best use of limited state budget resources. Some may also ask why this particular county and park receive directed funding when other communities have similar infrastructure needs.",
+  "topic": "Taxes & Budget",
+  "textLength": 901,
+  "createdAt": "2026-06-23T02:50:52.664Z",
+  "sponsors": [
+    {"peopleId":2115,"name":"Garland Pierce","party":"D","isPrimary":true},
+    {"peopleId":24200,"name":"Laura Budd","party":"D","isPrimary":false},
+    {"peopleId":24206,"name":"Frances Jackson","party":"D","isPrimary":false},
+    {"peopleId":20521,"name":"Carolyn Logan","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

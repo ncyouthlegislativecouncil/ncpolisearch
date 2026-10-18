@@ -1,0 +1,28 @@
+{
+  "billId": 2014350,
+  "billNumber": "S652",
+  "title": "Voter Fraud Prevention Act",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "61679e1e3b7fc4836cddd6da730e636c",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-26",
+  "url": "https://legiscan.com/NC/bill/S652/2025",
+  "aiSummary": "This bill requires a special election to be held within 90 days if a North Carolina legislator changes political party affiliation while in office with more than six months remaining in their term. It also requires legislators who switch parties to return campaign contributions to donors who request refunds within 30 days.",
+  "aiProArguments": "Supporters argue this bill protects voter confidence in elections by ensuring constituents get to vote again if their representative switches parties, since voters elected someone based on their party affiliation. They contend that campaign contributions were given based on a candidate's party platform, so donors should have the option to request refunds if that affiliation changes. Proponents believe this holds legislators accountable to the voters and issues they promised to represent.",
+  "aiConArguments": "Opponents argue this bill restricts legislators' freedom to change their political views or party affiliation during their term, potentially chilling legitimate political evolution. They contend that special elections are costly for counties and that the six-month threshold is arbitrary, and they question whether voters truly need a new election since they elected an individual, not just a party label. Critics also note that requiring refunds could be administratively complex and may discourage candidates from accepting diverse donor support early in their campaigns.",
+  "topic": "Elections & Voting",
+  "textLength": 3139,
+  "createdAt": "2026-06-23T03:09:41.840Z",
+  "sponsors": [
+    {"peopleId":20220,"name":"Michael Garrett","party":"D","isPrimary":true},
+    {"peopleId":20505,"name":"Sydney Batch","party":"D","isPrimary":true},
+    {"peopleId":22426,"name":"DeAndrea Salvador","party":"D","isPrimary":true},
+    {"peopleId":25860,"name":"Woodson Bradley","party":"D","isPrimary":false},
+    {"peopleId":22425,"name":"Julie Mayfield","party":"D","isPrimary":false},
+    {"peopleId":21633,"name":"Natalie Murdock","party":"D","isPrimary":false},
+    {"peopleId":12032,"name":"Gladys Robinson","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

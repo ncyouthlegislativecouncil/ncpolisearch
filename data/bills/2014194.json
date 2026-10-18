@@ -1,0 +1,21 @@
+{
+  "billId": 2014194,
+  "billNumber": "S601",
+  "title": "Revise Private Need-Based Scholarship",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "47bbb62df51ad8d56d8e1ba7332dc679",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-26",
+  "url": "https://legiscan.com/NC/bill/S601/2025",
+  "aiSummary": "This bill expands which private colleges and universities in North Carolina can participate in need-based scholarship programs. It adds new categories of eligible institutions, including for-profit schools accredited by SACSCOC at certain levels and schools without on-campus housing requirements, while maintaining accreditation and degree-granting standards.",
+  "aiProArguments": "Supporters argue this bill increases educational access and affordability by allowing students attending a broader range of private institutions to receive need-based scholarships. They contend that expanding eligibility to include additional accredited institutions gives low-income students more options and removes unnecessary restrictions that don't reflect institutional quality or student need.",
+  "aiConArguments": "Opponents may argue that including for-profit institutions and removing housing requirements could spread limited scholarship funding too thin across more schools, potentially reducing aid per student. Some may also express concerns that the bill's broader eligibility criteria could direct public education funds to institutions with different missions or accountability structures than traditional nonprofits.",
+  "topic": "Education",
+  "textLength": 3196,
+  "createdAt": "2026-06-23T03:09:14.601Z",
+  "sponsors": [
+    {"peopleId":11937,"name":"Ralph Hise","party":"R","isPrimary":true}
+  ],
+  "rollCalls": []
+}

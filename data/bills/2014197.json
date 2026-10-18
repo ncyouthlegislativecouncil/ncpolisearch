@@ -1,0 +1,24 @@
+{
+  "billId": 2014197,
+  "billNumber": "S734",
+  "title": "Clarifying Estuarine Waters AEC Under CAMA",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "4ca162fb4eaccdd8362bfa37f6352ba2",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-26",
+  "url": "https://legiscan.com/NC/bill/S734/2025",
+  "aiSummary": "This bill clarifies that man-made ditches—including artificial ponds, culverts, canals, swales, storm channels, and roadside ditches—are not regulated as estuarine waters or areas of environmental concern under North Carolina's Coastal Area Management Act (CAMA). The changes apply this exclusion to the state's definitions of estuarine waters, tidal areas, and marshland for regulatory purposes.",
+  "aiProArguments": "Supporters argue this bill reduces regulatory burden on property owners and developers by clarifying which water features require CAMA permits and environmental reviews. They contend that man-made ditches are drainage infrastructure designed for specific purposes like water conveyance and stormwater management, and should not face the same environmental restrictions as natural estuarine systems. This clarification, they say, provides certainty to landowners and businesses about which projects require costly permitting.",
+  "aiConArguments": "Opponents worry this bill may weaken environmental protections by excluding constructed waterways from CAMA oversight, even when those ditches connect to or impact natural estuarine waters and sensitive habitats. They argue that man-made ditches can still support marsh vegetation and wildlife, and that the broad definition could exempt significant water features from environmental review. Concerns also exist that this could open pathways for development that degrades coastal water quality and natural ecosystems.",
+  "topic": "Environment & Energy",
+  "textLength": 3142,
+  "createdAt": "2026-06-23T03:10:24.512Z",
+  "sponsors": [
+    {"peopleId":11862,"name":"Norman Sanderson","party":"R","isPrimary":true},
+    {"peopleId":22424,"name":"Michael Lazzara","party":"R","isPrimary":true},
+    {"peopleId":20513,"name":"Bobby Hanig","party":"R","isPrimary":true},
+    {"peopleId":25212,"name":"Bob Brinson","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

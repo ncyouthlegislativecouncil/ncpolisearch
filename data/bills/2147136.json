@@ -1,0 +1,28 @@
+{
+  "billId": 2147136,
+  "billNumber": "S1044",
+  "title": "Foundational Mathematics Act",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "e2a7f507bd00e238814bb96c6d8946fe",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2026-05-13",
+  "url": "https://legiscan.com/NC/bill/S1044/2025",
+  "aiSummary": "This bill establishes requirements for high-quality mathematics instruction in North Carolina public schools for kindergarten through eighth grade, including mandatory screening assessments three times per year, individualized Mathematics Success Plans for struggling students, and a state-approved list of instructional materials. The bill creates the Office of Learning Research to evaluate math curriculum vendors and appropriates $21 million in recurring funds plus $2.5 million for research and implementation.",
+  "aiProArguments": "Supporters argue this bill addresses math proficiency gaps by requiring early identification of struggling students and targeted interventions before they fall further behind. They contend that evidence-based instruction, consistent screening, and approved materials will improve student outcomes across the state and ensure all students have necessary math skills for high school and careers. Proponents view the state-level coordination and research through the NC Collaboratory as helping schools implement best practices more effectively.",
+  "aiConArguments": "Opponents may raise concerns about the cost ($23.5 million total) and implementation burden on schools, particularly in rural or under-resourced districts. Some question whether prescriptive state requirements limit local school control and teacher autonomy in choosing instructional methods. Critics might also worry that frequent assessments (three per year) could increase student testing burden or that restricting schools to state-approved materials limits educational flexibility and innovation.",
+  "topic": "Education",
+  "textLength": 19257,
+  "createdAt": "2026-06-23T03:12:54.922Z",
+  "sponsors": [
+    {"peopleId":18454,"name":"Kevin Corbin","party":"R","isPrimary":true},
+    {"peopleId":11937,"name":"Ralph Hise","party":"R","isPrimary":true},
+    {"peopleId":17504,"name":"Michael Lee","party":"R","isPrimary":true},
+    {"peopleId":20225,"name":"Ted Alexander","party":"R","isPrimary":false},
+    {"peopleId":12033,"name":"Warren Daniel","party":"R","isPrimary":false},
+    {"peopleId":22423,"name":"Amy Galey","party":"R","isPrimary":false},
+    {"peopleId":11853,"name":"Mark Hollo","party":"R","isPrimary":false},
+    {"peopleId":11858,"name":"Timothy Moffitt","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

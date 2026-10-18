@@ -1,0 +1,23 @@
+{
+  "billId": 2008837,
+  "billNumber": "S305",
+  "title": "Community Emergency Response Training",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "0688788779d3490c2f8506899d73472d",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2025-03-20",
+  "url": "https://legiscan.com/NC/bill/S305/2025",
+  "aiSummary": "This bill appropriates $3 million in recurring state funding to the Department of Public Safety's Division of Emergency Management to expand the Community Emergency Response Team (CERT) program and training. The funds will also support partnerships with local community organizations to conduct training sessions and increase public participation in emergency response preparedness.",
+  "aiProArguments": "Supporters argue that CERT training prepares citizens to respond effectively to emergencies and disasters, potentially saving lives and reducing strain on emergency services. They contend that investing in community preparedness improves public safety infrastructure, and partnering with local organizations ensures training reaches diverse populations who may benefit most from disaster preparedness education.",
+  "aiConArguments": "Opponents may question whether $3 million in recurring annual spending is the best use of state funds given competing budget priorities, or argue that emergency response should remain primarily the responsibility of professional first responders. Some may express concerns about whether the funding will effectively reach underserved communities or whether alternative approaches to emergency preparedness might be more cost-effective.",
+  "topic": "Criminal Justice & Public Safety",
+  "textLength": 1168,
+  "createdAt": "2026-06-23T03:06:34.925Z",
+  "sponsors": [
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":true},
+    {"peopleId":25860,"name":"Woodson Bradley","party":"D","isPrimary":true},
+    {"peopleId":24222,"name":"Lisa Grafstein","party":"D","isPrimary":true}
+  ],
+  "rollCalls": []
+}

@@ -1,0 +1,25 @@
+{
+  "billId": 2014144,
+  "billNumber": "S677",
+  "title": "SOS (State Owned Structures) Childcare Act",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "3c8b9809c906a8c79f373c52ccd7116c",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2025-03-26",
+  "url": "https://legiscan.com/NC/bill/S677/2025",
+  "aiSummary": "This bill creates multiple programs to expand childcare access in North Carolina by using state-owned property for childcare facilities serving state employees and first responders, requiring new state building projects over $5 million to include childcare centers, and directing studies on childcare at community colleges and UNC campuses. It also establishes a workgroup to streamline childcare licensing requirements.",
+  "aiProArguments": "Supporters argue this bill addresses workforce challenges by making it easier for state employees and first responders to access affordable, quality childcare, potentially improving recruitment and retention. They contend that utilizing underused state buildings is cost-effective and that the apprenticeship program requirements support workforce development in early childhood education. The bill also aims to reduce regulatory barriers that may prevent childcare facilities from opening.",
+  "aiConArguments": "Opponents may be concerned about the significant upfront costs ($5 million for state employee childcare, $6 million for first responder grants, plus study funds), questioning whether these expenses are justified given budget priorities. They might argue that mandatory childcare inclusion in large state building projects could delay projects or increase costs, and worry that the state is overextending into services traditionally provided by the private sector or families.",
+  "topic": "Social Services & Welfare",
+  "textLength": 11733,
+  "createdAt": "2026-06-23T03:09:56.225Z",
+  "sponsors": [
+    {"peopleId":25858,"name":"Sophia Chitlik","party":"D","isPrimary":true},
+    {"peopleId":17936,"name":"Jay Chaudhuri","party":"D","isPrimary":true},
+    {"peopleId":20510,"name":"Terence Everitt","party":"D","isPrimary":true},
+    {"peopleId":25860,"name":"Woodson Bradley","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

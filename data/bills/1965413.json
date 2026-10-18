@@ -1,0 +1,21 @@
+{
+  "billId": 1965413,
+  "billNumber": "S84",
+  "title": "13th Senatorial District Local Act-1",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "93049c0ce2f1fe33b664fa9f85bd75c8",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-02-12",
+  "url": "https://legiscan.com/NC/bill/S84/2025",
+  "aiSummary": "This is a local bill that applies only to North Carolina's 13th Senatorial District. The bill text does not specify what changes or policies it implements—it only establishes that any provisions will affect only that district and become effective upon passage.",
+  "aiProArguments": "Supporters of local bills argue they allow targeted solutions for specific regions' unique needs without affecting the entire state. This approach can address district-specific issues more efficiently and fairly by tailoring legislation to local circumstances rather than applying one-size-fits-all statewide policies.",
+  "aiConArguments": "Opponents of local bills raise concerns about transparency and equal treatment under law, noting that without specific policy details in the bill text, it is difficult for the public to understand what is being changed. They may also question whether district-specific legislation creates inconsistent rules across the state or gives certain regions preferential treatment.",
+  "topic": "Local Government",
+  "textLength": 510,
+  "createdAt": "2026-06-23T03:04:45.963Z",
+  "sponsors": [
+    {"peopleId":24222,"name":"Lisa Grafstein","party":"D","isPrimary":true}
+  ],
+  "rollCalls": []
+}

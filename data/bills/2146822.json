@@ -1,0 +1,21 @@
+{
+  "billId": 2146822,
+  "billNumber": "S984",
+  "title": "Work Training/Delinquent Child Support",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "6a85664415671a579c74144ca7012032",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2026-05-05",
+  "url": "https://legiscan.com/NC/bill/S984/2025",
+  "aiSummary": "This bill creates an alternative to jail for people behind on child support payments. Instead of incarceration, courts can order individuals to participate in job training or job search programs, with a minimum monthly payment of $50 required, for up to six months. The bill appropriates $3 million to community colleges to cover training costs.",
+  "aiProArguments": "Supporters argue this bill helps parents catch up on child support obligations by addressing the root cause—unemployment or lack of skills—rather than removing them from the workforce through incarceration. They contend that work training increases earning potential, making it more likely parents can pay support, while allowing them to remain productive members of society and maintain family connections.",
+  "aiConArguments": "Opponents may worry that this alternative is too lenient on parents who willfully neglect their obligations, potentially reducing accountability for delinquent payments. They may also question whether six months of training is sufficient time to meaningfully improve employment prospects, and express concern that the $50 minimum monthly payment is too low compared to actual support obligations owed to children.",
+  "topic": "Criminal Justice & Public Safety",
+  "textLength": 2600,
+  "createdAt": "2026-06-23T03:12:22.764Z",
+  "sponsors": [
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":true}
+  ],
+  "rollCalls": []
+}

@@ -1,0 +1,22 @@
+{
+  "billId": 2005622,
+  "billNumber": "S284",
+  "title": "Guilford County Schools Funding Requests",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "090d2759b8eb2574cbac6739bf599992",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2025-03-17",
+  "url": "https://legiscan.com/NC/bill/S284/2025",
+  "aiSummary": "This bill appropriates $8.3 million in state funding to Guilford County Schools for the 2025-2026 fiscal year. The money is designated for two programs: $5 million for expanding high dosage tutoring services and $3.3 million for learning hubs that help at-risk students meet graduation requirements.",
+  "aiProArguments": "Supporters argue this funding addresses critical academic needs by expanding evidence-based tutoring programs that help students improve in core subjects and providing individualized support for at-risk students who might otherwise drop out. They contend that investing in these programs increases graduation rates, improves student outcomes, and benefits the local economy and workforce development.",
+  "aiConArguments": "Opponents may question whether directing funds to a single county is the fairest use of state resources when other districts also have struggling students and similar needs. Some may be concerned about whether $8.3 million is a sustainable, long-term solution if these are described as nonrecurring funds, or whether the programs would face funding gaps after 2025-2026.",
+  "topic": "Education",
+  "textLength": 1331,
+  "createdAt": "2026-06-23T03:06:24.027Z",
+  "sponsors": [
+    {"peopleId":12032,"name":"Gladys Robinson","party":"D","isPrimary":true},
+    {"peopleId":20220,"name":"Michael Garrett","party":"D","isPrimary":true}
+  ],
+  "rollCalls": []
+}

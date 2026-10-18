@@ -1,0 +1,27 @@
+{
+  "billId": 2016964,
+  "billNumber": "H586",
+  "title": "YMCA Expansion Funding",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "6a98df5e384498ff62b95e0110eee28e",
+  "lastAction": "Ref to the Com on Appropriations, if favorable, Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-04-01",
+  "url": "https://legiscan.com/NC/bill/H586/2025",
+  "aiSummary": "This bill appropriates $2 million in state funding to the YMCA of Southeastern North Carolina to help expand the Midtown YMCA facility in Wilmington. The expanded 50,000 square foot facility is part of a public-private partnership project with a total cost of $15 million, and is expected to provide fitness, aquatic, youth programs, and child care services to the region.",
+  "aiProArguments": "Supporters argue this bill funds important community services including youth programs, child care, and water safety training that would benefit thousands of families in the Wilmington area. They point out that the YMCA is a long-established nonprofit serving the region since 1887, and that the state funding only covers a portion of the $15 million project cost since over half the funding is already secured from private sources.",
+  "aiConArguments": "Opponents may question whether state general fund dollars should support a specific private nonprofit organization when other community needs exist, and whether the YMCA—as a nonprofit with membership revenue—should rely on public tax dollars for expansion. They might also raise concerns about whether this sets a precedent for funding requests from other organizations, or whether the funds could be better used for other state priorities.",
+  "topic": "Taxes & Budget",
+  "textLength": 2255,
+  "createdAt": "2026-06-23T02:55:03.539Z",
+  "sponsors": [
+    {"peopleId":14613,"name":"Robert Davis","party":"R","isPrimary":true},
+    {"peopleId":22599,"name":"Amber Baker","party":"D","isPrimary":false},
+    {"peopleId":24199,"name":"Kanika Brown","party":"D","isPrimary":false},
+    {"peopleId":19238,"name":"Deb Butler","party":"D","isPrimary":false},
+    {"peopleId":25842,"name":"Bryan Cohn","party":"D","isPrimary":false},
+    {"peopleId":20509,"name":"Allison Dahle","party":"D","isPrimary":false},
+    {"peopleId":20515,"name":"Zack Forde-Hawkins","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

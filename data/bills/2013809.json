@@ -1,0 +1,26 @@
+{
+  "billId": 2013809,
+  "billNumber": "S536",
+  "title": "Birth Freedom Act",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "f1fcdfb28a0f15bc11bd94e92abbd665",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-26",
+  "url": "https://legiscan.com/NC/bill/S536/2025",
+  "aiSummary": "The Birth Freedom Act requires health insurance plans in North Carolina, including Medicaid and the State Health Plan, to cover maternity care at home and birthing centers with the same benefits as hospital births. The bill allocates $150,000 to help increase access to birthing center services and sets reimbursement rates at 90% of average commercial hospital rates.",
+  "aiProArguments": "Supporters argue this bill expands reproductive choices by making home and birthing center births more affordable and accessible options for pregnant people. Proponents contend that these settings can provide personalized care and may reduce unnecessary medical interventions, while also potentially lowering overall maternity costs through competitive pricing and reduced hospital overhead expenses.",
+  "aiConArguments": "Opponents may raise concerns about ensuring consistent safety standards and emergency response capabilities at home and birthing center births compared to hospital settings. Critics might also question whether the 90% reimbursement rate is sufficient to attract qualified providers or whether the $150,000 appropriation adequately funds expanded access, potentially shifting costs to other budget areas.",
+  "topic": "Healthcare",
+  "textLength": 3339,
+  "createdAt": "2026-06-23T03:08:40.630Z",
+  "sponsors": [
+    {"peopleId":25858,"name":"Sophia Chitlik","party":"D","isPrimary":true},
+    {"peopleId":21633,"name":"Natalie Murdock","party":"D","isPrimary":true},
+    {"peopleId":25860,"name":"Woodson Bradley","party":"D","isPrimary":false},
+    {"peopleId":22425,"name":"Julie Mayfield","party":"D","isPrimary":false},
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

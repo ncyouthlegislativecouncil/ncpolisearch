@@ -1,0 +1,21 @@
+{
+  "billId": 2146930,
+  "billNumber": "S1023",
+  "title": "Chiropractic Abuse of Costs",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "0fc00727ebc829aa41c396ce35154e4f",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2026-05-04",
+  "url": "https://legiscan.com/NC/bill/S1023/2025",
+  "aiSummary": "This bill limits the North Carolina State Board of Chiropractic Examiners to charging no more than $2,000 in total costs (including attorney fees and investigation costs) to a chiropractor in disciplinary actions, and voids any agreements requiring higher payments. It also requires the Board to keep detailed meeting minutes that include summaries of reports, public comments with speaker names, specific motion language, individual member votes, and to publish draft minutes within 15 business days.",
+  "aiProArguments": "Supporters argue this bill protects chiropractors from excessive cost burdens during disciplinary proceedings that could force licensees into unfavorable settlements regardless of the case merits. They contend that transparent, detailed meeting minutes increase public accountability and allow stakeholders to verify that the Board is conducting business fairly and following proper procedures.",
+  "aiConArguments": "Opponents may argue that capping costs at $2,000 could prevent the Board from fully investigating serious violations or covering legitimate expenses in complex disciplinary cases, potentially leaving costs unpaid. They may also contend that detailed public minutes, including individual member votes and named public commenters, could discourage candid discussion or expose Board members to external pressure, and that publishing draft minutes frequently could consume administrative resources.",
+  "topic": "Business & Labor",
+  "textLength": 3786,
+  "createdAt": "2026-06-23T03:12:44.679Z",
+  "sponsors": [
+    {"peopleId":20216,"name":"Jim Burgin","party":"R","isPrimary":true}
+  ],
+  "rollCalls": []
+}

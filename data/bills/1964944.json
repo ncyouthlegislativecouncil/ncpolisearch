@@ -1,0 +1,32 @@
+{
+  "billId": 1964944,
+  "billNumber": "S71",
+  "title": "Expedited Removal of Unauthorized Persons",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "528a217c50a1d73d25e186a3184e52b5",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-02-12",
+  "url": "https://legiscan.com/NC/bill/S71/2025",
+  "aiSummary": "This bill creates a new legal process allowing property owners to request law enforcement remove people from their residential property who are occupying it without permission, without a lease, and without paying rent. The property owner files a sworn affidavit with a clerk of court or magistrate, and law enforcement must remove the person within 24 hours.",
+  "aiProArguments": "Supporters argue this bill protects property owners' rights by providing a faster, more efficient way to remove squatters and unauthorized occupants without going through lengthy eviction proceedings. They contend it addresses situations where people illegally occupy vacant homes or properties, which can burden owners with maintenance costs and security concerns while the traditional court process takes months.",
+  "aiConArguments": "Opponents worry the expedited process could be abused against people with legitimate claims to occupy a property, such as those in informal living arrangements or with disputed ownership situations. They also express concern that the 24-hour removal timeline may not provide sufficient due process protections and that people removed could lose their belongings, and question whether law enforcement should determine housing disputes rather than courts.",
+  "topic": "Criminal Justice & Public Safety",
+  "textLength": 10102,
+  "createdAt": "2026-06-23T03:04:39.314Z",
+  "sponsors": [
+    {"peopleId":11858,"name":"Timothy Moffitt","party":"R","isPrimary":true},
+    {"peopleId":24226,"name":"Eddie Settle","party":"R","isPrimary":true},
+    {"peopleId":22424,"name":"Michael Lazzara","party":"R","isPrimary":true},
+    {"peopleId":25212,"name":"Bob Brinson","party":"R","isPrimary":false},
+    {"peopleId":18465,"name":"Danny Britt","party":"R","isPrimary":false},
+    {"peopleId":20216,"name":"Jim Burgin","party":"R","isPrimary":false},
+    {"peopleId":14615,"name":"Carl Ford","party":"R","isPrimary":false},
+    {"peopleId":20513,"name":"Bobby Hanig","party":"R","isPrimary":false},
+    {"peopleId":11937,"name":"Ralph Hise","party":"R","isPrimary":false},
+    {"peopleId":17437,"name":"Thomas McInnis","party":"R","isPrimary":false},
+    {"peopleId":24223,"name":"Brad Overcash","party":"R","isPrimary":false},
+    {"peopleId":24225,"name":"Benton Sawrey","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

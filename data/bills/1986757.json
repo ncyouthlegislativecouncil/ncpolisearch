@@ -1,0 +1,22 @@
+{
+  "billId": 1986757,
+  "billNumber": "S198",
+  "title": "Restore Down-Zoning Auth./Multiple Counties",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "e1c6846ec06a0003bd5013d5eef20099",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-03",
+  "url": "https://legiscan.com/NC/bill/S198/2025",
+  "aiSummary": "This bill restores the authority of local governments in Chatham, Durham, and Wake Counties to initiate down-zoning (reducing the density or permitted uses of land) without requiring written consent from all affected property owners. The change applies retroactively to December 11, 2024, and reverses a restriction imposed by a 2024 law.",
+  "aiProArguments": "Supporters argue this restores local governments' ability to manage land use and zoning in their communities according to local planning goals. They contend that requiring unanimous property owner consent creates gridlock and prevents communities from implementing zoning changes needed for neighborhood character, environmental protection, or strategic development plans. Local governments and planning advocates argue they should have this authority to serve the broader public interest.",
+  "aiConArguments": "Opponents argue that property owners have legitimate interests in decisions affecting their land values and usage rights, and that requiring consent protects individual property rights. Critics contend that allowing down-zoning without owner consent may reduce property values and restrict what owners can do with their land. They argue this gives government broad power to unilaterally reduce property rights, and that the retroactive application could affect decisions made under the previous law.",
+  "topic": "Local Government",
+  "textLength": 1935,
+  "createdAt": "2026-06-23T03:05:44.264Z",
+  "sponsors": [
+    {"peopleId":17147,"name":"Gale Adcock","party":"D","isPrimary":true},
+    {"peopleId":24222,"name":"Lisa Grafstein","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

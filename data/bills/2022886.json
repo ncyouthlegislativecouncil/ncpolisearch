@@ -1,0 +1,28 @@
+{
+  "billId": 2022886,
+  "billNumber": "H945",
+  "title": "Reporting of Sexual Assault on School Buses",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "ca1abc4d8f2ba8ba76d6769b0180e1d7",
+  "lastAction": "Ref to the Com on Education - K-12, if favorable, Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-04-14",
+  "url": "https://legiscan.com/NC/bill/H945/2025",
+  "aiSummary": "This bill requires North Carolina school districts to report sexual assault and harassment incidents that occur on school buses separately from other incidents, increases violence reporting to twice per school year instead of once annually, and makes it a Class I felony for school employees or board members to fail to report acts of violence to the state.",
+  "aiProArguments": "Supporters argue that tracking school bus incidents separately will help identify safety problems specific to transportation and allow for targeted interventions. They contend that more frequent reporting (twice yearly instead of annually) provides faster data for responding to school safety issues. Additionally, establishing a felony penalty for non-reporting ensures school officials take their legal obligations seriously and increases accountability for documenting violence.",
+  "aiConArguments": "Opponents may argue that classifying reporting failures as a Class I felony is an extremely harsh penalty that could expose school employees to severe criminal liability for bureaucratic errors rather than intentional wrongdoing. They might also contend that increasing reporting frequency creates additional administrative burden on already-stretched school staff and that the focus on bus-specific data, while potentially useful, adds complexity without proven safety benefits.",
+  "topic": "Criminal Justice & Public Safety",
+  "textLength": 2352,
+  "createdAt": "2026-06-23T02:59:37.348Z",
+  "sponsors": [
+    {"peopleId":2049,"name":"Patricia Cotham","party":"R","isPrimary":true},
+    {"peopleId":24197,"name":"Brian Biggs","party":"R","isPrimary":true},
+    {"peopleId":14604,"name":"John Bell","party":"R","isPrimary":true},
+    {"peopleId":25197,"name":"Jerry Branson","party":"R","isPrimary":false},
+    {"peopleId":2077,"name":"Mary Harrison","party":"D","isPrimary":false},
+    {"peopleId":24206,"name":"Frances Jackson","party":"D","isPrimary":false},
+    {"peopleId":17149,"name":"Brian Turner","party":"D","isPrimary":false},
+    {"peopleId":24219,"name":"Bill Ward","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

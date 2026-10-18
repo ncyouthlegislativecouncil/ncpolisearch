@@ -1,0 +1,25 @@
+{
+  "billId": 2014224,
+  "billNumber": "S608",
+  "title": "Revise Various Laws/Work 1st Cash Assistance",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "f84179b0924c165005a6924704650d56",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-26",
+  "url": "https://legiscan.com/NC/bill/S608/2025",
+  "aiSummary": "This bill expands North Carolina's Work First cash assistance program by including pregnant women as eligible recipients, increases the maximum income limits families can have to qualify, raises the monthly cash benefit amounts, sets resource limits at $5,000 with vehicle exclusions, and removes state-imposed time limits on assistance (keeping only federal limits).",
+  "aiProArguments": "Supporters argue this bill helps vulnerable families by providing earlier support to pregnant women before birth, increases monthly assistance amounts to better meet living expenses, and removes arbitrary state time limits that could leave families without support. They contend these changes reduce hardship, improve maternal health outcomes, and give struggling families more time to achieve economic stability.",
+  "aiConArguments": "Opponents may argue the bill increases state spending on welfare programs without identified funding sources, could create disincentives to work by extending benefits indefinitely, and raises concerns about sustainability of higher benefit levels. They may also question whether removing time limits aligns with the original 'work-first' philosophy of the program, which emphasized temporary assistance paired with employment preparation.",
+  "topic": "Social Services & Welfare",
+  "textLength": 4138,
+  "createdAt": "2026-06-23T03:09:18.237Z",
+  "sponsors": [
+    {"peopleId":22426,"name":"DeAndrea Salvador","party":"D","isPrimary":true},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":true},
+    {"peopleId":21633,"name":"Natalie Murdock","party":"D","isPrimary":true},
+    {"peopleId":25858,"name":"Sophia Chitlik","party":"D","isPrimary":false},
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

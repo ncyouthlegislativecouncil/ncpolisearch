@@ -1,0 +1,21 @@
+{
+  "billId": 2014114,
+  "billNumber": "S598",
+  "title": "Change to Low-Performing Schools Designation",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "e21827c7c39d2151e395338b0c126617",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-26",
+  "url": "https://legiscan.com/NC/bill/S598/2025",
+  "aiSummary": "This bill modifies how North Carolina identifies low-performing schools by clarifying that schools must earn both a D or F performance grade AND a school growth score (either 'met' or 'not met expected growth') to be designated as low-performing. It also requires schools identified as low-performing to notify parents and guardians within 30 days and explain what these grades and scores mean.",
+  "aiProArguments": "Supporters argue this bill provides clearer, more comprehensive criteria for identifying struggling schools by considering both absolute performance and progress over time. They contend that requiring schools to demonstrate growth efforts alongside performance grades gives a more complete picture of school quality and recognizes schools that are improving even if they haven't yet reached higher grade levels. Proponents may also argue that transparent parent notification helps families make informed decisions about their children's education.",
+  "aiConArguments": "Opponents may argue that this approach could allow schools with consistently poor performance to avoid the low-performing label if they show any growth, potentially reducing accountability and support for schools serving the lowest-performing students. They may also contend that the requirement to show both poor grades AND unmet growth could make it harder to identify and intervene in struggling schools, and that complex notification requirements may not effectively communicate school performance to parents.",
+  "topic": "Education",
+  "textLength": 1748,
+  "createdAt": "2026-06-23T03:09:13.347Z",
+  "sponsors": [
+    {"peopleId":19669,"name":"Vickie Sawyer","party":"R","isPrimary":true}
+  ],
+  "rollCalls": []
+}

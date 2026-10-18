@@ -1,0 +1,23 @@
+{
+  "billId": 2014934,
+  "billNumber": "H524",
+  "title": "Fraud Detection Alert System",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "3276ed32085d36c0ec745cdfb7d0bca0",
+  "lastAction": "Re-ref Com On Judiciary 2",
+  "lastActionDate": "2025-04-08",
+  "url": "https://legiscan.com/NC/bill/H524/2025",
+  "aiSummary": "This bill creates a fraud detection alert system that allows property owners to monitor their names in land records by receiving email notifications when deeds or mortgages are recorded under their identity. It also strengthens penalties for rental and sale fraud by making fraudulent leasing a Class H felony and fraudulent advertising of property a Class I felony, and allows civil lawsuits with attorney's fees for violations.",
+  "aiProArguments": "Supporters argue this bill helps prevent identity theft and fraud by alerting property owners when unauthorized documents are filed in their names, enabling faster response to fraudulent deeds or mortgages. They contend that stronger criminal penalties and civil remedies deter criminals from committing rental and sale scams that harm both property owners and renters seeking legitimate housing.",
+  "aiConArguments": "Opponents may concern that the fraud alert system creates an administrative burden on county registers of deeds offices with new technology requirements and potential fees charged to users. They might also argue that escalating penalties to felony level for property fraud could result in harsh sentences and that the civil liability waiver for the register of deeds limits accountability if the system fails to prevent fraud.",
+  "topic": "Criminal Justice & Public Safety",
+  "textLength": 6200,
+  "createdAt": "2026-06-23T02:54:11.524Z",
+  "sponsors": [
+    {"peopleId":20519,"name":"Keith Kidwell","party":"R","isPrimary":true},
+    {"peopleId":22607,"name":"Steve Tyson","party":"R","isPrimary":true},
+    {"peopleId":24219,"name":"Bill Ward","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

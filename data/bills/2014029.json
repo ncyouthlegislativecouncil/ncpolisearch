@@ -1,0 +1,26 @@
+{
+  "billId": 2014029,
+  "billNumber": "S653",
+  "title": "Polluter Pays",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "ffba9c9f360af9341f475f555fb51d8b",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-26",
+  "url": "https://legiscan.com/NC/bill/S653/2025",
+  "aiSummary": "This bill requires companies or individuals responsible for water or air pollution to pay for cleanup costs and provide alternative water supplies to affected residents. It gives state environmental officials authority to order polluters to immediately stop or reduce pollution, provide temporary or permanent replacement water supplies, and pay the state's costs for investigating and remedying the contamination.",
+  "aiProArguments": "Supporters argue this bill ensures polluters bear the financial responsibility for the damage they cause rather than taxpayers. It protects public health by giving officials faster authority to stop dangerous pollution and guaranteeing affected residents have access to clean water, while also creating incentives for companies to prevent pollution in the first place.",
+  "aiConArguments": "Opponents may argue the bill could impose significant costs on businesses, potentially affecting their operations or competitiveness, and could lead to disputes over who is determined to be responsible for pollution. They may also raise concerns about the broad authority given to the Secretary to order actions without a hearing before the order takes effect, or about unclear definitions of what constitutes 'causing or contributing' to pollution.",
+  "topic": "Environment & Energy",
+  "textLength": 8634,
+  "createdAt": "2026-06-23T03:09:42.175Z",
+  "sponsors": [
+    {"peopleId":20220,"name":"Michael Garrett","party":"D","isPrimary":true},
+    {"peopleId":16251,"name":"Graig Meyer","party":"D","isPrimary":true},
+    {"peopleId":22425,"name":"Julie Mayfield","party":"D","isPrimary":true},
+    {"peopleId":25858,"name":"Sophia Chitlik","party":"D","isPrimary":false},
+    {"peopleId":21633,"name":"Natalie Murdock","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

@@ -1,0 +1,21 @@
+{
+  "billId": 2147675,
+  "billNumber": "S1073",
+  "title": "8th Senatorial District Local Act-2",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "d2ca67e9896d1165bd1d86ee5b26efdd",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2026-05-05",
+  "url": "https://legiscan.com/NC/bill/S1073/2025",
+  "aiSummary": "This is a local bill that applies only to North Carolina's 8th Senatorial District. The bill text provided does not specify what changes or provisions it contains—it only establishes that the act relates to that district and becomes effective upon passage.",
+  "aiProArguments": "Supporters of local bills argue they allow the General Assembly to address specific regional needs and circumstances that differ from statewide requirements. Local legislation can be tailored to the unique conditions, governance structures, or constituent concerns of a particular district without imposing uniform rules across the entire state.",
+  "aiConArguments": "Opponents of local bills raise concerns about transparency and equal treatment, arguing that special legislation for specific districts may lack sufficient public scrutiny or create inconsistent policies across regions. Without knowing the specific provisions, critics may worry about whether local bills serve a legitimate public purpose or provide special treatment to particular areas or interests.",
+  "topic": "Local Government",
+  "textLength": 501,
+  "createdAt": "2026-06-23T03:13:08.119Z",
+  "sponsors": [
+    {"peopleId":12031,"name":"William Rabon","party":"R","isPrimary":true}
+  ],
+  "rollCalls": []
+}

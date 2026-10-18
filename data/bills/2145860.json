@@ -1,0 +1,23 @@
+{
+  "billId": 2145860,
+  "billNumber": "S848",
+  "title": "Rio's Law",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "459e5a3d1e9bd530c1419e188dd0896f",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2026-04-28",
+  "url": "https://legiscan.com/NC/bill/S848/2025",
+  "aiSummary": "Rio's Law requires law enforcement officers, emergency medical services personnel, and firefighters/rescue workers in North Carolina to receive training on recognizing and appropriately interacting with people who are deaf, hard of hearing, or have autism spectrum disorder. The bill also establishes a special autism spectrum disorder vehicle registration plate and requires state agencies to adopt rules implementing this training by October 2027-2028.",
+  "aiProArguments": "Supporters argue this training will help first responders better understand and safely interact with autistic individuals and those who are deaf or hard of hearing, potentially preventing misunderstandings or inappropriate responses during emergency situations. Advocates point out that people with autism may communicate differently or have sensory sensitivities, and specialized training could lead to better outcomes and reduce trauma during police or medical encounters. The special registration plate could alert officers to a driver's neurodiversity status and improve interactions during traffic stops.",
+  "aiConArguments": "Opponents may express concerns about the costs and implementation timeline for training across all first responder agencies statewide. Some may question whether a special registration plate could lead to discrimination or privacy concerns for autistic drivers, or whether police should use such information during traffic stops. Others might argue that general communication and de-escalation training could address these needs without autism-specific requirements, or that resources would be better spent on other public safety priorities.",
+  "topic": "Criminal Justice & Public Safety",
+  "textLength": 4707,
+  "createdAt": "2026-06-23T03:11:13.536Z",
+  "sponsors": [
+    {"peopleId":11937,"name":"Ralph Hise","party":"R","isPrimary":true},
+    {"peopleId":20216,"name":"Jim Burgin","party":"R","isPrimary":false},
+    {"peopleId":11862,"name":"Norman Sanderson","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

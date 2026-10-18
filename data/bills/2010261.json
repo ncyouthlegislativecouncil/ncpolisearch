@@ -1,0 +1,21 @@
+{
+  "billId": 2010261,
+  "billNumber": "S330",
+  "title": "LME/MCO Transparency and Accountability",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "07f2119499de115cc061825f0d1a5bf4",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-19",
+  "url": "https://legiscan.com/NC/bill/S330/2025",
+  "aiSummary": "This bill requires Local Management Entities/Managed Care Organizations (LME/MCOs) to submit quarterly reports to the Department of Health and Human Services about emergency department stays, access to mental health and substance use providers, and retained funds from unused approved services. It also establishes minimum service standards requiring LME/MCOs to limit emergency department boarding to fewer than two patients per county and ensure 85% of patients can access approved services within 45 days.",
+  "aiProArguments": "Supporters argue this bill increases transparency and accountability for organizations managing behavioral health and substance use services for Medicaid beneficiaries. They contend that detailed reporting will identify access barriers, track provider network changes, and reveal how much money is retained when approved services cannot be delivered, helping ensure patients receive timely care and detect systemic problems in service delivery.",
+  "aiConArguments": "Opponents may argue that the quarterly reporting requirements create administrative burdens and costs for LME/MCOs, potentially diverting resources from direct patient services. They might also contend that strict benchmarks—such as the 85% access-within-45-days standard and limiting emergency department boarding—may be difficult to achieve in rural areas with limited provider availability, and that failure to meet standards could lead to contract penalties without addressing underlying provider shortages.",
+  "topic": "Healthcare",
+  "textLength": 4104,
+  "createdAt": "2026-06-23T03:06:50.895Z",
+  "sponsors": [
+    {"peopleId":24222,"name":"Lisa Grafstein","party":"D","isPrimary":true}
+  ],
+  "rollCalls": []
+}

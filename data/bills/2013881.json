@@ -1,0 +1,30 @@
+{
+  "billId": 2013881,
+  "billNumber": "S508",
+  "title": "LL to CPL/Apprenticeship Program",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "d9688dd749a43cb545d7958e8d8ade90",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2025-04-09",
+  "url": "https://legiscan.com/NC/bill/S508/2025",
+  "aiSummary": "This bill creates a Teacher Apprenticeship Program that allows people with bachelor's degrees to work as paid apprentices in classrooms while earning teaching credentials, removes the exam requirement for converting limited teaching licenses to continuing professional licenses for teachers with positive student growth data, and directs university and community college systems to develop an expedited pathway for high school students to enter teaching.",
+  "aiProArguments": "Supporters argue this bill addresses teacher shortages by creating alternative pathways into the profession that don't require traditional four-year education degrees, allowing people to earn while they learn and reducing financial barriers to teaching. The apprenticeship model provides mentorship and real classroom experience, which they contend improves teacher quality and retention. Supporters also believe waiving exams for effective teachers (measured by student growth) recognizes proven performance and reduces bureaucratic barriers for experienced educators.",
+  "aiConArguments": "Opponents may worry that waiving exam requirements for licensing could lower teaching standards by allowing teachers without demonstrated content knowledge to become fully licensed. They may also question whether the apprenticeship program provides sufficient preparation compared to traditional teacher education programs, and whether the $7,500 salary supplement is adequate to attract quality candidates. Some may be concerned about diverting $1 million in existing teacher apprentice grant funds rather than adding new resources to address teacher shortages.",
+  "topic": "Education",
+  "textLength": 16146,
+  "createdAt": "2026-06-23T03:08:27.923Z",
+  "sponsors": [
+    {"peopleId":17504,"name":"Michael Lee","party":"R","isPrimary":true},
+    {"peopleId":17437,"name":"Thomas McInnis","party":"R","isPrimary":true},
+    {"peopleId":25250,"name":"Dana Jones","party":"R","isPrimary":true},
+    {"peopleId":24220,"name":"Val Applewhite","party":"D","isPrimary":false},
+    {"peopleId":25860,"name":"Woodson Bradley","party":"D","isPrimary":false},
+    {"peopleId":17936,"name":"Jay Chaudhuri","party":"D","isPrimary":false},
+    {"peopleId":20223,"name":"Mujtaba Mohammed","party":"D","isPrimary":false},
+    {"peopleId":24223,"name":"Brad Overcash","party":"R","isPrimary":false},
+    {"peopleId":25859,"name":"Caleb Theodros","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

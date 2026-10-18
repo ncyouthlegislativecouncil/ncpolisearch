@@ -1,0 +1,29 @@
+{
+  "billId": 2016900,
+  "billNumber": "H591",
+  "title": "Elec. Monitoring in Nursing/Adult Care Homes",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "32d3fbd688bba84d170c4ff94297726d",
+  "lastAction": "Re-ref Com On Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-04-01",
+  "url": "https://legiscan.com/NC/bill/H591/2025",
+  "aiSummary": "This bill permits residents of nursing homes and adult care homes to install electronic monitoring devices (cameras, audio recorders, etc.) in their own rooms at their own expense. Facilities must provide power sources and mounting space for these devices, cannot refuse admission or discharge residents for requesting monitoring, and recordings are admissible as evidence in court proceedings.",
+  "aiProArguments": "Supporters argue this bill protects vulnerable elderly and disabled residents from neglect, abuse, and mistreatment by allowing families to monitor care quality. Proponents contend that surveillance deters misconduct by staff and provides evidence in cases of criminal or civil disputes, while residents retain full control over the decision to monitor their own rooms.",
+  "aiConArguments": "Opponents worry the bill creates privacy concerns for roommates, visitors, and staff who may be recorded without their knowledge or consent. Critics also question whether constant monitoring could create a distrustful environment, increase liability and costs for facilities already operating with thin margins, and whether it adequately addresses root causes of care problems like staff shortages and inadequate oversight.",
+  "topic": "Healthcare",
+  "textLength": 9111,
+  "createdAt": "2026-06-23T02:55:07.238Z",
+  "sponsors": [
+    {"peopleId":22609,"name":"David Willis","party":"R","isPrimary":true},
+    {"peopleId":22965,"name":"Donnie Loftis","party":"R","isPrimary":true},
+    {"peopleId":14606,"name":"Mark Brody","party":"R","isPrimary":true},
+    {"peopleId":21377,"name":"Jake Johnson","party":"R","isPrimary":false},
+    {"peopleId":20522,"name":"Nasif Majeed","party":"D","isPrimary":false},
+    {"peopleId":21375,"name":"Jeffrey McNeely","party":"R","isPrimary":false},
+    {"peopleId":22613,"name":"Ben Moss","party":"R","isPrimary":false},
+    {"peopleId":24219,"name":"Bill Ward","party":"R","isPrimary":false},
+    {"peopleId":22608,"name":"Diane Wheatley","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

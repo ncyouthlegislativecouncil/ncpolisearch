@@ -1,0 +1,21 @@
+{
+  "billId": 1964846,
+  "billNumber": "S73",
+  "title": "Richlands Occupancy Tax Authorization",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "a863b5d08c1a17e166109e8cb154382f",
+  "lastAction": "Re-ref to Finance. If fav, re-ref to State and Local Government. If fav, re-ref to Rules and Operations of the Senate",
+  "lastActionDate": "2025-02-17",
+  "url": "https://legiscan.com/NC/bill/S73/2025",
+  "aiSummary": "This bill authorizes the Town of Richlands to impose a tax of up to 3% on hotel and short-term rental accommodations. Revenue from this tax would be managed by a newly created Tourism Development Authority, with at least two-thirds used for tourism promotion and the remainder for tourism-related projects in the town.",
+  "aiProArguments": "Supporters argue this tax provides a dedicated funding source for tourism marketing and infrastructure that can attract more visitors and business travelers to Richlands, boosting the local economy and hotel industry. The tax targets visitors rather than residents, and the revenue can fund projects that increase accommodation usage and make the town a more attractive destination.",
+  "aiConArguments": "Opponents may contend that the tax increases costs for visitors staying in Richlands hotels, potentially making the town less competitive compared to nearby areas without such taxes. Some may also question whether a 3% occupancy tax is necessary or whether the town's limited tourism market can support the administrative structure required to collect and manage these funds.",
+  "topic": "Taxes & Budget",
+  "textLength": 5851,
+  "createdAt": "2026-06-23T03:04:40.602Z",
+  "sponsors": [
+    {"peopleId":22424,"name":"Michael Lazzara","party":"R","isPrimary":true}
+  ],
+  "rollCalls": []
+}

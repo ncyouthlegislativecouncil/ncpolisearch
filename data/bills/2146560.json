@@ -1,0 +1,27 @@
+{
+  "billId": 2146560,
+  "billNumber": "H1136",
+  "title": "Cape Fear IBT Moratorium/EMC IBT Reductions",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "d0996d69272fc17656eaa018bc4b37b6",
+  "lastAction": "Ref to the Com on Agriculture and Environment, if favorable, Appropriations, if favorable, Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2026-05-04",
+  "url": "https://legiscan.com/NC/bill/H1136/2025",
+  "aiSummary": "This bill pauses new water transfers out of the upper Cape Fear River Basin until 2030 while a comprehensive study is conducted to assess the basin's water supply sustainability. It also expands the Environmental Management Commission's authority to reduce existing water transfers between river basins if necessary to protect water resources.",
+  "aiProArguments": "Supporters argue that the Cape Fear region has experienced significant growth and environmental changes since water transfer laws were last updated over 30 years ago, making a pause on new transfers prudent while impacts are studied. They contend the bill protects the basin's long-term water security for residents, agriculture, and industry by ensuring transfers don't deplete local water supplies, and the $1.5 million study will provide scientific evidence to guide future water policy decisions.",
+  "aiConArguments": "Opponents may argue that the moratorium restricts economic development in other regions that need water resources and could delay projects waiting for approval. They may also contend that the EMC's expanded authority to reduce existing transfers creates uncertainty for water utilities and industries that have already invested in infrastructure based on approved transfer agreements, potentially forcing costly operational changes.",
+  "topic": "Environment & Energy",
+  "textLength": 15374,
+  "createdAt": "2026-06-23T03:02:18.264Z",
+  "sponsors": [
+    {"peopleId":14613,"name":"Robert Davis","party":"R","isPrimary":true},
+    {"peopleId":17678,"name":"James Adams","party":"R","isPrimary":false},
+    {"peopleId":19238,"name":"Deb Butler","party":"D","isPrimary":false},
+    {"peopleId":2077,"name":"Mary Harrison","party":"D","isPrimary":false},
+    {"peopleId":2086,"name":"Francis Iler","party":"R","isPrimary":false},
+    {"peopleId":14634,"name":"Stephen Ross","party":"R","isPrimary":false},
+    {"peopleId":24216,"name":"Charles Smith","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

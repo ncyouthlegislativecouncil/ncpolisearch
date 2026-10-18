@@ -12,49 +12,19 @@ import {
   getTickerBills,
 } from "../lib/bills";
 import { getTopSponsors, getTopSponsorsOverall } from "../lib/legislators";
-import { safeQuery } from "../lib/safe";
 
-// Re-render at most once an hour so new bills, fresh AI summaries, and the live
-// counts keep flowing onto the homepage. Without this the page would be frozen
-// at build-time data (the /bills page stays current only because it reads
-// searchParams, which forces dynamic rendering).
-export const revalidate = 3600;
-
-// Fallback shape for the whole homepage data batch — used only if the DB is
-// unreachable at the moment this page gets (re)built, so a transient outage
-// can never hard-fail the build. A real ISR revalidation replaces this with
-// live data as soon as the DB is reachable again.
-type HomeData = [
-  Awaited<ReturnType<typeof getHomeStats>>,
-  Awaited<ReturnType<typeof getHomeFeed>>,
-  Awaited<ReturnType<typeof getTickerBills>>,
-  Awaited<ReturnType<typeof getTopSponsors>>,
-  Awaited<ReturnType<typeof getTopSponsors>>,
-  Awaited<ReturnType<typeof getTopSponsorsOverall>>,
-];
-const HOME_DATA_FALLBACK: HomeData = [
-  { totalBills: 0, introduced: 0, enacted: 0, legislators: 0 },
-  { featured: null, recent: [] },
-  [],
-  [],
-  [],
-  [],
-];
-
+// Pre-built at deploy time. The daily data update commits new data files,
+// which triggers a fresh deploy, so new bills, summaries, and counts appear on
+// the homepage without any runtime refresh.
 export default async function Home() {
-  const [stats, feed, ticker, topHouse, topSenate, topOverall] = await safeQuery(
-    () =>
-      Promise.all([
-        getHomeStats(),
-        getHomeFeed(5),
-        getTickerBills(20),
-        getTopSponsors("Rep", 50),
-        getTopSponsors("Sen", 50),
-        getTopSponsorsOverall(3),
-      ]),
-    HOME_DATA_FALLBACK,
-    "home:Promise.all"
-  );
+  const [stats, feed, ticker, topHouse, topSenate, topOverall] = await Promise.all([
+    getHomeStats(),
+    getHomeFeed(5),
+    getTickerBills(20),
+    getTopSponsors("Rep", 50),
+    getTopSponsors("Sen", 50),
+    getTopSponsorsOverall(3),
+  ]);
 
   const { featured, recent: rest } = feed;
 

@@ -1,0 +1,22 @@
+{
+  "billId": 2015146,
+  "billNumber": "H533",
+  "title": "Funds/Various Public Projects in Chatham Co",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "7bc10f809660105142fa65699e10a5c9",
+  "lastAction": "Ref to the Com on Appropriations, if favorable, Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-03-27",
+  "url": "https://legiscan.com/NC/bill/H533/2025",
+  "aiSummary": "This bill appropriates $27.85 million in state funds for public infrastructure projects in Chatham County during the 2025-2026 fiscal year. The funds support downtown streetscape improvements and a main street coordinator in Siler City ($2.45 million), a new recreational facility and stadium improvements in Siler City ($10.4 million), a new fire station in Siler City ($5 million), and fire station construction and equipment purchases in Pittsboro ($10 million).",
+  "aiProArguments": "Supporters argue this bill addresses critical infrastructure needs in both towns, including replacing condemned recreational facilities and outdated fire services that impact public safety and quality of life. They contend that the downtown streetscape project will stimulate economic development and tourism in Siler City's downtown area, while the recreational and fire service improvements serve growing community needs and support local events like AAU tournaments.",
+  "aiConArguments": "Opponents may question whether directing $27.85 million to specific towns in one county is the best use of limited state resources when other communities across North Carolina have competing infrastructure needs. They might also raise concerns about whether these are appropriately local responsibilities that towns should fund through municipal bonds or budgets rather than state directed grants, and whether the nonrecurring nature of these funds creates long-term maintenance obligations.",
+  "topic": "Taxes & Budget",
+  "textLength": 2939,
+  "createdAt": "2026-06-23T02:54:17.741Z",
+  "sponsors": [
+    {"peopleId":16252,"name":"Robert Reives","party":"D","isPrimary":true},
+    {"peopleId":22599,"name":"Amber Baker","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

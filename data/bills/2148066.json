@@ -1,0 +1,23 @@
+{
+  "billId": 2148066,
+  "billNumber": "S1077",
+  "title": "City of New Bern Even-Year Elections",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "8376905ece8f80e2b5e566625f61ba19",
+  "lastAction": "Re-ref to Elections. If fav, re-ref to Rules and Operations of the Senate",
+  "lastActionDate": "2026-05-06",
+  "url": "https://legiscan.com/NC/bill/S1077/2025",
+  "aiSummary": "This bill changes when the City of New Bern holds its municipal elections from odd-numbered years to even-numbered years. It skips the 2029 election, extends current officials' terms by one year, and moves regular elections to 2030 and every four years after that.",
+  "aiProArguments": "Supporters argue that holding municipal elections in even-numbered years aligns New Bern's election schedule with state and federal elections, potentially increasing voter turnout by combining local races with higher-profile contests. This alignment may reduce election administration costs by consolidating voting events and could simplify voter engagement by holding all major elections at the same time.",
+  "aiConArguments": "Opponents may contend that shifting election years disrupts the current schedule and extends current officials' terms without voter approval, raising concerns about democratic accountability. Some may argue that local elections held separately from state/federal races allow voters to focus specifically on municipal issues and candidates, and that consolidating elections could overshadow local races with national political dynamics.",
+  "topic": "Elections & Voting",
+  "textLength": 2446,
+  "createdAt": "2026-06-23T03:13:09.981Z",
+  "sponsors": [
+    {"peopleId":25212,"name":"Bob Brinson","party":"R","isPrimary":true},
+    {"peopleId":14615,"name":"Carl Ford","party":"R","isPrimary":false},
+    {"peopleId":11862,"name":"Norman Sanderson","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

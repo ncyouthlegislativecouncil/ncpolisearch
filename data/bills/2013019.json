@@ -1,0 +1,21 @@
+{
+  "billId": 2013019,
+  "billNumber": "S389",
+  "title": "Add Home Schools to Opportunity Scholarships",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "29dcce4548f01af6e02228fde4dcb00a",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-25",
+  "url": "https://legiscan.com/NC/bill/S389/2025",
+  "aiSummary": "This bill expands North Carolina's Opportunity Scholarship program to include homeschooled students. Homeschool students would receive scholarships worth up to 25% of the state's average per-pupil funding, which can be used for educational materials and required costs (but not tuition). The bill also significantly increases overall funding for the scholarship program from $191.5 million to $625 million in fiscal year 2025-2026.",
+  "aiProArguments": "Supporters argue this expands educational choice and equity by allowing homeschool families to access scholarship funds currently available only to private school students. They contend homeschooling is a legitimate educational option that deserves equal consideration in a school choice program. The bill also increases total scholarship funding substantially, allowing more students across all eligible school types to participate in the program.",
+  "aiConArguments": "Opponents may be concerned about the significant increase in state spending (up to $1.1 billion annually by 2032) and question whether public funds should support educational alternatives to public schools. Some worry about accountability and oversight of homeschools compared to regulated private schools, particularly regarding standardized testing and financial accountability requirements. Others contend the funds would be better spent strengthening traditional public schools.",
+  "topic": "Education",
+  "textLength": 20306,
+  "createdAt": "2026-06-23T03:07:23.761Z",
+  "sponsors": [
+    {"peopleId":20216,"name":"Jim Burgin","party":"R","isPrimary":true}
+  ],
+  "rollCalls": []
+}

@@ -1,0 +1,24 @@
+{
+  "billId": 2147087,
+  "billNumber": "S1016",
+  "title": "Fair Share for Public Schools Act",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "473a8a51d49ae02d790a066c5df5bc35",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2026-05-04",
+  "url": "https://legiscan.com/NC/bill/S1016/2025",
+  "aiSummary": "This bill creates a new 7% income tax on individual income above $1 million per year in North Carolina. All revenue collected from this tax, minus administrative costs, would be distributed to the state's public school fund and allocated to local school districts based on the number of students they serve.",
+  "aiProArguments": "Supporters argue this bill addresses school funding needs by generating new revenue from high earners who can afford to contribute more. They contend it targets only income above $1 million—affecting a small percentage of taxpayers—while providing resources for education, which benefits all North Carolinians through improved schools and student outcomes.",
+  "aiConArguments": "Opponents argue this bill creates a new tax burden on high earners and may discourage high-income individuals and businesses from moving to or staying in North Carolina. They contend that education funding should come from other sources or that current tax revenues should be prioritized for schools without creating new tax brackets.",
+  "topic": "Taxes & Budget",
+  "textLength": 2097,
+  "createdAt": "2026-06-23T03:12:40.393Z",
+  "sponsors": [
+    {"peopleId":25858,"name":"Sophia Chitlik","party":"D","isPrimary":true},
+    {"peopleId":20220,"name":"Michael Garrett","party":"D","isPrimary":true},
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

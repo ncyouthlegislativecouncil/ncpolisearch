@@ -1,0 +1,24 @@
+{
+  "billId": 2021509,
+  "billNumber": "H829",
+  "title": "Locksmith Licensing Act Modernization",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "2642bbcaa735f23d7c8fe3d4e8821d72",
+  "lastAction": "Re-ref Com On Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-06-17",
+  "url": "https://legiscan.com/NC/bill/H829/2025",
+  "aiSummary": "This bill modernizes North Carolina's locksmith licensing laws by requiring locksmith businesses (in addition to individual locksmiths) to obtain licenses, modifying apprenticeship rules to allow a three-year renewal period instead of a one-time term, clarifying licensing requirements and exemptions, and strengthening enforcement through disciplinary procedures and court injunctions.",
+  "aiProArguments": "Supporters argue this bill protects public safety by ensuring businesses providing locksmith services meet state standards and that workers have proper training and oversight. They contend that licensing businesses prevents unlicensed operations from handling sensitive locks on medical facilities, schools, and government buildings, and that allowing apprentices to renew licenses addresses workforce needs by retaining trained workers in the industry.",
+  "aiConArguments": "Opponents may argue that adding business licensing requirements increases regulatory burden and costs for small locksmith operations and sole proprietors. They may also contend that the stricter supervision requirements (requiring physical presence during all apprentice work) and limits on apprentices per locksmith could reduce training opportunities and create workforce shortages in the locksmith industry.",
+  "topic": "Business & Labor",
+  "textLength": 16331,
+  "createdAt": "2026-06-23T02:58:16.471Z",
+  "sponsors": [
+    {"peopleId":25855,"name":"Mike Schietzelt","party":"R","isPrimary":true},
+    {"peopleId":22610,"name":"Matthew Winslow","party":"R","isPrimary":true},
+    {"peopleId":24203,"name":"Allen Chesser","party":"R","isPrimary":true},
+    {"peopleId":20516,"name":"Chris Humphrey","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

@@ -1,0 +1,21 @@
+{
+  "billId": 2146899,
+  "billNumber": "S963",
+  "title": "AI Chatbots-Licensing, Safety, & Privacy",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "dae75acf65281950faad77e1103b4967",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2026-05-04",
+  "url": "https://legiscan.com/NC/bill/S963/2025",
+  "aiSummary": "This bill creates a licensing system for health-related chatbots in North Carolina and establishes safety and privacy requirements for all chatbots meeting certain size thresholds. Health chatbots would need state approval based on technical competence, security, and effectiveness, while all covered chatbots would be required to clearly identify themselves as artificial, protect user data through encryption and deletion options, and comply with a 'duty of loyalty' to prioritize user safety and well-being.",
+  "aiProArguments": "Supporters argue this bill protects North Carolina consumers, especially vulnerable populations, from unreliable or deceptive AI chatbots that could cause harm—particularly in healthcare, mental health, and sensitive domains. The licensing requirement ensures health chatbots meet safety standards similar to medical devices, while privacy protections prevent companies from exploiting sensitive personal data and creating unhealthy emotional dependence. Proponents contend that clear disclosure of the chatbot's artificial nature and strong data security safeguards are necessary in an emerging technology landscape where companies have significant financial incentives to maximize engagement over user welfare.",
+  "aiConArguments": "Opponents worry this bill imposes heavy regulatory burdens and compliance costs that could stifle innovation, particularly disadvantaging smaller AI companies and startups compared to large tech firms. Critics argue the licensing requirements are vague and difficult to meet (such as 'reasonably effective systems' for detecting emotional dependence), creating uncertainty that may discourage beneficial chatbot development in education, research, and service sectors. Some contend the broad definition of 'covered platforms,' private right-of-action lawsuits ($1,000 per violation), and extensive government inspection powers may be overly punitive and could chill free speech, while questioning whether state-level regulation is appropriate for technology that operates nationally.",
+  "topic": "Technology & Privacy",
+  "textLength": 27321,
+  "createdAt": "2026-06-23T03:12:14.083Z",
+  "sponsors": [
+    {"peopleId":20216,"name":"Jim Burgin","party":"R","isPrimary":true}
+  ],
+  "rollCalls": []
+}

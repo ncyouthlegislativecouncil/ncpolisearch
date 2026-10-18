@@ -1,0 +1,21 @@
+{
+  "billId": 2148111,
+  "billNumber": "S1079",
+  "title": "Record Development Approval Votes/Brunswick",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "f3be96c426a06e775e302cfd53d11de4",
+  "lastAction": "Re-ref Com On Rules and Operations of the Senate",
+  "lastActionDate": "2026-05-12",
+  "url": "https://legiscan.com/NC/bill/S1079/2025",
+  "aiSummary": "This bill requires the Brunswick County Board of Commissioners to make final decisions on all development approvals and to record how each individual commissioner votes on these decisions. It repeals a previous 2019 law and overrides certain state development approval procedures for Brunswick County specifically.",
+  "aiProArguments": "Supporters argue this increases transparency and accountability by making each commissioner's individual vote public record rather than allowing decisions to be made through other means. This allows residents to see exactly how their elected officials voted on development projects that affect their community, and enables voters to make informed decisions about reelecting commissioners based on their voting records.",
+  "aiConArguments": "Opponents may argue this imposes additional procedural requirements that could slow down development approvals and add administrative burden to the county commission. Some may contend that development decisions can be effectively made through delegated approval processes or other mechanisms, and that requiring roll-call votes on every development approval—even routine ones—creates unnecessary delays for the development process.",
+  "topic": "Local Government",
+  "textLength": 1056,
+  "createdAt": "2026-06-23T03:13:10.954Z",
+  "sponsors": [
+    {"peopleId":12031,"name":"William Rabon","party":"R","isPrimary":true}
+  ],
+  "rollCalls": []
+}

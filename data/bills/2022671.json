@@ -1,0 +1,30 @@
+{
+  "billId": 2022671,
+  "billNumber": "H990",
+  "title": "Notice Requirements for Landlord Fees",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "9be5ef98a30652eba4ece8bd894a8ccf",
+  "lastAction": "Ref To Com On Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-04-14",
+  "url": "https://legiscan.com/NC/bill/H990/2025",
+  "aiSummary": "This bill requires landlords in North Carolina to provide written notice to tenants before collecting late fees on rental payments. The notice must inform tenants of the fee amount and when it was imposed, and can be delivered by hand, mail, or electronic means as agreed upon in the lease.",
+  "aiProArguments": "Supporters argue this bill protects tenants by ensuring they have clear notice of late fees before being charged, preventing surprise charges and giving tenants an opportunity to dispute incorrect assessments. Advocates contend that written notice requirements increase transparency and fairness in landlord-tenant relationships, allowing tenants to understand their financial obligations and plan accordingly.",
+  "aiConArguments": "Opponents may argue that notice requirements add administrative burdens and costs to landlords, potentially increasing operational complexity and expenses. Some may also contend that late fees are already disclosed in rental agreements and that additional notice requirements are unnecessary paperwork that doesn't meaningfully change tenant behavior or outcomes.",
+  "topic": "Housing",
+  "textLength": 2627,
+  "createdAt": "2026-06-23T03:00:08.205Z",
+  "sponsors": [
+    {"peopleId":24210,"name":"Tim Longest","party":"D","isPrimary":true},
+    {"peopleId":25213,"name":"Tracy Clark","party":"D","isPrimary":true},
+    {"peopleId":25849,"name":"Monika Johnson-Hostler","party":"D","isPrimary":true},
+    {"peopleId":18451,"name":"Mary Belk","party":"D","isPrimary":false},
+    {"peopleId":24200,"name":"Laura Budd","party":"D","isPrimary":false},
+    {"peopleId":2077,"name":"Mary Harrison","party":"D","isPrimary":false},
+    {"peopleId":20521,"name":"Carolyn Logan","party":"D","isPrimary":false},
+    {"peopleId":25850,"name":"Jordan Lopez","party":"D","isPrimary":false},
+    {"peopleId":19360,"name":"Marcia Morey","party":"D","isPrimary":false},
+    {"peopleId":24213,"name":"Lindsey Prather","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

@@ -1,0 +1,21 @@
+{
+  "billId": 1973325,
+  "billNumber": "S116",
+  "title": "Restore Down-Zoning Auth./Pitt Co",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "f26b4b393a0caaabfa14087a8fb942bd",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-02-21",
+  "url": "https://legiscan.com/NC/bill/S116/2025",
+  "aiSummary": "This bill restores the authority of Pitt County and its municipalities to initiate down-zoning (reducing the allowed development density or permitted uses of land) without requiring written consent from all affected property owners. It applies retroactively to December 11, 2024, and reverses restrictions that were imposed by a 2024 state law.",
+  "aiProArguments": "Supporters argue that local governments need flexibility to manage land use and protect community character through down-zoning when necessary for public welfare, environmental protection, or neighborhood preservation. They contend that requiring unanimous property owner consent can prevent communities from addressing planning concerns and that local officials are best positioned to make zoning decisions for their areas.",
+  "aiConArguments": "Opponents argue that down-zoning without owner consent reduces property values and limits owners' development rights without compensation, effectively taking property rights without consent. They contend that the 2024 law requiring owner consent protected property owners from government overreach and that restoring unilateral down-zoning authority gives local governments too much power over private property decisions.",
+  "topic": "Local Government",
+  "textLength": 1919,
+  "createdAt": "2026-06-23T03:05:02.840Z",
+  "sponsors": [
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":true}
+  ],
+  "rollCalls": []
+}

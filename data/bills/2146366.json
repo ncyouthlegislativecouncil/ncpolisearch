@@ -1,0 +1,26 @@
+{
+  "billId": 2146366,
+  "billNumber": "S917",
+  "title": "MELT Act: Support Immigrant Legal Defense",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "8164f408b3b202646a6a1524d10bc0d4",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2026-04-30",
+  "url": "https://legiscan.com/NC/bill/S917/2025",
+  "aiSummary": "This bill repeals a previous law expanding local jail cooperation with federal immigration enforcement, requires federal immigration officers to obtain judicial warrants (approved by judges based on probable cause) rather than administrative warrants to arrest or detain people in North Carolina, and appropriates $4 million to nonprofit organizations providing legal services to immigrants in removal proceedings and asylum cases.",
+  "aiProArguments": "Supporters argue the bill protects constitutional rights by requiring probable cause determinations from judges before immigration arrests, strengthens community trust in police by limiting immigration enforcement cooperation, and ensures immigrants have legal representation to navigate complex removal and asylum proceedings. They contend that investing in legal services is more effective and humane than detention-based enforcement.",
+  "aiConArguments": "Opponents argue the judicial warrant requirement may impede federal immigration enforcement efforts and create practical conflicts between state and federal law, potentially leaving dangerous individuals in the community. They also question whether state funding for legal services representing immigrants aligns with federal immigration policy and express concern about the $4 million cost to state taxpayers during tight budget cycles.",
+  "topic": "Criminal Justice & Public Safety",
+  "textLength": 8735,
+  "createdAt": "2026-06-23T03:11:52.137Z",
+  "sponsors": [
+    {"peopleId":25859,"name":"Caleb Theodros","party":"D","isPrimary":true},
+    {"peopleId":20223,"name":"Mujtaba Mohammed","party":"D","isPrimary":true},
+    {"peopleId":25858,"name":"Sophia Chitlik","party":"D","isPrimary":true},
+    {"peopleId":21633,"name":"Natalie Murdock","party":"D","isPrimary":false},
+    {"peopleId":22426,"name":"DeAndrea Salvador","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

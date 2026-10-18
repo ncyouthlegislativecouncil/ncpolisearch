@@ -1,0 +1,27 @@
+{
+  "billId": 2014328,
+  "billNumber": "S660",
+  "title": "Honoring Sacrifice: NC Veterans Relief Act",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "0c0054cbec54f8ccac08ecad8a6700c2",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-26",
+  "url": "https://legiscan.com/NC/bill/S660/2025",
+  "aiSummary": "This bill provides tax relief to disabled veterans by gradually increasing the home property tax exemption from $45,000 to $500,000 in appraised value, allowing pre-qualification for this benefit, exempting primary vehicles owned by 100% disabled veterans from property tax, and reimbursing local governments for 50% of resulting tax revenue losses. It also establishes a $10 million grant program for veteran housing, infrastructure, and employment initiatives.",
+  "aiProArguments": "Supporters argue this bill honors disabled veterans' sacrifices by reducing their financial burden through property tax exemptions on homes and vehicles, which are essential for stability and well-being. The bill addresses a real need for affordable homeownership and reliable transportation while protecting local government finances through state reimbursement, creating a shared investment between state and local levels without leaving municipalities to absorb the full cost.",
+  "aiConArguments": "Opponents may argue the bill creates significant state spending obligations that grow over time as the home exemption increases to $500,000, potentially reducing overall tax revenue despite reimbursements. Some may question whether exempting primary vehicles for 100% disabled veterans is the most cost-effective use of resources compared to other veteran support programs, or whether the $10 million grant program should be funded through different revenue sources rather than general fund appropriations.",
+  "topic": "Taxes & Budget",
+  "textLength": 19127,
+  "createdAt": "2026-06-23T03:09:46.165Z",
+  "sponsors": [
+    {"peopleId":24220,"name":"Val Applewhite","party":"D","isPrimary":true},
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":true},
+    {"peopleId":12032,"name":"Gladys Robinson","party":"D","isPrimary":true},
+    {"peopleId":24222,"name":"Lisa Grafstein","party":"D","isPrimary":false},
+    {"peopleId":20223,"name":"Mujtaba Mohammed","party":"D","isPrimary":false},
+    {"peopleId":22426,"name":"DeAndrea Salvador","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

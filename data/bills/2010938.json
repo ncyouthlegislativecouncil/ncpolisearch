@@ -1,0 +1,27 @@
+{
+  "billId": 2010938,
+  "billNumber": "S348",
+  "title": "Home Comfort Act",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "34ce6dfbb88fcf190b19a3ca534ba4e1",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-20",
+  "url": "https://legiscan.com/NC/bill/S348/2025",
+  "aiSummary": "The Home Comfort Act appropriates $49.25 million over the 2025-2027 biennium to help low-income seniors (65+) age safely at home through three main programs: grants up to $10,000 for home modifications like ramps and bathroom improvements, funding for in-home support services and caregiver assistance stipends, and a statewide hotline and resource guide to help seniors navigate available programs.",
+  "aiProArguments": "Supporters argue this bill addresses North Carolina's growing senior population by enabling older adults to remain independent and safe in their homes rather than moving to institutions, which improves quality of life and dignity. They contend the investment is cost-effective long-term care that reduces pressure on nursing facilities and emergency services, while the priority given to rural and underserved communities ensures equitable access to these services.",
+  "aiConArguments": "Opponents may argue the $49.25 million recurring appropriation strains the state budget at a time of competing fiscal priorities and uncertain revenue forecasts. They might question whether income limits set at 250% of federal poverty level are appropriate, whether the $10,000 modification cap adequately addresses needs, or whether state funding for family caregiver stipends could create expectations the state cannot sustain long-term.",
+  "topic": "Social Services & Welfare",
+  "textLength": 9211,
+  "createdAt": "2026-06-23T03:06:59.973Z",
+  "sponsors": [
+    {"peopleId":25859,"name":"Caleb Theodros","party":"D","isPrimary":true},
+    {"peopleId":12032,"name":"Gladys Robinson","party":"D","isPrimary":true},
+    {"peopleId":24220,"name":"Val Applewhite","party":"D","isPrimary":true},
+    {"peopleId":20223,"name":"Mujtaba Mohammed","party":"D","isPrimary":false},
+    {"peopleId":21633,"name":"Natalie Murdock","party":"D","isPrimary":false},
+    {"peopleId":22426,"name":"DeAndrea Salvador","party":"D","isPrimary":false},
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

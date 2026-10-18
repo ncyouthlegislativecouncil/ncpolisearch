@@ -1,0 +1,23 @@
+{
+  "billId": 2012978,
+  "billNumber": "S425",
+  "title": "Chiropractic Abuse of Costs",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "949932b76038b22fe61df2dda1cad011",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-25",
+  "url": "https://legiscan.com/NC/bill/S425/2025",
+  "aiSummary": "This bill caps the North Carolina State Board of Chiropractic Examiners at $2,000 maximum in costs (including attorney fees and investigation costs) that can be charged to chiropractors in disciplinary cases, and requires the Board to keep detailed, publicly accessible meeting minutes that include names of commenters, vote records, and summaries of discussions.",
+  "aiProArguments": "Supporters argue this bill protects chiropractors from excessive financial penalties during disciplinary proceedings, which they contend can be used to burden practitioners even when violations are minor or settlements are negotiated. They also say the transparent meeting minutes requirement increases public accountability and ensures the Board's decision-making process is open to scrutiny.",
+  "aiConArguments": "Opponents may argue that capping disciplinary costs at $2,000 could limit the Board's ability to fully investigate serious complaints or pursue cases thoroughly, potentially leaving consumers unprotected from incompetent or unethical practitioners. They may also contend that detailed public minutes including individual Board member votes could chill candid discussion and make the Board's deliberations more political rather than focused on public protection.",
+  "topic": "Business & Labor",
+  "textLength": 3799,
+  "createdAt": "2026-06-23T03:07:41.738Z",
+  "sponsors": [
+    {"peopleId":20216,"name":"Jim Burgin","party":"R","isPrimary":true},
+    {"peopleId":24225,"name":"Benton Sawrey","party":"R","isPrimary":true},
+    {"peopleId":24224,"name":"Buck Newton","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

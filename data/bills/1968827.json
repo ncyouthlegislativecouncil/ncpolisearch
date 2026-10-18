@@ -1,0 +1,27 @@
+{
+  "billId": 1968827,
+  "billNumber": "H122",
+  "title": "North Carolina Board of Integrative Therapies",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "80a7f3fa40510bf848cf03196d6ccd4b",
+  "lastAction": "Re-ref Com On Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2026-05-13",
+  "url": "https://legiscan.com/NC/bill/H122/2025",
+  "aiSummary": "This bill creates the North Carolina Board of Integrative Therapies and establishes state licensure requirements for art therapists and music therapists. The bill sets up a licensing system with application fees, renewal requirements, and disciplinary procedures, while specifying that only licensed practitioners can be compensated for providing these services.",
+  "aiProArguments": "Supporters argue this bill protects public health and safety by ensuring art and music therapists meet minimum qualifications through national certification before practicing in North Carolina. Proponents contend licensure establishes professional standards, improves credibility of these therapy professions, allows better oversight of practitioners, and ensures clients receive services from qualified individuals. Licensure may also facilitate insurance reimbursement and expand access to these therapeutic services.",
+  "aiConArguments": "Opponents may argue the licensing requirement creates barriers to entry for practitioners, potentially reducing access to art and music therapy services and increasing costs for consumers through licensing fees. Some may contend that existing national certification standards are sufficient without state licensure, and that the regulatory framework adds unnecessary bureaucratic burden. Additionally, concerns could be raised about students and unlicensed practitioners being restricted from providing services, potentially limiting training opportunities and community engagement.",
+  "topic": "Healthcare",
+  "textLength": 38347,
+  "createdAt": "2026-06-23T02:42:03.859Z",
+  "sponsors": [
+    {"peopleId":11850,"name":"Harry Warren","party":"R","isPrimary":true},
+    {"peopleId":14633,"name":"Dennis Riddell","party":"R","isPrimary":true},
+    {"peopleId":25841,"name":"Jonathan Almond","party":"R","isPrimary":false},
+    {"peopleId":19238,"name":"Deb Butler","party":"D","isPrimary":false},
+    {"peopleId":2077,"name":"Mary Harrison","party":"D","isPrimary":false},
+    {"peopleId":20522,"name":"Nasif Majeed","party":"D","isPrimary":false},
+    {"peopleId":24214,"name":"Renee Price","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

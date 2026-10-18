@@ -1,0 +1,31 @@
+{
+  "billId": 1966016,
+  "billNumber": "H108",
+  "title": "The Sober Operator Act of 2025",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "5cf3feaf2bf0eefe8afd5396660d2305",
+  "lastAction": "Ref to the Com on Alcoholic Beverage Control, if favorable, State and Local Government, if favorable, Judiciary 2, if favorable, Transportation, if favorable, Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-02-13",
+  "url": "https://legiscan.com/NC/bill/H108/2025",
+  "aiSummary": "This bill makes several changes to North Carolina's impaired driving laws effective December 1, 2025. It lowers the legal alcohol limit for drivers from 0.08 to 0.05, increases fees paid by impaired drivers, allows screening test results to be used as evidence of probable cause, requires video recording of court proceedings and public reporting of impaired driving case outcomes, creates a path for repeat offenders to regain driving privileges through treatment programs, and increases penalties for adults who provide alcohol to minors if serious injury results.",
+  "aiProArguments": "Supporters argue the lower 0.08 to 0.05 alcohol limit will reduce impaired driving deaths and injuries by catching drivers with meaningful impairment earlier. They contend increased fees ensure impaired drivers pay for enforcement and testing costs rather than taxpayers. Supporters also say allowing screening tests as probable cause evidence streamlines court proceedings, video recording increases transparency and equal treatment across counties, and the restoration path gives repeat offenders incentive to rehabilitate while protecting public safety through monitoring requirements.",
+  "aiConArguments": "Opponents worry the 0.05 limit may criminalize social drinkers who are still safe drivers, as research shows impairment varies by person. They argue increased fees ($250 restoration fee and $250 court costs) create a regressive burden falling hardest on lower-income offenders. Critics also express concerns that allowing screening test results as probable cause could reduce defendants' ability to challenge evidence, and requiring video recording of all proceedings raises privacy concerns for defendants, victims, and witnesses despite potential public access benefits.",
+  "topic": "Criminal Justice & Public Safety",
+  "textLength": 45079,
+  "createdAt": "2026-06-23T02:41:32.854Z",
+  "sponsors": [
+    {"peopleId":18453,"name":"Mike Clampitt","party":"R","isPrimary":true},
+    {"peopleId":24890,"name":"Eric Ager","party":"D","isPrimary":true},
+    {"peopleId":20519,"name":"Keith Kidwell","party":"R","isPrimary":true},
+    {"peopleId":25843,"name":"Brian Echevarria","party":"R","isPrimary":true},
+    {"peopleId":24200,"name":"Laura Budd","party":"D","isPrimary":false},
+    {"peopleId":24207,"name":"Neal Jackson","party":"R","isPrimary":false},
+    {"peopleId":25853,"name":"Rodney Pierce","party":"D","isPrimary":false},
+    {"peopleId":24213,"name":"Lindsey Prather","party":"D","isPrimary":false},
+    {"peopleId":14634,"name":"Stephen Ross","party":"R","isPrimary":false},
+    {"peopleId":2122,"name":"Mitchell Setzer","party":"R","isPrimary":false},
+    {"peopleId":24219,"name":"Bill Ward","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

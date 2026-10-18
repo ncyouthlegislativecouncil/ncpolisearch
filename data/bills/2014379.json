@@ -1,0 +1,21 @@
+{
+  "billId": 2014379,
+  "billNumber": "S727",
+  "title": "Number of Medicaid Standard Plan Contracts",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "9c82e58bc789cd4022c38b4a4a2e2d37",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-26",
+  "url": "https://legiscan.com/NC/bill/S727/2025",
+  "aiSummary": "This bill changes the rules for how many health insurance contracts North Carolina awards to manage Medicaid coverage in future renewal cycles. After the initial round of contracts, the state would award up to 4 contracts to provider-led organizations (instead of up to 12) and would guarantee contracts to all qualified applicants if fewer than 4 apply.",
+  "aiProArguments": "Supporters argue this change reduces fragmentation in the Medicaid system by limiting the number of competing plans, which could improve coordination of care and reduce administrative complexity. They contend that fewer contracts to provider-led entities may streamline operations while still ensuring local providers can participate through regional and statewide coverage options.",
+  "aiConArguments": "Opponents may argue that reducing contract opportunities from 12 to 4 limits competition and choice in the Medicaid marketplace, potentially reducing incentives for plans to innovate or improve service quality. They could also contend that fewer provider-led entity contracts may disadvantage local, community-based healthcare providers who want to serve Medicaid beneficiaries in their regions.",
+  "topic": "Healthcare",
+  "textLength": 4028,
+  "createdAt": "2026-06-23T03:10:21.447Z",
+  "sponsors": [
+    {"peopleId":20216,"name":"Jim Burgin","party":"R","isPrimary":true}
+  ],
+  "rollCalls": []
+}

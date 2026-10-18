@@ -1,0 +1,25 @@
+{
+  "billId": 2014363,
+  "billNumber": "S583",
+  "title": "Lead. Invest. Families/Foster Teen Act (LIFT)",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "2176d090691fa8ed44311cf4ef0662d5",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2025-03-26",
+  "url": "https://legiscan.com/NC/bill/S583/2025",
+  "aiSummary": "This bill creates two programs: the LIFT Program, which provides $1,000 monthly cash payments to homeless high school seniors, young adults aging out of foster care, expectant and new mothers, and disaster survivors from 2026-2035; and the Healthy Start NC Program, which provides $1,500 to pregnant women and $500 monthly for one year after birth to new mothers. The bill funds these programs by reducing the corporate income tax rate from 2.25% to 0% by 2030.",
+  "aiProArguments": "Supporters argue these programs address structural poverty and economic inequality by providing financial stability to vulnerable populations during critical life transitions. They point to successful pilot programs in Durham and cite research showing that guaranteed income can help people avoid emergencies and improve outcomes. Supporters contend the corporate tax reduction aligns business taxes more closely with individual income tax rates, creating fairer tax alignment.",
+  "aiConArguments": "Opponents may worry about the cost of phasing out corporate income tax entirely while funding new social programs, raising questions about long-term state budget sustainability. Some may question whether cash payments are the most effective anti-poverty approach compared to targeted services, or express concerns about the administrative complexity of coordinating across multiple state agencies. Critics might also argue that reducing corporate taxes could limit funding for other state priorities like education and infrastructure.",
+  "topic": "Taxes & Budget",
+  "textLength": 14286,
+  "createdAt": "2026-06-23T03:09:05.308Z",
+  "sponsors": [
+    {"peopleId":21633,"name":"Natalie Murdock","party":"D","isPrimary":true},
+    {"peopleId":25858,"name":"Sophia Chitlik","party":"D","isPrimary":true},
+    {"peopleId":24220,"name":"Val Applewhite","party":"D","isPrimary":true},
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

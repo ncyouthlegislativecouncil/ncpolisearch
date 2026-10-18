@@ -1,0 +1,32 @@
+{
+  "billId": 2022923,
+  "billNumber": "H938",
+  "title": "Right to Repair Digital Electronics Act",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "f062c1982d88639b0c3c7db7b9cfef11",
+  "lastAction": "Ref To Com On Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-04-14",
+  "url": "https://legiscan.com/NC/bill/H938/2025",
+  "aiSummary": "This bill requires manufacturers of digital electronic products sold in North Carolina to provide repair information, diagnostic tools, and service parts to independent repair providers and product owners on fair and reasonable terms, similar to what authorized repair shops receive. The bill includes protections for manufacturers' trade secrets and trade agreements with authorized dealers.",
+  "aiProArguments": "Supporters argue this bill empowers consumers to repair their own devices and use independent repair shops instead of being forced to use expensive manufacturer-authorized services, reducing costs and extending product lifespans. They contend that manufacturers unfairly restrict access to repair information and parts to maintain monopolies on repairs, and that right-to-repair legislation levels the playing field for small repair businesses and consumers.",
+  "aiConArguments": "Opponents worry that requiring manufacturers to share diagnostic tools and repair information could compromise product security and safety, enable counterfeiting of parts, and violate intellectual property rights. They argue that manufacturers invest heavily in research and design, and that opening repair access to unvetted independent providers could harm product quality, warranty integrity, and customer data protection.",
+  "topic": "Business & Labor",
+  "textLength": 10326,
+  "createdAt": "2026-06-23T02:59:32.528Z",
+  "sponsors": [
+    {"peopleId":24210,"name":"Tim Longest","party":"D","isPrimary":true},
+    {"peopleId":18451,"name":"Mary Belk","party":"D","isPrimary":true},
+    {"peopleId":22600,"name":"Terry Brown","party":"D","isPrimary":true},
+    {"peopleId":25854,"name":"Dante Pittman","party":"D","isPrimary":true},
+    {"peopleId":24890,"name":"Eric Ager","party":"D","isPrimary":false},
+    {"peopleId":24202,"name":"Maria Cervania","party":"D","isPrimary":false},
+    {"peopleId":14612,"name":"Carla Cunningham","party":"D","isPrimary":false},
+    {"peopleId":2077,"name":"Mary Harrison","party":"D","isPrimary":false},
+    {"peopleId":24206,"name":"Frances Jackson","party":"D","isPrimary":false},
+    {"peopleId":20521,"name":"Carolyn Logan","party":"D","isPrimary":false},
+    {"peopleId":24213,"name":"Lindsey Prather","party":"D","isPrimary":false},
+    {"peopleId":17149,"name":"Brian Turner","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

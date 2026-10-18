@@ -1,0 +1,21 @@
+{
+  "billId": 2144932,
+  "billNumber": "S828",
+  "title": "Restore Down-Zoning Auth/Various Counties",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "4cdc2bc57213f45e6226ace54a084db7",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2026-04-23",
+  "url": "https://legiscan.com/NC/bill/S828/2025",
+  "aiSummary": "This bill restores the authority for Harnett, Lee, and Sampson Counties to initiate down-zoning (reducing the allowed density or permitted uses of land) without requiring written consent from all affected property owners. The bill makes this change retroactively effective to December 11, 2024, potentially reinstating previously adopted ordinances.",
+  "aiProArguments": "Supporters argue that local governments need flexibility to manage land use and community development through down-zoning to protect neighborhood character, preserve agricultural land, or prevent overdevelopment. They contend that requiring unanimous property owner consent can paralyze local planning efforts and prevent counties from implementing community-wide zoning decisions that serve the broader public interest.",
+  "aiConArguments": "Opponents argue that down-zoning can reduce property values and diminish owners' rights to develop their land as previously allowed, effectively taking away development rights without compensation. They contend that requiring property owner consent protects individual property rights and prevents government from unilaterally restricting what landowners can do with their property.",
+  "topic": "Local Government",
+  "textLength": 1891,
+  "createdAt": "2026-06-23T03:11:03.269Z",
+  "sponsors": [
+    {"peopleId":20216,"name":"Jim Burgin","party":"R","isPrimary":true}
+  ],
+  "rollCalls": []
+}

@@ -1,0 +1,23 @@
+{
+  "billId": 1945790,
+  "billNumber": "S15",
+  "title": "Adopt Bottlenose Dolphin/State Marine Mammal",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "7fd6cdede8d4b7452f1bd5aaa3d04f3d",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-01-30",
+  "url": "https://legiscan.com/NC/bill/S15/2025",
+  "aiSummary": "This bill designates the bottlenose dolphin as North Carolina's official state marine mammal. The bottlenose dolphin is already common along North Carolina's coast and would join other state symbols like the cardinal (state bird) and flowering dogwood (state flower).",
+  "aiProArguments": "Supporters argue that bottlenose dolphins are an iconic part of North Carolina's coastal identity and marine environment, making them a fitting official state symbol. The designation celebrates the state's marine heritage and helps raise awareness about the importance of protecting dolphins and coastal ecosystems that residents and tourists value.",
+  "aiConArguments": "Opponents may question whether designating a state marine mammal is a necessary use of legislative time and resources, arguing that the state should focus on more pressing issues. Some might also note that symbolic designations have minimal practical impact on actual dolphin protection or conservation efforts.",
+  "topic": "Other / General Government",
+  "textLength": 1579,
+  "createdAt": "2026-06-23T03:04:11.224Z",
+  "sponsors": [
+    {"peopleId":20513,"name":"Bobby Hanig","party":"R","isPrimary":true},
+    {"peopleId":25860,"name":"Woodson Bradley","party":"D","isPrimary":false},
+    {"peopleId":11862,"name":"Norman Sanderson","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

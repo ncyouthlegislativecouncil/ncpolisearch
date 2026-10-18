@@ -1,0 +1,29 @@
+{
+  "billId": 2014035,
+  "billNumber": "S701",
+  "title": "Bring Back Our Heroes",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "aa982c8ddd2ddcc9bd1980a5b1edcda1",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-26",
+  "url": "https://legiscan.com/NC/bill/S701/2025",
+  "aiSummary": "This bill allows North Carolina law enforcement officers to receive retirement benefits while continuing to work, and provides special separation allowances for officers with at least 30 years of service. Officers age 59.5 or older can begin collecting retirement while still employed, and retired officers can return to law enforcement work while continuing their retirement payments. These provisions expire December 31, 2029, unless renewed.",
+  "aiProArguments": "Supporters argue this bill helps retain experienced law enforcement officers by allowing them to receive earned retirement benefits while continuing to serve, addressing recruitment and retention challenges in law enforcement. The bill also provides additional financial options for officers with 30+ years of service, allowing them to choose between two calculation formulas for their separation allowance, giving retiring officers more control over their benefits.",
+  "aiConArguments": "Opponents may be concerned about the fiscal cost, with $10 million annually appropriated to cover increased retirement system expenses. Critics might also question whether allowing officers to collect retirement while still working creates actuarial risks for the pension system, potentially affecting long-term sustainability. Additionally, the temporary nature of these provisions (expiring in 2029) creates uncertainty about whether benefits will continue beyond that date.",
+  "topic": "Criminal Justice & Public Safety",
+  "textLength": 63922,
+  "createdAt": "2026-06-23T03:10:07.558Z",
+  "sponsors": [
+    {"peopleId":18465,"name":"Danny Britt","party":"R","isPrimary":true},
+    {"peopleId":24224,"name":"Buck Newton","party":"R","isPrimary":true},
+    {"peopleId":20222,"name":"Todd Johnson","party":"R","isPrimary":true},
+    {"peopleId":20225,"name":"Ted Alexander","party":"R","isPrimary":false},
+    {"peopleId":21663,"name":"David Craven","party":"R","isPrimary":false},
+    {"peopleId":12033,"name":"Warren Daniel","party":"R","isPrimary":false},
+    {"peopleId":20513,"name":"Bobby Hanig","party":"R","isPrimary":false},
+    {"peopleId":11858,"name":"Timothy Moffitt","party":"R","isPrimary":false},
+    {"peopleId":24223,"name":"Brad Overcash","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

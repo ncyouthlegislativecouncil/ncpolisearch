@@ -1,0 +1,25 @@
+{
+  "billId": 2014119,
+  "billNumber": "S593",
+  "title": "Grant Our Kids Care Act",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "5564006317dbad62746c15b72b00eb6d",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2025-03-26",
+  "url": "https://legiscan.com/NC/bill/S593/2025",
+  "aiSummary": "This bill appropriates $30 million per year for a two-year pilot program (2025-2027) that provides child care expansion assistance grants to help licensed child care programs offer free or reduced child care to their full-time employees earning up to 85% of state median income. The state would cover 75% of tuition costs for up to two children per eligible employee, with the child care program covering the remaining 25%.",
+  "aiProArguments": "Supporters argue this bill addresses critical child care shortages and affordability barriers that prevent parents from working. By helping child care workers afford care for their own children, the program can reduce staff turnover, stabilize the child care workforce, and expand capacity to serve more young children. The pilot prioritizes counties with the greatest need and requires progress reporting to evaluate effectiveness.",
+  "aiConArguments": "Opponents may question whether $30 million is sufficient to create meaningful change across the state, whether the program should be permanent rather than temporary, and whether subsidizing child care for higher-income employees (up to 85% of median income) is the best use of public funds. Some may also be concerned about administrative complexity, the requirement for child care programs to cover 25% of costs, and whether this approach effectively addresses broader affordability issues for all working families.",
+  "topic": "Social Services & Welfare",
+  "textLength": 5338,
+  "createdAt": "2026-06-23T03:09:10.416Z",
+  "sponsors": [
+    {"peopleId":17936,"name":"Jay Chaudhuri","party":"D","isPrimary":true},
+    {"peopleId":25858,"name":"Sophia Chitlik","party":"D","isPrimary":true},
+    {"peopleId":20220,"name":"Michael Garrett","party":"D","isPrimary":false},
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

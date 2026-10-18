@@ -1,0 +1,29 @@
+{
+  "billId": 2018757,
+  "billNumber": "H728",
+  "title": "Shared Investment in Our Heroes Act",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "2d43b16ed3792764ba774c5a492c6ad7",
+  "lastAction": "Ref To Com On Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-04-03",
+  "url": "https://legiscan.com/NC/bill/H728/2025",
+  "aiSummary": "This bill increases property tax exemptions for disabled veterans by gradually raising the homestead exclusion from $45,000 to $125,000 of home value, allows disabled veterans to prequalify for these exemptions before buying property, exempts one primary motor vehicle owned by 100% disabled veterans from property taxes, and establishes a state reimbursement program to cover 50% of local government revenue losses from these exemptions. The bill also creates a $10 million grant program for veteran housing, infrastructure, and employment initiatives.",
+  "aiProArguments": "Supporters argue this bill honors the sacrifices of disabled veterans by reducing their financial burden through meaningful tax relief on homes and vehicles, which are essential for independence and quality of life. The prequalification provision helps disabled veterans and lenders plan ahead when purchasing homes. The 50% state reimbursement protects local governments from bearing the full fiscal cost, and the $10 million grant program funds practical veteran support initiatives like affordable housing and job training.",
+  "aiConArguments": "Opponents may raise concerns about the significant ongoing state budget commitment required to reimburse local governments indefinitely, potentially affecting funding for other priorities. Some may question whether exempting motor vehicles for all 100% disabled veterans is the most targeted use of tax relief, or whether the $10 million grant program should be means-tested. Local governments losing revenue even with 50% reimbursement may still face budget pressures, especially smaller jurisdictions where veteran exemptions create larger proportional losses.",
+  "topic": "Taxes & Budget",
+  "textLength": 19177,
+  "createdAt": "2026-06-23T02:56:56.913Z",
+  "sponsors": [
+    {"peopleId":24206,"name":"Frances Jackson","party":"D","isPrimary":true},
+    {"peopleId":22599,"name":"Amber Baker","party":"D","isPrimary":false},
+    {"peopleId":24202,"name":"Maria Cervania","party":"D","isPrimary":false},
+    {"peopleId":25846,"name":"Mike Colvin","party":"D","isPrimary":false},
+    {"peopleId":25851,"name":"Aisha Dew","party":"D","isPrimary":false},
+    {"peopleId":20515,"name":"Zack Forde-Hawkins","party":"D","isPrimary":false},
+    {"peopleId":20522,"name":"Nasif Majeed","party":"D","isPrimary":false},
+    {"peopleId":2115,"name":"Garland Pierce","party":"D","isPrimary":false},
+    {"peopleId":25853,"name":"Rodney Pierce","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

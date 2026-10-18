@@ -1,0 +1,26 @@
+{
+  "billId": 2147144,
+  "billNumber": "S1059",
+  "title": "Military Family Food Security & Readiness Act",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "1c9d81432480f9ae6d0cd026f6add42c",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2026-05-05",
+  "url": "https://legiscan.com/NC/bill/S1059/2025",
+  "aiSummary": "This bill creates temporary food assistance programs for North Carolina military families during active duty deployments or activations lasting 30+ days. It allows the Department of Health and Human Services to exclude certain military pay (housing, subsistence, and hazard pay) from income calculations for food benefits and establishes a state-funded supplemental nutrition program ($150-$300 monthly) for military households that don't qualify under federal income limits but face financial hardship.",
+  "aiProArguments": "Supporters argue that military families experience unique financial hardship during deployments, especially when spouses leave jobs for caregiving duties, yet military allowances artificially inflate their income for benefits calculations. Proponents contend this targeted assistance improves military readiness and retention by reducing food insecurity, addresses a real gap in existing federal nutrition programs, and represents a reasonable investment (approximately $77.6 million annually) to support families making significant sacrifices for the state and nation.",
+  "aiConArguments": "Opponents may argue that the bill creates a new state-funded program that duplicates existing federal nutrition assistance without clear evidence of unmet need among military families, increases state spending during budget constraints, and potentially sets precedent for other occupational groups to seek similar targeted benefits. Critics might also question whether the $77.6 million annual appropriation is the most cost-effective approach or whether federal advocacy for policy changes would be preferable to state-level supplement programs.",
+  "topic": "Social Services & Welfare",
+  "textLength": 6251,
+  "createdAt": "2026-06-23T03:13:01.805Z",
+  "sponsors": [
+    {"peopleId":24220,"name":"Val Applewhite","party":"D","isPrimary":true},
+    {"peopleId":21633,"name":"Natalie Murdock","party":"D","isPrimary":true},
+    {"peopleId":25860,"name":"Woodson Bradley","party":"D","isPrimary":true},
+    {"peopleId":20223,"name":"Mujtaba Mohammed","party":"D","isPrimary":false},
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

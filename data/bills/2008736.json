@@ -1,0 +1,33 @@
+{
+  "billId": 2008736,
+  "billNumber": "S312",
+  "title": "The Stars and Stripes Commitment Act",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "625bba19b3b5afd21a4d26a664a59f29",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-18",
+  "url": "https://legiscan.com/NC/bill/S312/2025",
+  "aiSummary": "This bill requires North Carolina public schools (traditional, charter, regional, and laboratory schools) to schedule daily recitation of the Pledge of Allegiance within one hour of the start of the school day, and requires the State Board of Education and local school governing bodies to begin their meetings with the Pledge. The bill specifies that no one can be compelled to stand, salute the flag, or recite the Pledge, and requires age-appropriate instruction on the flag and Pledge's meaning and history.",
+  "aiProArguments": "Supporters argue this bill promotes patriotism, civic engagement, and shared values among students by establishing a consistent daily ritual. They contend that scheduled recitation of the Pledge reinforces respect for the nation's symbols and can strengthen community identity in schools. Supporters also note the bill explicitly protects opt-out rights, allowing students and staff to decline participation without penalty.",
+  "aiConArguments": "Opponents raise concerns about whether mandatory scheduling of the Pledge, even with opt-out protections, pressures students to conform and may conflict with some families' beliefs or values. Some argue the bill diverts school resources and instructional time to a non-academic activity, and question whether imposing Pledge recitation on school boards' meeting agendas is an appropriate use of government authority. Critics also note that existing law already permits Pledge recitation, so the bill's necessity is debatable.",
+  "topic": "Education",
+  "textLength": 7946,
+  "createdAt": "2026-06-23T03:06:38.712Z",
+  "sponsors": [
+    {"peopleId":21663,"name":"David Craven","party":"R","isPrimary":true},
+    {"peopleId":25250,"name":"Dana Jones","party":"R","isPrimary":true},
+    {"peopleId":18465,"name":"Danny Britt","party":"R","isPrimary":true},
+    {"peopleId":14615,"name":"Carl Ford","party":"R","isPrimary":false},
+    {"peopleId":20513,"name":"Bobby Hanig","party":"R","isPrimary":false},
+    {"peopleId":11937,"name":"Ralph Hise","party":"R","isPrimary":false},
+    {"peopleId":11853,"name":"Mark Hollo","party":"R","isPrimary":false},
+    {"peopleId":20518,"name":"Steve Jarvis","party":"R","isPrimary":false},
+    {"peopleId":20222,"name":"Todd Johnson","party":"R","isPrimary":false},
+    {"peopleId":22424,"name":"Michael Lazzara","party":"R","isPrimary":false},
+    {"peopleId":11858,"name":"Timothy Moffitt","party":"R","isPrimary":false},
+    {"peopleId":11862,"name":"Norman Sanderson","party":"R","isPrimary":false},
+    {"peopleId":24226,"name":"Eddie Settle","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

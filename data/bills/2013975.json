@@ -1,0 +1,29 @@
+{
+  "billId": 2013975,
+  "billNumber": "S529",
+  "title": "Second Chance Success Act",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "b3c6934b3f5cd3f9b1dec16dbde3d328",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-26",
+  "url": "https://legiscan.com/NC/bill/S529/2025",
+  "aiSummary": "This bill prevents probation terms from being extended solely because someone fails to pay their $40 monthly probation supervision fee. It also removes language requiring the payment of certain criminal justice fees associated with community service and other probation conditions, though the supervision fee itself remains in place.",
+  "aiProArguments": "Supporters argue this bill reduces financial barriers that can trap people in the criminal justice system. They contend that extending probation purely for inability to pay fees creates a cycle where people struggle to complete probation, potentially leading to violation charges and incarceration. The bill allows courts to still collect fees but prevents fee nonpayment alone from lengthening someone's probation period.",
+  "aiConArguments": "Opponents may argue that removing the threat of extended probation for unpaid fees reduces incentive for probationers to pay their supervision costs, which fund court operations and probation services. They might contend that courts need enforcement mechanisms to ensure fee collection and that the inability to extend probation limits judicial discretion in responding to noncompliance with financial obligations.",
+  "topic": "Criminal Justice & Public Safety",
+  "textLength": 7562,
+  "createdAt": "2026-06-23T03:08:37.731Z",
+  "sponsors": [
+    {"peopleId":22425,"name":"Julie Mayfield","party":"D","isPrimary":true},
+    {"peopleId":20223,"name":"Mujtaba Mohammed","party":"D","isPrimary":true},
+    {"peopleId":20220,"name":"Michael Garrett","party":"D","isPrimary":false},
+    {"peopleId":24222,"name":"Lisa Grafstein","party":"D","isPrimary":false},
+    {"peopleId":21633,"name":"Natalie Murdock","party":"D","isPrimary":false},
+    {"peopleId":12032,"name":"Gladys Robinson","party":"D","isPrimary":false},
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":false},
+    {"peopleId":25859,"name":"Caleb Theodros","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

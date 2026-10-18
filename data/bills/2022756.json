@@ -1,0 +1,30 @@
+{
+  "billId": 2022756,
+  "billNumber": "H968",
+  "title": "Youth CERT Preparedness K-12 Training",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "7c86ec220f2d5c07f2dd561acc1b9a53",
+  "lastAction": "Ref To Com On Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-04-14",
+  "url": "https://legiscan.com/NC/bill/H968/2025",
+  "aiSummary": "This bill requires all North Carolina public schools to teach emergency preparedness education from kindergarten through high school, with content differentiated by grade level. Elementary students (grade 3+) learn about disasters and school safety plans; middle school students study past disasters and mass casualty responses; high school students receive training based on the Federal Emergency Management Agency's Community Emergency Response Team manual. Local school boards decide which courses will include this instruction.",
+  "aiProArguments": "Supporters argue this bill prepares students to respond effectively during emergencies, potentially saving lives during natural disasters, accidents, or other crises. They contend that teaching emergency preparedness builds community resilience and gives young people practical skills they may need to help themselves, their families, and their communities. Proponents also note that the bill allows flexibility by letting local school boards determine when and how to incorporate this instruction into existing curricula.",
+  "aiConArguments": "Opponents may be concerned about adding curriculum requirements that take instructional time away from other academic subjects already competing for classroom hours. Some may worry about the age-appropriateness of teaching young elementary students about disasters and mass casualty events, or question whether FEMA training materials are the best fit for high school curricula. Others might argue that schools already conduct emergency drills and that additional formal instruction duplicates existing safety efforts without clear evidence of improved outcomes.",
+  "topic": "Education",
+  "textLength": 3783,
+  "createdAt": "2026-06-23T02:59:52.838Z",
+  "sponsors": [
+    {"peopleId":24202,"name":"Maria Cervania","party":"D","isPrimary":true},
+    {"peopleId":20523,"name":"Carson Smith","party":"R","isPrimary":true},
+    {"peopleId":22612,"name":"Charles Miller","party":"R","isPrimary":true},
+    {"peopleId":22599,"name":"Amber Baker","party":"D","isPrimary":false},
+    {"peopleId":18451,"name":"Mary Belk","party":"D","isPrimary":false},
+    {"peopleId":2077,"name":"Mary Harrison","party":"D","isPrimary":false},
+    {"peopleId":24206,"name":"Frances Jackson","party":"D","isPrimary":false},
+    {"peopleId":20521,"name":"Carolyn Logan","party":"D","isPrimary":false},
+    {"peopleId":22608,"name":"Diane Wheatley","party":"R","isPrimary":false},
+    {"peopleId":18495,"name":"Donna White","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

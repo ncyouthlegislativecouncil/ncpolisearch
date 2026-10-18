@@ -1,0 +1,28 @@
+{
+  "billId": 2022845,
+  "billNumber": "H973",
+  "title": "Uniform Restrictive Employment Agreement Act",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "47579c915f095979f665dfdf16661814",
+  "lastAction": "Ref To Com On Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-04-14",
+  "url": "https://legiscan.com/NC/bill/H973/2025",
+  "aiSummary": "This bill establishes the Uniform Restrictive Employment Agreement Act, which sets state rules for noncompete agreements, confidentiality agreements, nonsolicitation agreements, and other employment restrictions that prevent workers from competing with their employers after leaving. The law requires employers to provide workers with 14 days' notice before enforcing such agreements, prohibits most restrictions on low-wage workers, and sets specific time limits and conditions for different types of restrictions to be enforceable.",
+  "aiProArguments": "Supporters argue this law protects workers from overly broad employment restrictions that can prevent them from earning a living, especially low-wage workers who have fewer job options. The law creates clear, uniform standards that employers can follow, reduces legal uncertainty, and ensures workers receive fair notice before restrictions apply. Proponents also note that reasonable protections for legitimate business interests—like trade secrets and client relationships—remain allowed under the bill.",
+  "aiConArguments": "Opponents contend the law limits employers' ability to protect their businesses, trade secrets, and customer relationships from departing workers who might compete directly or recruit other employees. Employers argue the 14-day notice requirement and strict time limits (one to five years depending on the restriction type) may make it difficult to enforce agreements needed to protect significant business investments. Some business groups worry the law could disadvantage North Carolina companies competing with firms in states with fewer restrictions on employment agreements.",
+  "topic": "Business & Labor",
+  "textLength": 18567,
+  "createdAt": "2026-06-23T02:59:56.383Z",
+  "sponsors": [
+    {"peopleId":24210,"name":"Tim Longest","party":"D","isPrimary":true},
+    {"peopleId":25842,"name":"Bryan Cohn","party":"D","isPrimary":true},
+    {"peopleId":20509,"name":"Allison Dahle","party":"D","isPrimary":true},
+    {"peopleId":2077,"name":"Mary Harrison","party":"D","isPrimary":true},
+    {"peopleId":18451,"name":"Mary Belk","party":"D","isPrimary":false},
+    {"peopleId":19238,"name":"Deb Butler","party":"D","isPrimary":false},
+    {"peopleId":19360,"name":"Marcia Morey","party":"D","isPrimary":false},
+    {"peopleId":24214,"name":"Renee Price","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

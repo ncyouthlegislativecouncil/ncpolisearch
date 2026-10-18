@@ -1,0 +1,22 @@
+{
+  "billId": 2147170,
+  "billNumber": "S1064",
+  "title": "Outdoor Advertising Revisions",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "31d98d7a47aabd8d429270b2eedc4993",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2026-05-04",
+  "url": "https://legiscan.com/NC/bill/S1064/2025",
+  "aiSummary": "This bill revises North Carolina's outdoor advertising regulations by streamlining the permit approval process, establishing an annual vegetation maintenance permit system, and clarifying rules for vegetation removal around billboard signs. It also prevents the state from delegating core regulatory authority over outdoor advertising to local governments.",
+  "aiProArguments": "Supporters argue this bill provides clarity and efficiency for billboard owners by establishing a straightforward annual permit process, setting clear timelines for state approval (30 days with deemed approval if the state doesn't respond), and reducing regulatory complexity. They contend it promotes visual access to lawful outdoor advertising while balancing environmental concerns through protections for native dogwoods and options for replanting or removing nonconforming signs.",
+  "aiConArguments": "Opponents may argue the bill prioritizes billboard visibility over environmental protection by allowing broader vegetation removal with fewer restrictions, and that the deemed-approval provision (automatic approval if the state doesn't respond in 30 days) could limit the Department's ability to carefully review impacts. Some also contend that centralizing all authority at the state level and preventing local input removes communities' ability to address local aesthetic and environmental concerns about outdoor advertising.",
+  "topic": "Local Government",
+  "textLength": 19521,
+  "createdAt": "2026-06-23T03:13:04.138Z",
+  "sponsors": [
+    {"peopleId":20518,"name":"Steve Jarvis","party":"R","isPrimary":true},
+    {"peopleId":11858,"name":"Timothy Moffitt","party":"R","isPrimary":true}
+  ],
+  "rollCalls": []
+}

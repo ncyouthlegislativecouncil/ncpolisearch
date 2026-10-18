@@ -1,0 +1,21 @@
+{
+  "billId": 1945743,
+  "billNumber": "S8",
+  "title": "3rd Senatorial District Local Act-1",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "c3c9d7eeb5641337b36f4c49397c1612",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-01-30",
+  "url": "https://legiscan.com/NC/bill/S8/2025",
+  "aiSummary": "This is a local bill that applies only to North Carolina's 3rd Senatorial District. The bill text does not specify what changes or provisions it contains—it only establishes that any provisions apply exclusively to that district and take effect immediately upon becoming law.",
+  "aiProArguments": "Supporters of local bills argue they allow the General Assembly to address specific regional needs and concerns that may not apply statewide. Local legislation can provide targeted solutions for a particular district's unique circumstances without affecting other parts of the state.",
+  "aiConArguments": "Opponents of local bills raise concerns about transparency and fairness, noting that bills with minimal text make it difficult for the public to understand what is actually being changed. Critics also question whether local legislation creates unequal treatment across the state by allowing different rules in different districts.",
+  "topic": "Local Government",
+  "textLength": 502,
+  "createdAt": "2026-06-23T03:04:07.809Z",
+  "sponsors": [
+    {"peopleId":25212,"name":"Bob Brinson","party":"R","isPrimary":true}
+  ],
+  "rollCalls": []
+}

@@ -1,0 +1,22 @@
+{
+  "billId": 1987252,
+  "billNumber": "S212",
+  "title": "Restore Down-Zoning Auth./Granville & Wake",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "f899d7de5bf88f26eefe50e6ed2990b3",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-03",
+  "url": "https://legiscan.com/NC/bill/S212/2025",
+  "aiSummary": "This bill restores the ability of local governments in Granville and Wake Counties to initiate down-zoning (reducing allowed development density or permitted uses) without needing written consent from all affected property owners. It reverses a restriction imposed by a 2024 state law and applies retroactively to December 11, 2024.",
+  "aiProArguments": "Supporters argue this bill gives local governments necessary flexibility to manage growth and protect community character by allowing them to reduce zoning density when appropriate, without being blocked by individual property owners. They contend that local elected officials, who are accountable to residents, should have authority to make zoning decisions that serve the broader public interest, such as preserving neighborhoods or managing development patterns.",
+  "aiConArguments": "Opponents argue that property owners have legitimate interests in their land use rights and that requiring consent protects them from having their property values or development potential reduced without agreement. They contend that this bill removes an important safeguard that ensures individual landowners cannot be unfairly burdened by government zoning changes and that local governments should need broad consensus before restricting property rights.",
+  "topic": "Local Government",
+  "textLength": 1940,
+  "createdAt": "2026-06-23T03:05:50.908Z",
+  "sponsors": [
+    {"peopleId":20510,"name":"Terence Everitt","party":"D","isPrimary":true},
+    {"peopleId":24222,"name":"Lisa Grafstein","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

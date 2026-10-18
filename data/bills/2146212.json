@@ -1,0 +1,21 @@
+{
+  "billId": 2146212,
+  "billNumber": "S877",
+  "title": "Repeal Service Tax",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "893bef19b55c59ccfc2057ba52b0ab5a",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2026-04-29",
+  "url": "https://legiscan.com/NC/bill/S877/2025",
+  "aiSummary": "This bill repeals North Carolina's service tax on service contracts effective July 1, 2026. It eliminates the tax on repair, maintenance, and installation services for most property types while making conforming changes to related tax laws, exemptions, and definitions throughout the state tax code.",
+  "aiProArguments": "Supporters argue that repealing the service tax reduces the tax burden on businesses and consumers who purchase services like repairs, maintenance, and installations. They contend that eliminating this tax simplifies the tax code, reduces compliance costs for service providers, and makes North Carolina more competitive by lowering the overall tax burden on service-related transactions.",
+  "aiConArguments": "Opponents argue that repealing the service tax will significantly reduce state revenue that currently funds government services and programs. They contend that the revenue loss could require cuts to education, infrastructure, or other state services, and may disproportionately benefit service businesses and wealthier consumers who purchase services more frequently than lower-income residents.",
+  "topic": "Taxes & Budget",
+  "textLength": 60253,
+  "createdAt": "2026-06-23T03:11:31.017Z",
+  "sponsors": [
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":true}
+  ],
+  "rollCalls": []
+}

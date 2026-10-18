@@ -1,0 +1,21 @@
+{
+  "billId": 2146103,
+  "billNumber": "S884",
+  "title": "Pinetops Charter Revised & Consolidated",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "6e087853eacd29c223d93ee0a7fa8d5a",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2026-04-29",
+  "url": "https://legiscan.com/NC/bill/S884/2025",
+  "aiSummary": "This bill revises and consolidates the charter (governing document) of the Town of Pinetops in Edgecombe County. It updates the town's organizational structure, including how the mayor and five-member board are elected, establishes key administrative positions, and sets procedures for meetings, contracts, and financial management.",
+  "aiProArguments": "Supporters argue that consolidating an outdated 1921 charter into a modern, streamlined document improves clarity and efficiency in local governance. A revised charter establishes clear procedures for elections, financial oversight, and administration, making it easier for town officials and residents to understand how the town operates. The bill also allows flexibility for the town to reorganize government as needed to serve residents more effectively.",
+  "aiConArguments": "Opponents might argue that consolidating charters can obscure important local provisions or historical protections that were in previous versions. Some residents could be concerned about potential changes to how the town operates, even though this bill primarily reorganizes existing arrangements. Additionally, the bill repeals Chapter 64 of the Private Laws of 1921, which some might view as eliminating historical local autonomy provisions in favor of state-level standards.",
+  "topic": "Local Government",
+  "textLength": 16059,
+  "createdAt": "2026-06-23T03:11:33.987Z",
+  "sponsors": [
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":true}
+  ],
+  "rollCalls": []
+}

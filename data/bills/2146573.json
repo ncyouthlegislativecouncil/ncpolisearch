@@ -1,0 +1,21 @@
+{
+  "billId": 2146573,
+  "billNumber": "H1119",
+  "title": "Annexation of PUV Land/School Capacity",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "1d5ea5de20251bf57481e7fcc7110997",
+  "lastAction": "Re-ref to the Com on Finance, if favorable, Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2026-06-16",
+  "url": "https://legiscan.com/NC/bill/H1119/2025",
+  "aiSummary": "This bill requires cities in Iredell County to obtain approval from the county board of commissioners before annexing certain agricultural or present-use-value land if the annexation would cause school enrollment to exceed current capacity. Cities can proceed without county approval only if they pay the county the costs needed to restore school capacity.",
+  "aiProArguments": "Supporters argue this protects county resources and planning by preventing cities from annexing land that would burden county school systems beyond capacity. It ensures the county has a voice in decisions that affect its schools and allows counties to either approve annexations or require cities to fund necessary school infrastructure, avoiding unfunded mandates on county budgets.",
+  "aiConArguments": "Opponents contend this limits cities' authority to annex contiguous property and could delay growth or development decisions. They argue it gives county commissioners veto power over city expansion and may be costly for cities, effectively requiring payment to the county for the privilege of annexation. Some may view it as an unnecessary restriction on municipal self-governance.",
+  "topic": "Local Government",
+  "textLength": 3820,
+  "createdAt": "2026-06-23T03:02:03.402Z",
+  "sponsors": [
+    {"peopleId":21375,"name":"Jeffrey McNeely","party":"R","isPrimary":true}
+  ],
+  "rollCalls": []
+}

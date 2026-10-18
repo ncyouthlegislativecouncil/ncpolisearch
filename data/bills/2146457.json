@@ -1,0 +1,25 @@
+{
+  "billId": 2146457,
+  "billNumber": "S903",
+  "title": "Public Employees Deserve A Voice Act",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "2c768220b517d3ec8894e72f501e4aa2",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2026-04-30",
+  "url": "https://legiscan.com/NC/bill/S903/2025",
+  "aiSummary": "This bill repeals North Carolina's ban on collective bargaining agreements between public employees and labor unions. Currently, state law declares such agreements illegal; this bill would remove that prohibition, allowing public employees to negotiate collectively with their employers starting July 1, 2026. The bill also appropriates $100,000 to inform public employees about the change.",
+  "aiProArguments": "Supporters argue that public employees deserve the same right to collective bargaining that private sector workers have, enabling them to negotiate better wages, benefits, and working conditions. They contend that collective bargaining promotes fair treatment, increases worker voice in employment decisions, and can improve public service quality by ensuring adequate staffing and resources. Advocates also note that 23 other states already permit public employee collective bargaining without significant problems.",
+  "aiConArguments": "Opponents worry that collective bargaining could increase labor costs for municipalities and state agencies, potentially raising taxes or reducing services. They argue that public sector unions may prioritize member interests over the public good and that elected officials, not unions, should control government budgets and operations. Critics also contend that existing civil service protections and grievance procedures already provide adequate employee protections without collective bargaining.",
+  "topic": "Business & Labor",
+  "textLength": 1544,
+  "createdAt": "2026-06-23T03:11:43.477Z",
+  "sponsors": [
+    {"peopleId":25858,"name":"Sophia Chitlik","party":"D","isPrimary":true},
+    {"peopleId":24222,"name":"Lisa Grafstein","party":"D","isPrimary":true},
+    {"peopleId":21633,"name":"Natalie Murdock","party":"D","isPrimary":false},
+    {"peopleId":25859,"name":"Caleb Theodros","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

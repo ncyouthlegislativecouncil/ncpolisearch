@@ -1,0 +1,22 @@
+{
+  "billId": 2014326,
+  "billNumber": "S743",
+  "title": "Funds for Davidson Emergency Services",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "d24b1e817c72a8f32cae9709aaa5bcda",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2025-03-26",
+  "url": "https://legiscan.com/NC/bill/S743/2025",
+  "aiSummary": "This bill appropriates $20.44 million in state funds to the Town of Davidson for emergency services, including $17 million for fire station construction, $3 million for an emergency vehicle, $100,000 for police equipment, and $340,000 for breathing apparatus equipment.",
+  "aiProArguments": "Supporters argue that Davidson's emergency services need infrastructure upgrades and equipment to respond effectively to calls and protect public safety. The funding would modernize aging facilities and equipment while supporting first responders in the community.",
+  "aiConArguments": "Opponents might question whether a $20.44 million appropriation to one town is the best use of state general funds when many communities have similar needs, or whether Davidson should fund these projects through local revenue sources or conventional financing rather than one-time state grants.",
+  "topic": "Taxes & Budget",
+  "textLength": 1196,
+  "createdAt": "2026-06-23T03:10:28.473Z",
+  "sponsors": [
+    {"peopleId":20223,"name":"Mujtaba Mohammed","party":"D","isPrimary":true},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

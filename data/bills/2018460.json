@@ -1,0 +1,26 @@
+{
+  "billId": 2018460,
+  "billNumber": "H679",
+  "title": "Funds for Spring Lake Projects",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "1e94b53a3a1de27e4b8745f879ab5e24",
+  "lastAction": "Ref to the Com on Appropriations, if favorable, Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-04-03",
+  "url": "https://legiscan.com/NC/bill/H679/2025",
+  "aiSummary": "This bill appropriates $5.4 million in state funds to the Town of Spring Lake for the 2025-2026 fiscal year. The money is designated for four purposes: $200,000 to restore the Historic Spring Lake Civic Center, $100,000 for the Spring Lake Fire Department, $5 million for infrastructure needs, and $100,000 to assist the Manchester Fire Department or other rural fire departments serving the Spring Lake area.",
+  "aiProArguments": "Supporters argue this bill addresses critical local needs in Spring Lake, including infrastructure improvements and emergency services funding that the town may lack resources to address independently. They contend that investing in civic infrastructure and fire department capacity improves public safety, emergency response times, and community facilities that benefit residents and attract economic development.",
+  "aiConArguments": "Opponents may argue that directing $5.4 million in state general funds to a single town raises questions about fairness to other municipalities with similar needs across North Carolina. They may also question whether the vague $5 million 'infrastructure needs' category provides sufficient oversight and accountability for how state funds are spent, or whether this represents an appropriate use of limited state resources.",
+  "topic": "Taxes & Budget",
+  "textLength": 1360,
+  "createdAt": "2026-06-23T02:56:18.149Z",
+  "sponsors": [
+    {"peopleId":25846,"name":"Mike Colvin","party":"D","isPrimary":true},
+    {"peopleId":22608,"name":"Diane Wheatley","party":"R","isPrimary":true},
+    {"peopleId":24206,"name":"Frances Jackson","party":"D","isPrimary":true},
+    {"peopleId":24216,"name":"Charles Smith","party":"D","isPrimary":true},
+    {"peopleId":22600,"name":"Terry Brown","party":"D","isPrimary":false},
+    {"peopleId":20515,"name":"Zack Forde-Hawkins","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

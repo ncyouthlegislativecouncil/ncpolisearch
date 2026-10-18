@@ -1,0 +1,21 @@
+{
+  "billId": 1956103,
+  "billNumber": "S54",
+  "title": "5th Senatorial District Local Act-1",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "db435f55fcf800e3fa04f527e82419e7",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-02-06",
+  "url": "https://legiscan.com/NC/bill/S54/2025",
+  "aiSummary": "This is a local bill that applies only to North Carolina's 5th Senatorial District. The bill text does not specify what changes or policies it implements, containing only framework language about its scope and effective date.",
+  "aiProArguments": "Supporters of local bills argue they allow the General Assembly to address specific regional needs and concerns that may not apply statewide. Local legislation can provide targeted solutions for particular districts without affecting the rest of the state.",
+  "aiConArguments": "Opponents of local bills raise concerns about transparency and equal treatment, noting that local legislation can be difficult for the public to track and may create inconsistent policies across districts. Critics also question whether issues affecting one district might warrant statewide attention and uniform standards.",
+  "topic": "Local Government",
+  "textLength": 502,
+  "createdAt": "2026-06-23T03:04:29.949Z",
+  "sponsors": [
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":true}
+  ],
+  "rollCalls": []
+}

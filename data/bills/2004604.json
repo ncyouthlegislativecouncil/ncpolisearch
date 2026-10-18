@@ -1,0 +1,25 @@
+{
+  "billId": 2004604,
+  "billNumber": "H387",
+  "title": "Eliminate Tax on Gov't Retirees",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "0b9e1af20fecf48c5e3e38dab5eb0186",
+  "lastAction": "Ref to the Com on State and Local Government, if favorable, Finance, if favorable, Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-03-13",
+  "url": "https://legiscan.com/NC/bill/H387/2025",
+  "aiSummary": "This bill makes retirement income from North Carolina state government, local government, and federal government retirement plans exempt from North Carolina state income tax. The exemption applies to taxable years beginning on or after January 1, 2026.",
+  "aiProArguments": "Supporters argue this bill provides tax relief to government retirees who have already contributed to these retirement systems throughout their careers. They contend that exempting retirement income makes North Carolina more competitive in retaining experienced government workers and recognizing their service, while also reducing the tax burden on seniors living on fixed retirement incomes.",
+  "aiConArguments": "Opponents argue this bill reduces state tax revenue that funds schools, roads, and other public services without identifying offsetting budget cuts or new revenue sources. They contend the exemption may primarily benefit higher-earning retirees and could be viewed as inequitable compared to private sector retirees who must pay taxes on their retirement savings and pensions.",
+  "topic": "Taxes & Budget",
+  "textLength": 1712,
+  "createdAt": "2026-06-23T02:50:01.212Z",
+  "sponsors": [
+    {"peopleId":25855,"name":"Mike Schietzelt","party":"R","isPrimary":true},
+    {"peopleId":25848,"name":"Cody Huneycutt","party":"R","isPrimary":true},
+    {"peopleId":2077,"name":"Mary Harrison","party":"D","isPrimary":false},
+    {"peopleId":24219,"name":"Bill Ward","party":"R","isPrimary":false},
+    {"peopleId":18495,"name":"Donna White","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

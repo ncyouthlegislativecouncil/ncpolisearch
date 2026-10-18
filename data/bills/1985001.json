@@ -1,0 +1,23 @@
+{
+  "billId": 1985001,
+  "billNumber": "H237",
+  "title": "Child Welfare",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "37be76c3a84fc9a16a1751f79f0f31de",
+  "lastAction": "Re-ref Com On Health",
+  "lastActionDate": "2025-03-18",
+  "url": "https://legiscan.com/NC/bill/H237/2025",
+  "aiSummary": "This bill makes multiple changes to North Carolina's child welfare laws, including shortening timelines for permanency planning (one year instead of reasonable time), establishing rules for a Regional Abuse and Medical Specialist program, requiring training for social services board members, and creating a private cause of action against the Department of Health and Human Services for operating programs without proper rulemaking procedures.",
+  "aiProArguments": "Supporters argue these changes prioritize child safety and permanency by setting clearer, faster timelines for finding stable homes. The bill requires specialized medical expertise through the RAMS program to identify abuse in young children, mandates better training for decision-makers overseeing child welfare, and holds the state accountable when it operates programs improperly. These measures aim to reduce delays and inconsistencies in the child welfare system.",
+  "aiConArguments": "Opponents worry that shorter timelines may pressure families into permanent separation before meaningful reunification efforts are complete, particularly for parents struggling with substance abuse who might benefit from treatment time. The RAMS program requires federal approval and creates potential coordination disputes between medical teams and county directors. Some concern that the private cause of action against DHHS could create legal burdens and uncertainty in how child welfare agencies operate.",
+  "topic": "Social Services & Welfare",
+  "textLength": 43960,
+  "createdAt": "2026-06-23T02:45:39.018Z",
+  "sponsors": [
+    {"peopleId":2127,"name":"Sarah Stevens","party":"R","isPrimary":true},
+    {"peopleId":2038,"name":"William Brisson","party":"R","isPrimary":false},
+    {"peopleId":24219,"name":"Bill Ward","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

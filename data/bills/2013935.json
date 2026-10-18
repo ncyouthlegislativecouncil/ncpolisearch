@@ -1,0 +1,21 @@
+{
+  "billId": 2013935,
+  "billNumber": "S533",
+  "title": "Vaping & Gambling Addiction Prev. Strategies",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "9f9bda25f14a38c668b9731fdd1d7b24",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2025-03-26",
+  "url": "https://legiscan.com/NC/bill/S533/2025",
+  "aiSummary": "This bill raises the minimum age to purchase tobacco and vapor products (including smart vapes) from 18 to 21 years old, expands licensing requirements for vapor product retailers, and increases funding for gambling addiction education and treatment programs from $2 million to $12 million annually using lottery revenues.",
+  "aiProArguments": "Supporters argue that raising the tobacco purchase age to 21 helps prevent youth nicotine addiction during critical developmental years, noting that the brain continues developing into the mid-20s. They contend that increased lottery funding for gambling addiction programs addresses a growing public health concern, particularly among young people, through prevention education, treatment expansion, and public awareness campaigns developed with addiction specialists and affected individuals.",
+  "aiConArguments": "Opponents may argue that age restrictions place enforcement burdens on retailers and question effectiveness when adjacent states have lower age limits. Some contend that dedicating lottery revenues specifically to gambling programs, rather than general education or debt reduction, represents a policy choice that diverts funds from other state priorities and may be challenged as using gambling proceeds to address gambling itself.",
+  "topic": "Healthcare",
+  "textLength": 15602,
+  "createdAt": "2026-06-23T03:08:39.435Z",
+  "sponsors": [
+    {"peopleId":20216,"name":"Jim Burgin","party":"R","isPrimary":true}
+  ],
+  "rollCalls": []
+}

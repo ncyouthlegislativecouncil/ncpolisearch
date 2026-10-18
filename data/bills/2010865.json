@@ -1,0 +1,26 @@
+{
+  "billId": 2010865,
+  "billNumber": "H458",
+  "title": "Improve Enforcement/Migrant Housing",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "55595a685b708dd1a692dded3115515f",
+  "lastAction": "Ref To Com On Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-03-20",
+  "url": "https://legiscan.com/NC/bill/H458/2025",
+  "aiSummary": "This bill strengthens enforcement of North Carolina's migrant housing standards by requiring operators to submit affidavits certifying they are not barred from agricultural labor programs, restricting post-occupancy inspections to operators with compliance issues, and requiring the Department of Labor to maintain detailed records and cross-reference violations by physical address rather than just operator name.",
+  "aiProArguments": "Supporters argue this bill improves migrant worker safety by closing loopholes that allowed operators previously cited for violations to relocate housing and avoid accountability. The requirement that violations be tracked by property address rather than operator name prevents bad actors from evading enforcement. Enhanced recordkeeping and reporting requirements create transparency and help identify operators who fail to comply with housing standards.",
+  "aiConArguments": "Opponents may argue the affidavit requirement and three-year inspection ban for false statements create administrative burdens on operators, potentially discouraging participation in the migrant housing program. The provision allowing self-inspections for operators with two consecutive perfect compliance years could reduce independent oversight. Some may contend that restricting post-occupancy inspections based on compliance history could leave inadequately monitored housing vulnerable to violations developing over time.",
+  "topic": "Business & Labor",
+  "textLength": 15495,
+  "createdAt": "2026-06-23T02:52:07.391Z",
+  "sponsors": [
+    {"peopleId":19238,"name":"Deb Butler","party":"D","isPrimary":true},
+    {"peopleId":2077,"name":"Mary Harrison","party":"D","isPrimary":true},
+    {"peopleId":24214,"name":"Renee Price","party":"D","isPrimary":true},
+    {"peopleId":19360,"name":"Marcia Morey","party":"D","isPrimary":true},
+    {"peopleId":18451,"name":"Mary Belk","party":"D","isPrimary":false},
+    {"peopleId":24202,"name":"Maria Cervania","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

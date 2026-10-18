@@ -1,0 +1,22 @@
+{
+  "billId": 1985046,
+  "billNumber": "S193",
+  "title": "Update Register of Deeds' Supp. Pension Fund",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "3f36f1057f691e8019fbacdaa5f27316",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-02-27",
+  "url": "https://legiscan.com/NC/bill/S193/2025",
+  "aiSummary": "This bill changes how retired registers of deeds in North Carolina receive supplemental pension payments. Starting October 1, 2025, instead of calculating benefits based on a share of available fund assets, all eligible retired registers of deeds will receive a fixed flat rate of $1,500 per month.",
+  "aiProArguments": "Supporters argue that a flat-rate pension provides predictability and security for retired registers of deeds, eliminating uncertainty about monthly benefit amounts that fluctuate based on fund performance. This approach simplifies administration and ensures a consistent, reliable income stream for retirees regardless of how much money is in the pension fund.",
+  "aiConArguments": "Opponents may be concerned that a fixed $1,500 monthly amount could strain the pension fund if it becomes insufficient to cover all payments, potentially requiring the state to provide additional funding. They might also argue that the fixed rate is inequitable to retirees with significantly longer service records who previously received proportionally larger benefits based on years of service.",
+  "topic": "Taxes & Budget",
+  "textLength": 10825,
+  "createdAt": "2026-06-23T03:05:42.121Z",
+  "sponsors": [
+    {"peopleId":20513,"name":"Bobby Hanig","party":"R","isPrimary":true},
+    {"peopleId":14615,"name":"Carl Ford","party":"R","isPrimary":true}
+  ],
+  "rollCalls": []
+}

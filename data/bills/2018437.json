@@ -1,0 +1,22 @@
+{
+  "billId": 2018437,
+  "billNumber": "H676",
+  "title": "Funds for Haywood County Schools",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "bd8fda42af5b35713777f421aeedb172",
+  "lastAction": "Ref to the Com on Appropriations, if favorable, Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-04-03",
+  "url": "https://legiscan.com/NC/bill/H676/2025",
+  "aiSummary": "This bill appropriates $1,524,978 in state funds to the Haywood County School System for specific projects: installing a turf field at Tuscola High School ($998,538), purchasing a metal building for a multipurpose locker room at C.E. Weatherby Stadium ($26,440), and making stadium improvements at Bethel Middle School ($500,000). The funds are nonrecurring and designated for the 2025-2026 fiscal year.",
+  "aiProArguments": "Supporters argue that this directed investment improves athletic facilities and infrastructure in Haywood County schools, which can benefit student athletes through better training and competition conditions. They contend that upgrading these facilities enhances the overall educational experience and may help attract and retain students and families in the county.",
+  "aiConArguments": "Opponents may argue that directing state funds to specific local projects raises questions about fairness to other school districts with similar facility needs across North Carolina. Critics might also question whether these athletics-focused expenditures represent the best use of limited state education dollars compared to classroom resources, teacher salaries, or schools in more economically disadvantaged areas.",
+  "topic": "Education",
+  "textLength": 1345,
+  "createdAt": "2026-06-23T02:56:16.213Z",
+  "sponsors": [
+    {"peopleId":22617,"name":"Mark Pless","party":"R","isPrimary":true},
+    {"peopleId":20515,"name":"Zack Forde-Hawkins","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

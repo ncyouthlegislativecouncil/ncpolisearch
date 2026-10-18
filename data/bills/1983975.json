@@ -1,0 +1,21 @@
+{
+  "billId": 1983975,
+  "billNumber": "S173",
+  "title": "23rd Senatorial District Local Act-1",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "84437fc4e6289d782fd3a5712f16c0c5",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-02-27",
+  "url": "https://legiscan.com/NC/bill/S173/2025",
+  "aiSummary": "This is a local bill that applies only to North Carolina's 23rd Senatorial District. The bill text does not specify what changes or provisions it contains—it only establishes that whatever follows applies to that district and becomes effective when signed into law.",
+  "aiProArguments": "Supporters of local bills argue they allow the General Assembly to address specific, localized needs within a particular district that may not require statewide legislation. This targeted approach can provide tailored solutions for constituents in the 23rd Senatorial District without affecting other regions of the state.",
+  "aiConArguments": "Opponents of local bills raise concerns about transparency and equal treatment, arguing that such legislation can be difficult for the public to track and understand, and that special provisions for one district may seem unfair to other communities. Additionally, without knowing the specific provisions in this bill, critics cannot evaluate whether the localized approach is appropriate or if the measure could affect voting rights, representation, or other sensitive matters.",
+  "topic": "Local Government",
+  "textLength": 508,
+  "createdAt": "2026-06-23T03:05:33.433Z",
+  "sponsors": [
+    {"peopleId":16251,"name":"Graig Meyer","party":"D","isPrimary":true}
+  ],
+  "rollCalls": []
+}

@@ -1,0 +1,23 @@
+{
+  "billId": 2013977,
+  "billNumber": "S522",
+  "title": "Thrive at Midlife Act",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "e06f3ab42c05c1ed22d0c34c9d6746fb",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-26",
+  "url": "https://legiscan.com/NC/bill/S522/2025",
+  "aiSummary": "The Thrive at Midlife Act expands healthcare access and affordability for North Carolina women ages 40-65 by requiring health insurance plans to cover essential midlife services (menopause care, cancer screenings, mental health services, etc.), establishing grant programs for uninsured women and small businesses, and creating tax credits for individuals and employers paying out-of-pocket midlife healthcare expenses. The bill also funds provider training programs, telehealth infrastructure, regional health hubs, public awareness campaigns, and establishes an advisory council to oversee implementation.",
+  "aiProArguments": "Supporters argue this bill addresses a critical gap in healthcare access for midlife women who face unique health challenges like menopause, osteoporosis, and cardiovascular disease. The bill provides financial relief through tax credits and grants, expands provider training to increase specialist availability, and improves preventive care access—which can reduce long-term healthcare costs. Advocates contend that comprehensive midlife healthcare improves quality of life and workforce productivity while promoting health equity, particularly for low-income women and those in rural areas.",
+  "aiConArguments": "Opponents may argue the bill creates significant new state spending ($20+ million in appropriations over the biennium) during budget constraints, imposing mandates on private insurance that could increase premiums. Some question whether the tax credits effectively target those most in need versus benefiting higher-income individuals, and whether new government programs duplicate existing services. Critics may also raise concerns about the scope of covered services, the size of the advisory council, and whether these measures represent appropriate state intervention in healthcare decisions best left to individuals and their doctors.",
+  "topic": "Healthcare",
+  "textLength": 31395,
+  "createdAt": "2026-06-23T03:08:34.526Z",
+  "sponsors": [
+    {"peopleId":25859,"name":"Caleb Theodros","party":"D","isPrimary":true},
+    {"peopleId":25860,"name":"Woodson Bradley","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

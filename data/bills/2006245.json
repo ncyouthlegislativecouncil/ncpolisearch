@@ -1,0 +1,21 @@
+{
+  "billId": 2006245,
+  "billNumber": "S292",
+  "title": "Funds/Town of Grifton Resiliency",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "49ba93be7c0bdddc9cb2b696fa236705",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2025-03-20",
+  "url": "https://legiscan.com/NC/bill/S292/2025",
+  "aiSummary": "This bill appropriates $3 million in state funds to the Town of Grifton during fiscal year 2025-2026 to design and construct flood mitigation and resiliency projects. The funds come from the state's General Fund and are designated as nonrecurring (one-time) spending.",
+  "aiProArguments": "Supporters argue that Grifton faces flooding challenges that threaten public safety, property, and economic stability, and that state investment in flood resiliency protects residents and infrastructure. They contend that helping communities prepare for and mitigate flood damage is a legitimate state priority that prevents costlier emergency response and recovery efforts down the road.",
+  "aiConArguments": "Opponents may argue that directing $3 million to a single town raises questions about fairness to other flood-vulnerable communities across North Carolina that also need resiliency funding. They might also question whether one-time state appropriations are the best long-term approach, or whether local governments should prioritize flood mitigation through their own budgets or federal grant programs.",
+  "topic": "Taxes & Budget",
+  "textLength": 726,
+  "createdAt": "2026-06-23T03:06:28.375Z",
+  "sponsors": [
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":true}
+  ],
+  "rollCalls": []
+}

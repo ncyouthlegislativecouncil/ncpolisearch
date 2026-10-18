@@ -1,0 +1,22 @@
+{
+  "billId": 2146946,
+  "billNumber": "S1038",
+  "title": "Henry's Law",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "41cd390966e6ef155a982420b60191c4",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2026-05-04",
+  "url": "https://legiscan.com/NC/bill/S1038/2025",
+  "aiSummary": "Henry's Law requires dentists who administer general anesthesia or sedation to report serious adverse events (patient deaths, permanent brain damage, hospital admissions, or specific medical emergencies) to the North Carolina Board of Dental Examiners within 72 hours to 30 days depending on severity. The bill also directs a UNC study to evaluate whether a second anesthesia-qualified provider should be present during deep sedation procedures, funded with $100,000.",
+  "aiProArguments": "Supporters argue this bill enhances patient safety by creating accountability and transparency when serious complications occur during dental anesthesia procedures. They contend that mandatory reporting allows the Board to investigate problems, identify unsafe practices, and protect the public by preventing dentists with safety violations from continuing to administer anesthesia. The study on second-provider requirements addresses concerns about whether current staffing standards are adequate for high-risk sedation.",
+  "aiConArguments": "Opponents may argue that the reporting requirements impose administrative burdens on dentists and could lead to defensive practices or increased liability concerns. Some may question whether mandatory reporting of all adverse events could discourage dentists from offering anesthesia services, potentially reducing patient access to sedation options for dental procedures. Others might contend that the study's cost and timeline add governmental expense without clear evidence that changes to anesthesia provider requirements are necessary.",
+  "topic": "Healthcare",
+  "textLength": 4070,
+  "createdAt": "2026-06-23T03:12:52.133Z",
+  "sponsors": [
+    {"peopleId":17504,"name":"Michael Lee","party":"R","isPrimary":true},
+    {"peopleId":22423,"name":"Amy Galey","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

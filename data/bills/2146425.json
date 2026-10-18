@@ -1,0 +1,21 @@
+{
+  "billId": 2146425,
+  "billNumber": "S918",
+  "title": "Winston-Salem/Forsyth Joint EOC Funds",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "0230093660fcae0716573a9cb50131ee",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2026-04-30",
+  "url": "https://legiscan.com/NC/bill/S918/2025",
+  "aiSummary": "This bill appropriates $1 million in state funds to Forsyth County for fiscal year 2026-2027 to help the county and City of Winston-Salem build a joint emergency operations center. The center would improve coordination and emergency response between the two government entities.",
+  "aiProArguments": "Supporters argue that a joint emergency operations center improves emergency preparedness and response coordination during disasters, fires, medical crises, and other emergencies. They contend that consolidating resources and communication between city and county officials saves money long-term and helps protect residents more effectively.",
+  "aiConArguments": "Opponents may question whether $1 million is sufficient for a permanent facility, whether this represents the best use of limited state resources, or whether local governments should fund this project themselves. Some may also raise concerns about ongoing operational costs beyond the initial construction grant.",
+  "topic": "Taxes & Budget",
+  "textLength": 970,
+  "createdAt": "2026-06-23T03:11:52.478Z",
+  "sponsors": [
+    {"peopleId":17457,"name":"Paul Lowe","party":"D","isPrimary":true}
+  ],
+  "rollCalls": []
+}

@@ -1,0 +1,32 @@
+{
+  "billId": 2018821,
+  "billNumber": "H695",
+  "title": "Support VIPER/Assist 911 Operations/Dispatch",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "c1019bd565dbb24b2c20a2df8f70beee",
+  "lastAction": "Re-ref Com On Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-04-16",
+  "url": "https://legiscan.com/NC/bill/H695/2025",
+  "aiSummary": "This bill requires North Carolina's 911 Board to allocate a minimum of 20% of 911 service charge revenues to the State Highway Patrol for maintenance and support of the VIPER public safety radio system. VIPER is used to enable 911 system interoperability and coordinate first responder dispatch across the state. The change takes effect July 1, 2025.",
+  "aiProArguments": "Supporters argue that dedicated funding ensures the VIPER system remains reliable and well-maintained, which is critical for emergency response coordination and first responder safety. A dedicated funding stream prevents the system from competing with other 911 priorities and guarantees consistent resources for this statewide interoperability infrastructure that benefits all counties and emergency services.",
+  "aiConArguments": "Opponents may contend that mandating 20% of 911 funds to VIPER reduces flexibility in how the 911 Board allocates resources to other pressing needs, such as direct PSAP operations or Next Generation 911 services. They might argue that funding priorities should be determined case-by-case based on current needs rather than through fixed percentage allocations.",
+  "topic": "Criminal Justice & Public Safety",
+  "textLength": 3171,
+  "createdAt": "2026-06-23T02:56:32.269Z",
+  "sponsors": [
+    {"peopleId":18460,"name":"Brenden Jones","party":"R","isPrimary":true},
+    {"peopleId":22612,"name":"Charles Miller","party":"R","isPrimary":true},
+    {"peopleId":20523,"name":"Carson Smith","party":"R","isPrimary":true},
+    {"peopleId":22946,"name":"Reece Pyrtle","party":"R","isPrimary":true},
+    {"peopleId":25845,"name":"Grant Campbell","party":"R","isPrimary":false},
+    {"peopleId":22965,"name":"Donnie Loftis","party":"R","isPrimary":false},
+    {"peopleId":22615,"name":"Howard Penny","party":"R","isPrimary":false},
+    {"peopleId":14634,"name":"Stephen Ross","party":"R","isPrimary":false},
+    {"peopleId":25856,"name":"Paul Scott","party":"R","isPrimary":false},
+    {"peopleId":18464,"name":"Larry Strickland","party":"R","isPrimary":false},
+    {"peopleId":24219,"name":"Bill Ward","party":"R","isPrimary":false},
+    {"peopleId":18495,"name":"Donna White","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

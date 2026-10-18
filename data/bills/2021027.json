@@ -1,0 +1,26 @@
+{
+  "billId": 2021027,
+  "billNumber": "H803",
+  "title": "3-Year FDA Approval for New Childhood Vaxx",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "705762485002dca04c9b3fc3dbe29029",
+  "lastAction": "Ref to the Com on Health, if favorable, Education - K-12, if favorable, Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-04-08",
+  "url": "https://legiscan.com/NC/bill/H803/2025",
+  "aiSummary": "This bill requires that new vaccines added to North Carolina's childhood immunization schedule must have been FDA-approved for at least three years, unless both the North Carolina Medical Society and North Carolina Pediatric Society boards recommend adding a newer vaccine. The bill modifies the current process for adding vaccines to the state's required immunizations for children.",
+  "aiProArguments": "Supporters argue this bill provides a safety buffer by ensuring new vaccines have longer real-world usage data before being required for all children. They contend the three-year waiting period allows time to identify any rare side effects that might not appear in initial clinical trials, and that requiring approval from both major medical societies adds an additional layer of expert medical judgment to the decision-making process.",
+  "aiConArguments": "Opponents argue the three-year waiting period could delay children's access to protection against serious diseases, potentially leaving them vulnerable during outbreak situations. They contend that FDA approval already requires rigorous safety testing, that waiting periods are unnecessary when public health emergencies exist, and that the bill could politicize medical decisions by making vaccine adoption dependent on two board votes rather than solely on scientific evidence and public health need.",
+  "topic": "Healthcare",
+  "textLength": 5816,
+  "createdAt": "2026-06-23T02:57:55.253Z",
+  "sponsors": [
+    {"peopleId":2031,"name":"Hugh Blackwell","party":"R","isPrimary":true},
+    {"peopleId":24197,"name":"Brian Biggs","party":"R","isPrimary":true},
+    {"peopleId":18461,"name":"Larry Potts","party":"R","isPrimary":true},
+    {"peopleId":25214,"name":"Heather Rhyne","party":"R","isPrimary":true},
+    {"peopleId":22965,"name":"Donnie Loftis","party":"R","isPrimary":false},
+    {"peopleId":24219,"name":"Bill Ward","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

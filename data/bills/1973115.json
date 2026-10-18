@@ -1,0 +1,24 @@
+{
+  "billId": 1973115,
+  "billNumber": "H153",
+  "title": "DOT/DEQ to Study Safety and Emissions Inspec",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "2c2cdf2d1eae092ae7e718ff7b105490",
+  "lastAction": "Re-ref Com On Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-04-09",
+  "url": "https://legiscan.com/NC/bill/H153/2025",
+  "aiSummary": "This bill directs the North Carolina Department of Transportation and Department of Environmental Quality to jointly study the state's vehicle safety and emissions inspection program. The study will examine whether inspection frequency can be reduced or eliminated, analyze the program's efficiency in light of modern vehicles, and provide recommendations to the General Assembly by March 1, 2026.",
+  "aiProArguments": "Supporters argue this study is needed to modernize inspection requirements, as newer vehicles have improved safety features and emissions controls that may reduce the need for frequent inspections. The study could identify ways to reduce costs for vehicle owners through lower fees or less frequent inspections while maintaining public safety and air quality, and may streamline an outdated program to match current vehicle technology and commuting patterns.",
+  "aiConArguments": "Opponents may be concerned that reducing or eliminating inspections could compromise public safety by allowing unsafe vehicles on roads or harm air quality by failing to catch emissions problems. They may also worry about negative financial impacts on the state (which collects inspection fees) and on independent inspection stations that rely on the program for business revenue.",
+  "topic": "Environment & Energy",
+  "textLength": 2689,
+  "createdAt": "2026-06-23T02:43:14.894Z",
+  "sponsors": [
+    {"peopleId":22615,"name":"Howard Penny","party":"R","isPrimary":true},
+    {"peopleId":22613,"name":"Ben Moss","party":"R","isPrimary":true},
+    {"peopleId":2077,"name":"Mary Harrison","party":"D","isPrimary":false},
+    {"peopleId":21375,"name":"Jeffrey McNeely","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

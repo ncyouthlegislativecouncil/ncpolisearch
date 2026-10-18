@@ -1,0 +1,27 @@
+{
+  "billId": 2014068,
+  "billNumber": "S640",
+  "title": "AI Ethics and Literacy Across Education",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "760364119496a9e44bfc4bea26994cc6",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-26",
+  "url": "https://legiscan.com/NC/bill/S640/2025",
+  "aiSummary": "This bill requires North Carolina's State Board of Education to develop age-appropriate standards for teaching artificial intelligence in schools from kindergarten through grade 12. The standards must cover AI basics, real-world applications, economic and legal issues, and ethical use including privacy, oversight, and bias awareness. Schools can incorporate this instruction into existing computer science courses.",
+  "aiProArguments": "Supporters argue that AI literacy is essential for students to understand technology that increasingly affects their lives and future careers. They contend that teaching AI ethics early helps students develop critical thinking about bias, privacy, and responsible use, preparing them for an AI-driven economy and workforce. Proponents also believe that standardized instruction ensures all North Carolina students have equal access to this important knowledge regardless of their school district.",
+  "aiConArguments": "Opponents may worry about implementation costs and teacher training requirements to effectively teach complex AI concepts across all grade levels. Some raise concerns about whether current K-12 curricula have room for additional subjects or whether schools should prioritize other foundational skills first. Others question whether age-appropriate standards can be effectively developed and whether the instruction might become outdated quickly given how rapidly AI technology evolves.",
+  "topic": "Education",
+  "textLength": 1615,
+  "createdAt": "2026-06-23T03:09:35.236Z",
+  "sponsors": [
+    {"peopleId":25860,"name":"Woodson Bradley","party":"D","isPrimary":true},
+    {"peopleId":25859,"name":"Caleb Theodros","party":"D","isPrimary":true},
+    {"peopleId":17936,"name":"Jay Chaudhuri","party":"D","isPrimary":true},
+    {"peopleId":21633,"name":"Natalie Murdock","party":"D","isPrimary":false},
+    {"peopleId":22426,"name":"DeAndrea Salvador","party":"D","isPrimary":false},
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

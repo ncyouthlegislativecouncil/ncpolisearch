@@ -1,0 +1,22 @@
+{
+  "billId": 1986676,
+  "billNumber": "S208",
+  "title": "SchCalFlex/Durham/Aug 10 & Assmnts",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "e696ca7dff18a858b36ea79fad980688",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-03",
+  "url": "https://legiscan.com/NC/bill/S208/2025",
+  "aiSummary": "This bill allows Durham County Schools to start the school year as early as the Monday closest to August 10, instead of the current requirement of no earlier than the Monday closest to August 26. It also permits Durham schools that end their fall semester before December 31 to give assessments and final exams before the semester ends, rather than waiting until the final days of the school year.",
+  "aiProArguments": "Supporters argue this gives Durham County Schools flexibility to design calendars that better meet their community's needs, such as aligning with the academic calendar at nearby universities or accommodating local tourism and economic patterns. An earlier start date allows more time for instruction before winter breaks and may help students retain material better by spacing out their learning throughout the fall.",
+  "aiConArguments": "Opponents may worry that an August 10 start date conflicts with summer activities, family vacations, and recreation programs that many North Carolinians rely on, particularly affecting working families who depend on summer childcare solutions. They might also question why this special flexibility applies only to Durham County rather than being available statewide, raising concerns about consistency and fairness across the state's school systems.",
+  "topic": "Education",
+  "textLength": 3340,
+  "createdAt": "2026-06-23T03:05:48.508Z",
+  "sponsors": [
+    {"peopleId":25858,"name":"Sophia Chitlik","party":"D","isPrimary":true},
+    {"peopleId":21633,"name":"Natalie Murdock","party":"D","isPrimary":true}
+  ],
+  "rollCalls": []
+}

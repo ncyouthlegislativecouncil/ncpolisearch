@@ -1,0 +1,29 @@
+{
+  "billId": 2013220,
+  "billNumber": "S456",
+  "title": "Healthy Start NC",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "9c4a2bcdcd4ae4360b151ab453b08bf4",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-25",
+  "url": "https://legiscan.com/NC/bill/S456/2025",
+  "aiSummary": "Healthy Start NC creates a program providing cash assistance to expecting mothers and new parents to help cover prenatal and infant care costs, funded by approximately $308 million annually from federal TANF funds and state General Fund appropriations. The bill offsets these costs by gradually reducing the corporate income tax rate from 2.25% to 0% over several years, with the rate dropping to 2% in 2026, 1% in 2028, and 0% after 2029.",
+  "aiProArguments": "Supporters argue this bill addresses maternal mortality and childhood poverty by providing direct financial support to vulnerable families during critical periods, with funds available for food, prenatal care, diapers, formula, and childcare. They contend that lowering corporate tax rates makes North Carolina more competitive for business investment and aligns corporate tax burdens more closely with individual income tax rates, potentially stimulating economic growth that generates tax revenue.",
+  "aiConArguments": "Opponents may argue that eliminating corporate income taxes significantly reduces state revenue needed for schools, infrastructure, and public services, particularly concerning given the substantial new spending commitment. Critics may also question whether cash assistance is the most effective approach to addressing maternal mortality compared to direct healthcare investments, and whether the eventual zero corporate tax rate is fiscally sustainable for a state budget.",
+  "topic": "Social Services & Welfare",
+  "textLength": 6851,
+  "createdAt": "2026-06-23T03:08:00.623Z",
+  "sponsors": [
+    {"peopleId":25858,"name":"Sophia Chitlik","party":"D","isPrimary":true},
+    {"peopleId":21633,"name":"Natalie Murdock","party":"D","isPrimary":true},
+    {"peopleId":22426,"name":"DeAndrea Salvador","party":"D","isPrimary":true},
+    {"peopleId":20220,"name":"Michael Garrett","party":"D","isPrimary":false},
+    {"peopleId":24222,"name":"Lisa Grafstein","party":"D","isPrimary":false},
+    {"peopleId":22425,"name":"Julie Mayfield","party":"D","isPrimary":false},
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":false},
+    {"peopleId":25859,"name":"Caleb Theodros","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

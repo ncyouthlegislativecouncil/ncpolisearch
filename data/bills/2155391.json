@@ -1,0 +1,22 @@
+{
+  "billId": 2155391,
+  "billNumber": "H1243",
+  "title": "Adjournment Resolution",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "df42ded701d72e30e060cd51c4d153d1",
+  "lastAction": "Re-ref Com On Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2026-07-02",
+  "url": "https://legiscan.com/NC/bill/H1243/2025",
+  "aiSummary": "This resolution pauses the 2025 legislative session on July 2, 2026, and allows lawmakers to reconvene on July 27, 2026, to address only specific matters like budget bills, constitutional amendments, pending bills from earlier in the year, gubernatorial appointments, and election law changes.",
+  "aiProArguments": "Supporters argue this structure provides efficiency by focusing the reconvened session on essential business like budget matters and judicial appointments rather than debating numerous bills. It allows legislators to return to their districts and constituents for an extended period while reserving time for critical legislative functions that cannot wait until the next regular session.",
+  "aiConArguments": "Opponents may contend that the strict limitations on what can be considered limit the legislature's responsiveness to emerging issues or urgent legislation that doesn't fit the approved categories. The narrow scope could prevent important bills from receiving consideration if they arise after the April deadline or don't fall within the specified allowable categories.",
+  "topic": "Other / General Government",
+  "textLength": 6337,
+  "createdAt": "2026-07-03T11:36:00.142Z",
+  "sponsors": [
+    {"peopleId":14604,"name":"John Bell","party":"R","isPrimary":true},
+    {"peopleId":2122,"name":"Mitchell Setzer","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

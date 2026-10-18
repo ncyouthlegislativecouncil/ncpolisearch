@@ -1,0 +1,31 @@
+{
+  "billId": 1972170,
+  "billNumber": "S113",
+  "title": "Removal of Squatters from Private Property",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "6e3e6eab94dbef19a945d276821d2924",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-02-18",
+  "url": "https://legiscan.com/NC/bill/S113/2025",
+  "aiSummary": "This bill creates a faster legal process for property owners to remove squatters (unauthorized occupants with no legal right to be there) from residential property in North Carolina. A property owner can file a sworn affidavit with a clerk of court or magistrate, and law enforcement must remove the person within 24 hours if the conditions are met.",
+  "aiProArguments": "Supporters argue this bill protects property owners' rights by providing a quick remedy against squatters who have no legal claim to the property and refuse to leave. They contend the expedited process prevents prolonged illegal occupation and property damage while maintaining safeguards like sworn affidavits, clerk verification, and allowing removed persons to sue for wrongful removal if the affidavit was false.",
+  "aiConArguments": "Opponents worry the expedited 24-hour removal process may not allow adequate time to verify all claims or protect people who may have legitimate occupancy rights not covered by the bill's definition. They also express concern that removing someone's belongings to the property line during removal could result in property loss and that relying on affidavits alone—without court hearings—shifts the burden to the accused person to prove wrongful removal afterward rather than protecting them upfront.",
+  "topic": "Criminal Justice & Public Safety",
+  "textLength": 10736,
+  "createdAt": "2026-06-23T03:05:01.248Z",
+  "sponsors": [
+    {"peopleId":24226,"name":"Eddie Settle","party":"R","isPrimary":true},
+    {"peopleId":19669,"name":"Vickie Sawyer","party":"R","isPrimary":true},
+    {"peopleId":22424,"name":"Michael Lazzara","party":"R","isPrimary":true},
+    {"peopleId":25212,"name":"Bob Brinson","party":"R","isPrimary":false},
+    {"peopleId":18465,"name":"Danny Britt","party":"R","isPrimary":false},
+    {"peopleId":20216,"name":"Jim Burgin","party":"R","isPrimary":false},
+    {"peopleId":14615,"name":"Carl Ford","party":"R","isPrimary":false},
+    {"peopleId":11937,"name":"Ralph Hise","party":"R","isPrimary":false},
+    {"peopleId":20518,"name":"Steve Jarvis","party":"R","isPrimary":false},
+    {"peopleId":17437,"name":"Thomas McInnis","party":"R","isPrimary":false},
+    {"peopleId":11858,"name":"Timothy Moffitt","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

@@ -1,0 +1,24 @@
+{
+  "billId": 2014581,
+  "billNumber": "S749",
+  "title": "Work Training/Delinquent Child Support",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "c1fa6c01d15e3ad6862a0249d073de3f",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-26",
+  "url": "https://legiscan.com/NC/bill/S749/2025",
+  "aiSummary": "This bill allows courts to order individuals delinquent on child support payments to participate in job search or work-specific training as an alternative to incarceration for contempt of court. Participants must pay a minimum of $50 monthly in child support, complete training within six months, and notify the court of their progress or if they fail to meet attendance requirements.",
+  "aiProArguments": "Supporters argue this bill helps noncustodial parents get back on track by providing education and job training to increase their earning capacity and ability to pay child support. They contend this approach benefits children by keeping parents employed and in the workforce rather than incarcerated, which can make it harder for them to pay support obligations.",
+  "aiConArguments": "Opponents may argue that requiring only $50 monthly in payments during training could shortchange children who need more immediate financial support from their other parent. They may also be concerned that work-training alternatives could be seen as too lenient for those who willfully refuse to pay, or that without strict oversight, participants might not follow through with their training obligations.",
+  "topic": "Criminal Justice & Public Safety",
+  "textLength": 2248,
+  "createdAt": "2026-06-23T03:10:31.290Z",
+  "sponsors": [
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":true},
+    {"peopleId":12033,"name":"Warren Daniel","party":"R","isPrimary":false},
+    {"peopleId":22426,"name":"DeAndrea Salvador","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

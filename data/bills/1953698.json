@@ -1,0 +1,22 @@
+{
+  "billId": 1953698,
+  "billNumber": "H45",
+  "title": "GSC Moral Turpitude/Occupational Licensure",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "9b37b61d8a5c4a5ee5ae2ccab1990476",
+  "lastAction": "Re-ref Com On Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-02-26",
+  "url": "https://legiscan.com/NC/bill/H45/2025",
+  "aiSummary": "This bill clarifies and standardizes how North Carolina licensing boards consider criminal histories when deciding whether to grant, deny, or revoke professional licenses. It prohibits boards from automatically denying licenses based solely on convictions for crimes of 'moral turpitude' and instead requires boards to evaluate specific factors like the crime's seriousness, when it occurred, rehabilitation efforts, and how directly it relates to the licensed profession. The bill also adds transparency requirements, gives applicants advance notice of potential issues, and allows people with criminal histories to request advance guidance before completing training.",
+  "aiProArguments": "Supporters argue this bill helps people with past convictions have fair opportunities to work in licensed professions if they've shown rehabilitation. It removes the vague legal standard of 'moral turpitude' that has been applied inconsistently across different boards and professions. The bill increases fairness by requiring boards to consider each person's specific circumstances—including how long ago the crime occurred, their age at the time, and efforts to reform—rather than making automatic denials. Proponents say this supports workforce development and gives people second chances while still allowing boards to protect public safety by denying licenses when crimes directly relate to the profession.",
+  "aiConArguments": "Opponents may worry that weakening restrictions based on criminal history could compromise public safety in sensitive professions involving vulnerable people, like healthcare or childcare. Some argue the bill's emphasis on individualized case-by-case review creates more administrative work and uncertainty for licensing boards. Critics might contend that certain crimes should result in automatic license denials regardless of rehabilitation, particularly crimes involving dishonesty or violence. Concerns could also exist that the removal of 'moral turpitude' language and replacement with narrower definitions could inadvertently allow some people with serious criminal backgrounds into licensed professions where they pose risks.",
+  "topic": "Business & Labor",
+  "textLength": 79928,
+  "createdAt": "2026-06-23T02:39:06.453Z",
+  "sponsors": [
+    {"peopleId":14613,"name":"Robert Davis","party":"R","isPrimary":true},
+    {"peopleId":24219,"name":"Bill Ward","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

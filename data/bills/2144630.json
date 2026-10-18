@@ -1,0 +1,24 @@
+{
+  "billId": 2144630,
+  "billNumber": "S813",
+  "title": "NC Economic Forecasting Initiative",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "fb1aa465b7019d15fdea9e43bf399f8a",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2026-05-07",
+  "url": "https://legiscan.com/NC/bill/S813/2025",
+  "aiSummary": "This bill establishes the North Carolina Economic Forecasting Initiative at UNC-Chapel Hill's Kenan-Flagler Business School and appropriates $3 million annually starting in fiscal year 2026-2027. The Initiative will collect and provide county-level economic data and forecasts to state policymakers, businesses, and economic developers to support economic growth and development across North Carolina.",
+  "aiProArguments": "Supporters argue this initiative provides valuable, data-driven economic forecasting that helps state agencies, local governments, and businesses make better decisions about economic development and resource allocation. Proponents contend that accurate economic data and forecasts can attract new industries, help communities plan strategically, and create better opportunities for North Carolina residents by identifying growth areas and economic trends.",
+  "aiConArguments": "Opponents may question whether $3 million in recurring state funds is the best use of taxpayer money when existing economic data sources already exist. Critics might also raise concerns about potential data collection burdens on local governments and whether a university-based initiative duplicates work already performed by private forecasting firms or federal agencies like the Census Bureau.",
+  "topic": "Taxes & Budget",
+  "textLength": 2603,
+  "createdAt": "2026-06-23T03:10:57.117Z",
+  "sponsors": [
+    {"peopleId":11937,"name":"Ralph Hise","party":"R","isPrimary":true},
+    {"peopleId":22423,"name":"Amy Galey","party":"R","isPrimary":false},
+    {"peopleId":11858,"name":"Timothy Moffitt","party":"R","isPrimary":false},
+    {"peopleId":20223,"name":"Mujtaba Mohammed","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

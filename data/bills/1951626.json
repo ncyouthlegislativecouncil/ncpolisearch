@@ -1,0 +1,21 @@
+{
+  "billId": 1951626,
+  "billNumber": "S41",
+  "title": "36th Senatorial District Local Act-1",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "c69d279dd3739314f1646ddc576b980c",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-02-04",
+  "url": "https://legiscan.com/NC/bill/S41/2025",
+  "aiSummary": "This is a local bill that applies only to North Carolina's 36th Senatorial District. The bill text does not specify what changes or policies it implements—it only establishes that any provisions will affect only that district and take effect upon becoming law.",
+  "aiProArguments": "Supporters of local bills argue they allow targeted solutions for specific regions' unique needs without affecting the entire state. By limiting this act to the 36th Senatorial District, it can address local concerns more efficiently and avoid imposing one-size-fits-all policies on areas with different circumstances.",
+  "aiConArguments": "Opponents of local bills may argue that the vague language makes it impossible to evaluate the actual impact or merit of the legislation. They may also express concern that local bills can create inconsistent rules across districts and question why a change couldn't apply uniformly statewide if it's beneficial.",
+  "topic": "Local Government",
+  "textLength": 506,
+  "createdAt": "2026-06-23T03:04:23.396Z",
+  "sponsors": [
+    {"peopleId":24226,"name":"Eddie Settle","party":"R","isPrimary":true}
+  ],
+  "rollCalls": []
+}

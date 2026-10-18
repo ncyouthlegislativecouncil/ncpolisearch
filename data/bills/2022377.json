@@ -1,0 +1,26 @@
+{
+  "billId": 2022377,
+  "billNumber": "H891",
+  "title": "Civil Actions/State Agency and AG Litigation",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "6d0349a4f937b9176ce72392596ca10f",
+  "lastAction": "Re-ref Com On Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-05-06",
+  "url": "https://legiscan.com/NC/bill/H891/2025",
+  "aiSummary": "This bill establishes the Government Agency Forum Selection Act, requiring North Carolina and local governments to bring civil lawsuits in state courts rather than federal courts when both courts have jurisdiction, and prohibits them from removing cases to federal court when they are defendants. It also restricts the Attorney General from participating in out-of-state litigation that challenges state laws and requires legislative approval before the Attorney General can join class action lawsuits.",
+  "aiProArguments": "Supporters argue this bill keeps cases affecting North Carolina in state courts where judges are more familiar with state law and issues, reducing costs and delays from federal litigation. They contend it protects state sovereignty by preventing the Attorney General from undermining state laws in other jurisdictions and ensures the legislature maintains oversight of major class action decisions that could affect state policy.",
+  "aiConArguments": "Opponents contend this bill may limit the state's legal flexibility to pursue cases in the most appropriate forum, including federal court when federal law or interstate issues are involved. They argue the restrictions on the Attorney General's participation in out-of-state litigation could prevent the state from defending its interests in multi-state cases and that requiring legislative approval for class actions could delay urgent legal action or prevent participation in important consumer protection lawsuits.",
+  "topic": "Local Government",
+  "textLength": 3904,
+  "createdAt": "2026-06-23T02:59:01.804Z",
+  "sponsors": [
+    {"peopleId":2031,"name":"Hugh Blackwell","party":"R","isPrimary":true},
+    {"peopleId":25855,"name":"Mike Schietzelt","party":"R","isPrimary":true},
+    {"peopleId":2034,"name":"John Blust","party":"R","isPrimary":true},
+    {"peopleId":2083,"name":"Julia Howard","party":"R","isPrimary":true},
+    {"peopleId":22965,"name":"Donnie Loftis","party":"R","isPrimary":false},
+    {"peopleId":24219,"name":"Bill Ward","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

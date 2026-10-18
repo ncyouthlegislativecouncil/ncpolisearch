@@ -1,0 +1,26 @@
+{
+  "billId": 2014434,
+  "billNumber": "S747",
+  "title": "AI Learning Agenda",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "200cdb75c7d621052d3ccc93cc1066e5",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-26",
+  "url": "https://legiscan.com/NC/bill/S747/2025",
+  "aiSummary": "This bill creates an Office of Artificial Intelligence Policy within the Department of Commerce and establishes an AI Learning Laboratory program. The Office will inventory how state agencies use AI, identify regulatory gaps and barriers, and run a laboratory where AI companies can test new technologies under temporary regulatory flexibility in exchange for reporting data and safety monitoring.",
+  "aiProArguments": "Supporters argue this bill positions North Carolina as a leader in responsible AI innovation by creating a structured way to study AI's benefits and risks before passing permanent regulations. The learning model allows companies to test new technologies responsibly while the state gathers evidence-based information, and the bill includes safeguards like consumer disclosure requirements, bias testing, and removal provisions for companies causing harm. Supporters contend this approach is more effective than reactive regulation after problems occur.",
+  "aiConArguments": "Opponents worry the bill gives companies temporary relief from existing regulations, which could allow harmful AI technologies to operate before risks are fully understood. They argue that regulatory mitigation agreements prioritize innovation over consumer protection, and the temporary nature of the program (with annual reviews) may not provide sufficient accountability. Concerns also exist about whether the learning laboratory adequately represents civil rights and consumer interests alongside industry representatives.",
+  "topic": "Technology & Privacy",
+  "textLength": 18493,
+  "createdAt": "2026-06-23T03:10:30.505Z",
+  "sponsors": [
+    {"peopleId":22426,"name":"DeAndrea Salvador","party":"D","isPrimary":true},
+    {"peopleId":24220,"name":"Val Applewhite","party":"D","isPrimary":false},
+    {"peopleId":25860,"name":"Woodson Bradley","party":"D","isPrimary":false},
+    {"peopleId":21633,"name":"Natalie Murdock","party":"D","isPrimary":false},
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

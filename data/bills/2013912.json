@@ -1,0 +1,33 @@
+{
+  "billId": 2013912,
+  "billNumber": "S510",
+  "title": "Menstrual Products Sales Tax Exemption",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "f95a6bc4d10b8aeb1214700b5e0f0f7e",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-26",
+  "url": "https://legiscan.com/NC/bill/S510/2025",
+  "aiSummary": "This bill removes the sales tax from menstrual products including tampons, pads, menstrual cups, and panty liners in North Carolina. The exemption would take effect October 1, 2025, and apply to all future sales of these products.",
+  "aiProArguments": "Supporters argue that menstrual products are basic hygiene necessities, not luxury items, and should not be taxed like other goods. They contend the tax exemption reduces financial burden on menstruating individuals and addresses period poverty, making essential health products more affordable and accessible. Proponents point to other states that have already eliminated this tax, framing it as a fairness issue for a necessary expense.",
+  "aiConArguments": "Opponents worry about the fiscal impact to state revenue, arguing that exempting these products reduces tax collections that fund schools and services. Some question whether a sales tax exemption is the most effective way to address affordability concerns compared to other policy approaches. Critics may also argue about where to draw lines on product definitions or note that many other essential items remain taxed.",
+  "topic": "Taxes & Budget",
+  "textLength": 1157,
+  "createdAt": "2026-06-23T03:08:28.735Z",
+  "sponsors": [
+    {"peopleId":21633,"name":"Natalie Murdock","party":"D","isPrimary":true},
+    {"peopleId":25859,"name":"Caleb Theodros","party":"D","isPrimary":true},
+    {"peopleId":17147,"name":"Gale Adcock","party":"D","isPrimary":false},
+    {"peopleId":24220,"name":"Val Applewhite","party":"D","isPrimary":false},
+    {"peopleId":25860,"name":"Woodson Bradley","party":"D","isPrimary":false},
+    {"peopleId":25858,"name":"Sophia Chitlik","party":"D","isPrimary":false},
+    {"peopleId":24222,"name":"Lisa Grafstein","party":"D","isPrimary":false},
+    {"peopleId":22425,"name":"Julie Mayfield","party":"D","isPrimary":false},
+    {"peopleId":20223,"name":"Mujtaba Mohammed","party":"D","isPrimary":false},
+    {"peopleId":12032,"name":"Gladys Robinson","party":"D","isPrimary":false},
+    {"peopleId":22426,"name":"DeAndrea Salvador","party":"D","isPrimary":false},
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

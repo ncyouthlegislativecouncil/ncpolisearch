@@ -1,0 +1,27 @@
+{
+  "billId": 2011478,
+  "billNumber": "H468",
+  "title": "Regulate Kratom Products",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "f6fe988e89639937c541a7fd99fe5e3f",
+  "lastAction": "Re-ref Com On Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-06-24",
+  "url": "https://legiscan.com/NC/bill/H468/2025",
+  "aiSummary": "This bill creates a new regulatory framework for kratom products in North Carolina, requiring manufacturers, distributors, and retailers to obtain licenses from the Alcohol Law Enforcement Division. The bill establishes testing standards, labeling requirements, and sales restrictions (including a 21-year age minimum), and also prohibits kratom and hemp-derived consumable products on school property and for those under 21.",
+  "aiProArguments": "Supporters argue this bill protects public health by ensuring kratom products are tested for contaminants and dangerous substances, and prevents sales to minors who may be more vulnerable to harmful effects. The licensing system creates accountability and traceability in the kratom market. Clear labeling requirements inform consumers about product contents and safety warnings, and school prohibitions protect students from access to these products.",
+  "aiConArguments": "Opponents may argue the licensing fees ($250-$15,000 for manufacturers) and ongoing compliance costs could burden small businesses and limit market access. The regulations are extensive and may be seen as overly restrictive for a plant-based product with existing federal regulations. Some may contend the 21-year age restriction and school prohibitions treat kratom similarly to controlled substances despite its different legal status, and that enforcement resources diverted to kratom regulation could be better used elsewhere.",
+  "topic": "Business & Labor",
+  "textLength": 52720,
+  "createdAt": "2026-06-23T02:52:25.210Z",
+  "sponsors": [
+    {"peopleId":21375,"name":"Jeffrey McNeely","party":"R","isPrimary":true},
+    {"peopleId":2049,"name":"Patricia Cotham","party":"R","isPrimary":true},
+    {"peopleId":24203,"name":"Allen Chesser","party":"R","isPrimary":true},
+    {"peopleId":25845,"name":"Grant Campbell","party":"R","isPrimary":true},
+    {"peopleId":20519,"name":"Keith Kidwell","party":"R","isPrimary":false},
+    {"peopleId":25856,"name":"Paul Scott","party":"R","isPrimary":false},
+    {"peopleId":24219,"name":"Bill Ward","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

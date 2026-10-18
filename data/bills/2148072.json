@@ -1,0 +1,22 @@
+{
+  "billId": 2148072,
+  "billNumber": "H1225",
+  "title": "Winston-Salem Zoning Procedure Changes",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "4ddf1f9158f7732cec8f1bd773a807b1",
+  "lastAction": "Re-ref Com On Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2026-06-17",
+  "url": "https://legiscan.com/NC/bill/H1225/2025",
+  "aiSummary": "This bill allows Winston-Salem's Planning Board to hold hearings and make final decisions on zoning amendment requests, rather than having all decisions go to the City Council. The City Council retains the ability to set rules for the Planning Board and must provide a process for appealing Planning Board decisions back to the Council.",
+  "aiProArguments": "Supporters argue this streamlines the zoning process by reducing delays and allowing decisions to be made by planning professionals with expertise in land use. It also reduces the burden on City Council by delegating routine zoning matters to the Planning Board, potentially allowing the Council to focus on other city business.",
+  "aiConArguments": "Opponents may argue this reduces direct democratic oversight by moving decisions away from elected City Council members to appointed Planning Board members. Some may be concerned that without City Council review of all zoning decisions, local residents have less direct say in land use changes affecting their neighborhoods.",
+  "topic": "Local Government",
+  "textLength": 1312,
+  "createdAt": "2026-06-23T03:03:39.668Z",
+  "sponsors": [
+    {"peopleId":22611,"name":"Jeff Zenger","party":"R","isPrimary":true},
+    {"peopleId":24199,"name":"Kanika Brown","party":"D","isPrimary":true}
+  ],
+  "rollCalls": []
+}

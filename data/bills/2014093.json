@@ -1,0 +1,21 @@
+{
+  "billId": 2014093,
+  "billNumber": "S685",
+  "title": "Authorize Maint. Bonds/Subdivision Streets",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "cb3b471882b32fa8d92bfb374cf7961e",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-26",
+  "url": "https://legiscan.com/NC/bill/S685/2025",
+  "aiSummary": "This bill allows North Carolina counties to require developers to post a financial guarantee (such as a surety bond or letter of credit) before transferring newly built subdivision streets to the county for public maintenance. The guarantee ensures roads meet quality standards before acceptance, and any unused funds must be returned to the developer within 30 days of the road's acceptance into the public system.",
+  "aiProArguments": "Supporters argue this bill protects taxpayers by ensuring developers maintain roads to proper standards before handing them over to counties, preventing situations where poorly constructed streets become the county's expensive maintenance problem. The guarantee amount is capped at 20% of construction costs and must be released within 30 days of acceptance, so it does not create long-term financial burdens on developers. Additionally, if roads are not accepted within four years, they automatically transfer to the public system, preventing indefinite delays.",
+  "aiConArguments": "Opponents may argue that requiring developers to post maintenance guarantees increases development costs, which could be passed on to homebuyers through higher prices and potentially slow housing development. Some may also question whether the 20% guarantee cap is sufficient to actually cover repair costs if roads are defective, or worry that the automatic acceptance provision after four years could force counties to accept substandard roads without adequate time to address problems.",
+  "topic": "Transportation & Infrastructure",
+  "textLength": 6818,
+  "createdAt": "2026-06-23T03:10:00.460Z",
+  "sponsors": [
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":true}
+  ],
+  "rollCalls": []
+}

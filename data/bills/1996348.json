@@ -1,0 +1,23 @@
+{
+  "billId": 1996348,
+  "billNumber": "S263",
+  "title": "2025 Appropriations Act",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "093f7687d6f3399133971ef1dc1f5239",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2025-03-11",
+  "url": "https://legiscan.com/NC/bill/S263/2025",
+  "aiSummary": "This is a budget bill that authorizes spending from North Carolina's General Fund, Highway Fund, Highway Trust Fund, and federal block grants for state agencies and departments during the 2025-2027 fiscal years. The bill provides the legal framework for appropriating funds to maintain and operate state services, with any unused funds returning to their respective funds at year's end.",
+  "aiProArguments": "Supporters argue this bill is necessary to authorize baseline funding for essential state services including transportation, education, health, and human services that North Carolinians depend on. Proponents view appropriations bills as routine fiscal housekeeping that keeps government operating and allows state agencies to continue their core missions.",
+  "aiConArguments": "Opponents may argue the bill lacks specific details about spending priorities, making it difficult to assess whether funds are allocated efficiently or whether spending levels are appropriate. Some fiscal conservatives may question whether appropriation levels are sustainable or whether the budget adequately addresses state fiscal challenges, though the actual spending amounts are not visible in this summary document.",
+  "topic": "Taxes & Budget",
+  "textLength": 4020,
+  "createdAt": "2026-06-23T03:06:13.463Z",
+  "sponsors": [
+    {"peopleId":11937,"name":"Ralph Hise","party":"R","isPrimary":true},
+    {"peopleId":12009,"name":"William Jackson","party":"R","isPrimary":true},
+    {"peopleId":17504,"name":"Michael Lee","party":"R","isPrimary":true}
+  ],
+  "rollCalls": []
+}

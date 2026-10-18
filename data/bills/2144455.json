@@ -1,0 +1,27 @@
+{
+  "billId": 2144455,
+  "billNumber": "S789",
+  "title": "Homes for Heroes",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "6d913d239d11c6dc74037bcd90fc580b",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2026-04-23",
+  "url": "https://legiscan.com/NC/bill/S789/2025",
+  "aiSummary": "This bill creates two programs to support public servants in North Carolina. First, it establishes a homebuyers' assistance program through the Housing Finance Agency that provides up to $25,000 in down payment and mortgage insurance assistance to first-time homebuyers who work full-time as teachers, law enforcement officers, firefighters, emergency medical services personnel, active duty military members, or veterans. Second, it allows volunteer firefighters and rescue squad workers to claim an income tax credit of up to $5,000 for unreimbursed expenses related to their volunteer work.",
+  "aiProArguments": "Supporters argue this bill addresses workforce challenges by making homeownership more affordable for public servants who may struggle with high down payment costs, helping to recruit and retain teachers, police officers, firefighters, and emergency responders. The $200 million investment in down payment assistance could help these essential workers build wealth through homeownership while the tax credit recognizes the financial sacrifice of unpaid volunteers and encourages continued service in critical roles.",
+  "aiConArguments": "Opponents may argue that the $200 million appropriation creates significant state spending that must come from other budget areas or tax revenue. Others might question whether down payment assistance is the most effective use of public funds compared to addressing root causes like housing supply or affordability broadly, and whether targeting assistance to specific professions is the fairest approach to supporting homeownership across all workers.",
+  "topic": "Housing",
+  "textLength": 5271,
+  "createdAt": "2026-06-23T03:10:45.585Z",
+  "sponsors": [
+    {"peopleId":25860,"name":"Woodson Bradley","party":"D","isPrimary":true},
+    {"peopleId":20220,"name":"Michael Garrett","party":"D","isPrimary":false},
+    {"peopleId":24222,"name":"Lisa Grafstein","party":"D","isPrimary":false},
+    {"peopleId":22426,"name":"DeAndrea Salvador","party":"D","isPrimary":false},
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":false},
+    {"peopleId":25859,"name":"Caleb Theodros","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

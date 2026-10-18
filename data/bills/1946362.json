@@ -1,0 +1,21 @@
+{
+  "billId": 1946362,
+  "billNumber": "S21",
+  "title": "49th Senatorial District Local Act-1",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "cae4448fdf6745496924e24c9a159e4e",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-01-30",
+  "url": "https://legiscan.com/NC/bill/S21/2025",
+  "aiSummary": "This is a local bill that applies only to the 49th Senatorial District in North Carolina. The bill text provided does not specify what changes or policies it implements—it only establishes that any provisions will apply to that district and become effective upon passage.",
+  "aiProArguments": "Supporters of local bills argue they allow the General Assembly to address specific, localized needs that affect particular districts or communities without creating statewide policy. This approach can be more efficient and responsive to regional concerns that may not require or benefit from uniform state-wide legislation.",
+  "aiConArguments": "Opponents of local bills raise concerns about transparency and fairness, noting that without specific policy details in the bill text, it is difficult for constituents and the public to understand what is actually being changed. Critics also question whether local bills create a two-tiered system where some districts receive special treatment that others do not.",
+  "topic": "Local Government",
+  "textLength": 508,
+  "createdAt": "2026-06-23T03:04:13.729Z",
+  "sponsors": [
+    {"peopleId":22425,"name":"Julie Mayfield","party":"D","isPrimary":true}
+  ],
+  "rollCalls": []
+}

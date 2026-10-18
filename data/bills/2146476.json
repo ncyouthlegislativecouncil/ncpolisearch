@@ -1,0 +1,27 @@
+{
+  "billId": 2146476,
+  "billNumber": "S916",
+  "title": "2026 Appropriations Act",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "69628eac6df58e172beaaa185c72f340",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2026-04-30",
+  "url": "https://legiscan.com/NC/bill/S916/2025",
+  "aiSummary": "This bill authorizes spending from North Carolina's General Fund, Highway Fund, Highway Trust Fund, and federal block grant funds to pay for the normal operations of state agencies, departments, and institutions during the 2026-2027 fiscal year. The bill sets maximum spending amounts and allows any unspent money to be returned to the appropriate fund at year's end.",
+  "aiProArguments": "Supporters argue this bill is necessary to keep state government functioning by funding essential services like education, transportation, health and human services, and public safety. The bill ensures agencies have the resources needed to serve North Carolinians without spending more than budgeted amounts, promoting fiscal responsibility.",
+  "aiConArguments": "Opponents may argue the bill lacks transparency about specific spending priorities and does not show how budget decisions were made or justify funding levels for particular programs. Without seeing the detailed budget amounts, it is difficult to assess whether resources are allocated fairly across competing state needs or to evaluate the overall fiscal impact.",
+  "topic": "Taxes & Budget",
+  "textLength": 3883,
+  "createdAt": "2026-06-23T03:11:51.789Z",
+  "sponsors": [
+    {"peopleId":17504,"name":"Michael Lee","party":"R","isPrimary":true},
+    {"peopleId":11937,"name":"Ralph Hise","party":"R","isPrimary":true},
+    {"peopleId":12009,"name":"William Jackson","party":"R","isPrimary":true},
+    {"peopleId":22423,"name":"Amy Galey","party":"R","isPrimary":false},
+    {"peopleId":11858,"name":"Timothy Moffitt","party":"R","isPrimary":false},
+    {"peopleId":24223,"name":"Brad Overcash","party":"R","isPrimary":false},
+    {"peopleId":11862,"name":"Norman Sanderson","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

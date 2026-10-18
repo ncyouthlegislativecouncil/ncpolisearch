@@ -1,0 +1,21 @@
+{
+  "billId": 2013943,
+  "billNumber": "S531",
+  "title": "Extended Inpatient Treatment Reimbursable",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "2f3bc8f809d518b708e6fb983b1438e3",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-26",
+  "url": "https://legiscan.com/NC/bill/S531/2025",
+  "aiSummary": "This bill requires Local Management Entities (LMEs) and Local Management Entities/Managed Care Organizations (LME/MCOs) to reimburse private facilities for inpatient mental health treatment services that last longer than 30 days for patients who are under a court commitment order. Currently, reimbursement policies may not cover extended stays beyond this timeframe.",
+  "aiProArguments": "Supporters argue this bill ensures patients needing longer-term inpatient mental health treatment can access care without facilities bearing unreimbursed costs. They contend that extended commitment orders sometimes require treatment beyond 30 days, and private providers should not have to absorb these expenses, which could improve access to necessary mental health services and support the availability of inpatient beds.",
+  "aiConArguments": "Opponents may argue this bill could increase costs for LMEs and LME/MCOs at a time of limited mental health funding, potentially diverting resources from other mental health services. They may also question whether this creates incentives for unnecessarily extended stays or shifts financial responsibility without addressing underlying capacity and funding issues in the mental health system.",
+  "topic": "Healthcare",
+  "textLength": 1027,
+  "createdAt": "2026-06-23T03:08:38.496Z",
+  "sponsors": [
+    {"peopleId":20216,"name":"Jim Burgin","party":"R","isPrimary":true}
+  ],
+  "rollCalls": []
+}

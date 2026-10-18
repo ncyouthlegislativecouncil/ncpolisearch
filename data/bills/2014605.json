@@ -1,0 +1,25 @@
+{
+  "billId": 2014605,
+  "billNumber": "S750",
+  "title": "Restore the American Dream",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "1bba843def208769978cbea8229778f0",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2025-03-26",
+  "url": "https://legiscan.com/NC/bill/S750/2025",
+  "aiSummary": "This bill provides $30 million in immediate funding to the North Carolina Housing Trust Fund and creates two ongoing revenue sources for the fund: 1.5% of register of deeds fees and 33% of real property transfer excise tax proceeds. The bill aims to address North Carolina's shortage of affordable housing by ensuring the Housing Trust Fund has sustainable, recurring resources.",
+  "aiProArguments": "Supporters argue that affordable housing is critical to North Carolina's economy and workforce stability, noting that businesses won't locate where workers can't afford to live. They point out that the Housing Trust Fund is highly efficient, generating $5.17 million in affordable housing value and 110 jobs for every $1 million spent, and that over 815,000 North Carolinians lack access to affordable housing. The bill's dedicated revenue streams create predictable, long-term funding rather than relying on annual appropriations.",
+  "aiConArguments": "Opponents may argue that the bill redirects revenue that could go to other state priorities like education, transportation, or tax relief. Some may question whether a state housing program is the most efficient solution compared to removing regulatory barriers to housing development, and whether the $30 million one-time allocation and ongoing funding percentages are appropriate given competing budget demands across state services.",
+  "topic": "Housing",
+  "textLength": 6753,
+  "createdAt": "2026-06-23T03:10:31.660Z",
+  "sponsors": [
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":true},
+    {"peopleId":21633,"name":"Natalie Murdock","party":"D","isPrimary":true},
+    {"peopleId":25860,"name":"Woodson Bradley","party":"D","isPrimary":false},
+    {"peopleId":20220,"name":"Michael Garrett","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

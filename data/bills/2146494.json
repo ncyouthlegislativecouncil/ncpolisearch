@@ -1,0 +1,26 @@
+{
+  "billId": 2146494,
+  "billNumber": "H1101",
+  "title": "Hatteras-Ocracoke Hovercraft Pilot Program",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "083b766944c16b7de711f08156140134",
+  "lastAction": "Ref to the Com on Appropriations, if favorable, Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2026-04-30",
+  "url": "https://legiscan.com/NC/bill/H1101/2025",
+  "aiSummary": "This bill establishes a two-year pilot program for the North Carolina Department of Transportation to test hovercraft ferries on the Hatteras-Ocracoke route. The program will study whether hovercraft can reduce travel times, cut dredging costs, replace aging diesel ferries, and generate revenue through visitor fees while keeping rides free for residents. The bill allocates $25 million and requires progress reports to the legislature by March 2027 and December 2027.",
+  "aiProArguments": "Supporters argue that hovercraft ferries could solve multiple problems: reducing the need for expensive dredging of Hatteras Inlet (saving taxpayer money long-term), improving travel times for island residents and visitors, and replacing an aging diesel ferry fleet. They also point out that a fee structure charging visitors while keeping rides free for residents could create a sustainable funding model that benefits local communities while offsetting operational costs.",
+  "aiConArguments": "Opponents may be concerned about the $25 million upfront investment and whether the pilot program will actually deliver promised savings, since hovercraft technology in marine environments is relatively unproven at scale. Critics might also question whether visitor fees could harm tourism to the Outer Banks, and whether a two-year pilot period provides sufficient data to justify replacing the entire ferry fleet or making long-term decisions about retiring current vessels.",
+  "topic": "Transportation & Infrastructure",
+  "textLength": 3693,
+  "createdAt": "2026-06-23T03:01:49.708Z",
+  "sponsors": [
+    {"peopleId":16252,"name":"Robert Reives","party":"D","isPrimary":true},
+    {"peopleId":24198,"name":"Gloristine Brown","party":"D","isPrimary":false},
+    {"peopleId":25842,"name":"Bryan Cohn","party":"D","isPrimary":false},
+    {"peopleId":20509,"name":"Allison Dahle","party":"D","isPrimary":false},
+    {"peopleId":24214,"name":"Renee Price","party":"D","isPrimary":false},
+    {"peopleId":22606,"name":"James Roberson","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

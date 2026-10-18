@@ -1,0 +1,26 @@
+{
+  "billId": 2022722,
+  "billNumber": "H929",
+  "title": "Water Safety Bill",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "e0f5b9de801ca280919196a1ff15ff85",
+  "lastAction": "Ref To Com On Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-04-14",
+  "url": "https://legiscan.com/NC/bill/H929/2025",
+  "aiSummary": "This bill prohibits North Carolina public water systems from adding fluoride to drinking water, effective January 1, 2026. The prohibition does not apply to naturally occurring fluoride in water sources or fluoride used in industrial processes.",
+  "aiProArguments": "Supporters argue that water fluoridation is a mass medication that should be an individual choice rather than mandated through public water supplies. They contend that people can obtain fluoride through toothpaste and other dental products if they choose, and that removing it from water systems respects personal autonomy and bodily choice.",
+  "aiConArguments": "Opponents argue that water fluoridation is a well-established public health measure that has safely reduced tooth decay for decades, particularly benefiting low-income populations who may have limited access to dental care. They contend that the bill removes a proven, cost-effective community health intervention supported by major health organizations like the CDC and American Dental Association.",
+  "topic": "Healthcare",
+  "textLength": 996,
+  "createdAt": "2026-06-23T02:59:25.178Z",
+  "sponsors": [
+    {"peopleId":25841,"name":"Jonathan Almond","party":"R","isPrimary":true},
+    {"peopleId":25222,"name":"Blair Eddins","party":"R","isPrimary":false},
+    {"peopleId":25852,"name":"Wyatt Gable","party":"R","isPrimary":false},
+    {"peopleId":20519,"name":"Keith Kidwell","party":"R","isPrimary":false},
+    {"peopleId":24219,"name":"Bill Ward","party":"R","isPrimary":false},
+    {"peopleId":22610,"name":"Matthew Winslow","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

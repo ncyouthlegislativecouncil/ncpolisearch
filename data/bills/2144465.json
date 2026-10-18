@@ -1,0 +1,21 @@
+{
+  "billId": 2144465,
+  "billNumber": "H1018",
+  "title": "Remove Cap: Satellite Annexations",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "1b09e25e42ca5634b269142d8509312f",
+  "lastAction": "Re-ref Com On Finance",
+  "lastActionDate": "2026-05-06",
+  "url": "https://legiscan.com/NC/bill/H1018/2025",
+  "aiSummary": "This bill removes the 10% satellite annexation cap for the towns of Cleveland and Spruce Pine, allowing them to annex noncontiguous land areas without being limited by the percentage restriction that applies to most other municipalities. The bill adds these two towns to an existing list of cities and towns already exempt from this cap.",
+  "aiProArguments": "Supporters argue this change gives Cleveland and Spruce Pine greater flexibility to grow and expand their tax bases by annexing non-adjacent properties. Proponents contend that removing this restriction allows these towns to pursue strategic development opportunities and increase their municipal revenues without the constraints placed on other communities.",
+  "aiConArguments": "Opponents may argue that satellite annexation caps exist to protect unincorporated areas and county tax bases from excessive municipal expansion. Critics could contend that exempting additional towns from this cap may lead to sprawling development patterns, reduce county resources, and disadvantage residents in areas surrounding these towns who prefer to remain outside municipal jurisdiction.",
+  "topic": "Local Government",
+  "textLength": 2615,
+  "createdAt": "2026-06-23T03:00:23.719Z",
+  "sponsors": [
+    {"peopleId":11850,"name":"Harry Warren","party":"R","isPrimary":true}
+  ],
+  "rollCalls": []
+}

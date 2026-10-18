@@ -1,0 +1,32 @@
+{
+  "billId": 1953485,
+  "billNumber": "S48",
+  "title": "Access to Sports and Extracurriculars for All",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "3fd27b811db5beff2826f162561b59fe",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-02-05",
+  "url": "https://legiscan.com/NC/bill/S48/2025",
+  "aiSummary": "This bill allows students from public schools without certain sports or extracurricular programs, as well as private school and homeschool students, to participate in those activities at nearby public high schools. Schools can charge reasonable fees to non-enrolled students, and local school boards must publish their fee schedules online by October 15 each year.",
+  "aiProArguments": "Supporters argue this expands opportunity and equity by ensuring all students have access to sports and activities regardless of which school they attend or whether their school offers a particular program. It particularly benefits private school and homeschool students who currently have limited athletic options, and allows public school students in schools lacking certain sports to still participate without transferring schools.",
+  "aiConArguments": "Opponents may worry about logistical challenges, including transportation coordination between schools, potential strain on high school athletic programs and facilities, and unclear fee structures that could create barriers for lower-income families. They may also question whether this policy adequately defines \"reasonable fees\" and what oversight mechanisms exist to ensure consistent implementation across different school districts.",
+  "topic": "Education",
+  "textLength": 3447,
+  "createdAt": "2026-06-23T03:04:26.321Z",
+  "sponsors": [
+    {"peopleId":11937,"name":"Ralph Hise","party":"R","isPrimary":true},
+    {"peopleId":14615,"name":"Carl Ford","party":"R","isPrimary":true},
+    {"peopleId":22423,"name":"Amy Galey","party":"R","isPrimary":true},
+    {"peopleId":25212,"name":"Bob Brinson","party":"R","isPrimary":false},
+    {"peopleId":20216,"name":"Jim Burgin","party":"R","isPrimary":false},
+    {"peopleId":20513,"name":"Bobby Hanig","party":"R","isPrimary":false},
+    {"peopleId":25250,"name":"Dana Jones","party":"R","isPrimary":false},
+    {"peopleId":22424,"name":"Michael Lazzara","party":"R","isPrimary":false},
+    {"peopleId":17437,"name":"Thomas McInnis","party":"R","isPrimary":false},
+    {"peopleId":11858,"name":"Timothy Moffitt","party":"R","isPrimary":false},
+    {"peopleId":19669,"name":"Vickie Sawyer","party":"R","isPrimary":false},
+    {"peopleId":24226,"name":"Eddie Settle","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

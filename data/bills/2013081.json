@@ -1,0 +1,26 @@
+{
+  "billId": 2013081,
+  "billNumber": "S437",
+  "title": "Middle Class Momentum Act",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "6dc6dde0f62c7cb50f23a0c94701f7a4",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-25",
+  "url": "https://legiscan.com/NC/bill/S437/2025",
+  "aiSummary": "This bill increases North Carolina's standard tax deduction amounts for all filing statuses, effective for the 2026 tax year. Married couples filing jointly would see their deduction rise from $25,500 to $26,000, while single filers and heads of household would increase from $12,750/$19,125 to $13,000/$19,500 respectively.",
+  "aiProArguments": "Supporters argue this increases take-home pay for working North Carolinians by reducing their taxable income, particularly benefiting middle-class families. Proponents contend that higher standard deductions simplify tax filing, allow more households to use the standard deduction instead of itemizing, and provide tax relief without targeting specific industries or taxpayers.",
+  "aiConArguments": "Opponents may argue the bill reduces state tax revenue needed for schools, infrastructure, and services without identifying offsetting spending cuts or revenue sources. Critics could also question whether standard deduction increases are the most effective way to help lower-income households compared to targeted tax credits, and whether the state can afford revenue loss during economic uncertainty.",
+  "topic": "Taxes & Budget",
+  "textLength": 1388,
+  "createdAt": "2026-06-23T03:07:49.210Z",
+  "sponsors": [
+    {"peopleId":24222,"name":"Lisa Grafstein","party":"D","isPrimary":true},
+    {"peopleId":20510,"name":"Terence Everitt","party":"D","isPrimary":true},
+    {"peopleId":25860,"name":"Woodson Bradley","party":"D","isPrimary":true},
+    {"peopleId":20223,"name":"Mujtaba Mohammed","party":"D","isPrimary":false},
+    {"peopleId":25859,"name":"Caleb Theodros","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

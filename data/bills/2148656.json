@@ -1,0 +1,32 @@
+{
+  "billId": 2148656,
+  "billNumber": "H1229",
+  "title": "Strip Corporations of Political Spending",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "4767bdabe08838ccd18708e82921b19e",
+  "lastAction": "Ref To Com On Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2026-05-11",
+  "url": "https://legiscan.com/NC/bill/H1229/2025",
+  "aiSummary": "This bill proposes a constitutional amendment that would prohibit corporations and other non-human entities from spending money to influence elections in North Carolina, with exceptions for political committees and media companies owned by political parties or candidates. If approved by voters in November 2026, violations would void the corporate action and result in the state withdrawing legal benefits like corporate status and the right to do business in North Carolina.",
+  "aiProArguments": "Supporters argue that corporations are artificial entities created by state law and should not have the same political spending rights as individual citizens. They contend that a 2023 Pew Research poll showing 80% of Americans across both parties believe there is too much corporate money in politics demonstrates public support, and that limiting corporate spending would restore voter power, reduce money's influence on elections, and return democracy to being about people rather than unlimited corporate control.",
+  "aiConArguments": "Opponents may argue that the bill could face legal challenges under the U.S. Supreme Court's Citizens United decision, which protects political spending as free speech. They may also contend that defining and enforcing such restrictions could be complicated, that it might suppress legitimate corporate participation in the democratic process, and that the severe penalty of withdrawing all state-conferred benefits including corporate existence could be considered an excessive remedy for political spending violations.",
+  "topic": "Elections & Voting",
+  "textLength": 4713,
+  "createdAt": "2026-06-23T03:03:42.591Z",
+  "sponsors": [
+    {"peopleId":19360,"name":"Marcia Morey","party":"D","isPrimary":true},
+    {"peopleId":19238,"name":"Deb Butler","party":"D","isPrimary":true},
+    {"peopleId":2077,"name":"Mary Harrison","party":"D","isPrimary":true},
+    {"peopleId":26662,"name":"Amanda Cook","party":"D","isPrimary":true},
+    {"peopleId":24890,"name":"Eric Ager","party":"D","isPrimary":false},
+    {"peopleId":18451,"name":"Mary Belk","party":"D","isPrimary":false},
+    {"peopleId":24199,"name":"Kanika Brown","party":"D","isPrimary":false},
+    {"peopleId":24202,"name":"Maria Cervania","party":"D","isPrimary":false},
+    {"peopleId":25213,"name":"Tracy Clark","party":"D","isPrimary":false},
+    {"peopleId":25844,"name":"Julia Greenfield","party":"D","isPrimary":false},
+    {"peopleId":20515,"name":"Zack Forde-Hawkins","party":"D","isPrimary":false},
+    {"peopleId":25850,"name":"Jordan Lopez","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

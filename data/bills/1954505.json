@@ -1,0 +1,24 @@
+{
+  "billId": 1954505,
+  "billNumber": "S51",
+  "title": "Maintain NAIC Accreditation of DOI.-AB",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "79db2158ddde1b503d76f1f31195deef",
+  "lastAction": "Re-ref to Commerce and Insurance. If fav, re-ref to Rules and Operations of the Senate",
+  "lastActionDate": "2025-02-11",
+  "url": "https://legiscan.com/NC/bill/S51/2025",
+  "aiSummary": "This bill requires large insurance holding company systems in North Carolina to file annual reports on their group capital calculations and participate in liquidity stress tests to ensure financial stability. The bill also prohibits public disclosure of these stress test results and capital information, with limited exceptions, and aligns North Carolina's insurance regulations with national standards set by the National Association of Insurance Commissioners (NAIC).",
+  "aiProArguments": "Supporters argue this bill maintains North Carolina's accreditation with the NAIC, which is essential for the state's insurance regulatory credibility and protects consumers by ensuring insurance companies maintain adequate capital reserves. The bill also streamlines reporting by allowing exemptions for smaller or simpler insurance holding company systems that pose minimal risk, reducing unnecessary regulatory burden while still monitoring those that could threaten policyholder protection.",
+  "aiConArguments": "Opponents may argue the bill increases compliance costs and administrative burdens on insurance companies, particularly those with complex multi-state or international operations. Additionally, the strict confidentiality provisions that prevent public disclosure of stress test results could limit transparency and the public's ability to assess insurance company financial health, raising questions about whether these protections serve regulators' interests more than policyholders'.",
+  "topic": "Business & Labor",
+  "textLength": 26921,
+  "createdAt": "2026-06-23T03:04:28.697Z",
+  "sponsors": [
+    {"peopleId":20222,"name":"Todd Johnson","party":"R","isPrimary":true},
+    {"peopleId":18465,"name":"Danny Britt","party":"R","isPrimary":true},
+    {"peopleId":24226,"name":"Eddie Settle","party":"R","isPrimary":true},
+    {"peopleId":20216,"name":"Jim Burgin","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

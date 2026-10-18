@@ -1,0 +1,22 @@
+{
+  "billId": 2021985,
+  "billNumber": "H843",
+  "title": "Lake Waccamaw Dam Repairs",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "08aac5af73244589ab65af2e1ed666ca",
+  "lastAction": "Ref to the Com on State and Local Government, if favorable, Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-04-10",
+  "url": "https://legiscan.com/NC/bill/H843/2025",
+  "aiSummary": "This bill requires the North Carolina Department of Natural and Cultural Resources to negotiate and sign a Memorandum of Agreement with the Town of Lake Waccamaw. The agreement will allow the town to access Lake Waccamaw State Park to plan and repair the Waccamaw Dam, with the state resuming maintenance of the dam after repairs are complete. The agreement must be finalized by September 1, 2025, and reported to the legislature.",
+  "aiProArguments": "Supporters argue this bill addresses necessary infrastructure maintenance by clarifying which entity is responsible for dam repairs and establishing a formal process for the Town of Lake Waccamaw to access the state park for repairs. Proponents contend that the dam serves important functions for the community and that a formal agreement ensures repairs are completed efficiently with proper oversight and a clear timeline for returning management to the state.",
+  "aiConArguments": "Opponents may be concerned about potential costs to the state, uncertainty about who ultimately bears financial responsibility for the repairs, or questions about whether the town or state should manage the dam long-term. There could also be concerns about ensuring environmental protection during repairs or whether the September 1, 2025 deadline provides adequate time for proper negotiation and agreement finalization.",
+  "topic": "Environment & Energy",
+  "textLength": 1854,
+  "createdAt": "2026-06-23T02:58:28.729Z",
+  "sponsors": [
+    {"peopleId":18460,"name":"Brenden Jones","party":"R","isPrimary":true},
+    {"peopleId":2086,"name":"Francis Iler","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

@@ -1,0 +1,27 @@
+{
+  "billId": 2013840,
+  "billNumber": "S549",
+  "title": "State Emp. Leave/Bereavement/Pregnancy Loss",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "fcc6b2e91c861b1507538f2bd9c6f24c",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-26",
+  "url": "https://legiscan.com/NC/bill/S549/2025",
+  "aiSummary": "This bill provides North Carolina state employees, public school employees, and community college employees with paid leave for pregnancy loss (such as miscarriage or failed fertility procedures) and paid bereavement leave for the death of immediate family members. The bill appropriates $3.8 million total ($1.8 million annually for pregnancy loss leave and $2 million annually for bereavement leave) to fund these new benefits starting July 1, 2025.",
+  "aiProArguments": "Supporters argue this bill addresses important life events that deserve paid time off for employees to process grief and attend to their health and family needs. They contend that providing bereavement and pregnancy loss leave helps retain talented state employees by demonstrating the state values their wellbeing, reduces financial hardship during difficult times, and brings North Carolina's employee benefits in line with private sector practices and other states.",
+  "aiConArguments": "Opponents may argue that the $3.8 million annual cost strains the state budget and should be prioritized differently, question whether the state should expand leave benefits during uncertain economic times, or suggest that existing sick leave and vacation time should be sufficient for these situations. Some may also have concerns about how pregnancy loss is defined broadly in the bill or administrative costs of implementing new leave policies.",
+  "topic": "Social Services & Welfare",
+  "textLength": 8203,
+  "createdAt": "2026-06-23T03:08:47.853Z",
+  "sponsors": [
+    {"peopleId":21633,"name":"Natalie Murdock","party":"D","isPrimary":true},
+    {"peopleId":20505,"name":"Sydney Batch","party":"D","isPrimary":false},
+    {"peopleId":25860,"name":"Woodson Bradley","party":"D","isPrimary":false},
+    {"peopleId":25858,"name":"Sophia Chitlik","party":"D","isPrimary":false},
+    {"peopleId":22426,"name":"DeAndrea Salvador","party":"D","isPrimary":false},
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

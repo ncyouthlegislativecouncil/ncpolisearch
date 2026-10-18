@@ -1,0 +1,33 @@
+{
+  "billId": 1996005,
+  "billNumber": "H351",
+  "title": "Recovery-Friendly Workplace Program/Funds",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "ed41844eb3cdefb31ba1dc49b7bddad3",
+  "lastAction": "Ref to the Com on Appropriations, if favorable, Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-03-11",
+  "url": "https://legiscan.com/NC/bill/H351/2025",
+  "aiSummary": "This bill establishes a Recovery-Friendly Workplace Program administered by the North Carolina Department of Health and Human Services to help employers support employees in recovery from substance use disorders. Employers can voluntarily participate at two levels—as a participant or as a certified workplace—by completing orientation, adopting recovery-supportive policies, and maintaining annual reviews. The bill appropriates $300,000 from the Opioid Settlement Fund for fiscal year 2025-2026 to implement the program.",
+  "aiProArguments": "Supporters argue this program addresses the opioid crisis by creating supportive work environments that enable people in recovery to maintain employment and stability. The bill benefits employers by providing expert guidance on evidence-based practices, reduces stigma around addiction, and helps workers access treatment and recovery services while employed. Supporters also highlight that the program uses existing opioid settlement funds specifically designated for recovery initiatives, making efficient use of resources already allocated for this purpose.",
+  "aiConArguments": "Opponents may question whether $300,000 is sufficient to establish and maintain the program statewide, and whether the funding mechanism using opioid settlement dollars could be better directed elsewhere. Some employers might view the certification requirements and annual reviews as administrative burdens, particularly for small businesses. Concerns may also exist about whether a voluntary program will achieve meaningful participation or whether more regulatory requirements would be needed to ensure widespread adoption of recovery-friendly practices.",
+  "topic": "Business & Labor",
+  "textLength": 6978,
+  "createdAt": "2026-06-23T02:49:07.298Z",
+  "sponsors": [
+    {"peopleId":25848,"name":"Cody Huneycutt","party":"R","isPrimary":true},
+    {"peopleId":17876,"name":"Kyle Hall","party":"R","isPrimary":true},
+    {"peopleId":24203,"name":"Allen Chesser","party":"R","isPrimary":true},
+    {"peopleId":25214,"name":"Heather Rhyne","party":"R","isPrimary":true},
+    {"peopleId":24890,"name":"Eric Ager","party":"D","isPrimary":false},
+    {"peopleId":17151,"name":"Cecil Brockman","party":"D","isPrimary":false},
+    {"peopleId":22600,"name":"Terry Brown","party":"D","isPrimary":false},
+    {"peopleId":24202,"name":"Maria Cervania","party":"D","isPrimary":false},
+    {"peopleId":2077,"name":"Mary Harrison","party":"D","isPrimary":false},
+    {"peopleId":20521,"name":"Carolyn Logan","party":"D","isPrimary":false},
+    {"peopleId":2115,"name":"Garland Pierce","party":"D","isPrimary":false},
+    {"peopleId":24213,"name":"Lindsey Prather","party":"D","isPrimary":false},
+    {"peopleId":17158,"name":"Shelly Willingham","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

@@ -1,0 +1,30 @@
+{
+  "billId": 2022173,
+  "billNumber": "H872",
+  "title": "School Employee Protections for Use of Force",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "a067490ccf4f2cf49ac94d3b8efa1128",
+  "lastAction": "Ref To Com On Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-04-10",
+  "url": "https://legiscan.com/NC/bill/H872/2025",
+  "aiSummary": "This bill expands protections for school employees who use physical force in schools by creating a legal presumption that force is reasonable unless proven otherwise, preventing discipline or license revocation based solely on criminal allegations that don't result in conviction, and prohibiting retaliation against employees for using force consistent with school policies.",
+  "aiProArguments": "Supporters argue this bill protects teachers and staff from excessive legal liability and frivolous lawsuits when they use force to maintain school safety, discipline students, or protect themselves and others. They contend that without these protections, school employees may hesitate to intervene in dangerous situations, and that the presumption of reasonableness ensures employees aren't penalized for actions taken in good faith within their job duties.",
+  "aiConArguments": "Opponents worry that shifting the burden of proof and creating a presumption of reasonableness could discourage proper investigation of excessive force and leave students vulnerable to harm. They argue that the bill may protect employees even when force is disproportionate or unnecessary, and that provisions preventing discipline based on criminal allegations (even if not convicted) could shield problematic behavior from accountability.",
+  "topic": "Education",
+  "textLength": 4394,
+  "createdAt": "2026-06-23T02:58:46.208Z",
+  "sponsors": [
+    {"peopleId":2031,"name":"Hugh Blackwell","party":"R","isPrimary":true},
+    {"peopleId":11866,"name":"John Torbett","party":"R","isPrimary":true},
+    {"peopleId":21377,"name":"Jake Johnson","party":"R","isPrimary":true},
+    {"peopleId":25843,"name":"Brian Echevarria","party":"R","isPrimary":true},
+    {"peopleId":25222,"name":"Blair Eddins","party":"R","isPrimary":false},
+    {"peopleId":2086,"name":"Francis Iler","party":"R","isPrimary":false},
+    {"peopleId":20519,"name":"Keith Kidwell","party":"R","isPrimary":false},
+    {"peopleId":22965,"name":"Donnie Loftis","party":"R","isPrimary":false},
+    {"peopleId":22607,"name":"Steve Tyson","party":"R","isPrimary":false},
+    {"peopleId":24219,"name":"Bill Ward","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

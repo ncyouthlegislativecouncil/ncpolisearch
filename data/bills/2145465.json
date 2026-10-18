@@ -1,0 +1,21 @@
+{
+  "billId": 2145465,
+  "billNumber": "S834",
+  "title": "Town of Bolivia/Even-Yr Elections",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "407c2e275af580be0e5df545a59e1eb6",
+  "lastAction": "Re-ref to Elections. If fav, re-ref to State and Local Government. If fav, re-ref to Rules and Operations of the Senate",
+  "lastActionDate": "2026-04-28",
+  "url": "https://legiscan.com/NC/bill/S834/2025",
+  "aiSummary": "This bill changes the Town of Bolivia's municipal elections from odd-numbered years to even-numbered years. Current town officials' terms are shortened by one year so elections can align with the new even-year schedule beginning in 2026.",
+  "aiProArguments": "Supporters argue that holding municipal elections in even-numbered years increases voter turnout by combining local elections with state and federal elections when more voters already go to the polls. This change may also reduce election administration costs by consolidating elections and align the town's election cycle with most other North Carolina municipalities.",
+  "aiConArguments": "Opponents may contend that shortening current officials' terms by one year reduces their time in office without voter consent, potentially disrupting ongoing projects or initiatives. Some may also argue that separate odd-year elections keep local issues more visible to voters rather than being overshadowed by state and federal races.",
+  "topic": "Elections & Voting",
+  "textLength": 1595,
+  "createdAt": "2026-06-23T03:11:06.099Z",
+  "sponsors": [
+    {"peopleId":12031,"name":"William Rabon","party":"R","isPrimary":true}
+  ],
+  "rollCalls": []
+}

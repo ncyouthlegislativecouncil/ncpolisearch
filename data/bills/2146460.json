@@ -1,0 +1,23 @@
+{
+  "billId": 2146460,
+  "billNumber": "S929",
+  "title": "Forsyth County Affordable Housing Funding",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "f8eac3eedc70c7bc07eaa80eea657888",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2026-04-30",
+  "url": "https://legiscan.com/NC/bill/S929/2025",
+  "aiSummary": "This bill appropriates $1 million in state funding for the 2026-2027 fiscal year to Forsyth County, which will grant the money to Habitat for Humanity of Forsyth County to build affordable housing in Forsyth County and Winston-Salem.",
+  "aiProArguments": "Supporters argue this bill addresses housing affordability challenges in the Forsyth County area by providing direct funding to an established nonprofit organization with a proven track record in construction. They contend the investment helps low-income families access homeownership opportunities and strengthens communities through neighborhood development.",
+  "aiConArguments": "Opponents may question whether one-time funding is sufficient to create lasting impact on affordable housing needs, argue the money could be better spent on statewide programs benefiting all regions equally, or express concern about whether directing state funds to a specific county and organization is the most efficient use of limited budget resources.",
+  "topic": "Housing",
+  "textLength": 873,
+  "createdAt": "2026-06-23T03:11:57.602Z",
+  "sponsors": [
+    {"peopleId":17457,"name":"Paul Lowe","party":"D","isPrimary":true},
+    {"peopleId":20223,"name":"Mujtaba Mohammed","party":"D","isPrimary":false},
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

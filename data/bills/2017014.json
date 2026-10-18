@@ -1,0 +1,25 @@
+{
+  "billId": 2017014,
+  "billNumber": "H607",
+  "title": "Regulate Hemp Consumable Products",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "04efb1203fc7e70746cc1c001910a7ae",
+  "lastAction": "Ref To Com On Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-04-01",
+  "url": "https://legiscan.com/NC/bill/H607/2025",
+  "aiSummary": "This bill creates a new regulatory framework for hemp-derived consumable products (like edibles and vapes containing cannabinoids such as delta-8 and delta-10 THC) in North Carolina. It requires manufacturers, distributors, and retailers to obtain licenses from the Alcohol Law Enforcement Division, establishes testing and labeling requirements, restricts sales to adults 21+, and sets penalties for violations ranging from civil fines to criminal charges.",
+  "aiProArguments": "Supporters argue this bill protects public health and safety by ensuring hemp products are tested for potency, pesticides, and contaminants before sale. The age restriction (21+) aims to prevent youth access to intoxicating products. Licensing requirements create accountability and allow state oversight of the growing hemp market. Clear labeling and dosage limits help consumers make informed choices. The bill also prevents products with appealing child-friendly designs from being marketed to minors.",
+  "aiConArguments": "Opponents may argue the licensing fees ($15,000 for manufacturers, up to $5,000 for retailers) create barriers for small businesses entering the market. Critics contend the regulations are overly restrictive compared to existing hemp regulations in other states, potentially pushing consumers to unregulated black markets. Some question whether extensive pesticide testing standards borrowed from other states are necessary for low-THC products. Concerns also exist about enforcement costs and whether the ALE Division has adequate resources to implement this comprehensive new regulatory system.",
+  "topic": "Business & Labor",
+  "textLength": 59577,
+  "createdAt": "2026-06-23T02:55:19.281Z",
+  "sponsors": [
+    {"peopleId":21375,"name":"Jeffrey McNeely","party":"R","isPrimary":true},
+    {"peopleId":24203,"name":"Allen Chesser","party":"R","isPrimary":true},
+    {"peopleId":24215,"name":"Timothy Reeder","party":"R","isPrimary":false},
+    {"peopleId":24219,"name":"Bill Ward","party":"R","isPrimary":false},
+    {"peopleId":17158,"name":"Shelly Willingham","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

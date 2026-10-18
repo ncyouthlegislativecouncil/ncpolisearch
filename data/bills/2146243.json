@@ -1,0 +1,21 @@
+{
+  "billId": 2146243,
+  "billNumber": "S872",
+  "title": "Education Center at Harnett Correctional",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "79a6a51f1cf8766a98861769b099303c",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2026-04-29",
+  "url": "https://legiscan.com/NC/bill/S872/2025",
+  "aiSummary": "This bill appropriates $30 million in one-time funding to construct an education center at Harnett Correctional Institution. The center would offer incarcerated individuals access to a sexual offender rehabilitation program, four-year bachelor's degrees through partnerships with Campbell University and Fayetteville State University, and one-year certificates and two-year degrees through Central Carolina Community College.",
+  "aiProArguments": "Supporters argue that education and rehabilitation programs reduce recidivism rates, helping formerly incarcerated individuals successfully reintegrate into society and become productive members of their communities. They contend that offering degree programs and certifications provides incarcerated people with job skills and credentials that increase employment prospects after release, which benefits public safety and reduces future crime. Additionally, proponents may argue this investment improves conditions within the facility and demonstrates a commitment to rehabilitation over purely punitive approaches.",
+  "aiConArguments": "Opponents may question whether $30 million is the best use of limited state resources, particularly when education funding in public schools faces constraints. Some argue that educational opportunities should prioritize law-abiding citizens first, or that incarcerated individuals should bear more of the cost themselves. Critics may also express concerns about whether these programs will actually be completed and utilized by inmates, or worry about security and management challenges of operating an education center within a correctional facility.",
+  "topic": "Education",
+  "textLength": 1250,
+  "createdAt": "2026-06-23T03:11:28.614Z",
+  "sponsors": [
+    {"peopleId":20216,"name":"Jim Burgin","party":"R","isPrimary":true}
+  ],
+  "rollCalls": []
+}

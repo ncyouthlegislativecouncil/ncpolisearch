@@ -1,0 +1,24 @@
+{
+  "billId": 2013846,
+  "billNumber": "S492",
+  "title": "Single Stair Bldg. Code Reform",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "d3ef01b9dfd5b22fb3b2c7a7182d1e4b",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-26",
+  "url": "https://legiscan.com/NC/bill/S492/2025",
+  "aiSummary": "This bill allows certain mid-sized residential apartment buildings (5-32 units, up to 75 feet tall) in North Carolina to be built with a single stairway exit instead of multiple exits, provided they meet specific safety requirements like fire-resistant construction, automatic sprinkler systems, pressurized stairwells, and limited travel distances to exits. The Building Code Council must adopt permanent rules based on these standards.",
+  "aiProArguments": "Supporters argue this reform reduces housing construction costs and timelines by eliminating the need for duplicate stairwells in smaller apartment buildings, potentially making housing more affordable and increasing housing supply. They contend that the bill's strict safety requirements—including fire-resistant construction, mandatory sprinklers, pressurized stairwells, and limited travel distances—maintain occupant safety while allowing more efficient building designs used in other states.",
+  "aiConArguments": "Opponents worry that single-stairway buildings create dangerous bottlenecks during emergencies, as all occupants must evacuate through one route, and concern exists about whether safety features like sprinklers and pressurized stairwells will always function properly when needed. Critics also question whether the bill's safety standards are adequate compared to building codes in other states and whether local fire marshals will have sufficient authority to enforce these new provisions effectively.",
+  "topic": "Transportation & Infrastructure",
+  "textLength": 8376,
+  "createdAt": "2026-06-23T03:08:19.586Z",
+  "sponsors": [
+    {"peopleId":22425,"name":"Julie Mayfield","party":"D","isPrimary":true},
+    {"peopleId":11858,"name":"Timothy Moffitt","party":"R","isPrimary":true},
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":false},
+    {"peopleId":25859,"name":"Caleb Theodros","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

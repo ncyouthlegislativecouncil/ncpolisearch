@@ -1,0 +1,28 @@
+{
+  "billId": 1991151,
+  "billNumber": "H281",
+  "title": "Restore Down-Zoning/Multiple Municipalities",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "075c285fa7e7659cb0f8feb4f08b38ce",
+  "lastAction": "Ref to the Com on Judiciary 3, if favorable, Housing and Development, if favorable, Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-03-05",
+  "url": "https://legiscan.com/NC/bill/H281/2025",
+  "aiSummary": "This bill restores the authority of six specific North Carolina coastal municipalities (Morehead City, Beaufort, Bogue, Cape Carteret, Cedar Point, and Newport) to initiate down-zoning—reducing development density or permitted uses on property—without requiring written consent from all affected property owners. The bill retroactively applies to changes made after December 11, 2024.",
+  "aiProArguments": "Supporters argue this bill gives local governments necessary tools to manage community growth, protect neighborhood character, and preserve coastal environments in these municipalities. They contend that requiring unanimous property owner consent can paralyze local planning efforts and prevent communities from addressing development concerns, allowing local governments to make decisions they believe are in the public interest.",
+  "aiConArguments": "Opponents argue that removing the property owner consent requirement constitutes a taking of property rights without compensation, as down-zoning can significantly reduce property values and development potential. They contend that property owners should have a voice in decisions affecting their land's use and economic value, and that this gives local governments unchecked power to unilaterally restrict what owners can do with their property.",
+  "topic": "Local Government",
+  "textLength": 2224,
+  "createdAt": "2026-06-23T02:47:16.585Z",
+  "sponsors": [
+    {"peopleId":24201,"name":"Celeste Cairns","party":"R","isPrimary":true},
+    {"peopleId":18451,"name":"Mary Belk","party":"D","isPrimary":false},
+    {"peopleId":2044,"name":"Becky Carney","party":"D","isPrimary":false},
+    {"peopleId":22422,"name":"Sarah Crawford","party":"D","isPrimary":false},
+    {"peopleId":20509,"name":"Allison Dahle","party":"D","isPrimary":false},
+    {"peopleId":2077,"name":"Mary Harrison","party":"D","isPrimary":false},
+    {"peopleId":20515,"name":"Zack Forde-Hawkins","party":"D","isPrimary":false},
+    {"peopleId":18462,"name":"Amos Quick","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

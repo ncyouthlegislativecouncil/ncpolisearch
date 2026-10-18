@@ -1,0 +1,33 @@
+{
+  "billId": 1986859,
+  "billNumber": "H248",
+  "title": "Live/Work Exemption for One-Family Dwellings",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "90df5cf7904139e9315c8e052f1ebafa",
+  "lastAction": "Ref to the Com on Housing and Development, if favorable, Judiciary 1, if favorable, Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-03-03",
+  "url": "https://legiscan.com/NC/bill/H248/2025",
+  "aiSummary": "This bill exempts owner-occupied, single-family dwellings with home-based businesses from North Carolina's live/work building code requirements, allowing them to be classified and regulated as standard residential homes instead. The exemption applies only if the owner lives in the home, operates the business directly (not leasing to others), and complies with local zoning laws.",
+  "aiProArguments": "Supporters argue this bill removes unnecessary regulatory barriers for entrepreneurs and professionals who work from home, reducing compliance costs and administrative burdens. The exemption makes sense because small home-based businesses pose minimal additional risk compared to commercial operations, and the bill still preserves local zoning authority and safety compliance with state and federal laws.",
+  "aiConArguments": "Opponents may be concerned that exempting home businesses from live/work building code requirements could reduce fire safety and structural protections, particularly if residential codes are less stringent than commercial standards. Some worry the bill limits local governments' ability to manage neighborhood character and commercial activity in residential areas, and that zoning compliance alone may not prevent problematic business types from operating in residential neighborhoods.",
+  "topic": "Housing",
+  "textLength": 8394,
+  "createdAt": "2026-06-23T02:45:55.855Z",
+  "sponsors": [
+    {"peopleId":22606,"name":"James Roberson","party":"D","isPrimary":true},
+    {"peopleId":24214,"name":"Renee Price","party":"D","isPrimary":true},
+    {"peopleId":24202,"name":"Maria Cervania","party":"D","isPrimary":true},
+    {"peopleId":24890,"name":"Eric Ager","party":"D","isPrimary":false},
+    {"peopleId":22599,"name":"Amber Baker","party":"D","isPrimary":false},
+    {"peopleId":24198,"name":"Gloristine Brown","party":"D","isPrimary":false},
+    {"peopleId":19238,"name":"Deb Butler","party":"D","isPrimary":false},
+    {"peopleId":22422,"name":"Sarah Crawford","party":"D","isPrimary":false},
+    {"peopleId":20509,"name":"Allison Dahle","party":"D","isPrimary":false},
+    {"peopleId":25844,"name":"Julia Greenfield","party":"D","isPrimary":false},
+    {"peopleId":25849,"name":"Monika Johnson-Hostler","party":"D","isPrimary":false},
+    {"peopleId":20522,"name":"Nasif Majeed","party":"D","isPrimary":false},
+    {"peopleId":24213,"name":"Lindsey Prather","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

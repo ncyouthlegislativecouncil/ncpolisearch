@@ -1,0 +1,22 @@
+{
+  "billId": 1982564,
+  "billNumber": "S165",
+  "title": "Restore Down-Zoning/Union & Iredell Cos",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "2e087c7a79b888c68a782f1e9e96aa95",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-02-26",
+  "url": "https://legiscan.com/NC/bill/S165/2025",
+  "aiSummary": "This bill restores the ability of local governments in Union and Iredell Counties to initiate down-zoning (reducing development density or permitted uses on property) without requiring written consent from all affected property owners. It reverses a recent state law change from December 2024 that had restricted down-zoning authority in these counties.",
+  "aiProArguments": "Supporters argue that local governments need flexibility to manage growth, protect neighborhoods, and preserve community character through land-use planning decisions. They contend that requiring unanimous property owner consent gives individual landowners veto power over community-wide planning goals and makes it difficult for counties and municipalities to implement comprehensive zoning strategies that benefit the broader public interest.",
+  "aiConArguments": "Opponents argue that property owners should have protection against zoning changes that reduce their property's development potential and economic value without their consent. They contend that down-zoning without owner approval represents a taking of property rights and that landowners should have a voice in decisions that directly affect their land's permitted uses and development opportunities.",
+  "topic": "Local Government",
+  "textLength": 1990,
+  "createdAt": "2026-06-23T03:05:29.039Z",
+  "sponsors": [
+    {"peopleId":20222,"name":"Todd Johnson","party":"R","isPrimary":true},
+    {"peopleId":19669,"name":"Vickie Sawyer","party":"R","isPrimary":true}
+  ],
+  "rollCalls": []
+}

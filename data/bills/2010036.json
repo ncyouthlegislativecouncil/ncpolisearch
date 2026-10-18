@@ -1,0 +1,23 @@
+{
+  "billId": 2010036,
+  "billNumber": "S326",
+  "title": "Economic Security Act",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "edfed7dad2c75a60dff32b0f24aa1b4a",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-19",
+  "url": "https://legiscan.com/NC/bill/S326/2025",
+  "aiSummary": "This bill makes significant changes to North Carolina labor and employment law, including raising the minimum wage to $22/hour (adjusted annually for inflation), requiring paid sick leave and paid family leave, guaranteeing equal pay for equal work, increasing unemployment benefits, and providing a 3% cost-of-living adjustment for state retirees. It also addresses wage theft penalties, workplace safety, and removes restrictions on public employee collective bargaining.",
+  "aiProArguments": "Supporters argue this bill helps working people afford the rising cost of living by increasing wages and providing essential benefits like paid sick leave and family leave. They contend the wage increases reduce poverty and income inequality, paid leave protects worker health and family stability, and stronger wage theft penalties deter employers from withholding pay. Supporters also say the retiree adjustment helps fixed-income seniors keep pace with inflation.",
+  "aiConArguments": "Opponents worry the rapid $22/hour minimum wage increase could force small businesses to cut hours, reduce hiring, or close entirely, particularly in rural areas with lower costs of living. They argue higher labor costs may accelerate automation and lead to job losses. Critics also contend that paid leave mandates, new workplace regulations, and wage theft provisions increase employer compliance costs and litigation risk, potentially discouraging business investment in North Carolina.",
+  "topic": "Business & Labor",
+  "textLength": 68388,
+  "createdAt": "2026-06-23T03:06:48.951Z",
+  "sponsors": [
+    {"peopleId":21633,"name":"Natalie Murdock","party":"D","isPrimary":true},
+    {"peopleId":22425,"name":"Julie Mayfield","party":"D","isPrimary":true},
+    {"peopleId":24222,"name":"Lisa Grafstein","party":"D","isPrimary":true}
+  ],
+  "rollCalls": []
+}

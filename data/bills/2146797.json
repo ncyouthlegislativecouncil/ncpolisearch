@@ -1,0 +1,21 @@
+{
+  "billId": 2146797,
+  "billNumber": "S965",
+  "title": "DIT Consultation",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "058cea51e0d73ca35d364260ca9a961b",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2026-05-04",
+  "url": "https://legiscan.com/NC/bill/S965/2025",
+  "aiSummary": "This bill requires the Department of Information Technology (DIT) to provide advisory and consultation resources to state agencies that are exempt from using DIT's standard IT services and programs. The bill appropriates $50,000 to establish an interagency liaison network to support these consultation services, effective July 1, 2026.",
+  "aiProArguments": "Supporters argue this bill helps exempt agencies—such as the General Assembly, courts, universities, and community colleges—make better IT decisions by providing expert consultation without forcing them to use DIT's centralized services. Proponents contend that offering advisory resources improves overall state IT coordination, consistency, and compliance with state standards while respecting these agencies' independence.",
+  "aiConArguments": "Opponents may argue that the $50,000 appropriation creates a new recurring expense and administrative burden on DIT without guaranteeing that exempt agencies will actually use or benefit from the consultation services. Critics could also question whether this approach adequately addresses IT fragmentation across state government or whether exempt agencies should simply be required to participate in DIT's services rather than merely offered voluntary consultation.",
+  "topic": "Other / General Government",
+  "textLength": 4330,
+  "createdAt": "2026-06-23T03:12:14.816Z",
+  "sponsors": [
+    {"peopleId":20216,"name":"Jim Burgin","party":"R","isPrimary":true}
+  ],
+  "rollCalls": []
+}

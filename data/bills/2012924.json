@@ -1,0 +1,32 @@
+{
+  "billId": 2012924,
+  "billNumber": "S434",
+  "title": "School Workers Fair Pay Act",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "b8d0e10b7e4381f1b922785d1d95fd8f",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-25",
+  "url": "https://legiscan.com/NC/bill/S434/2025",
+  "aiSummary": "This bill requires all noncertified public school employees in North Carolina to earn a minimum of $17.00 per hour. The State Board of Education must adjust salary grades accordingly, and the bill appropriates $144.7 million in state funding for the 2025-2026 fiscal year to support this increase.",
+  "aiProArguments": "Supporters argue this bill addresses low wages for school support staff like custodians, cafeteria workers, and teacher assistants, many of whom struggle financially. They contend that better pay improves recruitment and retention of quality workers, reduces employee turnover, and ensures school employees earn a livable wage while supporting critical school operations.",
+  "aiConArguments": "Opponents raise concerns about the significant state budget impact of $144.7 million in recurring costs during a time of competing budget priorities. They question whether local school districts have flexibility to implement the requirement and worry the mandate may limit local budgeting decisions or require cuts in other areas like classroom resources or teacher pay increases.",
+  "topic": "Education",
+  "textLength": 1734,
+  "createdAt": "2026-06-23T03:07:47.160Z",
+  "sponsors": [
+    {"peopleId":24222,"name":"Lisa Grafstein","party":"D","isPrimary":true},
+    {"peopleId":25860,"name":"Woodson Bradley","party":"D","isPrimary":true},
+    {"peopleId":20510,"name":"Terence Everitt","party":"D","isPrimary":true},
+    {"peopleId":24220,"name":"Val Applewhite","party":"D","isPrimary":false},
+    {"peopleId":25858,"name":"Sophia Chitlik","party":"D","isPrimary":false},
+    {"peopleId":20220,"name":"Michael Garrett","party":"D","isPrimary":false},
+    {"peopleId":20223,"name":"Mujtaba Mohammed","party":"D","isPrimary":false},
+    {"peopleId":21633,"name":"Natalie Murdock","party":"D","isPrimary":false},
+    {"peopleId":22426,"name":"DeAndrea Salvador","party":"D","isPrimary":false},
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":false},
+    {"peopleId":25859,"name":"Caleb Theodros","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

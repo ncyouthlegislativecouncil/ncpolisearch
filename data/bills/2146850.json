@@ -1,0 +1,31 @@
+{
+  "billId": 2146850,
+  "billNumber": "S949",
+  "title": "Fully Fund School Psychologists & Counselors",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "66ba23c614b74bdc63b67b38b771a15a",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2026-05-04",
+  "url": "https://legiscan.com/NC/bill/S949/2025",
+  "aiSummary": "This bill appropriates $359.3 million in annual state funding to hire additional school psychologists and counselors in North Carolina public schools. The goal is to achieve statewide ratios of at least one school psychologist per 700 students and one school counselor per 250 students, as called for in the Leandro education funding plan.",
+  "aiProArguments": "Supporters argue that more school psychologists and counselors are essential to address student mental health, anxiety, depression, and behavioral issues that impact academic performance and well-being. They contend that current ratios leave many students without adequate access to mental health support and that meeting these recommended ratios will help close gaps in student services, particularly benefiting underserved communities.",
+  "aiConArguments": "Opponents may argue that the $359.3 million annual cost is a significant budget commitment during tight fiscal times and that funds might be better directed elsewhere or require difficult tradeoffs with other state priorities. They may also question whether hiring alone solves underlying issues or whether the money could be spent more efficiently through alternative approaches to student support.",
+  "topic": "Education",
+  "textLength": 1174,
+  "createdAt": "2026-06-23T03:12:07.625Z",
+  "sponsors": [
+    {"peopleId":20223,"name":"Mujtaba Mohammed","party":"D","isPrimary":true},
+    {"peopleId":21633,"name":"Natalie Murdock","party":"D","isPrimary":true},
+    {"peopleId":25859,"name":"Caleb Theodros","party":"D","isPrimary":true},
+    {"peopleId":17147,"name":"Gale Adcock","party":"D","isPrimary":false},
+    {"peopleId":20505,"name":"Sydney Batch","party":"D","isPrimary":false},
+    {"peopleId":25858,"name":"Sophia Chitlik","party":"D","isPrimary":false},
+    {"peopleId":26664,"name":"Jonah Garson","party":"D","isPrimary":false},
+    {"peopleId":24222,"name":"Lisa Grafstein","party":"D","isPrimary":false},
+    {"peopleId":22426,"name":"DeAndrea Salvador","party":"D","isPrimary":false},
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

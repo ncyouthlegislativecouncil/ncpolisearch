@@ -1,0 +1,23 @@
+{
+  "billId": 2021464,
+  "billNumber": "H830",
+  "title": "The Rolling Ink Act",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "48238996010ee7335fa131bc13804239",
+  "lastAction": "Re-ref to the Com on Finance, if favorable, Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-04-28",
+  "url": "https://legiscan.com/NC/bill/H830/2025",
+  "aiSummary": "This bill allows mobile tattoo parlors to operate in North Carolina vehicles, provided they meet specific health and safety requirements. The bill establishes a permitting process, facility standards (including sterilization equipment and waste management systems), operational restrictions, and enforcement penalties for violations.",
+  "aiProArguments": "Supporters argue this bill expands access to tattoo services for people in rural or underserved areas where fixed-location parlors may be unavailable or inconvenient. The bill includes comprehensive health and safety requirements—such as sterilization equipment, bloodborne pathogen standards, and regular inspections—to protect public health while allowing entrepreneurs to operate mobile businesses and generate economic activity.",
+  "aiConArguments": "Opponents may be concerned about the difficulty of maintaining consistent sanitation standards in a moving vehicle and the challenges for health departments in monitoring compliance across multiple mobile locations. Some may worry that the $5,000 initial permit fee and $2,500 annual renewal fees could be burdensome for small business owners, and they may question whether mobile operations can adequately meet all the same standards as stationary facilities.",
+  "topic": "Business & Labor",
+  "textLength": 7815,
+  "createdAt": "2026-06-23T02:58:16.991Z",
+  "sponsors": [
+    {"peopleId":25841,"name":"Jonathan Almond","party":"R","isPrimary":true},
+    {"peopleId":17149,"name":"Brian Turner","party":"D","isPrimary":false},
+    {"peopleId":20528,"name":"Julie von Haefen","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

@@ -1,0 +1,30 @@
+{
+  "billId": 1945511,
+  "billNumber": "H7",
+  "title": "NC REACH Act",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "ac12dec68a888b57d1614f4b73d9d954",
+  "lastAction": "Re-ref Com On Appropriations",
+  "lastActionDate": "2025-04-02",
+  "url": "https://legiscan.com/NC/bill/H7/2025",
+  "aiSummary": "The NC REACH Act requires all students graduating from UNC constituent institutions with a bachelor's degree and community colleges with an associate degree to complete at least three credit hours of American history or American government instruction. The course must include reading eight specified founding documents and Constitution-related texts, with a cumulative final exam counting for at least 20% of the grade, while replacing an existing elective rather than adding credit hour requirements.",
+  "aiProArguments": "Supporters argue this bill ensures all college graduates have foundational knowledge of American history, government, and constitutional principles. They contend that exposure to primary documents like the Constitution, Declaration of Independence, and speeches by Martin Luther King Jr. and George Washington promotes civic literacy and shared understanding of American values across the state's higher education system.",
+  "aiConArguments": "Opponents worry the bill reduces curriculum flexibility by mandating specific course content and documents rather than letting institutions and instructors determine course materials. They also raise concerns about the tight deadline for implementation (2026-2027), potential accreditation conflicts, and whether penalties like removing chancellors are appropriate enforcement mechanisms for curriculum requirements.",
+  "topic": "Education",
+  "textLength": 11835,
+  "createdAt": "2026-06-23T02:37:31.755Z",
+  "sponsors": [
+    {"peopleId":20519,"name":"Keith Kidwell","party":"R","isPrimary":true},
+    {"peopleId":22613,"name":"Ben Moss","party":"R","isPrimary":true},
+    {"peopleId":24201,"name":"Celeste Cairns","party":"R","isPrimary":true},
+    {"peopleId":22609,"name":"David Willis","party":"R","isPrimary":true},
+    {"peopleId":18453,"name":"Mike Clampitt","party":"R","isPrimary":false},
+    {"peopleId":25843,"name":"Brian Echevarria","party":"R","isPrimary":false},
+    {"peopleId":2086,"name":"Francis Iler","party":"R","isPrimary":false},
+    {"peopleId":21375,"name":"Jeffrey McNeely","party":"R","isPrimary":false},
+    {"peopleId":22608,"name":"Diane Wheatley","party":"R","isPrimary":false},
+    {"peopleId":18495,"name":"Donna White","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

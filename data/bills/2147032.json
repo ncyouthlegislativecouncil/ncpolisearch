@@ -1,0 +1,21 @@
+{
+  "billId": 2147032,
+  "billNumber": "S999",
+  "title": "North Carolina Let Them Build Act",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "34991a67a4402f9abcb7bb2339d07e36",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2026-05-05",
+  "url": "https://legiscan.com/NC/bill/S999/2025",
+  "aiSummary": "This bill speeds up housing development in North Carolina by streamlining environmental reviews for residential construction, setting 60-day decision deadlines for state agencies, exempting certain small housing projects from extended reviews, and requiring local housing authorities to publicly track permit processing times and project backlogs.",
+  "aiProArguments": "Supporters argue this bill addresses North Carolina's housing shortage by removing regulatory delays that slow down construction. They contend that faster permitting for infill projects, duplexes, and accessory dwelling units will increase housing supply and affordability. Proponents also note the bill includes safeguards stating it does not eliminate environmental protections, water/air quality standards, or zoning authority.",
+  "aiConArguments": "Opponents worry that compressed timelines and exemptions could lead to inadequate environmental review and weaker protection of natural resources and water quality. They argue that 60-day agency deadlines may be unrealistic for thorough evaluation of complex projects and could result in rubber-stamp approvals. Critics also question whether exempting projects from extended reviews adequately protects community interests and environmental standards despite the bill's stated safeguards.",
+  "topic": "Housing",
+  "textLength": 4881,
+  "createdAt": "2026-06-23T03:12:30.668Z",
+  "sponsors": [
+    {"peopleId":25860,"name":"Woodson Bradley","party":"D","isPrimary":true}
+  ],
+  "rollCalls": []
+}

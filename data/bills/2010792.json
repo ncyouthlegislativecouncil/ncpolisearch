@@ -1,0 +1,26 @@
+{
+  "billId": 2010792,
+  "billNumber": "S336",
+  "title": "Interstate Med.l Lic. Comp./Intern'l Phys",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "171afdd9a3a0ebc9c4604796cdc0ee1a",
+  "lastAction": "Re-ref Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-05-07",
+  "url": "https://legiscan.com/NC/bill/S336/2025",
+  "aiSummary": "This bill creates an Interstate Medical Licensure Compact allowing doctors to obtain expedited licenses in multiple states through a streamlined process, and establishes a new \"internationally-trained physician employee license\" for foreign-trained doctors to work at North Carolina hospitals or rural medical practices. The compact requires doctors to meet strict eligibility standards and allows state medical boards to share disciplinary information and coordinate enforcement.",
+  "aiProArguments": "Supporters argue this bill addresses physician shortages by making it easier for qualified doctors to practice across state lines, reducing barriers that currently require separate licensing in each state. The internationally-trained physician pathway helps fill staffing gaps in hospitals and rural areas where doctors are scarce. The compact also improves patient safety by creating a coordinated system where state medical boards share disciplinary records and can investigate complaints jointly.",
+  "aiConArguments": "Opponents may worry that expedited licensing could compromise quality standards by reducing individual state oversight of physician qualifications. There are concerns about whether international medical education standards are sufficiently rigorous or comparable to U.S. standards. Some may question whether the \"employee license\" pathway adequately protects patients or creates a two-tiered system, and whether rural practices with this license type receive sufficient supervision from state-licensed physicians.",
+  "topic": "Healthcare",
+  "textLength": 58639,
+  "createdAt": "2026-06-23T03:06:54.016Z",
+  "sponsors": [
+    {"peopleId":24225,"name":"Benton Sawrey","party":"R","isPrimary":true},
+    {"peopleId":22423,"name":"Amy Galey","party":"R","isPrimary":true},
+    {"peopleId":20216,"name":"Jim Burgin","party":"R","isPrimary":true},
+    {"peopleId":11858,"name":"Timothy Moffitt","party":"R","isPrimary":false},
+    {"peopleId":20223,"name":"Mujtaba Mohammed","party":"D","isPrimary":false},
+    {"peopleId":24223,"name":"Brad Overcash","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

@@ -1,0 +1,24 @@
+{
+  "billId": 2145909,
+  "billNumber": "H1058",
+  "title": "Deannexations/Limit Certain Powers",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "54cfc85d791daf2427871412d65a53a2",
+  "lastAction": "Re-ref Com On Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2026-06-09",
+  "url": "https://legiscan.com/NC/bill/H1058/2025",
+  "aiSummary": "This bill removes specific parcels of property from the corporate limits of four municipalities in North Carolina (the towns of Vass, Red Oak, and Kernersville, and the Village of Walnut Creek), effective June 30, 2026. It also limits the Village of Walnut Creek's authority to exercise municipal powers only within its contiguous corporate boundaries, rather than in surrounding areas.",
+  "aiProArguments": "Supporters argue that deannexation allows property owners to escape municipal taxation and regulations they did not consent to, returning control to county governments. They contend that limiting a village's extraterritorial powers prevents municipalities from regulating land outside their corporate limits where residents have no say in municipal governance, promoting local self-determination and reducing government overreach.",
+  "aiConArguments": "Opponents worry that deannexation reduces municipal revenue needed to maintain services and infrastructure, potentially burdening remaining residents with higher taxes. They argue that limiting extraterritorial powers removes the municipality's ability to plan for future growth and manage development in surrounding areas, which can affect long-term regional planning and service coordination between local governments.",
+  "topic": "Local Government",
+  "textLength": 6566,
+  "createdAt": "2026-06-23T03:00:58.873Z",
+  "sponsors": [
+    {"peopleId":14604,"name":"John Bell","party":"R","isPrimary":true},
+    {"peopleId":20516,"name":"Chris Humphrey","party":"R","isPrimary":false},
+    {"peopleId":21375,"name":"Jeffrey McNeely","party":"R","isPrimary":false},
+    {"peopleId":22615,"name":"Howard Penny","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

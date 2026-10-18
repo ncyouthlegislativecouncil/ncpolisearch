@@ -1,0 +1,21 @@
+{
+  "billId": 1951940,
+  "billNumber": "H41",
+  "title": "Lincoln/Catawba Common Boundary Line",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "5761d68720c0bc914e0f36043271411b",
+  "lastAction": "Ref to the Com on Judiciary 1, if favorable, State and Local Government, if favorable, Finance, if favorable, Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-02-05",
+  "url": "https://legiscan.com/NC/bill/H41/2025",
+  "aiSummary": "This bill establishes the boundary line between Lincoln County and Catawba County based on the line currently used by both counties for taxation and shown on their geographic information systems maps. It requires the North Carolina Geodetic Survey to officially survey and map this boundary within 42 months, with Lincoln County paying the full cost, and protects both counties from legal liability related to this boundary determination.",
+  "aiProArguments": "Supporters argue this bill resolves boundary uncertainty between the two counties by codifying the line they have already been using for taxation and record-keeping purposes, avoiding confusion and disputes over property jurisdiction. The bill provides clarity and finality on an important local matter while protecting county officials from litigation, allowing both counties to move forward with certainty in land records management and service delivery.",
+  "aiConArguments": "Opponents may argue that overriding a 2024 county boundary survey completed by the North Carolina Geodetic Survey—the official state agency responsible for such surveys—could undermine the professional surveying process and set a precedent where legislation overrides technical surveying standards. The broad liability protections granted to both counties and their officials in Section 6 could be seen as limiting legal recourse for affected property owners if errors or disputes arise from this boundary determination.",
+  "topic": "Local Government",
+  "textLength": 4706,
+  "createdAt": "2026-06-23T02:39:01.127Z",
+  "sponsors": [
+    {"peopleId":25214,"name":"Heather Rhyne","party":"R","isPrimary":true}
+  ],
+  "rollCalls": []
+}

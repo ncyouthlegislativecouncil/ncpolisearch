@@ -1,0 +1,21 @@
+{
+  "billId": 1983677,
+  "billNumber": "H219",
+  "title": "Counties/Franchise Ambulance Service",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "50378a91bb52872a35b2cb14f000f29e",
+  "lastAction": "Re-ref Com On Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-04-29",
+  "url": "https://legiscan.com/NC/bill/H219/2025",
+  "aiSummary": "This bill repeals the current law allowing counties and cities to franchise or operate ambulance services. It also prevents county officials from being required to approve changes in emergency medical service levels by private providers, though city-operated or county-operated services would still need approval.",
+  "aiProArguments": "Supporters argue this bill increases local control and flexibility for emergency medical services by freeing private ambulance providers from county approval requirements for service changes. They contend this reduces bureaucratic delays and allows EMS providers to respond more quickly to community needs without waiting for county sign-off on modifications to care levels.",
+  "aiConArguments": "Opponents worry that removing county oversight of ambulance service changes could compromise emergency response coordination and public safety across a county's system. They argue that county approval requirements ensure consistency in care levels and help maintain an integrated emergency management system that serves all residents fairly.",
+  "topic": "Healthcare",
+  "textLength": 1971,
+  "createdAt": "2026-06-23T02:45:16.402Z",
+  "sponsors": [
+    {"peopleId":22617,"name":"Mark Pless","party":"R","isPrimary":true}
+  ],
+  "rollCalls": []
+}

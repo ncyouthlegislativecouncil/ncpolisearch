@@ -10,6 +10,13 @@ const nextConfig = {
     staleTimes: {
       dynamic: 0,
     },
+    // Pages that render per request (/bills, /legislators/[id], /compare, the
+    // search APIs) read the generated lookup files in .data-index/ with fs at
+    // runtime. Those reads aren't statically traceable, so ship the folder with
+    // every server function explicitly. Fully static pages are unaffected.
+    outputFileTracingIncludes: {
+      "/**": ["./.data-index/**/*"],
+    },
   },
   // The site used to live only at ncpolisearch.vercel.app, and Google still
   // lists that address. Permanently redirect it to the real domain so search

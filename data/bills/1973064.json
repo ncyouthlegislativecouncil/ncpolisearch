@@ -1,0 +1,21 @@
+{
+  "billId": 1973064,
+  "billNumber": "S119",
+  "title": "Creedmoor Annexations/Deannexation",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "11e1a7016afaa827e8085cbe64d0bd9b",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-02-21",
+  "url": "https://legiscan.com/NC/bill/S119/2025",
+  "aiSummary": "This bill adds approximately 100 parcels of property to the City of Creedmoor's corporate limits effective June 30, 2025, while removing one parcel from the city. Property owners in the added areas will begin paying Creedmoor municipal taxes starting July 1, 2025, while the removed parcel will no longer be subject to those taxes.",
+  "aiProArguments": "Supporters argue that annexation allows Creedmoor to expand its tax base and revenue to fund municipal services like police, fire, and infrastructure improvements. The expansion may also enable the city to better plan for growth and extend services to developing areas that benefit from city resources and regulations.",
+  "aiConArguments": "Opponents may argue that annexed property owners face new municipal tax obligations without necessarily requesting annexation, and residents may object to losing local control or facing increased costs. The removal of one parcel could be seen as inconsistent, and property owners in annexed areas might worry about the impact on property values or the cost-benefit of city services versus taxes owed.",
+  "topic": "Local Government",
+  "textLength": 4309,
+  "createdAt": "2026-06-23T03:05:04.753Z",
+  "sponsors": [
+    {"peopleId":20510,"name":"Terence Everitt","party":"D","isPrimary":true}
+  ],
+  "rollCalls": []
+}

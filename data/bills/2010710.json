@@ -1,0 +1,27 @@
+{
+  "billId": 2010710,
+  "billNumber": "H459",
+  "title": "Income Tax Rate Reduction Trigger Mods",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "1798c6706a0a122e48f38bf26f33a0f0",
+  "lastAction": "Ref To Com On Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-03-20",
+  "url": "https://legiscan.com/NC/bill/H459/2025",
+  "aiSummary": "This bill modifies North Carolina's income tax rate reduction system by establishing new revenue thresholds that must be met before automatic tax rate cuts occur. Instead of reducing income tax rates on a fixed schedule, tax cuts would only happen if the state's General Fund revenue exceeds specified trigger amounts for each fiscal year, with a minimum tax rate floor of 2.49%.",
+  "aiProArguments": "Supporters argue this bill provides fiscal responsibility by ensuring tax cuts only occur when the state has sufficient revenue, protecting funding for education, healthcare, and hurricane recovery efforts. They contend that tying tax reductions to revenue thresholds prevents budget shortfalls and allows the state to prioritize rebuilding after Hurricane Helene's $59.6 billion in damages while maintaining critical services.",
+  "aiConArguments": "Opponents contend this bill delays promised tax relief for North Carolina taxpayers by making automatic rate reductions contingent on high revenue targets that may be difficult to achieve. They argue the trigger amounts effectively pause the income tax reduction plan that was already in law, and that citizens should receive the tax relief they were promised rather than having it depend on future revenue performance.",
+  "topic": "Taxes & Budget",
+  "textLength": 5216,
+  "createdAt": "2026-06-23T02:52:08.272Z",
+  "sponsors": [
+    {"peopleId":19238,"name":"Deb Butler","party":"D","isPrimary":true},
+    {"peopleId":24200,"name":"Laura Budd","party":"D","isPrimary":true},
+    {"peopleId":25844,"name":"Julia Greenfield","party":"D","isPrimary":true},
+    {"peopleId":2077,"name":"Mary Harrison","party":"D","isPrimary":true},
+    {"peopleId":24890,"name":"Eric Ager","party":"D","isPrimary":false},
+    {"peopleId":24202,"name":"Maria Cervania","party":"D","isPrimary":false},
+    {"peopleId":24214,"name":"Renee Price","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

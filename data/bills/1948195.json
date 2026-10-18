@@ -1,0 +1,21 @@
+{
+  "billId": 1948195,
+  "billNumber": "S34",
+  "title": "7th Senatorial District Local Act-1",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "2097234825a8b1149086e42164f9359b",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-02-03",
+  "url": "https://legiscan.com/NC/bill/S34/2025",
+  "aiSummary": "This is a local bill that applies only to North Carolina's 7th Senatorial District. The bill text does not specify what changes or actions it authorizes—it only establishes that any provisions would affect that district specifically and would take effect upon becoming law.",
+  "aiProArguments": "Supporters of local bills argue they allow the General Assembly to address specific needs and circumstances in particular regions without applying statewide mandates. This targeted approach can be more efficient and responsive to local conditions than one-size-fits-all legislation.",
+  "aiConArguments": "Opponents of local bills raise concerns about transparency and equal treatment, as local bills may receive less public scrutiny than statewide legislation. Additionally, without knowing the specific provisions, residents cannot evaluate whether the bill's contents are beneficial or problematic for their district.",
+  "topic": "Local Government",
+  "textLength": 500,
+  "createdAt": "2026-06-23T03:04:20.489Z",
+  "sponsors": [
+    {"peopleId":17504,"name":"Michael Lee","party":"R","isPrimary":true}
+  ],
+  "rollCalls": []
+}

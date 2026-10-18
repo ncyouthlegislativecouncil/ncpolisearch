@@ -1,0 +1,30 @@
+{
+  "billId": 2022739,
+  "billNumber": "H966",
+  "title": "College Cost Reduction Act",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "5a7619859df70ac736d2c557ea1ee4db",
+  "lastAction": "Ref To Com On Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-04-14",
+  "url": "https://legiscan.com/NC/bill/H966/2025",
+  "aiSummary": "This bill requires UNC constituent institutions to adopt a policy prohibiting professors and departments from requiring students to pay for learning management systems (online platforms for coursework) beyond what students already pay in approved student fees. The policy would take effect for the 2025-2026 academic year.",
+  "aiProArguments": "Supporters argue this bill reduces hidden costs for college students who already pay tuition and fees, making higher education more affordable and accessible. They contend that learning management systems are essential tools for modern education and students should not face additional charges beyond their approved fees for required course platforms.",
+  "aiConArguments": "Opponents may argue this limits institutional flexibility in choosing educational technology and could force universities to use lower-cost systems that don't meet educational needs. They also contend that some specialized learning management systems provide valuable features and that restricting their use could harm educational quality or require UNC to absorb costs that increase overall expenses.",
+  "topic": "Education",
+  "textLength": 1338,
+  "createdAt": "2026-06-23T02:59:51.570Z",
+  "sponsors": [
+    {"peopleId":25852,"name":"Wyatt Gable","party":"R","isPrimary":true},
+    {"peopleId":22609,"name":"David Willis","party":"R","isPrimary":true},
+    {"peopleId":2122,"name":"Mitchell Setzer","party":"R","isPrimary":true},
+    {"peopleId":25843,"name":"Brian Echevarria","party":"R","isPrimary":true},
+    {"peopleId":24197,"name":"Brian Biggs","party":"R","isPrimary":false},
+    {"peopleId":2034,"name":"John Blust","party":"R","isPrimary":false},
+    {"peopleId":11848,"name":"James Dixon","party":"R","isPrimary":false},
+    {"peopleId":21377,"name":"Jake Johnson","party":"R","isPrimary":false},
+    {"peopleId":22607,"name":"Steve Tyson","party":"R","isPrimary":false},
+    {"peopleId":24219,"name":"Bill Ward","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

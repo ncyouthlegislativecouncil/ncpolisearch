@@ -1,0 +1,28 @@
+{
+  "billId": 2021854,
+  "billNumber": "H844",
+  "title": "Finding Grace Family Bill",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "cad87f9d52e0e6a94fdfe00cc1e2fbab",
+  "lastAction": "Ref To Com On Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-04-10",
+  "url": "https://legiscan.com/NC/bill/H844/2025",
+  "aiSummary": "This bill makes two major changes to North Carolina law: it reduces the abortion restriction threshold from 12 weeks to 6 weeks of pregnancy (with exceptions for medical emergencies, rape, incest, and life-limiting fetal anomalies), and it expands adoption-related support by requiring information on adoption benefits in schools, creating support programs for at-risk adoptive families, and streamlining some adoption procedures.",
+  "aiProArguments": "Supporters argue the abortion restriction change protects unborn life earlier in pregnancy while maintaining narrow exceptions for serious circumstances. They contend the adoption provisions help more children find permanent homes by promoting adoption as an alternative, supporting adoptive families to prevent dissolution, and requiring schools to inform students about adoption options, particularly for pregnant women considering their choices.",
+  "aiConArguments": "Opponents argue the 6-week abortion restriction effectively bans most abortions before many women know they're pregnant, limiting reproductive autonomy and medical decision-making. They contend the adoption support provisions, while presented as neutral, are strategically paired with the abortion restriction to discourage abortion and steer women toward adoption, and they argue such significant reproductive health decisions should remain between patients and doctors without government preference for particular outcomes.",
+  "topic": "Social Services & Welfare",
+  "textLength": 12685,
+  "createdAt": "2026-06-23T02:58:29.301Z",
+  "sponsors": [
+    {"peopleId":25843,"name":"Brian Echevarria","party":"R","isPrimary":true},
+    {"peopleId":22608,"name":"Diane Wheatley","party":"R","isPrimary":true},
+    {"peopleId":14633,"name":"Dennis Riddell","party":"R","isPrimary":true},
+    {"peopleId":14606,"name":"Mark Brody","party":"R","isPrimary":false},
+    {"peopleId":24201,"name":"Celeste Cairns","party":"R","isPrimary":false},
+    {"peopleId":25222,"name":"Blair Eddins","party":"R","isPrimary":false},
+    {"peopleId":2086,"name":"Francis Iler","party":"R","isPrimary":false},
+    {"peopleId":20519,"name":"Keith Kidwell","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

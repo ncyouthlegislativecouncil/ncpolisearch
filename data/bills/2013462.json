@@ -1,0 +1,24 @@
+{
+  "billId": 2013462,
+  "billNumber": "S465",
+  "title": "Agency Vacant Property",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "e95f5678e7a6e423962771cd77b0c9cf",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-25",
+  "url": "https://legiscan.com/NC/bill/S465/2025",
+  "aiSummary": "This bill requires the Department of Administration to create a comprehensive system for identifying, cataloging, and disposing of vacant or underutilized state-owned properties. It establishes new procedures for tracking building conditions and usage, mandates annual reporting to the legislature on state property inventories, and allows the state to sell surplus properties with proceeds split between the General Fund and property repair projects.",
+  "aiProArguments": "Supporters argue this bill will improve government efficiency by eliminating waste of taxpayer money on vacant or underused buildings. By creating clear accountability measures and requiring detailed property assessments, the state can reduce operating costs, consolidate agencies into fewer facilities, and generate revenue through property sales that can fund building repairs and improvements.",
+  "aiConArguments": "Opponents may be concerned that aggressive disposal timelines (six months before forced auction) could result in rushed sales at below-market prices, losing potential revenue. Some may worry about impacts on local communities if state properties are sold, and others may question whether the administrative burden of detailed annual reporting and audits justifies the benefits, particularly for smaller agencies managing only a few properties.",
+  "topic": "Local Government",
+  "textLength": 19988,
+  "createdAt": "2026-06-23T03:08:05.028Z",
+  "sponsors": [
+    {"peopleId":20216,"name":"Jim Burgin","party":"R","isPrimary":true},
+    {"peopleId":17936,"name":"Jay Chaudhuri","party":"D","isPrimary":true},
+    {"peopleId":25858,"name":"Sophia Chitlik","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

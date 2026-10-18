@@ -1,0 +1,21 @@
+{
+  "billId": 2005025,
+  "billNumber": "S274",
+  "title": "Repeal Crime Against Nature Law",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "52c0f1c3a806ff3499984d64f0fd8658",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-13",
+  "url": "https://legiscan.com/NC/bill/S274/2025",
+  "aiSummary": "This bill repeals North Carolina's existing 'Crime Against Nature' law and creates a new, separate criminal offense specifically for bestiality (sexual acts with animals), classified as a Class I felony. The bill updates related statutes to replace references to the old law with the new bestiality offense.",
+  "aiProArguments": "Supporters argue that the old 'Crime Against Nature' law is outdated and was historically used to criminalize consensual sexual conduct between adults. By repealing it and replacing it with a narrowly-defined bestiality statute, the law would focus criminal penalties specifically on animal abuse while removing restrictions on consensual adult behavior. This modernizes the law to align with current constitutional standards and public health understanding.",
+  "aiConArguments": "Opponents may argue that repealing the broader 'Crime Against Nature' statute removes important legal protections and could leave gaps in prosecuting harmful sexual conduct. Some may be concerned that narrowing the law to only bestiality could limit prosecutorial tools or create ambiguity about what conduct is covered. Additionally, some may believe the old law serves important community standards regardless of its historical origins.",
+  "topic": "Criminal Justice & Public Safety",
+  "textLength": 4669,
+  "createdAt": "2026-06-23T03:06:18.694Z",
+  "sponsors": [
+    {"peopleId":24222,"name":"Lisa Grafstein","party":"D","isPrimary":true}
+  ],
+  "rollCalls": []
+}

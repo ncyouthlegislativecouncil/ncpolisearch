@@ -1,0 +1,21 @@
+{
+  "billId": 1948129,
+  "billNumber": "S29",
+  "title": "Onslow - Delegate Rezoning Authority",
+  "status": "2",
+  "chamber": "S",
+  "changeHash": "fa013ceefbd07e5711cec03c7715244f",
+  "lastAction": "Re-ref Com On Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-06-17",
+  "url": "https://legiscan.com/NC/bill/S29/2025",
+  "aiSummary": "This bill allows Onslow County to delegate rezoning decisions from the county's governing board to its planning board. The planning board would conduct hearings and make final decisions on zoning map changes, though people can appeal planning board decisions to the governing board within 15 days.",
+  "aiProArguments": "Supporters argue this streamlines the rezoning process by moving decisions to planning professionals who have expertise in land use and development. It could reduce delays in property rezoning decisions and allow the county governing board to focus on other responsibilities while maintaining oversight through an appeal process.",
+  "aiConArguments": "Opponents may worry this reduces democratic accountability by shifting decision-making power away from elected officials to an appointed planning board. They could argue that zoning decisions affect community character and property values significantly enough to warrant direct governing board review, and that this change could weaken public input in the rezoning process.",
+  "topic": "Local Government",
+  "textLength": 1845,
+  "createdAt": "2026-06-23T03:04:18.101Z",
+  "sponsors": [
+    {"peopleId":22424,"name":"Michael Lazzara","party":"R","isPrimary":true}
+  ],
+  "rollCalls": []
+}

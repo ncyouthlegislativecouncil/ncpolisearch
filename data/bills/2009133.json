@@ -1,0 +1,21 @@
+{
+  "billId": 2009133,
+  "billNumber": "S319",
+  "title": "LSAUs to Maintain AIG Services in Alt. Progs",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "a23d465449f58abdd99ffa3cc2e8d233",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-18",
+  "url": "https://legiscan.com/NC/bill/S319/2025",
+  "aiSummary": "This bill requires Local School Administrative Units (LSAUs) to maintain academically or intellectually gifted (AIG) services for students who are placed in alternative learning programs or alternative schools. Currently, there is no explicit requirement to continue AIG services when a student is transferred to an alternative educational setting.",
+  "aiProArguments": "Supporters argue that gifted students placed in alternative programs should not lose access to services designed for their academic needs. They contend that gifted identification is based on ability, not behavior, and that continuing AIG services helps keep these students engaged and supported regardless of their school placement, potentially reducing dropout rates and maintaining academic progress.",
+  "aiConArguments": "Opponents may argue that alternative programs have different educational structures and resource constraints that make providing specialized AIG services difficult or costly. They might also contend that students placed in alternative settings need different interventions focused on behavioral or academic remediation, and that the bill could strain already-limited resources without clarifying how schools should implement this requirement.",
+  "topic": "Education",
+  "textLength": 880,
+  "createdAt": "2026-06-23T03:06:43.671Z",
+  "sponsors": [
+    {"peopleId":20510,"name":"Terence Everitt","party":"D","isPrimary":true}
+  ],
+  "rollCalls": []
+}

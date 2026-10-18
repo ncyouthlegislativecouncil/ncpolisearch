@@ -1,0 +1,26 @@
+{
+  "billId": 2017791,
+  "billNumber": "H642",
+  "title": "Funds/Scotland Cty. Wastewater Improvements",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "f78e80127afb2a9cf18ba1fb2bad8229",
+  "lastAction": "Ref to the Com on Appropriations, if favorable, Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-04-02",
+  "url": "https://legiscan.com/NC/bill/H642/2025",
+  "aiSummary": "This bill appropriates $35 million in state funds to Scotland County during the 2025-2026 fiscal year specifically for improvements or upgrades to the county's wastewater treatment plant. The funding becomes available on July 1, 2025.",
+  "aiProArguments": "Supporters argue that aging wastewater infrastructure requires significant investment to protect public health, prevent environmental contamination, and meet federal Clean Water Act standards. They contend that this funding helps Scotland County upgrade critical water treatment systems that serve residents and businesses, while also potentially improving economic development prospects and property values in the region.",
+  "aiConArguments": "Opponents may question why this substantial one-time appropriation goes to a single county rather than being distributed through a competitive grant process or statewide funding mechanism that could serve multiple communities with infrastructure needs. They may also raise concerns about whether $35 million is the appropriate amount, how it will be spent and monitored, and whether this sets a precedent for similar county-specific funding requests.",
+  "topic": "Taxes & Budget",
+  "textLength": 859,
+  "createdAt": "2026-06-23T02:55:51.427Z",
+  "sponsors": [
+    {"peopleId":2115,"name":"Garland Pierce","party":"D","isPrimary":true},
+    {"peopleId":22599,"name":"Amber Baker","party":"D","isPrimary":false},
+    {"peopleId":22600,"name":"Terry Brown","party":"D","isPrimary":false},
+    {"peopleId":20509,"name":"Allison Dahle","party":"D","isPrimary":false},
+    {"peopleId":24206,"name":"Frances Jackson","party":"D","isPrimary":false},
+    {"peopleId":20521,"name":"Carolyn Logan","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

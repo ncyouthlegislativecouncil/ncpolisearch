@@ -1,0 +1,22 @@
+{
+  "billId": 2147187,
+  "billNumber": "S1070",
+  "title": "Restore the American Dream",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "bbce14cfff732844b83e5cb6e2c41e32",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2026-05-05",
+  "url": "https://legiscan.com/NC/bill/S1070/2025",
+  "aiSummary": "This bill provides $30 million in one-time funding to the North Carolina Housing Trust Fund and creates two ongoing revenue streams: redirecting 1.5% of register of deeds fees and 33% of real property transfer excise tax proceeds to the Housing Trust Fund. These funds would support affordable housing programs including home ownership, rentals, and emergency repairs.",
+  "aiProArguments": "Supporters argue that North Carolina faces a severe affordable housing shortage, with over 815,000 residents lacking access to affordable housing and funding having decreased 68% over the past decade. They contend the Housing Trust Fund is highly cost-effective, generating $5.17 million in housing value and 110 jobs per $1 million spent, making this a smart investment in economic development and workforce stability.",
+  "aiConArguments": "Opponents may argue that redirecting revenue from the General Fund and existing excise tax streams reduces flexibility for other state priorities and could increase costs for property transfers and real estate transactions. They may also question whether $30 million is sufficient to address the stated need or whether dedicated ongoing funding mechanisms are the most efficient approach compared to other housing policy solutions.",
+  "topic": "Housing",
+  "textLength": 6739,
+  "createdAt": "2026-06-23T03:13:06.953Z",
+  "sponsors": [
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":true},
+    {"peopleId":20505,"name":"Sydney Batch","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

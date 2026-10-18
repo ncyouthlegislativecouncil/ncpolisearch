@@ -1,0 +1,27 @@
+{
+  "billId": 2022536,
+  "billNumber": "H911",
+  "title": "Occup. & Phys. Therapist Salaries/Employment",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "5cb1b350d55ba7e8d8eee5bd0ef1a4d7",
+  "lastAction": "Ref To Com On Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-04-14",
+  "url": "https://legiscan.com/NC/bill/H911/2025",
+  "aiSummary": "This bill requires local school boards to establish and publicly report minimum salary schedules for occupational and physical therapists, provides salary supplements for these therapists in the 2025-2026 school year, and mandates annual workforce reporting on therapist employment and vacancies to the state.",
+  "aiProArguments": "Supporters argue this bill addresses recruitment and retention challenges for occupational and physical therapists in schools by ensuring competitive, transparent salaries and providing supplements tied to teacher pay scales. They contend that adequate staffing of these specialists improves student health outcomes and supports students with disabilities, while the workforce reporting helps identify and address service gaps across the state.",
+  "aiConArguments": "Opponents may argue the bill creates significant state budget obligations without guaranteed funding, as salary supplements only take effect if the legislature appropriates money. They may also be concerned about the administrative burden of new reporting requirements and question whether this approach is the most cost-effective way to address therapist shortages compared to other workforce strategies.",
+  "topic": "Education",
+  "textLength": 5795,
+  "createdAt": "2026-06-23T02:59:14.018Z",
+  "sponsors": [
+    {"peopleId":22422,"name":"Sarah Crawford","party":"D","isPrimary":true},
+    {"peopleId":18451,"name":"Mary Belk","party":"D","isPrimary":false},
+    {"peopleId":24202,"name":"Maria Cervania","party":"D","isPrimary":false},
+    {"peopleId":2077,"name":"Mary Harrison","party":"D","isPrimary":false},
+    {"peopleId":25847,"name":"Beth Helfrich","party":"D","isPrimary":false},
+    {"peopleId":25849,"name":"Monika Johnson-Hostler","party":"D","isPrimary":false},
+    {"peopleId":17149,"name":"Brian Turner","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

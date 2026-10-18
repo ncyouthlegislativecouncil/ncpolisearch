@@ -1,0 +1,26 @@
+{
+  "billId": 2014399,
+  "billNumber": "S698",
+  "title": "Fair Districts Stronger Democracy Act",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "760afd5d80c59efc72708274a5bffce9",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-26",
+  "url": "https://legiscan.com/NC/bill/S698/2025",
+  "aiSummary": "This bill proposes a constitutional amendment to create an independent redistricting commission that would redraw electoral districts for Congress and the North Carolina General Assembly after each U.S. Census, removing this responsibility from the state legislature. The commission would consist of 15 members selected through a process designed to ensure balanced political representation and diverse backgrounds, and would follow specific criteria prioritizing equal population, legal compliance, geographic cohesion, and the prevention of partisan gerrymandering.",
+  "aiProArguments": "Supporters argue that independent redistricting removes partisan incentives that lead to gerrymandering, where politicians manipulate district boundaries to favor their party. They contend this process would make elections more competitive and representative of actual voter preferences. Supporters also point out that the bill's eligibility requirements, balanced commission structure, and extensive public input requirements help ensure fair, transparent decision-making that reflects communities' actual interests rather than politicians' electoral calculations.",
+  "aiConArguments": "Opponents may argue that removing the legislature's role in redistricting undermines democratic accountability, since elected representatives should have input in their own districts. Some question whether the commission selection process, despite its safeguards, could still produce biased outcomes. Others express concern about the time and expense of implementing a new system, the complexity of balancing multiple criteria (equal population, minority representation, community integrity, and partisan fairness), and whether unelected commissioners should make decisions with significant political consequences.",
+  "topic": "Elections & Voting",
+  "textLength": 38949,
+  "createdAt": "2026-06-23T03:10:06.076Z",
+  "sponsors": [
+    {"peopleId":24220,"name":"Val Applewhite","party":"D","isPrimary":true},
+    {"peopleId":20223,"name":"Mujtaba Mohammed","party":"D","isPrimary":true},
+    {"peopleId":20220,"name":"Michael Garrett","party":"D","isPrimary":false},
+    {"peopleId":22425,"name":"Julie Mayfield","party":"D","isPrimary":false},
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

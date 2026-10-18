@@ -1,0 +1,26 @@
+{
+  "billId": 2005820,
+  "billNumber": "S283",
+  "title": "Expand Sickle Cell Disease Programs & Svcs",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "1c18dc3c949a137d9935fa42548d6830",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2025-03-17",
+  "url": "https://legiscan.com/NC/bill/S283/2025",
+  "aiSummary": "This bill appropriates approximately $2.3 million in state funding over two fiscal years to the Department of Health and Human Services to expand sickle cell disease programs and services. The funds will support six comprehensive sickle cell medical centers, create transition coordinator positions to help patients move from pediatric to adult care, provide grants to community organizations, and improve emergency department care for sickle cell patients across North Carolina.",
+  "aiProArguments": "Supporters argue that sickle cell disease affects an estimated 7,000 North Carolinians, representing a 25% increase since 2004, requiring expanded state support to meet growing needs. The funding addresses critical service gaps including mental health support, social services, and the challenging transition from pediatric to adult care, while also improving emergency department care which sickle cell patients frequently need. Proponents emphasize this investment helps underserved communities and vulnerable populations, particularly those in rural areas lacking comprehensive sickle cell services.",
+  "aiConArguments": "Opponents might question whether the state budget can sustain these recurring expenses during fiscal uncertainty and whether these funds could address other healthcare priorities. Some may argue the funding should be contingent on performance metrics or outcomes data to ensure effectiveness, or that the distribution formula among medical centers should be reconsidered. Others could raise concerns about whether nonrecurring funds should be relied upon for programs requiring ongoing sustainability.",
+  "topic": "Healthcare",
+  "textLength": 6509,
+  "createdAt": "2026-06-23T03:06:23.395Z",
+  "sponsors": [
+    {"peopleId":12032,"name":"Gladys Robinson","party":"D","isPrimary":true},
+    {"peopleId":17457,"name":"Paul Lowe","party":"D","isPrimary":true},
+    {"peopleId":24220,"name":"Val Applewhite","party":"D","isPrimary":false},
+    {"peopleId":20223,"name":"Mujtaba Mohammed","party":"D","isPrimary":false},
+    {"peopleId":21633,"name":"Natalie Murdock","party":"D","isPrimary":false},
+    {"peopleId":25859,"name":"Caleb Theodros","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

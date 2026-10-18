@@ -1,0 +1,26 @@
+{
+  "billId": 1992242,
+  "billNumber": "S239",
+  "title": "Raise DSP Pay to $25 Per Hour",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "2ed3db548ef19e5eefb0e6be31939e8e",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2025-03-06",
+  "url": "https://legiscan.com/NC/bill/S239/2025",
+  "aiSummary": "This bill aims to increase wages for Direct Support Professionals (DSPs) who work with Medicaid beneficiaries under North Carolina's Innovations waiver by $5 per hour in each of two fiscal years (2025-2026 and 2026-2027). Providers must use at least 90% of the rate increase to raise DSP wages, and the state will appropriate over $115 million in state funds and $210 million in federal funds for the first year to cover these costs.",
+  "aiProArguments": "Supporters argue that DSPs face a critical workforce shortage that has disrupted services for people with intellectual and developmental disabilities, and that low wages are a leading cause of this shortage. By raising DSP compensation to $25 per hour, the bill addresses recruitment and retention problems, allowing more individuals with disabilities to receive consistent, quality care. Proponents contend this investment protects vulnerable Medicaid beneficiaries while supporting an essential workforce.",
+  "aiConArguments": "Opponents may be concerned about the significant state budget commitment—over $346 million across two fiscal years—during a time of competing budget priorities. Some may argue that wage increases should be driven by market competition rather than government mandate, or that the 90% requirement on spending could be burdensome to verify and enforce. Others might question whether a fixed $5 per hour increase addresses regional wage variation adequately or whether this approach creates sustainable long-term solutions versus temporary relief.",
+  "topic": "Social Services & Welfare",
+  "textLength": 6502,
+  "createdAt": "2026-06-23T03:06:02.909Z",
+  "sponsors": [
+    {"peopleId":24222,"name":"Lisa Grafstein","party":"D","isPrimary":true},
+    {"peopleId":11858,"name":"Timothy Moffitt","party":"R","isPrimary":true},
+    {"peopleId":17147,"name":"Gale Adcock","party":"D","isPrimary":false},
+    {"peopleId":25858,"name":"Sophia Chitlik","party":"D","isPrimary":false},
+    {"peopleId":20223,"name":"Mujtaba Mohammed","party":"D","isPrimary":false},
+    {"peopleId":25859,"name":"Caleb Theodros","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

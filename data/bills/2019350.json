@@ -1,0 +1,22 @@
+{
+  "billId": 2019350,
+  "billNumber": "H756",
+  "title": "Funds for Harmony Empowerment Life Center",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "a12bbec12bfabb376a3ea8c42890038f",
+  "lastAction": "Ref to the Com on Appropriations, if favorable, Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-04-07",
+  "url": "https://legiscan.com/NC/bill/H756/2025",
+  "aiSummary": "This bill appropriates $100,000 in state funds for the 2025-2026 fiscal year to the Harmony Empowerment Life Center, a nonprofit organization, to expand its mental health and youth development program called 'Never Limit An Athlete's Mind' into seven additional North Carolina counties: Wake, Durham, Forsyth, Guilford, Mecklenburg, Union, and Anson.",
+  "aiProArguments": "Supporters argue this funding addresses mental health needs among minority youth and families in underserved areas of North Carolina. They contend the program provides valuable support to help young people prepare for future opportunities and that expanding into additional counties increases access to these services for more families who need them.",
+  "aiConArguments": "Opponents may question whether this is the best use of limited state funds, noting the appropriation is nonrecurring and may not provide long-term sustainability for the program. Some might argue that directed grants to specific organizations should be evaluated alongside other funding priorities, or that the state should focus on broader mental health infrastructure rather than funding individual nonprofits.",
+  "topic": "Social Services & Welfare",
+  "textLength": 1193,
+  "createdAt": "2026-06-23T02:57:18.648Z",
+  "sponsors": [
+    {"peopleId":24199,"name":"Kanika Brown","party":"D","isPrimary":true},
+    {"peopleId":22599,"name":"Amber Baker","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

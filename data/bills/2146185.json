@@ -1,0 +1,23 @@
+{
+  "billId": 2146185,
+  "billNumber": "S885",
+  "title": "Funding for the Clerks of Superior Court",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "f678c17936475e7158c8b14e6e4086ce",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2026-04-29",
+  "url": "https://legiscan.com/NC/bill/S885/2025",
+  "aiSummary": "This bill appropriates $5 million in one-time funding from the state's General Fund to the Administrative Office of the Courts for the 2025-2026 fiscal year to help clerks of superior court better assist executors and administrators with estate handling and filings. The funds may be used to hire additional staff to reduce appointment wait times and distribute educational materials about estate procedures.",
+  "aiProArguments": "Supporters argue that this funding addresses a real problem of long wait times when people need help managing estates after someone dies, which can create hardship for families during difficult periods. They contend that additional staff will improve service quality and efficiency in the court system, and that providing clear educational materials helps people navigate a complex legal process.",
+  "aiConArguments": "Opponents may question whether $5 million in nonrecurring (one-time) funds is the most sustainable solution, since hiring staff funded only for one year could create budget problems when the money runs out. Some may also argue that the state should examine whether other efficiency improvements or reorganization could address wait times without requiring new spending.",
+  "topic": "Taxes & Budget",
+  "textLength": 1190,
+  "createdAt": "2026-06-23T03:11:34.370Z",
+  "sponsors": [
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":true},
+    {"peopleId":20223,"name":"Mujtaba Mohammed","party":"D","isPrimary":false},
+    {"peopleId":21633,"name":"Natalie Murdock","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

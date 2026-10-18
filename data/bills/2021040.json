@@ -1,0 +1,27 @@
+{
+  "billId": 2021040,
+  "billNumber": "H813",
+  "title": "Enhanced Reg. of Registered Res. Facilities",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "b553f1d63a132ab72a114c6206480f6b",
+  "lastAction": "Ref to the Com on Appropriations, if favorable, Finance, if favorable, Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-04-08",
+  "url": "https://legiscan.com/NC/bill/H813/2025",
+  "aiSummary": "This bill renames 'multiunit assisted housing with services' facilities to 'registered residential facilities' and clarifies they are not equivalent to licensed adult care homes. It updates registration requirements, expands restrictions on which residents can live in these facilities, allows the Department of Health and Human Services to pursue legal action against facilities operating without approval, and directs the Medical Care Commission to adopt rules for registering and inspecting these facilities.",
+  "aiProArguments": "Supporters argue this bill improves consumer protection and clarity by distinguishing registered residential facilities from licensed adult care homes, reducing consumer confusion about service levels. The enhanced registration requirements, expanded exclusions for vulnerable individuals (such as those unable to evacuate independently or with wandering behaviors), and new enforcement powers help ensure residents receive appropriate care and are not placed in facilities that cannot meet their needs. The funding for compliance consultants strengthens oversight and enforcement.",
+  "aiConArguments": "Opponents may contend that stricter admission requirements and expanded exclusions could reduce housing options for seniors and disabled adults, potentially limiting access to affordable assisted living. The increased regulatory burden and registration requirements could increase operational costs for facilities, potentially raising resident fees. Some may argue the new restrictions on caring for individuals with certain conditions are too broad and reduce flexibility for facilities to serve residents with evolving care needs.",
+  "topic": "Social Services & Welfare",
+  "textLength": 26181,
+  "createdAt": "2026-06-23T02:58:02.891Z",
+  "sponsors": [
+    {"peopleId":25854,"name":"Dante Pittman","party":"D","isPrimary":true},
+    {"peopleId":25213,"name":"Tracy Clark","party":"D","isPrimary":true},
+    {"peopleId":22422,"name":"Sarah Crawford","party":"D","isPrimary":true},
+    {"peopleId":18451,"name":"Mary Belk","party":"D","isPrimary":false},
+    {"peopleId":25846,"name":"Mike Colvin","party":"D","isPrimary":false},
+    {"peopleId":24206,"name":"Frances Jackson","party":"D","isPrimary":false},
+    {"peopleId":17158,"name":"Shelly Willingham","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

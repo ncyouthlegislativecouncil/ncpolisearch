@@ -1,0 +1,25 @@
+{
+  "billId": 1953904,
+  "billNumber": "S47",
+  "title": "State Emps./No Payroll Dues Deduction",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "2c2bb04b5e457cd1f652408059a88c7a",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-02-05",
+  "url": "https://legiscan.com/NC/bill/S47/2025",
+  "aiSummary": "This bill repeals the state law that allows public employees (including teachers and state workers) to have union and employee association dues automatically deducted from their paychecks. Currently, employees can authorize their employers to deduct membership fees for certain employee associations; this bill would eliminate that payroll deduction option.",
+  "aiProArguments": "Supporters argue this bill protects employee freedom by requiring workers to pay dues directly to unions rather than through automatic payroll deductions, making the choice to financially support an association more deliberate. They contend this reduces the administrative burden on government employers and gives employees greater control over their financial decisions without automatic deductions from their wages.",
+  "aiConArguments": "Opponents argue this bill makes it harder for employees to support professional associations and unions that advocate for worker benefits, pay, and workplace conditions. They contend removing the convenient payroll deduction option effectively weakens these organizations' funding and representation power, particularly affecting teachers and public employees who rely on these groups to negotiate for better working conditions.",
+  "topic": "Business & Labor",
+  "textLength": 3062,
+  "createdAt": "2026-06-23T03:04:25.744Z",
+  "sponsors": [
+    {"peopleId":11937,"name":"Ralph Hise","party":"R","isPrimary":true},
+    {"peopleId":20222,"name":"Todd Johnson","party":"R","isPrimary":true},
+    {"peopleId":24224,"name":"Buck Newton","party":"R","isPrimary":true},
+    {"peopleId":14615,"name":"Carl Ford","party":"R","isPrimary":false},
+    {"peopleId":11858,"name":"Timothy Moffitt","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

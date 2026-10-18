@@ -1,0 +1,24 @@
+{
+  "billId": 2014135,
+  "billNumber": "S683",
+  "title": "Keeping Kids and Parents Together Act",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "b286946b34e66e6a21c399d7c6edf0dd",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-26",
+  "url": "https://legiscan.com/NC/bill/S683/2025",
+  "aiSummary": "This bill requires courts to sentence non-violent offenders who are primary caretakers of dependent children to community-based sentences without imprisonment instead of incarceration. The sentence would include rehabilitation services like counseling, job training, parenting classes, and housing assistance, with the court able to modify or reduce the sentence based on the person's progress or impose confinement if conditions are violated.",
+  "aiProArguments": "Supporters argue this bill keeps families together and reduces harm to children when a parent is the primary caretaker, while allowing offenders to receive rehabilitation and maintain employment and housing. They contend that community-based sentences are more effective at reducing recidivism than incarceration, and the bill includes safeguards through court monitoring and the ability to impose confinement if conditions are violated.",
+  "aiConArguments": "Opponents may argue this bill could reduce accountability and consequences for criminal conduct, and that community-based sentences may not adequately protect public safety depending on the offense and individual circumstances. They may also express concern about the fairness of treating similar crimes differently based on parental status, or question whether community resources and supervision are sufficient to ensure compliance.",
+  "topic": "Criminal Justice & Public Safety",
+  "textLength": 4983,
+  "createdAt": "2026-06-23T03:09:59.467Z",
+  "sponsors": [
+    {"peopleId":24222,"name":"Lisa Grafstein","party":"D","isPrimary":true},
+    {"peopleId":25858,"name":"Sophia Chitlik","party":"D","isPrimary":false},
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

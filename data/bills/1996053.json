@@ -1,0 +1,27 @@
+{
+  "billId": 1996053,
+  "billNumber": "H342",
+  "title": "Guilford County Schools Funding Requests",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "81b9d1c40e11f462e5be56afbbc2a1e2",
+  "lastAction": "Ref to the Com on Appropriations, if favorable, Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-03-11",
+  "url": "https://legiscan.com/NC/bill/H342/2025",
+  "aiSummary": "This bill appropriates $8.3 million in nonrecurring state funds to Guilford County Schools for the 2025-2026 fiscal year. The funds are designated for two programs: $5 million for high dosage tutoring (hiring tutors, expanding subjects, and increasing tutoring sessions) and $3.3 million for learning hubs that provide flexible, individualized programs for at-risk students to help them graduate.",
+  "aiProArguments": "Supporters argue this funding directly addresses student achievement gaps and low graduation rates by providing intensive academic support. They contend that high dosage tutoring and learning hubs are evidence-based interventions that help struggling students succeed, and that Guilford County Schools specifically needs these resources to serve its at-risk student population and improve educational outcomes.",
+  "aiConArguments": "Opponents may argue that the funding is temporary (nonrecurring), which means the programs may not be sustainable after one year without continued appropriations. Some may question whether directing state funds to one county is equitable compared to other districts' needs, or whether these funds should instead go through the state's general education funding formula to benefit all schools equally.",
+  "topic": "Education",
+  "textLength": 1445,
+  "createdAt": "2026-06-23T02:48:52.310Z",
+  "sponsors": [
+    {"peopleId":25213,"name":"Tracy Clark","party":"D","isPrimary":true},
+    {"peopleId":18462,"name":"Amos Quick","party":"D","isPrimary":true},
+    {"peopleId":25197,"name":"Jerry Branson","party":"R","isPrimary":true},
+    {"peopleId":2034,"name":"John Blust","party":"R","isPrimary":true},
+    {"peopleId":17151,"name":"Cecil Brockman","party":"D","isPrimary":false},
+    {"peopleId":24198,"name":"Gloristine Brown","party":"D","isPrimary":false},
+    {"peopleId":2077,"name":"Mary Harrison","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

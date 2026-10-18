@@ -1,0 +1,25 @@
+{
+  "billId": 2014146,
+  "billNumber": "S709",
+  "title": "2025 State Investment Modernization Act.-AB",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "108afab6ea280f541d1cb4977b433800",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-26",
+  "url": "https://legiscan.com/NC/bill/S709/2025",
+  "aiSummary": "This bill creates the North Carolina Investment Authority, an independent state agency that will manage the state's investment programs starting January 1, 2026. The Authority will oversee investments for retirement systems, the General Fund, and other special funds currently managed by the State Treasurer's office, with its own Board of Directors, Chief Investment Officer, and separate budget authority.",
+  "aiProArguments": "Supporters argue that creating an independent investment authority with specialized expertise and professional leadership will improve investment returns and better protect public retirement funds. They contend the authority's independence from standard state budget processes and hiring rules will allow it to recruit and retain top investment professionals, compete with private sector talent, and make long-term investment decisions focused solely on maximizing returns for beneficiaries.",
+  "aiConArguments": "Opponents may worry that reducing the State Treasurer's direct control over these large investment portfolios weakens democratic accountability and legislative oversight. They could express concerns about giving the Investment Authority extensive independence from state budget rules and procurement requirements, potential conflicts of interest on the Board, high compensation for investment staff, or the complexity of managing digital assets and alternative investments that carry greater risks.",
+  "topic": "Taxes & Budget",
+  "textLength": 105052,
+  "createdAt": "2026-06-23T03:10:12.225Z",
+  "sponsors": [
+    {"peopleId":11937,"name":"Ralph Hise","party":"R","isPrimary":true},
+    {"peopleId":21663,"name":"David Craven","party":"R","isPrimary":true},
+    {"peopleId":17504,"name":"Michael Lee","party":"R","isPrimary":true},
+    {"peopleId":17437,"name":"Thomas McInnis","party":"R","isPrimary":false},
+    {"peopleId":11858,"name":"Timothy Moffitt","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

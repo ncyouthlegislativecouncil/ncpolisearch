@@ -1,0 +1,27 @@
+{
+  "billId": 2017244,
+  "billNumber": "H623",
+  "title": "NC Folk Fest and FIFA Funds",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "f25c8ffeb99634ed2cabaec9cf6a3228",
+  "lastAction": "Ref to the Com on Appropriations, if favorable, Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-04-02",
+  "url": "https://legiscan.com/NC/bill/H623/2025",
+  "aiSummary": "This bill appropriates $500,000 in state funds to the City of Greensboro for two purposes: $250,000 to cover law enforcement, security, and transportation costs for hosting a FIFA Club World Cup 2025 training camp, and $250,000 for expenses related to the 2025 North Carolina Folk Festival. The funds come from the state's General Fund for the 2025-2026 fiscal year.",
+  "aiProArguments": "Supporters argue that hosting the FIFA Club World Cup training camp brings national and international attention to Greensboro, generating tourism revenue and economic benefits that exceed the state's $250,000 investment. They contend that state funding for major events and cultural festivals like the Folk Fest supports local job creation, celebrates North Carolina culture, and enhances the state's reputation as a destination for significant sporting and cultural events.",
+  "aiConArguments": "Opponents question whether state tax dollars should subsidize events that primarily benefit a single city, arguing the funds could be used for statewide priorities like education or infrastructure. They contend that private sponsors and local governments should bear the costs of hosting major events, and that one-time grants may not deliver lasting benefits proportional to the public investment.",
+  "topic": "Taxes & Budget",
+  "textLength": 1316,
+  "createdAt": "2026-06-23T02:55:35.422Z",
+  "sponsors": [
+    {"peopleId":25213,"name":"Tracy Clark","party":"D","isPrimary":true},
+    {"peopleId":25197,"name":"Jerry Branson","party":"R","isPrimary":true},
+    {"peopleId":18462,"name":"Amos Quick","party":"D","isPrimary":true},
+    {"peopleId":2077,"name":"Mary Harrison","party":"D","isPrimary":true},
+    {"peopleId":19238,"name":"Deb Butler","party":"D","isPrimary":false},
+    {"peopleId":20509,"name":"Allison Dahle","party":"D","isPrimary":false},
+    {"peopleId":24206,"name":"Frances Jackson","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

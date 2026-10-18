@@ -1,0 +1,24 @@
+{
+  "billId": 2011635,
+  "billNumber": "S359",
+  "title": "Retirement Death Benefits Rewrite.-AB",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "9849ae8dbf9bd1dbfecfe5ae8d8e64e7",
+  "lastAction": "Sequential Referral To Judiciary Added After Pensions and Retirement and Aging",
+  "lastActionDate": "2025-04-01",
+  "url": "https://legiscan.com/NC/bill/S359/2025",
+  "aiSummary": "This bill reorganizes and standardizes death benefit rules across North Carolina's four main retirement systems (Teachers and State Employees, Local Governmental Employees, Consolidated Judicial, and Legislative). It consolidates scattered death benefit provisions into clearer, more consistent sections while making technical updates to language and clarifying eligibility rules.",
+  "aiProArguments": "Supporters argue this bill improves clarity and consistency in retirement law by organizing death benefit rules in one place rather than scattered throughout existing statutes. The recodification eliminates redundancy and makes it easier for members and administrators to understand eligibility requirements. The bill also modifies survivor's alternate benefits to make them more accessible, particularly for spouses with at least five years of service, regardless of age.",
+  "aiConArguments": "Opponents may be concerned that reorganizing complex retirement laws creates risks of inadvertent changes in meaning or interpretation, even with clarifying intent. Some may question whether the changes to survivor's alternate benefits (expanding eligibility) increase long-term costs to the retirement systems, and whether adequate funding mechanisms exist for these expanded benefits and for line-of-duty death benefits.",
+  "topic": "Taxes & Budget",
+  "textLength": 94188,
+  "createdAt": "2026-06-23T03:07:05.895Z",
+  "sponsors": [
+    {"peopleId":20225,"name":"Ted Alexander","party":"R","isPrimary":true},
+    {"peopleId":14615,"name":"Carl Ford","party":"R","isPrimary":true},
+    {"peopleId":20513,"name":"Bobby Hanig","party":"R","isPrimary":true},
+    {"peopleId":20216,"name":"Jim Burgin","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

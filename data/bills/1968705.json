@@ -1,0 +1,24 @@
+{
+  "billId": 1968705,
+  "billNumber": "S96",
+  "title": "Modify Insufficient Funds Tax Payment Fee",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "7bc4114e720409714d39b78c1ae926bf",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-02-17",
+  "url": "https://legiscan.com/NC/bill/S96/2025",
+  "aiSummary": "This bill changes the penalty for tax payments made with checks or electronic transfers that fail due to insufficient funds or nonexistent accounts from a variable amount (the greater of $25 or 10% of the payment, up to $1,000) to a flat $35 fee. The change takes effect July 1, 2025.",
+  "aiProArguments": "Supporters argue that a flat $35 penalty is simpler and more predictable for taxpayers compared to the current variable formula. They contend this streamlines tax collection administration for the state and provides clearer expectations about penalties when payment issues occur.",
+  "aiConArguments": "Opponents may argue that the flat $35 fee could be too lenient for large failed payments, potentially losing revenue the state would have collected under the old 10% formula for major transactions. They might also contend that removing the variable penalty structure eliminates incentives for taxpayers to ensure sufficient funds for larger tax payments.",
+  "topic": "Taxes & Budget",
+  "textLength": 1901,
+  "createdAt": "2026-06-23T03:04:52.650Z",
+  "sponsors": [
+    {"peopleId":22425,"name":"Julie Mayfield","party":"D","isPrimary":true},
+    {"peopleId":11858,"name":"Timothy Moffitt","party":"R","isPrimary":true},
+    {"peopleId":12033,"name":"Warren Daniel","party":"R","isPrimary":true},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

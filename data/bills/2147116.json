@@ -1,0 +1,21 @@
+{
+  "billId": 2147116,
+  "billNumber": "S1011",
+  "title": "Allergy Safe Schools Act",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "84dec0ea4cc3be87ba23c12dfc8e4468",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2026-05-05",
+  "url": "https://legiscan.com/NC/bill/S1011/2025",
+  "aiSummary": "This bill aims to improve food allergy safety in North Carolina schools by requiring at least one full-time nurse in every school, establishing statewide training programs for staff on recognizing and treating anaphylaxis, requiring medical action plans for students with diagnosed medical conditions, and prohibiting food at school celebrations (with limited exceptions). The bill allocates $92 million in recurring funds for school nurses and $300,000 for developing training materials.",
+  "aiProArguments": "Supporters argue this bill protects vulnerable students by ensuring trained medical professionals are available during the school day to respond to life-threatening allergic reactions. They contend that food-free celebrations eliminate a major source of accidental allergen exposure, while standardized staff training ensures consistent, evidence-based responses across all schools. Proponents also note the bill applies uniformly across all public, charter, regional, and laboratory schools, creating equitable protections statewide.",
+  "aiConArguments": "Opponents may argue that the $92 million annual cost for school nurses represents a significant state budget commitment that could affect other education priorities. Critics could contend that prohibiting food at elementary and middle school celebrations restricts cultural traditions and social activities, and that requiring curriculum-linked exceptions creates administrative burden. Some may also question whether the mandate creates legal liability issues for staff administering emergency medical care or argue that schools should determine their own celebration policies rather than following a state-imposed requirement.",
+  "topic": "Education",
+  "textLength": 17440,
+  "createdAt": "2026-06-23T03:12:37.421Z",
+  "sponsors": [
+    {"peopleId":25858,"name":"Sophia Chitlik","party":"D","isPrimary":true}
+  ],
+  "rollCalls": []
+}

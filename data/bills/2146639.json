@@ -1,0 +1,22 @@
+{
+  "billId": 2146639,
+  "billNumber": "H1125",
+  "title": "The Wakaboomee Program",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "1504913d06940eb73d711f8c9675968e",
+  "lastAction": "Ref to the Com on Appropriations, if favorable, Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2026-04-30",
+  "url": "https://legiscan.com/NC/bill/H1125/2025",
+  "aiSummary": "This bill appropriates $100,000 in state funding for the 2026-2027 fiscal year to Wakaboomee, a nonprofit organization, to expand science, technology, engineering, arts, and mathematics (S.T.E.A.M.) programs into Johnston and Wayne Counties, targeting rural and underserved communities.",
+  "aiProArguments": "Supporters argue this funding brings educational opportunities in critical STEM fields to rural areas that may lack access to such programming. The grant helps ensure students in underserved communities have equal opportunities to develop skills in science, technology, engineering, arts, and mathematics, which can improve workforce readiness and economic competitiveness in those regions.",
+  "aiConArguments": "Opponents may question whether $100,000 is sufficient to create meaningful impact, whether Wakaboomee is the most effective use of education funds compared to other alternatives, or whether the state should prioritize other funding needs. Some may also ask about the organization's track record, oversight mechanisms, and how success will be measured.",
+  "topic": "Education",
+  "textLength": 1115,
+  "createdAt": "2026-06-23T03:02:08.737Z",
+  "sponsors": [
+    {"peopleId":24199,"name":"Kanika Brown","party":"D","isPrimary":true},
+    {"peopleId":20509,"name":"Allison Dahle","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

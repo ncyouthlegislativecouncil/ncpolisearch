@@ -1,0 +1,28 @@
+{
+  "billId": 2009868,
+  "billNumber": "S322",
+  "title": "Utility Worker Protection Act",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "4d70a4a4b985da513b9aa79111a4bef0",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-19",
+  "url": "https://legiscan.com/NC/bill/S322/2025",
+  "aiSummary": "This bill adds a new offense to North Carolina law that makes assaulting a utility or communications worker a Class 1 misdemeanor when the worker is readily identifiable (wearing company uniform or logo) and performing their job duties. The bill groups this offense with other enhanced assault penalties, such as assaults on sports officials, that already carry Class 1 misdemeanor charges.",
+  "aiProArguments": "Supporters argue that utility and communications workers face increased violence while performing essential services, and they deserve legal protection similar to other professionals like sports officials. This bill creates a specific penalty that recognizes the danger these workers encounter and may deter assaults by establishing clear consequences for attacking someone providing critical infrastructure services.",
+  "aiConArguments": "Opponents may argue that existing assault and battery laws already provide adequate protection for all workers, making a specialized statute unnecessary. They might also raise concerns about whether the requirement for workers to be 'readily identifiable' creates enforcement challenges or uneven protections, and question whether creating multiple assault categories complicates the criminal code without addressing root causes of workplace violence.",
+  "topic": "Criminal Justice & Public Safety",
+  "textLength": 2979,
+  "createdAt": "2026-06-23T03:06:46.331Z",
+  "sponsors": [
+    {"peopleId":18465,"name":"Danny Britt","party":"R","isPrimary":true},
+    {"peopleId":17147,"name":"Gale Adcock","party":"D","isPrimary":false},
+    {"peopleId":12033,"name":"Warren Daniel","party":"R","isPrimary":false},
+    {"peopleId":20513,"name":"Bobby Hanig","party":"R","isPrimary":false},
+    {"peopleId":11858,"name":"Timothy Moffitt","party":"R","isPrimary":false},
+    {"peopleId":24224,"name":"Buck Newton","party":"R","isPrimary":false},
+    {"peopleId":22426,"name":"DeAndrea Salvador","party":"D","isPrimary":false},
+    {"peopleId":11862,"name":"Norman Sanderson","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

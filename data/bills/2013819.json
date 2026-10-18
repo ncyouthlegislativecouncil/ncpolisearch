@@ -1,0 +1,31 @@
+{
+  "billId": 2013819,
+  "billNumber": "S548",
+  "title": "Protect Whistleblower LEOs from Retaliation",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "8bfcd72c663eb5cf3b06a9151367c9ed",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-26",
+  "url": "https://legiscan.com/NC/bill/S548/2025",
+  "aiSummary": "This bill requires law enforcement officers to intervene when they observe another officer using excessive force (if safe to do so) and to report suspected unauthorized use of force to a supervisor within 72 hours. It also protects officers who make these reports from retaliation, termination, or discipline by their employer for having made the report, while allowing agencies to still discipline officers for unrelated prior misconduct.",
+  "aiProArguments": "Supporters argue this bill increases accountability and oversight within law enforcement by creating a duty for officers to speak up about excessive force. They contend it protects good officers from career punishment when they report misconduct, which can help restore public trust in police departments and reduce instances of excessive force. Proponents believe internal accountability mechanisms are more effective when officers feel safe reporting violations without fear of retaliation.",
+  "aiConArguments": "Opponents may worry the bill could create complications in law enforcement operations or morale if officers feel pressured to report colleagues. Some may argue that the 72-hour reporting requirement and standards for what constitutes 'excessive force' could be unclear, leading to disputes over legitimate use of force decisions. Critics might also contend that existing reporting mechanisms and professional standards already address these concerns without additional statutory protections.",
+  "topic": "Criminal Justice & Public Safety",
+  "textLength": 3751,
+  "createdAt": "2026-06-23T03:08:46.984Z",
+  "sponsors": [
+    {"peopleId":20513,"name":"Bobby Hanig","party":"R","isPrimary":true},
+    {"peopleId":20225,"name":"Ted Alexander","party":"R","isPrimary":true},
+    {"peopleId":20222,"name":"Todd Johnson","party":"R","isPrimary":true},
+    {"peopleId":24220,"name":"Val Applewhite","party":"D","isPrimary":false},
+    {"peopleId":25860,"name":"Woodson Bradley","party":"D","isPrimary":false},
+    {"peopleId":25212,"name":"Bob Brinson","party":"R","isPrimary":false},
+    {"peopleId":22425,"name":"Julie Mayfield","party":"D","isPrimary":false},
+    {"peopleId":20223,"name":"Mujtaba Mohammed","party":"D","isPrimary":false},
+    {"peopleId":11862,"name":"Norman Sanderson","party":"R","isPrimary":false},
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

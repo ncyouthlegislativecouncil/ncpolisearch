@@ -1,0 +1,21 @@
+{
+  "billId": 2144497,
+  "billNumber": "S807",
+  "title": "Restore Down-Zoning Auth./Woodfin",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "957f1646c6197ef1b69647b814448868",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2026-04-22",
+  "url": "https://legiscan.com/NC/bill/S807/2025",
+  "aiSummary": "This bill restores the Town of Woodfin's authority to initiate down-zoning (reducing allowed development density or permitted uses on properties) without requiring written consent from all affected property owners. It modifies state law to create an exception for Woodfin and applies retroactively to December 11, 2024.",
+  "aiProArguments": "Supporters argue this gives Woodfin local control to manage its own land use and community character by allowing the town government to reduce zoning density or uses when deemed necessary, without being blocked by individual property owners. They contend this is essential for local planning and protecting neighborhoods from unwanted development that conflicts with community goals.",
+  "aiConArguments": "Opponents argue that removing the property owner consent requirement allows government to reduce property values and development rights without owner approval, which they view as a taking of property rights and unfair to landowners. They contend that property owners should have a say in decisions that significantly affect their land's value and future use.",
+  "topic": "Local Government",
+  "textLength": 1804,
+  "createdAt": "2026-06-23T03:10:54.280Z",
+  "sponsors": [
+    {"peopleId":22425,"name":"Julie Mayfield","party":"D","isPrimary":true}
+  ],
+  "rollCalls": []
+}

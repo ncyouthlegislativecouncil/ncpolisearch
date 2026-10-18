@@ -1,0 +1,21 @@
+{
+  "billId": 2014387,
+  "billNumber": "S590",
+  "title": "Coastal Plain Resilience and Eco. Pros. Act",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "621c8b542a87d9f828ab6890f84df094",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2025-03-26",
+  "url": "https://legiscan.com/NC/bill/S590/2025",
+  "aiSummary": "This bill appropriates approximately $13.6 million in recurring funds and $7.15 million in nonrecurring funds through fiscal year 2027 to the Department of Environmental Quality for coastal resilience, environmental monitoring, staff positions, and water infrastructure projects. The largest allocation is $2 billion for a Water Infrastructure Fund to support drinking water and wastewater system improvements across the state.",
+  "aiProArguments": "Supporters argue this bill addresses critical infrastructure needs and environmental challenges facing North Carolina. The funding supports flood resilience programs in coastal areas vulnerable to rising sea levels and storms, improves water quality through contamination monitoring and Superfund cleanup, and invests in essential public health infrastructure like drinking water and wastewater systems. Proponents contend these investments protect communities, create jobs, and position North Carolina to handle environmental challenges.",
+  "aiConArguments": "Opponents may question whether the state can afford this spending level, particularly the $2 billion water infrastructure allocation, and whether these funds represent the best use of state resources compared to other priorities. Some may argue that federal funding or private sector solutions should cover more of these costs, or that the recurring staff positions create ongoing budget obligations. Concerns may also exist about whether local governments should contribute more to their own water infrastructure needs.",
+  "topic": "Environment & Energy",
+  "textLength": 5303,
+  "createdAt": "2026-06-23T03:09:08.732Z",
+  "sponsors": [
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":true}
+  ],
+  "rollCalls": []
+}

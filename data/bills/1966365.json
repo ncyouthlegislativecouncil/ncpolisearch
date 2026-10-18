@@ -1,0 +1,21 @@
+{
+  "billId": 1966365,
+  "billNumber": "S88",
+  "title": "17th Senatorial District Local Act-1",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "06dac4370ef083ea11f33f29f3ddbcd9",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-02-13",
+  "url": "https://legiscan.com/NC/bill/S88/2025",
+  "aiSummary": "This is a local bill that applies only to North Carolina's 17th Senatorial District. The bill text does not specify what changes or policies it implements—it only establishes that whatever provisions are included will apply specifically to that district and become effective upon passage.",
+  "aiProArguments": "Supporters of local bills argue they allow the General Assembly to address specific regional needs and circumstances that may differ from statewide concerns. Local legislation can be tailored to solve particular problems in a district without affecting other parts of the state, potentially serving constituents more effectively.",
+  "aiConArguments": "Opponents of local bills raise concerns about transparency and equal treatment, since local legislation often receives less public scrutiny than statewide bills. The vague language in this bill makes it unclear what specific policies or changes it contains, making it difficult for constituents to understand what is being enacted in their district.",
+  "topic": "Local Government",
+  "textLength": 506,
+  "createdAt": "2026-06-23T03:04:48.046Z",
+  "sponsors": [
+    {"peopleId":20505,"name":"Sydney Batch","party":"D","isPrimary":true}
+  ],
+  "rollCalls": []
+}

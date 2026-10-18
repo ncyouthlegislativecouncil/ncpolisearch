@@ -1,0 +1,24 @@
+{
+  "billId": 2146193,
+  "billNumber": "S890",
+  "title": "Keep Immigrant Talent in NC",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "a20c1de53dd92a9dd818c3109541b185",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2026-04-29",
+  "url": "https://legiscan.com/NC/bill/S890/2025",
+  "aiSummary": "This bill creates a High-Skilled Talent Retention Fund within the North Carolina Department of Commerce that would provide grants to immigrant workers to help pay for costs associated with maintaining their employment-based visa status, such as visa renewal fees and legal processing costs. The bill allocates $1 million in recurring state funds to administer the program and cover eligible applicants' immigration-related expenses.",
+  "aiProArguments": "Supporters argue this bill helps North Carolina retain talented workers in fields like science, technology, engineering, and healthcare who might otherwise leave the state due to high immigration costs. They contend that removing financial barriers to legal immigration status keeps skilled workers in the state's economy, strengthens the workforce, and helps businesses fill positions that are difficult to staff domestically.",
+  "aiConArguments": "Opponents may argue that state tax dollars should not subsidize federal immigration costs that individuals or their employers should bear. Some may question whether $1 million is an efficient use of state funding when federal immigration policy is the responsibility of the federal government, and may be concerned about the program's scope or whether similar assistance should be offered to non-immigrant citizens facing financial hardship.",
+  "topic": "Business & Labor",
+  "textLength": 4365,
+  "createdAt": "2026-06-23T03:11:36.709Z",
+  "sponsors": [
+    {"peopleId":21633,"name":"Natalie Murdock","party":"D","isPrimary":true},
+    {"peopleId":25858,"name":"Sophia Chitlik","party":"D","isPrimary":true},
+    {"peopleId":25859,"name":"Caleb Theodros","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

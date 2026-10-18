@@ -1,0 +1,22 @@
+{
+  "billId": 1948276,
+  "billNumber": "S39",
+  "title": "GSC Add Member from High Point Law School",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "8d50fca568286ab15535e2657abafe53",
+  "lastAction": "Re-ref to Judiciary. If fav, re-ref to Rules and Operations of the Senate",
+  "lastActionDate": "2025-02-11",
+  "url": "https://legiscan.com/NC/bill/S39/2025",
+  "aiSummary": "This bill increases the membership of the General Statutes Commission from 13 to 14 members by adding one representative appointed by the dean of the High Point University School of Law. The bill also adjusts the appointment schedule so that High Point University's dean appoints their representative in odd-numbered years, aligning with other law school appointments.",
+  "aiProArguments": "Supporters argue that adding High Point University's law school to the General Statutes Commission gives the university's legal expertise a voice in statutory revision and ensures broader representation across North Carolina's law schools. The bill was recommended by the General Statutes Commission itself, suggesting it reflects a need identified by the commission for expanded participation in this important legislative work.",
+  "aiConArguments": "Opponents may argue that expanding the commission adds another member to an already-established body, potentially making decision-making slower or more complex. Some might question whether adding one more law school representative is necessary or cost-effective, or whether the commission's current size and composition adequately serves its statutory revision responsibilities.",
+  "topic": "Local Government",
+  "textLength": 2003,
+  "createdAt": "2026-06-23T03:04:22.529Z",
+  "sponsors": [
+    {"peopleId":22423,"name":"Amy Galey","party":"R","isPrimary":true},
+    {"peopleId":25250,"name":"Dana Jones","party":"R","isPrimary":true}
+  ],
+  "rollCalls": []
+}

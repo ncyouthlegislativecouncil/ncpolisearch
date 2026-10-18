@@ -1,0 +1,32 @@
+{
+  "billId": 2016890,
+  "billNumber": "H581",
+  "title": "Career Pathways Transparency Act",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "462193569b396f24aba6acce7f18583b",
+  "lastAction": "Re-ref Com On Appropriations",
+  "lastActionDate": "2025-05-06",
+  "url": "https://legiscan.com/NC/bill/H581/2025",
+  "aiSummary": "This bill creates a 'Know Before You Go' program that provides North Carolina high school sophomores with transparent data about college and career options, including job demand, salary information, graduation rates, and student debt outcomes. It requires state agencies to collect and share this information through a website and local school programs, with $500,000 in grants to help schools implement the initiative.",
+  "aiProArguments": "Supporters argue this bill helps students make better-informed decisions about their educational and career futures by providing clear data on job prospects, costs, and outcomes for different majors and schools. They contend that transparency about student debt, employment rates, and salary information empowers families to choose pathways aligned with real labor market needs, particularly benefiting students from lower-income backgrounds who may lack guidance on these topics.",
+  "aiConArguments": "Opponents may worry about the administrative burden and cost of collecting and maintaining accurate data across multiple institutions and state agencies, especially beyond the initial $500,000 grant funding. Some also raise concerns that focusing heavily on salary and employment metrics could discourage students from pursuing valuable but lower-paying careers in fields like teaching, social work, or the arts, or that incomplete data could mislead students rather than fully inform them.",
+  "topic": "Education",
+  "textLength": 9499,
+  "createdAt": "2026-06-23T02:55:00.084Z",
+  "sponsors": [
+    {"peopleId":21377,"name":"Jake Johnson","party":"R","isPrimary":true},
+    {"peopleId":22610,"name":"Matthew Winslow","party":"R","isPrimary":true},
+    {"peopleId":22614,"name":"Erin Pare","party":"R","isPrimary":true},
+    {"peopleId":22607,"name":"Steve Tyson","party":"R","isPrimary":true},
+    {"peopleId":2077,"name":"Mary Harrison","party":"D","isPrimary":false},
+    {"peopleId":20515,"name":"Zack Forde-Hawkins","party":"D","isPrimary":false},
+    {"peopleId":21375,"name":"Jeffrey McNeely","party":"R","isPrimary":false},
+    {"peopleId":2115,"name":"Garland Pierce","party":"D","isPrimary":false},
+    {"peopleId":22946,"name":"Reece Pyrtle","party":"R","isPrimary":false},
+    {"peopleId":24219,"name":"Bill Ward","party":"R","isPrimary":false},
+    {"peopleId":17158,"name":"Shelly Willingham","party":"D","isPrimary":false},
+    {"peopleId":22609,"name":"David Willis","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

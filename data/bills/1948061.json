@@ -1,0 +1,21 @@
+{
+  "billId": 1948061,
+  "billNumber": "S32",
+  "title": "11th Senatorial District Local Act-1",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "d5771fa9054ddd27c1a2e1d195c8f567",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-02-03",
+  "url": "https://legiscan.com/NC/bill/S32/2025",
+  "aiSummary": "This is a local bill that relates specifically to North Carolina's 11th Senatorial District. The bill text does not specify what changes or actions it authorizes—it only establishes that the legislation applies to that district and becomes effective upon passage.",
+  "aiProArguments": "Supporters of local bills argue they allow the General Assembly to address specific regional needs and circumstances that may not require statewide legislation. Local acts can provide tailored solutions for particular districts or communities without affecting the entire state.",
+  "aiConArguments": "Opponents of local bills raise concerns about transparency and equal treatment, noting that local acts can be difficult for constituents to understand or track. Critics also question whether local legislation should go through the same scrutiny as general laws, and may worry about special interests influencing district-specific measures.",
+  "topic": "Local Government",
+  "textLength": 506,
+  "createdAt": "2026-06-23T03:04:19.726Z",
+  "sponsors": [
+    {"peopleId":20504,"name":"Lisa Barnes","party":"R","isPrimary":true}
+  ],
+  "rollCalls": []
+}

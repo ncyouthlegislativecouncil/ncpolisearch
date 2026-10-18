@@ -1,0 +1,24 @@
+{
+  "billId": 2014137,
+  "billNumber": "S559",
+  "title": "Study State Emp. Bereavement Leave",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "28a5d975a10d160dc6c70d3cf863901f",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-26",
+  "url": "https://legiscan.com/NC/bill/S559/2025",
+  "aiSummary": "This bill directs the Legislative Research Commission to study whether North Carolina state employees should have bereavement leave policies and report findings to the General Assembly in 2026. The study includes a $50,000 appropriation from the General Fund to conduct the research.",
+  "aiProArguments": "Supporters argue that studying bereavement leave addresses an important employee benefit that may help state workers manage grief and family responsibilities during difficult times. They contend that understanding the need for such leave through data analysis and comparison with other states' practices will inform whether North Carolina should implement or improve bereavement policies to remain competitive in recruiting and retaining state employees.",
+  "aiConArguments": "Opponents may argue that the $50,000 cost for the study represents unnecessary spending when the state could simply implement bereavement leave without a lengthy research process. They might also contend that bereavement leave already exists in many state employee policies, making a full study redundant, or express concerns that the study delays addressing employee needs if such leave is warranted.",
+  "topic": "Taxes & Budget",
+  "textLength": 1047,
+  "createdAt": "2026-06-23T03:08:52.763Z",
+  "sponsors": [
+    {"peopleId":21633,"name":"Natalie Murdock","party":"D","isPrimary":true},
+    {"peopleId":25858,"name":"Sophia Chitlik","party":"D","isPrimary":false},
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

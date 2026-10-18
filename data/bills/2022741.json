@@ -1,0 +1,31 @@
+{
+  "billId": 2022741,
+  "billNumber": "H980",
+  "title": "Remove Barriers to Employment from Court Debt",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "7266d8d3414832abe208f12b5c1b1cbe",
+  "lastAction": "Ref to the Com on Appropriations, if favorable, Finance, if favorable, Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-04-14",
+  "url": "https://legiscan.com/NC/bill/H980/2025",
+  "aiSummary": "This bill eliminates driver's license suspensions for failure to pay court fines, penalties, or costs, and for failure to appear in court for motor vehicle offenses. It requires the Division of Motor Vehicles to reinstate all such suspended licenses without fees, forgives certain outstanding fines related to driving with a revoked license when the underlying suspension was for non-payment or non-appearance, and funds a text reminder system for court appearances.",
+  "aiProArguments": "Supporters argue this bill removes barriers that prevent people from working and earning income, since a suspended license makes it difficult to commute to jobs. They contend that suspending licenses for debt creates a cycle where people cannot pay fines without working, while also noting that low-income individuals are disproportionately affected. Supporters also point out the bill includes data collection to measure fairness and a text reminder system to help people remember court dates.",
+  "aiConArguments": "Opponents worry that eliminating license suspension as a consequence may reduce compliance with court orders and court appearances, since the financial penalty and driving restriction previously motivated people to pay fines and show up. They may also express concerns about lost revenue for court systems and question whether text reminders alone will achieve the same compliance levels as the threat of license suspension.",
+  "topic": "Criminal Justice & Public Safety",
+  "textLength": 16043,
+  "createdAt": "2026-06-23T03:00:00.562Z",
+  "sponsors": [
+    {"peopleId":24203,"name":"Allen Chesser","party":"R","isPrimary":true},
+    {"peopleId":18451,"name":"Mary Belk","party":"D","isPrimary":false},
+    {"peopleId":24200,"name":"Laura Budd","party":"D","isPrimary":false},
+    {"peopleId":24202,"name":"Maria Cervania","party":"D","isPrimary":false},
+    {"peopleId":2077,"name":"Mary Harrison","party":"D","isPrimary":false},
+    {"peopleId":24206,"name":"Frances Jackson","party":"D","isPrimary":false},
+    {"peopleId":19360,"name":"Marcia Morey","party":"D","isPrimary":false},
+    {"peopleId":2115,"name":"Garland Pierce","party":"D","isPrimary":false},
+    {"peopleId":16252,"name":"Robert Reives","party":"D","isPrimary":false},
+    {"peopleId":26396,"name":"Phil Rubin","party":"D","isPrimary":false},
+    {"peopleId":17149,"name":"Brian Turner","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

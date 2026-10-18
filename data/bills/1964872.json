@@ -1,0 +1,33 @@
+{
+  "billId": 1964872,
+  "billNumber": "H100",
+  "title": "Expand Religious Property Tax Exemption",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "852be5962e865e6e90fcdff124e1ec47",
+  "lastAction": "Re-ref Com On Finance",
+  "lastActionDate": "2025-03-12",
+  "url": "https://legiscan.com/NC/bill/H100/2025",
+  "aiSummary": "This bill expands the property tax exemption for religious organizations by allowing them to hold undeveloped land tax-free for up to five years if they plan to use it for religious purposes. The exemption applies to land that does not exceed 200% of the organization's currently exempt property, and the organization must certify within five years that it will begin using or developing the land for religious purposes.",
+  "aiProArguments": "Supporters argue this bill helps religious organizations acquire and develop property for expanding their facilities and services to communities. They contend the five-year holding period is reasonable for planning and development timelines, and that this reflects the existing principle that property used for religious purposes should be tax-exempt since religious institutions provide community benefits.",
+  "aiConArguments": "Opponents contend this expands tax exemptions in a way that reduces municipal revenue and shifts tax burdens to other property owners. They argue the bill could allow religious organizations to hold valuable land speculatively without using it for stated purposes, and that the certification requirement may be difficult to enforce, potentially creating loopholes for property held indefinitely.",
+  "topic": "Taxes & Budget",
+  "textLength": 1683,
+  "createdAt": "2026-06-23T02:41:16.745Z",
+  "sponsors": [
+    {"peopleId":22946,"name":"Reece Pyrtle","party":"R","isPrimary":true},
+    {"peopleId":18463,"name":"John Sauls","party":"R","isPrimary":true},
+    {"peopleId":24207,"name":"Neal Jackson","party":"R","isPrimary":true},
+    {"peopleId":25856,"name":"Paul Scott","party":"R","isPrimary":true},
+    {"peopleId":24201,"name":"Celeste Cairns","party":"R","isPrimary":false},
+    {"peopleId":25846,"name":"Mike Colvin","party":"D","isPrimary":false},
+    {"peopleId":25843,"name":"Brian Echevarria","party":"R","isPrimary":false},
+    {"peopleId":24206,"name":"Frances Jackson","party":"D","isPrimary":false},
+    {"peopleId":20519,"name":"Keith Kidwell","party":"R","isPrimary":false},
+    {"peopleId":14633,"name":"Dennis Riddell","party":"R","isPrimary":false},
+    {"peopleId":25855,"name":"Mike Schietzelt","party":"R","isPrimary":false},
+    {"peopleId":11863,"name":"Phillip Shepard","party":"R","isPrimary":false},
+    {"peopleId":24219,"name":"Bill Ward","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

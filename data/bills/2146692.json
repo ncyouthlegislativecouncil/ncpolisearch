@@ -1,0 +1,25 @@
+{
+  "billId": 2146692,
+  "billNumber": "H1137",
+  "title": "Appropriation to the Lake Norman CDC",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "d558cac683504c2f43ccb2b74bf9b0c0",
+  "lastAction": "Ref to the Com on Appropriations, if favorable, Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2026-05-04",
+  "url": "https://legiscan.com/NC/bill/H1137/2025",
+  "aiSummary": "This bill appropriates $4 million in state funding to the Lake Norman Community Development Corporation for the 2025-2026 fiscal year. The funds are designated for the Smithville Revitalization Plan ($2 million) and other affordable housing development ($2 million), with up to 15% of the total available for administrative costs.",
+  "aiProArguments": "Supporters argue this funding addresses affordable housing shortages in the Lake Norman area by directing resources to community development and revitalization efforts. The Smithville Revitalization Plan and broader affordable housing development can help existing residents afford to stay in their community and attract new families while stimulating local economic activity.",
+  "aiConArguments": "Opponents may question whether $4 million is the most efficient use of state general fund resources, whether the Lake Norman Community Development Corporation has the capacity to effectively manage this funding, or whether similar affordable housing needs exist in other parts of North Carolina that should also receive state support. Some may also be concerned about the accountability mechanisms for how the corporation uses the funds, particularly the discretionary 15% administrative allocation.",
+  "topic": "Taxes & Budget",
+  "textLength": 1392,
+  "createdAt": "2026-06-23T03:02:18.655Z",
+  "sponsors": [
+    {"peopleId":25847,"name":"Beth Helfrich","party":"D","isPrimary":true},
+    {"peopleId":18451,"name":"Mary Belk","party":"D","isPrimary":false},
+    {"peopleId":22600,"name":"Terry Brown","party":"D","isPrimary":false},
+    {"peopleId":2044,"name":"Becky Carney","party":"D","isPrimary":false},
+    {"peopleId":25844,"name":"Julia Greenfield","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

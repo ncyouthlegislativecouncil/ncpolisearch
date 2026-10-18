@@ -1,0 +1,23 @@
+{
+  "billId": 2022272,
+  "billNumber": "H873",
+  "title": "DEQ Agency Bill.-AB",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "38d238c83fa176142000434cd010584b",
+  "lastAction": "Re-ref Com On Finance",
+  "lastActionDate": "2025-04-30",
+  "url": "https://legiscan.com/NC/bill/H873/2025",
+  "aiSummary": "This bill makes several administrative and technical changes to North Carolina's environmental regulations, including allowing the Department of Environmental Quality (DEQ) to use school and public buildings for hearings, clarifying rules for hazardous waste recycling facilities, modifying brownfields property fee structures, refining solid waste recycling definitions, expanding eligibility for water project financing, and adjusting wetland mitigation and stewardship practices.",
+  "aiProArguments": "Supporters argue these changes streamline DEQ operations and reduce costs by allowing free use of public facilities for environmental hearings. The bill clarifies confusing regulations around hazardous waste recycling and solid waste reuse, which advocates say removes barriers to legitimate recycling and beneficial reuse of materials. Proponents contend the expanded water financing eligibility helps communities afford drinking water and wastewater infrastructure improvements, and that the stewardship changes better balance environmental protection with economic development and public recreation opportunities.",
+  "aiConArguments": "Opponents may be concerned that allowing DEQ automatic access to school facilities could disrupt educational activities despite stated protections, and that clarifying waste recycling rules could reduce environmental oversight if facilities exploit loopholes. Some may worry that modifying brownfields fees and adjusting payment schedules reduces accountability for cleanup compliance. Others might argue that changes to stewardship requirements—moving from maximizing public recreation to prioritizing it \"where feasible\"—could reduce public access to state-owned mitigation lands and hunting opportunities.",
+  "topic": "Environment & Energy",
+  "textLength": 21476,
+  "createdAt": "2026-06-23T02:58:47.272Z",
+  "sponsors": [
+    {"peopleId":17876,"name":"Kyle Hall","party":"R","isPrimary":true},
+    {"peopleId":24202,"name":"Maria Cervania","party":"D","isPrimary":false},
+    {"peopleId":2077,"name":"Mary Harrison","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

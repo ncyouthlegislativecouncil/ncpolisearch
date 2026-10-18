@@ -1,0 +1,21 @@
+{
+  "billId": 1980971,
+  "billNumber": "S149",
+  "title": "Henderson County/Blue Ridge CC Construction",
+  "status": "2",
+  "chamber": "S",
+  "changeHash": "58f38e9886cb02db0165f15fce4c1af2",
+  "lastAction": "Re-ref Com On Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-06-17",
+  "url": "https://legiscan.com/NC/bill/S149/2025",
+  "aiSummary": "This bill authorizes Henderson County to construct, renovate, or repair buildings on Blue Ridge Community College's campuses within the county. The county can finance these projects using local bonds, state appropriations, or other funding sources, and would lease completed buildings to the college. The bill exempts the county from certain state procurement and construction requirements that normally apply to community college projects.",
+  "aiProArguments": "Supporters argue this bill gives Henderson County greater flexibility and control to address facility needs at Blue Ridge Community College more quickly and efficiently than standard state procedures allow. By bypassing certain state requirements, the county can potentially reduce costs and construction timelines, allowing local leaders to respond faster to the college's infrastructure needs while still maintaining financial accountability and consulting with the college board.",
+  "aiConArguments": "Opponents may argue that bypassing standard state construction and procurement rules could reduce transparency and competitive bidding that protect taxpayer money. They might also express concern that giving county government direct construction authority over state community college assets could create unclear ownership lines and potential disputes between local and state interests regarding building control and maintenance.",
+  "topic": "Education",
+  "textLength": 3278,
+  "createdAt": "2026-06-23T03:05:20.115Z",
+  "sponsors": [
+    {"peopleId":11858,"name":"Timothy Moffitt","party":"R","isPrimary":true}
+  ],
+  "rollCalls": []
+}

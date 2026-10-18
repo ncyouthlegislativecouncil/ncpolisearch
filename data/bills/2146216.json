@@ -1,0 +1,22 @@
+{
+  "billId": 2146216,
+  "billNumber": "S874",
+  "title": "Licensing Certain Fire Safety Equipment",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "457cdc5518cce9c969a083fd618542d6",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2026-04-29",
+  "url": "https://legiscan.com/NC/bill/S874/2025",
+  "aiSummary": "This bill creates a state licensing and permitting system for individuals and companies that install, repair, and service portable fire extinguishers and fire suppression systems in North Carolina. Firms must obtain a $250 license and individuals must obtain a $100 permit from the State Fire Marshal, and both must meet equipment, insurance, and competency requirements including potential examinations.",
+  "aiProArguments": "Supporters argue this bill protects public safety by ensuring fire suppression equipment is installed and maintained by qualified professionals who follow proper standards and keep accurate service records. The licensing system creates accountability through insurance requirements, inspections, and penalties for non-compliance, which could reduce fire-related injuries and property damage from improperly maintained equipment.",
+  "aiConArguments": "Opponents may contend that the licensing fees and examination requirements create barriers for small businesses and individual technicians entering the field, potentially increasing costs for consumers. Some argue the regulatory burden duplicates existing fire safety oversight by local authorities and insurance inspectors, and that the law's broad prohibitions could affect internal company maintenance of their own equipment or informal assistance.",
+  "topic": "Criminal Justice & Public Safety",
+  "textLength": 28815,
+  "createdAt": "2026-06-23T03:11:29.406Z",
+  "sponsors": [
+    {"peopleId":20216,"name":"Jim Burgin","party":"R","isPrimary":true},
+    {"peopleId":11862,"name":"Norman Sanderson","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

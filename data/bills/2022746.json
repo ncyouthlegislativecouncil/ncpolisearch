@@ -1,0 +1,30 @@
+{
+  "billId": 2022746,
+  "billNumber": "H939",
+  "title": "School Chaplains",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "8c2e1fa19e8317bfb557d79e8fdc8167",
+  "lastAction": "Ref To Com On Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-04-14",
+  "url": "https://legiscan.com/NC/bill/H939/2025",
+  "aiSummary": "This bill allows North Carolina public school boards to hire, contract with, or accept volunteer chaplains to serve students. Schools that choose to employ chaplains must adopt a policy requiring certified training, describing the chaplain's services, establishing continuing education and discipline procedures, and conducting criminal background checks reviewed by the State Superintendent.",
+  "aiProArguments": "Supporters argue that school chaplains provide valuable emotional, spiritual, and mental health support to students during times of crisis or need. They contend that chaplains complement existing school counselors and nurses by offering additional resources, and that allowing schools the option to hire chaplains—rather than requiring it—respects local decision-making while serving students who may benefit from this support.",
+  "aiConArguments": "Opponents express concerns that school chaplains may promote particular religious views in public schools, potentially conflicting with separation of church and state principles and making some students uncomfortable. They also question whether chaplains are the most cost-effective mental health resource compared to hiring additional counselors or social workers, and worry about adequate oversight despite background check requirements.",
+  "topic": "Education",
+  "textLength": 2816,
+  "createdAt": "2026-06-23T02:59:32.948Z",
+  "sponsors": [
+    {"peopleId":25222,"name":"Blair Eddins","party":"R","isPrimary":true},
+    {"peopleId":24197,"name":"Brian Biggs","party":"R","isPrimary":true},
+    {"peopleId":25856,"name":"Paul Scott","party":"R","isPrimary":true},
+    {"peopleId":24207,"name":"Neal Jackson","party":"R","isPrimary":true},
+    {"peopleId":25841,"name":"Jonathan Almond","party":"R","isPrimary":false},
+    {"peopleId":24196,"name":"Jennifer Balkcom","party":"R","isPrimary":false},
+    {"peopleId":25197,"name":"Jerry Branson","party":"R","isPrimary":false},
+    {"peopleId":11848,"name":"James Dixon","party":"R","isPrimary":false},
+    {"peopleId":22965,"name":"Donnie Loftis","party":"R","isPrimary":false},
+    {"peopleId":24219,"name":"Bill Ward","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

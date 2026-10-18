@@ -1,0 +1,22 @@
+{
+  "billId": 2005799,
+  "billNumber": "H393",
+  "title": "Funds for One Love Festival",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "9619c1e483666f9e06611ce6dc884eb7",
+  "lastAction": "Ref to the Com on Appropriations, if favorable, Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-03-17",
+  "url": "https://legiscan.com/NC/bill/H393/2025",
+  "aiSummary": "This bill appropriates $250,000 in state funds for the 2025-2026 fiscal year to The Arts Council, Inc. to support the 1Love Festival, a three-day cultural event in Winston-Salem featuring music, arts, and entertainment designed to celebrate diversity and foster unity.",
+  "aiProArguments": "Supporters argue this funding supports cultural expression and community engagement by providing resources for a festival that celebrates diversity and brings people together. They contend that arts and cultural events provide economic benefits to local communities, create jobs, and enhance quality of life for residents.",
+  "aiConArguments": "Opponents may question whether state general funds should be used for individual local events when other priorities compete for limited resources, and whether a one-time $250,000 appropriation sets a precedent for other communities to request similar directed grants. They might also argue that local governments or private sponsorship could fund the festival instead of using state taxpayer dollars.",
+  "topic": "Taxes & Budget",
+  "textLength": 1149,
+  "createdAt": "2026-06-23T02:50:10.050Z",
+  "sponsors": [
+    {"peopleId":22599,"name":"Amber Baker","party":"D","isPrimary":true},
+    {"peopleId":24199,"name":"Kanika Brown","party":"D","isPrimary":true}
+  ],
+  "rollCalls": []
+}

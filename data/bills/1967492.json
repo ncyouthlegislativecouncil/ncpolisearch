@@ -1,0 +1,25 @@
+{
+  "billId": 1967492,
+  "billNumber": "S92",
+  "title": "Released Time Education Act",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "18dd96fc4a249d4d47a1fdfca733298c",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-02-13",
+  "url": "https://legiscan.com/NC/bill/S92/2025",
+  "aiSummary": "This bill allows North Carolina public school districts to adopt policies permitting students to leave school during the instructional day to attend religious moral instruction courses offered by outside organizations. Districts may award up to two elective credits for completed courses, provided the courses are evaluated using secular criteria and no public funds subsidize them beyond minimal administrative costs.",
+  "aiProArguments": "Supporters argue this bill expands educational choice and allows families to incorporate religious instruction into their children's education without interfering with public school operations. They contend the safeguards—requiring parental consent, secular evaluation criteria, and no public funding—ensure the policy respects both religious liberty and constitutional separation of church and state while accommodating diverse family values.",
+  "aiConArguments": "Opponents worry the bill could fragment student learning by interrupting the instructional day, disadvantage students who cannot participate due to transportation or family circumstances, and create logistical challenges for schools managing attendance. Some raise concerns that awarding academic credit for religious courses blurs the line between secular education and religious instruction, and question whether secular evaluation criteria adequately protect against advancing specific religious viewpoints.",
+  "topic": "Education",
+  "textLength": 4328,
+  "createdAt": "2026-06-23T03:04:50.527Z",
+  "sponsors": [
+    {"peopleId":20513,"name":"Bobby Hanig","party":"R","isPrimary":true},
+    {"peopleId":20225,"name":"Ted Alexander","party":"R","isPrimary":true},
+    {"peopleId":14615,"name":"Carl Ford","party":"R","isPrimary":true},
+    {"peopleId":20216,"name":"Jim Burgin","party":"R","isPrimary":false},
+    {"peopleId":11858,"name":"Timothy Moffitt","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

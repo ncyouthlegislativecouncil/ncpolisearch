@@ -1,0 +1,21 @@
+{
+  "billId": 1945773,
+  "billNumber": "S18",
+  "title": "46th Senatorial District Local Act-1",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "74664852bc3a6f732bfb849ad85c1c7c",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-01-30",
+  "url": "https://legiscan.com/NC/bill/S18/2025",
+  "aiSummary": "This is a local bill that applies only to the 46th Senatorial District in North Carolina. The bill text does not specify what changes or actions it authorizes—it only establishes that any provisions would affect only that district and take effect upon passage.",
+  "aiProArguments": "Supporters of local bills argue they allow the General Assembly to address specific, localized needs that affect a particular district without imposing statewide requirements. This targeted approach can efficiently solve problems unique to that community or district.",
+  "aiConArguments": "Opponents of local bills raise concerns about transparency and equal treatment, noting that such district-specific legislation may not receive the same public scrutiny as statewide bills and could create inconsistent policies across regions. Without knowing the bill's specific provisions, it is difficult to evaluate whether the local approach is appropriate or necessary.",
+  "topic": "Local Government",
+  "textLength": 506,
+  "createdAt": "2026-06-23T03:04:12.446Z",
+  "sponsors": [
+    {"peopleId":12033,"name":"Warren Daniel","party":"R","isPrimary":true}
+  ],
+  "rollCalls": []
+}

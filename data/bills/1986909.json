@@ -1,0 +1,24 @@
+{
+  "billId": 1986909,
+  "billNumber": "S218",
+  "title": "Increase Access for Small Employers/Insurance",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "f649d7f65754091529b0b9a47e5ef4cb",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-03",
+  "url": "https://legiscan.com/NC/bill/S218/2025",
+  "aiSummary": "This bill allows small employers with fewer than 5 employees (instead of the current 12) to purchase stop loss, catastrophic, and reinsurance coverage. These insurance products help protect small businesses from extremely high medical claims costs. The bill maintains existing safeguards around attachment points and claim thresholds to prevent the coverage from being used as primary health insurance.",
+  "aiProArguments": "Supporters argue this expands affordable insurance options for very small businesses that currently struggle to manage healthcare costs. By lowering the employee threshold from 12 to 5, the bill allows more struggling small employers to access stop loss and reinsurance products that protect against catastrophic claims, potentially making healthcare coverage more affordable and sustainable for tiny companies.",
+  "aiConArguments": "Opponents may worry that expanding access to stop loss coverage could create loopholes where it functions as primary health insurance rather than catastrophic protection, potentially reducing consumer protections. They may also argue that lowering the threshold could fragment the small group insurance market, potentially raising costs for slightly larger employers or creating adverse selection issues in the broader insurance pool.",
+  "topic": "Healthcare",
+  "textLength": 2813,
+  "createdAt": "2026-06-23T03:05:53.372Z",
+  "sponsors": [
+    {"peopleId":20222,"name":"Todd Johnson","party":"R","isPrimary":true},
+    {"peopleId":22423,"name":"Amy Galey","party":"R","isPrimary":true},
+    {"peopleId":11858,"name":"Timothy Moffitt","party":"R","isPrimary":true},
+    {"peopleId":17147,"name":"Gale Adcock","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

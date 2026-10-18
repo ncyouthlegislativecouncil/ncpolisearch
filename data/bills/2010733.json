@@ -1,0 +1,24 @@
+{
+  "billId": 2010733,
+  "billNumber": "S333",
+  "title": "Prohibit Illegal Accreditation Requirements",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "e0e71d8a3bf14b3131973ba57c196592",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-20",
+  "url": "https://legiscan.com/NC/bill/S333/2025",
+  "aiSummary": "This bill prohibits UNC constituent institutions and community colleges from violating state or federal law in order to comply with requirements from accrediting agencies. It allows exceptions for specific professional programs like law, pharmacy, and engineering that have their own accreditation standards.",
+  "aiProArguments": "Supporters argue that accrediting agencies should not force educational institutions to break the law or exceed their legal authority. They contend this protects institutional autonomy and prevents unelected accrediting bodies from imposing requirements that conflict with state and federal law, while still allowing specialized programs to maintain professional standards.",
+  "aiConArguments": "Opponents may be concerned that this bill could weaken educational quality and program standards if institutions ignore accreditation requirements without clear guidance on which laws take precedence. They might also worry that broad exemptions could undermine the purpose of accreditation oversight and create legal uncertainty about when institutions can disregard accrediting agency requirements.",
+  "topic": "Education",
+  "textLength": 2583,
+  "createdAt": "2026-06-23T03:06:52.130Z",
+  "sponsors": [
+    {"peopleId":22423,"name":"Amy Galey","party":"R","isPrimary":true},
+    {"peopleId":20513,"name":"Bobby Hanig","party":"R","isPrimary":true},
+    {"peopleId":11858,"name":"Timothy Moffitt","party":"R","isPrimary":false},
+    {"peopleId":24223,"name":"Brad Overcash","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

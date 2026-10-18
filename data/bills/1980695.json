@@ -1,0 +1,26 @@
+{
+  "billId": 1980695,
+  "billNumber": "S139",
+  "title": "Restore State Emp/Teacher Retiree Med Benefit",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "fb41e51c3439653f681af2ed0c1f24cf",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-02-25",
+  "url": "https://legiscan.com/NC/bill/S139/2025",
+  "aiSummary": "This bill restores medical benefits for state employees and teachers who began service on or after January 1, 2021, by repealing a 2017 law that eliminated those benefits for this group. The bill allocates $500,000 for fiscal year 2025-2026 and $2 million for fiscal year 2026-2027 to cover the increased costs to the State Health Plan.",
+  "aiProArguments": "Supporters argue this bill treats newer state employees and teachers fairly by providing the same retirement medical benefits that were available to earlier cohorts, helping retain qualified workers in public service. They contend that eliminating these benefits created an unfair two-tier system and that restoring them honors the implicit promise of public sector employment and improves recruitment and retention in critical positions.",
+  "aiConArguments": "Opponents argue this bill increases state spending during a time when budget resources are limited, requiring $2.5 million in additional appropriations over two fiscal years that could be used elsewhere. They contend that the original 2017 decision to eliminate benefits for new hires was a fiscally responsible measure to control long-term liability, and reversing it commits the state to ongoing costs for retiree healthcare that may grow substantially over time.",
+  "topic": "Healthcare",
+  "textLength": 1425,
+  "createdAt": "2026-06-23T03:05:14.857Z",
+  "sponsors": [
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":true},
+    {"peopleId":24220,"name":"Val Applewhite","party":"D","isPrimary":false},
+    {"peopleId":20220,"name":"Michael Garrett","party":"D","isPrimary":false},
+    {"peopleId":20223,"name":"Mujtaba Mohammed","party":"D","isPrimary":false},
+    {"peopleId":22426,"name":"DeAndrea Salvador","party":"D","isPrimary":false},
+    {"peopleId":25859,"name":"Caleb Theodros","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

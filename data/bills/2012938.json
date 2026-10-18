@@ -1,0 +1,23 @@
+{
+  "billId": 2012938,
+  "billNumber": "S421",
+  "title": "Prison Reform Omnibus",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "e92f0c545c8a8459e5ac691eef6a75b1",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-25",
+  "url": "https://legiscan.com/NC/bill/S421/2025",
+  "aiSummary": "This bill reforms North Carolina's prison labor system by requiring fair compensation (at least $5 per hour for most programs, prevailing wage for PIECP-certified programs), prioritizing rehabilitation and workforce training, prohibiting prison labor from displacing agricultural workers, establishing an independent Prison Labor Oversight Board, and requiring regular public reporting on prison work programs and employment outcomes.",
+  "aiProArguments": "Supporters argue this bill reduces recidivism by equipping incarcerated individuals with marketable skills and work experience, which 94% will need upon release. Fair wages and post-release job placement assistance help formerly incarcerated people become self-sufficient and contribute to the economy. The bill also protects migrant and seasonal workers from being undercut by prison labor and creates transparency through independent oversight and public reporting, ensuring ethical labor practices.",
+  "aiConArguments": "Opponents may argue that increased wages and compliance costs could strain state prison budgets and reduce cost-savings from prison labor programs. Some may contend that mandatory reporting requirements add administrative burden. Others might question whether the bill's protections against labor displacement adequately address legitimate state cost-savings needs or whether independent audits could create operational inefficiencies in prison management.",
+  "topic": "Criminal Justice & Public Safety",
+  "textLength": 67755,
+  "createdAt": "2026-06-23T03:07:40.021Z",
+  "sponsors": [
+    {"peopleId":24220,"name":"Val Applewhite","party":"D","isPrimary":true},
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

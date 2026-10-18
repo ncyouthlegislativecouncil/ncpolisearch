@@ -1,0 +1,24 @@
+{
+  "billId": 2146229,
+  "billNumber": "S887",
+  "title": "Compensation for Wrongfully Detained Persons",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "eaab7928f118c1a7f2e9d5ea2808c985",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2026-04-29",
+  "url": "https://legiscan.com/NC/bill/S887/2025",
+  "aiSummary": "This bill creates a legal process for people who were unlawfully detained by North Carolina state or local governments to seek compensation. People who have a court finding of unlawful detention can petition the Industrial Commission for monetary damages up to $750,000, plus potential educational assistance and job training.",
+  "aiProArguments": "Supporters argue this bill provides justice and restitution to innocent people whose lives were disrupted by government error, helping them recover lost income and rebuild through education or job training. They contend the state should be held accountable for wrongful detention and compensate victims for the concrete harms they suffered, including lost opportunities and earnings.",
+  "aiConArguments": "Opponents may argue the bill creates significant state financial liability that could drain public resources, especially with a $750,000 cap per person potentially affecting the budget. They might also express concern about the breadth of claims the Industrial Commission would need to evaluate and whether the compensation levels are appropriately calibrated to actual harms.",
+  "topic": "Criminal Justice & Public Safety",
+  "textLength": 5721,
+  "createdAt": "2026-06-23T03:11:35.218Z",
+  "sponsors": [
+    {"peopleId":21633,"name":"Natalie Murdock","party":"D","isPrimary":true},
+    {"peopleId":25859,"name":"Caleb Theodros","party":"D","isPrimary":true},
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

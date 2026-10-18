@@ -1,0 +1,25 @@
+{
+  "billId": 2014396,
+  "billNumber": "S580",
+  "title": "Competency-Based Education Grant Program",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "6a0c6db36125d8d7fbc5eb09bd1c5832",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2025-04-01",
+  "url": "https://legiscan.com/NC/bill/S580/2025",
+  "aiSummary": "This bill establishes a grant program to help North Carolina schools transition to competency-based education (CBE), where students progress based on demonstrated mastery rather than seat time. The program will award $330,000 grants to 10 participating schools over a four-year period (2025-2029), provide professional development and resources, and create a statewide network to develop proficiency scales and share best practices.",
+  "aiProArguments": "Supporters argue that competency-based education better prepares students by focusing on what they actually know and can do rather than how much time they spend in class. The grant program provides funding and expert support to help schools successfully implement this innovative approach, and the statewide network will develop tools and share lessons learned to eventually expand CBE across all of North Carolina, potentially improving student outcomes and graduation rates.",
+  "aiConArguments": "Opponents raise concerns about the cost and sustainability of the program, noting that grants end after 2029 and schools must find ways to continue the model afterward. Some worry about relying on a single third-party vendor and whether competency-based approaches are thoroughly proven effective compared to traditional education models, particularly regarding how student progress is measured and whether all students benefit equally from this method.",
+  "topic": "Education",
+  "textLength": 8485,
+  "createdAt": "2026-06-23T03:09:03.411Z",
+  "sponsors": [
+    {"peopleId":17504,"name":"Michael Lee","party":"R","isPrimary":true},
+    {"peopleId":25250,"name":"Dana Jones","party":"R","isPrimary":true},
+    {"peopleId":24220,"name":"Val Applewhite","party":"D","isPrimary":false},
+    {"peopleId":17936,"name":"Jay Chaudhuri","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

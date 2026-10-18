@@ -1,0 +1,33 @@
+{
+  "billId": 2020978,
+  "billNumber": "H806",
+  "title": "Public School Operational Relief",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "aaca7fbdb2061ff9446e691399255454",
+  "lastAction": "Re-ref Com On Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-04-29",
+  "url": "https://legiscan.com/NC/bill/H806/2025",
+  "aiSummary": "This bill removes North Carolina's class size requirements for public schools and allows schools to employ teachers who are not licensed, as long as at least 50% of teachers in each school hold valid teaching licenses. Unlicensed teachers in core subjects (math, science, social studies, language arts) must be college graduates and complete training in special education, behavior management, and restraint/seclusion procedures.",
+  "aiProArguments": "Supporters argue this bill provides schools greater flexibility to manage budgets and staffing during operational challenges. They contend that removing rigid class size mandates allows local school administrators to make decisions based on their specific needs, and that allowing qualified non-licensed teachers can help address teacher shortages while maintaining at least 50% licensed staff. Proponents suggest this gives schools more autonomy in resource allocation.",
+  "aiConArguments": "Opponents worry this bill could increase class sizes, potentially harming student learning outcomes, particularly for younger students in kindergarten through third grade where smaller classes have shown educational benefits. They express concerns that unlicensed teachers, even with required training, may lack the pedagogical expertise of licensed teachers, and that this change could disproportionately affect low-income schools with fewer resources. Critics argue removing accountability measures weakens education quality standards.",
+  "topic": "Education",
+  "textLength": 7280,
+  "createdAt": "2026-06-23T02:57:56.789Z",
+  "sponsors": [
+    {"peopleId":22609,"name":"David Willis","party":"R","isPrimary":true},
+    {"peopleId":24197,"name":"Brian Biggs","party":"R","isPrimary":true},
+    {"peopleId":25214,"name":"Heather Rhyne","party":"R","isPrimary":true},
+    {"peopleId":25857,"name":"Richard Carver","party":"R","isPrimary":false},
+    {"peopleId":25848,"name":"Cody Huneycutt","party":"R","isPrimary":false},
+    {"peopleId":24206,"name":"Frances Jackson","party":"D","isPrimary":false},
+    {"peopleId":21377,"name":"Jake Johnson","party":"R","isPrimary":false},
+    {"peopleId":22965,"name":"Donnie Loftis","party":"R","isPrimary":false},
+    {"peopleId":21375,"name":"Jeffrey McNeely","party":"R","isPrimary":false},
+    {"peopleId":22612,"name":"Charles Miller","party":"R","isPrimary":false},
+    {"peopleId":22616,"name":"Ray Pickett","party":"R","isPrimary":false},
+    {"peopleId":24212,"name":"Joe Pike","party":"R","isPrimary":false},
+    {"peopleId":24219,"name":"Bill Ward","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

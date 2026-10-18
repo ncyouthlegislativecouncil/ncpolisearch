@@ -1,0 +1,30 @@
+{
+  "billId": 1978938,
+  "billNumber": "H172",
+  "title": "SchCalFlex/Camden/Aug 19",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "ff11128678c5842233089861d1133bef",
+  "lastAction": "Ref to the Com on Education - K-12, if favorable, Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-02-24",
+  "url": "https://legiscan.com/NC/bill/H172/2025",
+  "aiSummary": "This bill allows Camden County Schools to start their school year as early as the Monday closest to August 19, instead of the current requirement that school start no earlier than the Monday closest to August 26. The change applies only to Camden County Schools beginning with the 2025-2026 school year.",
+  "aiProArguments": "Supporters argue that an earlier start date gives Camden County Schools more flexibility in scheduling and allows them to better accommodate weather-related closures without extending the school year into June. An earlier start also aligns the school calendar with some neighboring districts and may help families coordinate schedules across multiple school systems.",
+  "aiConArguments": "Opponents may argue that an earlier August start date conflicts with summer activities, family vacations, and summer employment for students and families. Concerns may also include whether one week earlier is necessary given that the bill still requires sufficient instructional days, and whether this sets a precedent for other counties to request similar exemptions.",
+  "topic": "Education",
+  "textLength": 2440,
+  "createdAt": "2026-06-23T02:43:52.797Z",
+  "sponsors": [
+    {"peopleId":24219,"name":"Bill Ward","party":"R","isPrimary":true},
+    {"peopleId":18451,"name":"Mary Belk","party":"D","isPrimary":false},
+    {"peopleId":24198,"name":"Gloristine Brown","party":"D","isPrimary":false},
+    {"peopleId":24199,"name":"Kanika Brown","party":"D","isPrimary":false},
+    {"peopleId":2044,"name":"Becky Carney","party":"D","isPrimary":false},
+    {"peopleId":2049,"name":"Patricia Cotham","party":"R","isPrimary":false},
+    {"peopleId":2077,"name":"Mary Harrison","party":"D","isPrimary":false},
+    {"peopleId":20515,"name":"Zack Forde-Hawkins","party":"D","isPrimary":false},
+    {"peopleId":25853,"name":"Rodney Pierce","party":"D","isPrimary":false},
+    {"peopleId":14633,"name":"Dennis Riddell","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

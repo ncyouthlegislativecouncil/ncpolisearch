@@ -1,0 +1,30 @@
+{
+  "billId": 2018856,
+  "billNumber": "H711",
+  "title": "Recovery Support Via Revenue Stabilization",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "323f3d67d2883bef76500496ed4b96e5",
+  "lastAction": "Ref To Com On Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-04-03",
+  "url": "https://legiscan.com/NC/bill/H711/2025",
+  "aiSummary": "This bill repeals North Carolina's scheduled corporate income tax phaseout and instead maintains the corporate tax rate at 2.25% permanently. Previously, the state had planned to gradually reduce the corporate tax rate to 0% by 2030, but this bill stops that reduction and keeps the current rate steady to generate revenue for Hurricane Helene recovery efforts.",
+  "aiProArguments": "Supporters argue this bill provides necessary funding for western North Carolina's long-term recovery from Hurricane Helene while maintaining competitive corporate tax rates. They contend that pausing the tax phaseout is a temporary, responsible measure that allows the state to rebuild critical infrastructure and services without compromising North Carolina's pro-business reputation, since 2.25% remains among the lowest corporate income tax rates in the nation.",
+  "aiConArguments": "Opponents argue the bill breaks a prior commitment to reduce corporate taxes and may discourage business investment and relocation to North Carolina. They contend that the state should fund disaster recovery through other means, such as federal assistance, budget reallocation, or alternative revenue sources, rather than reversing a planned tax reduction that was intended to make the state more economically competitive.",
+  "topic": "Taxes & Budget",
+  "textLength": 1850,
+  "createdAt": "2026-06-23T02:56:45.216Z",
+  "sponsors": [
+    {"peopleId":25850,"name":"Jordan Lopez","party":"D","isPrimary":true},
+    {"peopleId":26396,"name":"Phil Rubin","party":"D","isPrimary":true},
+    {"peopleId":22600,"name":"Terry Brown","party":"D","isPrimary":true},
+    {"peopleId":24890,"name":"Eric Ager","party":"D","isPrimary":true},
+    {"peopleId":22599,"name":"Amber Baker","party":"D","isPrimary":false},
+    {"peopleId":24202,"name":"Maria Cervania","party":"D","isPrimary":false},
+    {"peopleId":20515,"name":"Zack Forde-Hawkins","party":"D","isPrimary":false},
+    {"peopleId":20521,"name":"Carolyn Logan","party":"D","isPrimary":false},
+    {"peopleId":20522,"name":"Nasif Majeed","party":"D","isPrimary":false},
+    {"peopleId":25853,"name":"Rodney Pierce","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

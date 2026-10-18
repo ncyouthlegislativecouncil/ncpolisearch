@@ -1,0 +1,21 @@
+{
+  "billId": 2013873,
+  "billNumber": "S501",
+  "title": "Funds for TEAPOT Project",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "7185e74a2c4dc2da55d03dfa1f4f5246",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2025-03-26",
+  "url": "https://legiscan.com/NC/bill/S501/2025",
+  "aiSummary": "This bill appropriates $11 million in state funds to the Town of Edenton for downtown development projects known as the TEAPOT Project. The funds can be used for building renovation and other downtown development activities, and the money becomes available starting July 1, 2025.",
+  "aiProArguments": "Supporters argue this investment revitalizes Edenton's downtown area, which may attract businesses, increase property values, and create jobs in the community. They contend that state funding for local economic development projects strengthens regional economies and improves quality of life for residents.",
+  "aiConArguments": "Opponents may question whether $11 million in nonrecurring state funds is the best use of limited General Fund resources, particularly if other communities have similar development needs. They might also raise concerns about accountability for how the funds are spent and whether the project will generate sufficient long-term economic returns to justify the one-time expenditure.",
+  "topic": "Taxes & Budget",
+  "textLength": 836,
+  "createdAt": "2026-06-23T03:08:24.181Z",
+  "sponsors": [
+    {"peopleId":11862,"name":"Norman Sanderson","party":"R","isPrimary":true}
+  ],
+  "rollCalls": []
+}

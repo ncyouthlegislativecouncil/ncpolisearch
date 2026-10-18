@@ -1,0 +1,31 @@
+{
+  "billId": 2015234,
+  "billNumber": "H538",
+  "title": "Equality for All",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "2bec1f2a2d8d163c6dbc80cd3efe30ea",
+  "lastAction": "Ref To Com On Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-03-27",
+  "url": "https://legiscan.com/NC/bill/H538/2025",
+  "aiSummary": "This bill expands North Carolina's nondiscrimination protections across multiple areas including housing, employment, public accommodations, credit, insurance, education, and jury service. It adds sexual orientation, gender identity, marital status, familial status, military/veteran status, and genetic information to the list of protected statuses in existing discrimination laws. The bill also establishes the Human Relations Commission's role in investigating and resolving discrimination complaints in several sectors.",
+  "aiProArguments": "Supporters argue this bill provides comprehensive civil rights protections for groups currently facing discrimination in housing, jobs, lending, and public services. They contend that expanding protected statuses to include sexual orientation and gender identity ensures equal access to opportunities regardless of who someone is. Proponents also note the bill reinforces existing nondiscrimination principles while clarifying protections in areas like education and jury selection, making state law more consistent and creating clear remedies through the Human Relations Commission.",
+  "aiConArguments": "Opponents raise concerns that the bill's broad scope may create unintended consequences and litigation costs for businesses and organizations, particularly regarding gender identity provisions in bathrooms and facilities. Some argue the expansion of protected statuses and the shift from 'intent to discriminate' to 'effect of discrimination' standards could impose liability for neutral policies that happen to have disparate outcomes. Others contend the bill limits religious exemptions in housing and education, potentially conflicting with religious freedom principles.",
+  "topic": "Other / General Government",
+  "textLength": 27147,
+  "createdAt": "2026-06-23T02:54:22.120Z",
+  "sponsors": [
+    {"peopleId":20509,"name":"Allison Dahle","party":"D","isPrimary":true},
+    {"peopleId":19238,"name":"Deb Butler","party":"D","isPrimary":true},
+    {"peopleId":2077,"name":"Mary Harrison","party":"D","isPrimary":true},
+    {"peopleId":24890,"name":"Eric Ager","party":"D","isPrimary":false},
+    {"peopleId":18449,"name":"Cynthia Ball","party":"D","isPrimary":false},
+    {"peopleId":18451,"name":"Mary Belk","party":"D","isPrimary":false},
+    {"peopleId":24202,"name":"Maria Cervania","party":"D","isPrimary":false},
+    {"peopleId":25851,"name":"Aisha Dew","party":"D","isPrimary":false},
+    {"peopleId":19360,"name":"Marcia Morey","party":"D","isPrimary":false},
+    {"peopleId":24213,"name":"Lindsey Prather","party":"D","isPrimary":false},
+    {"peopleId":20528,"name":"Julie von Haefen","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

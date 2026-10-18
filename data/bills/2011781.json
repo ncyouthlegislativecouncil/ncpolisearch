@@ -1,0 +1,26 @@
+{
+  "billId": 2011781,
+  "billNumber": "S382",
+  "title": "Mental Health Protection Act",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "8fcced7a207f60cce0cc7e65c983f4c5",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-24",
+  "url": "https://legiscan.com/NC/bill/S382/2025",
+  "aiSummary": "This bill prohibits licensed mental health professionals in North Carolina from practicing conversion therapy—treatments intended to change sexual orientation or gender identity—on minors under 18 and adults with disabilities. The bill also prohibits state funding from being used for conversion therapy services or referrals.",
+  "aiProArguments": "Supporters argue that major medical organizations including the American Psychological Association, American Psychiatric Association, and American Medical Association have concluded that conversion therapy is ineffective and causes serious psychological harm including depression, anxiety, and increased suicide risk. They contend the bill protects vulnerable young people and disabled adults from harmful practices based on the scientific consensus that sexual orientation and gender identity are not disorders requiring treatment.",
+  "aiConArguments": "Opponents may argue the bill restricts parental rights and religious freedom by preventing parents from seeking counseling aligned with their values, and limits therapist autonomy in treating clients who request orientation change. Some also contend that certain types of supportive counseling could be mischaracterized as conversion therapy, and question whether government should regulate these professional practices through this specific prohibition rather than existing licensing board oversight.",
+  "topic": "Healthcare",
+  "textLength": 16699,
+  "createdAt": "2026-06-23T03:07:20.103Z",
+  "sponsors": [
+    {"peopleId":24222,"name":"Lisa Grafstein","party":"D","isPrimary":true},
+    {"peopleId":25858,"name":"Sophia Chitlik","party":"D","isPrimary":false},
+    {"peopleId":21633,"name":"Natalie Murdock","party":"D","isPrimary":false},
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":false},
+    {"peopleId":25859,"name":"Caleb Theodros","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

@@ -1,0 +1,25 @@
+{
+  "billId": 2013289,
+  "billNumber": "S458",
+  "title": "Enact KinCare & Safe Days",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "81c73b7e605190ffeb39de0ef8cecc75",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-25",
+  "url": "https://legiscan.com/NC/bill/S458/2025",
+  "aiSummary": "This bill allows North Carolina employees to use up to five consecutive days of their accrued sick leave per calendar year to care for family members, including children, parents, spouses, grandparents, siblings, and others in close family relationships. The bill also protects employees from retaliation for using sick leave for family care purposes.",
+  "aiProArguments": "Supporters argue this bill helps working families balance employment with caregiving responsibilities, such as when a child is ill or a parent needs medical attention. They contend it addresses a real need for many workers while using existing sick leave benefits rather than creating new mandates, and that it provides important protections for domestic violence victims who may need leave to seek services or legal help.",
+  "aiConArguments": "Opponents may argue the bill increases compliance costs and administrative burdens for employers, particularly small businesses, who must track and manage additional uses of sick leave. Some contend that family caregiving responsibilities should be handled through existing federal Family and Medical Leave Act protections or private employer policies rather than state mandates, and worry about potential workplace disruption if multiple employees use family care leave simultaneously.",
+  "topic": "Business & Labor",
+  "textLength": 5427,
+  "createdAt": "2026-06-23T03:08:01.514Z",
+  "sponsors": [
+    {"peopleId":25858,"name":"Sophia Chitlik","party":"D","isPrimary":true},
+    {"peopleId":20505,"name":"Sydney Batch","party":"D","isPrimary":true},
+    {"peopleId":24222,"name":"Lisa Grafstein","party":"D","isPrimary":true},
+    {"peopleId":25859,"name":"Caleb Theodros","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

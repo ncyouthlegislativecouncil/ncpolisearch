@@ -1,0 +1,22 @@
+{
+  "billId": 1984591,
+  "billNumber": "S180",
+  "title": "Anson County Board of Commissioners",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "717ef84e259e6d3db95d41ffb4882734",
+  "lastAction": "Re-ref to Elections. If fav, re-ref to Rules and Operations of the Senate",
+  "lastActionDate": "2025-02-27",
+  "url": "https://legiscan.com/NC/bill/S180/2025",
+  "aiSummary": "This bill establishes that the Anson County Board of Commissioners will have seven members, each elected from their own single-member district. Candidates must live in the district they represent, but all county voters can vote for each position. The bill uses election districts from 2020 and 2022 as the boundaries and becomes effective in December 2026.",
+  "aiProArguments": "Supporters argue that single-member districts ensure each geographic area of the county has direct representation on the board, making commissioners more accountable to their specific communities. This structure allows county voters throughout Anson to participate in all board elections while guaranteeing that each district has a dedicated representative who understands local concerns.",
+  "aiConArguments": "Opponents may contend that single-member district systems can lead to increased partisanship and gridlock compared to at-large elections, since representatives may focus narrowly on district interests rather than county-wide priorities. Critics might also question whether the 2020-2022 district boundaries remain appropriate for current population distribution and whether the delayed effective date of December 2026 adequately allows time for implementation and voter education.",
+  "topic": "Elections & Voting",
+  "textLength": 1907,
+  "createdAt": "2026-06-23T03:05:36.547Z",
+  "sponsors": [
+    {"peopleId":20222,"name":"Todd Johnson","party":"R","isPrimary":true},
+    {"peopleId":18465,"name":"Danny Britt","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

@@ -1,0 +1,33 @@
+{
+  "billId": 1966659,
+  "billNumber": "S86",
+  "title": "Enhance Firefighter Benefits & Representation",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "a0af032df759010540812478c68063b4",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-02-13",
+  "url": "https://legiscan.com/NC/bill/S86/2025",
+  "aiSummary": "This bill increases pension benefits for North Carolina firefighters and rescue squad workers from $180 to $175 per month (effective January 1, 2026), clarifies payment procedures for pension contributions, and adds representation from the North Carolina State Firefighters' Association to the Emergency Medical Services Advisory Council.",
+  "aiProArguments": "Supporters argue this bill recognizes the sacrifices and hazardous work of firefighters and rescue workers by improving their retirement security and ensuring their voices are heard in emergency medical services planning. The bill also provides clearer payment procedures and allows members to purchase credit for prior service, which supporters say benefits workers who may have gaps in their contribution history.",
+  "aiConArguments": "Opponents may be concerned about the fiscal cost to the state pension fund of increased benefits and whether the funding mechanisms are sustainable long-term. Some may question whether adding firefighter representation to the EMS Advisory Council dilutes the representation of other stakeholder groups or whether the council size should increase rather than replace existing members.",
+  "topic": "Social Services & Welfare",
+  "textLength": 22352,
+  "createdAt": "2026-06-23T03:04:46.722Z",
+  "sponsors": [
+    {"peopleId":11858,"name":"Timothy Moffitt","party":"R","isPrimary":true},
+    {"peopleId":12033,"name":"Warren Daniel","party":"R","isPrimary":true},
+    {"peopleId":20216,"name":"Jim Burgin","party":"R","isPrimary":true},
+    {"peopleId":18465,"name":"Danny Britt","party":"R","isPrimary":false},
+    {"peopleId":20513,"name":"Bobby Hanig","party":"R","isPrimary":false},
+    {"peopleId":11937,"name":"Ralph Hise","party":"R","isPrimary":false},
+    {"peopleId":20222,"name":"Todd Johnson","party":"R","isPrimary":false},
+    {"peopleId":22424,"name":"Michael Lazzara","party":"R","isPrimary":false},
+    {"peopleId":17504,"name":"Michael Lee","party":"R","isPrimary":false},
+    {"peopleId":17437,"name":"Thomas McInnis","party":"R","isPrimary":false},
+    {"peopleId":24223,"name":"Brad Overcash","party":"R","isPrimary":false},
+    {"peopleId":24225,"name":"Benton Sawrey","party":"R","isPrimary":false},
+    {"peopleId":24226,"name":"Eddie Settle","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

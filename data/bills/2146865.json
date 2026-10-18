@@ -1,0 +1,25 @@
+{
+  "billId": 2146865,
+  "billNumber": "S964",
+  "title": "Expanded Acc. to Doulas and Midwives/BC Lic",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "77d6a49d18431963cb4a32af6f88e834",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2026-05-04",
+  "url": "https://legiscan.com/NC/bill/S964/2025",
+  "aiSummary": "This bill expands access to doula and midwifery services in North Carolina by requiring Medicaid to cover doula services during pregnancy and postpartum, establishing a licensing system for Certified Professional Midwives (CPMs), and creating a licensure process for birth centers. The bill appropriates $1.55 million for implementation and support services.",
+  "aiProArguments": "Supporters argue this bill improves maternal and infant health outcomes by increasing access to evidence-based supportive care during pregnancy and birth, particularly for low-income families covered by Medicaid. The bill recognizes CPMs as qualified healthcare providers and creates standards to ensure safety while allowing more birth options, potentially reducing unnecessary medical interventions and improving maternal satisfaction with care.",
+  "aiConArguments": "Opponents may express concerns about the costs to state government and potential liability issues, particularly regarding supervision and oversight of CPMs and birth centers. Some may worry about safety standards for out-of-hospital births, the adequacy of the licensing fee structure, and whether the regulatory framework sufficiently protects patients, especially for complex pregnancies or emergency situations.",
+  "topic": "Healthcare",
+  "textLength": 42586,
+  "createdAt": "2026-06-23T03:12:14.466Z",
+  "sponsors": [
+    {"peopleId":20216,"name":"Jim Burgin","party":"R","isPrimary":true},
+    {"peopleId":25858,"name":"Sophia Chitlik","party":"D","isPrimary":true},
+    {"peopleId":17147,"name":"Gale Adcock","party":"D","isPrimary":false},
+    {"peopleId":21633,"name":"Natalie Murdock","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

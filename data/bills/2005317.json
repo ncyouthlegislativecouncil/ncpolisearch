@@ -1,0 +1,23 @@
+{
+  "billId": 2005317,
+  "billNumber": "S276",
+  "title": "Study Residual Property Market Mechanisms",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "e20fde92f07e83efa200f846264551d5",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-13",
+  "url": "https://legiscan.com/NC/bill/S276/2025",
+  "aiSummary": "This bill directs North Carolina's insurance underwriting associations to study two potential options for improving how the state handles property insurance claims from natural disasters: allowing excess property coverage policies and issuing post-event catastrophe bonds. The associations must report their findings and recommendations to the legislature by March 1, 2026.",
+  "aiProArguments": "Supporters argue this study addresses a real problem: North Carolina's residual insurance market (used when standard insurers won't cover high-risk properties) has faced increased strain from major hurricane and storm losses in recent years. By exploring excess coverage and catastrophe bonds, the state could find new ways to help property owners get adequate insurance protection and reduce the financial burden on the state's insurance system when disaster strikes.",
+  "aiConArguments": "Opponents may worry that adding layers of insurance coverage or issuing bonds to cover losses could ultimately increase costs for taxpayers or property owners, and that the study itself doesn't guarantee solutions will actually help. Some may question whether the state should be exploring new debt instruments (catastrophe bonds) that transfer disaster risk to investors rather than addressing underlying affordability and availability issues in the private insurance market.",
+  "topic": "Business & Labor",
+  "textLength": 2157,
+  "createdAt": "2026-06-23T03:06:19.705Z",
+  "sponsors": [
+    {"peopleId":20222,"name":"Todd Johnson","party":"R","isPrimary":true},
+    {"peopleId":20513,"name":"Bobby Hanig","party":"R","isPrimary":true},
+    {"peopleId":25212,"name":"Bob Brinson","party":"R","isPrimary":true}
+  ],
+  "rollCalls": []
+}

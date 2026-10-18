@@ -1,0 +1,30 @@
+{
+  "billId": 2022666,
+  "billNumber": "H1002",
+  "title": "Rate Payer Protection Act",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "da88437ff501440a0ca37a6983c90242",
+  "lastAction": "Ref To Com On Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-04-14",
+  "url": "https://legiscan.com/NC/bill/H1002/2025",
+  "aiSummary": "This bill prohibits electric utilities from passing costs related to serving large data centers (100+ megawatts) onto regular ratepayers. Instead, data centers must pay rates designed to recover only their own costs. The bill also creates a temporary commission to study data center locations, grid expansion needs, and related planning issues until June 2027.",
+  "aiProArguments": "Supporters argue this protects North Carolina families and small businesses from paying higher electricity bills to subsidize large data center operations that primarily benefit the companies operating them. They contend that data centers, which use enormous amounts of electricity, should bear the full cost of grid upgrades and infrastructure needed to serve them, rather than spreading these costs across all ratepayers.",
+  "aiConArguments": "Opponents may argue this could discourage data center companies from locating in North Carolina, potentially reducing job opportunities and economic development in the state. They might also contend that separating data center costs from standard rate structures could complicate utility accounting and that data centers' presence may benefit the broader economy in ways that justify shared infrastructure costs.",
+  "topic": "Taxes & Budget",
+  "textLength": 6537,
+  "createdAt": "2026-06-23T03:00:15.521Z",
+  "sponsors": [
+    {"peopleId":2077,"name":"Mary Harrison","party":"D","isPrimary":true},
+    {"peopleId":22965,"name":"Donnie Loftis","party":"R","isPrimary":true},
+    {"peopleId":24202,"name":"Maria Cervania","party":"D","isPrimary":true},
+    {"peopleId":24890,"name":"Eric Ager","party":"D","isPrimary":false},
+    {"peopleId":18451,"name":"Mary Belk","party":"D","isPrimary":false},
+    {"peopleId":19238,"name":"Deb Butler","party":"D","isPrimary":false},
+    {"peopleId":24213,"name":"Lindsey Prather","party":"D","isPrimary":false},
+    {"peopleId":26396,"name":"Phil Rubin","party":"D","isPrimary":false},
+    {"peopleId":17149,"name":"Brian Turner","party":"D","isPrimary":false},
+    {"peopleId":24219,"name":"Bill Ward","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

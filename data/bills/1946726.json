@@ -1,0 +1,28 @@
+{
+  "billId": 1946726,
+  "billNumber": "H27",
+  "title": "SchCalFlex/Alamance/Open Cal",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "2197e3d11707c66c0482d42c68711e06",
+  "lastAction": "Re-ref to the Com on Education - K-12, if favorable, Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-02-24",
+  "url": "https://legiscan.com/NC/bill/H27/2025",
+  "aiSummary": "This bill gives Alamance County Schools additional flexibility in setting their school calendar by allowing earlier start dates without needing State Board of Education approval. Specifically, it allows Alamance-Burlington Schools to begin the school year as early as the Monday closest to August 19 (instead of August 26) if the district can demonstrate it has experienced eight days of weather-related or emergency closures in any four of the last ten years.",
+  "aiProArguments": "Supporters argue this bill helps Alamance County Schools better plan their calendars by allowing them to start earlier when justified by historical weather patterns. By starting school earlier, the district can build in more built-in makeup days for weather closures without having to extend the school year as far into June, which some argue helps with summer work schedules, camps, and activities for students and families.",
+  "aiConArguments": "Opponents may be concerned that allowing earlier start dates could conflict with summer tourism and hospitality industries that rely on student workers, or that starting school earlier in August when temperatures are still high may create air conditioning and cost pressures on school buildings. Some may also question whether this creates an unequal system where only some districts get calendar flexibility based on weather history, while others remain bound by statewide rules.",
+  "topic": "Education",
+  "textLength": 2449,
+  "createdAt": "2026-06-23T02:38:09.567Z",
+  "sponsors": [
+    {"peopleId":14633,"name":"Dennis Riddell","party":"R","isPrimary":true},
+    {"peopleId":14634,"name":"Stephen Ross","party":"R","isPrimary":true},
+    {"peopleId":24890,"name":"Eric Ager","party":"D","isPrimary":false},
+    {"peopleId":18451,"name":"Mary Belk","party":"D","isPrimary":false},
+    {"peopleId":18453,"name":"Mike Clampitt","party":"R","isPrimary":false},
+    {"peopleId":2077,"name":"Mary Harrison","party":"D","isPrimary":false},
+    {"peopleId":22615,"name":"Howard Penny","party":"R","isPrimary":false},
+    {"peopleId":24214,"name":"Renee Price","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

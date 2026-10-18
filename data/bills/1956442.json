@@ -1,0 +1,21 @@
+{
+  "billId": 1956442,
+  "billNumber": "S53",
+  "title": "30th Senatorial District Local Act-1",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "d2647e494de60090953d906702a979b2",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-02-06",
+  "url": "https://legiscan.com/NC/bill/S53/2025",
+  "aiSummary": "This is a local bill that applies only to North Carolina's 30th Senatorial District. The bill text does not specify what changes or actions it implements—it only establishes that any provisions apply solely to that district and become effective upon passage.",
+  "aiProArguments": "Supporters of local bills argue they allow targeted solutions for specific districts' unique needs without affecting the entire state. This approach enables senators to address district-specific issues, concerns, or administrative matters efficiently without requiring statewide legislation.",
+  "aiConArguments": "Opponents of local bills raise concerns about transparency and fairness, as the actual content and impact are not detailed in this version. Without knowing the specific provisions, it is difficult to evaluate whether the bill serves the public interest or creates inconsistent policies across the state.",
+  "topic": "Local Government",
+  "textLength": 506,
+  "createdAt": "2026-06-23T03:04:29.575Z",
+  "sponsors": [
+    {"peopleId":20518,"name":"Steve Jarvis","party":"R","isPrimary":true}
+  ],
+  "rollCalls": []
+}

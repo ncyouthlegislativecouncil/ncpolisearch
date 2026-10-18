@@ -1,0 +1,32 @@
+{
+  "billId": 2012945,
+  "billNumber": "S433",
+  "title": "Restore Educator Longevity",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "48e4893e2b238cd2f226c79763dedf5d",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-25",
+  "url": "https://legiscan.com/NC/bill/S433/2025",
+  "aiSummary": "This bill restores longevity payments for North Carolina teachers and instructional support personnel based on years of service, providing annual bonuses ranging from 1.5% to 4.5% of base salary. The bill appropriates $140.3 million in state funding for the 2025-2026 fiscal year to implement these payments, which would be paid as a lump sum once per year.",
+  "aiProArguments": "Supporters argue that longevity payments reward teacher experience and help retain experienced educators in the classroom, which can improve student outcomes. They contend that this investment recognizes the value of career-long educators and helps make teaching careers more financially competitive, potentially addressing North Carolina's teacher recruitment and retention challenges.",
+  "aiConArguments": "Opponents may argue that $140.3 million in spending during a single fiscal year represents a significant state budget commitment that could be allocated to other priorities like base salary increases, classroom resources, or other education needs. Some may question whether lump-sum payments are the most effective way to retain teachers compared to raising base salaries or addressing other workforce concerns.",
+  "topic": "Education",
+  "textLength": 1624,
+  "createdAt": "2026-06-23T03:07:45.938Z",
+  "sponsors": [
+    {"peopleId":24222,"name":"Lisa Grafstein","party":"D","isPrimary":true},
+    {"peopleId":20510,"name":"Terence Everitt","party":"D","isPrimary":true},
+    {"peopleId":25860,"name":"Woodson Bradley","party":"D","isPrimary":true},
+    {"peopleId":24220,"name":"Val Applewhite","party":"D","isPrimary":false},
+    {"peopleId":25858,"name":"Sophia Chitlik","party":"D","isPrimary":false},
+    {"peopleId":20220,"name":"Michael Garrett","party":"D","isPrimary":false},
+    {"peopleId":20223,"name":"Mujtaba Mohammed","party":"D","isPrimary":false},
+    {"peopleId":21633,"name":"Natalie Murdock","party":"D","isPrimary":false},
+    {"peopleId":12032,"name":"Gladys Robinson","party":"D","isPrimary":false},
+    {"peopleId":22426,"name":"DeAndrea Salvador","party":"D","isPrimary":false},
+    {"peopleId":25859,"name":"Caleb Theodros","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

@@ -1,0 +1,27 @@
+{
+  "billId": 2144480,
+  "billNumber": "S790",
+  "title": "Small Business Capital Improvement Account",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "9565556f86f5ea8c6a9ba8f70f4f4264",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2026-04-22",
+  "url": "https://legiscan.com/NC/bill/S790/2025",
+  "aiSummary": "This bill allows small businesses in North Carolina (those with annual gross receipts under $10 million) to deduct a portion of revenue from state income taxes if they deposit that money into a designated capital improvement account for property upgrades. The deduction is tiered: 5% of income up to $1 million, 2% between $1-2 million, and 1% between $2-3 million, with unused funds being added back to taxable income.",
+  "aiProArguments": "Supporters argue this bill encourages small businesses to invest in infrastructure, equipment, and property improvements by reducing their tax burden, which can lead to business growth and job creation. They contend that allowing businesses to reinvest profits in capital improvements strengthens the economy and makes North Carolina more competitive for small business development.",
+  "aiConArguments": "Opponents may argue this bill reduces state tax revenue needed for public services and education, potentially shifting the tax burden to other taxpayers. They may also question whether the tax incentive is necessary to encourage capital investment, or whether the tiered deduction structure adequately targets the intended beneficiaries.",
+  "topic": "Taxes & Budget",
+  "textLength": 2642,
+  "createdAt": "2026-06-23T03:10:46.341Z",
+  "sponsors": [
+    {"peopleId":25860,"name":"Woodson Bradley","party":"D","isPrimary":true},
+    {"peopleId":24220,"name":"Val Applewhite","party":"D","isPrimary":false},
+    {"peopleId":20223,"name":"Mujtaba Mohammed","party":"D","isPrimary":false},
+    {"peopleId":12032,"name":"Gladys Robinson","party":"D","isPrimary":false},
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":false},
+    {"peopleId":25859,"name":"Caleb Theodros","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

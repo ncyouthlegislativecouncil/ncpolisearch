@@ -1,0 +1,22 @@
+{
+  "billId": 1948850,
+  "billNumber": "S37",
+  "title": "Hertford County Rural Development Authority",
+  "status": "2",
+  "chamber": "S",
+  "changeHash": "29837956f52f51d6bc09bc6b3eb1e1ee",
+  "lastAction": "Re-ref Com On Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-06-10",
+  "url": "https://legiscan.com/NC/bill/S37/2025",
+  "aiSummary": "This bill authorizes Hertford County to establish a Rural Development Authority, which is a local government entity that can undertake economic development projects. The bill amends existing state law to add Hertford County to the list of counties eligible to create such an authority.",
+  "aiProArguments": "Supporters argue that a Rural Development Authority would help Hertford County pursue economic development initiatives and attract investment to the area. The authority could work on projects like infrastructure improvements, business recruitment, and community development that benefit rural economies and create jobs.",
+  "aiConArguments": "Opponents may argue that creating a new authority adds another layer of government bureaucracy and administrative costs to the county. Some may question whether the county has the resources to effectively manage such an authority or whether existing economic development efforts are already sufficient.",
+  "topic": "Local Government",
+  "textLength": 817,
+  "createdAt": "2026-06-23T03:04:21.736Z",
+  "sponsors": [
+    {"peopleId":20513,"name":"Bobby Hanig","party":"R","isPrimary":true},
+    {"peopleId":11862,"name":"Norman Sanderson","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

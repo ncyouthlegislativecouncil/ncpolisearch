@@ -1,0 +1,25 @@
+{
+  "billId": 2013047,
+  "billNumber": "S388",
+  "title": "DOT Permit Review Time Periods",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "c1f175727f13726a049b9c55d52882c5",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-25",
+  "url": "https://legiscan.com/NC/bill/S388/2025",
+  "aiSummary": "This bill establishes specific timelines for the North Carolina Department of Transportation to review certain permits related to driveways, encroachments, and subdivisions. The DOT must determine if applications are complete within 10 business days, then has 30 calendar days to approve or deny complete applications with written justification; if the DOT misses these deadlines, the permit is automatically approved.",
+  "aiProArguments": "Supporters argue this bill reduces regulatory delays and provides certainty for property owners, businesses, and developers by establishing clear timeframes for permit decisions. They contend that automatic approval if deadlines are missed incentivizes the DOT to process applications efficiently and prevents indefinite waiting periods that can hold up construction and economic activity.",
+  "aiConArguments": "Opponents may argue that strict timelines could pressure the DOT to approve permits without adequate safety or environmental review, potentially compromising public interests. They contend that automatic approval provisions remove important discretion needed for thorough evaluation of complex applications and could lead to approvals that don't meet statutory or regulatory requirements.",
+  "topic": "Transportation & Infrastructure",
+  "textLength": 2972,
+  "createdAt": "2026-06-23T03:07:23.190Z",
+  "sponsors": [
+    {"peopleId":17437,"name":"Thomas McInnis","party":"R","isPrimary":true},
+    {"peopleId":11858,"name":"Timothy Moffitt","party":"R","isPrimary":true},
+    {"peopleId":20518,"name":"Steve Jarvis","party":"R","isPrimary":true},
+    {"peopleId":20216,"name":"Jim Burgin","party":"R","isPrimary":false},
+    {"peopleId":20513,"name":"Bobby Hanig","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

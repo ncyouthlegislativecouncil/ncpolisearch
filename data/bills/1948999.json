@@ -1,0 +1,21 @@
+{
+  "billId": 1948999,
+  "billNumber": "S36",
+  "title": "China Grove Even Year Elections",
+  "status": "2",
+  "chamber": "S",
+  "changeHash": "6506d2c151ea63e601bbb3062cce8c19",
+  "lastAction": "Re-ref to the Com on Election Law, if favorable, Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-05-27",
+  "url": "https://legiscan.com/NC/bill/S36/2025",
+  "aiSummary": "This bill changes when the town of China Grove holds its municipal elections from odd-numbered years to even-numbered years. It skips elections in 2025 and extends current officials' terms by one year, with regular elections resuming in 2026 on an even-year schedule.",
+  "aiProArguments": "Supporters argue that holding municipal elections in even-numbered years aligns China Grove's elections with federal and state elections, potentially increasing voter turnout by combining local races with higher-profile contests. This consolidation may also reduce election administration costs for the town by holding fewer separate election events.",
+  "aiConArguments": "Opponents may argue that extending current officials' terms by one year without an election delays democratic accountability and the opportunity for residents to choose new leadership. Additionally, combining local elections with state/federal races could reduce focus on town-specific issues, and the change requires disrupting the current election schedule that residents are accustomed to.",
+  "topic": "Elections & Voting",
+  "textLength": 2307,
+  "createdAt": "2026-06-23T03:04:21.314Z",
+  "sponsors": [
+    {"peopleId":14615,"name":"Carl Ford","party":"R","isPrimary":true}
+  ],
+  "rollCalls": []
+}

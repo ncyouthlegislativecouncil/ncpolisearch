@@ -1,0 +1,22 @@
+{
+  "billId": 1989508,
+  "billNumber": "S222",
+  "title": "Contracts/Choice of Law & Forum",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "63ed45dfc48828e96030d7e9093c5b2c",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-04",
+  "url": "https://legiscan.com/NC/bill/S222/2025",
+  "aiSummary": "This bill prevents government contracts involving North Carolina state agencies, counties, municipalities, and other public bodies from including choice of law and forum selection clauses. The bill modifies the legal definition of 'government contract' to explicitly exclude such contracts from provisions that allow parties to choose which state's laws apply or which court handles disputes.",
+  "aiProArguments": "Supporters argue this protects taxpayer interests by ensuring government contracts are governed by North Carolina law and resolved in North Carolina courts, keeping disputes local and transparent. They contend that allowing private parties to impose foreign legal standards or distant forums on the state weakens public oversight and accountability, and may increase litigation costs for taxpayers.",
+  "aiConArguments": "Opponents argue this reduces flexibility in contract negotiations and may discourage businesses from contracting with government entities if they cannot negotiate favorable legal terms. They contend that choice of law and forum provisions are standard business practices that help manage risk and costs, and restricting them could make government procurement more expensive or limit the pool of willing contractors.",
+  "topic": "Local Government",
+  "textLength": 1183,
+  "createdAt": "2026-06-23T03:05:54.650Z",
+  "sponsors": [
+    {"peopleId":20222,"name":"Todd Johnson","party":"R","isPrimary":true},
+    {"peopleId":17437,"name":"Thomas McInnis","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

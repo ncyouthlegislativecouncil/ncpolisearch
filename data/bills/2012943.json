@@ -1,0 +1,28 @@
+{
+  "billId": 2012943,
+  "billNumber": "S393",
+  "title": "Betting and Addiction in Pers. Finance Course",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "41fe17d78017f28ad435955858d50852",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-25",
+  "url": "https://legiscan.com/NC/bill/S393/2025",
+  "aiSummary": "This bill requires North Carolina schools to include instruction on the costs of gambling, including sports betting and gambling addiction, as part of mandatory personal financial literacy courses for all students. The instruction would begin in the 2025-2026 school year.",
+  "aiProArguments": "Supporters argue that as gambling and sports betting become more accessible and normalized, students need education about the financial risks and addictive potential before making their own betting decisions. They contend that early financial literacy instruction on gambling helps students understand the true costs, recognize addiction warning signs, and make informed choices that protect their long-term financial health.",
+  "aiConArguments": "Opponents may argue that adding gambling content to financial literacy courses stretches limited instructional time and could require additional teacher training without clear evidence it prevents problem gambling. They might contend that gambling education is better suited to other contexts like health class or parental guidance, rather than competing for space in personal finance curriculum.",
+  "topic": "Education",
+  "textLength": 1381,
+  "createdAt": "2026-06-23T03:07:25.525Z",
+  "sponsors": [
+    {"peopleId":17936,"name":"Jay Chaudhuri","party":"D","isPrimary":true},
+    {"peopleId":20216,"name":"Jim Burgin","party":"R","isPrimary":true},
+    {"peopleId":24222,"name":"Lisa Grafstein","party":"D","isPrimary":false},
+    {"peopleId":11937,"name":"Ralph Hise","party":"R","isPrimary":false},
+    {"peopleId":20223,"name":"Mujtaba Mohammed","party":"D","isPrimary":false},
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":false},
+    {"peopleId":25859,"name":"Caleb Theodros","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

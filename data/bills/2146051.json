@@ -1,0 +1,30 @@
+{
+  "billId": 2146051,
+  "billNumber": "S861",
+  "title": "Cut State Gov. Jobs Vacant 24 Months or More",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "b4aee741a7691d779cd213a5f61c8404",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2026-04-29",
+  "url": "https://legiscan.com/NC/bill/S861/2025",
+  "aiSummary": "This bill requires the state to eliminate job positions that have remained unfilled for 24 months or longer, effective July 1, 2026. The money saved from eliminating these positions will be held in a budget reserve for future legislative appropriation, with certain exceptions for positions held by court order, federally funded, or deemed critical for emergency response.",
+  "aiProArguments": "Supporters argue this bill eliminates wasteful spending by cutting positions that clearly are not needed if they remain vacant for two years. They contend it creates budget savings that can be redirected to other priorities or reduce state spending without eliminating actual jobs or harming services. The bill includes important exceptions to protect emergency services, 24-hour operations like prisons and public safety, and federally funded positions.",
+  "aiConArguments": "Opponents worry this bill could harm state services by permanently eliminating positions that agencies may need to fill during emergencies, population growth, or changing demands. They argue that vacant positions sometimes represent deferred hiring due to budget constraints rather than unnecessary jobs, and that eliminating them could prevent the state from responding quickly to future staffing needs. Critics also note that calculating true cost savings is complicated because some positions may have indirect operational impacts.",
+  "topic": "Taxes & Budget",
+  "textLength": 4538,
+  "createdAt": "2026-06-23T03:11:22.675Z",
+  "sponsors": [
+    {"peopleId":20216,"name":"Jim Burgin","party":"R","isPrimary":true},
+    {"peopleId":17437,"name":"Thomas McInnis","party":"R","isPrimary":true},
+    {"peopleId":18454,"name":"Kevin Corbin","party":"R","isPrimary":true},
+    {"peopleId":25212,"name":"Bob Brinson","party":"R","isPrimary":false},
+    {"peopleId":14615,"name":"Carl Ford","party":"R","isPrimary":false},
+    {"peopleId":22424,"name":"Michael Lazzara","party":"R","isPrimary":false},
+    {"peopleId":26462,"name":"Chris Measmer","party":"R","isPrimary":false},
+    {"peopleId":11858,"name":"Timothy Moffitt","party":"R","isPrimary":false},
+    {"peopleId":11862,"name":"Norman Sanderson","party":"R","isPrimary":false},
+    {"peopleId":19669,"name":"Vickie Sawyer","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

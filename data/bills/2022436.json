@@ -1,0 +1,24 @@
+{
+  "billId": 2022436,
+  "billNumber": "H921",
+  "title": "ABC & Gaming Omnibus Bill",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "64a8c1ab1fb0ea867dcdcc62289ccb02",
+  "lastAction": "Re-ref Com On Finance",
+  "lastActionDate": "2026-05-19",
+  "url": "https://legiscan.com/NC/bill/H921/2025",
+  "aiSummary": "This omnibus bill makes numerous changes to North Carolina's alcohol laws, gaming regulations, and ABC Commission operations. Key provisions include allowing premixed cocktails to be sold like other beverages, creating a service business permit for complimentary alcohol service, expanding game night and raffle allowances for nonprofits, adding two members to the ABC Commission, and implementing various technical corrections and regulatory adjustments throughout the ABC system.",
+  "aiProArguments": "Supporters argue this bill modernizes North Carolina's alcohol regulations to reflect consumer preferences and market trends, particularly by introducing premixed cocktails as a regulated product category. The expansion of game nights and raffle opportunities benefits nonprofits seeking fundraising options. Adding Commission members improves regulatory capacity. Technical corrections clarify ambiguous rules and reduce administrative confusion for permit holders. Tax relief for small breweries and microdistilleries supports local producers. The service business permit allows more establishments to offer complimentary beverages, enhancing customer experience.",
+  "aiConArguments": "Opponents may argue that introducing premixed cocktails represents unnecessary expansion of alcohol availability and could increase consumption among younger demographics. The dramatic increase in allowable game night events (from 4 to 24 annually) and removal of raffle limitations raise concerns about gambling proliferation and potential negative social impacts. Expanding alcohol sales at venues like performing arts centers and campuses could conflict with institutional missions. Adding ABC Commission members increases government spending. Some worry that technical corrections and clarifications may have unintended consequences for local alcohol control or public health enforcement.",
+  "topic": "Business & Labor",
+  "textLength": 111005,
+  "createdAt": "2026-06-23T02:59:19.642Z",
+  "sponsors": [
+    {"peopleId":22616,"name":"Ray Pickett","party":"R","isPrimary":true},
+    {"peopleId":22946,"name":"Reece Pyrtle","party":"R","isPrimary":true},
+    {"peopleId":24201,"name":"Celeste Cairns","party":"R","isPrimary":true},
+    {"peopleId":24200,"name":"Laura Budd","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

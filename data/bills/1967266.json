@@ -1,0 +1,22 @@
+{
+  "billId": 1967266,
+  "billNumber": "S93",
+  "title": "Portability of Leave/Charter Schools",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "98ee468e60cc555983ac145e7bd66733",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-02-13",
+  "url": "https://legiscan.com/NC/bill/S93/2025",
+  "aiSummary": "This bill allows teachers and staff to transfer accumulated sick leave and vacation leave when moving between charter schools and traditional public schools (local school administrative units) in North Carolina. The State Board of Education must establish rules to manage these transfers while ensuring leave does not accrue at rates higher than state standards.",
+  "aiProArguments": "Supporters argue this increases flexibility and fairness for educators who move between charter and traditional public schools, allowing them to keep benefits they've earned rather than losing accumulated leave. It could make charter schools more competitive in recruiting experienced teachers from public schools and reduce financial losses for employees who switch positions within the state's education system.",
+  "aiConArguments": "Opponents may express concerns about administrative complexity and costs associated with tracking and transferring leave balances between different school systems. They might worry about potential budget impacts on schools accepting transferred leave, particularly if incoming employees bring substantial accrued leave that must be paid out, and questions about whether different leave policies between charter and public schools can be fairly reconciled.",
+  "topic": "Education",
+  "textLength": 1365,
+  "createdAt": "2026-06-23T03:04:51.095Z",
+  "sponsors": [
+    {"peopleId":20513,"name":"Bobby Hanig","party":"R","isPrimary":true},
+    {"peopleId":14615,"name":"Carl Ford","party":"R","isPrimary":true}
+  ],
+  "rollCalls": []
+}

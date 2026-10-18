@@ -1,0 +1,25 @@
+{
+  "billId": 2014335,
+  "billNumber": "S684",
+  "title": "Put Money to Work in Communities Act",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "9f1c924adf7b75a0ebf73d522c0f6231",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-26",
+  "url": "https://legiscan.com/NC/bill/S684/2025",
+  "aiSummary": "This bill creates a state tax credit for individuals and corporations that make charitable donations of at least $1,000 to endowed funds at qualified community foundations across North Carolina. Donors receive a 25% tax credit (capped at $50,000 per year per taxpayer), with a total statewide credit ceiling of $12.5 million annually. The program sunsets after 2029.",
+  "aiProArguments": "Supporters argue this bill incentivizes private charitable giving to strengthen local communities by directing money to community foundations that support broad-based charitable causes in all 100 North Carolina counties. The tax credit makes philanthropic giving more affordable for businesses and individuals while ensuring donations create permanent endowed funds that provide sustained support for community development programs, potentially capturing wealth that might otherwise leave the state.",
+  "aiConArguments": "Opponents may argue the tax credit reduces state tax revenue by up to $12.5 million annually, requiring the state to forgo revenue or cut other programs. They may also question whether tax incentives are an efficient way to encourage charitable giving compared to direct state investment, and express concern that the credit primarily benefits higher-income donors and corporations with larger tax liabilities who can afford $1,000+ donations.",
+  "topic": "Taxes & Budget",
+  "textLength": 16114,
+  "createdAt": "2026-06-23T03:10:00.029Z",
+  "sponsors": [
+    {"peopleId":25858,"name":"Sophia Chitlik","party":"D","isPrimary":true},
+    {"peopleId":17457,"name":"Paul Lowe","party":"D","isPrimary":true},
+    {"peopleId":25860,"name":"Woodson Bradley","party":"D","isPrimary":true},
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

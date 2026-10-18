@@ -1,0 +1,24 @@
+{
+  "billId": 2021021,
+  "billNumber": "H804",
+  "title": "Human Life Protection Act of 2025",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "d37407feb1ee0f0442ab57809e245a86",
+  "lastAction": "Ref To Com On Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-04-08",
+  "url": "https://legiscan.com/NC/bill/H804/2025",
+  "aiSummary": "This bill prohibits abortion in North Carolina from the moment of fertilization, with a narrow exception only when a licensed physician determines in their medical judgment that the pregnant person's life is at risk or they face serious harm to a major bodily function. Violations are classified as felonies with criminal penalties, civil penalties of at least $100,000, and mandatory license revocation for healthcare providers, though pregnant people themselves cannot be prosecuted.",
+  "aiProArguments": "Supporters argue this bill protects what they believe is human life beginning at conception and reflects their moral conviction that abortion should be prohibited except to save the mother's life. They contend the bill's narrow medical exception preserves physician discretion in genuine life-threatening situations while establishing clear legal protections for the unborn.",
+  "aiConArguments": "Opponents argue the bill severely restricts reproductive freedom and bodily autonomy by eliminating access to abortion for reasons including health (not just life-threatening conditions), rape, incest, and fetal abnormalities. They also raise concerns about the vague medical exception language potentially creating confusion for physicians, whether the law adequately protects pregnant people's health, and the bill's conflict with current federal constitutional protections for abortion access.",
+  "topic": "Healthcare",
+  "textLength": 8433,
+  "createdAt": "2026-06-23T02:57:55.862Z",
+  "sponsors": [
+    {"peopleId":20519,"name":"Keith Kidwell","party":"R","isPrimary":true},
+    {"peopleId":22613,"name":"Ben Moss","party":"R","isPrimary":true},
+    {"peopleId":14606,"name":"Mark Brody","party":"R","isPrimary":false},
+    {"peopleId":22965,"name":"Donnie Loftis","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

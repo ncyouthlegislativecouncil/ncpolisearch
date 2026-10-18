@@ -1,0 +1,27 @@
+{
+  "billId": 2021000,
+  "billNumber": "H793",
+  "title": "Fayetteville Area Projects",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "54f5fc3ce45e62138634b32b67f109ef",
+  "lastAction": "Ref to the Com on Appropriations, if favorable, Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-04-08",
+  "url": "https://legiscan.com/NC/bill/H793/2025",
+  "aiSummary": "This bill appropriates approximately $8.025 million in state funds to the City of Fayetteville for five specific projects: a $5 million Innovation District to promote economic growth, a $2.5 million 911 dispatch center consolidation, a $25,000 community center repair grant, $400,000 annually for fire station funding, and $100,000 annually for park maintenance and trail development. All funds are directed grants to be spent during the 2025-2027 fiscal period.",
+  "aiProArguments": "Supporters argue this bill addresses critical infrastructure and economic needs in Fayetteville, a Tier 1 county designated as economically distressed. The Innovation District could create jobs and attract investment by connecting educational institutions, businesses, and startups. The 911 dispatch consolidation improves emergency response efficiency and public safety, while fire station and park funding support essential services and community quality of life.",
+  "aiConArguments": "Opponents may question whether state funds should be directed to specific cities rather than distributed through competitive grant processes, and whether these projects should be locally funded. Some may argue that one-time or limited-term funding creates unsustainable commitments, particularly for recurring fire station operations. Others might contend that the state should focus resources on statewide needs rather than targeted local projects.",
+  "topic": "Taxes & Budget",
+  "textLength": 3226,
+  "createdAt": "2026-06-23T02:57:44.125Z",
+  "sponsors": [
+    {"peopleId":25846,"name":"Mike Colvin","party":"D","isPrimary":true},
+    {"peopleId":22608,"name":"Diane Wheatley","party":"R","isPrimary":true},
+    {"peopleId":24206,"name":"Frances Jackson","party":"D","isPrimary":true},
+    {"peopleId":24216,"name":"Charles Smith","party":"D","isPrimary":true},
+    {"peopleId":24198,"name":"Gloristine Brown","party":"D","isPrimary":false},
+    {"peopleId":24199,"name":"Kanika Brown","party":"D","isPrimary":false},
+    {"peopleId":22600,"name":"Terry Brown","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

@@ -1,0 +1,26 @@
+{
+  "billId": 2015160,
+  "billNumber": "H541",
+  "title": "Opt. Top-2 Same-Day Primary Runoff/Elections",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "36ede8fef9cf5787cc4e132e31e18020",
+  "lastAction": "Ref To Com On Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-03-27",
+  "url": "https://legiscan.com/NC/bill/H541/2025",
+  "aiSummary": "This bill allows North Carolina political parties to optionally use a ranked-choice voting method in primary elections where no candidate receives 30% of the vote. Instead of holding a separate runoff election, voters would rank up to three candidates by preference on the same ballot, and if needed, second and third choices would be counted to determine a winner. The bill appropriates $410,000 annually for two years to develop ballot designs and voter education materials.",
+  "aiProArguments": "Supporters argue this system saves money and time by eliminating the need for expensive, low-turnout second primary elections while ensuring nominees have broader voter support. They contend the ranked-choice method gives voters more voice in close races and is modeled on a successful 2010 North Carolina appellate court election. Proponents say this approach makes voting more convenient since voters cast one ballot instead of returning to polls multiple times.",
+  "aiConArguments": "Opponents may worry that ranked-choice voting is confusing for voters unfamiliar with the system, potentially leading to mistakes or ballot spoilage. Critics could argue that the $820,000 total cost for implementation and training, along with changes needed to voting equipment across jurisdictions, is wasteful when traditional runoffs already work. Some may contend that the method could advantage certain types of candidates or change traditional campaign dynamics in unpredictable ways.",
+  "topic": "Elections & Voting",
+  "textLength": 5892,
+  "createdAt": "2026-06-23T02:54:23.521Z",
+  "sponsors": [
+    {"peopleId":19360,"name":"Marcia Morey","party":"D","isPrimary":true},
+    {"peopleId":2077,"name":"Mary Harrison","party":"D","isPrimary":true},
+    {"peopleId":18451,"name":"Mary Belk","party":"D","isPrimary":false},
+    {"peopleId":20521,"name":"Carolyn Logan","party":"D","isPrimary":false},
+    {"peopleId":20522,"name":"Nasif Majeed","party":"D","isPrimary":false},
+    {"peopleId":24214,"name":"Renee Price","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

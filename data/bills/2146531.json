@@ -1,0 +1,21 @@
+{
+  "billId": 2146531,
+  "billNumber": "S925",
+  "title": "Cure Violence Program Grant",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "a315a0f4e8e4eb449028a98a94e60885",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2026-04-30",
+  "url": "https://legiscan.com/NC/bill/S925/2025",
+  "aiSummary": "This bill appropriates $1 million in state funding for the 2026-2027 fiscal year to Forsyth County for a Cure Violence program aimed at addressing violence in the Triad region. The funds are nonrecurring, meaning they are a one-time allocation rather than ongoing budget commitments.",
+  "aiProArguments": "Supporters argue that this bill provides needed resources to address violence in the Triad area through an evidence-based public health approach. The Cure Violence program is designed to interrupt violence cycles and reduce crime, potentially saving lives and reducing emergency response costs. Advocates contend that targeted state investment in violence prevention demonstrates commitment to community safety and public health.",
+  "aiConArguments": "Opponents may question whether $1 million in nonrecurring funds is sufficient for sustained impact or whether the money represents an inefficient use of state resources. Some argue that violence prevention is primarily a local responsibility and that one-time grants create expectations without long-term funding stability. Others may express concerns about whether the Cure Violence model is the most effective violence reduction strategy compared to alternative approaches.",
+  "topic": "Criminal Justice & Public Safety",
+  "textLength": 815,
+  "createdAt": "2026-06-23T03:11:55.907Z",
+  "sponsors": [
+    {"peopleId":17457,"name":"Paul Lowe","party":"D","isPrimary":true}
+  ],
+  "rollCalls": []
+}

@@ -1,0 +1,26 @@
+{
+  "billId": 2011520,
+  "billNumber": "S364",
+  "title": "Shorter Separation for Retired ADAs and APDs",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "a489d41812367207be101bd38e03fdb5",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2025-03-26",
+  "url": "https://legiscan.com/NC/bill/S364/2025",
+  "aiSummary": "This bill reduces the required waiting period before retired Assistant District Attorneys (ADAs) and Assistant Public Defenders (APDs) can return to work for the state from six months to 30 days. Current law requires a six-month separation from any state employment before retirees can return, but this bill creates a specific exception for these legal professionals.",
+  "aiProArguments": "Supporters argue this bill helps address staffing shortages in prosecutor and public defender offices by allowing experienced legal professionals to return to work more quickly. They contend the shorter waiting period makes it easier for the state to fill critical positions in the justice system while still maintaining a brief separation period, and that ADAs and APDs have specialized expertise that could be difficult to replace if they must wait six months before returning.",
+  "aiConArguments": "Opponents may be concerned that this special treatment for ADAs and APDs creates an unequal system compared to other state retirees, potentially setting a precedent for other agencies to request similar exceptions. They might worry about the fiscal impact on the retirement system if people retire and immediately return to work, potentially affecting the system's financial stability, which is why the bill requires federal tax law review to ensure compliance with IRS regulations for the retirement system's qualified status.",
+  "topic": "Local Government",
+  "textLength": 9326,
+  "createdAt": "2026-06-23T03:07:09.399Z",
+  "sponsors": [
+    {"peopleId":20225,"name":"Ted Alexander","party":"R","isPrimary":true},
+    {"peopleId":20222,"name":"Todd Johnson","party":"R","isPrimary":true},
+    {"peopleId":18465,"name":"Danny Britt","party":"R","isPrimary":false},
+    {"peopleId":12033,"name":"Warren Daniel","party":"R","isPrimary":false},
+    {"peopleId":20223,"name":"Mujtaba Mohammed","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

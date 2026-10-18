@@ -1,0 +1,30 @@
+{
+  "billId": 2018522,
+  "billNumber": "H672",
+  "title": "Physician Assist. Omnibus/Team-based/Compact",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "e48392dedcc67645e55b5ee95acf5ab4",
+  "lastAction": "Ref to the Com on Health, if favorable, Finance, if favorable, Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-04-03",
+  "url": "https://legiscan.com/NC/bill/H672/2025",
+  "aiSummary": "This bill makes two main changes to physician assistant (PA) practice in North Carolina: Part I creates a 'team-based practice' option for PAs with significant experience that allows them to work with less direct physician supervision in hospitals and clinics, and Part II establishes North Carolina's participation in the PA Licensure Compact, which allows PAs licensed in one state to practice in other compact states without getting a separate license in each state.",
+  "aiProArguments": "Supporters argue this bill increases access to healthcare by allowing experienced PAs to practice more independently in team settings like hospitals and clinics, reducing the burden of physician supervision requirements. The Compact makes it easier for PAs to work across state lines, particularly helping military families relocate, and encourages healthcare providers to practice in underserved areas by reducing licensure obstacles. The bill also preserves patient safety through experience requirements and collaboration standards.",
+  "aiConArguments": "Opponents may be concerned that reducing physician supervision could lower oversight of PA practice and patient safety, especially if team-based settings rely primarily on institutional oversight rather than individual physician direction. Some may worry the Compact removes state-level control over healthcare regulation and that the mutual recognition approach could allow lower-standard practitioners from other states to practice in North Carolina. There are also concerns about whether 'collaboration' standards in team-based practice are sufficiently defined and enforceable.",
+  "topic": "Healthcare",
+  "textLength": 81238,
+  "createdAt": "2026-06-23T02:56:13.903Z",
+  "sponsors": [
+    {"peopleId":22614,"name":"Erin Pare","party":"R","isPrimary":true},
+    {"peopleId":18461,"name":"Larry Potts","party":"R","isPrimary":true},
+    {"peopleId":14624,"name":"Donny Lambeth","party":"R","isPrimary":true},
+    {"peopleId":24203,"name":"Allen Chesser","party":"R","isPrimary":true},
+    {"peopleId":22599,"name":"Amber Baker","party":"D","isPrimary":false},
+    {"peopleId":24202,"name":"Maria Cervania","party":"D","isPrimary":false},
+    {"peopleId":14612,"name":"Carla Cunningham","party":"D","isPrimary":false},
+    {"peopleId":2077,"name":"Mary Harrison","party":"D","isPrimary":false},
+    {"peopleId":25848,"name":"Cody Huneycutt","party":"R","isPrimary":false},
+    {"peopleId":24219,"name":"Bill Ward","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

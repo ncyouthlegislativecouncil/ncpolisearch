@@ -1,0 +1,24 @@
+{
+  "billId": 2013784,
+  "billNumber": "S545",
+  "title": "State Auditor to Audit General Assembly",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "0dbc96bff364763d7ab1fe3a0eb620d2",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-26",
+  "url": "https://legiscan.com/NC/bill/S545/2025",
+  "aiSummary": "This bill adds a new responsibility to the State Auditor's duties, requiring the auditor to periodically audit the General Assembly (the North Carolina legislature). The bill does not specify the frequency, scope, or details of these audits.",
+  "aiProArguments": "Supporters argue this increases transparency and accountability in state government by having an independent auditor review the General Assembly's operations and finances. They contend this helps ensure taxpayer money is spent appropriately and that the legislature operates efficiently, similar to how other state agencies are audited.",
+  "aiConArguments": "Opponents may argue this could create conflicts of interest since the State Auditor is appointed by the General Assembly, potentially limiting independence. They might also raise concerns about the cost of regular audits, the lack of specifics about what would be audited, and whether this duplicates existing oversight mechanisms already in place.",
+  "topic": "Local Government",
+  "textLength": 689,
+  "createdAt": "2026-06-23T03:08:45.686Z",
+  "sponsors": [
+    {"peopleId":20510,"name":"Terence Everitt","party":"D","isPrimary":true},
+    {"peopleId":25860,"name":"Woodson Bradley","party":"D","isPrimary":false},
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

@@ -1,0 +1,24 @@
+{
+  "billId": 2013883,
+  "billNumber": "S524",
+  "title": "Community Safety Partnership Act",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "525b300437401f2dcaa7ad7678891c8b",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-26",
+  "url": "https://legiscan.com/NC/bill/S524/2025",
+  "aiSummary": "This bill establishes the Community Safety Partnership Act, which creates a grant program for community safety projects, offers tax credits and bonuses to residents and police officers who participate in neighborhood watch programs, and sets up a state tracking system to monitor attendance at approved community safety meetings.",
+  "aiProArguments": "Supporters argue this bill strengthens public safety by encouraging community-police partnerships, which research shows reduces crime and builds trust between law enforcement and neighborhoods. The bill provides funding for practical safety improvements like street lighting and security cameras in high-crime areas, while incentivizing both residents and officers to engage in community-building activities through tax credits and bonuses.",
+  "aiConArguments": "Opponents may raise concerns about the cost of the program, including $500,000 in initial funding plus ongoing officer bonuses and tax credits that could strain state budgets. There are also potential privacy concerns about a statewide digital tracking system recording attendance at community meetings, and questions about whether the incentives effectively improve public safety or simply reward participation regardless of measurable crime reduction outcomes.",
+  "topic": "Criminal Justice & Public Safety",
+  "textLength": 17389,
+  "createdAt": "2026-06-23T03:08:35.568Z",
+  "sponsors": [
+    {"peopleId":25859,"name":"Caleb Theodros","party":"D","isPrimary":true},
+    {"peopleId":25860,"name":"Woodson Bradley","party":"D","isPrimary":true},
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

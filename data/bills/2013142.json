@@ -1,0 +1,30 @@
+{
+  "billId": 2013142,
+  "billNumber": "S467",
+  "title": "Right to Reproductive Freedom Act",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "d53f50c051bfcb3aa5de731d6319cd50",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-25",
+  "url": "https://legiscan.com/NC/bill/S467/2025",
+  "aiSummary": "This bill would repeal North Carolina's existing abortion restrictions and codify the legal standards from Roe v. Wade and Planned Parenthood v. Casey into state law. It would allow abortion before fetal viability without undue burden, permit restrictions after viability except when necessary for the pregnant person's life or health, expand who can provide abortion services, and require state health insurance plans to cover abortion.",
+  "aiProArguments": "Supporters argue this bill protects reproductive freedom and restores access to abortion care that was limited by previous state restrictions. They contend it addresses barriers that disproportionately affect young people, people of color, those with low incomes, and rural residents. Proponents say it allows pregnant people to make their own health care decisions with their doctors without government interference.",
+  "aiConArguments": "Opponents argue this bill removes important protections they believe should exist for unborn life, particularly after viability. They contend it eliminates parental notification requirements for minors seeking abortion and uses state funds for a procedure some taxpayers morally object to. Critics say the bill removes safeguards they view as medically prudent and ethically necessary.",
+  "topic": "Healthcare",
+  "textLength": 7805,
+  "createdAt": "2026-06-23T03:08:05.797Z",
+  "sponsors": [
+    {"peopleId":21633,"name":"Natalie Murdock","party":"D","isPrimary":true},
+    {"peopleId":25858,"name":"Sophia Chitlik","party":"D","isPrimary":true},
+    {"peopleId":16251,"name":"Graig Meyer","party":"D","isPrimary":true},
+    {"peopleId":24220,"name":"Val Applewhite","party":"D","isPrimary":false},
+    {"peopleId":20220,"name":"Michael Garrett","party":"D","isPrimary":false},
+    {"peopleId":22425,"name":"Julie Mayfield","party":"D","isPrimary":false},
+    {"peopleId":22426,"name":"DeAndrea Salvador","party":"D","isPrimary":false},
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":false},
+    {"peopleId":25859,"name":"Caleb Theodros","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

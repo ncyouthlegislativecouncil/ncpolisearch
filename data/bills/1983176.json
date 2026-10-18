@@ -1,0 +1,28 @@
+{
+  "billId": 1983176,
+  "billNumber": "H202",
+  "title": "Defense Against Porch Pirates Act",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "dec15d8f0813695f2d74926697f10cd4",
+  "lastAction": "Ref To Com On Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-02-26",
+  "url": "https://legiscan.com/NC/bill/H202/2025",
+  "aiSummary": "This bill creates a new criminal offense specifically for stealing mail or packages from someone else's property. The offense is classified as a misdemeanor or felony depending on the value of the stolen mail and the offender's criminal history, with penalties ranging from a Class A1 misdemeanor to a Class D felony.",
+  "aiProArguments": "Supporters argue this bill addresses the growing problem of package theft from residential porches and mailboxes, which has increased with online shopping. The bill provides law enforcement with a specific charge to combat 'porch pirates' and gives prosecutors a clearer tool to pursue these crimes. Supporters contend the tiered penalty structure—based on value and repeat offenses—allows proportional justice while protecting victims from significant financial loss.",
+  "aiConArguments": "Opponents may argue that existing larceny and theft laws already cover mail and package theft, making this new statute redundant. Some may express concerns about enforcement costs or question whether creating a specific offense for mail theft is necessary when general theft laws apply. Others might worry that broad definitions of 'mail' could create unintended consequences or disputes about what qualifies under this new offense.",
+  "topic": "Criminal Justice & Public Safety",
+  "textLength": 2220,
+  "createdAt": "2026-06-23T02:44:52.286Z",
+  "sponsors": [
+    {"peopleId":20521,"name":"Carolyn Logan","party":"D","isPrimary":true},
+    {"peopleId":17158,"name":"Shelly Willingham","party":"D","isPrimary":true},
+    {"peopleId":24890,"name":"Eric Ager","party":"D","isPrimary":false},
+    {"peopleId":25844,"name":"Julia Greenfield","party":"D","isPrimary":false},
+    {"peopleId":20515,"name":"Zack Forde-Hawkins","party":"D","isPrimary":false},
+    {"peopleId":24206,"name":"Frances Jackson","party":"D","isPrimary":false},
+    {"peopleId":20522,"name":"Nasif Majeed","party":"D","isPrimary":false},
+    {"peopleId":2115,"name":"Garland Pierce","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

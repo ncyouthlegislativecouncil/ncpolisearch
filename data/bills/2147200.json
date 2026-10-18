@@ -1,0 +1,23 @@
+{
+  "billId": 2147200,
+  "billNumber": "S1065",
+  "title": "Moratorium on New Coastal Fishing Regulations",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "93da3be31ae4738cb117a7dc27124d24",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2026-05-04",
+  "url": "https://legiscan.com/NC/bill/S1065/2025",
+  "aiSummary": "This bill establishes a 10-year moratorium (through January 1, 2037) on new or expanded fishing regulations in North Carolina's coastal waters, including restrictions on bag limits, seasons, gear, and reporting requirements. It restores recreational fishing rules to 2019 standards and creates a legislative commission to review seafood and aquaculture issues, with exceptions only for federal compliance and genuine emergencies.",
+  "aiProArguments": "Supporters argue the moratorium protects the fishing industry from regulatory uncertainty that harms commercial fishermen, charter operators, recreational anglers, and seafood businesses. They contend it allows time for the Collaboratory Study on marine fisheries to be properly reviewed and used to guide policy, rather than continuing piecemeal regulatory changes that create economic instability.",
+  "aiConArguments": "Opponents worry the moratorium prevents necessary conservation actions to protect fish populations and marine ecosystems, even when scientific evidence shows stocks are declining. They argue it could conflict with federal environmental laws, undermine emergency response capabilities, and shift decision-making away from expert marine resource managers toward political processes, potentially harming long-term fish availability.",
+  "topic": "Environment & Energy",
+  "textLength": 19949,
+  "createdAt": "2026-06-23T03:13:04.504Z",
+  "sponsors": [
+    {"peopleId":20513,"name":"Bobby Hanig","party":"R","isPrimary":true},
+    {"peopleId":11862,"name":"Norman Sanderson","party":"R","isPrimary":true},
+    {"peopleId":25212,"name":"Bob Brinson","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

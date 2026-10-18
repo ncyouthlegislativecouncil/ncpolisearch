@@ -1,0 +1,30 @@
+{
+  "billId": 2015216,
+  "billNumber": "H529",
+  "title": "Clean Repeal of HB2",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "19a49dc299d2485e60ff9a41025cf46b",
+  "lastAction": "Ref To Com On Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-03-27",
+  "url": "https://legiscan.com/NC/bill/H529/2025",
+  "aiSummary": "This bill repeals House Bill 2 (HB2), which was enacted in 2016. The repeal removes HB2's provisions from North Carolina law, including requirements related to bathroom access policies and employment protections.",
+  "aiProArguments": "Supporters argue that HB2 was discriminatory and harmful to transgender and LGBTQ+ individuals, limiting their access to public facilities and removing certain employment protections. They contend that repealing HB2 promotes equality, allows cities and businesses greater flexibility in setting their own policies, and removes barriers that have negatively affected North Carolina's reputation and economy.",
+  "aiConArguments": "Opponents argue that HB2 addressed legitimate concerns about privacy and safety in public facilities, and that its repeal removes important protections. They contend that the decision about bathroom and facility access policies should remain with the state rather than being delegated to individual municipalities or private businesses, and express concerns about the impact on women's and girls' privacy rights.",
+  "topic": "Other / General Government",
+  "textLength": 624,
+  "createdAt": "2026-06-23T02:54:14.549Z",
+  "sponsors": [
+    {"peopleId":20509,"name":"Allison Dahle","party":"D","isPrimary":true},
+    {"peopleId":24890,"name":"Eric Ager","party":"D","isPrimary":false},
+    {"peopleId":18449,"name":"Cynthia Ball","party":"D","isPrimary":false},
+    {"peopleId":18451,"name":"Mary Belk","party":"D","isPrimary":false},
+    {"peopleId":24202,"name":"Maria Cervania","party":"D","isPrimary":false},
+    {"peopleId":2077,"name":"Mary Harrison","party":"D","isPrimary":false},
+    {"peopleId":20521,"name":"Carolyn Logan","party":"D","isPrimary":false},
+    {"peopleId":19360,"name":"Marcia Morey","party":"D","isPrimary":false},
+    {"peopleId":24213,"name":"Lindsey Prather","party":"D","isPrimary":false},
+    {"peopleId":20528,"name":"Julie von Haefen","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

@@ -1,0 +1,23 @@
+{
+  "billId": 2022796,
+  "billNumber": "H1005",
+  "title": "Clarify Ballot Language for Art. 46 Tax",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "df4c58979ef9517028fc39b4686bca20",
+  "lastAction": "Ref To Com On Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-04-14",
+  "url": "https://legiscan.com/NC/bill/H1005/2025",
+  "aiSummary": "This bill modifies the ballot language that North Carolina counties must use when asking voters whether to approve a one-quarter cent sales and use tax. It adds language explaining that tax proceeds can be used to increase teacher and education employee pay, and clarifies which items are exempt from the tax (gas, groceries, motor vehicles, and prescription drugs).",
+  "aiProArguments": "Supporters argue this change makes ballot language clearer and more transparent to voters by explaining what the tax money will fund and which everyday purchases are exempt. They contend that specifying the use of proceeds and exemptions helps voters make informed decisions and better understand the actual impact of the tax on their shopping.",
+  "aiConArguments": "Opponents may argue that adding specific language about uses and exemptions limits voter flexibility in how the tax revenue can be spent in the future, and that it sets a precedent for restricting how such tax funds are allocated. Some might also contend that ballot language should remain neutral and uniform rather than including details about particular spending priorities.",
+  "topic": "Elections & Voting",
+  "textLength": 1476,
+  "createdAt": "2026-06-23T03:00:17.694Z",
+  "sponsors": [
+    {"peopleId":25213,"name":"Tracy Clark","party":"D","isPrimary":true},
+    {"peopleId":18462,"name":"Amos Quick","party":"D","isPrimary":true},
+    {"peopleId":2077,"name":"Mary Harrison","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

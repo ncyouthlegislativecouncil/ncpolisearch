@@ -1,0 +1,23 @@
+{
+  "billId": 1951752,
+  "billNumber": "H32",
+  "title": "China Grove Even Year Elections",
+  "status": "2",
+  "chamber": "H",
+  "changeHash": "96141f45b02d2d82fcc4776693d8a2c7",
+  "lastAction": "Re-ref to Elections. If fav, re-ref to Rules and Operations of the Senate",
+  "lastActionDate": "2025-05-19",
+  "url": "https://legiscan.com/NC/bill/H32/2025",
+  "aiSummary": "This bill changes when the Town of China Grove holds its municipal elections from odd-numbered years to even-numbered years. It skips elections in 2025 and extends current officials' terms by one year so that regular elections resume in 2026 and continue in even-numbered years thereafter, while maintaining the existing staggered system for aldermen and mayor terms.",
+  "aiProArguments": "Supporters argue that holding municipal elections in even-numbered years aligns China Grove's election schedule with federal and state elections, which could increase voter turnout by combining local and higher-level races on the same ballot. This coordination may also reduce election administration costs by consolidating polling operations and voter outreach efforts.",
+  "aiConArguments": "Opponents may argue that shifting election years requires extending current officials' terms, which delays voters' opportunity to elect new leadership and could be seen as undemocratic. Additionally, moving away from odd-year elections means local issues receive less focused voter attention since they compete with national election coverage, and some residents may prefer keeping local elections separate from state and federal races.",
+  "topic": "Elections & Voting",
+  "textLength": 2303,
+  "createdAt": "2026-06-23T02:38:23.850Z",
+  "sponsors": [
+    {"peopleId":25845,"name":"Grant Campbell","party":"R","isPrimary":true},
+    {"peopleId":22615,"name":"Howard Penny","party":"R","isPrimary":false},
+    {"peopleId":11850,"name":"Harry Warren","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

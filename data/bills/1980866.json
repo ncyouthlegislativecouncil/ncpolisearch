@@ -1,0 +1,29 @@
+{
+  "billId": 1980866,
+  "billNumber": "S145",
+  "title": "Mecklenburg Transportation Referendum",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "1d986b3515e87e4f3ba1f69425a45141",
+  "lastAction": "Re-ref to Transportation. If fav, re-ref to Finance. If fav, re-ref to Rules and Operations of the Senate",
+  "lastActionDate": "2025-04-07",
+  "url": "https://legiscan.com/NC/bill/S145/2025",
+  "aiSummary": "This bill authorizes Mecklenburg County to hold a referendum asking voters whether to approve an additional 1% local sales tax dedicated to funding roadway and public transportation systems. If approved by voters, 40% of revenue would go to eligible municipalities for road maintenance and improvements, while 60% would support a regional transit authority, with specific requirements for completing the Red Line rail project.",
+  "aiProArguments": "Supporters argue that the Charlotte region faces serious traffic congestion that threatens economic growth, with projections showing up to 126,100 lost jobs and $3 billion in lost tax revenue by 2050 without action. They contend that improved transportation infrastructure and public transit reduce commute times, lower living costs, improve public health, and make the region more competitive for businesses and workers. The bill lets voters decide directly through a referendum rather than imposing taxes without consent.",
+  "aiConArguments": "Opponents may argue that a 1% sales tax increase places burden on consumers and businesses during economic uncertainty, and that the tax applies broadly even to those who may not benefit from the projects. Some may question whether transportation tax revenue would be used efficiently or whether the Red Line rail project represents the best use of funds compared to other transit options. Others might argue that state and federal funding sources should be prioritized before imposing new local taxes, or express concerns about long-term debt obligations that could limit county fiscal flexibility.",
+  "topic": "Transportation & Infrastructure",
+  "textLength": 27714,
+  "createdAt": "2026-06-23T03:05:17.656Z",
+  "sponsors": [
+    {"peopleId":12031,"name":"William Rabon","party":"R","isPrimary":true},
+    {"peopleId":21663,"name":"David Craven","party":"R","isPrimary":true},
+    {"peopleId":19669,"name":"Vickie Sawyer","party":"R","isPrimary":true},
+    {"peopleId":2033,"name":"Daniel Blue","party":"D","isPrimary":false},
+    {"peopleId":22425,"name":"Julie Mayfield","party":"D","isPrimary":false},
+    {"peopleId":20223,"name":"Mujtaba Mohammed","party":"D","isPrimary":false},
+    {"peopleId":22426,"name":"DeAndrea Salvador","party":"D","isPrimary":false},
+    {"peopleId":25859,"name":"Caleb Theodros","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

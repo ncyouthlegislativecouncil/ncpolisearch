@@ -1,0 +1,21 @@
+{
+  "billId": 1992306,
+  "billNumber": "S234",
+  "title": "Funds for Greenville Fire Truck",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "fd131665431c131604ab598286a94056",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2025-03-06",
+  "url": "https://legiscan.com/NC/bill/S234/2025",
+  "aiSummary": "This bill appropriates $690,000 in state funds to the City of Greenville to purchase a new fire truck. The money comes from the state's General Fund and is designated as a one-time grant for the 2025-2026 fiscal year.",
+  "aiProArguments": "Supporters argue that a new fire truck improves emergency response capabilities and public safety in Greenville. They contend that state funding helps local governments meet critical infrastructure needs without placing the full financial burden on local taxpayers through property taxes or municipal bonds.",
+  "aiConArguments": "Opponents may argue that state funding for local equipment purchases sets a precedent for other municipalities to request similar grants, potentially straining the state budget. They may also question whether this represents the best use of limited state resources compared to other statewide priorities or whether the local government should fund this need independently.",
+  "topic": "Taxes & Budget",
+  "textLength": 775,
+  "createdAt": "2026-06-23T03:06:01.002Z",
+  "sponsors": [
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":true}
+  ],
+  "rollCalls": []
+}

@@ -1,0 +1,21 @@
+{
+  "billId": 2005730,
+  "billNumber": "S287",
+  "title": "Safeguard Health Ins. Utilization Reviews",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "7277d4889a08e43de79a67470f62ad13",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-17",
+  "url": "https://legiscan.com/NC/bill/S287/2025",
+  "aiSummary": "This bill prohibits health insurers from using artificial intelligence algorithms as the sole basis for deciding whether to deny, delay, or modify healthcare services. It requires that only licensed and qualified healthcare providers can make final determinations about medical necessity or appropriateness of care. The bill applies to private insurers and the state health plan for teachers and employees.",
+  "aiProArguments": "Supporters argue this bill protects patients by ensuring qualified medical professionals, not computer systems alone, make healthcare decisions. They contend that AI algorithms may lack the judgment and context needed for complex medical decisions, potentially leading to denied or delayed care that patients need. Proponents believe licensed providers are better equipped to consider individual patient circumstances and medical evidence.",
+  "aiConArguments": "Opponents may argue that AI tools, when properly designed and validated, can help identify inappropriate or unnecessary care efficiently and consistently, potentially reducing healthcare costs. They might contend that the bill could slow down utilization reviews, increase administrative burden on insurers, and raise health insurance premiums if human review is required for every decision. Some may question whether the restriction limits legitimate uses of AI to support—rather than replace—human medical judgment.",
+  "topic": "Healthcare",
+  "textLength": 2339,
+  "createdAt": "2026-06-23T03:06:25.356Z",
+  "sponsors": [
+    {"peopleId":17147,"name":"Gale Adcock","party":"D","isPrimary":true}
+  ],
+  "rollCalls": []
+}

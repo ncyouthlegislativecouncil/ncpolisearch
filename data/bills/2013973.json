@@ -1,0 +1,21 @@
+{
+  "billId": 2013973,
+  "billNumber": "S556",
+  "title": "Revise Buffer Zone Limitations/Elections",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "100d48e0083710f3f77424fb875438e2",
+  "lastAction": "Re-ref to Elections. If fav, re-ref to Rules and Operations of the Senate",
+  "lastActionDate": "2025-04-01",
+  "url": "https://legiscan.com/NC/bill/S556/2025",
+  "aiSummary": "This bill increases the buffer zone around voting places where election-related activities are prohibited. It changes the standard buffer zone distance from a range of 25-50 feet to a range of 75-100 feet from the entrance of a voting place, giving county boards of elections authority to set distances within this new range.",
+  "aiProArguments": "Supporters argue that larger buffer zones better protect voters from intimidation, harassment, and interference while voting. They contend that increased distance from campaign activity, solicitation, and political messaging creates a safer, more peaceful voting environment that allows voters to cast their ballots without external pressure or distraction.",
+  "aiConArguments": "Opponents argue that larger buffer zones may restrict free speech and First Amendment rights to political expression and assembly near voting locations. They contend that the expanded restrictions could limit citizens' ability to engage in legitimate political activity and communication during elections, and that the previous smaller zones were adequate to prevent actual interference.",
+  "topic": "Elections & Voting",
+  "textLength": 1373,
+  "createdAt": "2026-06-23T03:08:51.613Z",
+  "sponsors": [
+    {"peopleId":24225,"name":"Benton Sawrey","party":"R","isPrimary":true}
+  ],
+  "rollCalls": []
+}

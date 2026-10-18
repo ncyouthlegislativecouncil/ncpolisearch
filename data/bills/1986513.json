@@ -1,0 +1,24 @@
+{
+  "billId": 1986513,
+  "billNumber": "S204",
+  "title": "Remove Testing Requirement for Teacher Lisc",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "5c95ed6a432b45dbde944ae9cfe07d63",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-03",
+  "url": "https://legiscan.com/NC/bill/S204/2025",
+  "aiSummary": "This bill removes the requirement that teacher candidates pass a standardized exam to obtain a teacher license in North Carolina. It repeals existing testing requirements and prohibits the State Board of Education from adopting any new rules that would reinstate such exam requirements for teacher licensure.",
+  "aiProArguments": "Supporters argue that standardized exams create unnecessary barriers to teacher recruitment and may not accurately measure teaching ability or classroom effectiveness. They contend that removing this requirement could help address teacher shortages by allowing more qualified candidates to enter the profession, particularly those from non-traditional backgrounds who may have strong subject matter expertise but struggle with standardized testing.",
+  "aiConArguments": "Opponents argue that standardized exams help ensure teacher candidates have adequate content knowledge and are prepared to teach effectively. They contend that removing this quality control measure could result in less prepared teachers entering classrooms, potentially affecting student learning outcomes, and that exams serve as an objective measure to maintain professional standards across the state.",
+  "topic": "Education",
+  "textLength": 2691,
+  "createdAt": "2026-06-23T03:05:46.772Z",
+  "sponsors": [
+    {"peopleId":17437,"name":"Thomas McInnis","party":"R","isPrimary":true},
+    {"peopleId":20222,"name":"Todd Johnson","party":"R","isPrimary":true},
+    {"peopleId":11858,"name":"Timothy Moffitt","party":"R","isPrimary":true},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

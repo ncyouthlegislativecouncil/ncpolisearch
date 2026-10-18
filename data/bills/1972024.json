@@ -1,0 +1,33 @@
+{
+  "billId": 1972024,
+  "billNumber": "S110",
+  "title": "North Carolina Work and Save",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "adea2716419205eac47af7d09d2350bf",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2025-05-01",
+  "url": "https://legiscan.com/NC/bill/S110/2025",
+  "aiSummary": "This bill creates the North Carolina Work and Save Program, a state-facilitated retirement savings program for small business employees, self-employed individuals, and independent contractors who lack access to employer-sponsored retirement plans. The program uses payroll deduction to help workers save through individual retirement accounts (IRAs), modeled after successful public-private partnership structures like the NC 529 College Savings Program.",
+  "aiProArguments": "Supporters argue this program addresses a significant gap in retirement security for an estimated 1.7 million North Carolinians without access to employer retirement plans. By making retirement savings easier and more affordable through payroll deduction and low-cost, pooled investments, the program could reduce future burden on state public assistance programs for elderly retirees and help workers build retirement security, particularly benefiting moderate- and lower-income households.",
+  "aiConArguments": "Opponents may be concerned about state oversight of private retirement accounts, potential administrative costs and complexity, and whether the program will effectively reach its target population. There are also questions about whether a government-managed program could operate cost-effectively against private alternatives, how employers will handle compliance requirements, and whether startup costs ($1 million) represent good use of state resources when other retirement solutions exist.",
+  "topic": "Business & Labor",
+  "textLength": 38992,
+  "createdAt": "2026-06-23T03:04:59.841Z",
+  "sponsors": [
+    {"peopleId":20513,"name":"Bobby Hanig","party":"R","isPrimary":true},
+    {"peopleId":11858,"name":"Timothy Moffitt","party":"R","isPrimary":true},
+    {"peopleId":17147,"name":"Gale Adcock","party":"D","isPrimary":true},
+    {"peopleId":24220,"name":"Val Applewhite","party":"D","isPrimary":false},
+    {"peopleId":2033,"name":"Daniel Blue","party":"D","isPrimary":false},
+    {"peopleId":20216,"name":"Jim Burgin","party":"R","isPrimary":false},
+    {"peopleId":17936,"name":"Jay Chaudhuri","party":"D","isPrimary":false},
+    {"peopleId":24222,"name":"Lisa Grafstein","party":"D","isPrimary":false},
+    {"peopleId":25250,"name":"Dana Jones","party":"R","isPrimary":false},
+    {"peopleId":17457,"name":"Paul Lowe","party":"D","isPrimary":false},
+    {"peopleId":22425,"name":"Julie Mayfield","party":"D","isPrimary":false},
+    {"peopleId":22426,"name":"DeAndrea Salvador","party":"D","isPrimary":false},
+    {"peopleId":25859,"name":"Caleb Theodros","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

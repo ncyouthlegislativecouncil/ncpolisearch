@@ -1,0 +1,24 @@
+{
+  "billId": 2021184,
+  "billNumber": "H812",
+  "title": "UNC-Pembroke Presidential Library Funds/DJT",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "49d51028ca026a54f496787af74d8466",
+  "lastAction": "Ref to the Com on Appropriations, if favorable, Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-04-08",
+  "url": "https://legiscan.com/NC/bill/H812/2025",
+  "aiSummary": "This bill appropriates $10 million in state funds to the University of North Carolina at Pembroke to construct a presidential library honoring President Donald Trump. The library may be developed in partnership with the federal National Archives and Records Administration.",
+  "aiProArguments": "Supporters argue that presidential libraries are important historical institutions that preserve records and educate the public about recent presidents. They contend that locating such a facility at UNCP would bring economic development, tourism, and prestige to the university and the region while honoring a former U.S. president.",
+  "aiConArguments": "Opponents contend that using $10 million in state education funds for a partisan project raises concerns about appropriate use of taxpayer money that could be directed toward classroom instruction, faculty, or campus infrastructure. Critics also question whether a state university should host a presidential library dedicated to a current political figure, citing concerns about institutional neutrality and the precedent it sets for future administrations.",
+  "topic": "Taxes & Budget",
+  "textLength": 1203,
+  "createdAt": "2026-06-23T02:58:02.537Z",
+  "sponsors": [
+    {"peopleId":24211,"name":"Jarrod Lowery","party":"R","isPrimary":true},
+    {"peopleId":22613,"name":"Ben Moss","party":"R","isPrimary":true},
+    {"peopleId":22965,"name":"Donnie Loftis","party":"R","isPrimary":false},
+    {"peopleId":22609,"name":"David Willis","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

@@ -1,0 +1,21 @@
+{
+  "billId": 2152966,
+  "billNumber": "S1086",
+  "title": "Disclose Funds Original Source/Camp'n Finance",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "273d826982c9f9a6001228a699b9a4d2",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2026-06-08",
+  "url": "https://legiscan.com/NC/bill/S1086/2025",
+  "aiSummary": "This bill requires political committees receiving donations above $6,800 from any one person to disclose the original source of those funds, the amounts involved, and any intermediaries who transferred the money. The requirement applies to both regular campaign donations and contributions to certain political committees, and takes effect once the bill becomes law.",
+  "aiProArguments": "Supporters argue this bill increases transparency in campaign financing by letting voters trace where political money actually originates, not just who makes the direct contribution. They contend this helps expose potential attempts to hide the true funding sources of political campaigns and allows citizens to better understand who is financially supporting candidates and causes.",
+  "aiConArguments": "Opponents may argue the bill creates significant administrative burdens on donors and campaigns to track and report detailed financial histories, potentially discouraging donations. They may also contend that existing campaign finance disclosures are already sufficient, and that tracing funds through intermediaries raises practical challenges and privacy concerns for individual donors.",
+  "topic": "Elections & Voting",
+  "textLength": 2690,
+  "createdAt": "2026-06-23T03:13:15.902Z",
+  "sponsors": [
+    {"peopleId":20216,"name":"Jim Burgin","party":"R","isPrimary":true}
+  ],
+  "rollCalls": []
+}

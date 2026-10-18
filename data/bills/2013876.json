@@ -1,0 +1,24 @@
+{
+  "billId": 2013876,
+  "billNumber": "S521",
+  "title": "Community Infra. and Resilience Tax Credit",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "0d1516e2d3d76cf35c528f0fe61cd4b1",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-26",
+  "url": "https://legiscan.com/NC/bill/S521/2025",
+  "aiSummary": "This bill creates a state income tax credit for investors who put money into small businesses focused on community infrastructure and resilience projects like transportation, utilities, disaster preparedness, and sustainable energy. Investors can claim a 35% tax credit on their investments, up to $100,000 per person per year, with a statewide cap of $5 million in credits annually.",
+  "aiProArguments": "Supporters argue this bill incentivizes private investment in critical community infrastructure and resilience projects that might otherwise lack funding, helping small businesses grow while addressing important public needs. The tax credit encourages accredited investors to support businesses working on transportation networks, communications, utilities, disaster preparedness, and sustainable energy—areas that benefit entire communities. It could create jobs and economic development while advancing infrastructure and climate resilience goals.",
+  "aiConArguments": "Opponents may argue that tax credits reduce state revenue needed for other programs and primarily benefit wealthy accredited investors rather than the general public. Concerns also include whether the credit is necessary to attract investment, whether oversight of the Secretary of State's business registration process is sufficient to prevent misuse, and whether the $5 million annual cap is appropriate or whether it should be higher or lower. Some may question whether this approach is the most effective way to fund community infrastructure compared to direct public investment.",
+  "topic": "Taxes & Budget",
+  "textLength": 9849,
+  "createdAt": "2026-06-23T03:08:34.009Z",
+  "sponsors": [
+    {"peopleId":25859,"name":"Caleb Theodros","party":"D","isPrimary":true},
+    {"peopleId":22426,"name":"DeAndrea Salvador","party":"D","isPrimary":true},
+    {"peopleId":20220,"name":"Michael Garrett","party":"D","isPrimary":true},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

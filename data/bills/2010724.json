@@ -1,0 +1,21 @@
+{
+  "billId": 2010724,
+  "billNumber": "S341",
+  "title": "Funds for Siler City Streetscape Project",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "88c14e0569081ace0f3b8fafe1365f4a",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2025-03-24",
+  "url": "https://legiscan.com/NC/bill/S341/2025",
+  "aiSummary": "This bill appropriates $2.45 million in state funds to Siler City for a downtown streetscape improvement project. The money will be used to underground power lines and widen sidewalks on Chatham Avenue ($2 million in Phase 1) and to implement design plans and hire a main street coordinator ($450,000 in Phase 2), with implementation beginning July 1, 2025.",
+  "aiProArguments": "Supporters argue this investment revitalizes Siler City's downtown by improving infrastructure and aesthetics, which can attract businesses and visitors, boost the local economy, and enhance quality of life for residents. They contend that undergrounding utilities and widening sidewalks for dining create a more walkable, attractive downtown that benefits existing merchants and encourages new development.",
+  "aiConArguments": "Opponents may question whether state funds should be directed to a specific local project rather than distributed through competitive grant programs, and whether $2.45 million represents an appropriate use of limited state resources compared to other statewide priorities. Some may also be concerned about ongoing maintenance costs or whether the project will deliver promised economic benefits.",
+  "topic": "Taxes & Budget",
+  "textLength": 1121,
+  "createdAt": "2026-06-23T03:06:56.453Z",
+  "sponsors": [
+    {"peopleId":21633,"name":"Natalie Murdock","party":"D","isPrimary":true}
+  ],
+  "rollCalls": []
+}

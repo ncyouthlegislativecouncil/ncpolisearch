@@ -1,0 +1,22 @@
+{
+  "billId": 2014096,
+  "billNumber": "S728",
+  "title": "Utility-Scale Battery Storage Rqmts",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "0a3313a331b01dd237e5cee68bf9bfc3",
+  "lastAction": "Re-ref to Agriculture, Energy, and Environment. If fav, re-ref to Rules and Operations of the Senate",
+  "lastActionDate": "2025-04-07",
+  "url": "https://legiscan.com/NC/bill/S728/2025",
+  "aiSummary": "This bill requires owners of large battery energy storage systems (1 megawatt or larger) to obtain a permit from the Department of Environmental Quality before installing or operating them in North Carolina. Owners must submit emergency response plans, decommissioning plans, and proof of financial assurance to cover cleanup costs when the system stops operating.",
+  "aiProArguments": "Supporters argue this bill protects public safety by requiring emergency response plans that coordinate with local first responders and address potential risks like fires and water contamination. The financial assurance requirement ensures property owners aren't left responsible for cleanup costs if battery operators go out of business, and the decommissioning standards prevent abandoned equipment from polluting the environment.",
+  "aiConArguments": "Opponents may argue the permitting requirements and financial assurance obligations could increase costs for battery energy storage companies, potentially slowing the development of renewable energy infrastructure and grid storage technology. Some may contend that existing environmental regulations are sufficient, or that the rules give the Department significant discretionary authority that could create uncertainty for project developers.",
+  "topic": "Environment & Energy",
+  "textLength": 14131,
+  "createdAt": "2026-06-23T03:10:21.840Z",
+  "sponsors": [
+    {"peopleId":20518,"name":"Steve Jarvis","party":"R","isPrimary":true},
+    {"peopleId":24224,"name":"Buck Newton","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

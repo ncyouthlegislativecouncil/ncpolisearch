@@ -1,0 +1,23 @@
+{
+  "billId": 2014079,
+  "billNumber": "S725",
+  "title": "NC Foster Care and Education Council",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "29dd46afc0aae34a1c13dbc7d684838a",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-26",
+  "url": "https://legiscan.com/NC/bill/S725/2025",
+  "aiSummary": "This bill establishes the Foster Care and Education Council, a joint council between the Department of Public Instruction and Department of Health and Human Services with 27 members representing various agencies and stakeholders. The Council will review education outcomes for children in foster care, identify barriers to their success, and develop recommendations to improve coordination between education and child welfare systems.",
+  "aiProArguments": "Supporters argue this Council addresses a critical gap by bringing together education and child welfare agencies to focus specifically on improving outcomes for foster children, who often face educational disruptions and lower graduation rates. The bill includes representation from foster youth with lived experience, advocates, and service providers, ensuring diverse perspectives inform recommendations for policy changes that could improve school stability, transportation, and coordination between systems.",
+  "aiConArguments": "Opponents may be concerned about the potential costs of staffing and supporting a 27-member council with quarterly meetings and per diem allowances, particularly if it requires new state resources. Some may question whether adding another advisory council will effectively lead to tangible improvements in foster children's education, or whether existing agencies should simply improve coordination without establishing a new bureaucratic structure.",
+  "topic": "Education",
+  "textLength": 11624,
+  "createdAt": "2026-06-23T03:10:20.597Z",
+  "sponsors": [
+    {"peopleId":20223,"name":"Mujtaba Mohammed","party":"D","isPrimary":true},
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

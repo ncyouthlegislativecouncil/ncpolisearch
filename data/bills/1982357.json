@@ -1,0 +1,23 @@
+{
+  "billId": 1982357,
+  "billNumber": "S160",
+  "title": "Respiratory Care Modernization Act",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "3a34956af9163f7f925a8bc0de145f5c",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-02-26",
+  "url": "https://legiscan.com/NC/bill/S160/2025",
+  "aiSummary": "This bill updates North Carolina's respiratory care licensing laws to reflect modern practice standards and create a new 'Advanced Respiratory Care Practitioner' (ARCP) license for therapists with specialized postgraduate training. The bill defines the scope of practice for both standard respiratory care practitioners and ARCPs, establishes requirements for the state licensing board, and sets educational and examination standards for licensure.",
+  "aiProArguments": "Supporters argue this modernization ensures respiratory care regulations reflect current healthcare practices and educational standards, particularly important given demands highlighted by the COVID-19 pandemic. Creating the ARCP license allows experienced therapists with advanced training to take on expanded clinical responsibilities under physician supervision, potentially improving patient care efficiency and expanding healthcare capacity in critical care settings.",
+  "aiConArguments": "Opponents may be concerned about the scope of practice for ARCPs, particularly regarding which invasive procedures they can perform without a physician physically present and whether 'supervision' is adequately defined to protect patient safety. Some may question whether the licensing board composition adequately represents patient interests and whether the regulatory framework is detailed enough to prevent scope creep or unsafe delegation of medical decision-making.",
+  "topic": "Healthcare",
+  "textLength": 22608,
+  "createdAt": "2026-06-23T03:05:26.405Z",
+  "sponsors": [
+    {"peopleId":20216,"name":"Jim Burgin","party":"R","isPrimary":true},
+    {"peopleId":25212,"name":"Bob Brinson","party":"R","isPrimary":false},
+    {"peopleId":11862,"name":"Norman Sanderson","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

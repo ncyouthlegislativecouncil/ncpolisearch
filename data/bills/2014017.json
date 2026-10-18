@@ -1,0 +1,32 @@
+{
+  "billId": 2014017,
+  "billNumber": "S571",
+  "title": "MOMnibus 3.0",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "419f01fa026a324a584d11179741d963",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-26",
+  "url": "https://legiscan.com/NC/bill/S571/2025",
+  "aiSummary": "MOMnibus 3.0 is a comprehensive maternal health bill that establishes five new programs funded with $20.5 million over two years: grant programs for community organizations serving black women, a required implicit bias training program for perinatal healthcare providers, funding for lactation consultant training at historically black colleges and universities, perinatal education grants for underserved areas, and a mobile maternal health initiative called the Momni-Bus. The bill also establishes patient rights for perinatal care facilities and requires data collection on maternal mortality causes and rates.",
+  "aiProArguments": "Supporters argue this bill addresses the urgent public health crisis of maternal mortality and severe complications, particularly among black women, which disproportionately affect North Carolina. They contend that implicit bias training for healthcare providers is necessary and evidence-based, that funding community-based organizations led by black women ensures culturally appropriate care, that diversifying the lactation consultant workforce through HBCUs improves access and trust in underserved communities, and that the mobile maternal health unit expands critical services to rural areas with no maternity care providers. Supporters view the bill as addressing preventable deaths and health inequities documented in CDC data.",
+  "aiConArguments": "Opponents may argue the bill's $20.5 million price tag represents significant state spending during budget constraints, question whether mandatory implicit bias training is an effective use of resources compared to other health interventions, express concern about targeting grant programs and recruitment efforts specifically by race rather than by socioeconomic need, worry about implementation challenges in requiring all healthcare providers to complete training by strict deadlines, or suggest that mobile units may not adequately replace permanent obstetric infrastructure in underserved areas. Some may also question whether implicit bias training alone addresses systemic healthcare disparities without complementary clinical practice changes.",
+  "topic": "Healthcare",
+  "textLength": 31980,
+  "createdAt": "2026-06-23T03:08:58.744Z",
+  "sponsors": [
+    {"peopleId":21633,"name":"Natalie Murdock","party":"D","isPrimary":true},
+    {"peopleId":20505,"name":"Sydney Batch","party":"D","isPrimary":true},
+    {"peopleId":12032,"name":"Gladys Robinson","party":"D","isPrimary":true},
+    {"peopleId":24220,"name":"Val Applewhite","party":"D","isPrimary":false},
+    {"peopleId":25860,"name":"Woodson Bradley","party":"D","isPrimary":false},
+    {"peopleId":25858,"name":"Sophia Chitlik","party":"D","isPrimary":false},
+    {"peopleId":24222,"name":"Lisa Grafstein","party":"D","isPrimary":false},
+    {"peopleId":22425,"name":"Julie Mayfield","party":"D","isPrimary":false},
+    {"peopleId":20223,"name":"Mujtaba Mohammed","party":"D","isPrimary":false},
+    {"peopleId":22426,"name":"DeAndrea Salvador","party":"D","isPrimary":false},
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

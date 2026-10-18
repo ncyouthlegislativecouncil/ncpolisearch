@@ -1,0 +1,31 @@
+{
+  "billId": 2146364,
+  "billNumber": "S909",
+  "title": "The BUMP Act",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "2f3c7ff18a440ebbb18aab70bd0a169a",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2026-04-30",
+  "url": "https://legiscan.com/NC/bill/S909/2025",
+  "aiSummary": "The BUMP Act directs the North Carolina Department of Health and Human Services to provide free, evidence-based educational materials on stillbirth prevention to all pregnant patients and training to prenatal care providers. It also appropriates $600,000 annually to fund these educational programs and launch a statewide 'Count the Kicks' campaign focusing on fetal movement monitoring, with priority given to areas with higher stillbirth rates.",
+  "aiProArguments": "Supporters argue this bill addresses a serious public health issue by providing pregnant women with evidence-based information that could prevent stillbirths through education about fetal movement monitoring, infection screening, and other modifiable risk factors. They contend the bill particularly helps pregnant women in high-disparity areas and underrepresented communities that experience disproportionately higher stillbirth rates, while also ensuring healthcare providers have standardized training on prevention protocols.",
+  "aiConArguments": "Opponents may argue the bill represents a new recurring state expenditure of $600,000 annually during a time of budget constraints, and question whether existing healthcare channels could deliver this education more cost-efficiently. Some may also express concerns about whether state-mandated educational requirements for providers could increase healthcare delivery burdens or whether the effectiveness of such campaigns justifies the ongoing financial commitment.",
+  "topic": "Healthcare",
+  "textLength": 7258,
+  "createdAt": "2026-06-23T03:11:47.383Z",
+  "sponsors": [
+    {"peopleId":21633,"name":"Natalie Murdock","party":"D","isPrimary":true},
+    {"peopleId":22426,"name":"DeAndrea Salvador","party":"D","isPrimary":true},
+    {"peopleId":25858,"name":"Sophia Chitlik","party":"D","isPrimary":true},
+    {"peopleId":17147,"name":"Gale Adcock","party":"D","isPrimary":false},
+    {"peopleId":25860,"name":"Woodson Bradley","party":"D","isPrimary":false},
+    {"peopleId":26664,"name":"Jonah Garson","party":"D","isPrimary":false},
+    {"peopleId":24222,"name":"Lisa Grafstein","party":"D","isPrimary":false},
+    {"peopleId":20223,"name":"Mujtaba Mohammed","party":"D","isPrimary":false},
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":false},
+    {"peopleId":25859,"name":"Caleb Theodros","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

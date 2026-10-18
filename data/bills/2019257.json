@@ -1,0 +1,31 @@
+{
+  "billId": 2019257,
+  "billNumber": "H761",
+  "title": "Limit Session Length",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "462d0f983011a46eea06e8a820ffb8b8",
+  "lastAction": "Ref To Com On Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-04-07",
+  "url": "https://legiscan.com/NC/bill/H761/2025",
+  "aiSummary": "This bill proposes a constitutional amendment that would limit how long the North Carolina General Assembly can meet in regular session: 90 legislative days in odd-numbered years and 45 legislative days in even-numbered years. The amendment would be submitted to voters in November 2026, and if approved, would take effect for future legislative sessions.",
+  "aiProArguments": "Supporters argue that session limits encourage legislative efficiency and prevent unnecessary spending on extended sessions. They contend that shorter sessions force lawmakers to prioritize important bills and reduce the time available for controversial or low-priority legislation, allowing representatives to spend more time in their districts working with constituents.",
+  "aiConArguments": "Opponents worry that strict session limits could prevent the General Assembly from adequately addressing complex state issues like budget negotiations, education policy, and emergency situations that require thorough debate and deliberation. They argue that artificially short sessions may give advantage to special interests and lobbyists who can focus resources, while disadvantaging individual citizens and good-government advocates who need time to meaningfully participate.",
+  "topic": "Local Government",
+  "textLength": 3337,
+  "createdAt": "2026-06-23T02:57:21.517Z",
+  "sponsors": [
+    {"peopleId":14624,"name":"Donny Lambeth","party":"R","isPrimary":true},
+    {"peopleId":11850,"name":"Harry Warren","party":"R","isPrimary":true},
+    {"peopleId":17157,"name":"Samuel Watford","party":"R","isPrimary":true},
+    {"peopleId":22609,"name":"David Willis","party":"R","isPrimary":true},
+    {"peopleId":24196,"name":"Jennifer Balkcom","party":"R","isPrimary":false},
+    {"peopleId":24197,"name":"Brian Biggs","party":"R","isPrimary":false},
+    {"peopleId":25197,"name":"Jerry Branson","party":"R","isPrimary":false},
+    {"peopleId":24207,"name":"Neal Jackson","party":"R","isPrimary":false},
+    {"peopleId":22965,"name":"Donnie Loftis","party":"R","isPrimary":false},
+    {"peopleId":22613,"name":"Ben Moss","party":"R","isPrimary":false},
+    {"peopleId":24219,"name":"Bill Ward","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

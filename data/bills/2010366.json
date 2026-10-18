@@ -1,0 +1,24 @@
+{
+  "billId": 2010366,
+  "billNumber": "H455",
+  "title": "Repeal Certificate of Need Laws",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "c18e411131b64283c8cef434ce7de0ed",
+  "lastAction": "Ref To Com On Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-03-20",
+  "url": "https://legiscan.com/NC/bill/H455/2025",
+  "aiSummary": "This bill repeals North Carolina's Certificate of Need (CON) laws, which currently require healthcare facilities to obtain state approval before making major expansions, purchases of equipment, or new service offerings. The bill removes the requirement for state review and permission before healthcare providers can expand operations, while making technical updates to other state laws that reference the repealed CON requirements.",
+  "aiProArguments": "Supporters argue that repealing CON laws will reduce barriers to healthcare expansion and innovation, allowing hospitals and healthcare facilities to respond more quickly to community needs without lengthy state approval processes. They contend that removing these regulations will increase competition, potentially lower costs for consumers, improve patient choice, and allow healthcare providers to invest in new services and equipment more efficiently without government bureaucracy.",
+  "aiConArguments": "Opponents argue that CON laws protect vulnerable communities by preventing unnecessary duplication of expensive services and ensuring healthcare facilities remain financially stable and accessible. They contend that without CON oversight, providers may focus only on profitable services in wealthy areas while abandoning less lucrative services in rural or low-income communities, potentially reducing overall access to healthcare and increasing costs through unnecessary competition.",
+  "topic": "Healthcare",
+  "textLength": 12035,
+  "createdAt": "2026-06-23T02:52:03.643Z",
+  "sponsors": [
+    {"peopleId":20519,"name":"Keith Kidwell","party":"R","isPrimary":true},
+    {"peopleId":24219,"name":"Bill Ward","party":"R","isPrimary":true},
+    {"peopleId":24212,"name":"Joe Pike","party":"R","isPrimary":true},
+    {"peopleId":20512,"name":"Edward Goodwin","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

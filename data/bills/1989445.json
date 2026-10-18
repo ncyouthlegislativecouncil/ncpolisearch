@@ -1,0 +1,28 @@
+{
+  "billId": 1989445,
+  "billNumber": "H260",
+  "title": "Reallocate Raeford Sewer Infrastructure Funds",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "5fe7adf29d07a4bdabd315d61af7d2ac",
+  "lastAction": "Ref to the Com on Appropriations, if favorable, Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-03-04",
+  "url": "https://legiscan.com/NC/bill/H260/2025",
+  "aiSummary": "This bill expands how the City of Raeford can use $3 million in state funds previously allocated for sewer line extensions to the Cameron Heights community. The money can now be used for any water or wastewater project, giving the city more flexibility in how it spends these infrastructure funds.",
+  "aiProArguments": "Supporters argue this bill gives Raeford greater flexibility to address urgent water and wastewater needs across the city, not just one specific area. By allowing the funds to be used for any water or wastewater project, the city can respond to the most pressing infrastructure priorities and potentially serve more residents efficiently.",
+  "aiConArguments": "Opponents may be concerned that the Cameron Heights community was promised these funds for a specific project and this change could leave that area without necessary sewer infrastructure. Some may argue that changing the designated use of previously allocated funds sets a precedent that reduces accountability and could result in funds being redirected away from their original intended purpose.",
+  "topic": "Transportation & Infrastructure",
+  "textLength": 952,
+  "createdAt": "2026-06-23T02:46:27.018Z",
+  "sponsors": [
+    {"peopleId":2115,"name":"Garland Pierce","party":"D","isPrimary":true},
+    {"peopleId":21631,"name":"Vernetta Alston","party":"D","isPrimary":false},
+    {"peopleId":22599,"name":"Amber Baker","party":"D","isPrimary":false},
+    {"peopleId":25846,"name":"Mike Colvin","party":"D","isPrimary":false},
+    {"peopleId":20509,"name":"Allison Dahle","party":"D","isPrimary":false},
+    {"peopleId":24206,"name":"Frances Jackson","party":"D","isPrimary":false},
+    {"peopleId":20521,"name":"Carolyn Logan","party":"D","isPrimary":false},
+    {"peopleId":20522,"name":"Nasif Majeed","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

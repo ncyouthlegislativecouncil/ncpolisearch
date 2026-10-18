@@ -1,0 +1,29 @@
+{
+  "billId": 2014535,
+  "billNumber": "S758",
+  "title": "Water & Sewer Allocation Reforms",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "a906bd5075f2ed848679f516eff162bb",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-26",
+  "url": "https://legiscan.com/NC/bill/S758/2025",
+  "aiSummary": "This bill restricts how local government water and sewer utilities can allocate service to new housing developments. It prohibits utilities from imposing certain conditions (like impact fees or design requirements) or using scoring systems based on building design, minimum square footage, or parking specifications when deciding which projects receive water and sewer connections. The bill also requires utilities receiving public funds to publish quarterly capacity reports, develop expansion plans, and explain any capacity constraints.",
+  "aiProArguments": "Supporters argue this bill removes barriers to housing development by preventing local utilities from using water allocation as a tool to control growth or impose costly design requirements on builders. They contend that if water and sewer capacity exists, it should be made available to qualified applicants rather than withheld through subjective scoring systems. Proponents say this streamlines the development approval process and helps address North Carolina's housing shortage by making it easier and cheaper to build new residential projects.",
+  "aiConArguments": "Opponents worry the bill may limit local government's ability to manage growth responsibly and protect community character through thoughtful development standards. They argue that impact fees and design requirements serve important purposes like ensuring adequate fire access, managing traffic, and maintaining quality infrastructure. Critics also express concern that prohibiting these tools could lead to rapid, unplanned development that strains existing water systems and infrastructure, and that utilities may struggle to fund necessary system improvements without impact fee revenue.",
+  "topic": "Local Government",
+  "textLength": 7830,
+  "createdAt": "2026-06-23T03:10:36.681Z",
+  "sponsors": [
+    {"peopleId":22424,"name":"Michael Lazzara","party":"R","isPrimary":true},
+    {"peopleId":18497,"name":"Paul Newton","party":"R","isPrimary":true},
+    {"peopleId":20518,"name":"Steve Jarvis","party":"R","isPrimary":true},
+    {"peopleId":18465,"name":"Danny Britt","party":"R","isPrimary":false},
+    {"peopleId":21663,"name":"David Craven","party":"R","isPrimary":false},
+    {"peopleId":17437,"name":"Thomas McInnis","party":"R","isPrimary":false},
+    {"peopleId":11858,"name":"Timothy Moffitt","party":"R","isPrimary":false},
+    {"peopleId":24224,"name":"Buck Newton","party":"R","isPrimary":false},
+    {"peopleId":11862,"name":"Norman Sanderson","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

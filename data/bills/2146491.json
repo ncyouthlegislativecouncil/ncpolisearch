@@ -1,0 +1,26 @@
+{
+  "billId": 2146491,
+  "billNumber": "S912",
+  "title": "Menopause Omnibus",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "f6c750b1fa564438afed09eab9f2db58",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2026-04-30",
+  "url": "https://legiscan.com/NC/bill/S912/2025",
+  "aiSummary": "This bill establishes a comprehensive framework to address menopause in North Carolina through four main components: funding menopause research and education, providing tax incentives for doctors to take menopause training, requiring health insurance and Medicaid to cover menopause-related care without cost-sharing, and protecting workers from discrimination based on menopause-related conditions.",
+  "aiProArguments": "Supporters argue this bill addresses a significant gap in healthcare and workplace protections affecting roughly half the population during their working years. They contend the bill improves medical knowledge about menopause, ensures access to treatment options (hormonal and non-hormonal), and protects workers experiencing menopause symptoms from discrimination and lack of reasonable accommodations. Proponents also highlight that the bill includes protections for underserved populations and requires insurers to offer coverage without restrictive barriers.",
+  "aiConArguments": "Opponents may argue the bill imposes significant costs on the state ($5 million for research and $500,000 for implementation) and on insurers through mandatory coverage expansions without cost-sharing that could increase insurance premiums. Some may contend the employment protections are overly broad or create administrative burdens for small employers, or that certain menopause treatments lack sufficient clinical evidence. Critics might also question whether some provisions duplicate existing protections under disability or sex discrimination laws.",
+  "topic": "Healthcare",
+  "textLength": 23752,
+  "createdAt": "2026-06-23T03:11:49.285Z",
+  "sponsors": [
+    {"peopleId":21633,"name":"Natalie Murdock","party":"D","isPrimary":true},
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":true},
+    {"peopleId":25858,"name":"Sophia Chitlik","party":"D","isPrimary":false},
+    {"peopleId":22426,"name":"DeAndrea Salvador","party":"D","isPrimary":false},
+    {"peopleId":25859,"name":"Caleb Theodros","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

@@ -1,0 +1,25 @@
+{
+  "billId": 2146101,
+  "billNumber": "S867",
+  "title": "Increased Admin Fund for Medicaid",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "ba912f136bef3e3d4cdf6e6e2f4ae068",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2026-04-29",
+  "url": "https://legiscan.com/NC/bill/S867/2025",
+  "aiSummary": "This bill appropriates $6.5 million in state funds to the Department of Health and Human Services for the 2025-2026 fiscal year to help county departments of social services cover increased administrative costs in the Medicaid program. The funds are designated as nonrecurring (one-time) money and are exempted from certain standard funding requirement procedures.",
+  "aiProArguments": "Supporters argue that federal changes to Medicaid have increased the administrative burden on counties, and this funding helps ensure that local social services departments can continue serving Medicaid recipients without reducing other services. The bill allows counties to manage the cost pressures from managing Medicaid enrollment, eligibility determinations, and compliance requirements without having to cut services or raise local budgets.",
+  "aiConArguments": "Opponents may argue that one-time funding does not solve long-term administrative cost problems and could create budgeting challenges when the nonrecurring funds expire. Some may also question whether the funding amount is sufficient to address the stated federal changes, or whether the exemptions from standard funding requirements reduce accountability and oversight of how the money is spent.",
+  "topic": "Taxes & Budget",
+  "textLength": 1311,
+  "createdAt": "2026-06-23T03:11:25.645Z",
+  "sponsors": [
+    {"peopleId":17457,"name":"Paul Lowe","party":"D","isPrimary":true},
+    {"peopleId":17147,"name":"Gale Adcock","party":"D","isPrimary":false},
+    {"peopleId":21633,"name":"Natalie Murdock","party":"D","isPrimary":false},
+    {"peopleId":25859,"name":"Caleb Theodros","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

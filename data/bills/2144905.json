@@ -1,0 +1,26 @@
+{
+  "billId": 2144905,
+  "billNumber": "S825",
+  "title": "School-Based Complaint/SROs",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "a9df4efe056d85c6d5ffb28bbb3c8bad",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2026-04-23",
+  "url": "https://legiscan.com/NC/bill/S825/2025",
+  "aiSummary": "This bill defines what a school resource officer (SRO) is in North Carolina and requires all SROs to complete specific training in mental health, disabilities, racial equity, and de-escalation. It also requires that complaints about student misconduct filed by SROs must be approved by a school administrator or social worker before going to juvenile court. The bill provides $1 million in grants to help schools cover costs related to these new requirements.",
+  "aiProArguments": "Supporters argue this bill improves school safety while ensuring SROs are properly trained to interact with students, especially vulnerable populations. Requiring school administrators or social workers to review SRO complaints before court referral creates an additional safeguard that keeps students out of the juvenile justice system when possible and ensures complaints are appropriate. The grant funding helps schools afford the costs of implementing these new standards.",
+  "aiConArguments": "Opponents may argue that requiring school officials to sign off on SRO complaints adds bureaucratic delays and could prevent appropriate cases from reaching the court system. Some may contend that the training requirements and grant program represent significant new costs to the state, and that SROs should have authority to file complaints independently without additional oversight. There may also be concerns that these requirements could undermine law enforcement effectiveness in schools.",
+  "topic": "Criminal Justice & Public Safety",
+  "textLength": 5680,
+  "createdAt": "2026-06-23T03:11:02.121Z",
+  "sponsors": [
+    {"peopleId":20223,"name":"Mujtaba Mohammed","party":"D","isPrimary":true},
+    {"peopleId":24220,"name":"Val Applewhite","party":"D","isPrimary":false},
+    {"peopleId":21633,"name":"Natalie Murdock","party":"D","isPrimary":false},
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":false},
+    {"peopleId":25859,"name":"Caleb Theodros","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

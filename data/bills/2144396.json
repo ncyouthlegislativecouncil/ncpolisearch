@@ -1,0 +1,33 @@
+{
+  "billId": 2144396,
+  "billNumber": "H1026",
+  "title": "Remote Instruction for Excess Emergencies",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "3f3a07a1cd9c5f348ec7b488d7037696",
+  "lastAction": "Re-ref Com On Appropriations",
+  "lastActionDate": "2026-06-02",
+  "url": "https://legiscan.com/NC/bill/H1026/2025",
+  "aiSummary": "This bill allows North Carolina public schools to use up to three additional days of remote instruction (or 15 hours) when they experience a second emergency after exhausting their initial remote instruction allowance. Schools must report to the State Board about any additional remote instruction days used and the emergency circumstances that required them. The bill appropriates $5,000 to the Department of Public Instruction for administrative costs.",
+  "aiProArguments": "Supporters argue this bill provides flexibility for schools facing multiple or prolonged emergencies beyond their control, such as severe weather or power failures. It allows districts to continue educating students without losing instructional time when unexpected crises occur, while maintaining accountability through required reporting to the state.",
+  "aiConArguments": "Opponents may be concerned that allowing additional remote instruction days could reduce in-person learning quality, disadvantage students without reliable internet or home learning environments, or create inconsistent educational standards across districts. Some may question whether the $5,000 appropriation adequately covers administrative and enforcement costs associated with the new reporting requirements.",
+  "topic": "Education",
+  "textLength": 3942,
+  "createdAt": "2026-06-23T03:00:33.427Z",
+  "sponsors": [
+    {"peopleId":14624,"name":"Donny Lambeth","party":"R","isPrimary":true},
+    {"peopleId":18461,"name":"Larry Potts","party":"R","isPrimary":true},
+    {"peopleId":24197,"name":"Brian Biggs","party":"R","isPrimary":true},
+    {"peopleId":25197,"name":"Jerry Branson","party":"R","isPrimary":false},
+    {"peopleId":25213,"name":"Tracy Clark","party":"D","isPrimary":false},
+    {"peopleId":25222,"name":"Blair Eddins","party":"R","isPrimary":false},
+    {"peopleId":2077,"name":"Mary Harrison","party":"D","isPrimary":false},
+    {"peopleId":2083,"name":"Julia Howard","party":"R","isPrimary":false},
+    {"peopleId":22612,"name":"Charles Miller","party":"R","isPrimary":false},
+    {"peopleId":22613,"name":"Ben Moss","party":"R","isPrimary":false},
+    {"peopleId":22946,"name":"Reece Pyrtle","party":"R","isPrimary":false},
+    {"peopleId":14633,"name":"Dennis Riddell","party":"R","isPrimary":false},
+    {"peopleId":24219,"name":"Bill Ward","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

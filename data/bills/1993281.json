@@ -1,0 +1,21 @@
+{
+  "billId": 1993281,
+  "billNumber": "S251",
+  "title": "Bail Bondsmen Revisions.-AB",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "1c184bdc0440ae620e5017ac499c9ff0",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-10",
+  "url": "https://legiscan.com/NC/bill/S251/2025",
+  "aiSummary": "This bill revises North Carolina's bail bondsman licensing regulations to establish clearer rules for supervising new bondsmen, require out-of-state sureties to use licensed NC bondsmen for arrests, extend the new bondsman supervision period from 12 to 24 months, establish qualifications for supervising bondsmen, add grounds for license denial based on felony convictions, and adjust renewal deadlines and business address requirements.",
+  "aiProArguments": "Supporters argue these changes strengthen consumer protection and public safety by requiring longer supervision of new bondsmen, establishing clearer qualifications for supervisors, and allowing the Department of Insurance to deny licenses to those convicted of felonies. The bill also ensures consistent regulatory standards by requiring out-of-state sureties to use licensed NC bondsmen, preventing circumvention of state regulations and protecting the integrity of the bail system.",
+  "aiConArguments": "Opponents may argue that extending supervision from 12 to 24 months creates barriers to entry for new bondsmen and reduces competition in the market, potentially limiting consumer choice. The broader grounds for license denial, including administrative findings of felony-level conduct, could be viewed as expanding state authority without full criminal due process protections, and the added requirements for supervising bondsmen (including a $200 fee and monthly reporting) may increase operating costs.",
+  "topic": "Criminal Justice & Public Safety",
+  "textLength": 14231,
+  "createdAt": "2026-06-23T03:06:08.448Z",
+  "sponsors": [
+    {"peopleId":20222,"name":"Todd Johnson","party":"R","isPrimary":true}
+  ],
+  "rollCalls": []
+}

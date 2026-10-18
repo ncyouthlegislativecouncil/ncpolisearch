@@ -1,0 +1,21 @@
+{
+  "billId": 2014905,
+  "billNumber": "H528",
+  "title": "Funds for Coastal Carolina Community College",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "f1df2d0659c3d1e1b46fddd90fedfc99",
+  "lastAction": "Ref to the Com on Appropriations, if favorable, Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-03-27",
+  "url": "https://legiscan.com/NC/bill/H528/2025",
+  "aiSummary": "This bill appropriates $20 million in one-time state funding to Coastal Carolina Community College for renovating its Trades Building. The funds come from the General Fund and become available starting July 1, 2025.",
+  "aiProArguments": "Supporters argue this investment modernizes vocational training facilities, preparing students for in-demand skilled trades jobs that benefit North Carolina's economy. They contend that upgraded facilities attract more students to career pathways in construction, electrical, plumbing, and other trades where employers report worker shortages.",
+  "aiConArguments": "Opponents may question whether $20 million in nonrecurring state funds is the best use of limited General Fund resources, potentially citing competing priorities like K-12 education or healthcare. They might also note that one-time funding doesn't address ongoing maintenance costs and could raise questions about long-term sustainability of the renovated facility.",
+  "topic": "Taxes & Budget",
+  "textLength": 931,
+  "createdAt": "2026-06-23T02:54:14.165Z",
+  "sponsors": [
+    {"peopleId":25852,"name":"Wyatt Gable","party":"R","isPrimary":true}
+  ],
+  "rollCalls": []
+}

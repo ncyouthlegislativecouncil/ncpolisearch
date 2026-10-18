@@ -1,0 +1,21 @@
+{
+  "billId": 1980884,
+  "billNumber": "S146",
+  "title": "Lake Glenville/Restrict Wake Surfing",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "db3085329d612239be4349698cb9686c",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-02-25",
+  "url": "https://legiscan.com/NC/bill/S146/2025",
+  "aiSummary": "This bill prohibits wake surfing on Lake Glenville in Jackson County, North Carolina, within 500 feet of the shoreline, structures, moored vessels, kayaks, canoes, paddleboards, or swimmers. Violations would be classified as Class 1 misdemeanors with fines of at least $100, enforceable by Wildlife Resources Commission officers, sheriffs, and other peace officers.",
+  "aiProArguments": "Supporters argue that wake surfing creates large artificial wakes that can pose safety hazards to other water users, swimmers, and structures along the shoreline. They contend that the 500-foot buffer zone protects vulnerable activities like kayaking and paddleboarding, reduces noise and property damage from large wakes, and allows multiple recreational uses of the lake to coexist safely.",
+  "aiConArguments": "Opponents may argue that the restriction significantly limits a legitimate recreational activity and could frustrate wake surfing enthusiasts who have used the lake for this purpose. They might contend that the 500-foot buffer is overly broad and effectively prohibits wake surfing across much of the lake, and that existing boating safety laws may already address hazards without banning the activity outright.",
+  "topic": "Environment & Energy",
+  "textLength": 1677,
+  "createdAt": "2026-06-23T03:05:18.596Z",
+  "sponsors": [
+    {"peopleId":18454,"name":"Kevin Corbin","party":"R","isPrimary":true}
+  ],
+  "rollCalls": []
+}

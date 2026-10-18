@@ -1,0 +1,22 @@
+{
+  "billId": 1986408,
+  "billNumber": "S210",
+  "title": "Funds/Durham Co. Wastewater Utility/RTP",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "e6720591a3eb853b34b89968cd8547fa",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-03",
+  "url": "https://legiscan.com/NC/bill/S210/2025",
+  "aiSummary": "This bill appropriates $30 million in state funds to Durham County for upgrading wastewater infrastructure in the Research Triangle Park area to support economic development. The money comes from the state's General Fund and is designated as a one-time grant for the 2025-2026 fiscal year.",
+  "aiProArguments": "Supporters argue that improving wastewater infrastructure in Research Triangle Park removes a potential barrier to business expansion and economic growth in the region. They contend that better utility infrastructure attracts new companies and jobs, which benefits Durham County through increased tax revenue and employment opportunities. Proponents may also argue that maintaining competitive infrastructure helps the region compete with other areas for business investment.",
+  "aiConArguments": "Opponents may question whether $30 million in state funds should be directed to a specific county project when other infrastructure needs exist statewide. They might argue that Durham County or the private sector should bear more of these costs, or that the one-time nature of the funding doesn't create a sustainable long-term solution. Some may also raise concerns about whether this represents fair allocation of limited state resources.",
+  "topic": "Taxes & Budget",
+  "textLength": 977,
+  "createdAt": "2026-06-23T03:05:49.657Z",
+  "sponsors": [
+    {"peopleId":21633,"name":"Natalie Murdock","party":"D","isPrimary":true},
+    {"peopleId":25858,"name":"Sophia Chitlik","party":"D","isPrimary":true}
+  ],
+  "rollCalls": []
+}

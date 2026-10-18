@@ -1,0 +1,31 @@
+{
+  "billId": 2019638,
+  "billNumber": "H764",
+  "title": "Establish Death by Reckless Boating",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "f136ec9de1a854bdb1cf3ebe739d0ed5",
+  "lastAction": "Ref To Com On Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-04-07",
+  "url": "https://legiscan.com/NC/bill/H764/2025",
+  "aiSummary": "This bill creates four new criminal offenses related to boating: death by reckless boating, serious injury by reckless boating, and aggravated versions of each that apply when the operator has a prior reckless boating conviction within seven years. The offenses apply when someone unintentionally causes death or serious injury while recklessly operating a vessel, but not when impaired boating is involved.",
+  "aiProArguments": "Supporters argue this bill protects public safety on North Carolina's waterways by establishing clear criminal consequences for reckless boating that results in death or serious injury. They contend that creating a specific boating offense similar to reckless driving laws fills a legal gap and provides appropriate penalties for dangerous vessel operation, while the aggravated charges deter repeat offenders.",
+  "aiConArguments": "Opponents may argue that existing manslaughter and assault laws already cover deaths and injuries caused by reckless boating, making new specific offenses redundant. They may also express concern about potential double jeopardy issues despite the bill's prohibition on dual prosecution, or question whether Class A1 misdemeanor penalties for fatal incidents are sufficiently serious compared to other criminal statutes.",
+  "topic": "Criminal Justice & Public Safety",
+  "textLength": 4326,
+  "createdAt": "2026-06-23T02:57:22.999Z",
+  "sponsors": [
+    {"peopleId":20521,"name":"Carolyn Logan","party":"D","isPrimary":true},
+    {"peopleId":2122,"name":"Mitchell Setzer","party":"R","isPrimary":true},
+    {"peopleId":2044,"name":"Becky Carney","party":"D","isPrimary":true},
+    {"peopleId":25847,"name":"Beth Helfrich","party":"D","isPrimary":true},
+    {"peopleId":24202,"name":"Maria Cervania","party":"D","isPrimary":false},
+    {"peopleId":25213,"name":"Tracy Clark","party":"D","isPrimary":false},
+    {"peopleId":22422,"name":"Sarah Crawford","party":"D","isPrimary":false},
+    {"peopleId":25851,"name":"Aisha Dew","party":"D","isPrimary":false},
+    {"peopleId":25844,"name":"Julia Greenfield","party":"D","isPrimary":false},
+    {"peopleId":20515,"name":"Zack Forde-Hawkins","party":"D","isPrimary":false},
+    {"peopleId":25849,"name":"Monika Johnson-Hostler","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

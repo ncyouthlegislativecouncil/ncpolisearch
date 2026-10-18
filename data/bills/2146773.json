@@ -1,0 +1,25 @@
+{
+  "billId": 2146773,
+  "billNumber": "S947",
+  "title": "Military Influence Areas",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "fbc4e4d9e2ebb5c7c97c4183148a7551",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2026-05-04",
+  "url": "https://legiscan.com/NC/bill/S947/2025",
+  "aiSummary": "This bill allows local governments in North Carolina to create zoning regulations for areas within 5 miles of major military installations. These regulations would require developers to coordinate with the Department of Military and Veterans Affairs, include noise and light buffers, and notify military commanders of development decisions to prevent uses that could interfere with military operations.",
+  "aiProArguments": "Supporters argue this bill protects military readiness and operational effectiveness by preventing incompatible development near installations that could interfere with training, noise tolerance, or security. They contend it benefits both the military and surrounding communities by managing growth thoughtfully, reducing conflicts between civilian development and military activities, and provides local governments with tools to balance development with military mission requirements.",
+  "aiConArguments": "Opponents worry this bill could restrict property rights and limit development opportunities for landowners within 5-mile zones around installations, potentially reducing property values and economic growth in affected areas. They argue the coordination requirements and military input into zoning decisions could give the military veto-like power over local land-use decisions and create an unclear process for what developments are actually permitted.",
+  "topic": "Local Government",
+  "textLength": 3415,
+  "createdAt": "2026-06-23T03:12:06.380Z",
+  "sponsors": [
+    {"peopleId":22424,"name":"Michael Lazzara","party":"R","isPrimary":true},
+    {"peopleId":25212,"name":"Bob Brinson","party":"R","isPrimary":true},
+    {"peopleId":17437,"name":"Thomas McInnis","party":"R","isPrimary":true},
+    {"peopleId":18465,"name":"Danny Britt","party":"R","isPrimary":false},
+    {"peopleId":11858,"name":"Timothy Moffitt","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

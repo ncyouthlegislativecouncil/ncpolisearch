@@ -1,0 +1,28 @@
+{
+  "billId": 2014268,
+  "billNumber": "S694",
+  "title": "Remove Barriers to Employment from Court Debt",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "39781ef14744c82a9d2c824d6eb769b7",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-26",
+  "url": "https://legiscan.com/NC/bill/S694/2025",
+  "aiSummary": "This bill automatically restores driver's licenses after 36 months if the only reason for revocation was failure to pay court fines or fees from motor vehicle offenses. It also forgives unpaid fines and fees from 'Driving While License Revoked' convictions when the original suspension was due to non-payment, and requires data collection on how these changes affect different communities.",
+  "aiProArguments": "Supporters argue this bill removes a major barrier to employment and self-sufficiency for people struggling with court debt. They contend that license suspensions for non-payment create a cycle where people cannot work to pay off fines, and that automatic restoration after 36 months provides a fresh start while still holding people accountable for their obligations.",
+  "aiConArguments": "Opponents may argue that automatic license restoration weakens incentives for people to pay court-ordered fines and fees, potentially reducing court revenue needed for the judicial system. They might also express concern that restoring licenses for those with unpaid debts could allow non-payment to go unresolved without ensuring the court system collects the money owed.",
+  "topic": "Criminal Justice & Public Safety",
+  "textLength": 18752,
+  "createdAt": "2026-06-23T03:10:04.540Z",
+  "sponsors": [
+    {"peopleId":24225,"name":"Benton Sawrey","party":"R","isPrimary":true},
+    {"peopleId":18465,"name":"Danny Britt","party":"R","isPrimary":true},
+    {"peopleId":12033,"name":"Warren Daniel","party":"R","isPrimary":true},
+    {"peopleId":24220,"name":"Val Applewhite","party":"D","isPrimary":false},
+    {"peopleId":25860,"name":"Woodson Bradley","party":"D","isPrimary":false},
+    {"peopleId":22425,"name":"Julie Mayfield","party":"D","isPrimary":false},
+    {"peopleId":20223,"name":"Mujtaba Mohammed","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

@@ -1,0 +1,22 @@
+{
+  "billId": 2010827,
+  "billNumber": "S334",
+  "title": "Repeal the NC Drug Tax",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "d1e1c32dc2c20bb8338d5c1dc4e30586",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-20",
+  "url": "https://legiscan.com/NC/bill/S334/2025",
+  "aiSummary": "This bill would repeal North Carolina's drug tax, which is a tax imposed on illegal drugs and drug paraphernalia. The repeal would eliminate this tax source entirely, though it does not affect taxes or liabilities that arose before the law takes effect.",
+  "aiProArguments": "Supporters argue that the drug tax is ineffective and burdensome, as it is difficult to enforce on illegal transactions and generates minimal revenue. They contend that repealing it removes an unnecessary regulation that complicates the tax code without providing meaningful benefit to the state.",
+  "aiConArguments": "Opponents argue that the drug tax, while unconventional, generates state revenue that funds public services and drug treatment programs. They contend that repealing it reduces available funding for state budgets and may remove a minor deterrent or cost associated with illegal drug possession and sales.",
+  "topic": "Taxes & Budget",
+  "textLength": 922,
+  "createdAt": "2026-06-23T03:06:52.887Z",
+  "sponsors": [
+    {"peopleId":22425,"name":"Julie Mayfield","party":"D","isPrimary":true},
+    {"peopleId":16251,"name":"Graig Meyer","party":"D","isPrimary":true}
+  ],
+  "rollCalls": []
+}

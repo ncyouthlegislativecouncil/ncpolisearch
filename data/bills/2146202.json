@@ -1,0 +1,21 @@
+{
+  "billId": 2146202,
+  "billNumber": "S883",
+  "title": "Pinetops Utility Department Appropriation",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "db92dbe409861c7380a3f365f33202ff",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2026-04-29",
+  "url": "https://legiscan.com/NC/bill/S883/2025",
+  "aiSummary": "This bill directs $100,000 in state funds to the Town of Pinetops during fiscal year 2026-2027 to help its public works department purchase needed equipment. The funds are designated as nonrecurring, meaning they are a one-time appropriation rather than ongoing annual funding.",
+  "aiProArguments": "Supporters argue that this grant helps a small town address critical infrastructure and equipment needs that it may not have sufficient local resources to fund independently. The equipment investment could improve the efficiency and capacity of public works services that benefit Pinetops residents, such as water, sewer, road maintenance, or other essential town services.",
+  "aiConArguments": "Opponents may question whether state general funds should be used for individual town projects rather than statewide priorities, and whether this represents an equitable use of limited state resources compared to other municipalities with similar needs. Some may also be concerned about whether $100,000 in nonrecurring funds creates an ongoing expectation for future state support without establishing the town's long-term equipment maintenance plan.",
+  "topic": "Taxes & Budget",
+  "textLength": 849,
+  "createdAt": "2026-06-23T03:11:33.616Z",
+  "sponsors": [
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":true}
+  ],
+  "rollCalls": []
+}

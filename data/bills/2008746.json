@@ -1,0 +1,25 @@
+{
+  "billId": 2008746,
+  "billNumber": "S301",
+  "title": "Film and Entertainment Grant Fund Mods",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "d8f3cacf29b1ddf28b02783bb8f57084",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-18",
+  "url": "https://legiscan.com/NC/bill/S301/2025",
+  "aiSummary": "This bill modifies North Carolina's Film and Entertainment Grant Fund by increasing the maximum grant amounts available for feature films, television series, commercials, and independent films. It also clarifies definitions and priority criteria for how the state distributes these grants to film and entertainment productions.",
+  "aiProArguments": "Supporters argue that increasing grant caps makes North Carolina more competitive in attracting major film and television productions, which creates jobs, boosts local economies, and increases tourism as visitors come to see filming locations. Higher grant limits allow the state to land larger-budget projects that might otherwise film elsewhere, generating tax revenue and establishing North Carolina as a premier filmmaking destination.",
+  "aiConArguments": "Opponents contend that the increased spending on film grants diverts public money that could fund education, infrastructure, or other priorities, and question whether the economic returns justify the investment. Critics also argue that grants primarily benefit large production companies and wealthy filmmakers rather than average North Carolinians, and that the film industry may not deliver the promised jobs or long-term economic benefits.",
+  "topic": "Business & Labor",
+  "textLength": 4688,
+  "createdAt": "2026-06-23T03:06:32.651Z",
+  "sponsors": [
+    {"peopleId":17457,"name":"Paul Lowe","party":"D","isPrimary":true},
+    {"peopleId":12032,"name":"Gladys Robinson","party":"D","isPrimary":true},
+    {"peopleId":25858,"name":"Sophia Chitlik","party":"D","isPrimary":false},
+    {"peopleId":20223,"name":"Mujtaba Mohammed","party":"D","isPrimary":false},
+    {"peopleId":25859,"name":"Caleb Theodros","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

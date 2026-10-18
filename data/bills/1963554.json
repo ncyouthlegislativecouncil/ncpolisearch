@@ -1,0 +1,21 @@
+{
+  "billId": 1963554,
+  "billNumber": "S70",
+  "title": "Funds for Town of Wendell/Carver School",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "18a5d4558a57cca57d87455d7468c8e3",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2025-02-11",
+  "url": "https://legiscan.com/NC/bill/S70/2025",
+  "aiSummary": "This bill appropriates $2 million in state funds to the Town of Wendell for a directed grant to stabilize and rehabilitate the old Carver School building into a community center. The project will include a business incubator, technology center, gymnasium, performance space, and classrooms, developed in partnership with Pleasant Grove Baptist Church, Pleasant Grove Community Development Corporation, and Wake County.",
+  "aiProArguments": "Supporters argue this investment preserves a historic community building and creates valuable public infrastructure for Wendell residents. The funded improvements would provide educational and economic opportunities through the business incubator and technology center, while the community center amenities like the gymnasium and performance space would serve local needs and potentially generate community engagement and development in the area.",
+  "aiConArguments": "Opponents may question whether a $2 million directed grant to a specific town project is the best use of limited state funds, especially as nonrecurring money that doesn't continue beyond one fiscal year. Some may raise concerns about whether the state should fund local community projects, whether the partnership structure is sustainable long-term, or whether similar projects in other communities might have competing claims for state resources.",
+  "topic": "Taxes & Budget",
+  "textLength": 1143,
+  "createdAt": "2026-06-23T03:04:38.897Z",
+  "sponsors": [
+    {"peopleId":2033,"name":"Daniel Blue","party":"D","isPrimary":true}
+  ],
+  "rollCalls": []
+}

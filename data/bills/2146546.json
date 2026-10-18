@@ -1,0 +1,29 @@
+{
+  "billId": 2146546,
+  "billNumber": "S942",
+  "title": "Reenact EITC",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "0e5f5597706ba9fbabce8087c4401117",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2026-04-30",
+  "url": "https://legiscan.com/NC/bill/S942/2025",
+  "aiSummary": "This bill reenacts North Carolina's Earned Income Tax Credit (EITC), which had previously expired. The credit allows eligible working individuals to receive a state tax credit equal to a percentage of the federal EITC they qualify for, with the credit being refundable if it exceeds the taxpayer's state income tax liability.",
+  "aiProArguments": "Supporters argue that reenacting the EITC helps low- and moderate-income working families keep more of their earnings and reduces the tax burden on those with the least ability to pay. The credit rewards work and can help stimulate the economy by putting money back into the pockets of working families who are likely to spend it locally.",
+  "aiConArguments": "Opponents may argue that reenacting the EITC reduces state tax revenue at a time when the state has other budget priorities, and question whether a refundable credit is the most efficient way to help low-income workers. Some may contend that the state should focus on other approaches to support working families or that the credit's benefits primarily go to those already working rather than addressing broader economic challenges.",
+  "topic": "Taxes & Budget",
+  "textLength": 2109,
+  "createdAt": "2026-06-23T03:12:03.038Z",
+  "sponsors": [
+    {"peopleId":25858,"name":"Sophia Chitlik","party":"D","isPrimary":true},
+    {"peopleId":25860,"name":"Woodson Bradley","party":"D","isPrimary":true},
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":true},
+    {"peopleId":17147,"name":"Gale Adcock","party":"D","isPrimary":false},
+    {"peopleId":24222,"name":"Lisa Grafstein","party":"D","isPrimary":false},
+    {"peopleId":21633,"name":"Natalie Murdock","party":"D","isPrimary":false},
+    {"peopleId":22426,"name":"DeAndrea Salvador","party":"D","isPrimary":false},
+    {"peopleId":25859,"name":"Caleb Theodros","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

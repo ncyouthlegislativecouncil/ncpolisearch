@@ -1,0 +1,21 @@
+{
+  "billId": 2147100,
+  "billNumber": "S993",
+  "title": "Town of Pineville/Reserve Police",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "01e08d33e723e9e1174f735f6a3239d3",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2026-05-04",
+  "url": "https://legiscan.com/NC/bill/S993/2025",
+  "aiSummary": "This bill amends the Town of Pineville's charter to allow the town to establish a reserve police division and compensate reserve officers when they are called to work active duty shifts. Previously, the town could only have auxiliary police under state law; this creates a new option for reserve officers with defined compensation.",
+  "aiProArguments": "Supporters argue this gives Pineville flexibility to address staffing needs and public safety by allowing the town to deploy trained reserve officers during emergencies, busy periods, or officer shortages. By authorizing compensation for reserve officers' active duty time, the town can attract qualified personnel and ensure adequate law enforcement coverage without the expense of full-time positions.",
+  "aiConArguments": "Opponents may be concerned about the fiscal impact of compensating reserve officers and whether the town has budgeted for these additional personnel costs. Some might question whether this provision provides enough oversight of how the town council sets compensation rates or whether reserve officers receive adequate training and liability protections comparable to full-time officers.",
+  "topic": "Local Government",
+  "textLength": 1059,
+  "createdAt": "2026-06-23T03:12:27.997Z",
+  "sponsors": [
+    {"peopleId":22426,"name":"DeAndrea Salvador","party":"D","isPrimary":true}
+  ],
+  "rollCalls": []
+}

@@ -1,0 +1,33 @@
+{
+  "billId": 2147068,
+  "billNumber": "H1192",
+  "title": "Energy and Housing Affordability Act",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "ad91a0b76d80fa638832747feed5a71a",
+  "lastAction": "Re-ref to the Com on Energy and Public Utilities, if favorable, Regulatory Reform, if favorable, Appropriations, if favorable, Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2026-05-07",
+  "url": "https://legiscan.com/NC/bill/H1192/2025",
+  "aiSummary": "This bill makes three main changes: (1) it modifies how electric utilities recover fuel costs by requiring them to share 80% of fuel cost increases with customers while absorbing 20% of increases themselves, and share 20% of fuel cost savings with shareholders while crediting 80% to customers; (2) it creates a voluntary \"Bring Your Own Generation\" program allowing large businesses to install their own power generation on-site, connect it to the grid, and potentially sell excess power back; and (3) it appropriates $35 million to the Workforce Housing Loan Program.",
+  "aiProArguments": "Supporters argue this bill protects consumers by requiring utilities to share the financial burden when fuel costs rise unexpectedly, creating accountability for utility management decisions. They contend the BYOG program encourages businesses to invest in renewable energy and reduces pressure on the electrical grid by allowing large customers to generate their own power, potentially lowering infrastructure costs for all ratepayers. The workforce housing funding addresses affordability concerns for middle-income workers.",
+  "aiConArguments": "Opponents may argue that the fuel cost sharing mechanism could discourage utilities from investing in infrastructure improvements since they bear some cost risk, potentially affecting service reliability. They contend the BYOG program primarily benefits large industrial customers who can afford expensive on-site generation, while working to ensure residential customers don't subsidize these businesses' private power systems. Some may question whether $35 million adequately addresses housing affordability needs statewide.",
+  "topic": "Environment & Energy",
+  "textLength": 19868,
+  "createdAt": "2026-06-23T03:03:13.189Z",
+  "sponsors": [
+    {"peopleId":25855,"name":"Mike Schietzelt","party":"R","isPrimary":true},
+    {"peopleId":22613,"name":"Ben Moss","party":"R","isPrimary":true},
+    {"peopleId":22614,"name":"Erin Pare","party":"R","isPrimary":true},
+    {"peopleId":17678,"name":"James Adams","party":"R","isPrimary":false},
+    {"peopleId":25857,"name":"Richard Carver","party":"R","isPrimary":false},
+    {"peopleId":24202,"name":"Maria Cervania","party":"D","isPrimary":false},
+    {"peopleId":25213,"name":"Tracy Clark","party":"D","isPrimary":false},
+    {"peopleId":25844,"name":"Julia Greenfield","party":"D","isPrimary":false},
+    {"peopleId":2077,"name":"Mary Harrison","party":"D","isPrimary":false},
+    {"peopleId":22965,"name":"Donnie Loftis","party":"R","isPrimary":false},
+    {"peopleId":21375,"name":"Jeffrey McNeely","party":"R","isPrimary":false},
+    {"peopleId":14634,"name":"Stephen Ross","party":"R","isPrimary":false},
+    {"peopleId":24219,"name":"Bill Ward","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

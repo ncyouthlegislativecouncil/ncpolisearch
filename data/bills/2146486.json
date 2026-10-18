@@ -1,0 +1,23 @@
+{
+  "billId": 2146486,
+  "billNumber": "S913",
+  "title": "Screen Free Schools",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "9ac9e19f9081ef72dad50e30cf761c66",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2026-04-30",
+  "url": "https://legiscan.com/NC/bill/S913/2025",
+  "aiSummary": "This bill restricts students' use of wireless communication devices (phones, tablets, laptops, smartwatches, gaming devices) in North Carolina public schools. Students in K-8 are prohibited from using these devices anywhere on school premises, while high school students (grades 9-12) cannot use them during the school day except for state testing, though schools may allow use before/after school hours. Teachers may authorize device use for educational purposes or emergencies, and students with medical needs or IEP/504 plans may use devices as required.",
+  "aiProArguments": "Supporters argue that limiting student device use reduces distractions and improves academic focus and learning outcomes. They contend that excessive screen time harms mental health, sleep patterns, and social development, particularly for younger students. Proponents also cite concerns about cyberbullying, cheating, and classroom disruption, arguing that a screen-free environment promotes better classroom management and allows teachers to teach more effectively.",
+  "aiConArguments": "Opponents worry that the restrictions limit students' access to technology tools needed for modern learning and may disadvantage students who rely on devices for accessibility needs or educational apps. They argue the policy may not be enforceable across all schools and could create implementation challenges and costs. Critics also contend that restricting devices doesn't address underlying issues with technology use and that teaching digital responsibility and healthy habits may be more effective than blanket prohibitions.",
+  "topic": "Education",
+  "textLength": 2938,
+  "createdAt": "2026-06-23T03:11:49.903Z",
+  "sponsors": [
+    {"peopleId":20216,"name":"Jim Burgin","party":"R","isPrimary":true},
+    {"peopleId":11858,"name":"Timothy Moffitt","party":"R","isPrimary":false},
+    {"peopleId":11862,"name":"Norman Sanderson","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

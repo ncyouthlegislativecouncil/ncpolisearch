@@ -1,0 +1,21 @@
+{
+  "billId": 2146873,
+  "billNumber": "S953",
+  "title": "Cherokee County Occupancy Tax Modifications",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "9942cbf3ef4988ab29490d239dc047ac",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2026-05-04",
+  "url": "https://legiscan.com/NC/bill/S953/2025",
+  "aiSummary": "This bill modifies Cherokee County's occupancy tax (a tax on hotel and lodging rentals) by allowing the county to levy up to an additional 3% tax on top of the existing 3% occupancy tax, and restructures the Cherokee County Tourism Development Authority that manages these tax revenues. The bill specifies how the authority should be composed and how tax proceeds must be used for tourism promotion and related expenditures.",
+  "aiProArguments": "Supporters argue this bill gives Cherokee County flexibility to generate additional revenue for tourism development and infrastructure without raising general taxes on residents. The restructured Tourism Development Authority ensures representation from lodging businesses, towns, and tourism professionals, potentially leading to more effective use of tax revenue to attract visitors and grow the local tourism economy.",
+  "aiConArguments": "Opponents may contend that an additional occupancy tax could discourage tourists from staying in Cherokee County, potentially reducing overall hotel occupancy and offsetting the additional revenue. Some may also question whether the Authority's composition adequately represents taxpayers and the broader public interest, or whether the tax administration costs (up to 3% of initial proceeds) represent efficient use of collected funds.",
+  "topic": "Taxes & Budget",
+  "textLength": 7597,
+  "createdAt": "2026-06-23T03:12:09.318Z",
+  "sponsors": [
+    {"peopleId":18454,"name":"Kevin Corbin","party":"R","isPrimary":true}
+  ],
+  "rollCalls": []
+}

@@ -1,0 +1,22 @@
+{
+  "billId": 2004742,
+  "billNumber": "S275",
+  "title": "Deregulate Small Boarding Kennels",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "ebc3daebf263de2f6ba9d81aa4e16274",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-13",
+  "url": "https://legiscan.com/NC/bill/S275/2025",
+  "aiSummary": "This bill changes the definition of a boarding kennel in North Carolina law so that only facilities caring for six or more dogs and/or cats require a state permit. Currently, smaller operations that board fewer than six animals would no longer need permitting or comply with state boarding kennel regulations.",
+  "aiProArguments": "Supporters argue this bill reduces unnecessary regulatory burden on small pet-sitting businesses and home-based operations that pose minimal risk. They contend that small businesses with fewer animals do not require the same oversight as larger commercial kennels, allowing entrepreneurs to enter the pet care industry more easily and affordably.",
+  "aiConArguments": "Opponents worry this deregulation could reduce animal welfare protections for pets in smaller boarding facilities that would no longer be inspected or regulated by the state. They argue that animal safety standards should apply regardless of kennel size, and that removing oversight of smaller operations may leave pet owners with fewer protections if problems occur.",
+  "topic": "Business & Labor",
+  "textLength": 1386,
+  "createdAt": "2026-06-23T03:06:19.161Z",
+  "sponsors": [
+    {"peopleId":24222,"name":"Lisa Grafstein","party":"D","isPrimary":true},
+    {"peopleId":17936,"name":"Jay Chaudhuri","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

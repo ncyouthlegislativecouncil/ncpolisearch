@@ -1,0 +1,21 @@
+{
+  "billId": 2010809,
+  "billNumber": "S337",
+  "title": "Reallocate Civil War & Reconst. Hist Ctr Fnds",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "e9279f473b68f4e24f2e6d918bc1a220",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2025-03-24",
+  "url": "https://legiscan.com/NC/bill/S337/2025",
+  "aiSummary": "This bill redirects unspent funds that were previously appropriated to the North Carolina Civil War & Reconstruction History Center to other community projects in Cumberland County. The money will be reallocated: 40% to Fayetteville for mental health programs and infrastructure, 30% to Hope Mills for a community center, and 30% to Cumberland County for water/sewer infrastructure, youth services, and emergency equipment.",
+  "aiProArguments": "Supporters argue that redirecting unspent funds to immediate community needs makes fiscal sense, particularly for mental health services, water infrastructure, and emergency response capabilities that directly benefit residents. They contend that these allocations address urgent local infrastructure and social service gaps that may have greater immediate impact on Cumberland County communities than historical center operations.",
+  "aiConArguments": "Opponents may argue that the Civil War & Reconstruction History Center serves an important educational and cultural mission that should not be defunded, and that reallocating previously committed funds could set a concerning precedent for redirecting appropriations. They might also question whether the decision-making process adequately consulted stakeholders or whether alternative funding solutions for these community needs could have been explored without reducing support for historical preservation and education.",
+  "topic": "Taxes & Budget",
+  "textLength": 2600,
+  "createdAt": "2026-06-23T03:06:54.494Z",
+  "sponsors": [
+    {"peopleId":24220,"name":"Val Applewhite","party":"D","isPrimary":true}
+  ],
+  "rollCalls": []
+}

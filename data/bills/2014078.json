@@ -1,0 +1,22 @@
+{
+  "billId": 2014078,
+  "billNumber": "S688",
+  "title": "Local Government Land Use Reform",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "f7b372e3efaaa13046cf9da7e8ee9825",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-26",
+  "url": "https://legiscan.com/NC/bill/S688/2025",
+  "aiSummary": "This bill restricts local government authority over land use and zoning regulations in North Carolina. It limits design requirements for residential buildings, reduces parking and driveway standards, requires minimum residential density allowances, restricts conditional zoning conditions, removes certain \"harmony\" requirements for affordable housing developments, and creates new legal remedies for property owners to challenge local land regulations.",
+  "aiProArguments": "Supporters argue this bill reduces regulatory burdens that increase housing costs and limit development. It prevents local governments from imposing excessive design standards, parking requirements, and road specifications that developers say drive up construction expenses. The bill aims to increase housing supply by requiring cities to permit at least 4-5 residential units per acre, addressing North Carolina's housing shortage and affordability crisis. It also provides property owners with clearer legal tools to challenge what they view as overreaching local regulations.",
+  "aiConArguments": "Opponents contend this bill strips local communities of planning tools they need to manage growth, protect neighborhood character, and ensure safe development. They argue that uniform state-level density requirements override local preferences and may force unwanted residential intensification in single-family neighborhoods. Critics worry the bill limits protections for pedestrians, emergency services, and affordable housing preservation through harmony requirements, and that new attorney's fee provisions will encourage litigation that diverts municipal resources from other priorities.",
+  "topic": "Local Government",
+  "textLength": 22642,
+  "createdAt": "2026-06-23T03:10:01.604Z",
+  "sponsors": [
+    {"peopleId":20518,"name":"Steve Jarvis","party":"R","isPrimary":true},
+    {"peopleId":11858,"name":"Timothy Moffitt","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

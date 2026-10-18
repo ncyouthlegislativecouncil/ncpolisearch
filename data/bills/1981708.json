@@ -1,0 +1,21 @@
+{
+  "billId": 1981708,
+  "billNumber": "S152",
+  "title": "38th Senatorial District Local Act-1",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "19cdc1e43af7f928edfebb7a65982891",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-02-25",
+  "url": "https://legiscan.com/NC/bill/S152/2025",
+  "aiSummary": "This is a local bill that relates specifically to North Carolina's 38th Senatorial District. The bill text does not specify what changes or provisions apply to the district—it only establishes that any provisions would apply only to that district and become effective upon passage.",
+  "aiProArguments": "Supporters of local bills argue they allow the legislature to address specific regional concerns and needs that may differ from statewide issues. Local legislation can be tailored to solve particular problems in a specific district without affecting the entire state.",
+  "aiConArguments": "Opponents of local bills raise concerns about transparency and fairness, arguing that legislation affecting specific districts should be clearly detailed so voters and the public understand exactly what is being changed. The lack of specific provisions in this bill makes it difficult to assess what impact it would have on residents of the 38th Senatorial District.",
+  "topic": "Local Government",
+  "textLength": 511,
+  "createdAt": "2026-06-23T03:05:20.879Z",
+  "sponsors": [
+    {"peopleId":20223,"name":"Mujtaba Mohammed","party":"D","isPrimary":true}
+  ],
+  "rollCalls": []
+}

@@ -1,0 +1,27 @@
+{
+  "billId": 2011031,
+  "billNumber": "S350",
+  "title": "Marijuana Justice and Reinvestment Act",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "cdc93f71dd8c86649d2cc6e9417577c5",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-20",
+  "url": "https://legiscan.com/NC/bill/S350/2025",
+  "aiSummary": "This bill would legalize and regulate cannabis for adults 21 and older in North Carolina, similar to alcohol. It establishes a licensing system for cannabis businesses, allows adults to possess and grow limited amounts for personal use, creates funds to reinvest in communities harmed by prior cannabis prohibition, establishes a medical cannabis program, and automatically expunges past cannabis convictions that would now be legal.",
+  "aiProArguments": "Supporters argue this bill corrects an unjust policy by eliminating an enforcement pattern that has disproportionately harmed Black and minority communities, despite equal usage rates. They contend legalization replaces an uncontrolled illegal market with regulated, tested products that protect consumers. Supporters highlight substantial tax revenue for the state and community reinvestment funds, job creation, reduced burden on law enforcement and courts, and opportunities for individuals previously impacted by cannabis laws to participate in the legal market.",
+  "aiConArguments": "Opponents may argue the bill creates significant regulatory and enforcement challenges, including impaired driving detection and prevention. Concerns include potential increased youth access despite age restrictions, public health impacts from normalized use, conflicts with federal law that still prohibits cannabis, workplace safety issues, and whether the proposed equity programs effectively serve their intended communities. Some may question whether tax revenues and compliance mechanisms will be sufficient to address public health and safety costs.",
+  "topic": "Criminal Justice & Public Safety",
+  "textLength": 91619,
+  "createdAt": "2026-06-23T03:07:01.107Z",
+  "sponsors": [
+    {"peopleId":16251,"name":"Graig Meyer","party":"D","isPrimary":true},
+    {"peopleId":17936,"name":"Jay Chaudhuri","party":"D","isPrimary":true},
+    {"peopleId":21633,"name":"Natalie Murdock","party":"D","isPrimary":true},
+    {"peopleId":25858,"name":"Sophia Chitlik","party":"D","isPrimary":false},
+    {"peopleId":22426,"name":"DeAndrea Salvador","party":"D","isPrimary":false},
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":false},
+    {"peopleId":25859,"name":"Caleb Theodros","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

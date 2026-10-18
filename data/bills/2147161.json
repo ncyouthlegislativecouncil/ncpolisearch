@@ -1,0 +1,21 @@
+{
+  "billId": 2147161,
+  "billNumber": "S1067",
+  "title": "Hazard Mitigation Funds",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "3b1c940e88da3ea6141ae0a42c454470",
+  "lastAction": "Sequential Referral To Rules and Operations of the Senate Added",
+  "lastActionDate": "2026-05-06",
+  "url": "https://legiscan.com/NC/bill/S1067/2025",
+  "aiSummary": "This bill appropriates $3 million in state funds to the Town of Ayden for stormwater management projects designed to reduce flash flooding in the Kennedy Estates subdivision. The funds are nonrecurring and available for the 2026-2027 fiscal year, becoming effective July 1, 2026.",
+  "aiProArguments": "Supporters argue this bill addresses a serious public safety and property protection issue by funding infrastructure improvements to reduce flooding damage in an affected community. They contend that state investment in hazard mitigation prevents costlier emergency response and recovery efforts, protects residents and their homes, and represents responsible use of public funds to address environmental challenges.",
+  "aiConArguments": "Opponents may argue that $3 million in nonrecurring General Fund spending should be prioritized differently across the state or that the bill lacks detail about project specifics and accountability measures. They might also question why this particular town receives state funds when many North Carolina communities face similar flooding challenges, raising concerns about fair allocation of limited resources statewide.",
+  "topic": "Taxes & Budget",
+  "textLength": 745,
+  "createdAt": "2026-06-23T03:13:05.593Z",
+  "sponsors": [
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":true}
+  ],
+  "rollCalls": []
+}

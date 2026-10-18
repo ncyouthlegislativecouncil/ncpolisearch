@@ -1,0 +1,31 @@
+{
+  "billId": 2011047,
+  "billNumber": "S353",
+  "title": "The Second Chance Coding Act",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "0dd6b43f7d4bf363719acde1b0404ab1",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-20",
+  "url": "https://legiscan.com/NC/bill/S353/2025",
+  "aiSummary": "This bill requires North Carolina's Division of Juvenile Justice to create a program teaching coding, programming, and computer skills to incarcerated youth in youth development centers. The program would include specialized courses, industry certifications, mentorship, internships, and job placement assistance, with $250,000 in funding and implementation required by January 1, 2026.",
+  "aiProArguments": "Supporters argue this bill addresses recidivism by equipping incarcerated youth with marketable technical skills that lead to stable employment and financial independence after release. They contend that coding and tech jobs offer higher wages and career growth potential, reducing the likelihood that youth return to the criminal justice system. Additionally, this program helps fill workforce gaps in the growing technology sector while giving vulnerable youth a genuine second chance.",
+  "aiConArguments": "Opponents may question whether $250,000 is sufficient to develop and sustain a quality program, and whether resources would be better spent on prevention or mental health services. Some argue the bill lacks accountability mechanisms or performance metrics to measure whether the program actually reduces recidivism or leads to employment. Others may express concerns about whether incarcerated youth will have meaningful access to jobs post-release, regardless of skills gained.",
+  "topic": "Criminal Justice & Public Safety",
+  "textLength": 2642,
+  "createdAt": "2026-06-23T03:07:02.508Z",
+  "sponsors": [
+    {"peopleId":25859,"name":"Caleb Theodros","party":"D","isPrimary":true},
+    {"peopleId":2033,"name":"Daniel Blue","party":"D","isPrimary":true},
+    {"peopleId":25860,"name":"Woodson Bradley","party":"D","isPrimary":true},
+    {"peopleId":24220,"name":"Val Applewhite","party":"D","isPrimary":false},
+    {"peopleId":24222,"name":"Lisa Grafstein","party":"D","isPrimary":false},
+    {"peopleId":20223,"name":"Mujtaba Mohammed","party":"D","isPrimary":false},
+    {"peopleId":21633,"name":"Natalie Murdock","party":"D","isPrimary":false},
+    {"peopleId":12032,"name":"Gladys Robinson","party":"D","isPrimary":false},
+    {"peopleId":22426,"name":"DeAndrea Salvador","party":"D","isPrimary":false},
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

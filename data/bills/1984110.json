@@ -1,0 +1,26 @@
+{
+  "billId": 1984110,
+  "billNumber": "H225",
+  "title": "Restore Down-Zoning/Wake Forest & Rolesville",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "e92e6876d3f2a34aa94e982c33d07a42",
+  "lastAction": "Ref to the Com on Judiciary 3, if favorable, Housing and Development, if favorable, Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-02-27",
+  "url": "https://legiscan.com/NC/bill/H225/2025",
+  "aiSummary": "This bill restores the authority of the towns of Wake Forest and Rolesville to initiate down-zoning (reducing development density or permitted uses on property) without obtaining written consent from all affected property owners. The change applies retroactively to December 11, 2024, and reverses a restriction that was imposed by state legislation in 2024.",
+  "aiProArguments": "Supporters argue this bill gives local governments necessary planning flexibility to manage growth and protect community character. They contend that requiring consent from every property owner can block important zoning changes that serve broader public interests, such as preventing overdevelopment, preserving neighborhoods, or addressing infrastructure concerns. Local elected officials, they argue, are better positioned than state law to determine what zoning changes their communities need.",
+  "aiConArguments": "Opponents argue this bill reduces property rights protections by allowing government to reduce property values and development potential without owner consent. They contend that the 2024 state restriction was enacted to protect property owners from unilateral government action that could decrease property value or limit how owners use their land. Critics worry that removing the consent requirement gives local governments too much power to impose restrictions on private property without direct input from those most affected.",
+  "topic": "Local Government",
+  "textLength": 2078,
+  "createdAt": "2026-06-23T02:45:24.060Z",
+  "sponsors": [
+    {"peopleId":25855,"name":"Mike Schietzelt","party":"R","isPrimary":true},
+    {"peopleId":17678,"name":"James Adams","party":"R","isPrimary":false},
+    {"peopleId":2044,"name":"Becky Carney","party":"D","isPrimary":false},
+    {"peopleId":22422,"name":"Sarah Crawford","party":"D","isPrimary":false},
+    {"peopleId":2077,"name":"Mary Harrison","party":"D","isPrimary":false},
+    {"peopleId":20515,"name":"Zack Forde-Hawkins","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

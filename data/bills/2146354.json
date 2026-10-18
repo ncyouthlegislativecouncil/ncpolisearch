@@ -1,0 +1,27 @@
+{
+  "billId": 2146354,
+  "billNumber": "H1102",
+  "title": "Fuel Gas Safety Act",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "4ea7b78a67519a20062c6b200a17f3bf",
+  "lastAction": "Re-ref to the Com on Housing and Development, if favorable, Appropriations, if favorable, Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2026-06-08",
+  "url": "https://legiscan.com/NC/bill/H1102/2025",
+  "aiSummary": "This bill requires the installation and maintenance of fuel gas detectors in residential rental units, commercial buildings, and public higher education facilities that contain appliances using propane, natural gas, or liquified petroleum gas. Landlords must install detectors within 30 days of acquiring a property, maintain them in working order, and can face civil penalties up to $500 for violations. Universities and community colleges must adopt fuel gas safety policies by July 1, 2027, and implement them by July 1, 2030.",
+  "aiProArguments": "Supporters argue this bill protects public health and safety by requiring early detection of dangerous gas leaks that could cause explosions, fires, or carbon monoxide poisoning. Landlords and building owners would be held responsible for maintaining this safety equipment, reducing risks for tenants and building occupants. The bill provides a reasonable 30-day installation window and allows 10 days to correct violations before penalties apply, giving property owners time to comply.",
+  "aiConArguments": "Opponents may argue the bill creates compliance costs for landlords and commercial property owners to purchase and maintain detectors across all affected units and buildings. The $500 civil penalty could be burdensome for small landlords, and the requirement applies retroactively to existing properties. Some may contend that existing building codes and smoke/carbon monoxide detector requirements already address gas safety concerns, making additional requirements redundant or unnecessary.",
+  "topic": "Healthcare",
+  "textLength": 16358,
+  "createdAt": "2026-06-23T03:01:50.321Z",
+  "sponsors": [
+    {"peopleId":16252,"name":"Robert Reives","party":"D","isPrimary":true},
+    {"peopleId":24198,"name":"Gloristine Brown","party":"D","isPrimary":false},
+    {"peopleId":20509,"name":"Allison Dahle","party":"D","isPrimary":false},
+    {"peopleId":24206,"name":"Frances Jackson","party":"D","isPrimary":false},
+    {"peopleId":20521,"name":"Carolyn Logan","party":"D","isPrimary":false},
+    {"peopleId":25853,"name":"Rodney Pierce","party":"D","isPrimary":false},
+    {"peopleId":22606,"name":"James Roberson","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

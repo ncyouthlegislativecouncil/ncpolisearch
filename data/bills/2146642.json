@@ -1,0 +1,21 @@
+{
+  "billId": 2146642,
+  "billNumber": "S938",
+  "title": "Privatize Spirituous Liquor",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "d7520f64c624947ecb2636656ded1f29",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2026-04-30",
+  "url": "https://legiscan.com/NC/bill/S938/2025",
+  "aiSummary": "This bill transitions North Carolina's spirituous liquor (hard liquor) sales from state-operated ABC stores to private package stores by July 1, 2029. It allows local voters to decide whether to permit off-premises spirituous liquor sales, sells existing ABC store properties to private bidders, establishes a new liquor wholesaler permit system, and includes franchise protections for liquor wholesalers.",
+  "aiProArguments": "Supporters argue privatization increases consumer choice and convenience by allowing more retailers to sell spirits, reduces state spending on ABC store operations and property maintenance, generates revenue from selling state property and ABC store assets to fund education, and modernizes a system that restricts competition. Proponents also contend private package stores can operate more efficiently than government-run stores.",
+  "aiConArguments": "Opponents worry privatization could reduce oversight of alcohol sales and enforcement of underage drinking laws, eliminate stable local government jobs and revenue from ABC store profits that support communities, create gaps in service in rural areas where private businesses may not find it profitable to operate, and shift profits from public benefit to private corporations. Critics also express concerns about whether private wholesalers will maintain the same regulatory standards as the state system.",
+  "topic": "Business & Labor",
+  "textLength": 69996,
+  "createdAt": "2026-06-23T03:12:01.386Z",
+  "sponsors": [
+    {"peopleId":20216,"name":"Jim Burgin","party":"R","isPrimary":true}
+  ],
+  "rollCalls": []
+}

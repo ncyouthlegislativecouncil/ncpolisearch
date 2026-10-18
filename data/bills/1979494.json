@@ -1,0 +1,24 @@
+{
+  "billId": 1979494,
+  "billNumber": "S129",
+  "title": "Booking Photograph Privacy Act",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "c4ec803bcca9004581d43ff2bad0046f",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-02-24",
+  "url": "https://legiscan.com/NC/bill/S129/2025",
+  "aiSummary": "This bill makes booking photographs (images taken by law enforcement when someone is arrested or booked into jail) confidential and not accessible to the public. Law enforcement agencies would be prohibited from publishing or releasing these photos, with limited exceptions for missing person investigations or when a court orders release for immediate law enforcement needs.",
+  "aiProArguments": "Supporters argue this protects individuals' privacy and dignity, especially those arrested but not convicted, since booking photos can be stigmatizing and spread widely on the internet. They contend that restricting these images prevents potential harms like employment discrimination, harassment, or reputational damage to people who may ultimately be found innocent or have charges dropped.",
+  "aiConArguments": "Opponents worry this limits public transparency and accountability in the criminal justice system, as booking photos are currently used by news media, researchers, and the public to monitor law enforcement activities. They argue that restricting access could hinder legitimate uses like identifying suspects in ongoing investigations, locating missing persons, or informing the public about arrests in their communities.",
+  "topic": "Criminal Justice & Public Safety",
+  "textLength": 3425,
+  "createdAt": "2026-06-23T03:05:09.782Z",
+  "sponsors": [
+    {"peopleId":11858,"name":"Timothy Moffitt","party":"R","isPrimary":true},
+    {"peopleId":20513,"name":"Bobby Hanig","party":"R","isPrimary":false},
+    {"peopleId":17457,"name":"Paul Lowe","party":"D","isPrimary":false},
+    {"peopleId":17437,"name":"Thomas McInnis","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

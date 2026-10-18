@@ -1,0 +1,21 @@
+{
+  "billId": 2147592,
+  "billNumber": "S1071",
+  "title": "Elec. Notice of Public Hearings/Cabarrus Co",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "70df780f131ea89ebbf47baec20940bc",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2026-05-05",
+  "url": "https://legiscan.com/NC/bill/S1071/2025",
+  "aiSummary": "This bill allows Cabarrus County to publish notices of public hearings and meetings through electronic means, such as the county's website, instead of only using traditional newspaper publication. The bill maintains that electronic notice cannot replace state-required mail notices or property postings, and does not change the timing requirements for publishing notices.",
+  "aiProArguments": "Supporters argue this modernizes how local government communicates with citizens by using digital platforms that many people check regularly, potentially reaching a broader audience more efficiently. This could reduce costs for the county by lowering newspaper publication expenses while still fulfilling the public's right to know about government meetings and hearings.",
+  "aiConArguments": "Opponents may contend that relying on electronic notice could exclude residents without internet access or digital literacy, potentially disenfranchising elderly or low-income populations from learning about public hearings. They might also argue that traditional newspaper publication provides a more neutral third-party record and broader visibility compared to government-controlled websites.",
+  "topic": "Local Government",
+  "textLength": 1598,
+  "createdAt": "2026-06-23T03:13:07.345Z",
+  "sponsors": [
+    {"peopleId":26462,"name":"Chris Measmer","party":"R","isPrimary":true}
+  ],
+  "rollCalls": []
+}

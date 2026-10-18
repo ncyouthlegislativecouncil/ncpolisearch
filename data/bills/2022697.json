@@ -1,0 +1,29 @@
+{
+  "billId": 2022697,
+  "billNumber": "H994",
+  "title": "Western NC Support; Expand Comm. Eco. Dev",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "b2d4886f6e533f3771d19f1dedafa9b6",
+  "lastAction": "Ref to the Com on Appropriations, if favorable, Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-04-14",
+  "url": "https://legiscan.com/NC/bill/H994/2025",
+  "aiSummary": "This bill appropriates $20.3 million in one-time funding and $1 million in recurring funding to the National Institute of Minority Economic Development to support western North Carolina recovery from Hurricane Helene, expand women's business centers, and provide community economic development services across the state.",
+  "aiProArguments": "Supporters argue this bill provides necessary financial assistance to western North Carolina residents whose homes were damaged by Hurricane Helene, helping with long-term housing recovery. They contend the funding strengthens community economic development services and women's business support programs, which can create jobs and build economic resilience in underserved regions across the state.",
+  "aiConArguments": "Opponents may question whether $20.3 million in one-time funding is sufficient for long-term housing recovery needs or whether these funds should come from federal disaster assistance instead of state general funds. Some may also raise concerns about whether allocating these resources through a single nonprofit organization is the most efficient approach, or whether other agencies or direct assistance methods would better serve affected residents.",
+  "topic": "Taxes & Budget",
+  "textLength": 2268,
+  "createdAt": "2026-06-23T03:00:10.785Z",
+  "sponsors": [
+    {"peopleId":20515,"name":"Zack Forde-Hawkins","party":"D","isPrimary":true},
+    {"peopleId":22599,"name":"Amber Baker","party":"D","isPrimary":false},
+    {"peopleId":24200,"name":"Laura Budd","party":"D","isPrimary":false},
+    {"peopleId":19238,"name":"Deb Butler","party":"D","isPrimary":false},
+    {"peopleId":24202,"name":"Maria Cervania","party":"D","isPrimary":false},
+    {"peopleId":25846,"name":"Mike Colvin","party":"D","isPrimary":false},
+    {"peopleId":2077,"name":"Mary Harrison","party":"D","isPrimary":false},
+    {"peopleId":20521,"name":"Carolyn Logan","party":"D","isPrimary":false},
+    {"peopleId":17149,"name":"Brian Turner","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

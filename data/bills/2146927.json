@@ -1,0 +1,30 @@
+{
+  "billId": 2146927,
+  "billNumber": "S1004",
+  "title": "Family Support for Those Who Serve Act",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "c9d4284c7045e744d52ba15357a88739",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2026-05-04",
+  "url": "https://legiscan.com/NC/bill/S1004/2025",
+  "aiSummary": "This bill expands tuition waivers at North Carolina community colleges to include children (ages 17-24) of law enforcement officers, experienced correctional officers, and firefighters who are actively serving. Previously, tuition waivers were limited to survivors of officers killed in the line of duty or children of officers permanently disabled in service. The new provision applies to all children of these public safety employees, regardless of disability or death status.",
+  "aiProArguments": "Supporters argue this bill honors and supports public safety families by making community college education more accessible and affordable to their children. They contend that providing educational benefits helps recruit and retain quality officers in law enforcement, corrections, and firefighting by demonstrating state support for their families. Proponents also note that community college attendance can lead to better career prospects and stronger community contributions.",
+  "aiConArguments": "Opponents may argue this expands state spending on education benefits without clear cost estimates or budget offsets, potentially straining community college resources. They might question whether tuition waivers should be limited to cases of duty-related injury or death rather than extended to all active officers' children, noting other groups (military families, low-income students) also face education affordability challenges. Some may also raise concerns about fairness in distributing limited education benefits across different populations.",
+  "topic": "Education",
+  "textLength": 6031,
+  "createdAt": "2026-06-23T03:12:32.709Z",
+  "sponsors": [
+    {"peopleId":24225,"name":"Benton Sawrey","party":"R","isPrimary":true},
+    {"peopleId":25250,"name":"Dana Jones","party":"R","isPrimary":true},
+    {"peopleId":20504,"name":"Lisa Barnes","party":"R","isPrimary":true},
+    {"peopleId":17147,"name":"Gale Adcock","party":"D","isPrimary":false},
+    {"peopleId":24220,"name":"Val Applewhite","party":"D","isPrimary":false},
+    {"peopleId":20505,"name":"Sydney Batch","party":"D","isPrimary":false},
+    {"peopleId":25858,"name":"Sophia Chitlik","party":"D","isPrimary":false},
+    {"peopleId":21633,"name":"Natalie Murdock","party":"D","isPrimary":false},
+    {"peopleId":11862,"name":"Norman Sanderson","party":"R","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

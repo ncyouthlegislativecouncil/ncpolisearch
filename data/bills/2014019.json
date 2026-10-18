@@ -1,0 +1,23 @@
+{
+  "billId": 2014019,
+  "billNumber": "S699",
+  "title": "Adult Care Home Medicaid PCS Coverage",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "484345c0a72a71b145d9a5f1c309660f",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-26",
+  "url": "https://legiscan.com/NC/bill/S699/2025",
+  "aiSummary": "This bill directs North Carolina's Department of Health and Human Services to request federal approval from the Centers for Medicare and Medicaid Services to extend Medicaid coverage for personal care services to certain low-income individuals living in adult care homes. The coverage would apply to people whose income is slightly above the current eligibility threshold but still falls between 180-200% of the federal poverty level, and any new costs must be offset by savings elsewhere.",
+  "aiProArguments": "Supporters argue this bill helps vulnerable seniors and disabled individuals who currently fall into a coverage gap—earning too much for current assistance programs but still struggling financially. By extending Medicaid coverage for personal care services in adult care homes rather than nursing homes, proponents contend the state could reduce costs while allowing people to receive care in less restrictive settings. This addresses recommendations from previous legislative studies to improve access to alternatives to nursing home placements.",
+  "aiConArguments": "Opponents may be concerned about the fiscal impact and whether the promised cost offsets will actually materialize, particularly given the requirement that new Medicaid spending be fully offset. Some may question whether expanding Medicaid eligibility is the most efficient use of limited state resources compared to other health care priorities. There could also be concerns about administrative complexity in implementing a new coverage category or uncertainty about federal CMS approval.",
+  "topic": "Healthcare",
+  "textLength": 2280,
+  "createdAt": "2026-06-23T03:10:06.469Z",
+  "sponsors": [
+    {"peopleId":21663,"name":"David Craven","party":"R","isPrimary":true},
+    {"peopleId":12009,"name":"William Jackson","party":"R","isPrimary":true},
+    {"peopleId":24225,"name":"Benton Sawrey","party":"R","isPrimary":true}
+  ],
+  "rollCalls": []
+}

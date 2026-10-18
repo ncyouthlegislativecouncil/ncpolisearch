@@ -1,0 +1,21 @@
+{
+  "billId": 1992498,
+  "billNumber": "S238",
+  "title": "Edgecombe and Pitt County School Nurses",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "90685d7f76363bb215b1292eba76a7cf",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2025-03-06",
+  "url": "https://legiscan.com/NC/bill/S238/2025",
+  "aiSummary": "This bill appropriates $530,000 to Edgecombe County Public Schools and $1,675,000 to Pitt County Schools to fund at least one full-time school nurse in every public school in each county, starting July 1, 2025. The funds are recurring, meaning they continue beyond the initial fiscal year, and are meant to supplement existing school nurse funding rather than replace it.",
+  "aiProArguments": "Supporters argue that having a full-time nurse in every school improves student health outcomes, addresses staff shortages in school nursing, and ensures consistent access to healthcare services for all students regardless of school size or location. They contend that investing in school nurses reduces student absences due to health issues, helps identify health problems early, and better supports students with chronic conditions and mental health needs.",
+  "aiConArguments": "Opponents may question whether this targeted regional funding is equitable when other counties lack similar resources, express concern about the $2.2 million total cost during budget constraints, or argue that the funds might be better spent on other educational priorities. Some may also question whether the state should fund positions that have traditionally been a local school district responsibility, or whether alternative approaches to addressing nurse shortages would be more cost-effective.",
+  "topic": "Education",
+  "textLength": 1510,
+  "createdAt": "2026-06-23T03:06:02.529Z",
+  "sponsors": [
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":true}
+  ],
+  "rollCalls": []
+}

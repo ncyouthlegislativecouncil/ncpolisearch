@@ -1,0 +1,32 @@
+{
+  "billId": 2019379,
+  "billNumber": "H760",
+  "title": "Bloodborne Pathogen Training for Tattooists",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "5816a231e5f1b14bbde317719e33fa2d",
+  "lastAction": "Ref To Com On Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-04-07",
+  "url": "https://legiscan.com/NC/bill/H760/2025",
+  "aiSummary": "This bill requires tattooists in North Carolina to complete annual bloodborne pathogen training that meets federal OSHA standards in order to obtain or renew their tattooing permit. The Department of Health and Human Services must verify completion of this training before issuing or renewing a permit, and failure to complete the training can result in permit denial or non-renewal.",
+  "aiProArguments": "Supporters argue this bill protects public health by ensuring tattooists understand how to prevent transmission of serious bloodborne diseases like HIV and hepatitis B and C. They contend that requiring evidence-based safety training reduces health risks to tattoo clients and establishes a professional safety standard in an industry that involves breaking the skin barrier.",
+  "aiConArguments": "Opponents may argue the bill creates additional regulatory burden and costs for tattooists, particularly small business owners, by mandating annual training and requiring compliance verification. Some may question whether annual training is necessary if the underlying safety standards and sanitation procedures remain unchanged, or argue that existing permit renewal processes are sufficient without adding this specific requirement.",
+  "topic": "Healthcare",
+  "textLength": 3714,
+  "createdAt": "2026-06-23T02:57:20.448Z",
+  "sponsors": [
+    {"peopleId":20528,"name":"Julie von Haefen","party":"D","isPrimary":true},
+    {"peopleId":22422,"name":"Sarah Crawford","party":"D","isPrimary":true},
+    {"peopleId":22600,"name":"Terry Brown","party":"D","isPrimary":true},
+    {"peopleId":25844,"name":"Julia Greenfield","party":"D","isPrimary":true},
+    {"peopleId":22599,"name":"Amber Baker","party":"D","isPrimary":false},
+    {"peopleId":25846,"name":"Mike Colvin","party":"D","isPrimary":false},
+    {"peopleId":25851,"name":"Aisha Dew","party":"D","isPrimary":false},
+    {"peopleId":2077,"name":"Mary Harrison","party":"D","isPrimary":false},
+    {"peopleId":24206,"name":"Frances Jackson","party":"D","isPrimary":false},
+    {"peopleId":20522,"name":"Nasif Majeed","party":"D","isPrimary":false},
+    {"peopleId":24213,"name":"Lindsey Prather","party":"D","isPrimary":false},
+    {"peopleId":18462,"name":"Amos Quick","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

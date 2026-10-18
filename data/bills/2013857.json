@@ -1,0 +1,21 @@
+{
+  "billId": 2013857,
+  "billNumber": "S494",
+  "title": "Limit the Scope of Certificate of Need Laws",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "1fd935972ee336e8f62708665d86ae40",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-26",
+  "url": "https://legiscan.com/NC/bill/S494/2025",
+  "aiSummary": "This bill eliminates North Carolina's Certificate of Need (CON) requirements for most counties, keeping them only in counties with populations under 100,000 that have at least one functioning hospital. It also creates a new category of ambulatory surgical facilities that can opt out of CON requirements if they meet certain criteria and maintain minimum charity care standards.",
+  "aiProArguments": "Supporters argue that eliminating CON requirements in most counties reduces regulatory barriers that slow down healthcare expansion and investment, allowing new facilities and services to open faster and potentially increasing healthcare access and competition. They contend that in larger, more competitive markets, CON laws are unnecessary and that removing them will encourage innovation and lower costs by letting providers respond more quickly to community needs.",
+  "aiConArguments": "Opponents worry that eliminating CON protections could lead to overbuilding of profitable services in wealthy areas while underserving rural and low-income communities, since providers may cluster in lucrative markets. They argue that CON laws help ensure healthcare resources are distributed equitably and prevent costly duplication of expensive equipment and services, and that the charity care requirements imposed on new ambulatory surgical facilities may be insufficient to protect vulnerable populations.",
+  "topic": "Healthcare",
+  "textLength": 8135,
+  "createdAt": "2026-06-23T03:08:20.685Z",
+  "sponsors": [
+    {"peopleId":20518,"name":"Steve Jarvis","party":"R","isPrimary":true}
+  ],
+  "rollCalls": []
+}

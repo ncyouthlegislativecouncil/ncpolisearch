@@ -1,0 +1,33 @@
+{
+  "billId": 2010390,
+  "billNumber": "H452",
+  "title": "Revise Law/Obstruction of Health Facility",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "5bd022fb8f37c4c5df1b3b0c9dc1a1ff",
+  "lastAction": "Ref To Com On Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-03-20",
+  "url": "https://legiscan.com/NC/bill/H452/2025",
+  "aiSummary": "This bill revises North Carolina's law against obstructing health care facilities by adding a new restriction on protesting near health care entrances. The bill creates a new offense that prohibits people from approaching within 8 feet of another person (without consent) to hand out leaflets, display signs, or engage in protest, education, or counseling within 100 feet of any health care facility entrance. The bill also increases criminal penalties for repeat violations of obstruction laws.",
+  "aiProArguments": "Supporters argue this bill protects patients and healthcare workers from harassment and intimidation while accessing or providing medical services. They contend that the 8-foot buffer zone and 100-foot radius are reasonable restrictions that allow peaceful protest while preventing aggressive confrontations that could deter people from seeking necessary healthcare. Proponents also argue that increased penalties for repeat offenses deter dangerous behavior at health facilities.",
+  "aiConArguments": "Opponents argue the bill restricts free speech and peaceful protest rights by creating broad limitations on where and how people can engage in lawful expression near health care facilities. They contend the 8-foot approach restriction and 100-foot radius are vague and could criminalize protected activity, and they question whether such restrictions are necessary or proportionate to the stated problems. Concerns also exist about how the law would be enforced and whether it unfairly targets certain groups or viewpoints.",
+  "topic": "Criminal Justice & Public Safety",
+  "textLength": 2246,
+  "createdAt": "2026-06-23T02:51:59.727Z",
+  "sponsors": [
+    {"peopleId":25844,"name":"Julia Greenfield","party":"D","isPrimary":true},
+    {"peopleId":24199,"name":"Kanika Brown","party":"D","isPrimary":true},
+    {"peopleId":25849,"name":"Monika Johnson-Hostler","party":"D","isPrimary":true},
+    {"peopleId":14612,"name":"Carla Cunningham","party":"D","isPrimary":true},
+    {"peopleId":18451,"name":"Mary Belk","party":"D","isPrimary":false},
+    {"peopleId":24198,"name":"Gloristine Brown","party":"D","isPrimary":false},
+    {"peopleId":2044,"name":"Becky Carney","party":"D","isPrimary":false},
+    {"peopleId":25213,"name":"Tracy Clark","party":"D","isPrimary":false},
+    {"peopleId":20509,"name":"Allison Dahle","party":"D","isPrimary":false},
+    {"peopleId":2077,"name":"Mary Harrison","party":"D","isPrimary":false},
+    {"peopleId":20515,"name":"Zack Forde-Hawkins","party":"D","isPrimary":false},
+    {"peopleId":20521,"name":"Carolyn Logan","party":"D","isPrimary":false},
+    {"peopleId":20528,"name":"Julie von Haefen","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

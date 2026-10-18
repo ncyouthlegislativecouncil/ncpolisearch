@@ -1,0 +1,26 @@
+{
+  "billId": 2014618,
+  "billNumber": "S745",
+  "title": "Child Care Center Capacity Amendment Act",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "0ce36f564c499c655e71da9b4a515aff",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-26",
+  "url": "https://legiscan.com/NC/bill/S745/2025",
+  "aiSummary": "This bill increases the maximum group sizes allowed for infants and toddlers in North Carolina child care centers and modifies nap time supervision rules for one-year-olds. It creates two voluntary enhanced requirement tiers that allow larger groups if centers maintain specific staff-to-child ratios, and aligns nap time supervision standards between one-year-olds and two-year-olds.",
+  "aiProArguments": "Supporters argue this bill addresses child care capacity shortages and affordability by allowing centers to serve more children per group when they meet enhanced staffing ratios, which could increase available child care slots and potentially reduce costs for families. They contend the enhanced requirements ensure safety is maintained while giving centers operational flexibility to expand services.",
+  "aiConArguments": "Opponents may argue that increasing group sizes, even with maintained staff ratios, could negatively impact the quality of care and individual attention young children receive, particularly infants who may benefit from smaller group environments. Concerns may also include whether the enhanced voluntary standards will actually be adopted by centers or whether the increased supervision flexibility during nap time adequately protects the youngest children.",
+  "topic": "Social Services & Welfare",
+  "textLength": 2827,
+  "createdAt": "2026-06-23T03:10:29.696Z",
+  "sponsors": [
+    {"peopleId":17936,"name":"Jay Chaudhuri","party":"D","isPrimary":true},
+    {"peopleId":20216,"name":"Jim Burgin","party":"R","isPrimary":true},
+    {"peopleId":25860,"name":"Woodson Bradley","party":"D","isPrimary":false},
+    {"peopleId":20223,"name":"Mujtaba Mohammed","party":"D","isPrimary":false},
+    {"peopleId":12032,"name":"Gladys Robinson","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

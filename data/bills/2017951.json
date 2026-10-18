@@ -1,0 +1,32 @@
+{
+  "billId": 2017951,
+  "billNumber": "H644",
+  "title": "DOT Study on Fort Bragg Traffic Congestion",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "d5b6b87d973448dc22463fb16c8393cb",
+  "lastAction": "Ref to the Com on Appropriations, if favorable, Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-04-02",
+  "url": "https://legiscan.com/NC/bill/H644/2025",
+  "aiSummary": "This bill appropriates $500,000 to the North Carolina Department of Transportation to study ways to reduce traffic congestion on roads near Fort Bragg between Vass Road and NC Highway 87. The study will examine potential solutions including expanded rail routes and other surface transportation options.",
+  "aiProArguments": "Supporters argue that Fort Bragg is a major military installation and economic hub, and reducing traffic congestion in the area could improve quality of life for residents and military personnel, boost economic productivity, and make the region more attractive for business development. A comprehensive study can identify cost-effective solutions and explore alternatives like rail that might address the problem long-term.",
+  "aiConArguments": "Opponents may question whether $500,000 is sufficient for a meaningful study or whether the funds would be better spent on direct road improvements rather than additional analysis. Some may also be skeptical about the feasibility or cost-effectiveness of alternatives like expanded rail in a rural area, and whether a localized study adequately addresses broader regional transportation challenges.",
+  "topic": "Transportation & Infrastructure",
+  "textLength": 1202,
+  "createdAt": "2026-06-23T02:55:52.346Z",
+  "sponsors": [
+    {"peopleId":24206,"name":"Frances Jackson","party":"D","isPrimary":true},
+    {"peopleId":24212,"name":"Joe Pike","party":"R","isPrimary":true},
+    {"peopleId":25846,"name":"Mike Colvin","party":"D","isPrimary":true},
+    {"peopleId":22608,"name":"Diane Wheatley","party":"R","isPrimary":true},
+    {"peopleId":22599,"name":"Amber Baker","party":"D","isPrimary":false},
+    {"peopleId":22600,"name":"Terry Brown","party":"D","isPrimary":false},
+    {"peopleId":20509,"name":"Allison Dahle","party":"D","isPrimary":false},
+    {"peopleId":2077,"name":"Mary Harrison","party":"D","isPrimary":false},
+    {"peopleId":20515,"name":"Zack Forde-Hawkins","party":"D","isPrimary":false},
+    {"peopleId":24210,"name":"Tim Longest","party":"D","isPrimary":false},
+    {"peopleId":22615,"name":"Howard Penny","party":"R","isPrimary":false},
+    {"peopleId":2115,"name":"Garland Pierce","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

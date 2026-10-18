@@ -1,0 +1,26 @@
+{
+  "billId": 2147006,
+  "billNumber": "S1060",
+  "title": "Milit. Sexual Trauma/Study Comm./Pilot Prog",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "deac48908362866d57475924573e9a90",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2026-05-05",
+  "url": "https://legiscan.com/NC/bill/S1060/2025",
+  "aiSummary": "This bill establishes a Military Sexual Trauma Study Commission to research sexual assault and harassment in North Carolina's military populations and creates a two-year pilot program providing support services including a 24/7 hotline, counseling, legal referral, and peer support to active duty service members, National Guard members, veterans, and military families. The bill appropriates $3 million total to implement both initiatives.",
+  "aiProArguments": "Supporters argue that military sexual trauma is a serious problem that undermines military readiness and service member well-being, and that North Carolina has a responsibility to support its military-connected populations who may struggle to navigate federal and civilian support systems. They contend that a state-level pilot program with peer support and navigation services fills gaps in existing care, particularly for geographically dispersed National Guard and reserve component members, while a study commission will provide evidence to guide future statewide implementation.",
+  "aiConArguments": "Opponents may argue that military sexual trauma support and investigation are primarily federal responsibilities under the Department of Defense, raising questions about whether state-level duplication is necessary or efficient. Some may also express concern about the $3 million recurring budget appropriation and whether state resources would be better spent on other priorities, or question whether a two-year pilot program provides sufficient time to gather meaningful data before deciding on permanent expansion.",
+  "topic": "Healthcare",
+  "textLength": 9571,
+  "createdAt": "2026-06-23T03:13:02.243Z",
+  "sponsors": [
+    {"peopleId":24220,"name":"Val Applewhite","party":"D","isPrimary":true},
+    {"peopleId":25859,"name":"Caleb Theodros","party":"D","isPrimary":true},
+    {"peopleId":25858,"name":"Sophia Chitlik","party":"D","isPrimary":true},
+    {"peopleId":20223,"name":"Mujtaba Mohammed","party":"D","isPrimary":false},
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

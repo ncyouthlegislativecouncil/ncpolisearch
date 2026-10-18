@@ -1,0 +1,30 @@
+{
+  "billId": 1985184,
+  "billNumber": "H241",
+  "title": "Funds for Person County Projects",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "cdce0422e5518fdde4320cde01aa09c3",
+  "lastAction": "Ref to the Com on Appropriations, if favorable, Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-03-03",
+  "url": "https://legiscan.com/NC/bill/H241/2025",
+  "aiSummary": "This bill appropriates $15.8 million in state funds for three specific projects in Person County: $10 million for wastewater treatment plant repairs in Roxboro, $800,000 for a splash pad in Person County parks, and $5 million for equipment and upgrades at Piedmont Community College's health and trades center. The funds come from the state General Fund and are designated as one-time, nonrecurring appropriations.",
+  "aiProArguments": "Supporters argue this bill addresses critical infrastructure needs in Person County, including aging wastewater systems that require upgrades for public health and safety. They contend that investments in community recreation facilities and workforce training equipment at the community college boost economic development, attract residents and businesses, and create job training opportunities in healthcare and advanced trades sectors.",
+  "aiConArguments": "Opponents may argue that directing $15.8 million to a single county raises equity concerns about whether other North Carolina counties with similar needs receive equal funding consideration. Critics might also question whether these projects represent the best use of limited state General Fund resources compared to statewide priorities, and note that one-time appropriations may not provide sustainable long-term funding for ongoing maintenance and operations.",
+  "topic": "Taxes & Budget",
+  "textLength": 1604,
+  "createdAt": "2026-06-23T02:45:42.625Z",
+  "sponsors": [
+    {"peopleId":24208,"name":"Ray Jeffers","party":"D","isPrimary":true},
+    {"peopleId":21631,"name":"Vernetta Alston","party":"D","isPrimary":false},
+    {"peopleId":22599,"name":"Amber Baker","party":"D","isPrimary":false},
+    {"peopleId":24198,"name":"Gloristine Brown","party":"D","isPrimary":false},
+    {"peopleId":22600,"name":"Terry Brown","party":"D","isPrimary":false},
+    {"peopleId":24200,"name":"Laura Budd","party":"D","isPrimary":false},
+    {"peopleId":20509,"name":"Allison Dahle","party":"D","isPrimary":false},
+    {"peopleId":20515,"name":"Zack Forde-Hawkins","party":"D","isPrimary":false},
+    {"peopleId":20522,"name":"Nasif Majeed","party":"D","isPrimary":false},
+    {"peopleId":18462,"name":"Amos Quick","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

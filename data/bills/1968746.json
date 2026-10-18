@@ -1,0 +1,24 @@
+{
+  "billId": 1968746,
+  "billNumber": "S98",
+  "title": "Funds for Dolly Parton's Imagination Library",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "d46f1f7ee764c9ffd72ecae85c7da4b5",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2025-02-17",
+  "url": "https://legiscan.com/NC/bill/S98/2025",
+  "aiSummary": "This bill appropriates $1.5 million per year for the 2025-2027 fiscal years to fund Dolly Parton's Imagination Library in North Carolina. The Imagination Library is an early literacy program that mails age-appropriate books to registered children monthly through the North Carolina Partnership for Children, Inc.",
+  "aiProArguments": "Supporters argue that this program promotes early childhood literacy and reading habits by providing free books directly to families. They contend that increased access to books helps prepare children for school success and supports child development, particularly for lower-income families who may have limited resources to purchase books.",
+  "aiConArguments": "Opponents may argue about the appropriate use of limited state funds and whether this program represents the best investment of taxpayer money compared to other education or child development priorities. Some may question whether state funding is necessary when the Imagination Library already operates in North Carolina and whether private donations could support the program instead.",
+  "topic": "Education",
+  "textLength": 987,
+  "createdAt": "2026-06-23T03:04:54.522Z",
+  "sponsors": [
+    {"peopleId":11937,"name":"Ralph Hise","party":"R","isPrimary":true},
+    {"peopleId":20216,"name":"Jim Burgin","party":"R","isPrimary":true},
+    {"peopleId":17936,"name":"Jay Chaudhuri","party":"D","isPrimary":false},
+    {"peopleId":17457,"name":"Paul Lowe","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

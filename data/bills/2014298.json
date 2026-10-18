@@ -1,0 +1,29 @@
+{
+  "billId": 2014298,
+  "billNumber": "S611",
+  "title": "Allow Consecutive Remote License Renewals",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "b5693bcfbe6e41d7d388c26af69bdc0b",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-26",
+  "url": "https://legiscan.com/NC/bill/S611/2025",
+  "aiSummary": "This bill allows North Carolina drivers with non-REAL ID compliant licenses to renew remotely twice in a row, instead of requiring an in-person renewal after the first remote renewal. REAL ID compliant licenses would continue to follow the existing rule allowing only one remote renewal before requiring an in-person renewal. The change takes effect January 1, 2026.",
+  "aiProArguments": "Supporters argue this bill increases convenience for drivers by reducing trips to DMV offices, saving time and travel costs. They contend that allowing two consecutive remote renewals for non-REAL ID licenses streamlines the renewal process while still requiring periodic in-person verification to maintain security and accuracy in driver records.",
+  "aiConArguments": "Opponents may argue that allowing multiple consecutive remote renewals without in-person verification could reduce the ability to catch fraud, identity theft, or changes in a driver's medical or legal status. They might also express concern about creating inconsistent rules between REAL ID compliant and non-compliant licenses, or worry that removing the requirement for periodic in-person contact weakens identity verification standards.",
+  "topic": "Transportation & Infrastructure",
+  "textLength": 1662,
+  "createdAt": "2026-06-23T03:09:19.559Z",
+  "sponsors": [
+    {"peopleId":24222,"name":"Lisa Grafstein","party":"D","isPrimary":true},
+    {"peopleId":21633,"name":"Natalie Murdock","party":"D","isPrimary":true},
+    {"peopleId":20510,"name":"Terence Everitt","party":"D","isPrimary":true},
+    {"peopleId":20505,"name":"Sydney Batch","party":"D","isPrimary":false},
+    {"peopleId":25860,"name":"Woodson Bradley","party":"D","isPrimary":false},
+    {"peopleId":20220,"name":"Michael Garrett","party":"D","isPrimary":false},
+    {"peopleId":22426,"name":"DeAndrea Salvador","party":"D","isPrimary":false},
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

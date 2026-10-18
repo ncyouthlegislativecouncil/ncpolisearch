@@ -1,0 +1,23 @@
+{
+  "billId": 2010486,
+  "billNumber": "H454",
+  "title": "Review of Federal Acts/Rules/Regulations",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "c2473d8b00e3d38cd48790e01d3f167d",
+  "lastAction": "Ref To Com On Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-03-20",
+  "url": "https://legiscan.com/NC/bill/H454/2025",
+  "aiSummary": "This bill allows the North Carolina General Assembly to review federal laws, rules, and executive orders to determine if they are constitutional. It prohibits state agencies, local governments, and state-funded organizations from implementing federal actions that restrict rights or that the General Assembly or Attorney General declares unconstitutional in specific areas like health emergencies, natural resources, education, and firearms regulation.",
+  "aiProArguments": "Supporters argue this bill protects North Carolina's sovereignty and citizens from federal overreach by allowing the state to challenge federal actions it believes violate the Constitution. They contend the state should have mechanisms to resist unconstitutional federal mandates in areas like education, health policy, and environmental regulation, giving elected representatives a voice in protecting state and individual rights.",
+  "aiConArguments": "Opponents worry this bill could lead states to ignore federal law without proper court review, creating legal chaos and allowing the state to pick and choose which laws to follow. They argue only federal courts can determine constitutionality, not state legislatures, and that this could undermine the rule of law and create conflicts between state and federal authority in critical areas like public health and civil rights.",
+  "topic": "Other / General Government",
+  "textLength": 3322,
+  "createdAt": "2026-06-23T02:52:02.984Z",
+  "sponsors": [
+    {"peopleId":20519,"name":"Keith Kidwell","party":"R","isPrimary":true},
+    {"peopleId":22613,"name":"Ben Moss","party":"R","isPrimary":true},
+    {"peopleId":24212,"name":"Joe Pike","party":"R","isPrimary":true}
+  ],
+  "rollCalls": []
+}

@@ -1,0 +1,24 @@
+{
+  "billId": 1946961,
+  "billNumber": "S27",
+  "title": "Restore Down-Zoning Auth./Multiple Counties",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "b829df2d3bf0ed34d4c7706ffe27cf75",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-01-30",
+  "url": "https://legiscan.com/NC/bill/S27/2025",
+  "aiSummary": "This bill restores the ability of local governments in 10 northeastern North Carolina counties to initiate down-zoning (reducing development density or permitted uses on property) without requiring written consent from all affected property owners. A recent state law required such consent; this bill carves out an exception allowing local governments to proceed on their own.",
+  "aiProArguments": "Supporters argue that local governments need flexibility to manage land use and community development through down-zoning without being blocked by individual property owners. They contend that requiring unanimous property owner consent can prevent communities from implementing necessary zoning changes that serve broader public interests like environmental protection, infrastructure management, or neighborhood character preservation.",
+  "aiConArguments": "Opponents argue that down-zoning can significantly reduce property values and development rights, and property owners should have protection against such changes without their consent. They contend that the requirement for owner consent protects property rights and prevents local governments from making unilateral decisions that harm individual landowners' interests and financial investments.",
+  "topic": "Local Government",
+  "textLength": 1994,
+  "createdAt": "2026-06-23T03:04:17.196Z",
+  "sponsors": [
+    {"peopleId":20513,"name":"Bobby Hanig","party":"R","isPrimary":true},
+    {"peopleId":25212,"name":"Bob Brinson","party":"R","isPrimary":false},
+    {"peopleId":11853,"name":"Mark Hollo","party":"R","isPrimary":false},
+    {"peopleId":17457,"name":"Paul Lowe","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

@@ -1,0 +1,24 @@
+{
+  "billId": 2146885,
+  "billNumber": "S973",
+  "title": "DOA Agency Requests",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "3a82b76c409e989704ae83fba74b36c5",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2026-05-04",
+  "url": "https://legiscan.com/NC/bill/S973/2025",
+  "aiSummary": "This bill makes four operational changes to how North Carolina's Department of Administration manages state property and facilities. It requires quarterly reports on state-owned facilities needing repairs, allows faster sales of seized vehicles with low value, permits electronic signatures on property transactions, and expands options for advertising state property leases beyond just newspapers.",
+  "aiProArguments": "Supporters argue this bill improves government efficiency by requiring better tracking of state facilities to reduce maintenance costs and unnecessary leasing expenses. The provisions for electronic signatures and expanded advertising methods modernize outdated procedures, making property transactions faster and giving more businesses access to state leasing opportunities. The $50,000 appropriation for reporting provides necessary tools to manage the state's real estate portfolio more effectively.",
+  "aiConArguments": "Opponents may be concerned that reducing newspaper advertising requirements for property leases could limit public notice and transparency, potentially benefiting fewer bidders. Some might question whether the quarterly facility reporting adds bureaucratic burden without guaranteeing cost savings. Additionally, critics could argue the bill doesn't specify oversight mechanisms to ensure the new electronic signature provisions maintain adequate security and documentation standards for state property transactions.",
+  "topic": "Other / General Government",
+  "textLength": 13593,
+  "createdAt": "2026-06-23T03:12:18.220Z",
+  "sponsors": [
+    {"peopleId":20216,"name":"Jim Burgin","party":"R","isPrimary":true},
+    {"peopleId":17147,"name":"Gale Adcock","party":"D","isPrimary":false},
+    {"peopleId":17936,"name":"Jay Chaudhuri","party":"D","isPrimary":false},
+    {"peopleId":25859,"name":"Caleb Theodros","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

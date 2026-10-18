@@ -1,0 +1,30 @@
+{
+  "billId": 2146049,
+  "billNumber": "S855",
+  "title": "Community-Based Pharmacy Protections",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "b01946a7a6f4b0074a95a5b1d728ea81",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2026-04-29",
+  "url": "https://legiscan.com/NC/bill/S855/2025",
+  "aiSummary": "This bill expands the legal definition of 'independent pharmacy' in North Carolina to include community-based pharmacies under independent ownership that are either non-publicly traded or have pharmacy as their core business focus, rather than limiting the definition to groups of 10 or fewer pharmacies. It also appropriates $100,000 to the Department of Insurance for implementation of pharmacy-related regulations.",
+  "aiProArguments": "Supporters argue this bill helps protect locally-owned, community pharmacies from being squeezed out by large pharmacy chains and corporate consolidation. By broadening the definition of independent pharmacy, smaller pharmacy owners can better compete, maintain local healthcare services, and potentially qualify for protections or programs designed to support independent operators. This supports community-based healthcare access and local business ownership.",
+  "aiConArguments": "Opponents may argue the bill could create regulatory complexity by expanding who qualifies as 'independent,' potentially affecting insurance reimbursement rates or program eligibility in unintended ways. There could also be concerns about whether the $100,000 appropriation is sufficient for implementation, or whether broadening the definition without clearer operational standards could create loopholes or enforcement challenges for regulators.",
+  "topic": "Business & Labor",
+  "textLength": 1314,
+  "createdAt": "2026-06-23T03:11:19.152Z",
+  "sponsors": [
+    {"peopleId":11937,"name":"Ralph Hise","party":"R","isPrimary":true},
+    {"peopleId":22423,"name":"Amy Galey","party":"R","isPrimary":true},
+    {"peopleId":20216,"name":"Jim Burgin","party":"R","isPrimary":true},
+    {"peopleId":14615,"name":"Carl Ford","party":"R","isPrimary":false},
+    {"peopleId":20518,"name":"Steve Jarvis","party":"R","isPrimary":false},
+    {"peopleId":25250,"name":"Dana Jones","party":"R","isPrimary":false},
+    {"peopleId":26462,"name":"Chris Measmer","party":"R","isPrimary":false},
+    {"peopleId":11858,"name":"Timothy Moffitt","party":"R","isPrimary":false},
+    {"peopleId":11862,"name":"Norman Sanderson","party":"R","isPrimary":false},
+    {"peopleId":24226,"name":"Eddie Settle","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

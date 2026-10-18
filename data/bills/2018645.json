@@ -1,0 +1,28 @@
+{
+  "billId": 2018645,
+  "billNumber": "H707",
+  "title": "Drones/Certain Vendor Purchases Prohibited",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "025978060feed0ace8e50d807aad0abe",
+  "lastAction": "Re-ref Com On Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-04-15",
+  "url": "https://legiscan.com/NC/bill/H707/2025",
+  "aiSummary": "This bill prohibits North Carolina state government and local government agencies from purchasing drones (unmanned aircraft) manufactured or assembled by certain foreign entities, specifically those connected to China or Russia, or those on U.S. government screening lists. The prohibition applies to any purchase using state funds, including through contracts and grants, and makes violating contracts void.",
+  "aiProArguments": "Supporters argue this bill protects North Carolina's security and privacy by preventing the state from funding technology that could be used for surveillance or espionage by foreign adversaries. They contend that drones from these foreign entities may contain vulnerabilities or monitoring capabilities that threaten public safety and government operations, and that states should prioritize domestic or allied manufacturers to strengthen supply chain security.",
+  "aiConArguments": "Opponents argue this bill may increase costs for state and local agencies by limiting their purchasing options to potentially more expensive alternatives, which could strain already tight government budgets. They also contend that the restrictions could face legal challenges based on interstate commerce concerns and that security risks may be overstated if proper cybersecurity measures and regulations are already in place.",
+  "topic": "Technology & Privacy",
+  "textLength": 1981,
+  "createdAt": "2026-06-23T02:56:42.024Z",
+  "sponsors": [
+    {"peopleId":11866,"name":"John Torbett","party":"R","isPrimary":true},
+    {"peopleId":22603,"name":"Dudley Greene","party":"R","isPrimary":true},
+    {"peopleId":22612,"name":"Charles Miller","party":"R","isPrimary":true},
+    {"peopleId":22946,"name":"Reece Pyrtle","party":"R","isPrimary":true},
+    {"peopleId":24890,"name":"Eric Ager","party":"D","isPrimary":false},
+    {"peopleId":22965,"name":"Donnie Loftis","party":"R","isPrimary":false},
+    {"peopleId":20522,"name":"Nasif Majeed","party":"D","isPrimary":false},
+    {"peopleId":24219,"name":"Bill Ward","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

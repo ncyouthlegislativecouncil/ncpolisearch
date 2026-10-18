@@ -1,0 +1,28 @@
+{
+  "billId": 2146405,
+  "billNumber": "H1091",
+  "title": "DWI Modernization Act of 2026",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "1731a729a058c2fc91b825af21b41989",
+  "lastAction": "Ref to the Com on Judiciary 2, if favorable, Finance, if favorable, Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2026-04-30",
+  "url": "https://legiscan.com/NC/bill/H1091/2025",
+  "aiSummary": "This bill modernizes North Carolina's DWI enforcement and prevention laws by requiring written explanations when judges find no probable cause in DWI cases, increasing restoration fees for license revocation ($250 for DWI offenses), allowing oral drug screening tests as evidence of probable cause, establishing the same alcohol rules for ride-share drivers as bus drivers, giving repeat offenders a path to conditional license restoration through treatment programs, and making it a felony to provide alcohol to minors whose drinking causes serious injury.",
+  "aiProArguments": "Supporters argue this bill protects public safety by strengthening DWI enforcement and making it harder for repeat offenders to drive unsupervised. The written explanations of no-probable-cause findings increase transparency and help identify weak cases. Higher fees ensure impaired drivers help fund testing programs and jail costs. Oral drug screening tests reduce courtroom delays. Making ride-share drivers follow the same alcohol rules as bus drivers protects passengers. The new felony for providing alcohol to minors who then cause serious injury adds accountability. Conditional license restoration rewards offenders who complete treatment, reducing recidivism while maintaining safety requirements like ignition interlocks.",
+  "aiConArguments": "Opponents may argue the higher restoration fees ($250 versus current amounts) create financial hardship for low-income offenders trying to restore driving privileges, potentially keeping them off roads longer. The requirement that magistrates provide written findings adds administrative burden to courts already facing backlogs. Allowing preliminary screening test results as probable cause evidence could be seen as lowering evidentiary standards. The felony provision for providing alcohol when minors are injured might apply to cases where the connection between the provider and injury is indirect. Shorter hearing timeframes (10 days instead of potentially longer) may not give defendants adequate time to prepare their defense.",
+  "topic": "Criminal Justice & Public Safety",
+  "textLength": 47263,
+  "createdAt": "2026-06-23T03:01:41.225Z",
+  "sponsors": [
+    {"peopleId":24890,"name":"Eric Ager","party":"D","isPrimary":true},
+    {"peopleId":26663,"name":"Anna Ferguson","party":"R","isPrimary":true},
+    {"peopleId":25843,"name":"Brian Echevarria","party":"R","isPrimary":true},
+    {"peopleId":24212,"name":"Joe Pike","party":"R","isPrimary":true},
+    {"peopleId":24199,"name":"Kanika Brown","party":"D","isPrimary":false},
+    {"peopleId":26662,"name":"Amanda Cook","party":"D","isPrimary":false},
+    {"peopleId":24219,"name":"Bill Ward","party":"R","isPrimary":false},
+    {"peopleId":17158,"name":"Shelly Willingham","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

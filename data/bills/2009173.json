@@ -1,0 +1,26 @@
+{
+  "billId": 2009173,
+  "billNumber": "H424",
+  "title": "Gaming Laws/Allow Certain Social Games",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "463edd8f80e81d0fc3a97d662036c6ba",
+  "lastAction": "Re-ref Com On Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-04-15",
+  "url": "https://legiscan.com/NC/bill/H424/2025",
+  "aiSummary": "This bill allows North Carolinians to play certain social games like poker, bridge, mahjong, and canasta with money bets in private homes or community clubhouses without violating gaming laws, as long as no one profits from hosting and games occur no more than once per week. It also increases the number of annual 'game night' fundraising events that nonprofit organizations can hold from four to twenty-four per calendar year.",
+  "aiProArguments": "Supporters argue this bill protects personal freedom by allowing adults to engage in traditional social games with friends and family without legal consequences, similar to laws in many other states. They contend it also helps nonprofits and community organizations raise funds more flexibly through game night events, which are charitable fundraising activities with clear restrictions to prevent exploitation.",
+  "aiConArguments": "Opponents may argue the bill could enable illegal gambling operations disguised as private games, as enforcement becomes difficult in private settings. They may also express concerns that increasing game night events from four to twenty-four annually could normalize gambling in communities and potentially create pathways to more problematic gambling behavior, despite the bill's stated safeguards.",
+  "topic": "Criminal Justice & Public Safety",
+  "textLength": 3320,
+  "createdAt": "2026-06-23T02:51:06.608Z",
+  "sponsors": [
+    {"peopleId":22609,"name":"David Willis","party":"R","isPrimary":true},
+    {"peopleId":21377,"name":"Jake Johnson","party":"R","isPrimary":true},
+    {"peopleId":20515,"name":"Zack Forde-Hawkins","party":"D","isPrimary":true},
+    {"peopleId":22607,"name":"Steve Tyson","party":"R","isPrimary":true},
+    {"peopleId":22616,"name":"Ray Pickett","party":"R","isPrimary":false},
+    {"peopleId":17158,"name":"Shelly Willingham","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

@@ -1,0 +1,25 @@
+{
+  "billId": 2146407,
+  "billNumber": "S895",
+  "title": "Nonprofit Hospitals Tax Exemption",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "22a7951e36d649030565d18b5580d5b8",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2026-04-30",
+  "url": "https://legiscan.com/NC/bill/S895/2025",
+  "aiSummary": "This bill modifies how nonprofit hospitals receive property tax and sales tax exemptions in North Carolina. Instead of exempting all hospital property from taxes, the bill limits exemptions to an amount equal to the actual cost of charity care the hospital provides to low-income uninsured and underinsured patients (those earning up to 300% of the federal poverty level).",
+  "aiProArguments": "Supporters argue this bill ensures tax exemptions directly correspond to charitable work that hospitals actually perform. By tying exemptions to documented charity care, the bill encourages hospitals to prioritize serving low-income patients and creates transparency about how public tax benefits are used. This approach targets tax relief to hospitals that demonstrate genuine charitable mission rather than providing blanket exemptions regardless of community benefit.",
+  "aiConArguments": "Opponents contend this bill may reduce tax exemptions for nonprofit hospitals, potentially limiting their financial resources for operations and services. They argue that measuring exemptions solely by charity care discounts other community benefits hospitals provide (such as emergency services, medical training, and public health initiatives). Hospitals may also face administrative burdens documenting and calculating precise charity care costs to justify exemptions year after year.",
+  "topic": "Taxes & Budget",
+  "textLength": 7516,
+  "createdAt": "2026-06-23T03:11:39.436Z",
+  "sponsors": [
+    {"peopleId":20216,"name":"Jim Burgin","party":"R","isPrimary":true},
+    {"peopleId":22425,"name":"Julie Mayfield","party":"D","isPrimary":true},
+    {"peopleId":24220,"name":"Val Applewhite","party":"D","isPrimary":false},
+    {"peopleId":21633,"name":"Natalie Murdock","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

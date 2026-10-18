@@ -1,0 +1,23 @@
+{
+  "billId": 1982641,
+  "billNumber": "S161",
+  "title": "The Jenesis Firearm Accountability Act",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "5348b4788e57722e59a0ee99ce85cac4",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-02-26",
+  "url": "https://legiscan.com/NC/bill/S161/2025",
+  "aiSummary": "This bill requires North Carolina firearm owners to report lost or stolen guns to law enforcement within 48 hours, with penalties ranging from warnings to fines up to $1,000. It also exempts firearm safety devices (like gun safes and locks) from sales tax and funds a public education campaign about the reporting requirement.",
+  "aiProArguments": "Supporters argue this bill helps law enforcement track firearms used in crimes and deters gun trafficking by requiring timely reporting of missing weapons. They contend it protects responsible gun owners by reducing criminal access to stolen firearms while offering immunity to owners who properly report losses, and that safety device tax exemptions encourage secure storage to prevent unauthorized access.",
+  "aiConArguments": "Opponents worry the bill creates practical enforcement challenges, such as owners forgetting the 48-hour deadline or struggling to determine exact loss times, potentially penalizing law-abiding citizens. They also express concerns that mandatory reporting combined with criminal liability when unreported stolen guns are used in crimes could discourage some firearm ownership and that the broad definitions of \"lost or stolen\" may be difficult to apply fairly.",
+  "topic": "Criminal Justice & Public Safety",
+  "textLength": 5924,
+  "createdAt": "2026-06-23T03:05:27.005Z",
+  "sponsors": [
+    {"peopleId":24220,"name":"Val Applewhite","party":"D","isPrimary":true},
+    {"peopleId":25860,"name":"Woodson Bradley","party":"D","isPrimary":true},
+    {"peopleId":25859,"name":"Caleb Theodros","party":"D","isPrimary":true}
+  ],
+  "rollCalls": []
+}

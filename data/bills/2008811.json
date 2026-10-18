@@ -1,0 +1,28 @@
+{
+  "billId": 2008811,
+  "billNumber": "S300",
+  "title": "NC REACH Act",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "1c95baf3acfd9ce4c29edf2fa7c8d257",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-18",
+  "url": "https://legiscan.com/NC/bill/S300/2025",
+  "aiSummary": "The NC REACH Act requires all students earning bachelor's degrees at UNC schools and associate degrees at North Carolina community colleges to complete at least three credit hours of American history or American government instruction. The courses must include reading seven specific foundational documents (Constitution, Declaration of Independence, Emancipation Proclamation, Federalist Papers essays, MLK's Letter from Birmingham Jail, Gettysburg Address, and NC State Constitution) and a final exam worth at least 20% of the grade. The bill also aligns similar requirements for high school Founding Principles courses.",
+  "aiProArguments": "Supporters argue this bill ensures all North Carolina graduates have foundational knowledge of American history, government, and constitutional principles essential for informed citizenship. They contend that requiring exposure to primary historical documents—including those addressing liberty, equality, and civil rights—strengthens civic understanding and prepares students to participate meaningfully in democracy. Proponents also note the bill allows flexibility through exemptions for AP, IB, AICE, and dual enrollment courses, and specifies requirements should not increase total degree credit hours.",
+  "aiConArguments": "Opponents argue the bill restricts institutional autonomy by imposing a one-size-fits-all curriculum mandate on universities and colleges that should determine their own academic standards. They contend that prescribing specific documents and exam requirements limits faculty academic freedom and may conflict with existing accreditation standards. Critics also raise concerns that this represents legislative micromanagement of higher education and could divert resources or create scheduling conflicts without improving educational outcomes.",
+  "topic": "Education",
+  "textLength": 11388,
+  "createdAt": "2026-06-23T03:06:32.288Z",
+  "sponsors": [
+    {"peopleId":11862,"name":"Norman Sanderson","party":"R","isPrimary":true},
+    {"peopleId":20513,"name":"Bobby Hanig","party":"R","isPrimary":true},
+    {"peopleId":22423,"name":"Amy Galey","party":"R","isPrimary":true},
+    {"peopleId":25212,"name":"Bob Brinson","party":"R","isPrimary":false},
+    {"peopleId":20222,"name":"Todd Johnson","party":"R","isPrimary":false},
+    {"peopleId":11858,"name":"Timothy Moffitt","party":"R","isPrimary":false},
+    {"peopleId":24224,"name":"Buck Newton","party":"R","isPrimary":false},
+    {"peopleId":24226,"name":"Eddie Settle","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

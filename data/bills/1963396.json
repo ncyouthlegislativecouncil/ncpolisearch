@@ -1,0 +1,33 @@
+{
+  "billId": 1963396,
+  "billNumber": "H80",
+  "title": "Prohibit LEO w/ICE at Farm/Construct. Sites",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "bc1062f53a3bf1b039e41a5a81f01007",
+  "lastAction": "Ref To Com On Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-02-11",
+  "url": "https://legiscan.com/NC/bill/H80/2025",
+  "aiSummary": "This bill prohibits North Carolina law enforcement agencies and officers from assisting U.S. Immigration and Customs Enforcement (ICE) in apprehending people or serving removal warrants on farmland, construction sites, and related agricultural facilities. The bill voids any existing agreements between local law enforcement and ICE that would violate this restriction and allows officers who willfully violate the ban to face certification suspension or revocation.",
+  "aiProArguments": "Supporters argue this bill protects North Carolina's agricultural and construction industries by preventing workplace disruptions from immigration enforcement actions, ensuring workers feel safe reporting crimes and injuries without fear of deportation. They contend that local law enforcement should focus on community policing and state criminal enforcement rather than federal immigration matters, and that this separation allows undocumented workers to participate in the economy without harassment at their workplaces.",
+  "aiConArguments": "Opponents argue this bill undermines federal immigration law enforcement and may shield individuals with serious criminal histories from accountability. They contend that tying the hands of local law enforcement prevents them from cooperating with federal authorities on legitimate immigration violations and that the bill's broad definition of covered sites could create safe zones where federal immigration law cannot be enforced, potentially conflicting with federal law and cooperation agreements.",
+  "topic": "Criminal Justice & Public Safety",
+  "textLength": 3456,
+  "createdAt": "2026-06-23T02:40:28.349Z",
+  "sponsors": [
+    {"peopleId":19238,"name":"Deb Butler","party":"D","isPrimary":true},
+    {"peopleId":24214,"name":"Renee Price","party":"D","isPrimary":true},
+    {"peopleId":2077,"name":"Mary Harrison","party":"D","isPrimary":true},
+    {"peopleId":24202,"name":"Maria Cervania","party":"D","isPrimary":true},
+    {"peopleId":22599,"name":"Amber Baker","party":"D","isPrimary":false},
+    {"peopleId":18451,"name":"Mary Belk","party":"D","isPrimary":false},
+    {"peopleId":24198,"name":"Gloristine Brown","party":"D","isPrimary":false},
+    {"peopleId":24199,"name":"Kanika Brown","party":"D","isPrimary":false},
+    {"peopleId":24200,"name":"Laura Budd","party":"D","isPrimary":false},
+    {"peopleId":25213,"name":"Tracy Clark","party":"D","isPrimary":false},
+    {"peopleId":20509,"name":"Allison Dahle","party":"D","isPrimary":false},
+    {"peopleId":19360,"name":"Marcia Morey","party":"D","isPrimary":false},
+    {"peopleId":20528,"name":"Julie von Haefen","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

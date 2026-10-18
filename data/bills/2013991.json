@@ -1,0 +1,28 @@
+{
+  "billId": 2013991,
+  "billNumber": "S526",
+  "title": "The Hands Free NC Act",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "fabde63bbaf4b6d3fa06f355debe4625",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-26",
+  "url": "https://legiscan.com/NC/bill/S526/2025",
+  "aiSummary": "The Hands Free NC Act makes it illegal for drivers to hold a wireless communication device while operating a motor vehicle on public roads, and prohibits watching videos or texting while driving. Drivers under 18 are completely banned from using wireless devices except for navigation and emergencies. The law creates a tiered penalty system starting at $100 for first violations and includes exceptions for emergency calls and first responders.",
+  "aiProArguments": "Supporters argue that distracted driving causes serious accidents and fatalities, and this law directly addresses that public safety concern by removing a major source of driver distraction. They contend the hands-free requirement allows for emergency communication and navigation while reducing dangerous behaviors like texting, and that the graduated penalty structure incentivizes compliance. Additionally, strict rules for drivers under 18 protect the most vulnerable new drivers during critical learning phases.",
+  "aiConArguments": "Opponents raise concerns about enforcement challenges, arguing police may struggle to distinguish between allowed hands-free use and prohibited handheld use, potentially leading to inconsistent application. Some question whether the law is overly broad, noting that hands-free devices still allow distracting communication, and worry about the limitation on local governments' ability to set their own standards. Others point out that determining what constitutes an \"emergency\" could create disputes and that the penalties may be considered burdensome for lower-income drivers.",
+  "topic": "Criminal Justice & Public Safety",
+  "textLength": 11859,
+  "createdAt": "2026-06-23T03:08:36.460Z",
+  "sponsors": [
+    {"peopleId":20216,"name":"Jim Burgin","party":"R","isPrimary":true},
+    {"peopleId":18454,"name":"Kevin Corbin","party":"R","isPrimary":true},
+    {"peopleId":25860,"name":"Woodson Bradley","party":"D","isPrimary":false},
+    {"peopleId":17936,"name":"Jay Chaudhuri","party":"D","isPrimary":false},
+    {"peopleId":24222,"name":"Lisa Grafstein","party":"D","isPrimary":false},
+    {"peopleId":22425,"name":"Julie Mayfield","party":"D","isPrimary":false},
+    {"peopleId":12032,"name":"Gladys Robinson","party":"D","isPrimary":false},
+    {"peopleId":25859,"name":"Caleb Theodros","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

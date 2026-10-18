@@ -1,0 +1,26 @@
+{
+  "billId": 2014230,
+  "billNumber": "S586",
+  "title": "Allergy Safe NC",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "273f8257d9fd2fe511b61518bb25b717",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-26",
+  "url": "https://legiscan.com/NC/bill/S586/2025",
+  "aiSummary": "This bill requires North Carolina child care facilities to implement specific safety measures for children with food allergies, including training staff to administer epinephrine, establishing food service policies that limit allergen exposure, and requiring immediate notification to parents and emergency services if an allergic reaction occurs.",
+  "aiProArguments": "Supporters argue this bill protects vulnerable children by ensuring child care staff are prepared to respond quickly to severe allergic reactions, which can be life-threatening. The requirement for clear food policies and parent notification helps prevent allergic incidents and keeps families informed about their child's safety while in care.",
+  "aiConArguments": "Opponents may argue the bill creates additional regulatory burdens and training costs for child care facilities, particularly smaller operations with limited budgets. Some may also question whether specific state mandates are necessary if facilities already follow general health and safety standards, or whether the requirements are detailed enough to be effectively implemented across diverse facility types.",
+  "topic": "Healthcare",
+  "textLength": 2456,
+  "createdAt": "2026-06-23T03:09:06.706Z",
+  "sponsors": [
+    {"peopleId":25858,"name":"Sophia Chitlik","party":"D","isPrimary":true},
+    {"peopleId":20220,"name":"Michael Garrett","party":"D","isPrimary":true},
+    {"peopleId":25860,"name":"Woodson Bradley","party":"D","isPrimary":false},
+    {"peopleId":21633,"name":"Natalie Murdock","party":"D","isPrimary":false},
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

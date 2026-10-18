@@ -1,0 +1,22 @@
+{
+  "billId": 2146786,
+  "billNumber": "S948",
+  "title": "Screen Free Schools Act",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "a14d816c97057c78f1804561c07ac9e3",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2026-05-04",
+  "url": "https://legiscan.com/NC/bill/S948/2025",
+  "aiSummary": "This bill requires North Carolina public schools to adopt policies limiting student use of wireless devices (phones, tablets, laptops, etc.) during instructional time, with stricter restrictions for younger grades. It also appropriates $930 million for teacher assistants in K-5 classrooms and allows parents to opt out of device issuance, while requiring print-based instruction for K-8.",
+  "aiProArguments": "Supporters argue that reducing screen time improves student focus, learning outcomes, and mental health by minimizing distractions and social media use during school. They believe the restrictions help create better learning environments, particularly for younger children, and that adding teacher assistants with the appropriated funds will improve classroom support and student achievement in elementary grades.",
+  "aiConArguments": "Opponents worry the restrictions limit access to valuable educational technology and online learning tools that prepare students for digital careers. They argue the significant $930 million cost for teacher assistants diverts resources from other school needs and that implementing and enforcing strict device policies across diverse school districts creates compliance burdens without proven effectiveness in improving academic performance.",
+  "topic": "Education",
+  "textLength": 7709,
+  "createdAt": "2026-06-23T03:12:07.172Z",
+  "sponsors": [
+    {"peopleId":25858,"name":"Sophia Chitlik","party":"D","isPrimary":true},
+    {"peopleId":17936,"name":"Jay Chaudhuri","party":"D","isPrimary":true}
+  ],
+  "rollCalls": []
+}

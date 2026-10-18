@@ -1,0 +1,23 @@
+{
+  "billId": 2000050,
+  "billNumber": "S267",
+  "title": "Amend Business Corporations Act",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "0bb7a397345e77961c1ef48bb28e9824",
+  "lastAction": "Re-ref to Judiciary. If fav, re-ref to Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-13",
+  "url": "https://legiscan.com/NC/bill/S267/2025",
+  "aiSummary": "This bill amends North Carolina's Business Corporations Act to modernize corporate governance rules. It allows corporations to limit director and officer liability through their articles of incorporation, clarifies emergency procedures for board meetings and shareholder meetings during catastrophic events, establishes forum selection rules for internal corporate disputes, prohibits bearer-form share certificates and scrip, refines derivative lawsuit procedures, clarifies board committee authority, and updates merger rules for parent entities and subsidiaries.",
+  "aiProArguments": "Supporters argue this bill modernizes North Carolina's corporate law to match other states and the Model Business Corporation Act, making the state more attractive for business incorporation. They contend it provides needed clarity on liability protections for officers and directors, streamlines emergency procedures to help corporations respond to crises, establishes predictable rules for internal corporate disputes through forum selection, and reduces litigation costs by establishing clearer standards for derivative lawsuits. The bill also addresses technical issues like eliminating bearer-form securities that create tracking and tax compliance problems.",
+  "aiConArguments": "Opponents may worry that expanded liability protections for officers and directors could reduce accountability for corporate misconduct and harm shareholders. They might argue that restricting where shareholder disputes can be filed could disadvantage individual investors by forcing cases into specific forums chosen by corporations. Concerns could also be raised that stricter derivative lawsuit procedures (including the 90-day waiting period and burden-of-proof standards) make it harder for shareholders to challenge questionable corporate decisions, potentially reducing shareholder protections.",
+  "topic": "Business & Labor",
+  "textLength": 28090,
+  "createdAt": "2026-06-23T03:06:15.851Z",
+  "sponsors": [
+    {"peopleId":22423,"name":"Amy Galey","party":"R","isPrimary":true},
+    {"peopleId":24225,"name":"Benton Sawrey","party":"R","isPrimary":true},
+    {"peopleId":11858,"name":"Timothy Moffitt","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

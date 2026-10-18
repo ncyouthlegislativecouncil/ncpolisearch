@@ -1,0 +1,32 @@
+{
+  "billId": 1971873,
+  "billNumber": "H132",
+  "title": "SchCalFlex/Cumberland/Open Cal",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "739cbe02b35d4db5e26d0518e80e26ab",
+  "lastAction": "Ref to the Com on Education - K-12, if favorable, Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-02-18",
+  "url": "https://legiscan.com/NC/bill/H132/2025",
+  "aiSummary": "This bill gives Cumberland County Schools flexibility in setting their school calendar by allowing them to open as early as the Monday closest to August 19 (instead of the standard August 26) if they can show they've had at least 8 days of weather-related closings in 4 of the last 10 years. The change takes effect for the 2025-2026 school year.",
+  "aiProArguments": "Supporters argue that Cumberland County schools face frequent weather-related closings that disrupt the school year, and this flexibility allows them to start earlier to build in extra days for those closures without extending the school year into late June. This helps maintain instructional consistency and gives the county more control over its own calendar based on its specific circumstances.",
+  "aiConArguments": "Opponents may be concerned that allowing earlier start dates affects summer employment opportunities for students and families, shifts childcare needs earlier in the year, and could set a precedent for other counties to request similar exemptions. Some may also question whether starting one week earlier actually solves weather disruption problems or simply moves them to earlier in the year.",
+  "topic": "Education",
+  "textLength": 2506,
+  "createdAt": "2026-06-23T02:42:25.325Z",
+  "sponsors": [
+    {"peopleId":24206,"name":"Frances Jackson","party":"D","isPrimary":true},
+    {"peopleId":22608,"name":"Diane Wheatley","party":"R","isPrimary":true},
+    {"peopleId":24216,"name":"Charles Smith","party":"D","isPrimary":true},
+    {"peopleId":25846,"name":"Mike Colvin","party":"D","isPrimary":true},
+    {"peopleId":24890,"name":"Eric Ager","party":"D","isPrimary":false},
+    {"peopleId":18451,"name":"Mary Belk","party":"D","isPrimary":false},
+    {"peopleId":24198,"name":"Gloristine Brown","party":"D","isPrimary":false},
+    {"peopleId":24200,"name":"Laura Budd","party":"D","isPrimary":false},
+    {"peopleId":2044,"name":"Becky Carney","party":"D","isPrimary":false},
+    {"peopleId":2077,"name":"Mary Harrison","party":"D","isPrimary":false},
+    {"peopleId":25853,"name":"Rodney Pierce","party":"D","isPrimary":false},
+    {"peopleId":14633,"name":"Dennis Riddell","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

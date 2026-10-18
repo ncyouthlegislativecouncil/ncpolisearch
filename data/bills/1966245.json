@@ -1,0 +1,33 @@
+{
+  "billId": 1966245,
+  "billNumber": "S89",
+  "title": "AEDs and CPR in Schools",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "b26f5d52e7a6584c8e91145b1eb86ba0",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2025-05-01",
+  "url": "https://legiscan.com/NC/bill/S89/2025",
+  "aiSummary": "This bill requires all North Carolina public schools, charter schools, and participating nonpublic schools to install at least two automatic external defibrillators (AEDs) in each school building and provide training to school staff on how to use them. The State Board of Education will establish rules for installation, maintenance, and training, and the bill appropriates $12 million to help schools purchase AEDs and train personnel.",
+  "aiProArguments": "Supporters argue that AEDs save lives during cardiac emergencies and that having them readily available in schools—where large numbers of students and staff gather—can prevent deaths from sudden cardiac arrest. They point out that quick access to an AED significantly improves survival rates, and that trained school personnel can use these devices safely and effectively before emergency responders arrive. The bill also provides funding to offset the costs for schools.",
+  "aiConArguments": "Opponents may raise concerns about the cost of purchasing, installing, and maintaining AEDs across all schools, even with state funding. Some question whether the $4,000 per school appropriation is sufficient for equipment and ongoing training, and whether one-time funding is adequate for recurring maintenance costs. Others may argue that schools already have limited budgets and resources, and may prefer to allocate funds to other priorities.",
+  "topic": "Education",
+  "textLength": 5169,
+  "createdAt": "2026-06-23T03:04:48.429Z",
+  "sponsors": [
+    {"peopleId":20513,"name":"Bobby Hanig","party":"R","isPrimary":true},
+    {"peopleId":17147,"name":"Gale Adcock","party":"D","isPrimary":false},
+    {"peopleId":24220,"name":"Val Applewhite","party":"D","isPrimary":false},
+    {"peopleId":25860,"name":"Woodson Bradley","party":"D","isPrimary":false},
+    {"peopleId":25858,"name":"Sophia Chitlik","party":"D","isPrimary":false},
+    {"peopleId":11937,"name":"Ralph Hise","party":"R","isPrimary":false},
+    {"peopleId":11853,"name":"Mark Hollo","party":"R","isPrimary":false},
+    {"peopleId":17457,"name":"Paul Lowe","party":"D","isPrimary":false},
+    {"peopleId":11858,"name":"Timothy Moffitt","party":"R","isPrimary":false},
+    {"peopleId":20223,"name":"Mujtaba Mohammed","party":"D","isPrimary":false},
+    {"peopleId":12032,"name":"Gladys Robinson","party":"D","isPrimary":false},
+    {"peopleId":25859,"name":"Caleb Theodros","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

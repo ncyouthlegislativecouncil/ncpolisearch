@@ -1,0 +1,33 @@
+{
+  "billId": 2016909,
+  "billNumber": "H577",
+  "title": "Protect Towers and Truckers Act",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "5cbe690e092db307be4e38f02445db8c",
+  "lastAction": "Re-ref Com On Finance",
+  "lastActionDate": "2025-06-11",
+  "url": "https://legiscan.com/NC/bill/H577/2025",
+  "aiSummary": "This bill creates a Commercial Motor Vehicle Towing and Recovery Commission to oversee towing fees and practices for commercial trucks. It requires tow operators to obtain permits from the Division of Motor Vehicles, establishes training and background check requirements, and sets rules for how towed vehicles and cargo are handled and returned to owners.",
+  "aiProArguments": "Supporters argue this bill protects truckers from excessive towing fees and unfair practices by establishing fee guidelines and a dispute resolution process. They contend it improves safety and professionalism in the towing industry through mandatory training and permitting, while giving law enforcement and state agencies better oversight of towing operations. The bill also ensures personal items are returned quickly and allows trailer swaps for cargo continuity.",
+  "aiConArguments": "Opponents may argue the permit requirements and training mandates create regulatory burden and costs for towing operators, potentially reducing competition and increasing service costs. Some may contend that fee guidelines could limit market pricing flexibility, and that background check requirements (especially the 10-year felony restriction for owners) are overly restrictive. Critics might also question whether a new commission and additional state oversight are necessary or cost-effective.",
+  "topic": "Business & Labor",
+  "textLength": 23139,
+  "createdAt": "2026-06-23T02:54:56.209Z",
+  "sponsors": [
+    {"peopleId":21375,"name":"Jeffrey McNeely","party":"R","isPrimary":true},
+    {"peopleId":25197,"name":"Jerry Branson","party":"R","isPrimary":true},
+    {"peopleId":24208,"name":"Ray Jeffers","party":"D","isPrimary":true},
+    {"peopleId":24199,"name":"Kanika Brown","party":"D","isPrimary":false},
+    {"peopleId":25842,"name":"Bryan Cohn","party":"D","isPrimary":false},
+    {"peopleId":2077,"name":"Mary Harrison","party":"D","isPrimary":false},
+    {"peopleId":20515,"name":"Zack Forde-Hawkins","party":"D","isPrimary":false},
+    {"peopleId":21377,"name":"Jake Johnson","party":"R","isPrimary":false},
+    {"peopleId":22613,"name":"Ben Moss","party":"R","isPrimary":false},
+    {"peopleId":25854,"name":"Dante Pittman","party":"D","isPrimary":false},
+    {"peopleId":22606,"name":"James Roberson","party":"D","isPrimary":false},
+    {"peopleId":22607,"name":"Steve Tyson","party":"R","isPrimary":false},
+    {"peopleId":17158,"name":"Shelly Willingham","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

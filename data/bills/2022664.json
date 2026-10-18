@@ -1,0 +1,30 @@
+{
+  "billId": 2022664,
+  "billNumber": "H983",
+  "title": "Prohibit Corporal Punishment in Schools",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "0a820ce5d3ec00ec09dffc8a2b1148ad",
+  "lastAction": "Ref To Com On Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-04-14",
+  "url": "https://legiscan.com/NC/bill/H983/2025",
+  "aiSummary": "This bill prohibits corporal punishment in North Carolina public schools statewide, changing current law that allows individual school districts to decide whether to permit it. The bill allows schools to continue using physical restraint and reasonable force for safety purposes, and requires schools to report data on discipline practices to the State Board of Education.",
+  "aiProArguments": "Supporters argue that over 80 research studies show corporal punishment does not improve academic outcomes and harms students' psychological and emotional development. They note that 31 states already ban it, no North Carolina school district currently permits it anyway, and major organizations including the State Board of Education and NC PTA recommend prohibition, making this a common-sense protection for children.",
+  "aiConArguments": "Opponents may argue that banning corporal punishment removes a discipline tool some educators believe is effective, and that the decision should remain with individual school districts and parents rather than state mandate. They might also contend that the bill's distinction between prohibited corporal punishment and permitted physical restraint could create confusion about what disciplinary methods are actually allowed.",
+  "topic": "Education",
+  "textLength": 7830,
+  "createdAt": "2026-06-23T03:00:02.594Z",
+  "sponsors": [
+    {"peopleId":24202,"name":"Maria Cervania","party":"D","isPrimary":true},
+    {"peopleId":19360,"name":"Marcia Morey","party":"D","isPrimary":true},
+    {"peopleId":18449,"name":"Cynthia Ball","party":"D","isPrimary":false},
+    {"peopleId":18451,"name":"Mary Belk","party":"D","isPrimary":false},
+    {"peopleId":19238,"name":"Deb Butler","party":"D","isPrimary":false},
+    {"peopleId":2077,"name":"Mary Harrison","party":"D","isPrimary":false},
+    {"peopleId":24213,"name":"Lindsey Prather","party":"D","isPrimary":false},
+    {"peopleId":24214,"name":"Renee Price","party":"D","isPrimary":false},
+    {"peopleId":26396,"name":"Phil Rubin","party":"D","isPrimary":false},
+    {"peopleId":17149,"name":"Brian Turner","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

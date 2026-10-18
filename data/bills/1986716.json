@@ -1,0 +1,25 @@
+{
+  "billId": 1986716,
+  "billNumber": "S194",
+  "title": "SchCalFlex/Char-Meck/CC",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "db256a44e89e0fe2f2c27bb596444e42",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-03",
+  "url": "https://legiscan.com/NC/bill/S194/2025",
+  "aiSummary": "This bill allows Charlotte-Mecklenburg Schools to align their school calendar with the calendar of local community colleges, providing flexibility beyond the standard state requirements that typically require schools to start no earlier than late August and end no later than mid-June. The change applies only to Charlotte-Mecklenburg Schools starting in the 2025-2026 school year.",
+  "aiProArguments": "Supporters argue that aligning K-12 and community college calendars improves coordination and efficiency for students, families, and staff who interact with both institutions. They contend this flexibility allows Charlotte-Mecklenburg Schools to better serve dual-enrollment students, reduce confusion about different start and end dates, and potentially facilitate better transitions for students moving between school levels.",
+  "aiConArguments": "Opponents may be concerned that allowing calendar flexibility could disrupt statewide consistency in academic scheduling and create complications for families with students in multiple school systems. Some worry this could disadvantage students in other districts or set a precedent for other districts seeking similar exemptions, potentially fragmenting the statewide calendar structure that helps with resource planning and standardization.",
+  "topic": "Education",
+  "textLength": 2678,
+  "createdAt": "2026-06-23T03:05:42.606Z",
+  "sponsors": [
+    {"peopleId":22426,"name":"DeAndrea Salvador","party":"D","isPrimary":true},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":true},
+    {"peopleId":20223,"name":"Mujtaba Mohammed","party":"D","isPrimary":true},
+    {"peopleId":25860,"name":"Woodson Bradley","party":"D","isPrimary":false},
+    {"peopleId":25859,"name":"Caleb Theodros","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

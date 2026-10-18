@@ -1,0 +1,27 @@
+{
+  "billId": 1999499,
+  "billNumber": "H363",
+  "title": "Reg. Public Trans. Authority Service Area",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "b3bd477b7be1ebfe2d01a3af414313aa",
+  "lastAction": "Serial Referral To Rules, Calendar, and Operations of the House Added",
+  "lastActionDate": "2025-04-17",
+  "url": "https://legiscan.com/NC/bill/H363/2025",
+  "aiSummary": "This bill modifies North Carolina law to allow regional public transportation authorities to operate buspool and vanpool services beyond their territorial boundaries without the current 10-mile distance limitation. The change exempts these specific services from geographic restrictions that apply to other public transportation operations.",
+  "aiProArguments": "Supporters argue this change increases transportation flexibility for commuters who work or travel outside a transit authority's service area, particularly benefiting carpooling and vanpool programs that reduce traffic congestion and emissions. They contend that buspool and vanpool services are more cost-efficient and environmentally friendly than traditional transit, and removing distance restrictions allows authorities to better serve regional employment centers and inter-regional commuter needs.",
+  "aiConArguments": "Opponents may be concerned that this expansion could allow one transit authority to operate services in areas where other authorities or local governments have jurisdiction, potentially creating service overlap or reducing accountability. They might also worry about adequate funding for expanded services or that authorities could prioritize profitable inter-regional routes over essential local transit service to underserved communities within their core service areas.",
+  "topic": "Transportation & Infrastructure",
+  "textLength": 11361,
+  "createdAt": "2026-06-23T02:49:26.274Z",
+  "sponsors": [
+    {"peopleId":16252,"name":"Robert Reives","party":"D","isPrimary":true},
+    {"peopleId":22615,"name":"Howard Penny","party":"R","isPrimary":true},
+    {"peopleId":18495,"name":"Donna White","party":"R","isPrimary":true},
+    {"peopleId":24214,"name":"Renee Price","party":"D","isPrimary":true},
+    {"peopleId":22599,"name":"Amber Baker","party":"D","isPrimary":false},
+    {"peopleId":24198,"name":"Gloristine Brown","party":"D","isPrimary":false},
+    {"peopleId":20515,"name":"Zack Forde-Hawkins","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

@@ -1,0 +1,26 @@
+{
+  "billId": 1990962,
+  "billNumber": "H285",
+  "title": "Funds for Laurinburg-Maxton Airport",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "43ce1d88c6963769187808be7ca24d9d",
+  "lastAction": "Ref to the Com on Appropriations, if favorable, Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-03-06",
+  "url": "https://legiscan.com/NC/bill/H285/2025",
+  "aiSummary": "This bill appropriates $52.5 million in state funding to the Southeast Regional Airport Authority for improvements at Laurinburg-Maxton Airport, including a $28 million runway extension, $15 million in airport capital projects, and $9.5 million in water and sewer infrastructure improvements. The funds come from the Highway Fund for fiscal year 2025-2026 and require quarterly reporting to legislative committees.",
+  "aiProArguments": "Supporters argue that this investment will modernize critical regional aviation infrastructure, potentially attracting more flights and economic activity to the Laurinburg-Maxton area. The runway extension and capital improvements could increase the airport's capacity and competitiveness, supporting local business development, job creation, and improved transportation connectivity for southeast North Carolina.",
+  "aiConArguments": "Opponents may question whether $52.5 million is an appropriate use of Highway Fund resources for a regional airport that may have limited commercial traffic, and whether the funds could address more pressing transportation needs elsewhere in the state. Some may also raise concerns about the financial sustainability of the airport long-term and whether the return on this investment justifies the significant state expenditure.",
+  "topic": "Transportation & Infrastructure",
+  "textLength": 1208,
+  "createdAt": "2026-06-23T02:47:24.535Z",
+  "sponsors": [
+    {"peopleId":2115,"name":"Garland Pierce","party":"D","isPrimary":true},
+    {"peopleId":22600,"name":"Terry Brown","party":"D","isPrimary":false},
+    {"peopleId":24200,"name":"Laura Budd","party":"D","isPrimary":false},
+    {"peopleId":20509,"name":"Allison Dahle","party":"D","isPrimary":false},
+    {"peopleId":24206,"name":"Frances Jackson","party":"D","isPrimary":false},
+    {"peopleId":20522,"name":"Nasif Majeed","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

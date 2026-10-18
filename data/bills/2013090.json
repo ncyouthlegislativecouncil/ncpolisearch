@@ -1,0 +1,21 @@
+{
+  "billId": 2013090,
+  "billNumber": "S417",
+  "title": "Posting of State Costs",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "5ef36c7fd9414e21e278d0c6fdc413f3",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-25",
+  "url": "https://legiscan.com/NC/bill/S417/2025",
+  "aiSummary": "This bill requires state entities—including UNC, principal state departments, courts, and the General Assembly—to publicly report all expenditures of $1.00 or more for property and services on a monthly basis. The Department of Administration and court/legislative websites must publish these itemized reports within 10 days, while protecting records that are confidential under state or federal law.",
+  "aiProArguments": "Supporters argue this bill increases government transparency and allows citizens to see how tax dollars are spent. It promotes accountability by making state spending data publicly accessible and helps legislators and taxpayers identify wasteful spending or unnecessary expenses across state government.",
+  "aiConArguments": "Opponents may argue the requirement creates significant administrative burden and cost for state agencies to collect and report every expenditure down to $1.00. They may also express concerns about privacy, cybersecurity risks from publishing detailed spending data, or that the reporting timeline is too tight for accurate compilation of information.",
+  "topic": "Taxes & Budget",
+  "textLength": 3802,
+  "createdAt": "2026-06-23T03:07:37.902Z",
+  "sponsors": [
+    {"peopleId":20216,"name":"Jim Burgin","party":"R","isPrimary":true}
+  ],
+  "rollCalls": []
+}

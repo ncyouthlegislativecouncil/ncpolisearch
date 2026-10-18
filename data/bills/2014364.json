@@ -1,0 +1,22 @@
+{
+  "billId": 2014364,
+  "billNumber": "S723",
+  "title": "DAC Exemption from State Device Content Ban",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "35a77399614358d7489e0af76094eed0",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-26",
+  "url": "https://legiscan.com/NC/bill/S723/2025",
+  "aiSummary": "This bill adds an exemption to North Carolina's state law that prohibits viewing pornography on government networks and devices. The exemption allows Department of Adult Correction (DAC) employees to access such content when investigating matters involving incarcerated offenders or misuse of DAC-owned devices, as part of their official duties.",
+  "aiProArguments": "Supporters argue this exemption is necessary because DAC investigators need to access and review explicit material as evidence when investigating crimes, security threats, or device misuse involving incarcerated individuals. Without this exemption, investigators would be unable to properly document and prosecute cases where pornography or explicit content is involved in criminal activity within correctional facilities.",
+  "aiConArguments": "Opponents may argue that the exemption is too broad and could allow inappropriate access to explicit content under the guise of official investigations. They may also contend that the existing exemptions for law enforcement investigations (subsection d(1)) should already cover DAC investigative needs, making an additional exemption unnecessary.",
+  "topic": "Criminal Justice & Public Safety",
+  "textLength": 1941,
+  "createdAt": "2026-06-23T03:10:19.553Z",
+  "sponsors": [
+    {"peopleId":20225,"name":"Ted Alexander","party":"R","isPrimary":true},
+    {"peopleId":22423,"name":"Amy Galey","party":"R","isPrimary":true}
+  ],
+  "rollCalls": []
+}

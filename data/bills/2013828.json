@@ -1,0 +1,23 @@
+{
+  "billId": 2013828,
+  "billNumber": "S485",
+  "title": "Prohibit Geoengineering",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "8ef6b1c1b9ebdd75f3fc1424d8f4f49c",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-26",
+  "url": "https://legiscan.com/NC/bill/S485/2025",
+  "aiSummary": "This bill prohibits the intentional release of substances into North Carolina's atmosphere to alter temperature, weather, or sunlight intensity through methods like stratospheric aerosol injection, cloud seeding, and electromagnetic radiation. The bill amends state environmental law to make atmospheric modification activities illegal and requires the Environmental Management Commission to create rules to enforce the prohibition.",
+  "aiProArguments": "Supporters argue that geoengineering technologies are unproven and potentially dangerous, with unknown long-term effects on weather patterns, agriculture, and human health. They contend that North Carolina should protect its environment and citizens by preventing unauthorized atmospheric experiments that could have unintended consequences across state borders and affect the state's economy and natural resources.",
+  "aiConArguments": "Opponents may argue that a blanket prohibition could prevent beneficial weather modification research or cloud seeding operations that have agricultural and drought-relief applications. They may also contend that geoengineering research might become necessary to address climate change, and that North Carolina's unilateral ban could limit scientific innovation without coordinating with federal authorities or other states that regulate these activities.",
+  "topic": "Environment & Energy",
+  "textLength": 1726,
+  "createdAt": "2026-06-23T03:08:16.396Z",
+  "sponsors": [
+    {"peopleId":24226,"name":"Eddie Settle","party":"R","isPrimary":true},
+    {"peopleId":11858,"name":"Timothy Moffitt","party":"R","isPrimary":true},
+    {"peopleId":11937,"name":"Ralph Hise","party":"R","isPrimary":true}
+  ],
+  "rollCalls": []
+}

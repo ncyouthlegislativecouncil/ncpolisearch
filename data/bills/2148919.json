@@ -1,0 +1,32 @@
+{
+  "billId": 2148919,
+  "billNumber": "H1230",
+  "title": "No Federal Interference in Elections",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "ce7c5d6d44eb9cbdc9d234175c08955a",
+  "lastAction": "Ref To Com On Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2026-05-12",
+  "url": "https://legiscan.com/NC/bill/H1230/2025",
+  "aiSummary": "This bill prohibits federal or state armed forces from being stationed at voting places for 17 days before through election day, except in emergencies or at the request of election officials, and it restricts state and county election boards from disclosing voters' personal information (like Social Security numbers, dates of birth, and driver's license numbers) to the federal government without a court order.",
+  "aiProArguments": "Supporters argue this bill protects election integrity and voter privacy by preventing what they view as potential federal overreach at polling places and ensuring sensitive voter data cannot be accessed by federal agencies without judicial oversight. They contend that armed federal presence at voting locations could intimidate voters or be used for political purposes, and that states should control voter information to prevent federal misuse.",
+  "aiConArguments": "Opponents may argue that the restrictions on armed presence could hamper legitimate federal law enforcement operations during elections, that the exceptions for law enforcement and election officer requests provide adequate safeguards, and that federal agencies need access to certain voter data for lawful purposes like investigating election fraud. They may also contend that the bill could complicate interstate coordination on election security matters.",
+  "topic": "Elections & Voting",
+  "textLength": 5065,
+  "createdAt": "2026-06-23T03:03:43.112Z",
+  "sponsors": [
+    {"peopleId":19360,"name":"Marcia Morey","party":"D","isPrimary":true},
+    {"peopleId":19238,"name":"Deb Butler","party":"D","isPrimary":true},
+    {"peopleId":24202,"name":"Maria Cervania","party":"D","isPrimary":true},
+    {"peopleId":2077,"name":"Mary Harrison","party":"D","isPrimary":true},
+    {"peopleId":24890,"name":"Eric Ager","party":"D","isPrimary":false},
+    {"peopleId":18451,"name":"Mary Belk","party":"D","isPrimary":false},
+    {"peopleId":24199,"name":"Kanika Brown","party":"D","isPrimary":false},
+    {"peopleId":25213,"name":"Tracy Clark","party":"D","isPrimary":false},
+    {"peopleId":25844,"name":"Julia Greenfield","party":"D","isPrimary":false},
+    {"peopleId":20521,"name":"Carolyn Logan","party":"D","isPrimary":false},
+    {"peopleId":24214,"name":"Renee Price","party":"D","isPrimary":false},
+    {"peopleId":22606,"name":"James Roberson","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

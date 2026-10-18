@@ -1,0 +1,26 @@
+{
+  "billId": 2013909,
+  "billNumber": "S495",
+  "title": "Regulation of Accessory Dwelling Units",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "3b8e2b8fc5571982afc461f966328fdb",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-26",
+  "url": "https://legiscan.com/NC/bill/S495/2025",
+  "aiSummary": "This bill requires North Carolina local governments to allow at least one accessory dwelling unit (a smaller residential structure on the same lot as a single-family home) in residential areas zoned for single-family homes. It sets statewide standards for how these units can be regulated, such as minimum size requirements and restrictions on parking and fees, while allowing local governments some flexibility on placement and other rules.",
+  "aiProArguments": "Supporters argue this bill increases affordable housing options by allowing homeowners to build additional units, which can provide rental income for property owners while creating cheaper housing for renters. They contend that state-level standards prevent local governments from imposing overly restrictive regulations that block housing development, and that accessory dwelling units make more efficient use of existing neighborhoods and infrastructure.",
+  "aiConArguments": "Opponents worry that allowing accessory dwelling units in single-family residential neighborhoods could increase density, parking problems, and strain on local utilities and services. Some are concerned that the bill limits local control over zoning decisions, and property owners in single-family neighborhoods may object to potential changes in their community character, though the bill does not override private deed restrictions or rules in homeowner associations.",
+  "topic": "Housing",
+  "textLength": 5049,
+  "createdAt": "2026-06-23T03:08:21.072Z",
+  "sponsors": [
+    {"peopleId":11858,"name":"Timothy Moffitt","party":"R","isPrimary":true},
+    {"peopleId":22425,"name":"Julie Mayfield","party":"D","isPrimary":true},
+    {"peopleId":25860,"name":"Woodson Bradley","party":"D","isPrimary":false},
+    {"peopleId":25858,"name":"Sophia Chitlik","party":"D","isPrimary":false},
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":false},
+    {"peopleId":25859,"name":"Caleb Theodros","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

@@ -1,0 +1,27 @@
+{
+  "billId": 2014241,
+  "billNumber": "S635",
+  "title": "Healthy Families & Workplaces/Paid Sick Leave",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "2fce02fb06c18f1adcf7f70a0a9c806b",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-26",
+  "url": "https://legiscan.com/NC/bill/S635/2025",
+  "aiSummary": "This bill requires North Carolina employers to provide employees with paid sick leave that accrues at a rate of one hour per 30 hours worked. Employees could use this time for their own illness, family member care, medical appointments, or situations involving domestic violence, sexual assault, or stalking. Small businesses (10 or fewer employees) would be limited to 32 hours annually, while larger employers would provide up to 56 hours annually.",
+  "aiProArguments": "Supporters argue this protects public health by allowing sick workers to stay home rather than spread illness at work, which is especially important in high-contact industries like childcare and food service. They contend it helps vulnerable workers—particularly low-wage and minority employees who currently lack sick leave—avoid losing pay during illness, while also providing crucial protections for domestic violence and sexual assault survivors who need time to seek help.",
+  "aiConArguments": "Opponents argue this creates significant costs and compliance burdens for businesses, particularly small employers already operating with tight margins. They contend the accrual requirements and potential liability for violations could increase administrative complexity and payroll expenses, and some question whether a state-level mandate is the most effective approach compared to market-driven benefits or federal solutions.",
+  "topic": "Business & Labor",
+  "textLength": 20622,
+  "createdAt": "2026-06-23T03:09:31.841Z",
+  "sponsors": [
+    {"peopleId":25860,"name":"Woodson Bradley","party":"D","isPrimary":true},
+    {"peopleId":25858,"name":"Sophia Chitlik","party":"D","isPrimary":true},
+    {"peopleId":22426,"name":"DeAndrea Salvador","party":"D","isPrimary":true},
+    {"peopleId":20220,"name":"Michael Garrett","party":"D","isPrimary":false},
+    {"peopleId":22425,"name":"Julie Mayfield","party":"D","isPrimary":false},
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

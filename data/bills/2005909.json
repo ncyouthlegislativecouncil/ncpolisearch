@@ -1,0 +1,30 @@
+{
+  "billId": 2005909,
+  "billNumber": "S281",
+  "title": "Essential Relief for Child Care Act",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "dbdb2f14542e3636ac74b4f58b640a32",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2025-03-17",
+  "url": "https://legiscan.com/NC/bill/S281/2025",
+  "aiSummary": "This bill appropriates $50 million in state funds to continue child care stabilization grants through the end of the 2024-2025 fiscal year. The grants help compensate child care providers and are intended to prevent facility closures and support families and employers relying on child care services.",
+  "aiProArguments": "Supporters argue that child care stabilization grants are critical for economic development and workforce stability, noting that one in five employers cite child care barriers when hiring. They contend that without continued funding, approximately 20% of child care facilities could close, leaving families without care options and preventing parents from working, which harms both families and the broader economy.",
+  "aiConArguments": "Opponents may argue that $50 million in nonrecurring General Fund spending adds to the state budget without establishing sustainable long-term funding, potentially creating dependence on temporary subsidies. Some may question whether direct grants to providers is the most efficient use of taxpayer money compared to other approaches, or express concerns about ongoing budget commitments in a tight fiscal environment.",
+  "topic": "Taxes & Budget",
+  "textLength": 1955,
+  "createdAt": "2026-06-23T03:06:22.134Z",
+  "sponsors": [
+    {"peopleId":25858,"name":"Sophia Chitlik","party":"D","isPrimary":true},
+    {"peopleId":12032,"name":"Gladys Robinson","party":"D","isPrimary":true},
+    {"peopleId":25860,"name":"Woodson Bradley","party":"D","isPrimary":true},
+    {"peopleId":24220,"name":"Val Applewhite","party":"D","isPrimary":false},
+    {"peopleId":20505,"name":"Sydney Batch","party":"D","isPrimary":false},
+    {"peopleId":24222,"name":"Lisa Grafstein","party":"D","isPrimary":false},
+    {"peopleId":20223,"name":"Mujtaba Mohammed","party":"D","isPrimary":false},
+    {"peopleId":21633,"name":"Natalie Murdock","party":"D","isPrimary":false},
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":false},
+    {"peopleId":25859,"name":"Caleb Theodros","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

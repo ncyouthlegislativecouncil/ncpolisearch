@@ -1,0 +1,21 @@
+{
+  "billId": 2010784,
+  "billNumber": "S342",
+  "title": "Funds for New Siler City Fire Station",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "a0f4baeb96533a03c4e226613f1b2e1b",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2025-03-24",
+  "url": "https://legiscan.com/NC/bill/S342/2025",
+  "aiSummary": "This bill appropriates $5 million in state funds to Siler City for constructing a new fire station. The funds are designated as a one-time grant and become available on July 1, 2025.",
+  "aiProArguments": "Supporters argue that a new fire station improves emergency response capabilities and public safety for Siler City residents. They contend that state funding helps communities that lack sufficient local resources to build critical infrastructure like fire stations, ensuring equitable access to emergency services across North Carolina.",
+  "aiConArguments": "Opponents may argue that $5 million in state funds for one municipality raises questions about fairness to other communities with similar needs and limited budgets. They might also express concern about whether nonrecurring state spending on local infrastructure is the best use of limited state General Fund resources, or whether Siler City should fund this through local bonds or revenue sources.",
+  "topic": "Taxes & Budget",
+  "textLength": 747,
+  "createdAt": "2026-06-23T03:06:56.840Z",
+  "sponsors": [
+    {"peopleId":21633,"name":"Natalie Murdock","party":"D","isPrimary":true}
+  ],
+  "rollCalls": []
+}

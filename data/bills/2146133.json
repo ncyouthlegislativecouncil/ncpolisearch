@@ -1,0 +1,21 @@
+{
+  "billId": 2146133,
+  "billNumber": "S893",
+  "title": "33rd Senatorial District Local Act-1",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "e41fff4a76a4e388aa11ac8577474160",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2026-04-29",
+  "url": "https://legiscan.com/NC/bill/S893/2025",
+  "aiSummary": "This is a local bill that applies only to North Carolina's 33rd Senatorial District. The bill text does not specify what changes or provisions it contains, only that it relates to that district and takes effect upon passage.",
+  "aiProArguments": "Supporters of local bills argue they allow the General Assembly to address specific, localized needs of particular districts without affecting the entire state. This targeted approach can be more efficient for solving problems unique to a region's circumstances.",
+  "aiConArguments": "Opponents of local bills raise concerns about transparency and equal treatment, arguing that the lack of detail in this bill makes it difficult for the public and legislators to understand what is actually being changed. They may also question whether local matters should be decided through the state legislature rather than local governance.",
+  "topic": "Local Government",
+  "textLength": 504,
+  "createdAt": "2026-06-23T03:11:38.391Z",
+  "sponsors": [
+    {"peopleId":14615,"name":"Carl Ford","party":"R","isPrimary":true}
+  ],
+  "rollCalls": []
+}

@@ -1,0 +1,27 @@
+{
+  "billId": 1984009,
+  "billNumber": "H230",
+  "title": "Create Crime for Habitual Domestic Violence",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "de129a29f8d83f0745b769246e73b05f",
+  "lastAction": "Ref to the Com on Judiciary 2, if favorable, Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-02-27",
+  "url": "https://legiscan.com/NC/bill/H230/2025",
+  "aiSummary": "This bill creates a new felony crime called 'habitual domestic violence' for people with two or more prior domestic violence convictions within 15 years, with penalties starting at Class H felony and increasing for repeat offenses. It also allows police officers to make warrantless arrests when they have probable cause to believe a misdemeanor domestic violence offense has occurred.",
+  "aiProArguments": "Supporters argue this bill protects domestic violence victims by imposing stricter penalties on repeat offenders and removing barriers to arrest. They contend that allowing warrantless arrests for domestic violence misdemeanors enables faster police response to prevent escalating violence and gives officers more tools to intervene before serious injury occurs.",
+  "aiConArguments": "Opponents may argue that warrantless arrest provisions could lead to over-policing and disproportionate arrests, particularly in vulnerable communities. They may also raise concerns about due process, the effectiveness of felony charges in deterring domestic violence, and whether escalating penalties adequately addresses root causes like substance abuse or mental health issues that often underlie these crimes.",
+  "topic": "Criminal Justice & Public Safety",
+  "textLength": 3908,
+  "createdAt": "2026-06-23T02:45:31.695Z",
+  "sponsors": [
+    {"peopleId":11866,"name":"John Torbett","party":"R","isPrimary":true},
+    {"peopleId":2038,"name":"William Brisson","party":"R","isPrimary":false},
+    {"peopleId":24208,"name":"Ray Jeffers","party":"D","isPrimary":false},
+    {"peopleId":22965,"name":"Donnie Loftis","party":"R","isPrimary":false},
+    {"peopleId":20521,"name":"Carolyn Logan","party":"D","isPrimary":false},
+    {"peopleId":24219,"name":"Bill Ward","party":"R","isPrimary":false},
+    {"peopleId":18495,"name":"Donna White","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

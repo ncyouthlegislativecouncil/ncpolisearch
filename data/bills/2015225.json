@@ -1,0 +1,22 @@
+{
+  "billId": 2015225,
+  "billNumber": "H539",
+  "title": "Revenue Neutral Rate Required",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "9cc98c8afead869e8e660ab06547c2b1",
+  "lastAction": "Ref to the Com on State and Local Government, if favorable, Finance, if favorable, Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-03-27",
+  "url": "https://legiscan.com/NC/bill/H539/2025",
+  "aiSummary": "This bill requires North Carolina local governments to set property tax rates at a 'revenue-neutral' level in years when they conduct a general reappraisal of property values. A revenue-neutral rate means the tax rate is adjusted so that the total tax revenue collected stays the same despite changes in property values from the reappraisal.",
+  "aiProArguments": "Supporters argue this bill protects property owners from unexpected tax increases caused by rising property values during reappraisals. By maintaining revenue-neutral rates, taxpayers would not see their total tax bills increase simply because their properties were revalued higher—the rate would be lowered proportionally to keep revenue stable. This provides predictability and fairness by separating property value changes from tax burden changes.",
+  "aiConArguments": "Opponents may argue this constrains local government budgeting flexibility during reappraisal years when they might have legitimate needs to increase revenue for services, infrastructure, or other priorities. Critics could contend that revenue-neutral requirements prevent communities from adjusting tax policy in response to changing local needs, and that property value increases should allow governments to capture additional revenue without raising rates. Some may also question whether this unfairly limits local control over taxation and budgeting decisions.",
+  "topic": "Taxes & Budget",
+  "textLength": 1524,
+  "createdAt": "2026-06-23T02:54:22.622Z",
+  "sponsors": [
+    {"peopleId":2034,"name":"John Blust","party":"R","isPrimary":true},
+    {"peopleId":20516,"name":"Chris Humphrey","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

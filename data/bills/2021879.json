@@ -1,0 +1,26 @@
+{
+  "billId": 2021879,
+  "billNumber": "H849",
+  "title": "Utility Forced Relocation Expenses",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "41e5c6741acd3303c591d50066ab217f",
+  "lastAction": "Ref to the Com on Energy and Public Utilities, if favorable, State and Local Government, if favorable, Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-04-10",
+  "url": "https://legiscan.com/NC/bill/H849/2025",
+  "aiSummary": "This bill shifts the financial responsibility for relocating utility facilities (like phone lines, broadband, water pipes, and wireless infrastructure) from utility companies to the government entities requiring the relocations. When state, city, or public authorities require utilities to move their infrastructure due to road construction or public projects, those government entities would now pay the relocation costs instead of the utility companies.",
+  "aiProArguments": "Supporters argue this bill prevents utility companies from passing relocation costs to consumers through higher rates and ensures that the public entities benefiting from infrastructure projects bear the true cost of those projects. They contend that when government initiates projects requiring utility relocations, it is fair for government to pay for those costs rather than having utility customers absorb them indirectly.",
+  "aiConArguments": "Opponents worry this bill will significantly increase costs to state and local governments, potentially straining budgets for transportation and public projects. They argue that utility companies can most efficiently manage their own relocations and that shifting costs to government could reduce funding available for other public services or delay necessary infrastructure improvements.",
+  "topic": "Transportation & Infrastructure",
+  "textLength": 7418,
+  "createdAt": "2026-06-23T02:58:33.136Z",
+  "sponsors": [
+    {"peopleId":22612,"name":"Charles Miller","party":"R","isPrimary":true},
+    {"peopleId":22946,"name":"Reece Pyrtle","party":"R","isPrimary":true},
+    {"peopleId":2122,"name":"Mitchell Setzer","party":"R","isPrimary":true},
+    {"peopleId":25848,"name":"Cody Huneycutt","party":"R","isPrimary":true},
+    {"peopleId":2086,"name":"Francis Iler","party":"R","isPrimary":false},
+    {"peopleId":24219,"name":"Bill Ward","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

@@ -1,0 +1,21 @@
+{
+  "billId": 2006552,
+  "billNumber": "S293",
+  "title": "Town of Pinetops Fire Dept. Appropriation",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "79b707c87daccafe7baf872638190e87",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2025-03-20",
+  "url": "https://legiscan.com/NC/bill/S293/2025",
+  "aiSummary": "This bill appropriates $100,000 from the state's General Fund to the Town of Pinetops for the 2025-2026 fiscal year to help its volunteer fire department purchase equipment. The funds are nonrecurring, meaning they are a one-time allocation rather than ongoing annual funding.",
+  "aiProArguments": "Supporters argue that volunteer fire departments provide essential emergency services and often lack adequate funding for necessary equipment like trucks, protective gear, and rescue tools. This appropriation helps a local community improve public safety and emergency response capability without placing the financial burden solely on the town's budget.",
+  "aiConArguments": "Opponents may argue that individual appropriations for specific towns set a precedent for other municipalities to request similar funding, potentially straining the state budget. They may also contend that fire department equipment funding should be a local responsibility or suggest that general revenue-sharing formulas would be more equitable than targeted appropriations to individual towns.",
+  "topic": "Taxes & Budget",
+  "textLength": 760,
+  "createdAt": "2026-06-23T03:06:28.754Z",
+  "sponsors": [
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":true}
+  ],
+  "rollCalls": []
+}

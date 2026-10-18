@@ -1,0 +1,21 @@
+{
+  "billId": 2037447,
+  "billNumber": "H1014",
+  "title": "Honor Efton Medford Sager, Former Member",
+  "status": "4",
+  "chamber": "H",
+  "changeHash": "666bb53f145e307073cfe20b1c3ebd53",
+  "lastAction": "Adopted",
+  "lastActionDate": "2025-06-24",
+  "url": "https://legiscan.com/NC/bill/H1014/2025",
+  "aiSummary": "This is a ceremonial House resolution that honors the life and memory of Efton Medford Sager, a former North Carolina House representative from District 11 (2009-2013) who also served as a Wayne County Commissioner. The resolution expresses appreciation for his service to his community, state, and nation, and extends sympathy to his family following his death on May 27, 2025.",
+  "aiProArguments": "Supporters of honoring resolutions like this argue they appropriately recognize the contributions of public servants and community leaders who have passed away. These resolutions allow the General Assembly to formally acknowledge a person's dedication to public service, military service, and civic involvement, while providing a meaningful gesture of respect to the family during their time of grief.",
+  "aiConArguments": "Some might argue that honoring resolutions consume legislative time and resources that could be devoted to substantive policy matters. Others may note that while these resolutions are intended as nonpartisan tributes, they can sometimes be viewed as selective in who receives such formal recognition, raising questions about consistency in how different public figures are commemorated.",
+  "topic": "Other / General Government",
+  "textLength": 2822,
+  "createdAt": "2026-06-23T03:03:59.470Z",
+  "sponsors": [
+    {"peopleId":2122,"name":"Mitchell Setzer","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

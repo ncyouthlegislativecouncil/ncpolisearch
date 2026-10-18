@@ -1,0 +1,22 @@
+{
+  "billId": 2144412,
+  "billNumber": "H1027",
+  "title": "Dunn and Erwin Satellite Annexation Change",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "543e454b2e56cce877550c4e7fd21046",
+  "lastAction": "Re-ref Com On Finance",
+  "lastActionDate": "2026-05-06",
+  "url": "https://legiscan.com/NC/bill/H1027/2025",
+  "aiSummary": "This bill removes the 10% satellite annexation cap for the City of Dunn and Town of Erwin, allowing them to annex noncontiguous areas of land without the size limitations that apply to most other North Carolina municipalities. The change is added to an existing list of cities and towns already exempt from this annexation restriction.",
+  "aiProArguments": "Supporters argue this gives Dunn and Erwin flexibility to pursue economic development and growth opportunities by annexing scattered parcels of land for business, industrial, or residential projects. Removing the cap allows these municipalities to expand their tax base and service areas to better serve their communities' long-term needs without being constrained by the 10% limit that applies elsewhere in the state.",
+  "aiConArguments": "Opponents may be concerned that removing annexation caps could lead to sprawling municipal boundaries that are difficult to service efficiently, potentially increasing costs for infrastructure and public services. They might also worry that the change could disadvantage unincorporated communities or neighboring municipalities by allowing Dunn and Erwin to annex valuable land without the same restrictions applied to other cities and towns.",
+  "topic": "Local Government",
+  "textLength": 2607,
+  "createdAt": "2026-06-23T03:00:34.364Z",
+  "sponsors": [
+    {"peopleId":22615,"name":"Howard Penny","party":"R","isPrimary":true},
+    {"peopleId":24212,"name":"Joe Pike","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

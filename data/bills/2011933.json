@@ -1,0 +1,21 @@
+{
+  "billId": 2011933,
+  "billNumber": "S377",
+  "title": "Licensing Course Removal/Insurance Producers",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "6a7ada06ab719f0a5207ff590153d1af",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-24",
+  "url": "https://legiscan.com/NC/bill/S377/2025",
+  "aiSummary": "This bill eliminates mandatory pre-licensing training course requirements for insurance producers in North Carolina. Instead of requiring applicants to complete a specific number of instructional hours before licensure, the bill allows the Commissioner to determine if an applicant has sufficient competence through other means, while still requiring applicants to pass an examination.",
+  "aiProArguments": "Supporters argue this bill reduces barriers to entry for insurance professionals and allows more flexible pathways into the industry. They contend that applicants with relevant work experience or education should not be forced to repeat standardized courses, and that the examination requirement still ensures consumer protection by verifying competency before licensing.",
+  "aiConArguments": "Opponents worry that removing mandatory training courses may lower industry standards and consumer protection. They argue that pre-licensing education ensures all producers understand fundamental insurance principles and regulatory requirements, and that eliminating this requirement could allow less-prepared individuals to obtain licenses based solely on passing an exam without adequate foundational knowledge.",
+  "topic": "Business & Labor",
+  "textLength": 5220,
+  "createdAt": "2026-06-23T03:07:16.826Z",
+  "sponsors": [
+    {"peopleId":20222,"name":"Todd Johnson","party":"R","isPrimary":true}
+  ],
+  "rollCalls": []
+}

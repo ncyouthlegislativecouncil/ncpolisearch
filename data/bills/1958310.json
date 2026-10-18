@@ -1,0 +1,26 @@
+{
+  "billId": 1958310,
+  "billNumber": "H68",
+  "title": "Restore Down-Zoning Auth./Granville & Vance",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "bd2990775c2352501d085a7d29d3e33c",
+  "lastAction": "Ref To Com On Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-02-10",
+  "url": "https://legiscan.com/NC/bill/H68/2025",
+  "aiSummary": "This bill restores the authority of local governments in Granville and Vance Counties to initiate down-zoning (reducing allowed development density or permitted uses on property) without needing written consent from all affected property owners. The change applies retroactively to December 11, 2024, and reverses a recent state law restriction on down-zoning authority.",
+  "aiProArguments": "Supporters argue that local governments need flexibility to manage land use and zoning to protect community character, preserve neighborhoods, and respond to local planning needs without being blocked by individual property owners. They contend that down-zoning authority is a standard planning tool that allows counties and municipalities to make decisions in the best interest of the broader community, such as preventing overdevelopment or preserving residential areas.",
+  "aiConArguments": "Opponents argue that down-zoning without owner consent reduces property rights and can decrease property values by restricting what owners can do with their land. They contend that property owners should have a voice in decisions that directly affect their property's development potential, and that requiring consent protects individual landowners from government actions that may harm their economic interests.",
+  "topic": "Local Government",
+  "textLength": 2029,
+  "createdAt": "2026-06-23T02:40:00.464Z",
+  "sponsors": [
+    {"peopleId":25842,"name":"Bryan Cohn","party":"D","isPrimary":true},
+    {"peopleId":24890,"name":"Eric Ager","party":"D","isPrimary":false},
+    {"peopleId":18451,"name":"Mary Belk","party":"D","isPrimary":false},
+    {"peopleId":22422,"name":"Sarah Crawford","party":"D","isPrimary":false},
+    {"peopleId":2077,"name":"Mary Harrison","party":"D","isPrimary":false},
+    {"peopleId":24214,"name":"Renee Price","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

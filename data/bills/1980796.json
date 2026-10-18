@@ -1,0 +1,21 @@
+{
+  "billId": 1980796,
+  "billNumber": "S137",
+  "title": "Restore Down-Zoning/Farmland Preservation",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "b1a5594def3506638b932221827dd339",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-02-25",
+  "url": "https://legiscan.com/NC/bill/S137/2025",
+  "aiSummary": "This bill restores the ability of local governments in Henderson County to reduce zoning restrictions on land for farmland preservation purposes without requiring property owner consent. Previously, North Carolina law required unanimous written consent from all affected property owners before any down-zoning could occur, but this bill creates an exception allowing counties and municipalities to initiate down-zoning for farmland preservation.",
+  "aiProArguments": "Supporters argue this bill protects agricultural land from development by giving local governments tools to preserve farms and open space. They contend that requiring unanimous property owner consent for farmland preservation down-zoning creates an impossible barrier, as even one owner can block protections that benefit the community. Proponents see this as necessary to combat sprawl and maintain Henderson County's rural character and agricultural heritage.",
+  "aiConArguments": "Opponents argue the bill reduces property rights by allowing government to restrict land use without owner consent, potentially reducing property values and development potential. They contend that property owners should control decisions about their own land and that farmland preservation should rely on voluntary programs, conservation easements, or incentives rather than government-mandated zoning restrictions. Critics worry this creates a precedent for similar exceptions to the down-zoning consent requirement in other counties.",
+  "topic": "Agriculture",
+  "textLength": 1967,
+  "createdAt": "2026-06-23T03:05:13.959Z",
+  "sponsors": [
+    {"peopleId":11858,"name":"Timothy Moffitt","party":"R","isPrimary":true}
+  ],
+  "rollCalls": []
+}

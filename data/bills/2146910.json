@@ -1,0 +1,27 @@
+{
+  "billId": 2146910,
+  "billNumber": "H1162",
+  "title": "Standing Up For Wilson County Vol. Fire Depts",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "fd458b4e81089b58ae94852bc2f78547",
+  "lastAction": "Ref to the Com on Appropriations, if favorable, Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2026-05-04",
+  "url": "https://legiscan.com/NC/bill/H1162/2025",
+  "aiSummary": "This bill appropriates $15 million in state funds to Wilson County for its volunteer fire departments to upgrade emergency lighting on fire trucks with blue lights that activate when vehicles are stationary, and for other fire equipment maintenance, updates, or replacements. The funds are designated as a one-time grant for the 2026-2027 fiscal year.",
+  "aiProArguments": "Supporters argue this funding improves public safety by enhancing visibility of emergency vehicles at accident scenes and during stops, which could reduce secondary accidents and injuries. They contend that volunteer fire departments often lack adequate resources for critical equipment upgrades, and this targeted state investment helps address infrastructure gaps while supporting emergency responders who serve their communities without pay.",
+  "aiConArguments": "Opponents may question why Wilson County receives this specific $15 million allocation when other counties' volunteer fire departments also face equipment funding challenges, raising concerns about fair distribution of state resources. They might also argue that fire department funding is typically a local or county responsibility, and that directing state general funds this way could set a precedent for similar requests from other counties across North Carolina.",
+  "topic": "Taxes & Budget",
+  "textLength": 1221,
+  "createdAt": "2026-06-23T03:02:47.069Z",
+  "sponsors": [
+    {"peopleId":25854,"name":"Dante Pittman","party":"D","isPrimary":true},
+    {"peopleId":18449,"name":"Cynthia Ball","party":"D","isPrimary":false},
+    {"peopleId":24198,"name":"Gloristine Brown","party":"D","isPrimary":false},
+    {"peopleId":24199,"name":"Kanika Brown","party":"D","isPrimary":false},
+    {"peopleId":22600,"name":"Terry Brown","party":"D","isPrimary":false},
+    {"peopleId":25844,"name":"Julia Greenfield","party":"D","isPrimary":false},
+    {"peopleId":25850,"name":"Jordan Lopez","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

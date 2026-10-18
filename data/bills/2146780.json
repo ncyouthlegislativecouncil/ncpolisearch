@@ -1,0 +1,24 @@
+{
+  "billId": 2146780,
+  "billNumber": "S980",
+  "title": "Adopt Official Hip-Hop Song",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "56c9fcdd36ae16bce5f475233ec5d989",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2026-05-05",
+  "url": "https://legiscan.com/NC/bill/S980/2025",
+  "aiSummary": "This bill designates the censored version of 'Raise Up' by North Carolina rapper Petey Pablo as the official hip-hop song of North Carolina. It also appropriates $6.5 million to the Department of Natural and Cultural Resources for a music heritage and tourism initiative that includes promotional campaigns, festivals, a hip-hop music trail, and a mobile app across several North Carolina cities.",
+  "aiProArguments": "Supporters argue this bill celebrates North Carolina's significant contributions to hip-hop music and honors local artists like Petey Pablo who have gained national recognition. The funding for the music heritage initiative could boost tourism, promote cultural events across the state, and support HBCUs and local communities through music-related economic development and programming.",
+  "aiConArguments": "Opponents may question whether $6.5 million in state funds is an appropriate use of taxpayer money for a music designation and tourism campaign, particularly when the state faces other budgetary priorities. Some may also debate whether one song should be elevated as 'the' official hip-hop song when North Carolina has many notable hip-hop artists and whether this spending is the most effective way to support the music industry.",
+  "topic": "Other / General Government",
+  "textLength": 2996,
+  "createdAt": "2026-06-23T03:12:21.104Z",
+  "sponsors": [
+    {"peopleId":21633,"name":"Natalie Murdock","party":"D","isPrimary":true},
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":true},
+    {"peopleId":22426,"name":"DeAndrea Salvador","party":"D","isPrimary":true},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

@@ -1,0 +1,23 @@
+{
+  "billId": 2013060,
+  "billNumber": "S404",
+  "title": "RIC FLAIR Act",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "f36e36e0c3fa62ee127e3db826a99366",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2025-03-25",
+  "url": "https://legiscan.com/NC/bill/S404/2025",
+  "aiSummary": "This bill appropriates $500,000 in state funding to the Department of Natural and Cultural Resources to study whether North Carolina should establish a professional wrestling museum. The department must report its findings and recommendations to the legislature by July 1, 2026.",
+  "aiProArguments": "Supporters argue this honors North Carolina's significant history in professional wrestling and could attract tourism and economic development to the state. They contend that a wrestling museum would celebrate an important part of American entertainment and popular culture with deep roots in North Carolina, potentially creating jobs and generating revenue.",
+  "aiConArguments": "Opponents may question whether a $500,000 feasibility study is the best use of state funds during budget constraints, and whether a wrestling museum would generate sufficient ongoing revenue and visitor interest to justify the investment. They might argue the state should prioritize funding for other cultural institutions or essential services over entertainment-focused attractions.",
+  "topic": "Other / General Government",
+  "textLength": 975,
+  "createdAt": "2026-06-23T03:07:31.417Z",
+  "sponsors": [
+    {"peopleId":17936,"name":"Jay Chaudhuri","party":"D","isPrimary":true},
+    {"peopleId":18465,"name":"Danny Britt","party":"R","isPrimary":true},
+    {"peopleId":11937,"name":"Ralph Hise","party":"R","isPrimary":true}
+  ],
+  "rollCalls": []
+}

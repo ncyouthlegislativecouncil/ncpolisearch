@@ -1,0 +1,26 @@
+{
+  "billId": 2011492,
+  "billNumber": "H469",
+  "title": "Restoring Rivalries Act",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "b007c6dac45fbe9d6fc3bb393d8de093",
+  "lastAction": "Ref to the Com on Higher Education, if favorable, State and Local Government, if favorable, Appropriations, if favorable, Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-03-24",
+  "url": "https://legiscan.com/NC/bill/H469/2025",
+  "aiSummary": "This bill requires North Carolina State University and the University of North Carolina at Chapel Hill to play each other regularly in football, basketball, baseball, and softball starting in the 2026-2027 academic year. Specifically, the schools must play at least one game per year in football and basketball, and at least three games per year in baseball and softball.",
+  "aiProArguments": "Supporters argue this bill restores historic rivalries that have been damaged by conference realignments driven by financial considerations. They contend that regular intrastate competition generates economic benefits through tourism and local business activity, increases fan engagement and school spirit, and preserves North Carolina's athletic traditions and legacy.",
+  "aiConArguments": "Opponents may argue this bill limits the schools' athletic scheduling flexibility and decision-making authority, potentially forcing them to prioritize in-state games over more financially beneficial conference matchups or neutral-site tournaments. They could also contend that the state legislature should not mandate specific scheduling decisions for university athletic departments, as these choices should remain with institutional leadership.",
+  "topic": "Education",
+  "textLength": 3549,
+  "createdAt": "2026-06-23T02:52:26.208Z",
+  "sponsors": [
+    {"peopleId":18460,"name":"Brenden Jones","party":"R","isPrimary":true},
+    {"peopleId":17876,"name":"Kyle Hall","party":"R","isPrimary":true},
+    {"peopleId":21375,"name":"Jeffrey McNeely","party":"R","isPrimary":true},
+    {"peopleId":25855,"name":"Mike Schietzelt","party":"R","isPrimary":true},
+    {"peopleId":25846,"name":"Mike Colvin","party":"D","isPrimary":false},
+    {"peopleId":22605,"name":"Abraham Jones","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

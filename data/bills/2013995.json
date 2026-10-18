@@ -1,0 +1,23 @@
+{
+  "billId": 2013995,
+  "billNumber": "S552",
+  "title": "ABC Omnibus 2025",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "ac1de6ec6254cc607c1fb20da0cbf3cc",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-26",
+  "url": "https://legiscan.com/NC/bill/S552/2025",
+  "aiSummary": "This bill makes multiple changes to North Carolina's alcohol laws, including: appropriating $309.5 million for an ABC Commission automated warehouse with repayment requirements; creating a new \"service business permit\" allowing complimentary beer and wine to service business customers; clarifying open container laws for takeout alcoholic beverages in motor vehicles; modifying county mixed beverage election requirements; and making technical corrections to existing alcohol regulations.",
+  "aiProArguments": "Supporters argue the warehouse investment modernizes ABC operations and improves efficiency, with repayment terms ensuring taxpayers are protected. The service business permit expands opportunities for businesses like salons and spas to offer complimentary beverages as customer amenities. The open container law clarification provides needed guidance on transporting sealed takeout drinks, supporting the growing to-go beverage market while maintaining safety standards.",
+  "aiConArguments": "Opponents may question the $309.5 million warehouse investment as a significant public expenditure and whether ABC repayment terms adequately protect state finances. Critics could argue the service business permit creates regulatory complexity and potential enforcement challenges. Some may express concerns that clarifying open container laws for sealed takeout drinks could lead to confusion or unintended circumvention of safety protections, though the bill specifies containers must remain sealed.",
+  "topic": "Taxes & Budget",
+  "textLength": 28042,
+  "createdAt": "2026-06-23T03:08:49.509Z",
+  "sponsors": [
+    {"peopleId":11858,"name":"Timothy Moffitt","party":"R","isPrimary":true},
+    {"peopleId":20222,"name":"Todd Johnson","party":"R","isPrimary":true},
+    {"peopleId":20513,"name":"Bobby Hanig","party":"R","isPrimary":true}
+  ],
+  "rollCalls": []
+}

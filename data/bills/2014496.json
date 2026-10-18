@@ -1,0 +1,24 @@
+{
+  "billId": 2014496,
+  "billNumber": "S748",
+  "title": "Teach Critical Thinking in Elementary",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "4d094bf0952cf6049984807520239d42",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-26",
+  "url": "https://legiscan.com/NC/bill/S748/2025",
+  "aiSummary": "This bill requires North Carolina public elementary schools (kindergarten through grade 5) to include instruction in critical thinking as part of their standard curriculum, starting in the 2025-2026 school year. The instruction would teach students to evaluate information rather than simply memorize it.",
+  "aiProArguments": "Supporters argue that critical thinking skills are essential for students' academic success and future careers in an increasingly complex world. They contend that teaching students to analyze and evaluate information—rather than passively accept it—prepares them to be better problem-solvers, informed citizens, and helps them succeed in higher education and the workforce.",
+  "aiConArguments": "Opponents may be concerned about implementation challenges, such as whether teachers have adequate training in teaching critical thinking, whether the curriculum is clearly defined, and how schools will fit this into already full schedules. Some also question whether the mandate provides sufficient funding and resources for schools to effectively implement this requirement without taking time from other core subjects.",
+  "topic": "Education",
+  "textLength": 927,
+  "createdAt": "2026-06-23T03:10:30.942Z",
+  "sponsors": [
+    {"peopleId":11862,"name":"Norman Sanderson","party":"R","isPrimary":true},
+    {"peopleId":25860,"name":"Woodson Bradley","party":"D","isPrimary":false},
+    {"peopleId":11858,"name":"Timothy Moffitt","party":"R","isPrimary":false},
+    {"peopleId":22426,"name":"DeAndrea Salvador","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

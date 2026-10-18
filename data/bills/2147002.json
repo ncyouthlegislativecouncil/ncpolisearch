@@ -1,0 +1,24 @@
+{
+  "billId": 2147002,
+  "billNumber": "S1028",
+  "title": "NC Airport Security Continuity",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "fb0e245d71b69a3378b885ee965dc976",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2026-05-05",
+  "url": "https://legiscan.com/NC/bill/S1028/2025",
+  "aiSummary": "This bill establishes a $25 million emergency fund to provide interest-free loans to TSA officers and air traffic controllers at North Carolina airports who have not been paid for 14 or more days due to federal government funding lapses. The loans would be automatically repaid when the federal government issues back pay to these workers.",
+  "aiProArguments": "Supporters argue this bill protects essential airport security and operations during federal funding shutdowns. They contend that TSA officers and air traffic controllers perform critical public safety functions and should not face financial hardship when federal funding lapses occur through no fault of their own. The interest-free loan structure ensures workers can pay bills while waiting for back pay, and automatic repayment means the state recovers its funds when federal payments resume.",
+  "aiConArguments": "Opponents may argue the state should not use taxpayer money to cover gaps created by federal funding failures, as this effectively subsidizes the federal government's budget disputes. Some may question whether $25 million is sufficient or if the fund could become a permanent expense if federal shutdowns occur repeatedly. Others might raise concerns about whether providing relief at some airports but not others creates fairness issues, or whether the funds could be better used for other state priorities.",
+  "topic": "Taxes & Budget",
+  "textLength": 3308,
+  "createdAt": "2026-06-23T03:12:47.148Z",
+  "sponsors": [
+    {"peopleId":20220,"name":"Michael Garrett","party":"D","isPrimary":true},
+    {"peopleId":24222,"name":"Lisa Grafstein","party":"D","isPrimary":true},
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

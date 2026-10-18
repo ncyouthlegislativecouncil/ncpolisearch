@@ -1,0 +1,31 @@
+{
+  "billId": 2012903,
+  "billNumber": "S398",
+  "title": "Prohibit Weapons at Voting Place",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "1ce2018dd2bbdc4aec21e5e800e6990a",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-25",
+  "url": "https://legiscan.com/NC/bill/S398/2025",
+  "aiSummary": "This bill makes it illegal for people to carry or possess dangerous weapons at voting locations, within 100 feet of voting place entrances, or while waiting in line to vote. Violations would be charged as a Class 1 misdemeanor, with an exception for law enforcement officers performing their duties. The law would take effect December 1, 2025.",
+  "aiProArguments": "Supporters argue this bill protects voters and election workers from intimidation and violence by preventing armed individuals from being present during voting. They contend that weapons at polling places can create an atmosphere of fear that discourages people from voting, and that this measure safeguards one of democracy's most fundamental processes without restricting gun ownership elsewhere.",
+  "aiConArguments": "Opponents argue this bill may infringe on Second Amendment rights and the ability of law-abiding citizens to carry firearms for self-defense. They contend that existing laws already prohibit illegal conduct and that this creates additional restrictions on constitutional rights, and they question whether the 100-foot buffer zone is overly broad or creates enforcement challenges.",
+  "topic": "Elections & Voting",
+  "textLength": 1719,
+  "createdAt": "2026-06-23T03:07:28.084Z",
+  "sponsors": [
+    {"peopleId":22425,"name":"Julie Mayfield","party":"D","isPrimary":true},
+    {"peopleId":24220,"name":"Val Applewhite","party":"D","isPrimary":false},
+    {"peopleId":17936,"name":"Jay Chaudhuri","party":"D","isPrimary":false},
+    {"peopleId":20220,"name":"Michael Garrett","party":"D","isPrimary":false},
+    {"peopleId":24222,"name":"Lisa Grafstein","party":"D","isPrimary":false},
+    {"peopleId":20223,"name":"Mujtaba Mohammed","party":"D","isPrimary":false},
+    {"peopleId":21633,"name":"Natalie Murdock","party":"D","isPrimary":false},
+    {"peopleId":22426,"name":"DeAndrea Salvador","party":"D","isPrimary":false},
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":false},
+    {"peopleId":25859,"name":"Caleb Theodros","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

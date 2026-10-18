@@ -1,0 +1,23 @@
+{
+  "billId": 1951575,
+  "billNumber": "S43",
+  "title": "Window Tint/Inspection/Approach of LEO",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "84556c66f81403e2664cbc10ec4f9d51",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-02-04",
+  "url": "https://legiscan.com/NC/bill/S43/2025",
+  "aiSummary": "This bill removes the safety inspection requirement for window tinting from North Carolina's vehicle inspection process and requires drivers with tinted windows to lower their window when a law enforcement officer approaches their vehicle.",
+  "aiProArguments": "Supporters argue this bill enhances officer safety by requiring drivers to lower tinted windows, allowing law enforcement to see inside vehicles during traffic stops and reducing potential hazards. They contend that removing the window tint inspection requirement streamlines the vehicle inspection process, reduces costs for vehicle owners, and eliminates an additional inspection fee.",
+  "aiConArguments": "Opponents may argue that window tinting safety inspections serve a legitimate purpose by ensuring tinted windows meet visibility standards that protect drivers and other road users. They may also contend that mandating drivers lower windows upon officer approach could create compliance and enforcement challenges, and that the bill removes a regulatory check without addressing the underlying safety concerns that window tinting restrictions were designed to address.",
+  "topic": "Criminal Justice & Public Safety",
+  "textLength": 4108,
+  "createdAt": "2026-06-23T03:04:24.149Z",
+  "sponsors": [
+    {"peopleId":20222,"name":"Todd Johnson","party":"R","isPrimary":true},
+    {"peopleId":21663,"name":"David Craven","party":"R","isPrimary":true},
+    {"peopleId":20513,"name":"Bobby Hanig","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

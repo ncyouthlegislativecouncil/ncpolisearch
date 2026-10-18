@@ -1,0 +1,29 @@
+{
+  "billId": 2021379,
+  "billNumber": "H825",
+  "title": "Election Improvements",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "0a4d6d0574e1bfb091827c2e6a2c802b",
+  "lastAction": "Ref To Com On Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-04-09",
+  "url": "https://legiscan.com/NC/bill/H825/2025",
+  "aiSummary": "This bill makes four changes to North Carolina elections: it prohibits ranked choice voting statewide, clarifies rules about where election-related activity can occur near polling places, reduces the early voting period from the third Thursday before an election to the second Thursday, and modifies the identification requirements for voters requesting absentee ballots.",
+  "aiProArguments": "Supporters argue that prohibiting ranked choice voting maintains the traditional majority-vote system voters understand and simplifies ballot counting. They contend that reducing the early voting period saves election administration costs while still providing adequate voting time. They also argue that the identification changes for absentee ballots improve election security by requiring voters to provide Social Security numbers or driver's license numbers, making the process more verifiable.",
+  "aiConArguments": "Opponents contend that ranked choice voting allows voters more choice and could reduce the influence of the two-party system. They argue that reducing early voting by one week decreases accessibility for voters with work or transportation challenges. Critics also worry that the new identification requirements for absentee ballots could create barriers for elderly, disabled, or minority voters who may lack the specified documents or have difficulty obtaining them, potentially reducing participation in absentee voting.",
+  "topic": "Elections & Voting",
+  "textLength": 6916,
+  "createdAt": "2026-06-23T02:58:13.351Z",
+  "sponsors": [
+    {"peopleId":25843,"name":"Brian Echevarria","party":"R","isPrimary":true},
+    {"peopleId":25856,"name":"Paul Scott","party":"R","isPrimary":true},
+    {"peopleId":17678,"name":"James Adams","party":"R","isPrimary":false},
+    {"peopleId":2034,"name":"John Blust","party":"R","isPrimary":false},
+    {"peopleId":24201,"name":"Celeste Cairns","party":"R","isPrimary":false},
+    {"peopleId":25222,"name":"Blair Eddins","party":"R","isPrimary":false},
+    {"peopleId":2086,"name":"Francis Iler","party":"R","isPrimary":false},
+    {"peopleId":24212,"name":"Joe Pike","party":"R","isPrimary":false},
+    {"peopleId":24219,"name":"Bill Ward","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

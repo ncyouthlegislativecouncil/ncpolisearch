@@ -1,0 +1,27 @@
+{
+  "billId": 2146895,
+  "billNumber": "S988",
+  "title": "Protecting Workers in the Age of AI Act",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "4f187ba6c827f9c3e2a80f6980fb5e21",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2026-05-05",
+  "url": "https://legiscan.com/NC/bill/S988/2025",
+  "aiSummary": "This bill creates a new AI Workforce Transition Program within the Department of Commerce to help workers displaced by artificial intelligence and automation through job retraining, credentialing, and education programs. It requires employers receiving state economic incentives to report layoffs caused by AI or automation, and appropriates $50 million in existing state funds to support these workforce transition initiatives.",
+  "aiProArguments": "Supporters argue this bill addresses a real economic challenge as AI and automation increasingly displace workers in North Carolina. They contend the program helps affected workers transition to new careers in growing fields like healthcare and advanced manufacturing, reducing hardship and keeping skilled workers in the state. Proponents also note it holds incentivized employers accountable by requiring them to report automation-related layoffs.",
+  "aiConArguments": "Opponents may argue that redirecting $50 million from education scholarship funds reduces opportunities for students pursuing higher education. They might also question whether the reporting requirements on employers receiving incentives could discourage business investment in the state, and whether workforce retraining alone adequately addresses job displacement when new jobs may not match workers' previous wages or locations.",
+  "topic": "Business & Labor",
+  "textLength": 2670,
+  "createdAt": "2026-06-23T03:12:25.033Z",
+  "sponsors": [
+    {"peopleId":20505,"name":"Sydney Batch","party":"D","isPrimary":true},
+    {"peopleId":20220,"name":"Michael Garrett","party":"D","isPrimary":true},
+    {"peopleId":25859,"name":"Caleb Theodros","party":"D","isPrimary":true},
+    {"peopleId":21633,"name":"Natalie Murdock","party":"D","isPrimary":false},
+    {"peopleId":22426,"name":"DeAndrea Salvador","party":"D","isPrimary":false},
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

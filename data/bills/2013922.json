@@ -1,0 +1,24 @@
+{
+  "billId": 2013922,
+  "billNumber": "S491",
+  "title": "NC Debt Settlement Services Act",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "1136ce625fb47e9590756ac80211158d",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-26",
+  "url": "https://legiscan.com/NC/bill/S491/2025",
+  "aiSummary": "This bill creates a new licensing and regulatory framework for debt settlement services in North Carolina under the State Banking Commission. It requires companies that negotiate with creditors to reduce or forgive debts to obtain a license, maintain a $1 million surety bond, comply with specific business practices, and undergo regular examinations. The bill exempts banks, credit unions, lawyers, and nonprofit credit counseling organizations.",
+  "aiProArguments": "Supporters argue this bill protects consumers from predatory debt settlement practices by requiring licensure, financial oversight, and bonding to ensure companies can compensate harmed debtors. The regulations prohibit common abusive tactics like requiring upfront fees before results, demanding power of attorney, encouraging defaults, or targeting military members. Proponents believe transparent fee caps (15-20% of savings), mandatory disclosures about credit damage, and regular state audits will help vulnerable people in financial distress access legitimate debt relief.",
+  "aiConArguments": "Opponents may argue the $2,000 application fee, $1 million surety bond requirement, and ongoing annual fees create barriers that could limit consumer choices by reducing the number of legitimate debt settlement companies operating in the state. Some might contend the regulations are overly restrictive—such as prohibiting enrollment of debts less than 60 days delinquent or requiring debt origination over 180 days old—potentially excluding people who need help most urgently. Critics could also question whether state regulation duplicates federal oversight and whether the compliance costs ultimately get passed to consumers through higher fees.",
+  "topic": "Business & Labor",
+  "textLength": 40688,
+  "createdAt": "2026-06-23T03:08:19.172Z",
+  "sponsors": [
+    {"peopleId":20222,"name":"Todd Johnson","party":"R","isPrimary":true},
+    {"peopleId":24223,"name":"Brad Overcash","party":"R","isPrimary":true},
+    {"peopleId":12009,"name":"William Jackson","party":"R","isPrimary":true},
+    {"peopleId":17457,"name":"Paul Lowe","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

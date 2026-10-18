@@ -1,0 +1,30 @@
+{
+  "billId": 2144458,
+  "billNumber": "S784",
+  "title": "Ensure Same-Sex Domestic Violence Prot. Order",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "cd96ea0dbd1ea40238a58c9cf8dc1a7c",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2026-04-23",
+  "url": "https://legiscan.com/NC/bill/S784/2025",
+  "aiSummary": "This bill expands North Carolina's domestic violence protective order law to include same-sex couples by removing language that limits protections to opposite-sex relationships. It also appropriates $500,000 for a public awareness campaign about domestic violence in same-sex relationships.",
+  "aiProArguments": "Supporters argue that same-sex couples currently lack equal access to domestic violence protections under state law, leaving them vulnerable. They contend that all victims of domestic violence deserve the same legal recourse regardless of their sexual orientation, and that this bill ensures equal protection and safety for same-sex partners experiencing abuse.",
+  "aiConArguments": "Opponents may argue concerns about the scope of the bill's language changes or question the necessity of the funding allocation. Some could contend that existing protective order provisions should be interpreted to cover all couples, making statutory changes unnecessary, or debate whether the $500,000 funding level is appropriate.",
+  "topic": "Criminal Justice & Public Safety",
+  "textLength": 2047,
+  "createdAt": "2026-06-23T03:10:43.461Z",
+  "sponsors": [
+    {"peopleId":25860,"name":"Woodson Bradley","party":"D","isPrimary":true},
+    {"peopleId":25858,"name":"Sophia Chitlik","party":"D","isPrimary":false},
+    {"peopleId":20220,"name":"Michael Garrett","party":"D","isPrimary":false},
+    {"peopleId":26664,"name":"Jonah Garson","party":"D","isPrimary":false},
+    {"peopleId":22425,"name":"Julie Mayfield","party":"D","isPrimary":false},
+    {"peopleId":20223,"name":"Mujtaba Mohammed","party":"D","isPrimary":false},
+    {"peopleId":21633,"name":"Natalie Murdock","party":"D","isPrimary":false},
+    {"peopleId":22426,"name":"DeAndrea Salvador","party":"D","isPrimary":false},
+    {"peopleId":25859,"name":"Caleb Theodros","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

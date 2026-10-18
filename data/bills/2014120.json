@@ -1,0 +1,26 @@
+{
+  "billId": 2014120,
+  "billNumber": "S662",
+  "title": "Modernize Domestic Violence Protection Order",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "b0d5e3d392e065df08fdd3555a68108e",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-26",
+  "url": "https://legiscan.com/NC/bill/S662/2025",
+  "aiSummary": "This bill modifies North Carolina's domestic violence protection order law to remove the requirement that unmarried couples in dating relationships be of opposite sex. Currently, only opposite-sex couples can obtain protection orders for dating relationships; this change would allow same-sex couples in dating relationships to access the same protections.",
+  "aiProArguments": "Supporters argue that same-sex couples deserve equal legal protection from domestic violence and that excluding them from dating relationship protections creates a gap in safety resources. They contend that domestic violence is a serious issue affecting all couples regardless of sexual orientation, and that current law discriminates by denying equal access to court remedies available to opposite-sex couples.",
+  "aiConArguments": "Opponents may argue concerns about the scope of domestic violence law expansion or beliefs about how family law should be structured. Some may question whether existing protections under other legal categories already cover same-sex couples, or raise broader concerns about legislative changes to family law definitions.",
+  "topic": "Criminal Justice & Public Safety",
+  "textLength": 1729,
+  "createdAt": "2026-06-23T03:09:47.216Z",
+  "sponsors": [
+    {"peopleId":21633,"name":"Natalie Murdock","party":"D","isPrimary":true},
+    {"peopleId":16251,"name":"Graig Meyer","party":"D","isPrimary":true},
+    {"peopleId":25860,"name":"Woodson Bradley","party":"D","isPrimary":false},
+    {"peopleId":22425,"name":"Julie Mayfield","party":"D","isPrimary":false},
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

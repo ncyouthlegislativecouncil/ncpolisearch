@@ -1,0 +1,24 @@
+{
+  "billId": 2144402,
+  "billNumber": "S795",
+  "title": "Modify Taxation of 1031 Exchanges",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "c478a3c2f06ab0f5a73792a3e00444dc",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2026-04-22",
+  "url": "https://legiscan.com/NC/bill/S795/2025",
+  "aiSummary": "This bill modifies how North Carolina taxes 1031 exchanges, which allow property owners to defer federal taxes when exchanging one investment property for another. The bill allows taxpayers to deduct from their North Carolina state income any gains from non-like-kind property received in a 1031 exchange, up to the amount of their original investment basis in the property sold.",
+  "aiProArguments": "Supporters argue this bill provides tax relief for property investors and business owners who engage in 1031 exchanges, aligning North Carolina's tax treatment with federal law and reducing the state tax burden on these transactions. They contend it encourages investment and real estate transactions in the state while treating taxpayers fairly by not taxing gains that exceed their original investment.",
+  "aiConArguments": "Opponents may argue this bill reduces state tax revenue by allowing deductions for 1031 exchange gains, shifting the tax burden to other taxpayers or reducing funding for state services. They might also contend that the benefit primarily favors wealthy property investors and real estate professionals rather than everyday North Carolinians.",
+  "topic": "Taxes & Budget",
+  "textLength": 1392,
+  "createdAt": "2026-06-23T03:10:48.584Z",
+  "sponsors": [
+    {"peopleId":20216,"name":"Jim Burgin","party":"R","isPrimary":true},
+    {"peopleId":24220,"name":"Val Applewhite","party":"D","isPrimary":false},
+    {"peopleId":2033,"name":"Daniel Blue","party":"D","isPrimary":false},
+    {"peopleId":25860,"name":"Woodson Bradley","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

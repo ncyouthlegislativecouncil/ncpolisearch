@@ -1,0 +1,23 @@
+{
+  "billId": 2147193,
+  "billNumber": "H1216",
+  "title": "John Rollins Scholarship Protection Act",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "5193aa01c5e39fd0a4ea0f8c0cd80207",
+  "lastAction": "Ref to the Com on Appropriations, if favorable, Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2026-05-05",
+  "url": "https://legiscan.com/NC/bill/H1216/2025",
+  "aiSummary": "This bill prohibits North Carolina public colleges and universities from reducing a student's institutional financial aid (grants and scholarships) when the student receives a private scholarship from outside sources like foundations or alumni groups. The bill requires both the UNC system and community colleges to adopt policies preventing this practice and appropriates $740,000 annually to help institutions offset lost financial aid funds.",
+  "aiProArguments": "Supporters argue that scholarship displacement undermines private donors' intentions to help students afford college, potentially discouraging charitable giving to scholarship funds. They contend that students should receive the full benefit of private scholarships as additional aid rather than having institutional funds redirected elsewhere, ensuring that donor contributions genuinely increase students' financial support.",
+  "aiConArguments": "Opponents may argue that institutions need flexibility to manage limited financial aid budgets and that eliminating displacement could redirect scarce institutional funds away from neediest students. They might also contend that the $740,000 appropriation may be insufficient to cover the cost of honoring all private scholarships without reducing aid to other deserving students, potentially creating budget pressures on higher education institutions.",
+  "topic": "Education",
+  "textLength": 7271,
+  "createdAt": "2026-06-23T03:03:35.903Z",
+  "sponsors": [
+    {"peopleId":24890,"name":"Eric Ager","party":"D","isPrimary":true},
+    {"peopleId":20521,"name":"Carolyn Logan","party":"D","isPrimary":false},
+    {"peopleId":22606,"name":"James Roberson","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

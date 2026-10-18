@@ -1,0 +1,27 @@
+{
+  "billId": 2014074,
+  "billNumber": "S645",
+  "title": "The Protect Our Schools Act",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "e03cb0bcdc2ad77b48c5bec9e57c5d60",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-26",
+  "url": "https://legiscan.com/NC/bill/S645/2025",
+  "aiSummary": "This bill creates 'school walk zones' in areas with significant pedestrian traffic near schools and requires the Department of Transportation to set lower speed limits in these zones. It increases penalties for speeding in school zones and creates a $10 million Pedestrian Safety Enhancement Fund to improve infrastructure, train crosswalk guards, and run public awareness campaigns.",
+  "aiProArguments": "Supporters argue this bill protects children by reducing vehicle speeds in areas where students walk to school, addressing safety concerns in high-pedestrian zones. They contend that increased penalties for speeding violations deter dangerous driving behavior, and the $10 million investment in infrastructure improvements and safety training creates comprehensive protections for young pedestrians.",
+  "aiConArguments": "Opponents may argue that the bill adds another layer of speed restrictions that could create enforcement challenges and driver confusion with existing school zone regulations. They may also question whether the $10 million appropriation is the most cost-effective use of transportation funds and whether increased criminal penalties for injuries are necessary given existing traffic laws.",
+  "topic": "Transportation & Infrastructure",
+  "textLength": 5485,
+  "createdAt": "2026-06-23T03:09:38.863Z",
+  "sponsors": [
+    {"peopleId":20510,"name":"Terence Everitt","party":"D","isPrimary":true},
+    {"peopleId":25860,"name":"Woodson Bradley","party":"D","isPrimary":true},
+    {"peopleId":24222,"name":"Lisa Grafstein","party":"D","isPrimary":true},
+    {"peopleId":20220,"name":"Michael Garrett","party":"D","isPrimary":false},
+    {"peopleId":21633,"name":"Natalie Murdock","party":"D","isPrimary":false},
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

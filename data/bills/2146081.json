@@ -1,0 +1,21 @@
+{
+  "billId": 2146081,
+  "billNumber": "S852",
+  "title": "NC Health Benefits Exchange Implementation",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "20cadfd35cfb52198e75a9af5dcd42c8",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2026-05-06",
+  "url": "https://legiscan.com/NC/bill/S852/2025",
+  "aiSummary": "This bill authorizes North Carolina's Insurance Commissioner to establish and operate a state-run health benefits exchange where individuals can compare and purchase health insurance plans. It provides $100,000 in recurring funding starting in fiscal year 2026-2027 and grants the Commissioner authority to adopt rules, seek federal funding, and create advisory boards to implement the exchange.",
+  "aiProArguments": "Supporters argue that a state-run exchange gives North Carolina more control over its health insurance marketplace, potentially allowing the state to tailor plans and consumer protections to residents' needs. Proponents contend this approach could improve access to affordable coverage, reduce reliance on the federal exchange, and allow the state to keep more control over decisions affecting North Carolinians' healthcare options.",
+  "aiConArguments": "Opponents raise concerns about the cost and complexity of operating a separate state exchange, noting that the federal exchange already serves North Carolina at no state cost. Critics worry the state may lack expertise to run an exchange efficiently, question whether $100,000 in annual funding is sufficient, and argue that duplicating an existing federal system could waste taxpayer resources without clear benefits to consumers.",
+  "topic": "Healthcare",
+  "textLength": 3919,
+  "createdAt": "2026-06-23T03:11:17.707Z",
+  "sponsors": [
+    {"peopleId":20216,"name":"Jim Burgin","party":"R","isPrimary":true}
+  ],
+  "rollCalls": []
+}

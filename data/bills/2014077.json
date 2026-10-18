@@ -1,0 +1,30 @@
+{
+  "billId": 2014077,
+  "billNumber": "S584",
+  "title": "Local Govt Transportation System Financing",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "b4b67fe14355099b5adad53203451914",
+  "lastAction": "Re-ref to Transportation. If fav, re-ref to Finance. If fav, re-ref to Rules and Operations of the Senate",
+  "lastActionDate": "2025-04-07",
+  "url": "https://legiscan.com/NC/bill/S584/2025",
+  "aiSummary": "This bill creates a new Metropolitan Public Transportation Authority that can be established in North Carolina counties with over 1 million residents that border another state and operate a light rail system. It also authorizes local sales tax revenue for public transportation and establishes governance structures, powers, and financial mechanisms for this new authority to finance, operate, and maintain public transportation systems.",
+  "aiProArguments": "Supporters argue this bill provides a dedicated funding mechanism and governance structure for regional public transportation systems, allowing for better coordination and planning across multiple municipalities. It enables the authority to issue bonds, acquire property through eminent domain, and operate transit systems more efficiently by consolidating control, which could improve service quality and expand public transportation options in growing urban regions.",
+  "aiConArguments": "Opponents contend the bill creates a large, complex new government entity with significant autonomous powers that could reduce local control over transportation decisions. Concerns include the 27-member board structure that may be difficult to manage, potential costs to taxpayers through new taxes and bond obligations, and the complexity of transferring existing city assets and employee liabilities to a new authority.",
+  "topic": "Transportation & Infrastructure",
+  "textLength": 74281,
+  "createdAt": "2026-06-23T03:09:05.768Z",
+  "sponsors": [
+    {"peopleId":12031,"name":"William Rabon","party":"R","isPrimary":true},
+    {"peopleId":21663,"name":"David Craven","party":"R","isPrimary":true},
+    {"peopleId":19669,"name":"Vickie Sawyer","party":"R","isPrimary":true},
+    {"peopleId":20505,"name":"Sydney Batch","party":"D","isPrimary":false},
+    {"peopleId":2033,"name":"Daniel Blue","party":"D","isPrimary":false},
+    {"peopleId":22425,"name":"Julie Mayfield","party":"D","isPrimary":false},
+    {"peopleId":20223,"name":"Mujtaba Mohammed","party":"D","isPrimary":false},
+    {"peopleId":22426,"name":"DeAndrea Salvador","party":"D","isPrimary":false},
+    {"peopleId":25859,"name":"Caleb Theodros","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

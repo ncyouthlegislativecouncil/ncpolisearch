@@ -1,0 +1,32 @@
+{
+  "billId": 1991869,
+  "billNumber": "H303",
+  "title": "Make Corporations Pay What They Owe",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "c445f1eeeb48c431ccc1f6848fd6e473",
+  "lastAction": "Ref To Com On Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-03-06",
+  "url": "https://legiscan.com/NC/bill/H303/2025",
+  "aiSummary": "This bill repeals a 2021 law that was gradually phasing out North Carolina's corporate income tax. By repealing the phaseout, the bill would maintain the current corporate income tax rate instead of allowing it to continue declining toward zero.",
+  "aiProArguments": "Supporters argue this bill protects state revenue needed for schools, roads, healthcare, and other public services. They contend that corporations should pay their fair share of taxes to fund the infrastructure and educated workforce they depend on, and that a phaseout would shift the tax burden onto individual taxpayers and small businesses that cannot easily relocate.",
+  "aiConArguments": "Opponents argue that lower corporate taxes encourage business investment, job creation, and economic growth in North Carolina. They contend that the original phaseout was a pro-growth policy that made the state more competitive with other states, and that repealing it could discourage companies from locating or expanding operations in North Carolina.",
+  "topic": "Taxes & Budget",
+  "textLength": 630,
+  "createdAt": "2026-06-23T02:47:54.933Z",
+  "sponsors": [
+    {"peopleId":19360,"name":"Marcia Morey","party":"D","isPrimary":true},
+    {"peopleId":19238,"name":"Deb Butler","party":"D","isPrimary":true},
+    {"peopleId":24214,"name":"Renee Price","party":"D","isPrimary":true},
+    {"peopleId":24202,"name":"Maria Cervania","party":"D","isPrimary":true},
+    {"peopleId":18449,"name":"Cynthia Ball","party":"D","isPrimary":false},
+    {"peopleId":25213,"name":"Tracy Clark","party":"D","isPrimary":false},
+    {"peopleId":22422,"name":"Sarah Crawford","party":"D","isPrimary":false},
+    {"peopleId":25851,"name":"Aisha Dew","party":"D","isPrimary":false},
+    {"peopleId":2077,"name":"Mary Harrison","party":"D","isPrimary":false},
+    {"peopleId":20515,"name":"Zack Forde-Hawkins","party":"D","isPrimary":false},
+    {"peopleId":24213,"name":"Lindsey Prather","party":"D","isPrimary":false},
+    {"peopleId":20528,"name":"Julie von Haefen","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

@@ -1,0 +1,21 @@
+{
+  "billId": 1985455,
+  "billNumber": "S182",
+  "title": "Funds/Conover Water and Wastewater",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "7420dce3c973b38ba9b2cef3bb9a8a35",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2025-02-27",
+  "url": "https://legiscan.com/NC/bill/S182/2025",
+  "aiSummary": "This bill appropriates $22 million in state funding to the City of Conover for water and wastewater system improvements during the 2025-2026 fiscal year. The funds become available starting July 1, 2025.",
+  "aiProArguments": "Supporters argue this funding helps Conover upgrade aging or inadequate water and sewer infrastructure, which improves public health, supports economic development, and reduces costs that would otherwise fall on local residents through higher utility rates. The investment addresses critical infrastructure needs that local budgets may struggle to fund independently.",
+  "aiConArguments": "Opponents may argue this represents a large state expenditure benefiting one city and question whether these funds could be better allocated across the state to other pressing needs. They may also ask whether Conover should pursue alternative funding sources like municipal bonds or federal grants before requesting substantial state appropriations.",
+  "topic": "Taxes & Budget",
+  "textLength": 699,
+  "createdAt": "2026-06-23T03:05:37.357Z",
+  "sponsors": [
+    {"peopleId":11853,"name":"Mark Hollo","party":"R","isPrimary":true}
+  ],
+  "rollCalls": []
+}

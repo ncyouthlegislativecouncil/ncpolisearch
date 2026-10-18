@@ -1,0 +1,30 @@
+{
+  "billId": 1979141,
+  "billNumber": "S123",
+  "title": "Flags at Every School",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "3c153583e82fc0df4d423edc0b4500fe",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-02-24",
+  "url": "https://legiscan.com/NC/bill/S123/2025",
+  "aiSummary": "This bill requires all North Carolina public schools, charter schools, and university-affiliated schools to display the United States and North Carolina flags on school grounds and in every classroom, and to schedule daily Pledge of Allegiance recitation with age-appropriate instruction about the flag's meaning and history. The bill provides $1 million in funding for the 2025-2026 school year and $100,000 in ongoing funding for schools to purchase flags, while clarifying that no student can be compelled to stand, salute, or recite the pledge.",
+  "aiProArguments": "Supporters argue this bill promotes patriotism and civic education by ensuring visible symbols of national and state identity in every school. They contend that daily exposure to flags and the pledge ceremony helps instill respect for country and community, and that the bill's inclusion of age-appropriate historical instruction helps students understand the significance of these symbols. Supporters also note the bill provides funding to help schools afford the flags without burdening local budgets.",
+  "aiConArguments": "Opponents may worry that mandating flag displays and pledge recitation in every classroom consumes classroom space and teaching time that could be used for academic instruction. Some may argue the bill's emphasis on patriotic symbols could make students uncomfortable or conflict with their family values, particularly in diverse communities. Critics might also question whether $1 million in initial funding is sufficient for all schools statewide, and whether recurring annual funding of only $100,000 adequately covers long-term flag replacement and maintenance costs.",
+  "topic": "Education",
+  "textLength": 7050,
+  "createdAt": "2026-06-23T03:05:06.607Z",
+  "sponsors": [
+    {"peopleId":24226,"name":"Eddie Settle","party":"R","isPrimary":true},
+    {"peopleId":20225,"name":"Ted Alexander","party":"R","isPrimary":true},
+    {"peopleId":14615,"name":"Carl Ford","party":"R","isPrimary":true},
+    {"peopleId":25212,"name":"Bob Brinson","party":"R","isPrimary":false},
+    {"peopleId":20216,"name":"Jim Burgin","party":"R","isPrimary":false},
+    {"peopleId":20513,"name":"Bobby Hanig","party":"R","isPrimary":false},
+    {"peopleId":11937,"name":"Ralph Hise","party":"R","isPrimary":false},
+    {"peopleId":20222,"name":"Todd Johnson","party":"R","isPrimary":false},
+    {"peopleId":11858,"name":"Timothy Moffitt","party":"R","isPrimary":false},
+    {"peopleId":11862,"name":"Norman Sanderson","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

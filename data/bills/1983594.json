@@ -1,0 +1,22 @@
+{
+  "billId": 1983594,
+  "billNumber": "H220",
+  "title": "Tabor City/Certain Public Enterprise Funds",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "f72e356e0dabdfc1ad1341fb3f3952b4",
+  "lastAction": "Re-ref Com On Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-03-10",
+  "url": "https://legiscan.com/NC/bill/H220/2025",
+  "aiSummary": "This bill allows the Town of Tabor City to transfer excess money from its wastewater system fund to its general fund if the wastewater fund has more money than needed for operations and future costs. The transferred funds would be used to support other town services.",
+  "aiProArguments": "Supporters argue this gives Tabor City flexibility to use accumulated surplus funds from its wastewater system for pressing town needs and services. If a utility fund has collected more money than necessary for its operations and long-term obligations, redirecting the excess to general town services allows more efficient use of public money without requiring new taxes or fees.",
+  "aiConArguments": "Opponents may worry that transferring funds away from utility accounts could undermine the financial stability needed for future wastewater system repairs, replacements, or emergencies. They might also argue that utility fees paid by customers should be reserved primarily for utility operations rather than redirected to general town services, which could be funded through other means.",
+  "topic": "Local Government",
+  "textLength": 1407,
+  "createdAt": "2026-06-23T02:45:16.866Z",
+  "sponsors": [
+    {"peopleId":18460,"name":"Brenden Jones","party":"R","isPrimary":true},
+    {"peopleId":22613,"name":"Ben Moss","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

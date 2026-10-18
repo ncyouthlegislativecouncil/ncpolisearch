@@ -1,0 +1,26 @@
+{
+  "billId": 2146845,
+  "billNumber": "S962",
+  "title": "Investing in North Carolina Act",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "0d246ff72e1a66ee58fe62feb2943bc8",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2026-05-04",
+  "url": "https://legiscan.com/NC/bill/S962/2025",
+  "aiSummary": "This bill appropriates funds to increase salaries for public school teachers, state employees, community college workers, and UNC employees for the 2026-2027 fiscal year, and provides cost-of-living increases for retirees. The bill only takes effect if the state's regular budget (Current Operations Appropriations Act) does not pass, and it also establishes automatic 5% salary increases for future years if budgets continue to fail to pass.",
+  "aiProArguments": "Supporters argue this bill addresses workforce recruitment and retention challenges by providing meaningful salary increases to educators and state workers who have faced stagnant wages. The bill helps ensure essential public services like education and corrections remain staffed by making state employment more competitive. Supporters also point out the bill provides much-needed relief to retirees through cost-of-living adjustments during inflationary periods.",
+  "aiConArguments": "Opponents may argue the bill's $1.2+ billion in appropriations represents significant state spending that could strain the budget or require cuts elsewhere. Critics may contend that automatic 5% raises triggered by budget failures create unsustainable long-term obligations and could incentivize gridlock over budget negotiations. Some may also question whether broad salary increases are the most efficient way to address specific workforce shortages in particular fields or regions.",
+  "topic": "Taxes & Budget",
+  "textLength": 35199,
+  "createdAt": "2026-06-23T03:12:13.662Z",
+  "sponsors": [
+    {"peopleId":24222,"name":"Lisa Grafstein","party":"D","isPrimary":true},
+    {"peopleId":26664,"name":"Jonah Garson","party":"D","isPrimary":true},
+    {"peopleId":20505,"name":"Sydney Batch","party":"D","isPrimary":false},
+    {"peopleId":21633,"name":"Natalie Murdock","party":"D","isPrimary":false},
+    {"peopleId":22426,"name":"DeAndrea Salvador","party":"D","isPrimary":false},
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

@@ -1,0 +1,23 @@
+{
+  "billId": 2021932,
+  "billNumber": "H848",
+  "title": "Cleveland Cultivation of Excellence Pilot",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "2bfdd7598dd00e9f12c12130790925d3",
+  "lastAction": "Ref to the Com on Education - K-12, if favorable, Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-04-10",
+  "url": "https://legiscan.com/NC/bill/H848/2025",
+  "aiSummary": "This bill establishes a six-year pilot program in Cleveland County Schools (2025-2031) that allows the district flexibility in staffing, teacher licensing requirements, and budget management to improve student achievement and teacher recruitment. The program permits hiring unlicensed college graduates as teachers (up to 50% per school, 25% district-wide) in non-core subjects, reducing class size requirements for K-3, and reallocating certain funds, with annual reporting requirements to the state.",
+  "aiProArguments": "Supporters argue this pilot addresses teacher shortages by allowing qualified college graduates without licenses to fill teaching positions, potentially improving teacher recruitment and retention while reducing costs. The increased flexibility in class sizes, staffing levels, and budget management enables Cleveland County Schools to innovate and tailor solutions to their specific needs, and the mandatory reporting ensures accountability while allowing the program's effectiveness to be measured.",
+  "aiConArguments": "Opponents worry that hiring unlicensed teachers, even with training requirements, may compromise instructional quality and student outcomes compared to fully certified educators with formal pedagogical training. Critics also express concern about oversight mechanisms, noting that while safeguards exist (caps on unlicensed teachers, preservice training), the relaxed standards could set a precedent for reducing teacher certification requirements statewide if the pilot succeeds.",
+  "topic": "Education",
+  "textLength": 5689,
+  "createdAt": "2026-06-23T02:58:32.666Z",
+  "sponsors": [
+    {"peopleId":25856,"name":"Paul Scott","party":"R","isPrimary":true},
+    {"peopleId":11866,"name":"John Torbett","party":"R","isPrimary":true},
+    {"peopleId":11850,"name":"Harry Warren","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

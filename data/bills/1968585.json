@@ -1,0 +1,24 @@
+{
+  "billId": 1968585,
+  "billNumber": "S95",
+  "title": "Promote NC Sawmills",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "ac44c6dfafd5dc666e7b82e90e4e9286",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-02-17",
+  "url": "https://legiscan.com/NC/bill/S95/2025",
+  "aiSummary": "This bill allows ungraded lumber from small sawmills and mobile sawmills to be used in residential construction when sold directly to homeowners, provided the sawmill operator completes training, the lumber meets quality standards, and a code enforcement official inspects the framing. The bill also establishes a state lumber grading training program through NC Cooperative Extension.",
+  "aiProArguments": "Supporters argue this bill supports local North Carolina sawmills by reducing costs and regulatory barriers for small operations, making locally-sourced lumber more affordable for homeowners. Proponents contend that the training requirements, quality standards, and code inspection provisions ensure safety while allowing small mills to compete with large graded lumber producers.",
+  "aiConArguments": "Opponents may be concerned that allowing ungraded lumber could create safety risks if quality standards are not consistently met, and that code enforcement officials are shielded from liability for structural failures related to the ungraded lumber. Critics might also worry that this weakens uniform building standards and could create inconsistent construction quality across the state.",
+  "topic": "Agriculture",
+  "textLength": 10128,
+  "createdAt": "2026-06-23T03:04:52.159Z",
+  "sponsors": [
+    {"peopleId":20513,"name":"Bobby Hanig","party":"R","isPrimary":true},
+    {"peopleId":11858,"name":"Timothy Moffitt","party":"R","isPrimary":true},
+    {"peopleId":20216,"name":"Jim Burgin","party":"R","isPrimary":false},
+    {"peopleId":17936,"name":"Jay Chaudhuri","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

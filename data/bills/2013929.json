@@ -1,0 +1,24 @@
+{
+  "billId": 2013929,
+  "billNumber": "S535",
+  "title": "Regulate Hemp-Derived Beverages",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "0d281535bbbb927efc85c01487c7fb98",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-26",
+  "url": "https://legiscan.com/NC/bill/S535/2025",
+  "aiSummary": "This bill establishes a regulatory framework for hemp-derived beverages in North Carolina by defining them as nonalcoholic beverages containing hemp and various cannabinoids, and by giving the ABC Commission authority to set safety and quality standards for these products. Hemp-derived beverages would be treated similarly to alcoholic beverages for regulatory purposes but would not be classified as alcoholic beverages themselves.",
+  "aiProArguments": "Supporters argue that this bill brings clarity and consumer protection to a growing market by establishing clear definitions and allowing the ABC Commission to set quality standards and test hemp-derived beverages for harmful substances. Proponents contend that regulation protects public health by preventing contaminated or mislabeled products from being sold, similar to how the state regulates traditional alcoholic beverages.",
+  "aiConArguments": "Opponents may be concerned that regulating hemp-derived beverages could normalize or expand access to products containing THC and other cannabinoids, potentially affecting public health and youth consumption. Critics might also argue that the bill's broad definition of hemp-derived cannabinoids could permit products with intoxicating effects, or that regulatory costs on manufacturers could be passed to consumers.",
+  "topic": "Business & Labor",
+  "textLength": 7686,
+  "createdAt": "2026-06-23T03:08:40.168Z",
+  "sponsors": [
+    {"peopleId":11858,"name":"Timothy Moffitt","party":"R","isPrimary":true},
+    {"peopleId":20222,"name":"Todd Johnson","party":"R","isPrimary":true},
+    {"peopleId":22424,"name":"Michael Lazzara","party":"R","isPrimary":true},
+    {"peopleId":25212,"name":"Bob Brinson","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

@@ -1,0 +1,32 @@
+{
+  "billId": 2022261,
+  "billNumber": "H865",
+  "title": "Clarify Animal Welfare Statutes",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "6e2e870b1945f6796efae7080f883929",
+  "lastAction": "Ref To Com On Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-04-10",
+  "url": "https://legiscan.com/NC/bill/H865/2025",
+  "aiSummary": "This bill changes North Carolina's dangerous dog law to allow case-by-case evaluation of dogs trained for dog fighting, rather than automatically classifying all such dogs as dangerous. It also clarifies that local animal control ordinances must be consistent with state law.",
+  "aiProArguments": "Supporters argue this bill provides fairness and flexibility by allowing individual assessment of dogs trained for fighting, recognizing that some dogs may not pose actual danger despite their training history. They contend this approach prevents blanket punishment of animals and allows for rehabilitation or rescue of dogs that may be safe, while still protecting public safety through case-by-case review.",
+  "aiConArguments": "Opponents argue that removing the automatic dangerous dog classification for fighting-trained dogs weakens animal protection laws and public safety. They contend that dogs trained for fighting are inherently dangerous and unpredictable, and that requiring individual assessments creates loopholes that could allow dangerous animals to remain in communities and endanger people and other animals.",
+  "topic": "Local Government",
+  "textLength": 1697,
+  "createdAt": "2026-06-23T02:58:42.797Z",
+  "sponsors": [
+    {"peopleId":2077,"name":"Mary Harrison","party":"D","isPrimary":true},
+    {"peopleId":20516,"name":"Chris Humphrey","party":"R","isPrimary":true},
+    {"peopleId":20509,"name":"Allison Dahle","party":"D","isPrimary":true},
+    {"peopleId":18449,"name":"Cynthia Ball","party":"D","isPrimary":false},
+    {"peopleId":18451,"name":"Mary Belk","party":"D","isPrimary":false},
+    {"peopleId":24198,"name":"Gloristine Brown","party":"D","isPrimary":false},
+    {"peopleId":19238,"name":"Deb Butler","party":"D","isPrimary":false},
+    {"peopleId":24202,"name":"Maria Cervania","party":"D","isPrimary":false},
+    {"peopleId":25851,"name":"Aisha Dew","party":"D","isPrimary":false},
+    {"peopleId":25844,"name":"Julia Greenfield","party":"D","isPrimary":false},
+    {"peopleId":19360,"name":"Marcia Morey","party":"D","isPrimary":false},
+    {"peopleId":24214,"name":"Renee Price","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

@@ -1,0 +1,26 @@
+{
+  "billId": 1992467,
+  "billNumber": "H304",
+  "title": "Allow Flex. for Trades HS in Iredell Co",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "8e30a93d2fe64c89e61c5721e8a580ca",
+  "lastAction": "Ref to the Com on Education - K-12, if favorable, Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-03-06",
+  "url": "https://legiscan.com/NC/bill/H304/2025",
+  "aiSummary": "This bill allows the Iredell-Statesville Schools to operate one Trades High School for grades 10-12 focused on Career and Technical Education, with flexibility from certain state regulations. The school would issue a 'Trades Diploma' requiring at least 22 credits, with diploma requirements set by the local school board and submitted to the State Board of Education.",
+  "aiProArguments": "Supporters argue this bill provides students with an alternative educational pathway suited to those interested in skilled trades and technical careers rather than traditional academics. Proponents contend that the flexibility allows the school to better tailor instruction, staffing, and curriculum to prepare students for high-demand jobs in trades, which can lead to good-paying careers without requiring a four-year college degree.",
+  "aiConArguments": "Opponents may be concerned that exempting the school from certain state statutes could reduce oversight and standardization, potentially affecting educational quality or accountability. Critics might also worry that the 50% teacher licensing requirement and alternative diploma standards could create a two-tiered system or cause employers to question the value of a Trades Diploma compared to a standard high school diploma.",
+  "topic": "Education",
+  "textLength": 3505,
+  "createdAt": "2026-06-23T02:47:56.417Z",
+  "sponsors": [
+    {"peopleId":21375,"name":"Jeffrey McNeely","party":"R","isPrimary":true},
+    {"peopleId":2122,"name":"Mitchell Setzer","party":"R","isPrimary":true},
+    {"peopleId":25857,"name":"Richard Carver","party":"R","isPrimary":true},
+    {"peopleId":20515,"name":"Zack Forde-Hawkins","party":"D","isPrimary":false},
+    {"peopleId":24206,"name":"Frances Jackson","party":"D","isPrimary":false},
+    {"peopleId":22610,"name":"Matthew Winslow","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

@@ -1,0 +1,24 @@
+{
+  "billId": 2013103,
+  "billNumber": "S415",
+  "title": "Patient Safety/Med. Imaging/Radiation Therapy",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "7d98478d7483b2cde7c9959114ceca74",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-25",
+  "url": "https://legiscan.com/NC/bill/S415/2025",
+  "aiSummary": "This bill creates a new licensing system in North Carolina for medical imaging professionals and radiation therapists, including radiographers, sonographers, radiation therapists, and technologists in various imaging specialties. It establishes the Medical Imaging and Radiation Therapy Board of Examiners to set standards, issue licenses, enforce requirements, and conduct disciplinary proceedings to ensure that only qualified, educated professionals perform these procedures on patients.",
+  "aiProArguments": "Supporters argue this bill protects patient safety by requiring medical imaging and radiation therapy professionals to meet education and certification standards before performing procedures that involve ionizing radiation or advanced medical technology. The bill ensures consistency across the state, creates accountability through a professional licensing board, and allows the board to update standards as technology evolves. It also addresses a gap where some imaging professionals currently work without formal licensure requirements.",
+  "aiConArguments": "Opponents may argue the bill increases regulatory burden and costs for medical facilities and professionals, particularly in rural areas that may struggle to find enough licensed practitioners. The licensing fees and continuing education requirements could increase healthcare costs. Some existing practitioners who have performed these services without formal certification may face difficulties obtaining licenses, potentially creating workforce shortages. The bill also allows limited exceptions that some argue create inconsistent standards (such as exemptions for veterinarians and employees of specific practitioners).",
+  "topic": "Healthcare",
+  "textLength": 41822,
+  "createdAt": "2026-06-23T03:07:37.183Z",
+  "sponsors": [
+    {"peopleId":11858,"name":"Timothy Moffitt","party":"R","isPrimary":true},
+    {"peopleId":25250,"name":"Dana Jones","party":"R","isPrimary":true},
+    {"peopleId":20513,"name":"Bobby Hanig","party":"R","isPrimary":true},
+    {"peopleId":20216,"name":"Jim Burgin","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

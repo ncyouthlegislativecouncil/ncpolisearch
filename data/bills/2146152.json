@@ -1,0 +1,21 @@
+{
+  "billId": 2146152,
+  "billNumber": "S878",
+  "title": "Investment in Pinetops' Police Department",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "c6c83727b76d0a487b67c655c3aa0515",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2026-04-29",
+  "url": "https://legiscan.com/NC/bill/S878/2025",
+  "aiSummary": "This bill appropriates $150,000 in recurring annual state funds and $100,000 in one-time state funds to the Town of Pinetops to help pay for police department staffing and equipment needs. The funds begin in fiscal year 2026-2027.",
+  "aiProArguments": "Supporters argue that state funding helps small towns maintain adequate police services that might otherwise be unaffordable through local budgets alone. The grant provides resources for both hiring officers and purchasing necessary equipment, which can improve public safety and emergency response capabilities in Pinetops.",
+  "aiConArguments": "Opponents may question why state General Fund dollars should support a specific town's police department rather than allowing local government to fund its own services, and whether this sets a precedent for similar requests from other municipalities. Some may also ask whether the directed grant is the most efficient use of limited state resources compared to broader public safety funding formulas.",
+  "topic": "Criminal Justice & Public Safety",
+  "textLength": 1181,
+  "createdAt": "2026-06-23T03:11:31.396Z",
+  "sponsors": [
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":true}
+  ],
+  "rollCalls": []
+}

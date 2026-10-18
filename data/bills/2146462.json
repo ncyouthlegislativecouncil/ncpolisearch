@@ -1,0 +1,24 @@
+{
+  "billId": 2146462,
+  "billNumber": "S896",
+  "title": "Increase Medicaid PCS and PDN Rates",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "d4b4737e63db726422f4352f1f50794c",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2026-05-06",
+  "url": "https://legiscan.com/NC/bill/S896/2025",
+  "aiSummary": "This bill increases Medicaid reimbursement rates for two types of home healthcare services in North Carolina: personal care services (PCS) to $7.50 per 15-minute increment and private duty nursing (PDN) services to $16.25 per 15-minute increment. The state would allocate $120.8 million and $20.1 million respectively from the General Fund, with matching federal funds, beginning in fiscal year 2026-2027.",
+  "aiProArguments": "Supporters argue that higher reimbursement rates are necessary to attract and retain qualified healthcare workers in personal care and nursing services, addressing workforce shortages in home healthcare. They contend that better pay improves service quality and access for Medicaid beneficiaries who rely on these services to remain in their homes rather than institutional settings, while also supporting small businesses and individual providers who deliver these services.",
+  "aiConArguments": "Opponents may argue that the $141 million in state General Fund expenditure (before federal match) represents significant spending that could be directed to other state priorities or budget needs. They might question whether rate increases are the most effective way to address workforce challenges, and could express concerns about the long-term fiscal impact of recurring appropriations and whether the reimbursement levels are sustainable or sufficient to achieve stated goals.",
+  "topic": "Healthcare",
+  "textLength": 2370,
+  "createdAt": "2026-06-23T03:11:40.025Z",
+  "sponsors": [
+    {"peopleId":20216,"name":"Jim Burgin","party":"R","isPrimary":true},
+    {"peopleId":17147,"name":"Gale Adcock","party":"D","isPrimary":false},
+    {"peopleId":24222,"name":"Lisa Grafstein","party":"D","isPrimary":false},
+    {"peopleId":11858,"name":"Timothy Moffitt","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

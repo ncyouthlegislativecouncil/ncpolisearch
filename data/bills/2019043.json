@@ -1,0 +1,27 @@
+{
+  "billId": 2019043,
+  "billNumber": "H745",
+  "title": "Fair Competition Study Act",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "feae3f605a7017945a38f067c6b75cb6",
+  "lastAction": "Re-ref Com On Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-04-03",
+  "url": "https://legiscan.com/NC/bill/H745/2025",
+  "aiSummary": "This bill directs the North Carolina Public Utilities Commission to conduct a study examining North Carolina's current energy market structure and whether the state should reform it by adopting an energy imbalance market or a regional transmission organization. The study would evaluate costs, benefits, and impacts on rates, reliability, environmental quality, and vulnerable communities, with results due within one year and $350,000 appropriated for the research.",
+  "aiProArguments": "Supporters argue that this study is necessary to evaluate whether market reforms could improve competition, lower electricity costs for consumers, increase renewable energy adoption to meet North Carolina's climate goals, and enhance grid efficiency. They point out that South Carolina has already conducted a similar study and that examining these options helps the state make informed decisions about electricity market structure without committing to changes before understanding the full implications.",
+  "aiConArguments": "Opponents may be concerned that this study could lead to major restructuring of North Carolina's electricity market, which could disrupt reliable service, increase costs for consumers and ratepayers, and require expensive regulatory changes and federal approvals. They argue that the current vertically integrated utility system has provided reliable service and that the study represents a step toward potentially dismantling a working system in favor of uncertain alternatives.",
+  "topic": "Environment & Energy",
+  "textLength": 7289,
+  "createdAt": "2026-06-23T02:57:10.659Z",
+  "sponsors": [
+    {"peopleId":22613,"name":"Ben Moss","party":"R","isPrimary":true},
+    {"peopleId":2077,"name":"Mary Harrison","party":"D","isPrimary":true},
+    {"peopleId":20515,"name":"Zack Forde-Hawkins","party":"D","isPrimary":true},
+    {"peopleId":24202,"name":"Maria Cervania","party":"D","isPrimary":true},
+    {"peopleId":19238,"name":"Deb Butler","party":"D","isPrimary":false},
+    {"peopleId":24206,"name":"Frances Jackson","party":"D","isPrimary":false},
+    {"peopleId":24219,"name":"Bill Ward","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

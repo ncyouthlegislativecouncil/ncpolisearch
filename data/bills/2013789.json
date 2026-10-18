@@ -1,0 +1,24 @@
+{
+  "billId": 2013789,
+  "billNumber": "S517",
+  "title": "Fair Pricing & Trnspncy/340B Covered Entities",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "70b11c9cdf77ba63b6baf11273bc5128",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-26",
+  "url": "https://legiscan.com/NC/bill/S517/2025",
+  "aiSummary": "This bill establishes two requirements for North Carolina hospitals and other entities participating in the federal 340B drug pricing program. First, it prohibits these covered entities from charging patients more than their actual acquisition cost when dispensing drugs purchased at 340B discounted prices. Second, it requires covered entities to annually report detailed information about their 340B drug purchases, pricing, patient assistance programs, and third-party payments to the state Department of Health and Human Services, with reports made public online.",
+  "aiProArguments": "Supporters argue this bill prevents hospitals from profiting excessively on discounted drugs meant to help vulnerable populations. By requiring covered entities to pass savings to patients and disclose their 340B practices, the bill aims to ensure that federal drug discounts actually benefit patients rather than inflating hospital revenues. Transparency advocates contend that public reporting will expose any misuse of the 340B program and hold institutions accountable for using discounts as intended.",
+  "aiConArguments": "Opponents may argue the bill imposes administrative burdens and costs on hospitals through extensive annual reporting requirements, potentially diverting resources from patient care. Some contend that the pricing restrictions could discourage hospital participation in the 340B program or reduce their ability to fund charity care and community health programs. Critics might also question whether state-level oversight duplicates federal 340B program oversight and whether public disclosure of detailed financial information creates competitive disadvantages or privacy concerns.",
+  "topic": "Healthcare",
+  "textLength": 7203,
+  "createdAt": "2026-06-23T03:08:32.241Z",
+  "sponsors": [
+    {"peopleId":22423,"name":"Amy Galey","party":"R","isPrimary":true},
+    {"peopleId":20216,"name":"Jim Burgin","party":"R","isPrimary":true},
+    {"peopleId":24225,"name":"Benton Sawrey","party":"R","isPrimary":true},
+    {"peopleId":17457,"name":"Paul Lowe","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

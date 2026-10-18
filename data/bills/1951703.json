@@ -1,0 +1,21 @@
+{
+  "billId": 1951703,
+  "billNumber": "S40",
+  "title": "16th Senatorial District Local Act-1",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "c958458b7ac453c007450015d21dcc2f",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-02-04",
+  "url": "https://legiscan.com/NC/bill/S40/2025",
+  "aiSummary": "This is a local bill that applies only to North Carolina's 16th Senatorial District. The bill text provided does not specify what changes or policies it contains—it only establishes that any provisions apply solely to that district and takes effect upon passage.",
+  "aiProArguments": "Supporters of local bills argue they allow the General Assembly to address specific regional needs that don't apply statewide. Local legislation can provide tailored solutions for particular districts' unique circumstances, governance challenges, or community interests without affecting other areas of the state.",
+  "aiConArguments": "Opponents of local bills raise concerns about transparency and fairness, since the public cannot determine the actual purpose or impact without knowing the bill's specific provisions. Critics also worry that local bills can create inconsistent policies across districts and may lack the public scrutiny that statewide legislation receives.",
+  "topic": "Local Government",
+  "textLength": 506,
+  "createdAt": "2026-06-23T03:04:23.010Z",
+  "sponsors": [
+    {"peopleId":17147,"name":"Gale Adcock","party":"D","isPrimary":true}
+  ],
+  "rollCalls": []
+}

@@ -1,0 +1,24 @@
+{
+  "billId": 2014030,
+  "billNumber": "S674",
+  "title": "Lic. Mental Health Reciprocity/Recognition",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "9bd6001b4a47badb7f59833e0b1ea740",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-26",
+  "url": "https://legiscan.com/NC/bill/S674/2025",
+  "aiSummary": "This bill allows licensed mental health professionals (counselors, therapists, psychologists, and psychiatrists) who are licensed in other states to practice in North Carolina without getting a new North Carolina license, as long as they meet certain requirements like two years of recent practice experience and have no disciplinary issues. Licensing boards must decide on applications within 60 days.",
+  "aiProArguments": "Supporters argue this bill increases access to mental health care in North Carolina by removing licensing barriers that can delay patients getting help. They contend that professionals already licensed and practicing in other states have proven their competency, making separate North Carolina licensing unnecessary and costly. This reciprocity approach could help address mental health professional shortages, particularly in rural areas.",
+  "aiConArguments": "Opponents may be concerned that reciprocity could allow practitioners with lower licensing standards from other states to practice in North Carolina without full state review. Some worry this could reduce income and opportunities for North Carolina-licensed professionals, and they may question whether two years of out-of-state experience is sufficient to ensure quality care under North Carolina's specific regulations and standards.",
+  "topic": "Healthcare",
+  "textLength": 4362,
+  "createdAt": "2026-06-23T03:09:54.662Z",
+  "sponsors": [
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":true},
+    {"peopleId":24222,"name":"Lisa Grafstein","party":"D","isPrimary":true},
+    {"peopleId":25860,"name":"Woodson Bradley","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

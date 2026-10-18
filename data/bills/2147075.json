@@ -1,0 +1,28 @@
+{
+  "billId": 2147075,
+  "billNumber": "S1056",
+  "title": "NC Small Business Capital & Jobs Act",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "206e9828f49021ad65b3f5f4f9bb5395",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2026-05-05",
+  "url": "https://legiscan.com/NC/bill/S1056/2025",
+  "aiSummary": "This bill establishes the North Carolina Small Business Capital Access Program, a comprehensive initiative to help small businesses and companies in underserved communities access funding through loan guarantees, direct investments, technical assistance, and other support mechanisms. The bill creates a new Office of Small Business Capital Access within the Department of Commerce, an oversight board, and a $50 million fund to implement six main program components. It also modifies state tax credit laws to provide incentives for investments in eligible businesses that receive assistance from the program.",
+  "aiProArguments": "Supporters argue this bill addresses a significant problem: small businesses and companies in low-income and rural areas struggle to access capital needed for startup and growth, which limits economic development and job creation. The comprehensive approach combines loan guarantees to reduce lender risk, direct equity investments, support for community development financial institutions, technical assistance, and help with state procurement contracting. Supporters point to successful models in other states and note the $50 million investment will stimulate private lending and entrepreneurship while generating economic returns.",
+  "aiConArguments": "Opponents may raise concerns about the substantial state expenditure ($50 million recurring annually), potential inefficiencies in government-managed capital allocation, and whether market-driven lending decisions should be subsidized. Some question whether loan guarantees and direct state investments crowd out private capital or create moral hazard. Critics might also worry about implementation complexity with multiple program components, administrative overhead, and whether the oversight board structure ensures accountability. Additionally, concerns exist about whether benefits will be equitably distributed or concentrated in specific regions or industries.",
+  "topic": "Business & Labor",
+  "textLength": 57262,
+  "createdAt": "2026-06-23T03:13:00.401Z",
+  "sponsors": [
+    {"peopleId":20220,"name":"Michael Garrett","party":"D","isPrimary":true},
+    {"peopleId":20505,"name":"Sydney Batch","party":"D","isPrimary":true},
+    {"peopleId":22426,"name":"DeAndrea Salvador","party":"D","isPrimary":true},
+    {"peopleId":24220,"name":"Val Applewhite","party":"D","isPrimary":false},
+    {"peopleId":20223,"name":"Mujtaba Mohammed","party":"D","isPrimary":false},
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":false},
+    {"peopleId":25859,"name":"Caleb Theodros","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

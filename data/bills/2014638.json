@@ -1,0 +1,25 @@
+{
+  "billId": 2014638,
+  "billNumber": "S753",
+  "title": "NC Highway Patrol Retention Act",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "cf16e43c22ab723c0c69c6d5cda30815",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2025-03-26",
+  "url": "https://legiscan.com/NC/bill/S753/2025",
+  "aiSummary": "This bill appropriates $40.48 million annually for the 2025-2027 fiscal biennium to increase salaries for North Carolina State Highway Patrol officers. The law establishes new experience-based pay scales for troopers ranging from $56,000 to $105,000 and rank-based salaries for supervisory officers ranging from $120,750 to $224,612, effective July 1, 2025.",
+  "aiProArguments": "Supporters argue this bill addresses recruitment and retention challenges in law enforcement by making Highway Patrol positions more competitive with other employment opportunities. They contend that higher pay helps attract qualified candidates, reduces costly turnover, and improves morale among existing officers, ultimately supporting highway safety and public security.",
+  "aiConArguments": "Opponents may be concerned about the $40.48 million annual cost to the state's General Fund during a time of competing budget priorities. They might question whether this funding level is sustainable long-term and whether similar pay increases should be considered for other state agencies and public employees, raising equity and budgetary fairness issues.",
+  "topic": "Taxes & Budget",
+  "textLength": 1667,
+  "createdAt": "2026-06-23T03:10:33.133Z",
+  "sponsors": [
+    {"peopleId":25860,"name":"Woodson Bradley","party":"D","isPrimary":true},
+    {"peopleId":24222,"name":"Lisa Grafstein","party":"D","isPrimary":true},
+    {"peopleId":20510,"name":"Terence Everitt","party":"D","isPrimary":true},
+    {"peopleId":20220,"name":"Michael Garrett","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

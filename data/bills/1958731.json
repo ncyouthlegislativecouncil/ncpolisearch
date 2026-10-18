@@ -1,0 +1,21 @@
+{
+  "billId": 1958731,
+  "billNumber": "S64",
+  "title": "14th Senatorial District Local Act-1",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "64fbde071027c67bf5222dc8f150e170",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-02-10",
+  "url": "https://legiscan.com/NC/bill/S64/2025",
+  "aiSummary": "This is a local bill that applies only to North Carolina's 14th Senatorial District. The bill text does not specify what changes it makes to the district, only that it relates to that district and takes effect upon becoming law.",
+  "aiProArguments": "Supporters of local bills argue they allow the General Assembly to address specific regional needs and circumstances that may not apply statewide. This bill may address particular concerns or adjustments relevant only to the 14th Senatorial District and its constituents.",
+  "aiConArguments": "Critics of local bills often argue they lack transparency since the specific provisions are not detailed in the provided text, making it difficult for the public to understand what is being changed. Some question whether local acts should require the same public scrutiny and debate as broader legislation that affects larger populations.",
+  "topic": "Local Government",
+  "textLength": 505,
+  "createdAt": "2026-06-23T03:04:36.504Z",
+  "sponsors": [
+    {"peopleId":2033,"name":"Daniel Blue","party":"D","isPrimary":true}
+  ],
+  "rollCalls": []
+}

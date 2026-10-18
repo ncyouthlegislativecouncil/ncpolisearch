@@ -1,0 +1,21 @@
+{
+  "billId": 2146937,
+  "billNumber": "S1002",
+  "title": "Micro-Budget Productions & Film Grant Changes",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "80ce4f5a56e3112c7bb28483e8219e43",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2026-05-05",
+  "url": "https://legiscan.com/NC/bill/S1002/2025",
+  "aiSummary": "This bill modifies North Carolina's film and entertainment grant program by increasing maximum grant amounts for major productions (from $7 million to $20 million for feature films and from $15 million to $25 million for TV series) and creates a new Micro-Budget Productions Account with $1.5 million in funding to support smaller film and video projects with budgets between $50,000 and $1.5 million.",
+  "aiProArguments": "Supporters argue the increased grant caps make North Carolina more competitive in attracting major film and television productions, which create jobs and economic activity. The new micro-budget program specifically helps emerging filmmakers and smaller production companies develop the state's creative industry at the grassroots level, while bonus incentives encourage hiring North Carolina residents and filming in economically disadvantaged areas.",
+  "aiConArguments": "Opponents may contend that significantly raising grant caps (nearly tripling them for some productions) represents a large public investment with uncertain return on investment and job creation. Critics could argue that subsidizing highly compensated entertainment figures (now allowing up to $4 million per individual) prioritizes wealthy producers over other state spending priorities, and that smaller productions may still struggle to meet the $50,000 minimum qualifying expense threshold.",
+  "topic": "Business & Labor",
+  "textLength": 10311,
+  "createdAt": "2026-06-23T03:12:31.938Z",
+  "sponsors": [
+    {"peopleId":17504,"name":"Michael Lee","party":"R","isPrimary":true}
+  ],
+  "rollCalls": []
+}

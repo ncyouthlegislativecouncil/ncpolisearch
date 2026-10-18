@@ -1,0 +1,28 @@
+{
+  "billId": 1992686,
+  "billNumber": "S247",
+  "title": "Redirect Crisis Pregnancy Center Funds",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "5a7a19be9ebb2c5574152767952e4a35",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2025-03-06",
+  "url": "https://legiscan.com/NC/bill/S247/2025",
+  "aiSummary": "This bill redirects $6.25 million annually from state funding for crisis pregnancy centers to evidence-based maternal and infant health programs. It also requires the State Auditor to audit Carolina Pregnancy Care Fellowship and establishes detailed reporting requirements for crisis pregnancy centers that receive state funds, including information about services offered, staffing qualifications, and client demographics.",
+  "aiProArguments": "Supporters argue this bill improves accountability for how taxpayer money is spent by requiring crisis pregnancy centers to report detailed operational and financial information to the state. They contend that redirecting funds to evidence-based maternal health programs will produce better health outcomes, and that the audit and reporting requirements ensure these centers meet professional standards and genuinely serve pregnant women's comprehensive needs.",
+  "aiConArguments": "Opponents argue the bill targets crisis pregnancy centers with extensive reporting burdens that other healthcare providers may not face, potentially making it difficult for these organizations to operate. They contend that defunding these centers removes support for organizations providing free services and that the detailed reporting requirements, particularly about client referral delays and whether centers present themselves as medical facilities, may be designed to restrict these centers' activities rather than improve transparency.",
+  "topic": "Healthcare",
+  "textLength": 8360,
+  "createdAt": "2026-06-23T03:06:06.478Z",
+  "sponsors": [
+    {"peopleId":25858,"name":"Sophia Chitlik","party":"D","isPrimary":true},
+    {"peopleId":21633,"name":"Natalie Murdock","party":"D","isPrimary":true},
+    {"peopleId":25860,"name":"Woodson Bradley","party":"D","isPrimary":true},
+    {"peopleId":17147,"name":"Gale Adcock","party":"D","isPrimary":false},
+    {"peopleId":24222,"name":"Lisa Grafstein","party":"D","isPrimary":false},
+    {"peopleId":22425,"name":"Julie Mayfield","party":"D","isPrimary":false},
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":false},
+    {"peopleId":25859,"name":"Caleb Theodros","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

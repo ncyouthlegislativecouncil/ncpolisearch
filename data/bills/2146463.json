@@ -1,0 +1,21 @@
+{
+  "billId": 2146463,
+  "billNumber": "S926",
+  "title": "Funds for Winston-Salem Urban League",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "cb1a621f9be4a294330cd73efedc89f3",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2026-04-30",
+  "url": "https://legiscan.com/NC/bill/S926/2025",
+  "aiSummary": "This bill appropriates $100,000 in state funds to the Winston-Salem Urban League for the 2026-2027 fiscal year to support programs focused on economic empowerment, education, and workforce development. The funds are nonrecurring, meaning they are a one-time allocation rather than an ongoing annual appropriation.",
+  "aiProArguments": "Supporters argue that the Urban League provides valuable services to underserved communities through job training, education programs, and economic development initiatives. They contend that a $100,000 investment helps address workforce gaps, promotes educational opportunity, and strengthens the local economy in Winston-Salem by supporting residents in gaining skills and employment.",
+  "aiConArguments": "Opponents may question whether directed grants to specific organizations represent the most efficient use of state funds and argue that competitive grant processes might ensure broader accountability. Some may also express concerns about whether nonrecurring appropriations create sustainable support, or whether general education and workforce funding mechanisms would better serve the stated goals.",
+  "topic": "Taxes & Budget",
+  "textLength": 793,
+  "createdAt": "2026-06-23T03:11:56.288Z",
+  "sponsors": [
+    {"peopleId":17457,"name":"Paul Lowe","party":"D","isPrimary":true}
+  ],
+  "rollCalls": []
+}

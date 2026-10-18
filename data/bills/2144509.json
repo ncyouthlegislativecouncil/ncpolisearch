@@ -1,0 +1,24 @@
+{
+  "billId": 2144509,
+  "billNumber": "S791",
+  "title": "Enhanced Penalty/Dom. Violence Strangulation",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "2f8c1d73c50b7deb64fb83aa4d62330e",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2026-04-23",
+  "url": "https://legiscan.com/NC/bill/S791/2025",
+  "aiSummary": "This bill increases penalties for assault by strangulation in North Carolina by moving certain offenses to more severe felony classifications. Assault with serious bodily injury by strangulation would change from a Class F to Class E felony, assault inflicting physical injury by strangulation would change from Class H to Class G felony, and the bill allocates $3 million for a public awareness campaign about these enhanced penalties, effective December 1, 2026.",
+  "aiProArguments": "Supporters argue that strangulation is a particularly dangerous and life-threatening form of assault that deserves stronger legal consequences. They contend that enhanced penalties reflect the severity of the crime and may deter would-be offenders, while also raising public awareness about this form of violence through the funded education campaign.",
+  "aiConArguments": "Opponents may argue that increasing penalties does not necessarily reduce crime rates and that resources might be better spent on prevention, victim support services, or treatment programs. Some may also question whether the $3 million awareness campaign is the most effective use of public funds compared to other criminal justice investments.",
+  "topic": "Criminal Justice & Public Safety",
+  "textLength": 2701,
+  "createdAt": "2026-06-23T03:10:46.765Z",
+  "sponsors": [
+    {"peopleId":25860,"name":"Woodson Bradley","party":"D","isPrimary":true},
+    {"peopleId":21633,"name":"Natalie Murdock","party":"D","isPrimary":false},
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

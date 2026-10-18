@@ -1,0 +1,21 @@
+{
+  "billId": 2146954,
+  "billNumber": "S1050",
+  "title": "Office of State Fire Marshal ESF Mods",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "591e9e731e3a612aeda61795eb6263cb",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2026-05-04",
+  "url": "https://legiscan.com/NC/bill/S1050/2025",
+  "aiSummary": "This bill transfers leadership of three emergency response functions—firefighting, search and rescue, and hazardous materials response—from the Division of Emergency Management to the Office of State Fire Marshal. It also establishes a disaster response fund using approximately $4.9 million in unspent Hurricane Helene relief funds to support fire departments and rescue squads.",
+  "aiProArguments": "Supporters argue this consolidates related emergency functions under one agency with specialized expertise in fire and rescue operations, potentially improving coordination and response efficiency. They contend that aligning firefighting, search and rescue, and hazmat response under the State Fire Marshal creates a more streamlined command structure during emergencies and allows the Office to directly manage resources without multiple agency layers.",
+  "aiConArguments": "Opponents may be concerned about fragmenting emergency management by removing these functions from the centralized Division of Emergency Management, potentially creating coordination gaps with other emergency support functions. They might also worry about the transition of personnel, resources, and contracts between agencies, and question whether the State Fire Marshal's office has adequate capacity and expertise to manage hazardous materials response, which traditionally involves environmental agencies.",
+  "topic": "Criminal Justice & Public Safety",
+  "textLength": 27529,
+  "createdAt": "2026-06-23T03:12:57.767Z",
+  "sponsors": [
+    {"peopleId":20222,"name":"Todd Johnson","party":"R","isPrimary":true}
+  ],
+  "rollCalls": []
+}

@@ -1,0 +1,22 @@
+{
+  "billId": 2010717,
+  "billNumber": "S339",
+  "title": "Restore NC Bar Appoint's/Judicial Discipline",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "9d8b6f65b35f1c394473f38a875ac1de",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-20",
+  "url": "https://legiscan.com/NC/bill/S339/2025",
+  "aiSummary": "This bill changes how judges are disciplined in North Carolina by giving the State Bar Council the power to appoint four members to the Judicial Standards Commission (instead of the General Assembly), and it reinstates previous procedures for judicial discipline including the ability to issue public reprimands and defining when such discipline is appropriate.",
+  "aiProArguments": "Supporters argue this bill restores professional accountability by allowing lawyers through the State Bar Council to participate in judicial discipline rather than leaving it entirely to politicians in the General Assembly. They contend this change makes the disciplinary process more independent and expert-driven, ensuring judges are evaluated by legal professionals who understand judicial conduct standards rather than by legislators who may have political motivations.",
+  "aiConArguments": "Opponents may argue that removing General Assembly appointments reduces democratic oversight of judicial discipline and gives too much power to a private professional organization (the State Bar). They could contend that elected representatives should have a voice in disciplining public officials who were selected through the political process, and that concentrating authority in the State Bar Council makes the system less transparent and accountable to ordinary citizens.",
+  "topic": "Local Government",
+  "textLength": 9551,
+  "createdAt": "2026-06-23T03:06:55.628Z",
+  "sponsors": [
+    {"peopleId":20510,"name":"Terence Everitt","party":"D","isPrimary":true},
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

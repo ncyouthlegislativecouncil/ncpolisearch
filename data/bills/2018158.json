@@ -1,0 +1,23 @@
+{
+  "billId": 2018158,
+  "billNumber": "H666",
+  "title": "Wildlife Resources Commission Term Limits",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "8ddb3316ff0ca4a494aeb523b03a4d3c",
+  "lastAction": "Ref To Com On Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-04-03",
+  "url": "https://legiscan.com/NC/bill/H666/2025",
+  "aiSummary": "This bill changes the North Carolina Wildlife Resources Commission so that all members serve two-year terms instead of the current mix of two, four, and six-year terms. It also limits Commission members to a maximum of three consecutive two-year terms (six years total), though current members are allowed to complete their existing terms.",
+  "aiProArguments": "Supporters argue that shorter, uniform term lengths increase accountability and allow the Governor and General Assembly to refresh Commission membership more frequently with new perspectives and policies. They contend that the three-term limit prevents any single member from accumulating excessive influence while still allowing experienced leaders to serve a meaningful tenure.",
+  "aiConArguments": "Opponents may argue that shortening terms from six years to two years reduces institutional continuity and expertise on wildlife management issues that require long-term knowledge. They could also contend that more frequent turnover creates additional administrative burden in recruiting and training new members, potentially disrupting the Commission's ability to implement long-term conservation strategies.",
+  "topic": "Local Government",
+  "textLength": 3968,
+  "createdAt": "2026-06-23T02:56:08.651Z",
+  "sponsors": [
+    {"peopleId":22613,"name":"Ben Moss","party":"R","isPrimary":true},
+    {"peopleId":20519,"name":"Keith Kidwell","party":"R","isPrimary":false},
+    {"peopleId":24219,"name":"Bill Ward","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

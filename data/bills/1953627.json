@@ -1,0 +1,21 @@
+{
+  "billId": 1953627,
+  "billNumber": "S46",
+  "title": "Lincoln/Catawba Common Boundary Line",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "08c60ce71711f77584665d7bfd90d698",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-02-05",
+  "url": "https://legiscan.com/NC/bill/S46/2025",
+  "aiSummary": "This bill establishes the current boundary line between Lincoln and Catawba counties—the one they use for taxation and on their maps—as the official legal boundary. It requires a new official survey of this boundary within 42 months (paid for by Lincoln County) and ensures that property records filed in either county before this law takes effect remain valid, while future filings go to the correct county based on the new boundary.",
+  "aiProArguments": "Supporters argue this bill resolves boundary line uncertainty and confusion between the two counties by fixing a boundary they already use in practice, eliminating potential disputes over taxation and property jurisdiction. This provides clarity and stability for residents and businesses in the affected areas, and the bill protects both counties and their officials from liability related to the boundary change, allowing them to implement it without fear of lawsuits.",
+  "aiConArguments": "Opponents may argue that this bill essentially overrides a 2024 Geodetic Survey—the professional technical standard—without explaining why that survey was incorrect or inappropriate. Additionally, by making Lincoln County pay the full cost of the new survey and releasing both counties from all liability, the bill may shield the counties from accountability if the boundary causes problems for property owners, and it could set a precedent of legislative intervention in technical boundary disputes rather than relying on professional surveying standards.",
+  "topic": "Local Government",
+  "textLength": 4533,
+  "createdAt": "2026-06-23T03:04:25.357Z",
+  "sponsors": [
+    {"peopleId":20225,"name":"Ted Alexander","party":"R","isPrimary":true}
+  ],
+  "rollCalls": []
+}

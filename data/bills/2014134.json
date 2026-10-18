@@ -1,0 +1,22 @@
+{
+  "billId": 2014134,
+  "billNumber": "S665",
+  "title": "Upland Basin Permitting Reform",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "e08906c0d963f023a3df9b44bd931e89",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-26",
+  "url": "https://legiscan.com/NC/bill/S665/2025",
+  "aiSummary": "This bill creates a streamlined permitting process for upland basins—marinas built by excavating land above the waterline to hold 10 or more boats. The bill sets specific environmental criteria (dissolved oxygen levels, wetland impact limits, buffers, and water quality standards) and requires state agencies to approve applications within 60 days if these criteria are met, with automatic approval if agencies miss the deadline.",
+  "aiProArguments": "Supporters argue this bill benefits waterfront property owners by providing clearer, faster access to state waters through upland basins rather than traditional open-water marinas. They contend that upland basins reduce storm debris impacts, preserve water quality when properly designed, decrease the need for onshore parking, and allow use of new technologies to maintain dissolved oxygen levels. The streamlined 60-day approval timeline is intended to reduce bureaucratic delays while still protecting environmental standards.",
+  "aiConArguments": "Opponents worry the bill weakens environmental protections by creating a presumption of compliance with water quality and wetland standards once the listed criteria are met, potentially limiting case-by-case environmental review. They express concerns about the automatic approval provision if agencies fail to meet deadlines, which could incentivize rushing reviews, and about exemptions from stormwater management requirements. Critics also question whether 24 months of monitoring is sufficient to ensure long-term water quality and whether dissolved oxygen testing at only one reference point adequately protects surrounding ecosystems.",
+  "topic": "Environment & Energy",
+  "textLength": 13040,
+  "createdAt": "2026-06-23T03:09:49.079Z",
+  "sponsors": [
+    {"peopleId":20513,"name":"Bobby Hanig","party":"R","isPrimary":true},
+    {"peopleId":11862,"name":"Norman Sanderson","party":"R","isPrimary":true}
+  ],
+  "rollCalls": []
+}

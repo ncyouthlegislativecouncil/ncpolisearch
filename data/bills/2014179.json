@@ -1,0 +1,28 @@
+{
+  "billId": 2014179,
+  "billNumber": "S606",
+  "title": "Language Access & State Holidays Act",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "9f13a9d830ab1aeb3c97cb7c83204d8d",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-26",
+  "url": "https://legiscan.com/NC/bill/S606/2025",
+  "aiSummary": "This bill expands language access to state services by requiring driver's license materials and traffic signs to be available in 25 languages, mandating school documents be translated into those same languages, and appropriating funds for multilingual health care materials. It also adds six new cultural and religious holidays (Lunar New Year, Greek Independence Day, Eid al-Adha, Eid al-Fitr, Yom Kippur, Diwali, and Rosh Hashanah) as legal public holidays and encourages schools and state agencies to accommodate religious holiday observances.",
+  "aiProArguments": "Supporters argue the bill improves public safety and economic opportunity by making critical services accessible to North Carolina's growing non-English-speaking population, particularly for driver licensing and healthcare. They contend that recognizing diverse cultural and religious holidays reflects the state's changing demographics, promotes inclusion, and shows respect for all communities, while the language access provisions help immigrants and non-English speakers navigate essential government services more effectively.",
+  "aiConArguments": "Opponents may argue the bill creates significant administrative and financial burdens on schools, state agencies, and healthcare providers to translate materials and provide services in 25 languages, potentially diverting resources from other priorities. Some question whether adding holidays for specific religious observances while keeping Confederate Memorial Day represents inconsistent values, and others worry about implementation costs beyond the appropriated funding and the precedent of accommodating individual religious observances in public institutions.",
+  "topic": "Local Government",
+  "textLength": 13584,
+  "createdAt": "2026-06-23T03:09:16.971Z",
+  "sponsors": [
+    {"peopleId":20505,"name":"Sydney Batch","party":"D","isPrimary":true},
+    {"peopleId":17936,"name":"Jay Chaudhuri","party":"D","isPrimary":true},
+    {"peopleId":20223,"name":"Mujtaba Mohammed","party":"D","isPrimary":true},
+    {"peopleId":25858,"name":"Sophia Chitlik","party":"D","isPrimary":false},
+    {"peopleId":24222,"name":"Lisa Grafstein","party":"D","isPrimary":false},
+    {"peopleId":21633,"name":"Natalie Murdock","party":"D","isPrimary":false},
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

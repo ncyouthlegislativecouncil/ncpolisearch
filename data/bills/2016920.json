@@ -1,0 +1,25 @@
+{
+  "billId": 2016920,
+  "billNumber": "H584",
+  "title": "Permit/Provisional License Modifications",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "15ea3364c45e0d5ef855d666eeb896d8",
+  "lastAction": "Re-ref Com On Judiciary 1",
+  "lastActionDate": "2025-04-30",
+  "url": "https://legiscan.com/NC/bill/H584/2025",
+  "aiSummary": "This bill removes the requirement for a Driving Eligibility Certificate and driving log documentation for obtaining learner's permits and provisional licenses in North Carolina. It allows online applications for full provisional licenses, temporarily reduces the time needed to hold a learner's permit from nine to six months, extends the deadline for new residents to obtain a North Carolina license from 60 days to six months, and directs the Division of Motor Vehicles to improve efficiency for license applicants.",
+  "aiProArguments": "Supporters argue this bill reduces barriers to obtaining driver's licenses by eliminating paperwork requirements and allowing online applications, making the licensing process faster and more convenient. They contend it helps young drivers and new residents who face administrative hurdles, and that removing the Driving Eligibility Certificate requirement reduces school involvement in driver licensing. The bill is also seen as improving efficiency at the Division of Motor Vehicles by reducing in-person office visits.",
+  "aiConArguments": "Opponents may argue that removing the Driving Eligibility Certificate eliminates an important safety mechanism tied to school attendance and academic progress, potentially allowing students with serious disciplinary issues to obtain licenses more easily. Critics could be concerned that eliminating driving logs removes documentation of supervised practice hours, which some believe improves new driver safety. The extended timeline for new residents to obtain licenses might also be viewed as creating a period where people can drive with out-of-state licenses without North Carolina oversight.",
+  "topic": "Transportation & Infrastructure",
+  "textLength": 18845,
+  "createdAt": "2026-06-23T02:55:02.090Z",
+  "sponsors": [
+    {"peopleId":22609,"name":"David Willis","party":"R","isPrimary":true},
+    {"peopleId":21377,"name":"Jake Johnson","party":"R","isPrimary":true},
+    {"peopleId":21375,"name":"Jeffrey McNeely","party":"R","isPrimary":true},
+    {"peopleId":25852,"name":"Wyatt Gable","party":"R","isPrimary":true},
+    {"peopleId":22616,"name":"Ray Pickett","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

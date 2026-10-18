@@ -1,0 +1,23 @@
+{
+  "billId": 2013980,
+  "billNumber": "S490",
+  "title": "Augment Agency Appeal Rights",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "d62cf562f0716aac7c818f051e8f5d46",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-26",
+  "url": "https://legiscan.com/NC/bill/S490/2025",
+  "aiSummary": "This bill amends North Carolina law to allow people to appeal certain agency decisions to superior court, rather than having those decisions be final and non-reviewable. Specifically, it permits judicial review of agency determinations regarding claims for funding assistance under relocation and displacement assistance programs, provided the person has first exhausted all available administrative remedies and files within 30 days of the agency's decision.",
+  "aiProArguments": "Supporters argue this bill protects individuals' rights by ensuring agency decisions can be reviewed by courts rather than being completely final. This provides a check on agency power and allows people who believe they were wrongly denied funding assistance to have their case heard fairly in court. It also ensures people are properly notified of their appeal rights.",
+  "aiConArguments": "Opponents may argue that allowing judicial review of all agency funding determinations could increase litigation costs and delays for both agencies and applicants, potentially slowing the assistance process when timely help is needed. They might also contend that agencies and their staff are best positioned to make these decisions and that reopening them to court review undermines agency expertise and administrative efficiency.",
+  "topic": "Local Government",
+  "textLength": 4590,
+  "createdAt": "2026-06-23T03:08:18.623Z",
+  "sponsors": [
+    {"peopleId":11858,"name":"Timothy Moffitt","party":"R","isPrimary":true},
+    {"peopleId":24225,"name":"Benton Sawrey","party":"R","isPrimary":true},
+    {"peopleId":24223,"name":"Brad Overcash","party":"R","isPrimary":true}
+  ],
+  "rollCalls": []
+}

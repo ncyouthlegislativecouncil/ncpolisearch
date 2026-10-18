@@ -1,0 +1,25 @@
+{
+  "billId": 2013826,
+  "billNumber": "S505",
+  "title": "Address Abandoned and Derelict Vessels",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "0a661bfff6a9d172486e0753e2a3f0f4",
+  "lastAction": "Re-ref to State and Local Government. If fav, re-ref to Judiciary. If fav, re-ref to Rules and Operations of the Senate",
+  "lastActionDate": "2025-04-07",
+  "url": "https://legiscan.com/NC/bill/S505/2025",
+  "aiSummary": "This bill creates state authority to remove abandoned and derelict vessels from North Carolina waters and public/private land. It defines abandoned vessels as those left unattended for 30+ days without permission, and derelict vessels as those in poor condition that may be unsafe or harm the environment. The bill establishes procedures for notifying owners and removing non-compliant vessels, with costs charged to owners.",
+  "aiProArguments": "Supporters argue this bill addresses a public safety and environmental problem by giving state authorities clear legal tools to remove vessels that create navigation hazards, environmental damage, and eyesores in waterways. The bill protects waterway access for recreation and boating while holding vessel owners financially responsible for removal costs rather than shifting those expenses to taxpayers or local governments.",
+  "aiConArguments": "Opponents may be concerned about the broad removal authority granted to state officials without requiring a court order, the relatively short timelines (10-30 days) for owners to respond before forfeiture, and potential impacts on vessel owners who face emergencies or disputes over property ownership. Some may also question liability protections for the state and contractors when removing vessels, and whether the definition of 'unattended' adequately protects owners' due process rights.",
+  "topic": "Environment & Energy",
+  "textLength": 13736,
+  "createdAt": "2026-06-23T03:08:25.934Z",
+  "sponsors": [
+    {"peopleId":17504,"name":"Michael Lee","party":"R","isPrimary":true},
+    {"peopleId":20513,"name":"Bobby Hanig","party":"R","isPrimary":true},
+    {"peopleId":22424,"name":"Michael Lazzara","party":"R","isPrimary":true},
+    {"peopleId":17437,"name":"Thomas McInnis","party":"R","isPrimary":false},
+    {"peopleId":11862,"name":"Norman Sanderson","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

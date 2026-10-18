@@ -1,0 +1,21 @@
+{
+  "billId": 2004813,
+  "billNumber": "S277",
+  "title": "NC AHEC Recruitment & Retention Funds",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "aaba340cadab1fd706bbdb7e90506bc2",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2025-03-13",
+  "url": "https://legiscan.com/NC/bill/S277/2025",
+  "aiSummary": "This bill appropriates $750,000 in recurring state funding to the NC Area Health Education Centers (AHEC) program at UNC Chapel Hill to help recruit, train, and retain medical students and doctors in rural North Carolina. The funds will support convening health centers to share best practices and creating a publicly accessible database of that information.",
+  "aiProArguments": "Supporters argue that rural areas face critical shortages of healthcare professionals, and this funding helps address that gap by encouraging medical students and doctors to work in underserved communities. They contend that sharing best practices and creating a database will improve coordination across health centers and make recruitment and retention efforts more effective and evidence-based.",
+  "aiConArguments": "Opponents may question whether $750,000 is sufficient to meaningfully impact physician shortages in rural areas, or whether the funds would be better spent on direct incentives like loan forgiveness or salary support. Some might also argue that the state should prioritize other healthcare funding needs or that database creation and information-sharing alone may not be enough to solve underlying rural healthcare workforce challenges.",
+  "topic": "Healthcare",
+  "textLength": 1463,
+  "createdAt": "2026-06-23T03:06:20.041Z",
+  "sponsors": [
+    {"peopleId":24222,"name":"Lisa Grafstein","party":"D","isPrimary":true}
+  ],
+  "rollCalls": []
+}

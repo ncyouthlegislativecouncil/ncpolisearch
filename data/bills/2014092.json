@@ -1,0 +1,27 @@
+{
+  "billId": 2014092,
+  "billNumber": "S651",
+  "title": "The Hustle Act",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "942f4e4d3a458c12436f1b921cc3c745",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-26",
+  "url": "https://legiscan.com/NC/bill/S651/2025",
+  "aiSummary": "The Hustle Act establishes a comprehensive Small Business Capital Access Program within the NC Department of Commerce to help small businesses and minority/women-owned businesses (MWBEs) access financing. The program includes loan guarantees, direct equity investments, support for community lenders, technical assistance, and special financing for state contracts. The bill also expands an existing tax credit for investors in qualifying businesses and appropriates $50 million for the 2025-2026 fiscal year.",
+  "aiProArguments": "Supporters argue this bill addresses a real problem: small businesses and MWBEs struggle to get traditional bank loans despite viable business models. The program reduces lender risk through loan guarantees, provides growth capital through the MWBE fund, and helps businesses fulfill state contracts through specialized financing. Supporters point to successful models in other states and note the economic benefits of job creation, innovation, and wealth-building in underserved communities, including rural areas.",
+  "aiConArguments": "Opponents may worry about the fiscal cost ($50 million annually) and whether state government can efficiently manage complex investment programs. Concerns include: whether loan defaults will strain the program's sustainability; if the tax credit expansion ($500,000 individual limit, $10 million annual cap) is too generous; potential favoritism in selecting fund managers and board members; and whether the program creates market distortions by competing with private lenders. Some question if general revenue should fund what some argue are business-sector responsibilities.",
+  "topic": "Business & Labor",
+  "textLength": 56508,
+  "createdAt": "2026-06-23T03:09:41.502Z",
+  "sponsors": [
+    {"peopleId":20220,"name":"Michael Garrett","party":"D","isPrimary":true},
+    {"peopleId":20505,"name":"Sydney Batch","party":"D","isPrimary":true},
+    {"peopleId":22426,"name":"DeAndrea Salvador","party":"D","isPrimary":true},
+    {"peopleId":25860,"name":"Woodson Bradley","party":"D","isPrimary":false},
+    {"peopleId":21633,"name":"Natalie Murdock","party":"D","isPrimary":false},
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

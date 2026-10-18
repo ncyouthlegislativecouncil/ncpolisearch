@@ -1,0 +1,24 @@
+{
+  "billId": 2014346,
+  "billNumber": "S568",
+  "title": "Innovative Treatments for Mental Health Act",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "868141fb9d94150c49fb581d286c968e",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-26",
+  "url": "https://legiscan.com/NC/bill/S568/2025",
+  "aiSummary": "This bill establishes a task force within the North Carolina Department of Health and Human Services to study the potential use of psychedelic medicines for treating mental health conditions. The task force would assess implementation barriers, recommend licensing and insurance requirements if federal approval occurs, and explore legal pathways for potential state legalization, with a final report due by December 2026.",
+  "aiProArguments": "Supporters argue that North Carolina faces a significant mental health crisis and that psychedelic medicines show promising clinical results for treating conditions like depression, anxiety, and PTSD—particularly for treatment-resistant cases. They contend that establishing a task force allows the state to proactively research and prepare for potential FDA approval of these therapies, ensuring equitable access and proper oversight if they become viable treatment options.",
+  "aiConArguments": "Opponents may express concerns about studying substances that remain federally controlled and potentially illegal, arguing resources should focus on proven treatments already available. Some worry that promoting psychedelic research could send mixed public health messages or that implementation challenges—including safety protocols, training requirements, and insurance coverage—are substantial unknowns that could be expensive or impractical.",
+  "topic": "Healthcare",
+  "textLength": 4382,
+  "createdAt": "2026-06-23T03:08:57.154Z",
+  "sponsors": [
+    {"peopleId":25858,"name":"Sophia Chitlik","party":"D","isPrimary":true},
+    {"peopleId":20513,"name":"Bobby Hanig","party":"R","isPrimary":true},
+    {"peopleId":21633,"name":"Natalie Murdock","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

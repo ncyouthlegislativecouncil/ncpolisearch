@@ -1,0 +1,24 @@
+{
+  "billId": 2012986,
+  "billNumber": "S410",
+  "title": "Hospital Petition/Discharge Incapable Adults",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "2323c97136c038c65e774a06d7634790",
+  "lastAction": "Re-ref to Health Care. If fav, re-ref to Judiciary. If fav, re-ref to Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-25",
+  "url": "https://legiscan.com/NC/bill/S410/2025",
+  "aiSummary": "This bill allows hospitals to petition a court to discharge adult patients who lack the ability to make medical decisions and whose authorized decision-makers refuse to consent to discharge. The hospital must have written approval from two physicians before filing the petition, and the court must decide within five business days.",
+  "aiProArguments": "Supporters argue this bill addresses situations where patients could be indefinitely held in hospitals against medical advice because no authorized decision-maker will approve discharge. It protects hospitals from potential liability while ensuring physicians' medical judgments are followed, and it prevents resources from being spent on patients who no longer need hospital care. The requirement for two physicians and court approval provides safeguards to prevent misuse.",
+  "aiConArguments": "Opponents may be concerned this bill gives hospitals and courts authority to override family members' wishes without strong protections for vulnerable patients. Critics might worry that patients with severe disabilities or cognitive conditions could be discharged prematurely, or that financial incentives for hospitals to reduce patient stays could influence medical decisions. Questions may arise about whether the five-day timeline is sufficient to ensure thorough legal review of patient interests.",
+  "topic": "Healthcare",
+  "textLength": 1909,
+  "createdAt": "2026-06-23T03:07:34.625Z",
+  "sponsors": [
+    {"peopleId":24225,"name":"Benton Sawrey","party":"R","isPrimary":true},
+    {"peopleId":17147,"name":"Gale Adcock","party":"D","isPrimary":true},
+    {"peopleId":20216,"name":"Jim Burgin","party":"R","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

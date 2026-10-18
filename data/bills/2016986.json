@@ -1,0 +1,27 @@
+{
+  "billId": 2016986,
+  "billNumber": "H582",
+  "title": "Providing Relief to Impacted Families Act",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "69b5d29ca849f6fa523485247900627a",
+  "lastAction": "Ref to the Com on Finance, if favorable, Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-04-01",
+  "url": "https://legiscan.com/NC/bill/H582/2025",
+  "aiSummary": "This bill modifies North Carolina's motor fuel excise tax refund program for nonprofits. It clarifies and continues the existing quarterly refund system that allows certain nonprofits—including volunteer fire departments, rescue squads, food distribution organizations, and others—to receive refunds on fuel taxes they pay, minus one cent per gallon.",
+  "aiProArguments": "Supporters argue this bill provides important relief to nonprofits and volunteer organizations that serve the public, helping them stretch limited budgets by reducing fuel costs. These organizations provide critical emergency services and community support, so lowering their operating expenses allows them to direct more resources toward their missions of helping North Carolinians.",
+  "aiConArguments": "Opponents may argue that tax refunds reduce state revenue that could fund public services, and question whether fuel tax refunds are the most efficient way to support nonprofits compared to direct grants. They might also ask why certain nonprofits receive this benefit while others do not, raising concerns about fairness and whether eligibility criteria are appropriate.",
+  "topic": "Taxes & Budget",
+  "textLength": 1645,
+  "createdAt": "2026-06-23T02:55:00.982Z",
+  "sponsors": [
+    {"peopleId":21377,"name":"Jake Johnson","party":"R","isPrimary":true},
+    {"peopleId":25856,"name":"Paul Scott","party":"R","isPrimary":true},
+    {"peopleId":17151,"name":"Cecil Brockman","party":"D","isPrimary":false},
+    {"peopleId":2077,"name":"Mary Harrison","party":"D","isPrimary":false},
+    {"peopleId":21375,"name":"Jeffrey McNeely","party":"R","isPrimary":false},
+    {"peopleId":22616,"name":"Ray Pickett","party":"R","isPrimary":false},
+    {"peopleId":24219,"name":"Bill Ward","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

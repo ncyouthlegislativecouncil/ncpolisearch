@@ -1,0 +1,27 @@
+{
+  "billId": 2014176,
+  "billNumber": "S614",
+  "title": "Revise Dam Safety Requirements",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "1d7c19ee51815861fd3a0f1a99280f8c",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-26",
+  "url": "https://legiscan.com/NC/bill/S614/2025",
+  "aiSummary": "This bill clarifies North Carolina's dam safety requirements by specifying that downstream inundation maps (which show areas that would be affected if a dam failed) do not need to be prepared by a licensed professional engineer, except for dams associated with coal combustion residuals. The bill also exempts very small dams (less than 15 feet high or with less than 50 acre-feet capacity) from needing inundation maps unless the Department determines site-specific factors warrant one.",
+  "aiProArguments": "Supporters argue this bill reduces regulatory burden and costs for dam owners by allowing non-engineers to prepare inundation maps for most dams, while still maintaining safety for coal-related impoundments and critical infrastructure. They contend that this clarification streamlines the permitting process and makes it easier for dam owners to comply with emergency planning requirements without sacrificing public safety.",
+  "aiConArguments": "Opponents may be concerned that allowing non-engineers to prepare inundation maps could result in lower-quality emergency planning documents that fail to accurately identify flood risks to downstream communities. They argue that professional engineering standards should apply to all emergency action plans to ensure consistent, reliable information for emergency responders and the public.",
+  "topic": "Environment & Energy",
+  "textLength": 4233,
+  "createdAt": "2026-06-23T03:09:20.724Z",
+  "sponsors": [
+    {"peopleId":22424,"name":"Michael Lazzara","party":"R","isPrimary":true},
+    {"peopleId":19669,"name":"Vickie Sawyer","party":"R","isPrimary":true},
+    {"peopleId":20222,"name":"Todd Johnson","party":"R","isPrimary":true},
+    {"peopleId":24220,"name":"Val Applewhite","party":"D","isPrimary":false},
+    {"peopleId":25860,"name":"Woodson Bradley","party":"D","isPrimary":false},
+    {"peopleId":25212,"name":"Bob Brinson","party":"R","isPrimary":false},
+    {"peopleId":11858,"name":"Timothy Moffitt","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

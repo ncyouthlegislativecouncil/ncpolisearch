@@ -1,0 +1,22 @@
+{
+  "billId": 2022718,
+  "billNumber": "H995",
+  "title": "Shotgun House Funding Act",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "f6b27dc194f6f15560677726147ff497",
+  "lastAction": "Ref to the Com on Appropriations, if favorable, Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-04-14",
+  "url": "https://legiscan.com/NC/bill/H995/2025",
+  "aiSummary": "This bill appropriates $750,000 in state funding for the 2025-2026 fiscal year to Triad Cultural Arts, Inc., a nonprofit organization, to support the development of the Shotgun House Legacy Site project in Winston-Salem. The funds are designated as a one-time grant for this multiuse center project.",
+  "aiProArguments": "Supporters argue that this funding preserves important cultural and historical heritage by developing a legacy site dedicated to shotgun house architecture and history, which represents significant African American and working-class history in North Carolina. Proponents contend that the project will benefit the Winston-Salem community by creating a cultural and educational resource, supporting the nonprofit organization's mission, and potentially generating economic activity and tourism.",
+  "aiConArguments": "Opponents may argue that directing $750,000 to a single nonprofit project represents narrow spending that could alternatively support broader state priorities like education, healthcare, or infrastructure. Critics might question whether state General Fund dollars should fund local or specialized cultural projects, or whether this represents appropriate use of public resources compared to other funding needs across the state.",
+  "topic": "Taxes & Budget",
+  "textLength": 988,
+  "createdAt": "2026-06-23T03:00:11.759Z",
+  "sponsors": [
+    {"peopleId":22599,"name":"Amber Baker","party":"D","isPrimary":true},
+    {"peopleId":24199,"name":"Kanika Brown","party":"D","isPrimary":true}
+  ],
+  "rollCalls": []
+}

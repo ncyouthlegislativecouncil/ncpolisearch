@@ -1,0 +1,22 @@
+{
+  "billId": 2003645,
+  "billNumber": "H383",
+  "title": "Augment Subcontractor Protections",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "62778ac817003fa76b62be8a3bc38baa",
+  "lastAction": "Ref to the Com on Housing and Development, if favorable, Commerce and Economic Development, if favorable, Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-03-13",
+  "url": "https://legiscan.com/NC/bill/H383/2025",
+  "aiSummary": "This bill strengthens protections for subcontractors in North Carolina construction projects by making 'pay if paid' and 'pay when paid' clauses unenforceable, requiring contractors to pay subcontractors within 7-30 days of receiving payment themselves, and imposing 1% monthly interest on late payments. The bill does not apply to residential construction projects with 12 or fewer units.",
+  "aiProArguments": "Supporters argue this bill protects subcontractors and workers from being left unpaid when general contractors or property owners fail to pay on time. By requiring prompt payment regardless of whether the contractor has been paid, subcontractors can better manage cash flow and pay their own workers and suppliers without bearing the financial risk of payment delays. This creates more fairness in the construction industry where smaller subcontractors are often financially vulnerable.",
+  "aiConArguments": "Opponents contend this bill may increase costs for contractors who must now pay subcontractors quickly even if they haven't received payment from owners, potentially straining contractor cash flow and causing some to raise prices or require more upfront deposits. Contractors argue they need flexibility to manage payment timing and that 'pay when paid' clauses are a legitimate way to manage risk when dealing with unreliable owners. Some also question whether the 1% monthly interest rate adequately compensates for late payments.",
+  "topic": "Business & Labor",
+  "textLength": 6549,
+  "createdAt": "2026-06-23T02:49:58.652Z",
+  "sponsors": [
+    {"peopleId":24211,"name":"Jarrod Lowery","party":"R","isPrimary":true},
+    {"peopleId":24219,"name":"Bill Ward","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

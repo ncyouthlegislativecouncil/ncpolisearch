@@ -1,0 +1,26 @@
+{
+  "billId": 2147096,
+  "billNumber": "S1051",
+  "title": "Don't Zone Out Child Care",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "c98f858fab98cc17687ed9d43f68c8b6",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2026-05-05",
+  "url": "https://legiscan.com/NC/bill/S1051/2025",
+  "aiSummary": "This bill protects licensed family child care home operators from restrictions imposed by homeowners associations, landlords, and local governments. It declares such family child care homes as residential uses that cannot be prohibited or heavily restricted, and allows operators to sue for damages and attorney's fees if their rights are violated.",
+  "aiProArguments": "Supporters argue this bill increases access to affordable, community-based child care by removing barriers that prevent qualified individuals from opening family child care homes. They contend that licensed family child care homes are safe, residential uses that should not face excessive restrictions, and that expanding child care availability serves a critical public need for working families who lack affordable options.",
+  "aiConArguments": "Opponents worry this bill may limit property rights of homeowners associations and landlords to maintain community standards and protect property values. They express concern about potential impacts on neighborhood character, traffic, parking, and noise, and argue that communities should retain some ability to regulate residential uses through HOA covenants and local zoning, even if such regulations must now be applied equally to child care homes.",
+  "topic": "Housing",
+  "textLength": 11147,
+  "createdAt": "2026-06-23T03:12:58.126Z",
+  "sponsors": [
+    {"peopleId":17936,"name":"Jay Chaudhuri","party":"D","isPrimary":true},
+    {"peopleId":20216,"name":"Jim Burgin","party":"R","isPrimary":true},
+    {"peopleId":25858,"name":"Sophia Chitlik","party":"D","isPrimary":false},
+    {"peopleId":12032,"name":"Gladys Robinson","party":"D","isPrimary":false},
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

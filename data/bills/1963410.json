@@ -1,0 +1,21 @@
+{
+  "billId": 1963410,
+  "billNumber": "S67",
+  "title": "2nd Senatorial District Local Act-1",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "87afb0927d14b1d59e2784c89ba48314",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-02-11",
+  "url": "https://legiscan.com/NC/bill/S67/2025",
+  "aiSummary": "This is a local bill that applies only to North Carolina's 2nd Senatorial District. The bill text provided does not specify what changes or provisions apply to the district—it only establishes that the act relates to that district and becomes effective upon passage.",
+  "aiProArguments": "Supporters of local bills argue they allow targeted solutions for specific regions' unique needs without affecting the entire state. This bill could address particular concerns or opportunities specific to the 2nd Senatorial District that require legislative attention.",
+  "aiConArguments": "Opponents of local bills may argue they lack transparency since the specific provisions are not detailed in the text provided, making it difficult for constituents to understand what changes are being made. Critics may also question whether local bills receive adequate public scrutiny compared to statewide legislation.",
+  "topic": "Local Government",
+  "textLength": 507,
+  "createdAt": "2026-06-23T03:04:37.787Z",
+  "sponsors": [
+    {"peopleId":11862,"name":"Norman Sanderson","party":"R","isPrimary":true}
+  ],
+  "rollCalls": []
+}

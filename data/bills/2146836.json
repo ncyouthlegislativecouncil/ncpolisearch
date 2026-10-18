@@ -1,0 +1,30 @@
+{
+  "billId": 2146836,
+  "billNumber": "S955",
+  "title": "Permit Self-Defense Devices on College Campus",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "4b81d37829fa782bb592225c97d0de9b",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2026-05-04",
+  "url": "https://legiscan.com/NC/bill/S955/2025",
+  "aiSummary": "This bill allows people age 18 and older to carry self-defense devices such as pepper spray, tasers, mace, and ordinary pocket knives on North Carolina college and university campuses. It also provides $10,000 in funding to publicize this change to students, staff, and the public.",
+  "aiProArguments": "Supporters argue this bill enhances campus safety by allowing students and staff to protect themselves against threats and assault. They contend that self-defense devices are nonlethal tools that can help vulnerable populations—particularly students living on campus—respond to dangerous situations when campus security may not be immediately available.",
+  "aiConArguments": "Opponents worry that allowing weapons on campus could increase safety risks, complicate law enforcement responses to emergencies, or lead to unintended escalations of conflicts. They also raise concerns about whether college campuses should remain weapon-free spaces and whether self-defense device training requirements should be mandated to ensure safe usage.",
+  "topic": "Criminal Justice & Public Safety",
+  "textLength": 3199,
+  "createdAt": "2026-06-23T03:12:10.582Z",
+  "sponsors": [
+    {"peopleId":11937,"name":"Ralph Hise","party":"R","isPrimary":true},
+    {"peopleId":18465,"name":"Danny Britt","party":"R","isPrimary":false},
+    {"peopleId":14615,"name":"Carl Ford","party":"R","isPrimary":false},
+    {"peopleId":22423,"name":"Amy Galey","party":"R","isPrimary":false},
+    {"peopleId":11853,"name":"Mark Hollo","party":"R","isPrimary":false},
+    {"peopleId":26462,"name":"Chris Measmer","party":"R","isPrimary":false},
+    {"peopleId":11858,"name":"Timothy Moffitt","party":"R","isPrimary":false},
+    {"peopleId":24224,"name":"Buck Newton","party":"R","isPrimary":false},
+    {"peopleId":24223,"name":"Brad Overcash","party":"R","isPrimary":false},
+    {"peopleId":11862,"name":"Norman Sanderson","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

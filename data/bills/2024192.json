@@ -1,0 +1,21 @@
+{
+  "billId": 2024192,
+  "billNumber": "H1009",
+  "title": "Planning ETJ Prohibited",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "778bdde683f0e989fa5c954c5ca6906e",
+  "lastAction": "Ref to the Com on State and Local Government, if favorable, Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-04-16",
+  "url": "https://legiscan.com/NC/bill/H1009/2025",
+  "aiSummary": "This bill prohibits North Carolina cities from exercising planning and zoning authority outside their corporate city limits (called extraterritorial jurisdiction). Cities must relinquish all planning control over surrounding unincorporated areas by January 1, 2026, returning that regulatory authority to counties. The bill includes exceptions for law enforcement and makes conforming changes to related state statutes.",
+  "aiProArguments": "Supporters argue this bill protects property owner rights and local control by eliminating what they view as overreach by city governments into unincorporated county areas where residents cannot vote in city elections. They contend that counties, which represent all county residents including those outside cities, should control land use planning in unincorporated areas. Proponents also argue this reduces regulatory burdens on rural and agricultural landowners near cities.",
+  "aiConArguments": "Opponents contend that cities need extraterritorial jurisdiction to plan for future growth and manage development patterns that affect urban areas, particularly along expanding city edges. They argue that eliminating this authority weakens cities' ability to coordinate infrastructure like water, sewer, and transportation systems across their regions. Critics also note this removes a tool cities use to protect against incompatible development near their boundaries and may create regulatory gaps or inconsistencies during the transition period.",
+  "topic": "Local Government",
+  "textLength": 39075,
+  "createdAt": "2026-06-23T03:00:19.319Z",
+  "sponsors": [
+    {"peopleId":20516,"name":"Chris Humphrey","party":"R","isPrimary":true}
+  ],
+  "rollCalls": []
+}

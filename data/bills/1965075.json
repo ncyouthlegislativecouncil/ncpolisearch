@@ -1,0 +1,21 @@
+{
+  "billId": 1965075,
+  "billNumber": "S75",
+  "title": "Town of Garner/Settlement of Claims",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "b7f8e508e053eb07f4990026e5820d5c",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-02-12",
+  "url": "https://legiscan.com/NC/bill/S75/2025",
+  "aiSummary": "This bill amends the Town of Garner's charter to increase the dollar limit that the town manager can settle claims against the town without town council approval. For personal injury or property damage claims, the limit increases from $100 to $10,000. The bill also clarifies that all settlements must be approved by the town attorney and reported to the town council.",
+  "aiProArguments": "Supporters argue this change streamlines local government operations by allowing the town manager to handle routine, smaller claims more efficiently without requiring full town council votes on each settlement. This saves time and administrative costs while still maintaining oversight through town attorney approval and council reporting requirements. It reflects reasonable adjustments to authority limits that account for inflation and typical claim amounts.",
+  "aiConArguments": "Opponents may argue that increasing the settlement authority from $100 to $10,000 represents a significant delegation of power that should require more direct town council oversight. They could be concerned that the town manager might settle claims too generously without sufficient checks, or that the council loses visibility into individual decisions that collectively could represent substantial town expenditures. Some may prefer maintaining tighter controls over public funds through council approval processes.",
+  "topic": "Local Government",
+  "textLength": 1925,
+  "createdAt": "2026-06-23T03:04:41.385Z",
+  "sponsors": [
+    {"peopleId":24222,"name":"Lisa Grafstein","party":"D","isPrimary":true}
+  ],
+  "rollCalls": []
+}

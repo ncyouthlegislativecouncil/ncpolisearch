@@ -1,0 +1,21 @@
+{
+  "billId": 1972058,
+  "billNumber": "S111",
+  "title": "15th Senatorial District Local Act-1",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "48a4a39160e14f1ccb23811e7fc5e238",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-02-18",
+  "url": "https://legiscan.com/NC/bill/S111/2025",
+  "aiSummary": "This is a local bill that applies only to North Carolina's 15th Senatorial District. The bill text does not specify what changes or provisions it contains—it only states that it relates to the district and becomes effective when signed into law. The actual details of what this bill does are not included in the provided text.",
+  "aiProArguments": "Supporters of local bills argue they allow the General Assembly to address specific needs and circumstances unique to individual districts or communities. Local legislation can be tailored solutions to problems affecting a particular area without requiring statewide changes, potentially making governance more responsive to regional constituents.",
+  "aiConArguments": "Opponents of local bills raise concerns about transparency and equal treatment, arguing that district-specific legislation can lack public clarity about its true provisions and effects. Critics also question whether the legislative process for local bills receives the same level of scrutiny and public input as statewide legislation.",
+  "topic": "Local Government",
+  "textLength": 512,
+  "createdAt": "2026-06-23T03:05:00.480Z",
+  "sponsors": [
+    {"peopleId":17936,"name":"Jay Chaudhuri","party":"D","isPrimary":true}
+  ],
+  "rollCalls": []
+}

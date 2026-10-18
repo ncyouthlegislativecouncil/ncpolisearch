@@ -1,0 +1,21 @@
+{
+  "billId": 1992626,
+  "billNumber": "H311",
+  "title": "Funds for the Town of Gibson",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "27cf7c5cf0259ba1be574a91a002954e",
+  "lastAction": "Ref to the Com on Appropriations, if favorable, Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-03-06",
+  "url": "https://legiscan.com/NC/bill/H311/2025",
+  "aiSummary": "This bill appropriates $231,000 in state funds to the Town of Gibson for the 2025-2026 fiscal year to support infrastructure and equipment projects, including generators, water meters, lift station repairs, ditch work, and town vehicles.",
+  "aiProArguments": "Supporters argue that this funding addresses critical infrastructure needs for Gibson's water and wastewater systems, helping ensure reliable public utilities and emergency preparedness. The investment in generators, lift station rehabilitation, and water meters supports essential services that protect public health and safety while upgrading aging infrastructure.",
+  "aiConArguments": "Opponents may question whether state funds should support individual municipalities' routine infrastructure and equipment needs, arguing that such costs are typically local government responsibilities. They might also raise concerns about whether $231,000 in nonrecurring state funds represents the most efficient use of limited state budget resources compared to other priorities.",
+  "topic": "Taxes & Budget",
+  "textLength": 1290,
+  "createdAt": "2026-06-23T02:48:03.818Z",
+  "sponsors": [
+    {"peopleId":2115,"name":"Garland Pierce","party":"D","isPrimary":true}
+  ],
+  "rollCalls": []
+}

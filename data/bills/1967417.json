@@ -1,0 +1,29 @@
+{
+  "billId": 1967417,
+  "billNumber": "S91",
+  "title": "Newborn Safety Devices",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "dfa6cab869e26d00fbd1327d5089236e",
+  "lastAction": "Re-ref to Health Care. If fav, re-ref to Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-20",
+  "url": "https://legiscan.com/NC/bill/S91/2025",
+  "aiSummary": "This bill creates a legal framework allowing hospitals, law enforcement agencies, and fire departments to install temperature-controlled 'newborn safety devices' (safe surrender boxes) where parents can anonymously leave newborns up to 30 days old without legal consequences. The devices must have alarm systems, be inspected regularly, and staff must have emergency medical plans to care for surrendered infants.",
+  "aiProArguments": "Supporters argue this bill saves infant lives by providing a legal, safe alternative to abandonment or harm. It allows parents in crisis situations to surrender newborns anonymously without fear of prosecution, while ensuring infants receive immediate emergency medical care at qualified facilities. Proponents note that similar programs in other states have successfully reduced infant mortality and neglect cases.",
+  "aiConArguments": "Opponents may express concerns about whether anonymous surrender could discourage parents from seeking support services or medical care during pregnancy. Some worry about the costs of installation, maintenance, and emergency response despite the bill requiring facilities to cover expenses. Others question whether the devices address underlying issues like inadequate access to reproductive healthcare, mental health services, or social support for struggling parents.",
+  "topic": "Healthcare",
+  "textLength": 3955,
+  "createdAt": "2026-06-23T03:04:49.762Z",
+  "sponsors": [
+    {"peopleId":20513,"name":"Bobby Hanig","party":"R","isPrimary":true},
+    {"peopleId":14615,"name":"Carl Ford","party":"R","isPrimary":true},
+    {"peopleId":20225,"name":"Ted Alexander","party":"R","isPrimary":true},
+    {"peopleId":17936,"name":"Jay Chaudhuri","party":"D","isPrimary":false},
+    {"peopleId":25858,"name":"Sophia Chitlik","party":"D","isPrimary":false},
+    {"peopleId":11937,"name":"Ralph Hise","party":"R","isPrimary":false},
+    {"peopleId":20222,"name":"Todd Johnson","party":"R","isPrimary":false},
+    {"peopleId":25250,"name":"Dana Jones","party":"R","isPrimary":false},
+    {"peopleId":25859,"name":"Caleb Theodros","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

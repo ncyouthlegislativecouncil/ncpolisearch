@@ -1,0 +1,23 @@
+{
+  "billId": 2012934,
+  "billNumber": "S443",
+  "title": "Local Govts/Compensation Disclosure",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "8c2f246b329e7ebe8ba201b4e1112f09",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-25",
+  "url": "https://legiscan.com/NC/bill/S443/2025",
+  "aiSummary": "This bill requires all insurance and benefit providers (such as insurance companies, brokers, and administrators) who work with North Carolina counties and cities to submit annual reports disclosing all compensation they receive from those local governments. The disclosure must include commissions, fees, bonuses, and other payments, and must confirm that no compensation has been given to county or city employees or elected officials.",
+  "aiProArguments": "Supporters argue this bill increases transparency and accountability in local government spending by requiring providers to fully disclose how much they are being paid. They contend this helps prevent conflicts of interest and kickbacks to government employees, ensures taxpayer money is being used appropriately, and allows local officials and the public to better understand the true cost of benefit programs.",
+  "aiConArguments": "Opponents may argue that the reporting requirement creates administrative burdens and costs for benefit providers, potentially raising expenses that could be passed to local governments or employees. They might also contend that existing regulations and insurance laws already address compensation disclosure and conflicts of interest, making this new requirement redundant or overly prescriptive.",
+  "topic": "Local Government",
+  "textLength": 3185,
+  "createdAt": "2026-06-23T03:07:52.962Z",
+  "sponsors": [
+    {"peopleId":18454,"name":"Kevin Corbin","party":"R","isPrimary":true},
+    {"peopleId":20216,"name":"Jim Burgin","party":"R","isPrimary":true},
+    {"peopleId":11858,"name":"Timothy Moffitt","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

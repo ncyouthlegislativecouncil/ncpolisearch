@@ -1,0 +1,23 @@
+{
+  "billId": 2013844,
+  "billNumber": "S547",
+  "title": "Clarify Ballot Language for Art. 46 Tax",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "9959025b3a4817eab14a4414db2793fc",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-26",
+  "url": "https://legiscan.com/NC/bill/S547/2025",
+  "aiSummary": "This bill modifies the ballot language that North Carolina counties use when asking voters to approve a one-quarter percent sales tax. The change adds language clarifying that tax revenue can be used for any public purpose, rather than leaving the permitted uses unstated.",
+  "aiProArguments": "Supporters argue this change makes the ballot language clearer and more transparent to voters by explicitly stating that counties have flexibility in how they spend the tax revenue. They contend that removing ambiguity helps voters make informed decisions about whether to support the tax, and prevents future disputes about what the tax money can legally be used for.",
+  "aiConArguments": "Opponents may argue that the original language's silence on permitted uses was intentional, allowing individual counties to define purposes locally, and that adding \"any public purpose\" is too broad and removes meaningful constraints on how voter-approved tax money is spent. Some may also contend that the change favors local government spending flexibility over taxpayer oversight and control.",
+  "topic": "Elections & Voting",
+  "textLength": 1226,
+  "createdAt": "2026-06-23T03:08:46.479Z",
+  "sponsors": [
+    {"peopleId":12032,"name":"Gladys Robinson","party":"D","isPrimary":true},
+    {"peopleId":20220,"name":"Michael Garrett","party":"D","isPrimary":true},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

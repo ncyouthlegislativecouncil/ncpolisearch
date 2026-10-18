@@ -1,0 +1,26 @@
+{
+  "billId": 2011485,
+  "billNumber": "S371",
+  "title": "Stop Chronically Low-Performing Charters",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "01e498ccde66dcf27346675a106e33c1",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-24",
+  "url": "https://legiscan.com/NC/bill/S371/2025",
+  "aiSummary": "This bill requires the State Board of Education to revoke the charter of any school that has been designated as continually low-performing for four consecutive years, prohibits low-performing charter schools from expanding enrollment, shortens remote charter academy terms from five to three years, and requires charter schools to display their performance grades on enrollment applications.",
+  "aiProArguments": "Supporters argue this bill protects students by removing them from chronically failing schools and prevents low-performing charters from growing larger. They contend that approximately 14,400 students are currently enrolled in chronically low-performing charter schools, and mandatory revocation after four years of poor performance ensures accountability and frees resources to redirect students to better-performing options.",
+  "aiConArguments": "Opponents may argue that mandatory revocation limits school improvement efforts and removes opportunities for turnaround schools with improvement plans to succeed. They may also contend that shortening remote academy terms and restricting enrollment expansion could reduce educational choices for families and limit innovation in charter school programs, and that the policy doesn't account for schools making measurable progress despite low overall grades.",
+  "topic": "Education",
+  "textLength": 5464,
+  "createdAt": "2026-06-23T03:07:14.144Z",
+  "sponsors": [
+    {"peopleId":25858,"name":"Sophia Chitlik","party":"D","isPrimary":true},
+    {"peopleId":24222,"name":"Lisa Grafstein","party":"D","isPrimary":true},
+    {"peopleId":21633,"name":"Natalie Murdock","party":"D","isPrimary":false},
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":false},
+    {"peopleId":25859,"name":"Caleb Theodros","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

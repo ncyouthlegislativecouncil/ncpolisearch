@@ -1,0 +1,27 @@
+{
+  "billId": 2014385,
+  "billNumber": "H516",
+  "title": "Motorcycle Road Guard Safety Act",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "12d60c615958f495482b907d22950394",
+  "lastAction": "Re-ref to the Com on Finance, if favorable, Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-05-05",
+  "url": "https://legiscan.com/NC/bill/H516/2025",
+  "aiSummary": "This bill creates a Motorcycle Road Guard Certification Program that allows trained and certified motorcycle riders to direct traffic while escorting motorcycle groups along approved public routes. Certified road guards must meet safety standards, hold a valid motorcycle driver's license endorsement, and complete a Division-developed certification course, with routes requiring approval from local police chiefs or sheriffs.",
+  "aiProArguments": "Supporters argue this bill enhances safety for large motorcycle group rides by allowing trained, certified individuals to manage traffic and protect riders from hazards. Proponents contend that motorcycle clubs and riding groups benefit from organized, professional traffic direction, and that the certification requirements ensure only qualified riders perform these duties. The bill also generates revenue through certification fees while giving local law enforcement oversight through route approval.",
+  "aiConArguments": "Opponents may worry that allowing civilians to direct traffic creates liability and safety concerns, as certified road guards lack the legal authority and training of actual law enforcement officers. Critics could argue that the program's effectiveness depends heavily on driver compliance with non-official traffic directors, and that insufficient enforcement mechanisms exist if motorists ignore road guard instructions. Some may also question whether the certification course adequately prepares riders for complex traffic management situations.",
+  "topic": "Transportation & Infrastructure",
+  "textLength": 3234,
+  "createdAt": "2026-06-23T02:54:02.643Z",
+  "sponsors": [
+    {"peopleId":25845,"name":"Grant Campbell","party":"R","isPrimary":true},
+    {"peopleId":18453,"name":"Mike Clampitt","party":"R","isPrimary":true},
+    {"peopleId":11866,"name":"John Torbett","party":"R","isPrimary":true},
+    {"peopleId":22607,"name":"Steve Tyson","party":"R","isPrimary":true},
+    {"peopleId":22965,"name":"Donnie Loftis","party":"R","isPrimary":false},
+    {"peopleId":21375,"name":"Jeffrey McNeely","party":"R","isPrimary":false},
+    {"peopleId":24212,"name":"Joe Pike","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

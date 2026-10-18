@@ -1,0 +1,23 @@
+{
+  "billId": 2015699,
+  "billNumber": "H556",
+  "title": "2025 Charter Schools Review Board Omnibus",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "1ff594444c0295aca90fb4177292bdd4",
+  "lastAction": "Ref to the Com on Education - K-12, if favorable, Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-03-31",
+  "url": "https://legiscan.com/NC/bill/H556/2025",
+  "aiSummary": "This bill makes several changes to how charter schools are regulated and operated in North Carolina. It gives the Charter Schools Review Board approval power over state rules about charter schools, allows the Review Board to hire its own legal counsel, and makes various operational changes including exempting charter schools from reporting class rank on transcripts, allowing alternate teacher evaluations, and creating a separate grading process for remote charter academies.",
+  "aiProArguments": "Supporters argue this bill gives charter schools more autonomy and flexibility to operate differently from traditional public schools, which may allow them to innovate in areas like teacher evaluation and curriculum choices. They also contend that having the Charter Schools Review Board directly approve rules and hire legal counsel streamlines the process and ensures decisions are made by those most familiar with charter school operations. Additionally, the expedited application process for remote academies could help expand educational options more quickly.",
+  "aiConArguments": "Opponents worry that shifting rule approval power to the Review Board reduces oversight and accountability from the State Board of Education and legislature. They argue that exempting charter schools from reporting class rank and allowing separate teacher evaluation standards could create inconsistencies in educational quality and make it harder to compare charter and traditional public school performance. Critics also express concern that these changes may reduce transparency and make it more difficult for parents and policymakers to evaluate charter school effectiveness.",
+  "topic": "Education",
+  "textLength": 9785,
+  "createdAt": "2026-06-23T02:54:34.498Z",
+  "sponsors": [
+    {"peopleId":22609,"name":"David Willis","party":"R","isPrimary":true},
+    {"peopleId":21375,"name":"Jeffrey McNeely","party":"R","isPrimary":false},
+    {"peopleId":24219,"name":"Bill Ward","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

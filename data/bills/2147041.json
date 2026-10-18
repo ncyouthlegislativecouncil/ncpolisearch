@@ -1,0 +1,25 @@
+{
+  "billId": 2147041,
+  "billNumber": "S1006",
+  "title": "K-12 Innovation and Transformation Act",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "83a2e52e3087fd7af8380c0785bd435e",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2026-06-03",
+  "url": "https://legiscan.com/NC/bill/S1006/2025",
+  "aiSummary": "This bill makes significant changes to K-12 education in North Carolina by establishing new commissions and programs to redesign high schools, expanding advanced teaching roles and teacher apprenticeships, creating competency-based education pathways, and implementing various student support and teacher development initiatives. The bill appropriates millions in state funding for these programs and grants schools new flexibilities in how they operate.",
+  "aiProArguments": "Supporters argue this bill modernizes North Carolina education by creating innovative pathways that prepare students for college and careers through work-based learning, industry credentials, and competency-based education. The bill increases funding for teacher advancement roles and creates a teacher apprenticeship program to address teacher shortages. It expands student access to advanced courses and provides grants for at-risk student services. The bill also allows schools more flexibility in scheduling and operations while establishing a comprehensive high school redesign commission to study best practices.",
+  "aiConArguments": "Opponents may raise concerns about the bill's complexity and cost, including over $60 million in new appropriations. Some may worry that competency-based education and alternative assessment models lack sufficient research evidence compared to traditional approaches. The bill grants schools significant regulatory flexibilities and allows non-licensed personnel to teach in learning accelerator programs, which some view as lowering teaching standards. Critics might also question whether these pilot programs will actually scale statewide or represent effective uses of state funds, and whether adequate oversight and accountability measures are in place.",
+  "topic": "Education",
+  "textLength": 121692,
+  "createdAt": "2026-06-23T03:12:34.079Z",
+  "sponsors": [
+    {"peopleId":17504,"name":"Michael Lee","party":"R","isPrimary":true},
+    {"peopleId":25250,"name":"Dana Jones","party":"R","isPrimary":true},
+    {"peopleId":18454,"name":"Kevin Corbin","party":"R","isPrimary":true},
+    {"peopleId":11858,"name":"Timothy Moffitt","party":"R","isPrimary":false},
+    {"peopleId":24223,"name":"Brad Overcash","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

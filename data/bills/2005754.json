@@ -1,0 +1,25 @@
+{
+  "billId": 2005754,
+  "billNumber": "H392",
+  "title": "Funds/Forsyth United Way/Summer Learning",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "dbcf7273ca9fba4bc9fb6aec74febcf7",
+  "lastAction": "Ref to the Com on Appropriations, if favorable, Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-03-17",
+  "url": "https://legiscan.com/NC/bill/H392/2025",
+  "aiSummary": "This bill appropriates $250,000 in one-time state funding to the United Way of Forsyth County to support summer learning programs for students in the 2025-2026 fiscal year. The United Way will distribute these funds through community agencies to provide summer learning opportunities, including programs for students who do not qualify for school district summer programs.",
+  "aiProArguments": "Supporters argue this funding addresses a critical gap in summer educational services for students who fall outside traditional school district summer programs. The bill leverages existing nonprofit infrastructure through the United Way to efficiently distribute resources to vetted community organizations, helping prevent summer learning loss and providing equitable access to educational enrichment across Forsyth County.",
+  "aiConArguments": "Opponents may question whether one-time, nonrecurring funding is sustainable for ongoing summer programs and whether $250,000 adequately serves the identified need. Some may also express concerns about directing state funds to a specific county and nonprofit organization, raising questions about how similar requests from other regions should be handled.",
+  "topic": "Education",
+  "textLength": 1406,
+  "createdAt": "2026-06-23T02:50:09.228Z",
+  "sponsors": [
+    {"peopleId":22599,"name":"Amber Baker","party":"D","isPrimary":true},
+    {"peopleId":24199,"name":"Kanika Brown","party":"D","isPrimary":true},
+    {"peopleId":22600,"name":"Terry Brown","party":"D","isPrimary":false},
+    {"peopleId":2077,"name":"Mary Harrison","party":"D","isPrimary":false},
+    {"peopleId":18462,"name":"Amos Quick","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

@@ -1,0 +1,27 @@
+{
+  "billId": 2147057,
+  "billNumber": "H1196",
+  "title": "Require Free Water in Bars",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "9502d4a28d9410b9f505ad5d74b4186f",
+  "lastAction": "Ref to the Com on Appropriations, if favorable, Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2026-05-05",
+  "url": "https://legiscan.com/NC/bill/H1196/2025",
+  "aiSummary": "This bill requires bars and other establishments with on-premises alcohol permits to provide free drinking water to customers who request it. The water must meet federal and state purity standards and be served in a container holding at least 6 fluid ounces, and the requirement applies during hours when alcohol can be sold.",
+  "aiProArguments": "Supporters argue this bill promotes public health and safety by encouraging customers to stay hydrated while drinking alcohol, which can reduce alcohol-related harms and impaired driving. They contend that providing water is a minimal cost for establishments and reflects a common practice already followed by many bars, making it a reasonable health protection measure that benefits both customers and communities.",
+  "aiConArguments": "Opponents may argue this creates an unfunded mandate that increases operating costs for bar owners, particularly small businesses, without compensation. They contend that water provision should be a business decision rather than a legal requirement, and that enforcement and compliance monitoring would create additional regulatory burden on the Division of Alcohol Law Enforcement.",
+  "topic": "Business & Labor",
+  "textLength": 2651,
+  "createdAt": "2026-06-23T03:03:18.397Z",
+  "sponsors": [
+    {"peopleId":25844,"name":"Julia Greenfield","party":"D","isPrimary":true},
+    {"peopleId":24202,"name":"Maria Cervania","party":"D","isPrimary":false},
+    {"peopleId":25213,"name":"Tracy Clark","party":"D","isPrimary":false},
+    {"peopleId":25842,"name":"Bryan Cohn","party":"D","isPrimary":false},
+    {"peopleId":25850,"name":"Jordan Lopez","party":"D","isPrimary":false},
+    {"peopleId":22606,"name":"James Roberson","party":"D","isPrimary":false},
+    {"peopleId":26396,"name":"Phil Rubin","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

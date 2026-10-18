@@ -1,0 +1,29 @@
+{
+  "billId": 2013381,
+  "billNumber": "H496",
+  "title": "Patriotic Youth Group Access",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "668f0951e930b4fbb76701af11694b9d",
+  "lastAction": "Re-ref Com On Judiciary 1",
+  "lastActionDate": "2026-05-19",
+  "url": "https://legiscan.com/NC/bill/H496/2025",
+  "aiSummary": "This bill requires North Carolina public schools to allow youth groups designated as patriotic societies (like Boy Scouts and Girl Scouts) to give brief presentations to students about membership and civic education during the school day. Presentations are limited to 10 minutes and do not count toward instructional time requirements.",
+  "aiProArguments": "Supporters argue this bill promotes civic engagement and provides students with information about established youth organizations that teach leadership and community service. They contend that brief, non-instructional presentations help students learn about opportunities to participate in activities that develop character and citizenship outside of school hours.",
+  "aiConArguments": "Opponents may argue this bill gives preferential treatment to certain organizations based on federal designation rather than treating all youth groups equally, potentially limiting school discretion in determining which groups can access students. They may also express concerns about using instructional time for recruitment presentations, even if brief, or question whether this type of access should be mandated rather than left to local school board decisions.",
+  "topic": "Education",
+  "textLength": 6127,
+  "createdAt": "2026-06-23T02:53:23.604Z",
+  "sponsors": [
+    {"peopleId":14634,"name":"Stephen Ross","party":"R","isPrimary":true},
+    {"peopleId":14604,"name":"John Bell","party":"R","isPrimary":true},
+    {"peopleId":22607,"name":"Steve Tyson","party":"R","isPrimary":true},
+    {"peopleId":24219,"name":"Bill Ward","party":"R","isPrimary":true},
+    {"peopleId":24201,"name":"Celeste Cairns","party":"R","isPrimary":false},
+    {"peopleId":21377,"name":"Jake Johnson","party":"R","isPrimary":false},
+    {"peopleId":22613,"name":"Ben Moss","party":"R","isPrimary":false},
+    {"peopleId":18495,"name":"Donna White","party":"R","isPrimary":false},
+    {"peopleId":22609,"name":"David Willis","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

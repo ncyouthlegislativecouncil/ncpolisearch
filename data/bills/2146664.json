@@ -1,0 +1,33 @@
+{
+  "billId": 2146664,
+  "billNumber": "H1134",
+  "title": "Secret Peeping on Minor/Increase Punishment",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "3096c2996391a02c16a306e2ce735ca5",
+  "lastAction": "Ref to the Com on Judiciary 2, if favorable, Appropriations, if favorable, Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2026-05-04",
+  "url": "https://legiscan.com/NC/bill/H1134/2025",
+  "aiSummary": "This bill increases criminal penalties for secret peeping offenses when the victim is a minor. Currently, many of these offenses are Class 1 misdemeanors or Class I felonies; the bill elevates them to Class A1 misdemeanors or Class H/G felonies when a minor is the victim. The bill also allocates $25,000 for a public awareness campaign about these laws.",
+  "aiProArguments": "Supporters argue that children need stronger legal protection against voyeurism and sexual exploitation. They contend that enhanced penalties appropriately reflect the serious harm caused to minor victims, deter predatory behavior, and align punishment with the severity of crimes against vulnerable children. Proponents also support the public awareness campaign as a way to educate North Carolinians about these protections.",
+  "aiConArguments": "Opponents may express concerns about whether mandatory sentence enhancements are the most effective approach to preventing these crimes, and whether resources might be better directed toward prevention and victim support. Some may question whether the penalty increases are proportionate or whether they could lead to unintended consequences in prosecution or sentencing discretion. Others might debate whether the $25,000 public awareness allocation represents the best use of state funds.",
+  "topic": "Criminal Justice & Public Safety",
+  "textLength": 6205,
+  "createdAt": "2026-06-23T03:02:16.753Z",
+  "sponsors": [
+    {"peopleId":11863,"name":"Phillip Shepard","party":"R","isPrimary":true},
+    {"peopleId":24199,"name":"Kanika Brown","party":"D","isPrimary":false},
+    {"peopleId":25213,"name":"Tracy Clark","party":"D","isPrimary":false},
+    {"peopleId":2086,"name":"Francis Iler","party":"R","isPrimary":false},
+    {"peopleId":20519,"name":"Keith Kidwell","party":"R","isPrimary":false},
+    {"peopleId":22615,"name":"Howard Penny","party":"R","isPrimary":false},
+    {"peopleId":24212,"name":"Joe Pike","party":"R","isPrimary":false},
+    {"peopleId":18461,"name":"Larry Potts","party":"R","isPrimary":false},
+    {"peopleId":22946,"name":"Reece Pyrtle","party":"R","isPrimary":false},
+    {"peopleId":14633,"name":"Dennis Riddell","party":"R","isPrimary":false},
+    {"peopleId":24219,"name":"Bill Ward","party":"R","isPrimary":false},
+    {"peopleId":18495,"name":"Donna White","party":"R","isPrimary":false},
+    {"peopleId":17158,"name":"Shelly Willingham","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

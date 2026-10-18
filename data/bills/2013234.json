@@ -1,0 +1,23 @@
+{
+  "billId": 2013234,
+  "billNumber": "S450",
+  "title": "Novel Opioid Control Act of 2025",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "8e5a3a191eb0043083b2d0db418fe291",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-25",
+  "url": "https://legiscan.com/NC/bill/S450/2025",
+  "aiSummary": "This bill updates North Carolina's Controlled Substances Act by adding dozens of newly-designed synthetic opioids, fentanyl derivatives, nitazene compounds, and other drug analogs to the state's list of Schedule I controlled substances. The bill aims to keep pace with chemists who create new drug variants by modifying the chemical structure of existing illegal drugs to circumvent current drug laws.",
+  "aiProArguments": "Supporters argue this bill is necessary to combat the evolving opioid crisis by closing legal loopholes that allow chemists to manufacture novel synthetic drugs that are not yet specifically named in the law. By adding broad categories of drug derivatives and analogs—rather than listing individual chemicals—the bill can address new drugs quickly as they emerge on the street, preventing dangerous substances from remaining legal during the time lag between their creation and traditional legislation. Proponents contend this protects public health and helps law enforcement respond to the constantly changing drug supply.",
+  "aiConArguments": "Opponents may raise concerns that the broad language defining controlled substance categories could inadvertently criminalize legitimate research or pharmaceutical development. Others argue that the bill's effectiveness depends on consistent enforcement and that simply adding substances to the controlled list does not address root causes of addiction or drug trafficking. Additionally, some question whether focusing on supply-side drug scheduling adequately addresses demand-reduction strategies like treatment and prevention programs.",
+  "topic": "Criminal Justice & Public Safety",
+  "textLength": 10197,
+  "createdAt": "2026-06-23T03:07:56.665Z",
+  "sponsors": [
+    {"peopleId":17437,"name":"Thomas McInnis","party":"R","isPrimary":true},
+    {"peopleId":22424,"name":"Michael Lazzara","party":"R","isPrimary":true},
+    {"peopleId":19669,"name":"Vickie Sawyer","party":"R","isPrimary":true}
+  ],
+  "rollCalls": []
+}

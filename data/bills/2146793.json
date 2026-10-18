@@ -1,0 +1,27 @@
+{
+  "billId": 2146793,
+  "billNumber": "S985",
+  "title": "HALO Law",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "14c4d50f504a5cf053aa6b5e425006a1",
+  "lastAction": "Re-ref to Judiciary. If fav, re-ref to Appropriations/Base Budget",
+  "lastActionDate": "2026-05-13",
+  "url": "https://legiscan.com/NC/bill/S985/2025",
+  "aiSummary": "The HALO Law creates a new crime in North Carolina that makes it illegal to approach within 25 feet of a first responder (police officers, firefighters, EMTs, probation officers, and corrections staff) after being warned not to do so, if the person intends to impede their duties, threaten them, or harass them. The law classifies this violation as a Class 2 misdemeanor and includes $25,000 in state funding for a public awareness campaign.",
+  "aiProArguments": "Supporters argue this law protects first responders from dangerous situations and harassment while performing their jobs, which can help officers focus on their duties without distraction or threat. They contend that establishing a clear legal buffer zone with advance warning gives first responders a tool to maintain safety and de-escalate tense situations, and that the requirement for a verbal warning first ensures people have a clear opportunity to comply.",
+  "aiConArguments": "Opponents worry the law's terms like 'harass' and 'impede' are too vague and could criminalize legitimate activities like peaceful protest, recording police, or asking questions. They argue the 25-foot buffer is expansive and that people exercising First Amendment rights near first responders could face criminal charges, and that the law may be applied unevenly against certain groups.",
+  "topic": "Criminal Justice & Public Safety",
+  "textLength": 2970,
+  "createdAt": "2026-06-23T03:12:23.149Z",
+  "sponsors": [
+    {"peopleId":26462,"name":"Chris Measmer","party":"R","isPrimary":true},
+    {"peopleId":18465,"name":"Danny Britt","party":"R","isPrimary":false},
+    {"peopleId":14615,"name":"Carl Ford","party":"R","isPrimary":false},
+    {"peopleId":11853,"name":"Mark Hollo","party":"R","isPrimary":false},
+    {"peopleId":20222,"name":"Todd Johnson","party":"R","isPrimary":false},
+    {"peopleId":11858,"name":"Timothy Moffitt","party":"R","isPrimary":false},
+    {"peopleId":11862,"name":"Norman Sanderson","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

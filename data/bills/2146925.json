@@ -1,0 +1,23 @@
+{
+  "billId": 2146925,
+  "billNumber": "S1043",
+  "title": "2026 Water Safety Act",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "7fe215692a1788dd758aa9b591c8c325",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2026-05-04",
+  "url": "https://legiscan.com/NC/bill/S1043/2025",
+  "aiSummary": "This bill creates a comprehensive water safety initiative focused on addressing PFAS (per- and polyfluoroalkyl substances) and 1,4-dioxane contamination. It establishes funding for mitigation grants to water systems, research programs, drinking water standards, industrial discharge limits, a moratorium on certain water transfers from the Cape Fear River Basin, and studies on water supply sustainability and wastewater treatment impacts.",
+  "aiProArguments": "Supporters argue this bill protects public health by establishing science-based drinking water standards for harmful PFAS chemicals that have contaminated water supplies across North Carolina, particularly affecting firefighters and their communities. The bill provides substantial funding ($56 million for mitigation, $14 million for research, $25 million for firefighter protection) to help local water systems detect and remove contaminants, while the Cape Fear River moratorium protects the basin's water resources from unsustainable transfers. Proponents emphasize the research components will advance understanding of emerging contaminants and develop new treatment technologies.",
+  "aiConArguments": "Opponents may argue the bill imposes significant costs on industries through new discharge requirements and treatment mandates that could increase operating expenses for manufacturers and water utilities, potentially raising rates for consumers. Some may contend the Cape Fear River moratorium limits economic flexibility for water-stressed regions needing to transfer water across basin lines, and that the 36-month compliance timeline for industries may be insufficient to implement new treatment technologies. Critics might also question whether the research timelines are adequate given the complexity of PFAS remediation.",
+  "topic": "Environment & Energy",
+  "textLength": 23921,
+  "createdAt": "2026-06-23T03:12:54.455Z",
+  "sponsors": [
+    {"peopleId":17504,"name":"Michael Lee","party":"R","isPrimary":true},
+    {"peopleId":18465,"name":"Danny Britt","party":"R","isPrimary":true},
+    {"peopleId":24220,"name":"Val Applewhite","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

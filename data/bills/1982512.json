@@ -1,0 +1,32 @@
+{
+  "billId": 1982512,
+  "billNumber": "H194",
+  "title": "SchCalFlex/Asheville/Open Cal",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "5ead42e444c6d9d2cd95790352fa0ca1",
+  "lastAction": "Ref to the Com on Education - K-12, if favorable, Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-02-26",
+  "url": "https://legiscan.com/NC/bill/H194/2025",
+  "aiSummary": "This bill gives Asheville City Schools flexibility to start their school calendar earlier than the current state requirement. Currently, North Carolina law requires public schools to open no earlier than the Monday closest to August 26, but this bill allows the State Board of Education to waive that requirement for Asheville City Schools, permitting them to open as early as the Monday closest to August 19 if they can show a need for extra makeup days due to weather closures.",
+  "aiProArguments": "Supporters argue this gives Asheville City Schools needed flexibility to manage their calendar when severe weather causes frequent closures. By starting earlier, the district can build in buffer days to make up missed instructional time without extending the school year into summer, which some argue is better for student learning and family planning.",
+  "aiConArguments": "Opponents may be concerned that earlier start dates conflict with summer employment, vacation plans, and family schedules, particularly for students working seasonal jobs. Critics might also question why only Asheville City Schools receives this exception rather than applying the flexibility uniformly across the state or through the existing waiver process already available.",
+  "topic": "Education",
+  "textLength": 2477,
+  "createdAt": "2026-06-23T02:44:39.436Z",
+  "sponsors": [
+    {"peopleId":17149,"name":"Brian Turner","party":"D","isPrimary":true},
+    {"peopleId":24213,"name":"Lindsey Prather","party":"D","isPrimary":true},
+    {"peopleId":24890,"name":"Eric Ager","party":"D","isPrimary":true},
+    {"peopleId":22599,"name":"Amber Baker","party":"D","isPrimary":false},
+    {"peopleId":18451,"name":"Mary Belk","party":"D","isPrimary":false},
+    {"peopleId":24200,"name":"Laura Budd","party":"D","isPrimary":false},
+    {"peopleId":2044,"name":"Becky Carney","party":"D","isPrimary":false},
+    {"peopleId":2077,"name":"Mary Harrison","party":"D","isPrimary":false},
+    {"peopleId":20515,"name":"Zack Forde-Hawkins","party":"D","isPrimary":false},
+    {"peopleId":20521,"name":"Carolyn Logan","party":"D","isPrimary":false},
+    {"peopleId":25853,"name":"Rodney Pierce","party":"D","isPrimary":false},
+    {"peopleId":14633,"name":"Dennis Riddell","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

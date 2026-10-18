@@ -1,0 +1,21 @@
+{
+  "billId": 2144819,
+  "billNumber": "H1037",
+  "title": "Even-Yr Elections/4-Yr Mayor Term/Belville",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "372b1055bce3afb72523002e98b576f3",
+  "lastAction": "Ref to the Com on Election Law, if favorable, Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2026-04-23",
+  "url": "https://legiscan.com/NC/bill/H1037/2025",
+  "aiSummary": "This bill changes the Town of Belville's municipal election schedule to even-numbered years only (instead of odd-numbered years) and extends the mayor's term from two years to four years. To implement these changes, the bill delays the 2027 election and extends current officials' terms by one year, with new elections beginning in 2028.",
+  "aiProArguments": "Supporters argue that holding municipal elections in even-numbered years aligns Belville with state and federal election cycles, potentially increasing voter turnout by combining local elections with higher-profile contests. A four-year mayoral term allows the mayor more time to implement long-term plans and policies without the constant pressure of reelection campaigns, potentially improving government stability and effectiveness.",
+  "aiConArguments": "Opponents may contend that extending current officials' terms without a new election reduces democratic accountability in the interim period. Some may argue that more frequent elections (every two years) better keep elected officials responsive to constituents, and that shifting to even-year elections could reduce focus on local issues that may be overshadowed by state and federal races.",
+  "topic": "Elections & Voting",
+  "textLength": 2991,
+  "createdAt": "2026-06-23T03:00:38.815Z",
+  "sponsors": [
+    {"peopleId":2086,"name":"Francis Iler","party":"R","isPrimary":true}
+  ],
+  "rollCalls": []
+}

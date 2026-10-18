@@ -1,0 +1,23 @@
+{
+  "billId": 1982382,
+  "billNumber": "S156",
+  "title": "SchCalFlex/Wake/CC",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "5f43877c9c0a500c17279c52ce6fd4fd",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-02-26",
+  "url": "https://legiscan.com/NC/bill/S156/2025",
+  "aiSummary": "This bill allows Wake County Schools to align their school calendar with the calendar of local community colleges that serve the county. It modifies state law to give Wake County's school board the flexibility to set opening and closing dates that match community college schedules, rather than following the standard statewide requirements.",
+  "aiProArguments": "Supporters argue this bill creates better coordination between high schools and community colleges, making it easier for students to take dual enrollment courses and transition to higher education. It may also improve scheduling efficiency for families with students at both institutions and help Wake County better utilize shared facilities or resources with community colleges.",
+  "aiConArguments": "Opponents may be concerned that allowing Wake County to deviate from statewide calendar requirements could create complications for student transfers between districts, complicate sports scheduling and competitions, or disrupt the standard calendar rhythm that families and employers rely on. They might also question why this flexibility should apply only to Wake County rather than being available uniformly across the state.",
+  "topic": "Education",
+  "textLength": 2653,
+  "createdAt": "2026-06-23T03:05:24.595Z",
+  "sponsors": [
+    {"peopleId":17147,"name":"Gale Adcock","party":"D","isPrimary":true},
+    {"peopleId":17936,"name":"Jay Chaudhuri","party":"D","isPrimary":true},
+    {"peopleId":2033,"name":"Daniel Blue","party":"D","isPrimary":true}
+  ],
+  "rollCalls": []
+}

@@ -36,3 +36,9 @@ yarn-error.log*
 next-env.d.ts
 
 .vercel
+
+# Local raw database dumps (contain full bill text; not committed)
+/backup
+
+# Lookup files generated from data/ by scripts/build-data-index.ts
+/.data-index

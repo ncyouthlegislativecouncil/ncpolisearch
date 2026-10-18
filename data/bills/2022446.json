@@ -1,0 +1,26 @@
+{
+  "billId": 2022446,
+  "billNumber": "H914",
+  "title": "Higher Ed./Religious Inst. Affordable Housing",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "2bace9f6defa4b8031e82911fe4c7d41",
+  "lastAction": "Ref To Com On Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-04-14",
+  "url": "https://legiscan.com/NC/bill/H914/2025",
+  "aiSummary": "This bill allows colleges and religious institutions in cities over 50,000 people to build affordable housing on their land without special zoning permits or variances. At least 80% of units must be reserved for low-income residents, and the development must follow standard building codes and avoid historic districts and heavy industrial areas.",
+  "aiProArguments": "Supporters argue this bill addresses North Carolina's affordable housing shortage by streamlining development on institutional land that may otherwise sit unused. They contend that colleges and religious organizations have missions aligned with community benefit, and removing regulatory barriers allows them to more quickly and affordably provide housing for low-income residents without lengthy permit processes.",
+  "aiConArguments": "Opponents worry this bill may bypass important community input and local zoning protections that exist for good reasons, potentially allowing large developments without full neighborhood consideration. They also express concerns that exempting institutions from normal permitting processes could reduce municipal control over land use and create precedent for other exemptions to zoning regulations.",
+  "topic": "Housing",
+  "textLength": 5855,
+  "createdAt": "2026-06-23T02:59:15.454Z",
+  "sponsors": [
+    {"peopleId":25851,"name":"Aisha Dew","party":"D","isPrimary":true},
+    {"peopleId":18451,"name":"Mary Belk","party":"D","isPrimary":false},
+    {"peopleId":24200,"name":"Laura Budd","party":"D","isPrimary":false},
+    {"peopleId":2077,"name":"Mary Harrison","party":"D","isPrimary":false},
+    {"peopleId":25850,"name":"Jordan Lopez","party":"D","isPrimary":false},
+    {"peopleId":20522,"name":"Nasif Majeed","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

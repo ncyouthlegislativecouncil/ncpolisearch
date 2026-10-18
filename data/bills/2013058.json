@@ -1,0 +1,21 @@
+{
+  "billId": 2013058,
+  "billNumber": "S418",
+  "title": "NC Health Benefits Exchange Implementation",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "8f70d13dacec236bb7afab0588ce453d",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2025-04-01",
+  "url": "https://legiscan.com/NC/bill/S418/2025",
+  "aiSummary": "This bill authorizes North Carolina's Insurance Commissioner to establish and operate a state-run health benefits exchange where individuals can compare and purchase health insurance plans. It provides $100,000 in initial funding and grants the Commissioner authority to adopt rules, apply for federal funding, and create advisory boards to implement and manage the exchange.",
+  "aiProArguments": "Supporters argue that a state-run exchange gives North Carolina greater control over its health insurance marketplace and allows the state to tailor the exchange to local needs and preferences. They contend this approach could improve customer service, reduce reliance on the federal government's exchange, and potentially create jobs in the state while keeping more operational decisions and funds within North Carolina.",
+  "aiConArguments": "Opponents raise concerns about the costs and administrative burden of operating a separate state exchange, noting that the federal exchange already serves North Carolina residents at no state cost. They argue the $100,000 initial appropriation may underestimate true implementation and ongoing operating expenses, and question whether duplicating exchange services represents an efficient use of state resources.",
+  "topic": "Healthcare",
+  "textLength": 3969,
+  "createdAt": "2026-06-23T03:07:38.223Z",
+  "sponsors": [
+    {"peopleId":20216,"name":"Jim Burgin","party":"R","isPrimary":true}
+  ],
+  "rollCalls": []
+}

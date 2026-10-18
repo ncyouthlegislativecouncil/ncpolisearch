@@ -1,0 +1,26 @@
+{
+  "billId": 2014084,
+  "billNumber": "S644",
+  "title": "Green Schools Save Money",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "e37a65621a361db36598080bb9e97074",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-26",
+  "url": "https://legiscan.com/NC/bill/S644/2025",
+  "aiSummary": "This bill appropriates $1.5 billion to North Carolina public schools for energy efficiency improvements, solar panel installation, and replacement of older school buses with electric buses. The funds would be distributed to local school districts based on student enrollment and used for projects like upgrading HVAC systems, installing solar panels, and replacing gas-powered buses with electric ones assembled in North Carolina.",
+  "aiProArguments": "Supporters argue this bill reduces long-term operating costs for schools by lowering energy and fuel expenses, freeing up money for classroom instruction and teacher salaries. They contend the upfront investment in efficiency upgrades and electric buses pays for itself through decreased utility bills and fuel costs, while also improving air quality and environmental outcomes for students and communities. Additionally, proponents highlight job creation and economic benefits from manufacturing electric buses in North Carolina.",
+  "aiConArguments": "Opponents express concerns about the $1.5 billion price tag and question whether the state can afford such a large one-time appropriation given other budget priorities. Some argue that the projected savings from energy efficiency may not materialize quickly enough to justify the initial expense, and that local districts already stretched financially should decide their own spending priorities rather than receiving mandated improvements. Critics also note that electric school bus technology is still developing and may face supply chain or maintenance challenges.",
+  "topic": "Education",
+  "textLength": 2672,
+  "createdAt": "2026-06-23T03:09:38.157Z",
+  "sponsors": [
+    {"peopleId":16251,"name":"Graig Meyer","party":"D","isPrimary":true},
+    {"peopleId":20220,"name":"Michael Garrett","party":"D","isPrimary":true},
+    {"peopleId":25859,"name":"Caleb Theodros","party":"D","isPrimary":true},
+    {"peopleId":22425,"name":"Julie Mayfield","party":"D","isPrimary":false},
+    {"peopleId":21633,"name":"Natalie Murdock","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

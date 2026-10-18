@@ -1,0 +1,21 @@
+{
+  "billId": 1945866,
+  "billNumber": "S17",
+  "title": "9th Senatorial District Local Act-1",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "ad8101995be72837aa90c66c55308932",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-01-30",
+  "url": "https://legiscan.com/NC/bill/S17/2025",
+  "aiSummary": "This is a local bill that applies only to North Carolina's 9th Senatorial District. The bill contains no specific provisions—it only establishes that any measures included would apply exclusively to that district and would take effect upon becoming law.",
+  "aiProArguments": "Supporters of local bills argue they allow targeted solutions for specific regions' unique needs without affecting the entire state. This framework enables the 9th Senatorial District to address local issues efficiently through legislation tailored to its community, rather than imposing one-size-fits-all statewide policies.",
+  "aiConArguments": "Opponents of local bills raise concerns about creating inconsistent rules across districts, which can lead to confusion and unequal treatment of North Carolinians based on geography. Additionally, since this bill contains no actual substantive provisions, critics may question whether the legislative process is being used effectively or if the bill's purpose should be clarified before passage.",
+  "topic": "Local Government",
+  "textLength": 504,
+  "createdAt": "2026-06-23T03:04:12.068Z",
+  "sponsors": [
+    {"peopleId":12009,"name":"William Jackson","party":"R","isPrimary":true}
+  ],
+  "rollCalls": []
+}

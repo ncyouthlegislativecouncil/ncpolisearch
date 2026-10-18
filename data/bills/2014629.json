@@ -1,0 +1,27 @@
+{
+  "billId": 2014629,
+  "billNumber": "S752",
+  "title": "Needle Free Epinephrine for Schoolchildren",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "d1ded10fecf5214a276d82acc1c1f7ec",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-26",
+  "url": "https://legiscan.com/NC/bill/S752/2025",
+  "aiSummary": "This bill expands North Carolina school emergency epinephrine options by allowing nasal spray formulations in addition to auto-injectors for treating anaphylactic reactions. Schools would still be required to stock emergency epinephrine products and train personnel on their use, with the definition updated to include nasal sprays alongside needle-based injectors. The requirement applies to public schools, charter schools, and regional schools.",
+  "aiProArguments": "Supporters argue that nasal spray epinephrine provides an additional tool for school emergencies, offering a needle-free option that may be easier or faster for untrained personnel to administer in crisis situations. Nasal sprays may also reduce anxiety in students and staff who fear needles, potentially leading to quicker emergency response. The bill maintains existing safety requirements and training standards while simply broadening the medical options available to schools.",
+  "aiConArguments": "Opponents may express concerns about whether nasal spray formulations are as reliable or effective as auto-injectors in all emergency situations, or question whether schools have adequate resources to procure and maintain multiple epinephrine product types. Some may worry that expanding product options could create confusion during emergencies if personnel are not thoroughly trained on differences between delivery methods, potentially delaying treatment during critical moments.",
+  "topic": "Education",
+  "textLength": 7824,
+  "createdAt": "2026-06-23T03:10:32.468Z",
+  "sponsors": [
+    {"peopleId":25860,"name":"Woodson Bradley","party":"D","isPrimary":true},
+    {"peopleId":17147,"name":"Gale Adcock","party":"D","isPrimary":true},
+    {"peopleId":25859,"name":"Caleb Theodros","party":"D","isPrimary":true},
+    {"peopleId":17936,"name":"Jay Chaudhuri","party":"D","isPrimary":false},
+    {"peopleId":25858,"name":"Sophia Chitlik","party":"D","isPrimary":false},
+    {"peopleId":20223,"name":"Mujtaba Mohammed","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

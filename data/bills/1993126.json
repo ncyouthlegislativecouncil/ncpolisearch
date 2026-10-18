@@ -1,0 +1,25 @@
+{
+  "billId": 1993126,
+  "billNumber": "H327",
+  "title": "Funds for Hope Mills/Capital Projects",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "4925e165f3a43144603e5c2ebf3c1788",
+  "lastAction": "Ref to the Com on Appropriations, if favorable, Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-03-10",
+  "url": "https://legiscan.com/NC/bill/H327/2025",
+  "aiSummary": "This bill appropriates $16.564 million in state funds to the Town of Hope Mills for two capital projects: $13.134 million to construct a new community center and $3.430 million to design and renovate the Senior Center to meet ADA accessibility requirements. The funds are nonrecurring and designated for the 2025-2026 fiscal year.",
+  "aiProArguments": "Supporters argue this investment benefits Hope Mills residents by providing modern community facilities and ensuring seniors have access to compliant public spaces. The projects address infrastructure needs and may enhance quality of life, economic development, and civic engagement in the town while supporting accessibility requirements for people with disabilities.",
+  "aiConArguments": "Opponents may question whether $16.564 million in state funds is the best use of limited budget resources, especially if other communities or state priorities have competing needs. Concerns could include whether the town should fund more of these projects locally, whether the funding level is appropriate compared to other municipalities, and the impact on the overall state budget.",
+  "topic": "Taxes & Budget",
+  "textLength": 1209,
+  "createdAt": "2026-06-23T02:48:31.802Z",
+  "sponsors": [
+    {"peopleId":24206,"name":"Frances Jackson","party":"D","isPrimary":true},
+    {"peopleId":24198,"name":"Gloristine Brown","party":"D","isPrimary":false},
+    {"peopleId":22600,"name":"Terry Brown","party":"D","isPrimary":false},
+    {"peopleId":20509,"name":"Allison Dahle","party":"D","isPrimary":false},
+    {"peopleId":20522,"name":"Nasif Majeed","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

@@ -1,0 +1,27 @@
+{
+  "billId": 2014285,
+  "billNumber": "S719",
+  "title": "NC Victims of Crime Assistance Act",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "208dd9c01770caf71be60b50e22d4c9b",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-26",
+  "url": "https://legiscan.com/NC/bill/S719/2025",
+  "aiSummary": "This bill creates the North Carolina Victims of Crime Assistance Fund and a competitive grant program administered by the Governor's Crime Commission to award grants up to $1 million to public agencies and nonprofits that provide services to crime victims. The bill funds this program by increasing criminal court costs by $3.50 per case and marriage license fees by $5.00, effective December 1, 2025.",
+  "aiProArguments": "Supporters argue this bill addresses a critical gap in victim services by creating dedicated, sustainable funding for organizations that help crime victims with emotional support, safety, stabilization, and navigation of the criminal justice system. They contend that modest fee increases on court costs and marriage licenses are a fair way to fund victim assistance, since those who commit crimes or use state services can contribute to helping those harmed by crime.",
+  "aiConArguments": "Opponents may argue that increasing court costs could burden defendants, particularly low-income individuals, and that the bill's provisions for waiving costs may be insufficient to prevent hardship. Others might question whether marriage license fees are an appropriate funding mechanism since this fee affects people unrelated to the criminal justice system, and they may prefer general fund appropriations or alternative revenue sources.",
+  "topic": "Criminal Justice & Public Safety",
+  "textLength": 10466,
+  "createdAt": "2026-06-23T03:10:17.819Z",
+  "sponsors": [
+    {"peopleId":25860,"name":"Woodson Bradley","party":"D","isPrimary":true},
+    {"peopleId":20223,"name":"Mujtaba Mohammed","party":"D","isPrimary":true},
+    {"peopleId":25859,"name":"Caleb Theodros","party":"D","isPrimary":true},
+    {"peopleId":21633,"name":"Natalie Murdock","party":"D","isPrimary":false},
+    {"peopleId":22426,"name":"DeAndrea Salvador","party":"D","isPrimary":false},
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

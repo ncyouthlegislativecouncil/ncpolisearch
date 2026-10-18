@@ -1,0 +1,25 @@
+{
+  "billId": 2017695,
+  "billNumber": "H638",
+  "title": "Equit. Escalation of Electricity Demand Act",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "32d8852cdaa20bee7e91c7051c4cb947",
+  "lastAction": "Ref to the Com on Energy and Public Utilities, if favorable, Finance, if favorable, Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-04-02",
+  "url": "https://legiscan.com/NC/bill/H638/2025",
+  "aiSummary": "This bill would require data centers, electric vehicle charging stations, and EV/PHEV owners to pay fees to cover the cost of building new power generation capacity needed to meet their electricity demands, rather than spreading those costs to all electricity ratepayers. Data centers would need to contract with utilities to build dedicated power sources or develop their own, with safeguards to prevent cost overruns from affecting general ratepayers.",
+  "aiProArguments": "Supporters argue this bill prevents the costs of new technology infrastructure from being unfairly distributed to all electricity customers. They contend that data centers and EV owners directly benefit from grid expansion and should pay for the power generation needed to serve them. Proponents also express concern that rapid electricity demand growth without sufficient reliable baseload power could threaten grid reliability and affordability for all North Carolinians.",
+  "aiConArguments": "Opponents may argue this bill could discourage investment in data centers and EV charging infrastructure by making these industries more expensive to operate in North Carolina, potentially pushing business to other states. They might also contend that cost-shifting to specific users could unfairly burden early EV adopters and that requiring data centers to build dedicated power sources could be economically inefficient compared to integrated grid planning. Additionally, some may question whether this approach adequately addresses long-term energy policy and grid modernization challenges.",
+  "topic": "Environment & Energy",
+  "textLength": 8726,
+  "createdAt": "2026-06-23T02:55:48.637Z",
+  "sponsors": [
+    {"peopleId":22965,"name":"Donnie Loftis","party":"R","isPrimary":true},
+    {"peopleId":24219,"name":"Bill Ward","party":"R","isPrimary":true},
+    {"peopleId":22607,"name":"Steve Tyson","party":"R","isPrimary":true},
+    {"peopleId":22603,"name":"Dudley Greene","party":"R","isPrimary":true},
+    {"peopleId":22613,"name":"Ben Moss","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

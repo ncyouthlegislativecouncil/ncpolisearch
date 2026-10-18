@@ -1,0 +1,24 @@
+{
+  "billId": 2022501,
+  "billNumber": "H900",
+  "title": "Legislators Documents Confidentiality Change",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "a00aef7ebc85ac2c61e3e415f1e5d56f",
+  "lastAction": "Ref To Com On Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-04-14",
+  "url": "https://legiscan.com/NC/bill/H900/2025",
+  "aiSummary": "This bill modifies the confidentiality protections for North Carolina legislators' documents by creating specific exceptions to the rule that legislators can keep their documents private. Legislators would now be required to disclose documents in six categories: federal grand jury subpoenas, investigative authority requests, correspondence about state fund appropriations, lobbyist communications, staff compensation records, and correspondence with state agencies about their business interests.",
+  "aiProArguments": "Supporters argue this bill increases transparency and accountability in state government by requiring disclosure of documents that involve potential conflicts of interest, lobbyist influence, and the use of public funds. They contend that communications about appropriations, lobbying contacts, and personal business dealings with state agencies should be public information, and that staff compensation records should be accessible to ensure proper use of legislative resources.",
+  "aiConArguments": "Opponents may argue this bill reduces legislators' ability to conduct confidential work with staff and constituents, potentially chilling candid discussions and deliberation. They may contend that broad disclosure requirements could expose personal business information, make it harder to communicate with state agencies, and create a competitive disadvantage compared to other states' legislators who maintain greater document confidentiality.",
+  "topic": "Local Government",
+  "textLength": 1619,
+  "createdAt": "2026-06-23T02:59:06.135Z",
+  "sponsors": [
+    {"peopleId":2034,"name":"John Blust","party":"R","isPrimary":true},
+    {"peopleId":19238,"name":"Deb Butler","party":"D","isPrimary":false},
+    {"peopleId":2077,"name":"Mary Harrison","party":"D","isPrimary":false},
+    {"peopleId":17149,"name":"Brian Turner","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

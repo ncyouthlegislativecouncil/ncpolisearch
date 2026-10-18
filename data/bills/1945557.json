@@ -1,0 +1,21 @@
+{
+  "billId": 1945557,
+  "billNumber": "S4",
+  "title": "48th Senatorial District Local Act-1",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "0f6b647b7eceae272f7c25286c22808b",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-01-30",
+  "url": "https://legiscan.com/NC/bill/S4/2025",
+  "aiSummary": "This is a local bill that applies only to the 48th Senatorial District in North Carolina. The bill text provided does not specify what changes or provisions it makes to that district—it only establishes that any provisions would apply solely to that district and become effective upon passage.",
+  "aiProArguments": "Supporters of local bills argue they allow targeted solutions for specific districts' unique needs without affecting the entire state. Local legislation can address particular concerns, governance structures, or issues specific to the 48th Senatorial District more efficiently than statewide measures.",
+  "aiConArguments": "Opponents of local bills may argue they create inconsistent rules across the state, potentially treating similar situations differently in different districts. Without knowing the specific provisions, critics might question whether issues should be addressed uniformly statewide or whether the legislative process is being used to benefit one district over others.",
+  "topic": "Local Government",
+  "textLength": 505,
+  "createdAt": "2026-06-23T03:04:06.155Z",
+  "sponsors": [
+    {"peopleId":11858,"name":"Timothy Moffitt","party":"R","isPrimary":true}
+  ],
+  "rollCalls": []
+}

@@ -1,0 +1,23 @@
+{
+  "billId": 2022156,
+  "billNumber": "H864",
+  "title": "Traffic Law Revisions/Collegiate Plates",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "5fe31e662aaf022e8a59d7ee69303b0b",
+  "lastAction": "Re-ref Com On Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-04-30",
+  "url": "https://legiscan.com/NC/bill/H864/2025",
+  "aiSummary": "This bill makes three main changes to North Carolina traffic laws and license plate regulations. It increases minimum speed requirements on interstates and primary highways, restricts large trucks from using the leftmost lane on certain highways, and creates a new collegiate insignia license plate option with a full-color background design.",
+  "aiProArguments": "Supporters argue that higher minimum speeds on interstates improve traffic flow and safety by reducing speed variance between vehicles, which can cause accidents. They contend that restricting heavy trucks from the left lane prevents slower-moving large vehicles from blocking traffic. Supporters of the new collegiate plates say the full-color design option allows universities to better represent their brands and potentially generate more revenue for academic programs through increased plate sales.",
+  "aiConArguments": "Opponents worry that higher minimum speed requirements could pressure drivers to travel faster than safe conditions allow, potentially increasing accident risk, especially in poor weather. Some argue that minimum speed restrictions may disproportionately affect older vehicles or drivers with mechanical concerns. Critics of the truck lane restriction suggest it could reduce efficiency for trucking operations and raise shipping costs, while questioning whether the safety benefit justifies the operational burden.",
+  "topic": "Transportation & Infrastructure",
+  "textLength": 6359,
+  "createdAt": "2026-06-23T02:58:42.149Z",
+  "sponsors": [
+    {"peopleId":22616,"name":"Ray Pickett","party":"R","isPrimary":true},
+    {"peopleId":20516,"name":"Chris Humphrey","party":"R","isPrimary":false},
+    {"peopleId":24219,"name":"Bill Ward","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

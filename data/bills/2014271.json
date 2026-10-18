@@ -1,0 +1,24 @@
+{
+  "billId": 2014271,
+  "billNumber": "S629",
+  "title": "Ride Safe, Insure Smart Act",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "273ea2b8eff669d762b71950edd051ea",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-26",
+  "url": "https://legiscan.com/NC/bill/S629/2025",
+  "aiSummary": "This bill requires owners and operators of public motocross facilities in North Carolina to carry liability insurance of at least $1 million per occurrence and $2 million in aggregate. The insurance must be provided by an approved insurer, and facility operators must notify the state insurance commissioner if their coverage is cancelled or not renewed. Private facilities not open to the public and government-owned facilities are exempt.",
+  "aiProArguments": "Supporters argue this bill protects riders and the public by ensuring motocross facilities have sufficient insurance to cover injuries or property damage that may occur during racing operations. They contend the requirement creates accountability for facility owners and provides financial protection for injured participants who might otherwise face difficulty recovering damages if a facility lacks adequate coverage.",
+  "aiConArguments": "Opponents may argue the insurance requirement increases operating costs for motocross facility owners, potentially leading to higher fees for riders or closure of some smaller facilities that cannot afford the premium. They may also contend that existing liability laws and individual rider insurance already provide adequate protection, making this mandate an unnecessary regulatory burden on businesses.",
+  "topic": "Business & Labor",
+  "textLength": 3608,
+  "createdAt": "2026-06-23T03:09:27.779Z",
+  "sponsors": [
+    {"peopleId":25860,"name":"Woodson Bradley","party":"D","isPrimary":true},
+    {"peopleId":16251,"name":"Graig Meyer","party":"D","isPrimary":true},
+    {"peopleId":20220,"name":"Michael Garrett","party":"D","isPrimary":true},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

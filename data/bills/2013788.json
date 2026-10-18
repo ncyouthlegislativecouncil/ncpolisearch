@@ -1,0 +1,25 @@
+{
+  "billId": 2013788,
+  "billNumber": "S544",
+  "title": "State Auditor/Crisis Pregnancy Centers",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "7b8e4389ac6be8284f8bf062a6e3fb39",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-26",
+  "url": "https://legiscan.com/NC/bill/S544/2025",
+  "aiSummary": "This bill requires the State Auditor to conduct periodic audits of crisis pregnancy centers that receive state funding. The bill adds this auditing responsibility to the State Auditor's duties under state law.",
+  "aiProArguments": "Supporters argue that state funds should be subject to regular oversight and accountability measures. They contend that audits ensure taxpayer money is being used appropriately and that organizations receiving public funds are operating transparently and in compliance with relevant laws and regulations.",
+  "aiConArguments": "Opponents may argue that this creates additional regulatory burden and costs for crisis pregnancy centers, potentially discouraging them from accepting state funds. They might also contend that these centers are already subject to existing regulations and oversight, making additional audits redundant or that the state should not scrutinize these centers more heavily than other types of organizations receiving state funds.",
+  "topic": "Local Government",
+  "textLength": 749,
+  "createdAt": "2026-06-23T03:08:45.293Z",
+  "sponsors": [
+    {"peopleId":20510,"name":"Terence Everitt","party":"D","isPrimary":true},
+    {"peopleId":25860,"name":"Woodson Bradley","party":"D","isPrimary":false},
+    {"peopleId":25858,"name":"Sophia Chitlik","party":"D","isPrimary":false},
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

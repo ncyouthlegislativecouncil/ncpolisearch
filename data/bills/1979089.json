@@ -1,0 +1,28 @@
+{
+  "billId": 1979089,
+  "billNumber": "S126",
+  "title": "Zero-Based Budgeting",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "7d94e180747160cea00feb8b53722908",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-02-24",
+  "url": "https://legiscan.com/NC/bill/S126/2025",
+  "aiSummary": "This bill requires North Carolina state agencies to use zero-based budgeting on a rotating schedule, starting in 2025. Under this approach, agencies must justify all spending from scratch rather than basing budgets on previous years' appropriations, and must document the costs, outcomes, and necessity of each activity they perform.",
+  "aiProArguments": "Supporters argue that zero-based budgeting helps identify wasteful or outdated programs and ensures taxpayer money is spent efficiently by requiring agencies to justify every dollar. They contend this approach can reveal cost-saving opportunities, eliminate redundant activities, and force agencies to focus resources on their most important functions and measurable outcomes.",
+  "aiConArguments": "Opponents worry that zero-based budgeting is time-consuming and resource-intensive for agencies, potentially diverting staff from delivering services. They also argue that the rotating eight-year schedule may be too infrequent to catch problems, and that the approach could destabilize ongoing programs by treating established services the same as new initiatives, potentially disrupting important public services.",
+  "topic": "Taxes & Budget",
+  "textLength": 5594,
+  "createdAt": "2026-06-23T03:05:08.649Z",
+  "sponsors": [
+    {"peopleId":20216,"name":"Jim Burgin","party":"R","isPrimary":true},
+    {"peopleId":17437,"name":"Thomas McInnis","party":"R","isPrimary":true},
+    {"peopleId":25212,"name":"Bob Brinson","party":"R","isPrimary":false},
+    {"peopleId":11937,"name":"Ralph Hise","party":"R","isPrimary":false},
+    {"peopleId":20222,"name":"Todd Johnson","party":"R","isPrimary":false},
+    {"peopleId":24223,"name":"Brad Overcash","party":"R","isPrimary":false},
+    {"peopleId":11862,"name":"Norman Sanderson","party":"R","isPrimary":false},
+    {"peopleId":19669,"name":"Vickie Sawyer","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

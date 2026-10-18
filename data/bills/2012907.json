@@ -1,0 +1,23 @@
+{
+  "billId": 2012907,
+  "billNumber": "S427",
+  "title": "Property Tax Modifications",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "c12c13733176976c5f2c670d0427c2f9",
+  "lastAction": "Re-ref to Finance. If fav, re-ref to Rules and Operations of the Senate",
+  "lastActionDate": "2025-04-28",
+  "url": "https://legiscan.com/NC/bill/S427/2025",
+  "aiSummary": "This bill modifies North Carolina's property tax laws in three main ways: it expands the definition of personal property excluded from taxation to include business equipment valued at $20,000 or less; it clarifies penalties for failing to report property changes to tax assessors; and it suspends interest collection on property taxes in a specific affected area for 2025-2026, allowing that interest to be credited against future tax bills.",
+  "aiProArguments": "Supporters argue this bill helps small business owners by exempting lower-value business equipment from property taxes, reducing the tax burden on small enterprises. They contend the interest suspension in the affected area provides tax relief to property owners dealing with specific circumstances, while the clearer penalty language ensures fair enforcement of tax reporting requirements.",
+  "aiConArguments": "Opponents may argue that exempting business equipment reduces tax revenue needed for local services and schools, potentially shifting the tax burden to other property owners. They may also contend that suspending interest collection for specific areas creates unequal treatment among taxpayers and could incentivize delayed tax payments if property owners know penalties will be waived.",
+  "topic": "Taxes & Budget",
+  "textLength": 4128,
+  "createdAt": "2026-06-23T03:07:42.523Z",
+  "sponsors": [
+    {"peopleId":11858,"name":"Timothy Moffitt","party":"R","isPrimary":true},
+    {"peopleId":20513,"name":"Bobby Hanig","party":"R","isPrimary":true},
+    {"peopleId":24224,"name":"Buck Newton","party":"R","isPrimary":true}
+  ],
+  "rollCalls": []
+}

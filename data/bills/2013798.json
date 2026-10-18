@@ -1,0 +1,23 @@
+{
+  "billId": 2013798,
+  "billNumber": "S539",
+  "title": "NC Utility Worker Protection Act",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "2f9178a19e81d15a495febd4c62aa626",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-26",
+  "url": "https://legiscan.com/NC/bill/S539/2025",
+  "aiSummary": "This bill increases criminal penalties for assaulting utility workers in North Carolina. It makes simple assault against a utility worker (such as an electric company or water company employee) a Class A1 misdemeanor, and makes assault with a deadly weapon against a utility worker a Class E felony.",
+  "aiProArguments": "Supporters argue that utility workers face increasing dangers while performing essential services and deserve legal protection similar to other public-facing workers like transportation drivers and government employees. They contend that enhanced penalties will deter violence against these workers and recognize the risks they take when entering properties or responding to emergencies.",
+  "aiConArguments": "Opponents may argue that creating separate assault categories for specific professions complicates criminal law and that existing assault statutes already provide adequate punishment. They might also question whether enhanced penalties effectively deter crime or if the bill's broad definition of utility workers and contractors creates unintended consequences for prosecution.",
+  "topic": "Criminal Justice & Public Safety",
+  "textLength": 4502,
+  "createdAt": "2026-06-23T03:08:42.566Z",
+  "sponsors": [
+    {"peopleId":20510,"name":"Terence Everitt","party":"D","isPrimary":true},
+    {"peopleId":22426,"name":"DeAndrea Salvador","party":"D","isPrimary":true},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

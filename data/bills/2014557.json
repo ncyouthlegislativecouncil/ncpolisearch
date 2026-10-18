@@ -1,0 +1,21 @@
+{
+  "billId": 2014557,
+  "billNumber": "S755",
+  "title": "Gen. Contractor Lic'g Bd. Mods",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "4c412f1dea59dd572f03dd58dfd86d1f",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-26",
+  "url": "https://legiscan.com/NC/bill/S755/2025",
+  "aiSummary": "This bill modifies the North Carolina Licensing Board for General Contractors' disciplinary process by clarifying complaint procedures, expanding the Board's disciplinary authority, allowing the Board to recover administrative costs up to $5,000 per violation, and preventing people from taking licensing exams until they pay court-ordered awards.",
+  "aiProArguments": "Supporters argue this bill strengthens consumer protection by giving the Board clearer tools to discipline contractors who commit fraud, negligence, or misconduct. The requirement that exam applicants pay court awards before testing ensures accountability and helps contractors comply with legal obligations, while allowing the Board to recover investigation costs incentivizes proper enforcement of licensing standards.",
+  "aiConArguments": "Opponents may argue that restricting exam eligibility based on unpaid court awards could prevent people from earning a living or improving their qualifications, potentially extending financial hardship. Some contractors might contend that the $5,000 cost-recovery limit per violation could become burdensome if multiple violations are charged, and clearer complaint procedures could increase administrative burden on the Board without proportional benefits.",
+  "topic": "Business & Labor",
+  "textLength": 7638,
+  "createdAt": "2026-06-23T03:10:35.362Z",
+  "sponsors": [
+    {"peopleId":20518,"name":"Steve Jarvis","party":"R","isPrimary":true}
+  ],
+  "rollCalls": []
+}

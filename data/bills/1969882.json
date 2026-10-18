@@ -1,0 +1,27 @@
+{
+  "billId": 1969882,
+  "billNumber": "S103",
+  "title": "Make NC School Calendars Great Again",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "c21822766427c27efb4e51dc200a420c",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-02-17",
+  "url": "https://legiscan.com/NC/bill/S103/2025",
+  "aiSummary": "This bill allows local school boards in North Carolina to start the school year earlier than currently permitted, with the opening date potentially moving from no earlier than the Monday closest to August 26 to as early as the Monday closest to August 19, if the State Board of Education approves based on a showing of 'good cause.' The bill maintains existing rules about school closing dates and minimum instructional days.",
+  "aiProArguments": "Supporters argue this bill gives local school boards greater flexibility to meet their communities' needs, particularly in areas that experience frequent weather-related closings. By allowing an earlier start date when justified, schools can better accommodate makeup days for severe weather, power outages, or emergencies without pushing the school year into summer, which some argue benefits family planning and summer activities.",
+  "aiConArguments": "Opponents may argue that an earlier August start date conflicts with summer employment, tourism industry needs, and family vacation plans, particularly in North Carolina's coastal regions. Some may also contend that the 'good cause' definition—requiring eight closures in four of the last ten years—is vague and could lead to inconsistent application across different school districts.",
+  "topic": "Education",
+  "textLength": 2266,
+  "createdAt": "2026-06-23T03:04:56.759Z",
+  "sponsors": [
+    {"peopleId":20510,"name":"Terence Everitt","party":"D","isPrimary":true},
+    {"peopleId":24220,"name":"Val Applewhite","party":"D","isPrimary":false},
+    {"peopleId":25860,"name":"Woodson Bradley","party":"D","isPrimary":false},
+    {"peopleId":22425,"name":"Julie Mayfield","party":"D","isPrimary":false},
+    {"peopleId":22426,"name":"DeAndrea Salvador","party":"D","isPrimary":false},
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

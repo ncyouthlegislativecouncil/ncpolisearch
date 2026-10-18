@@ -1,0 +1,30 @@
+{
+  "billId": 2009720,
+  "billNumber": "S324",
+  "title": "2025 Safe Drinking Water Act",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "161dabd021130927bcdb8ab3b721f8d6",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-19",
+  "url": "https://legiscan.com/NC/bill/S324/2025",
+  "aiSummary": "This bill requires North Carolina's Commission for Public Health to establish maximum contaminant levels (safety limits) for harmful chemicals in drinking water, including PFAS, PFOA, PFOS, hexavalent chromium, and 1,4-dioxane. The Commission must complete initial rulemaking by October 15, 2025, and annually review new scientific evidence to update these safety standards.",
+  "aiProArguments": "Supporters argue this bill protects public health by setting state-level drinking water standards for toxic chemicals that may not yet have federal limits, particularly protecting vulnerable populations like children and pregnant women. Proponents contend that many of these chemicals (especially PFAS) are widespread contaminants linked to serious health risks, and North Carolina should establish clear safety limits rather than waiting for federal action.",
+  "aiConArguments": "Opponents may argue that establishing stricter state standards than federal EPA guidelines could increase water treatment costs for municipalities and utilities, potentially raising consumer water bills. Some may contend that the rulemaking process could be burdensome and that federal EPA standards should be sufficient, or that more time is needed to establish scientifically-sound limits rather than the compressed October 2025 deadline.",
+  "topic": "Environment & Energy",
+  "textLength": 2439,
+  "createdAt": "2026-06-23T03:06:47.504Z",
+  "sponsors": [
+    {"peopleId":20510,"name":"Terence Everitt","party":"D","isPrimary":true},
+    {"peopleId":24220,"name":"Val Applewhite","party":"D","isPrimary":true},
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":true},
+    {"peopleId":25858,"name":"Sophia Chitlik","party":"D","isPrimary":false},
+    {"peopleId":24222,"name":"Lisa Grafstein","party":"D","isPrimary":false},
+    {"peopleId":20223,"name":"Mujtaba Mohammed","party":"D","isPrimary":false},
+    {"peopleId":21633,"name":"Natalie Murdock","party":"D","isPrimary":false},
+    {"peopleId":12032,"name":"Gladys Robinson","party":"D","isPrimary":false},
+    {"peopleId":22426,"name":"DeAndrea Salvador","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

@@ -1,0 +1,23 @@
+{
+  "billId": 1946442,
+  "billNumber": "H22",
+  "title": "Fire Investigation Law Revisions",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "ca07df35eef31092ac464b3aed0971e3",
+  "lastAction": "Re-ref Com On Insurance",
+  "lastActionDate": "2025-03-11",
+  "url": "https://legiscan.com/NC/bill/H22/2025",
+  "aiSummary": "This bill expands the investigatory powers of North Carolina's State Bureau of Investigation and State Fire Marshal by clarifying their authority to supervise fire investigations in certain cases (deaths, serious injuries, arson, and government/educational/religious buildings) and requiring insurance companies to share fire loss investigation information with state officials. The bill also grants investigators broader access to buildings, witness testimony powers, and protections for insurance companies that cooperate.",
+  "aiProArguments": "Supporters argue this bill strengthens arson detection and prosecution by giving state investigators clearer authority and better access to insurance information that could reveal suspicious fire patterns or fraud. They contend that streamlined investigations and mandatory insurance company cooperation will help solve intentional fires more quickly, deter arson, and protect public safety by identifying repeat offenders or organized fire schemes.",
+  "aiConArguments": "Opponents may worry that expanded investigatory powers without clear limitations could infringe on privacy rights during building examinations or witness interrogations. They might also be concerned that requiring insurance companies to automatically share detailed information could create data security risks, burden smaller insurers with compliance costs, or result in sensitive personal and financial information being held by government agencies longer than necessary.",
+  "topic": "Criminal Justice & Public Safety",
+  "textLength": 10517,
+  "createdAt": "2026-06-23T02:38:03.540Z",
+  "sponsors": [
+    {"peopleId":22612,"name":"Charles Miller","party":"R","isPrimary":true},
+    {"peopleId":22946,"name":"Reece Pyrtle","party":"R","isPrimary":true},
+    {"peopleId":22603,"name":"Dudley Greene","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

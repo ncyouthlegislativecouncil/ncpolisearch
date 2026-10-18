@@ -1,0 +1,30 @@
+{
+  "billId": 1990140,
+  "billNumber": "H270",
+  "title": "Revise Law on the Death Penalty",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "eaa1e4750db2bfa0057ea42ca14abfa5",
+  "lastAction": "Re-ref Com On Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-05-06",
+  "url": "https://legiscan.com/NC/bill/H270/2025",
+  "aiSummary": "This bill changes North Carolina's execution methods by allowing people sentenced to death to choose between electrocution, firing squad, or lethal injection (if available). It repeals the current law limiting execution to lethal injection only and allows health care professionals to assist with executions without facing professional discipline.",
+  "aiProArguments": "Supporters argue this bill respects the autonomy of condemned individuals by allowing them to choose their method of execution. They contend that providing multiple execution methods addresses concerns about the availability and constitutionality of lethal injection, ensuring the state can carry out lawful sentences. Proponents also argue the bill protects medical professionals from losing their licenses when assisting with executions.",
+  "aiConArguments": "Opponents argue that electrocution and firing squad are more painful and inhumane than lethal injection, raising constitutional concerns about cruel and unusual punishment. They contend that allowing choice among execution methods is unusual and problematic, and that involving medical professionals in executions violates medical ethics principles. Opponents also question whether multiple execution methods are necessary or represent a step backward in execution practices.",
+  "topic": "Criminal Justice & Public Safety",
+  "textLength": 9327,
+  "createdAt": "2026-06-23T02:46:49.714Z",
+  "sponsors": [
+    {"peopleId":22609,"name":"David Willis","party":"R","isPrimary":true},
+    {"peopleId":22946,"name":"Reece Pyrtle","party":"R","isPrimary":true},
+    {"peopleId":22612,"name":"Charles Miller","party":"R","isPrimary":true},
+    {"peopleId":24219,"name":"Bill Ward","party":"R","isPrimary":true},
+    {"peopleId":25841,"name":"Jonathan Almond","party":"R","isPrimary":false},
+    {"peopleId":24196,"name":"Jennifer Balkcom","party":"R","isPrimary":false},
+    {"peopleId":25857,"name":"Richard Carver","party":"R","isPrimary":false},
+    {"peopleId":24207,"name":"Neal Jackson","party":"R","isPrimary":false},
+    {"peopleId":20519,"name":"Keith Kidwell","party":"R","isPrimary":false},
+    {"peopleId":25856,"name":"Paul Scott","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

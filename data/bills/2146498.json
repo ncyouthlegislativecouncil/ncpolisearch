@@ -1,0 +1,21 @@
+{
+  "billId": 2146498,
+  "billNumber": "S911",
+  "title": "Protect Children Born from Fertility Care Act",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "4876005aa9054b5d963e7d716e2a3eb8",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2026-04-30",
+  "url": "https://legiscan.com/NC/bill/S911/2025",
+  "aiSummary": "This bill establishes legal protections for children born through artificial insemination and creates civil lawsuits for patients or children harmed when healthcare providers use their own reproductive material without patient consent. It allows patients and affected children to sue for $50,000 in damages plus legal fees, with a five-year deadline to file, and extends this deadline for minors until five years after they turn 18.",
+  "aiProArguments": "Supporters argue this bill protects vulnerable patients from reproductive abuse and exploitation by healthcare providers, establishing clear legal consequences for a serious violation of medical ethics and patient trust. They contend the law gives victims and their children a meaningful remedy through civil damages, and that establishing parentage rights for children born through artificial insemination provides important legal certainty and protection for these families.",
+  "aiConArguments": "Opponents may argue the $50,000 liquidated damages amount is arbitrary and could expose healthcare providers to significant financial liability even for inadvertent violations, potentially affecting medical practice and malpractice insurance costs. Some may also question whether extending the statute of limitations for minors until age 23 creates unfairly long liability windows for healthcare providers, and whether the definition of 'artificial insemination' is broad enough to create unintended legal consequences.",
+  "topic": "Healthcare",
+  "textLength": 11124,
+  "createdAt": "2026-06-23T03:11:48.784Z",
+  "sponsors": [
+    {"peopleId":21633,"name":"Natalie Murdock","party":"D","isPrimary":true}
+  ],
+  "rollCalls": []
+}

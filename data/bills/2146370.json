@@ -1,0 +1,25 @@
+{
+  "billId": 2146370,
+  "billNumber": "S900",
+  "title": "Small Business Investment Grant",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "6cd953863e7bb8475de3dd6da0d44e7f",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2026-04-30",
+  "url": "https://legiscan.com/NC/bill/S900/2025",
+  "aiSummary": "This bill appropriates $250 million to create a COVID-19 Small Business Recovery Program that provides one-time grants to qualifying small businesses that experienced at least a 25% drop in sales tax collections in 2020 compared to 2019. Grants are capped at $250,000 per business or the amount of actual sales tax loss, whichever is less, and recipients must maintain operations for at least six months or repay a proportional amount.",
+  "aiProArguments": "Supporters argue this bill helps small businesses that were disproportionately harmed by COVID-19 pandemic shutdowns and economic disruptions, particularly those in underserved areas that may lack access to other funding sources. The grant program preserves jobs, maintains economic stability, and supports a vital part of North Carolina's economy by providing direct capital to help qualifying businesses survive the pandemic's economic impact.",
+  "aiConArguments": "Opponents may argue that appropriating $250 million in state funds diverts resources from other priorities and represents significant government spending during a specific crisis that has largely passed. Some may question whether grants are the most efficient use of funds compared to low-interest loans, or whether eligibility criteria effectively target the most vulnerable businesses, and whether the six-month clawback provision is sufficient accountability for public funds.",
+  "topic": "Taxes & Budget",
+  "textLength": 4515,
+  "createdAt": "2026-06-23T03:11:42.158Z",
+  "sponsors": [
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":true},
+    {"peopleId":21633,"name":"Natalie Murdock","party":"D","isPrimary":true},
+    {"peopleId":12032,"name":"Gladys Robinson","party":"D","isPrimary":false},
+    {"peopleId":25859,"name":"Caleb Theodros","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

@@ -1,0 +1,22 @@
+{
+  "billId": 1945897,
+  "billNumber": "H6",
+  "title": "Pamlico Co. Muni. Even-Yr. Elect",
+  "status": "2",
+  "chamber": "H",
+  "changeHash": "19f80e5dd3efdc2fa6368b16d13e09b1",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-06",
+  "url": "https://legiscan.com/NC/bill/H6/2025",
+  "aiSummary": "This bill changes when municipal elections are held in nine towns in Pamlico County (Grantsboro, Minnesott Beach, Oriental, Vandemere, Alliance, Arapahoe, Bayboro, Mesic, and Stonewall) by requiring all regular municipal elections to take place in even-numbered years, aligned with general elections. The bill extends current officials' terms by one year to transition to this new election schedule.",
+  "aiProArguments": "Supporters argue that holding municipal elections in even-numbered years with general elections increases voter turnout by combining local and state/federal elections on the same ballot. This coordination also reduces election administration costs by holding fewer separate election events and simplifies the election calendar for both officials and voters.",
+  "aiConArguments": "Opponents may argue that aligning local elections with general elections causes local issues to receive less attention and voter focus compared to statewide races. Additionally, extending current officials' terms by one year before the new schedule begins delays local elections and representation changes, and combining local and general elections makes it harder for voters to concentrate on local government issues.",
+  "topic": "Elections & Voting",
+  "textLength": 17471,
+  "createdAt": "2026-06-23T02:37:31.163Z",
+  "sponsors": [
+    {"peopleId":20519,"name":"Keith Kidwell","party":"R","isPrimary":true},
+    {"peopleId":20516,"name":"Chris Humphrey","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

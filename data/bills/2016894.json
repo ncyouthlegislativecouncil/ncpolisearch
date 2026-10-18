@@ -1,0 +1,28 @@
+{
+  "billId": 2016894,
+  "billNumber": "H598",
+  "title": "Live Event Ticketing Protections & Reforms",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "643e56993720c0ab9bc89467a5e9a210",
+  "lastAction": "Re-ref Com On Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-05-06",
+  "url": "https://legiscan.com/NC/bill/H598/2025",
+  "aiSummary": "This bill creates consumer protections for people buying resold tickets to live events in North Carolina. It requires ticket sellers to clearly show all fees upfront, prevents price increases during checkout, restricts ticket issuers from blocking resales or punishing resellers, and prohibits secondary ticket websites from using event or venue names in their web addresses.",
+  "aiProArguments": "Supporters argue this bill protects consumers from hidden fees and deceptive pricing practices that inflate ticket costs during the purchase process. They contend it promotes fair competition by preventing ticket issuers from blocking resales on independent platforms and allows people to resell tickets they've purchased without penalty, creating a more transparent and competitive secondary ticket market.",
+  "aiConArguments": "Opponents may argue the bill could limit ticket issuers' ability to manage their events and prevent fraud or unauthorized resales. They might contend that restrictions on nontransferable tickets and resale controls could reduce revenue for venues and artists, and that the website address restrictions could be difficult to enforce or unnecessarily limit business naming practices.",
+  "topic": "Business & Labor",
+  "textLength": 7349,
+  "createdAt": "2026-06-23T02:55:11.244Z",
+  "sponsors": [
+    {"peopleId":22609,"name":"David Willis","party":"R","isPrimary":true},
+    {"peopleId":21377,"name":"Jake Johnson","party":"R","isPrimary":true},
+    {"peopleId":21375,"name":"Jeffrey McNeely","party":"R","isPrimary":true},
+    {"peopleId":25855,"name":"Mike Schietzelt","party":"R","isPrimary":true},
+    {"peopleId":20516,"name":"Chris Humphrey","party":"R","isPrimary":false},
+    {"peopleId":22616,"name":"Ray Pickett","party":"R","isPrimary":false},
+    {"peopleId":22607,"name":"Steve Tyson","party":"R","isPrimary":false},
+    {"peopleId":17158,"name":"Shelly Willingham","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

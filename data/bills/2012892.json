@@ -1,0 +1,25 @@
+{
+  "billId": 2012892,
+  "billNumber": "S407",
+  "title": "Prohibit Defense Based on Sex or Gender",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "f346e4192c4e5dc0ee67f6c97bae4c0f",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-25",
+  "url": "https://legiscan.com/NC/bill/S407/2025",
+  "aiSummary": "This bill prohibits defendants in homicide and assault cases from using a victim's sex, gender, gender identity, or sexual orientation as a legal defense or as evidence that negates the crime's severity. The bill allows evidence about a victim's conduct or statements to still be admitted if relevant, and applies to offenses committed after December 1, 2025.",
+  "aiProArguments": "Supporters argue this bill protects vulnerable populations from violence motivated by bias or discrimination. They contend that discovering someone's gender identity or sexual orientation should never justify or reduce culpability for harming them, and that such defenses perpetuate harmful stereotypes and enable crimes of violence against LGBTQ+ individuals and others.",
+  "aiConArguments": "Opponents worry the bill may restrict defendants' ability to present relevant context about their mental state or motivations in legal proceedings. Some argue the language is broad and could inadvertently limit admissible evidence, and they question whether it adequately preserves the distinction between context evidence and using protected characteristics as justification for violence.",
+  "topic": "Criminal Justice & Public Safety",
+  "textLength": 2275,
+  "createdAt": "2026-06-23T03:07:33.229Z",
+  "sponsors": [
+    {"peopleId":22425,"name":"Julie Mayfield","party":"D","isPrimary":true},
+    {"peopleId":24222,"name":"Lisa Grafstein","party":"D","isPrimary":true},
+    {"peopleId":20220,"name":"Michael Garrett","party":"D","isPrimary":false},
+    {"peopleId":21633,"name":"Natalie Murdock","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

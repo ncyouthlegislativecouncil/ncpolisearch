@@ -1,0 +1,24 @@
+{
+  "billId": 2008776,
+  "billNumber": "S303",
+  "title": "Repeal Service Tax",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "ab08ac263292c4ba718ecf2bcd1d3da6",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-18",
+  "url": "https://legiscan.com/NC/bill/S303/2025",
+  "aiSummary": "This bill repeals North Carolina's service tax by eliminating taxation on service contracts and removing related tax provisions. It makes conforming changes to tax code sections that reference service contracts and adjusts definitions and exemptions accordingly. The bill takes effect July 1, 2025.",
+  "aiProArguments": "Supporters argue that repealing the service tax simplifies the tax code and reduces compliance burdens on businesses that sell services. They contend that service taxation is complex to administer, creates confusion about what qualifies as a taxable service, and may put service businesses at a competitive disadvantage compared to other states. Repealing it could reduce administrative costs for both businesses and the state.",
+  "aiConArguments": "Opponents likely argue that repealing the service tax eliminates a revenue source for the state, potentially reducing funding for public services and education. They may be concerned that this creates an inequity where goods remain taxed but services do not, potentially shifting the tax burden to consumers who purchase tangible products. The revenue loss could require alternative tax increases or reduced state spending.",
+  "topic": "Taxes & Budget",
+  "textLength": 60279,
+  "createdAt": "2026-06-23T03:06:33.521Z",
+  "sponsors": [
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":true},
+    {"peopleId":24222,"name":"Lisa Grafstein","party":"D","isPrimary":true},
+    {"peopleId":25860,"name":"Woodson Bradley","party":"D","isPrimary":true},
+    {"peopleId":25859,"name":"Caleb Theodros","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

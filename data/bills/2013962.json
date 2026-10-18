@@ -1,0 +1,26 @@
+{
+  "billId": 2013962,
+  "billNumber": "S512",
+  "title": "Adopt Official Hip Hop Song",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "1991317b38fe7dd9d2a1486320d8912e",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-26",
+  "url": "https://legiscan.com/NC/bill/S512/2025",
+  "aiSummary": "This bill would designate the song 'Raise Up' by North Carolina rapper Petey Pablo as the official hip hop song of North Carolina. The bill recognizes the state's significant contributions to hip hop music and the cultural importance of this particular song released in 2001.",
+  "aiProArguments": "Supporters argue this bill celebrates North Carolina's rich hip hop heritage and recognizes the state's many influential hip hop artists, including Petey Pablo, J. Cole, and others. They contend that 'Raise Up' is an iconic anthem that represents the state and that official song designations are a meaningful way to honor cultural contributions and preserve important artistic legacies.",
+  "aiConArguments": "Opponents may question whether the state legislature should spend time on symbolic measures like designating official songs when other pressing issues need attention. Some might argue that hip hop and other cultural movements are better celebrated organically by the people rather than through government designation, or that choosing one song may overlook other equally important North Carolina hip hop artists and works.",
+  "topic": "Other / General Government",
+  "textLength": 1685,
+  "createdAt": "2026-06-23T03:08:29.703Z",
+  "sponsors": [
+    {"peopleId":21633,"name":"Natalie Murdock","party":"D","isPrimary":true},
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":true},
+    {"peopleId":22426,"name":"DeAndrea Salvador","party":"D","isPrimary":true},
+    {"peopleId":24220,"name":"Val Applewhite","party":"D","isPrimary":false},
+    {"peopleId":17936,"name":"Jay Chaudhuri","party":"D","isPrimary":false},
+    {"peopleId":20223,"name":"Mujtaba Mohammed","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

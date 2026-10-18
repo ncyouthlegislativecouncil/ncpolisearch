@@ -1,0 +1,22 @@
+{
+  "billId": 2144833,
+  "billNumber": "S818",
+  "title": "Even-Yr Elections/Voting/Pink Hill",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "4dd7d7c7e4279501b5cbb7edb0623d6e",
+  "lastAction": "Re-ref to Elections. If fav, re-ref to Rules and Operations of the Senate",
+  "lastActionDate": "2026-04-23",
+  "url": "https://legiscan.com/NC/bill/S818/2025",
+  "aiSummary": "This bill changes the Town of Pink Hill's municipal elections from odd-numbered years to even-numbered years, aligning them with general elections. It also restores in-person voting on election day at local precincts and extends the current mayor and commissioners' terms by one year, with regular elections resuming in 2028.",
+  "aiProArguments": "Supporters argue that holding municipal elections in even-numbered years increases voter turnout by combining local elections with statewide and federal elections when more voters are already going to the polls. They also contend that aligning voting methods to in-person, same-day voting at local precincts enhances election security and accessibility for town residents.",
+  "aiConArguments": "Opponents may argue that extending current officials' terms by one year without an election raises concerns about democratic accountability and representation. They might also contend that consolidating elections could reduce focus on local issues, or that removing alternative voting methods limits convenience and accessibility for voters who prefer options like early voting or mail-in ballots.",
+  "topic": "Elections & Voting",
+  "textLength": 3501,
+  "createdAt": "2026-06-23T03:10:59.205Z",
+  "sponsors": [
+    {"peopleId":25212,"name":"Bob Brinson","party":"R","isPrimary":true},
+    {"peopleId":11858,"name":"Timothy Moffitt","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

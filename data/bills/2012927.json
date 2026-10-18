@@ -1,0 +1,31 @@
+{
+  "billId": 2012927,
+  "billNumber": "S431",
+  "title": "Protect Whistleblower LEOs from Retaliation",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "106aa470f7ec56e800880edf80c198b8",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-25",
+  "url": "https://legiscan.com/NC/bill/S431/2025",
+  "aiSummary": "This bill requires law enforcement officers to intervene when they observe excessive force or other improper conduct, and to report such conduct to supervisors within 72 hours. It protects these officers from retaliation for making good-faith reports and allocates $100,000 for training criminal justice officers on these new requirements.",
+  "aiProArguments": "Supporters argue this bill strengthens accountability within law enforcement by creating a duty for officers to stop misconduct in the moment and report it afterward. They contend that protecting whistleblower officers from retaliation encourages internal accountability, improves public trust in law enforcement, and establishes clear standards that officers know are expected of them when witnessing illegal or excessive conduct.",
+  "aiConArguments": "Opponents may argue the bill could create operational challenges by requiring officers to intervene in split-second situations while maintaining officer safety and maintaining command structures. Some may also express concerns about the breadth of reportable conduct (including vague terms like 'gross mismanagement'), the potential for false reports to burden agencies, or questions about whether internal reporting adequately addresses serious misconduct versus external oversight mechanisms.",
+  "topic": "Criminal Justice & Public Safety",
+  "textLength": 8212,
+  "createdAt": "2026-06-23T03:07:44.483Z",
+  "sponsors": [
+    {"peopleId":24222,"name":"Lisa Grafstein","party":"D","isPrimary":true},
+    {"peopleId":25860,"name":"Woodson Bradley","party":"D","isPrimary":true},
+    {"peopleId":20510,"name":"Terence Everitt","party":"D","isPrimary":true},
+    {"peopleId":24220,"name":"Val Applewhite","party":"D","isPrimary":false},
+    {"peopleId":20220,"name":"Michael Garrett","party":"D","isPrimary":false},
+    {"peopleId":22425,"name":"Julie Mayfield","party":"D","isPrimary":false},
+    {"peopleId":20223,"name":"Mujtaba Mohammed","party":"D","isPrimary":false},
+    {"peopleId":22426,"name":"DeAndrea Salvador","party":"D","isPrimary":false},
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":false},
+    {"peopleId":25859,"name":"Caleb Theodros","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

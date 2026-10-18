@@ -1,0 +1,27 @@
+{
+  "billId": 2014032,
+  "billNumber": "S667",
+  "title": "Government Modernization",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "0f5d08adae97f7dc867b06754fc8d087",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-26",
+  "url": "https://legiscan.com/NC/bill/S667/2025",
+  "aiSummary": "This bill directs North Carolina state government to modernize its technology systems by upgrading outdated IT infrastructure, enhancing cybersecurity protections, studying blockchain applications for government records and transparency, and expanding online services for residents and businesses. The Department of Information Technology will oversee the five-year initiative, with agencies required to conduct assessments and submit modernization plans within six months.",
+  "aiProArguments": "Supporters argue that modernizing outdated government systems will improve efficiency in service delivery, reduce wait times for residents seeking licenses and permits, and strengthen protection of sensitive public data against cybersecurity threats. They contend that expanded online services increase accessibility for North Carolinians and businesses, reduce bureaucratic burdens, and that blockchain technology could enhance transparency in procurement and reduce fraud in government transactions.",
+  "aiConArguments": "Opponents may express concerns about the significant upfront costs of technology upgrades and ongoing maintenance expenses without a specific budget ceiling identified in the bill. They might worry that rapid digitization could exclude older residents or those without reliable internet access, question whether blockchain technology is proven and cost-effective for government use, or raise concerns about the security risks of moving sensitive government data to cloud-based systems.",
+  "topic": "Technology & Privacy",
+  "textLength": 5323,
+  "createdAt": "2026-06-23T03:09:50.057Z",
+  "sponsors": [
+    {"peopleId":25859,"name":"Caleb Theodros","party":"D","isPrimary":true},
+    {"peopleId":17936,"name":"Jay Chaudhuri","party":"D","isPrimary":true},
+    {"peopleId":22426,"name":"DeAndrea Salvador","party":"D","isPrimary":true},
+    {"peopleId":25860,"name":"Woodson Bradley","party":"D","isPrimary":false},
+    {"peopleId":22425,"name":"Julie Mayfield","party":"D","isPrimary":false},
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

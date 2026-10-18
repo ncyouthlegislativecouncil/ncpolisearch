@@ -1,0 +1,24 @@
+{
+  "billId": 2146523,
+  "billNumber": "S902",
+  "title": "Ferry Division Performance Audit",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "02705bc1f6c5884d9db230e52ad40f01",
+  "lastAction": "Re-ref to Transportation. If fav, re-ref to Rules and Operations of the Senate",
+  "lastActionDate": "2026-04-30",
+  "url": "https://legiscan.com/NC/bill/S902/2025",
+  "aiSummary": "This bill directs North Carolina's State Auditor to conduct a comprehensive performance audit of the Ferry Division within the Department of Transportation. The audit will examine the division's finances, operations, routes, and revenue options, with a report due to the legislature by October 1, 2026.",
+  "aiProArguments": "Supporters argue that a performance audit can identify inefficiencies and cost-saving opportunities in ferry operations, which serves coastal communities and tourism. The audit may reveal ways to improve financial sustainability, optimize routes and schedules, and explore new revenue sources to reduce the burden on state budgets while maintaining essential ferry services.",
+  "aiConArguments": "Opponents may contend that the audit represents an additional cost to state government during a time of budget constraints. Some may worry that recommendations could lead to service reductions or route eliminations in rural or less-profitable areas that depend on ferry access, particularly affecting lower-income residents or island communities with limited transportation alternatives.",
+  "topic": "Local Government",
+  "textLength": 1661,
+  "createdAt": "2026-06-23T03:11:42.957Z",
+  "sponsors": [
+    {"peopleId":12031,"name":"William Rabon","party":"R","isPrimary":true},
+    {"peopleId":19669,"name":"Vickie Sawyer","party":"R","isPrimary":true},
+    {"peopleId":22424,"name":"Michael Lazzara","party":"R","isPrimary":true},
+    {"peopleId":17437,"name":"Thomas McInnis","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

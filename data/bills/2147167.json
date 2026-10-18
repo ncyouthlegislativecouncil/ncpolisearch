@@ -1,0 +1,22 @@
+{
+  "billId": 2147167,
+  "billNumber": "H1213",
+  "title": "Protect Taxpayers and Local Governments",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "85310a1805f20ef4c5060a43e09ebc6d",
+  "lastAction": "Re-ref to the Com on Energy and Public Utilities, if favorable, Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2026-06-30",
+  "url": "https://legiscan.com/NC/bill/H1213/2025",
+  "aiSummary": "This bill repeals existing sales and use tax exemptions for data centers in North Carolina, meaning data center operations would become subject to state sales and use taxes starting July 1, 2026. The bill removes multiple exemptions previously granted to data center businesses under state tax code.",
+  "aiProArguments": "Supporters argue that data centers should pay the same sales and use taxes as other businesses, eliminating what they view as an unfair tax advantage. Proponents contend this will increase state tax revenue that can fund schools, infrastructure, and other public services, and that removing the exemption levels the playing field for competing businesses that currently pay full taxes.",
+  "aiConArguments": "Opponents argue that data center tax exemptions were designed to attract major technology companies and investment to North Carolina, and removing them could cause companies to relocate to other states with more favorable tax incentives. They contend the loss of data center facilities would eliminate high-paying jobs and economic development opportunities that benefit local communities, potentially outweighing the tax revenue gained.",
+  "topic": "Taxes & Budget",
+  "textLength": 912,
+  "createdAt": "2026-06-23T03:03:33.195Z",
+  "sponsors": [
+    {"peopleId":22965,"name":"Donnie Loftis","party":"R","isPrimary":true},
+    {"peopleId":24219,"name":"Bill Ward","party":"R","isPrimary":true}
+  ],
+  "rollCalls": []
+}

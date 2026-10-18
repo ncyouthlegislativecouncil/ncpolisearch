@@ -1,0 +1,24 @@
+{
+  "billId": 2146577,
+  "billNumber": "S935",
+  "title": "Increase Number of Magistrates/Mecklenburg",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "f3758c7f28c6a09468b9e98adc466425",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2026-04-30",
+  "url": "https://legiscan.com/NC/bill/S935/2025",
+  "aiSummary": "This bill increases the number of magistrates in Mecklenburg County from 38.5 to 43.5 positions and appropriates $236,140 in recurring annual funding to hire five additional magistrates. The bill takes effect July 1, 2026.",
+  "aiProArguments": "Supporters argue that Mecklenburg County, as North Carolina's largest county by population, faces increased caseloads in district court that existing magistrates cannot adequately handle. Additional magistrates would reduce wait times for hearings, improve access to justice for residents, and help the court system process cases more efficiently.",
+  "aiConArguments": "Opponents may argue about the fiscal cost of $236,140 per year in recurring expenses during budget constraints, question whether additional magistrates are the most cost-effective solution to court delays, or suggest that other judicial reforms or resource allocations might better address the underlying issues.",
+  "topic": "Local Government",
+  "textLength": 1110,
+  "createdAt": "2026-06-23T03:11:59.998Z",
+  "sponsors": [
+    {"peopleId":20223,"name":"Mujtaba Mohammed","party":"D","isPrimary":true},
+    {"peopleId":22426,"name":"DeAndrea Salvador","party":"D","isPrimary":false},
+    {"peopleId":25859,"name":"Caleb Theodros","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

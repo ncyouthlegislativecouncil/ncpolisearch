@@ -1,0 +1,23 @@
+{
+  "billId": 2001422,
+  "billNumber": "S269",
+  "title": "Insurance Guaranty Association Act Revisions.-AB",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "9c475381f4da4b12e00e720c818c86ed",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-13",
+  "url": "https://legiscan.com/NC/bill/S269/2025",
+  "aiSummary": "This bill revises North Carolina's Insurance Guaranty Association Act, which protects policyholders when insurance companies become insolvent. The changes add cybersecurity insurance coverage protections, expand the definition of covered claims to include transferred policies, set a $500,000 cap on cybersecurity claims per insured event, and clarify the Association's authority to contest settlements and defend claims.",
+  "aiProArguments": "Supporters argue these changes modernize the guaranty fund to address emerging risks like cyberattacks and data breaches that are increasingly important to businesses. They contend the revisions clarify rules for policies transferred between insurers, ensure the Association can properly defend claims rather than being bound by questionable settlements made before insolvency, and protect the fund from excessive payouts by capping cybersecurity claims and excluding claims from very wealthy companies with net worth exceeding $50 million.",
+  "aiConArguments": "Opponents may argue that a $500,000 cap on cybersecurity claims could leave businesses underprotected against major data breach losses, especially smaller companies. They could also contend that expanded Association authority to contest settlements and reopen default judgments might unfairly disadvantage claimants who settled claims in good faith before insolvency was declared, and that consolidating subsidiary net worth when determining eligibility could exclude legitimate small business claimants.",
+  "topic": "Business & Labor",
+  "textLength": 11750,
+  "createdAt": "2026-06-23T03:06:16.649Z",
+  "sponsors": [
+    {"peopleId":20222,"name":"Todd Johnson","party":"R","isPrimary":true},
+    {"peopleId":18465,"name":"Danny Britt","party":"R","isPrimary":true},
+    {"peopleId":24226,"name":"Eddie Settle","party":"R","isPrimary":true}
+  ],
+  "rollCalls": []
+}

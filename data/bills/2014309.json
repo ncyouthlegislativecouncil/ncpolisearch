@@ -1,0 +1,25 @@
+{
+  "billId": 2014309,
+  "billNumber": "S621",
+  "title": "An Act for Better Education",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "0c80d3087f14ee129657b581465bd247",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-26",
+  "url": "https://legiscan.com/NC/bill/S621/2025",
+  "aiSummary": "This bill restores a sales and use tax holiday for school supplies in North Carolina. The holiday would take effect on July 1, 2025, and would exempt school supplies from state sales tax during a specified period.",
+  "aiProArguments": "Supporters argue that a school supply tax holiday reduces costs for families purchasing classroom materials, making education more affordable for students regardless of income level. They contend this provides meaningful financial relief during back-to-school season and helps parents and students better afford necessary educational resources.",
+  "aiConArguments": "Opponents argue that tax holidays reduce state revenue needed for education funding and other public services, potentially resulting in cuts elsewhere in the budget. They also question whether the tax break is the most efficient way to help families, suggesting targeted assistance to low-income households would be more effective than a blanket sales tax exemption.",
+  "topic": "Education",
+  "textLength": 587,
+  "createdAt": "2026-06-23T03:09:23.747Z",
+  "sponsors": [
+    {"peopleId":17457,"name":"Paul Lowe","party":"D","isPrimary":true},
+    {"peopleId":21633,"name":"Natalie Murdock","party":"D","isPrimary":false},
+    {"peopleId":12032,"name":"Gladys Robinson","party":"D","isPrimary":false},
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

@@ -1,0 +1,33 @@
+{
+  "billId": 2015727,
+  "billNumber": "H566",
+  "title": "Principal Fellows Changes",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "b3af9ddb5060552d0347afa9343b1a3c",
+  "lastAction": "Ref to the Com on Education - K-12, if favorable, State and Local Government, if favorable, Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-03-31",
+  "url": "https://legiscan.com/NC/bill/H566/2025",
+  "aiSummary": "This bill makes changes to North Carolina's Principal Fellows Program, which helps prepare school leaders. It adds a new grant program for universities and colleges to develop innovative principal training methods, allows the program to fund statewide professional development activities for school leadership, and establishes reporting requirements to track how well graduates perform as school principals.",
+  "aiProArguments": "Supporters argue this bill strengthens principal preparation by funding creative training approaches beyond traditional scholarships, helping ensure North Carolina has high-quality school leaders. The bill also enables statewide sharing of best practices in school leadership, which can improve principal effectiveness across the state and benefit student outcomes. Additionally, the reporting requirements create accountability by measuring whether program graduates actually become effective principals in North Carolina schools.",
+  "aiConArguments": "Opponents may be concerned about whether the new $250,000 grants for developing training programs represent the best use of education funds compared to direct principal support. Some may question whether the bill's administrative flexibility—allowing up to $800,000 annually for program operations and statewide programming—could lead to increased overhead costs rather than direct benefits to principal candidates. Others might worry that new data collection and reporting requirements could create burdens on grant recipients.",
+  "topic": "Education",
+  "textLength": 9346,
+  "createdAt": "2026-06-23T02:54:43.504Z",
+  "sponsors": [
+    {"peopleId":2049,"name":"Patricia Cotham","party":"R","isPrimary":true},
+    {"peopleId":2031,"name":"Hugh Blackwell","party":"R","isPrimary":true},
+    {"peopleId":24197,"name":"Brian Biggs","party":"R","isPrimary":true},
+    {"peopleId":22609,"name":"David Willis","party":"R","isPrimary":true},
+    {"peopleId":25845,"name":"Grant Campbell","party":"R","isPrimary":false},
+    {"peopleId":14612,"name":"Carla Cunningham","party":"D","isPrimary":false},
+    {"peopleId":2077,"name":"Mary Harrison","party":"D","isPrimary":false},
+    {"peopleId":24206,"name":"Frances Jackson","party":"D","isPrimary":false},
+    {"peopleId":21375,"name":"Jeffrey McNeely","party":"R","isPrimary":false},
+    {"peopleId":24215,"name":"Timothy Reeder","party":"R","isPrimary":false},
+    {"peopleId":25214,"name":"Heather Rhyne","party":"R","isPrimary":false},
+    {"peopleId":24219,"name":"Bill Ward","party":"R","isPrimary":false},
+    {"peopleId":17158,"name":"Shelly Willingham","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

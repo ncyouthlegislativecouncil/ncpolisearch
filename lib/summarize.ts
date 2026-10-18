@@ -35,7 +35,7 @@ Bill title: ${title}
 Bill text: ${billText}`;
 }
 
-type Analysis = {
+export type Analysis = {
   summary: string;
   pro_arguments: string;
   con_arguments: string;
@@ -65,18 +65,10 @@ function parseAnalysis(text: string): Analysis | null {
   }
 }
 
-type DB = ReturnType<typeof drizzle>;
-
-// Get usable source text: the cached bill_text if it's real, otherwise fetch the
-// most recent LegiScan document, decode it, and (for long bills) section-sample
-// it. Caches the result into bills.bill_text so a later run never re-parses it.
-async function resolveBillText(
-  db: DB,
-  billId: number,
-  existing: string | null
-): Promise<string | null> {
-  if (existing && existing.trim().length >= MIN_REAL_TEXT) return existing;
-
+// Fetch the most recent LegiScan document for a bill, decode it, and (for long
+// bills) section-sample it so late provisions survive. Returns null when the
+// bill has no usable document yet.
+export async function fetchBillTextFromLegiScan(billId: number): Promise<string | null> {
   let detail;
   try {
     detail = await getBill(billId);
@@ -100,10 +92,47 @@ async function resolveBillText(
   if (!fullText || fullText.trim().length < 40) return null;
 
   const { text: condensed, sampled } = condenseBillText(fullText);
-  const composed =
+  return (
     (sampled
       ? "[Note: this is a long bill; the text below is sampled across all of its sections.]\n\n"
-      : "") + condensed;
+      : "") + condensed
+  );
+}
+
+// Ask Claude for the summary, pro/con arguments, and topic. Returns null if the
+// response can't be parsed; throws on API errors.
+export async function analyzeBill(
+  anthropic: Anthropic,
+  title: string,
+  text: string
+): Promise<Analysis | null> {
+  const message = await anthropic.messages.create({
+    model: MODEL,
+    max_tokens: 1500,
+    system: SYSTEM_PROMPT,
+    messages: [{ role: "user", content: userPrompt(title, text) }],
+  });
+  const out = message.content
+    .filter((block) => block.type === "text")
+    .map((block) => (block as { text: string }).text)
+    .join("");
+  return parseAnalysis(out);
+}
+
+type DB = ReturnType<typeof drizzle>;
+
+// Get usable source text: the cached bill_text if it's real, otherwise fetch it
+// from LegiScan and cache it into bills.bill_text so a later run never
+// re-parses it.
+async function resolveBillText(
+  db: DB,
+  billId: number,
+  existing: string | null
+): Promise<string | null> {
+  if (existing && existing.trim().length >= MIN_REAL_TEXT) return existing;
+
+  const composed = await fetchBillTextFromLegiScan(billId);
+  if (!composed) return null;
 
   try {
     await db.update(bills).set({ billText: composed }).where(eq(bills.billId, billId));
@@ -152,21 +181,7 @@ export async function summarizePending(limit = 10): Promise<SummarizeResult> {
     }
 
     try {
-      const message = await anthropic.messages.create({
-        model: MODEL,
-        max_tokens: 1500,
-        system: SYSTEM_PROMPT,
-        messages: [
-          { role: "user", content: userPrompt(bill.title ?? "Untitled", text) },
-        ],
-      });
-
-      const out = message.content
-        .filter((block) => block.type === "text")
-        .map((block) => (block as { text: string }).text)
-        .join("");
-
-      const analysis = parseAnalysis(out);
+      const analysis = await analyzeBill(anthropic, bill.title ?? "Untitled", text);
       if (!analysis) {
         failed++;
       } else {

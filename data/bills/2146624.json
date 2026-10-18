@@ -1,0 +1,21 @@
+{
+  "billId": 2146624,
+  "billNumber": "S941",
+  "title": "Exempt Treasurer from DHHS Review",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "2421b54f289ad7539285f39c42336397",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2026-04-30",
+  "url": "https://legiscan.com/NC/bill/S941/2025",
+  "aiSummary": "This bill exempts the Department of State Treasurer from having to undergo review by the Department of Health and Human Services when establishing, developing, or acquiring new institutional health services in partnership with DHHS. The bill also appropriates $50,000 to the State Treasurer's office to implement these changes, effective July 1, 2026.",
+  "aiProArguments": "Supporters argue this bill reduces regulatory burden and streamlines government processes by eliminating redundant reviews between state agencies. They contend that exempting the State Treasurer from DHHS review allows for faster implementation of health service initiatives and gives the Treasurer's office more flexibility to develop partnerships and programs without bureaucratic delays.",
+  "aiConArguments": "Opponents may argue that removing DHHS review oversight could reduce accountability and quality control for new health services. They might contend that DHHS review exists to protect public health and safety, and exempting partnerships with the State Treasurer removes important safeguards and transparency measures that ensure institutional health services meet appropriate standards.",
+  "topic": "Taxes & Budget",
+  "textLength": 1050,
+  "createdAt": "2026-06-23T03:12:02.555Z",
+  "sponsors": [
+    {"peopleId":20216,"name":"Jim Burgin","party":"R","isPrimary":true}
+  ],
+  "rollCalls": []
+}

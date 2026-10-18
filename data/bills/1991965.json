@@ -1,0 +1,27 @@
+{
+  "billId": 1991965,
+  "billNumber": "S231",
+  "title": "State Surplus Property/Third-Party Auctions",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "5c1598793b56cf949377fa19964eaedd",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-06",
+  "url": "https://legiscan.com/NC/bill/S231/2025",
+  "aiSummary": "This bill allows North Carolina state agencies to sell surplus state property through third-party auction services instead of only through the state's own system. Agencies must request approval from the State Surplus Property Agency, which can only deny the request if the auction service has licensing problems, is debarred from state contracts, or charges fees exceeding 8% of the sale price. The bill establishes procedures for listing items, setting minimum bids, and requires agencies to report annually on their use of third-party auctions.",
+  "aiProArguments": "Supporters argue this bill increases flexibility and efficiency in selling state surplus property by allowing agencies to use competitive auction platforms that may reach more buyers and generate higher sale prices. They contend that third-party auction services can reduce the burden on the State Surplus Property Agency and provide agencies with more options to quickly dispose of unwanted equipment and inventory, potentially increasing revenue for the state.",
+  "aiConArguments": "Opponents may worry that using third-party auction services reduces state control over the disposal process and could lead to less oversight of how state property is sold. They might also be concerned that the 8% fee cap on auction services could incentivize lower quality service or that decentralizing sales through multiple vendors makes tracking and accountability more difficult, despite the reporting requirements included in the bill.",
+  "topic": "Taxes & Budget",
+  "textLength": 14729,
+  "createdAt": "2026-06-23T03:05:59.477Z",
+  "sponsors": [
+    {"peopleId":17437,"name":"Thomas McInnis","party":"R","isPrimary":true},
+    {"peopleId":19669,"name":"Vickie Sawyer","party":"R","isPrimary":true},
+    {"peopleId":24226,"name":"Eddie Settle","party":"R","isPrimary":true},
+    {"peopleId":20216,"name":"Jim Burgin","party":"R","isPrimary":false},
+    {"peopleId":20513,"name":"Bobby Hanig","party":"R","isPrimary":false},
+    {"peopleId":17457,"name":"Paul Lowe","party":"D","isPrimary":false},
+    {"peopleId":11858,"name":"Timothy Moffitt","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

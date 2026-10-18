@@ -1,0 +1,21 @@
+{
+  "billId": 1966601,
+  "billNumber": "S85",
+  "title": "Regulate Body Piercing in North Carolina",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "f8d3a4993b4aa58216cd529d356260a9",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-02-13",
+  "url": "https://legiscan.com/NC/bill/S85/2025",
+  "aiSummary": "This bill requires body piercers in North Carolina to obtain a permit from the Department of Health and Human Services before practicing. The bill authorizes the state health commission to establish sanitation and safety requirements for body piercing establishments, premises, equipment, and procedures. Licensed physicians and their supervised assistants are exempt from the permit requirement.",
+  "aiProArguments": "Supporters argue that permitting body piercers protects public health by ensuring sanitary conditions and safe practices, reducing risks of infection and disease transmission. They contend that establishing baseline safety standards through inspections benefits customers and creates a level playing field for legitimate businesses competing against unlicensed operators who may not follow safety protocols.",
+  "aiConArguments": "Opponents may argue that the permitting requirement creates unnecessary regulatory burden and costs for small body piercing businesses and independent practitioners. They may also contend that existing health codes already address sanitation concerns, making additional regulation redundant, and that compliance costs could be passed to consumers or discourage legal practitioners from operating in the state.",
+  "topic": "Healthcare",
+  "textLength": 3986,
+  "createdAt": "2026-06-23T03:04:46.337Z",
+  "sponsors": [
+    {"peopleId":20513,"name":"Bobby Hanig","party":"R","isPrimary":true}
+  ],
+  "rollCalls": []
+}

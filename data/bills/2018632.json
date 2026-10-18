@@ -1,0 +1,30 @@
+{
+  "billId": 2018632,
+  "billNumber": "H723",
+  "title": "Technology Coalitions Strategic Support Fund",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "c749b9e687efc6d67b94ac058dae0d99",
+  "lastAction": "Ref to the Com on Appropriations, if favorable, Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-04-03",
+  "url": "https://legiscan.com/NC/bill/H723/2025",
+  "aiSummary": "This bill establishes the North Carolina Technology Coalitions Strategic Support Fund, a $10.5 million fund administered by the Department of Commerce to provide grants to regional technology coalitions in areas like artificial intelligence, semiconductors, advanced manufacturing, and cybersecurity. The grants support coalition infrastructure, workforce training, and cost-matching for federal and private funding to promote technology-based economic growth across North Carolina regions.",
+  "aiProArguments": "Supporters argue this fund helps North Carolina compete for high-tech industries and jobs by strengthening regional collaboration between businesses, universities, and government. The cost-matching provision leverages state dollars to attract larger federal and private investments, multiplying the economic impact. Supporters contend targeted support for critical sectors like semiconductors and AI positions North Carolina to capture emerging economic opportunities.",
+  "aiConArguments": "Opponents may question whether state funding for these coalitions represents the best use of limited public resources, especially if grants go to organizations that could self-fund. Some may be concerned about potential political favoritism in grant awards or whether the administrative oversight is sufficient to ensure accountability. Critics might also argue that $10.5 million spread across multiple technology sectors and regions may be too dispersed to create meaningful impact.",
+  "topic": "Business & Labor",
+  "textLength": 7248,
+  "createdAt": "2026-06-23T02:56:53.564Z",
+  "sponsors": [
+    {"peopleId":20521,"name":"Carolyn Logan","party":"D","isPrimary":true},
+    {"peopleId":14634,"name":"Stephen Ross","party":"R","isPrimary":true},
+    {"peopleId":18451,"name":"Mary Belk","party":"D","isPrimary":true},
+    {"peopleId":16252,"name":"Robert Reives","party":"D","isPrimary":true},
+    {"peopleId":24202,"name":"Maria Cervania","party":"D","isPrimary":false},
+    {"peopleId":2077,"name":"Mary Harrison","party":"D","isPrimary":false},
+    {"peopleId":20515,"name":"Zack Forde-Hawkins","party":"D","isPrimary":false},
+    {"peopleId":24206,"name":"Frances Jackson","party":"D","isPrimary":false},
+    {"peopleId":20522,"name":"Nasif Majeed","party":"D","isPrimary":false},
+    {"peopleId":2115,"name":"Garland Pierce","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

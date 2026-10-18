@@ -1,0 +1,21 @@
+{
+  "billId": 2024142,
+  "billNumber": "H1010",
+  "title": "Home Ownership Market Manipulation",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "0447a1fc0749c5f444fb64858d81dfa6",
+  "lastAction": "Ref To Com On Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-04-16",
+  "url": "https://legiscan.com/NC/bill/H1010/2025",
+  "aiSummary": "This bill prohibits business entities and corporations from purchasing single-family homes for rental purposes in North Carolina counties with populations over 150,000 once they already own 100 or more rental homes in such counties. The bill allows the Attorney General, county commissioners, and affected residents to sue violators for civil penalties up to $100 per day per home, plus damages and attorney fees.",
+  "aiProArguments": "Supporters argue this bill addresses housing affordability by limiting corporate investment firms from buying large numbers of single-family homes, which they say reduces the supply available for owner-occupants and drives up prices. They contend that home ownership builds individual wealth through equity and is beneficial for communities, and that restricting institutional rental purchases protects this opportunity for regular North Carolinians.",
+  "aiConArguments": "Opponents may argue the bill could reduce rental housing supply in tight markets, potentially raising rents for those who cannot afford to buy. They may also contend the restrictions could discourage investment in residential properties, affect property values, create litigation risks that deter business investment, and raise questions about whether limiting property ownership rights is constitutional or the most effective way to address housing affordability.",
+  "topic": "Housing",
+  "textLength": 6721,
+  "createdAt": "2026-06-23T03:00:19.705Z",
+  "sponsors": [
+    {"peopleId":25851,"name":"Aisha Dew","party":"D","isPrimary":true}
+  ],
+  "rollCalls": []
+}

@@ -1,0 +1,26 @@
+{
+  "billId": 2146594,
+  "billNumber": "S943",
+  "title": "Kids Over Corporations Act",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "37b356bc939aa5490c0e74d64ee22d2c",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2026-04-30",
+  "url": "https://legiscan.com/NC/bill/S943/2025",
+  "aiSummary": "This bill repeals North Carolina's scheduled phase-out of the corporate income tax and sets a permanent corporate income tax rate of 5% instead of allowing it to reach 0%. Currently, the state reduces the corporate tax rate each year, scheduled to eliminate it entirely after 2029. This bill stops that reduction and locks in a 5% rate.",
+  "aiProArguments": "Supporters argue this bill protects funding for public education, workforce development, and infrastructure that corporations rely on. They contend that eliminating the corporate income tax would shift the tax burden onto individuals and families, reducing the state's ability to invest in services that benefit the economy. Proponents note that North Carolina's corporate tax rate would still be competitive compared to neighboring states.",
+  "aiConArguments": "Opponents argue that maintaining a 5% corporate income tax makes North Carolina less competitive for business recruitment and retention compared to states with lower or no corporate taxes. They contend that corporations may relocate or avoid investing in the state due to higher taxes, potentially reducing job growth and economic development. Critics also argue that the tax burden on corporations should be reduced to stimulate business growth and that individuals should not bear disproportionate responsibility for public funding.",
+  "topic": "Taxes & Budget",
+  "textLength": 1848,
+  "createdAt": "2026-06-23T03:12:03.941Z",
+  "sponsors": [
+    {"peopleId":25858,"name":"Sophia Chitlik","party":"D","isPrimary":true},
+    {"peopleId":21633,"name":"Natalie Murdock","party":"D","isPrimary":true},
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":true},
+    {"peopleId":22426,"name":"DeAndrea Salvador","party":"D","isPrimary":false},
+    {"peopleId":25859,"name":"Caleb Theodros","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

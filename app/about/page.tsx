@@ -1,6 +1,5 @@
 import type { Metadata } from "next";
 import { getHomeStats } from "../../lib/bills";
-import { safeQuery } from "../../lib/safe";
 
 export const metadata: Metadata = {
   title: "About — NCPoliSearch",
@@ -141,14 +140,7 @@ function StatCard({ value, label }: { value: string; label: string }) {
 }
 
 export default async function AboutPage() {
-  // Only feeds two small mission-stat numbers at the bottom of the page — a
-  // temporarily-unreachable DB shouldn't fail this whole (mostly static)
-  // page or the build; it'll just show 0 until the next successful refresh.
-  const stats = await safeQuery(
-    () => getHomeStats(),
-    { totalBills: 0, introduced: 0, enacted: 0, legislators: 0 },
-    "about:getHomeStats"
-  );
+  const stats = await getHomeStats();
 
   return (
     <main>

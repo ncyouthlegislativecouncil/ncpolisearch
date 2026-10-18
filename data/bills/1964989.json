@@ -1,0 +1,21 @@
+{
+  "billId": 1964989,
+  "billNumber": "S72",
+  "title": "43rd Senatorial District Local Act-1",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "cc6484072f15ec93442568b1389b6dca",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-02-12",
+  "url": "https://legiscan.com/NC/bill/S72/2025",
+  "aiSummary": "This is a local bill that applies only to North Carolina's 43rd Senatorial District. The bill text provided does not specify what changes or provisions it contains, only that it relates to this district and takes effect upon passage.",
+  "aiProArguments": "Supporters of local bills argue they allow the General Assembly to address specific, localized needs and circumstances in particular districts that may not require statewide legislation. Local acts can be tailored solutions for regional issues that affect constituents in that specific area.",
+  "aiConArguments": "Opponents of local bills raise concerns about transparency and equal treatment, arguing that the legislative process should apply uniform rules across all districts. Without the specific provisions shown in this bill, critics cannot evaluate whether the legislation serves a legitimate local purpose or creates unequal treatment among districts.",
+  "topic": "Local Government",
+  "textLength": 509,
+  "createdAt": "2026-06-23T03:04:40.220Z",
+  "sponsors": [
+    {"peopleId":24223,"name":"Brad Overcash","party":"R","isPrimary":true}
+  ],
+  "rollCalls": []
+}

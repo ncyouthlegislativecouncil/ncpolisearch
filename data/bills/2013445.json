@@ -1,0 +1,27 @@
+{
+  "billId": 2013445,
+  "billNumber": "S463",
+  "title": "Medicaid Coverage for Doula Services",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "2a2fd7b050e03c32a822def1c6a607ed",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-25",
+  "url": "https://legiscan.com/NC/bill/S463/2025",
+  "aiSummary": "This bill requires North Carolina's Medicaid program to cover doula services during pregnancy and the postpartum period, with doulas meeting specified credentialing requirements in areas like childbirth education, comfort measures, and lactation support. The bill appropriates $1 million in state funds annually for the 2025-2027 biennium to implement Medicaid coverage and an additional $550,000 annually to support the doula workforce.",
+  "aiProArguments": "Supporters argue that doula services improve pregnancy and birth outcomes, particularly for low-income women who rely on Medicaid. They contend that doulas provide evidence-based emotional and physical support that can reduce labor complications, increase breastfeeding rates, and improve maternal mental health, while also addressing disparities in maternal healthcare. Proponents note that the bill leverages federal matching funds, meaning the state's $1 million investment draws down approximately $1.8 million in federal dollars.",
+  "aiConArguments": "Opponents may argue about the cost to state taxpayers during times of budget constraints, even with federal matching funds. Some may question whether Medicaid resources should prioritize doula services over other healthcare gaps, whether adequate quality standards can be ensured through the proposed credentialing process, or whether there is sufficient evidence that doula coverage produces health outcomes that justify the expenditure. Concerns may also exist about the feasibility of implementing the program and whether there is sufficient doula workforce capacity to meet demand.",
+  "topic": "Healthcare",
+  "textLength": 3321,
+  "createdAt": "2026-06-23T03:08:03.861Z",
+  "sponsors": [
+    {"peopleId":20216,"name":"Jim Burgin","party":"R","isPrimary":true},
+    {"peopleId":25858,"name":"Sophia Chitlik","party":"D","isPrimary":false},
+    {"peopleId":22425,"name":"Julie Mayfield","party":"D","isPrimary":false},
+    {"peopleId":21633,"name":"Natalie Murdock","party":"D","isPrimary":false},
+    {"peopleId":12032,"name":"Gladys Robinson","party":"D","isPrimary":false},
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

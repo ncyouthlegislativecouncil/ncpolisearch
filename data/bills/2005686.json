@@ -1,0 +1,28 @@
+{
+  "billId": 2005686,
+  "billNumber": "H400",
+  "title": "Bentley's Law",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "515a9fbad0e06acb6f96f8d07c42e700",
+  "lastAction": "Re-ref to the Com on Judiciary 2, if favorable, Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-03-19",
+  "url": "https://legiscan.com/NC/bill/H400/2025",
+  "aiSummary": "Bentley's Law requires courts to order defendants convicted of felony death by vehicle offenses to pay child support restitution to the minor children of the victim until age 18 and high school graduation. The court determines the restitution amount based on factors like the child's financial needs, the surviving parent's resources, and the child's standard of living.",
+  "aiProArguments": "Supporters argue this bill addresses a serious gap where children lose a parent due to a fatal vehicle crime but may receive no financial support from the responsible defendant. The restitution ensures children of deceased victims have their basic needs met and maintains their standard of living, while holding the defendant financially accountable for the harm caused.",
+  "aiConArguments": "Opponents may contend that extracting child support from incarcerated defendants could be impractical since many lack income, and the bill's one-year grace period after release may leave families waiting long for payments. Some may also argue this creates a separate restitution mechanism distinct from civil lawsuits, potentially complicating legal proceedings or duplicating damages through both criminal restitution and civil judgments.",
+  "topic": "Criminal Justice & Public Safety",
+  "textLength": 4434,
+  "createdAt": "2026-06-23T02:50:19.263Z",
+  "sponsors": [
+    {"peopleId":18453,"name":"Mike Clampitt","party":"R","isPrimary":true},
+    {"peopleId":25845,"name":"Grant Campbell","party":"R","isPrimary":true},
+    {"peopleId":25857,"name":"Richard Carver","party":"R","isPrimary":false},
+    {"peopleId":22613,"name":"Ben Moss","party":"R","isPrimary":false},
+    {"peopleId":14633,"name":"Dennis Riddell","party":"R","isPrimary":false},
+    {"peopleId":25856,"name":"Paul Scott","party":"R","isPrimary":false},
+    {"peopleId":24219,"name":"Bill Ward","party":"R","isPrimary":false},
+    {"peopleId":11850,"name":"Harry Warren","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

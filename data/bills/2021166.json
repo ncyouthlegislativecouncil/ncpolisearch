@@ -1,0 +1,22 @@
+{
+  "billId": 2021166,
+  "billNumber": "H817",
+  "title": "Triad Regional Grants",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "24b7caa738f844f582e20f725ade5bb5",
+  "lastAction": "Ref to the Com on Appropriations, if favorable, Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-04-08",
+  "url": "https://legiscan.com/NC/bill/H817/2025",
+  "aiSummary": "This bill appropriates $14.525 million in state funds for the 2025-2026 fiscal year to provide grants to nine different organizations and entities in the Triad region (Greensboro, Winston-Salem, and High Point areas). The grants support various projects including medical clinics, sports facilities, fire department equipment, historic site restoration, park construction, and community violence prevention programs.",
+  "aiProArguments": "Supporters argue this bill invests in important community needs and economic development in the Triad region. The grants support diverse priorities including public health services, emergency response capabilities, historic preservation, public recreation, and violence reduction efforts. Proponents contend these investments strengthen local infrastructure and quality of life while stimulating regional economic growth through facility improvements and events.",
+  "aiConArguments": "Opponents may question whether directing $14.525 million in nonrecurring state funds to specific regional projects is the best use of limited public resources, particularly given competing statewide needs. Some may argue the bill favors one region over others and that several recipients (like the speedway and park project) may benefit private entities or have unclear public benefit. Critics might also note that \"nonrecurring\" funds are temporary and cannot sustain ongoing programs these grants may create.",
+  "topic": "Taxes & Budget",
+  "textLength": 2685,
+  "createdAt": "2026-06-23T02:58:06.489Z",
+  "sponsors": [
+    {"peopleId":14624,"name":"Donny Lambeth","party":"R","isPrimary":true},
+    {"peopleId":22611,"name":"Jeff Zenger","party":"R","isPrimary":true}
+  ],
+  "rollCalls": []
+}

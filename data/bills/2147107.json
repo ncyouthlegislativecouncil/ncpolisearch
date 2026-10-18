@@ -1,0 +1,27 @@
+{
+  "billId": 2147107,
+  "billNumber": "H1180",
+  "title": "Data Center Amendments",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "c4a51d67ed6a5eeb7024518184cd0487",
+  "lastAction": "Ref To Com On Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2026-05-04",
+  "url": "https://legiscan.com/NC/bill/H1180/2025",
+  "aiSummary": "This bill establishes new rules for how electric utilities provide service to large data centers (facilities using over 20 megawatts of power). It requires utilities to file special rate plans with the NC Utilities Commission that ensure data centers pay the full cost of infrastructure needed to serve them and that other customers are not burdened with those costs. The bill also repeals certain tax provisions related to data centers.",
+  "aiProArguments": "Supporters argue this bill protects regular electricity customers from subsidizing large data centers by requiring these facilities to pay for all infrastructure costs and commit to long-term service contracts (10+ years). Proponents contend this attracts data center investments to North Carolina while ensuring fairness—data centers benefit from state resources but shouldn't shift costs to households and small businesses.",
+  "aiConArguments": "Opponents may argue these requirements could discourage data center companies from locating in North Carolina by increasing their costs and adding regulatory complexity, potentially causing the state to lose economic development opportunities and jobs to competing states with more favorable terms. Critics might also contend that the strict 10-year minimum contracts and 85% billing minimums could be burdensome for companies facing unpredictable technology changes or market conditions.",
+  "topic": "Taxes & Budget",
+  "textLength": 6085,
+  "createdAt": "2026-06-23T03:03:02.838Z",
+  "sponsors": [
+    {"peopleId":20521,"name":"Carolyn Logan","party":"D","isPrimary":true},
+    {"peopleId":24200,"name":"Laura Budd","party":"D","isPrimary":true},
+    {"peopleId":24202,"name":"Maria Cervania","party":"D","isPrimary":true},
+    {"peopleId":2077,"name":"Mary Harrison","party":"D","isPrimary":false},
+    {"peopleId":25850,"name":"Jordan Lopez","party":"D","isPrimary":false},
+    {"peopleId":19360,"name":"Marcia Morey","party":"D","isPrimary":false},
+    {"peopleId":25853,"name":"Rodney Pierce","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

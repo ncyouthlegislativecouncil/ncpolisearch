@@ -1,0 +1,23 @@
+{
+  "billId": 2019305,
+  "billNumber": "H758",
+  "title": "Funds for Mind and Heart Haven Project",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "7283860c84389d2db189a3274cac6adb",
+  "lastAction": "Ref to the Com on Appropriations, if favorable, Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-04-07",
+  "url": "https://legiscan.com/NC/bill/H758/2025",
+  "aiSummary": "This bill appropriates $100,000 in state funds for fiscal year 2025-2026 to the Agency for Families in Distress, Inc., a nonprofit organization, to support the Mind and Heart Haven Project, which addresses mental health needs in Winston-Salem, Forsyth County, and North Carolina. The funds are nonrecurring, meaning they are a one-time allocation rather than an ongoing annual commitment.",
+  "aiProArguments": "Supporters argue this bill addresses a documented mental health crisis by directing resources to a nonprofit already working in this area. The grant provides immediate funding to expand mental health services and support for families in distress in Winston-Salem and the surrounding region, helping vulnerable populations access needed care and treatment.",
+  "aiConArguments": "Opponents may argue that $100,000 is a small amount relative to the scope of the mental health crisis and may question whether one-time, nonrecurring funds are sufficient to create lasting impact. Some may also raise concerns about whether this funding mechanism—a directed grant to a specific nonprofit—represents the most efficient or accountable use of state resources compared to broader mental health system improvements.",
+  "topic": "Social Services & Welfare",
+  "textLength": 1054,
+  "createdAt": "2026-06-23T02:57:19.579Z",
+  "sponsors": [
+    {"peopleId":24199,"name":"Kanika Brown","party":"D","isPrimary":true},
+    {"peopleId":22599,"name":"Amber Baker","party":"D","isPrimary":false},
+    {"peopleId":2077,"name":"Mary Harrison","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

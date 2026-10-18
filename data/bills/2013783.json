@@ -1,0 +1,24 @@
+{
+  "billId": 2013783,
+  "billNumber": "S538",
+  "title": "Family Empowerment Act",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "e237426a0f281d03a836bb3c1d028c6a",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2025-03-26",
+  "url": "https://legiscan.com/NC/bill/S538/2025",
+  "aiSummary": "The Family Empowerment Act expands child care assistance to families earning up to 300% of the federal poverty level, caps child care costs at 7% of household income, and establishes tax incentives for businesses offering paid family leave. The bill also funds home-visiting programs, financial counseling services, flexible workplace policies, and creates an oversight board to monitor program effectiveness, with $75 million in state appropriations for fiscal years 2025-2027.",
+  "aiProArguments": "Supporters argue this bill reduces financial barriers that prevent parents—especially single parents and those working nontraditional hours—from affording quality child care and enables more North Carolinians to remain in the workforce. They contend that tax incentives for paid family leave help small businesses compete for talent while allowing employees to bond with newborns and care for family members, improving family stability and child development outcomes. Additionally, supporters view the financial counseling and home-visiting programs as investments that promote long-term economic security and reduce reliance on emergency services.",
+  "aiConArguments": "Opponents may argue that the $75 million annual appropriation represents significant state spending during budget constraints and question whether tax credits effectively incentivize businesses that would have offered leave regardless. Some express concern that expanding eligibility criteria could strain program resources, create administrative complexity, or benefit families above traditional low-income thresholds. Critics may also question whether state-level initiatives duplicate federal programs or whether private-sector flexibility requirements impose compliance burdens on employers without measurable impact on work-family balance.",
+  "topic": "Social Services & Welfare",
+  "textLength": 9530,
+  "createdAt": "2026-06-23T03:08:41.849Z",
+  "sponsors": [
+    {"peopleId":25859,"name":"Caleb Theodros","party":"D","isPrimary":true},
+    {"peopleId":21633,"name":"Natalie Murdock","party":"D","isPrimary":true},
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

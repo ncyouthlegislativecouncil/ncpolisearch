@@ -1,0 +1,24 @@
+{
+  "billId": 2146064,
+  "billNumber": "S862",
+  "title": "STIP Grant Anticipation Notes",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "296505619446e73cb2cdc6d13c50757a",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2026-04-29",
+  "url": "https://legiscan.com/NC/bill/S862/2025",
+  "aiSummary": "This bill allows local governments in North Carolina to borrow money through grant anticipation notes to speed up transportation projects that are scheduled to receive state funding through the State Transportation Improvement Program (STIP). The borrowed money would be repaid once the state grants are received, and the bill sets specific rules and oversight requirements for these borrowing arrangements.",
+  "aiProArguments": "Supporters argue this bill allows communities to accelerate important transportation projects without waiting for state funding to arrive, reducing project timelines and getting infrastructure improvements to residents faster. Proponents contend this mechanism provides flexibility for local governments to manage cash flow and leverage anticipated state funds efficiently, while the bill's safeguards—including Local Government Commission approval and detailed project agreements—protect against financial risk.",
+  "aiConArguments": "Opponents may be concerned that allowing local governments to borrow against future state funding increases debt obligations and financial risk if state funding is delayed or reduced unexpectedly. Critics might also worry that this creates complexity in the state budget process and could incentivize overly ambitious projects that depend on timely state reimbursement, potentially leaving local governments vulnerable if circumstances change.",
+  "topic": "Transportation & Infrastructure",
+  "textLength": 7712,
+  "createdAt": "2026-06-23T03:11:23.190Z",
+  "sponsors": [
+    {"peopleId":19669,"name":"Vickie Sawyer","party":"R","isPrimary":true},
+    {"peopleId":22424,"name":"Michael Lazzara","party":"R","isPrimary":true},
+    {"peopleId":20216,"name":"Jim Burgin","party":"R","isPrimary":false},
+    {"peopleId":25250,"name":"Dana Jones","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

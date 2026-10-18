@@ -1,0 +1,28 @@
+{
+  "billId": 1991696,
+  "billNumber": "S233",
+  "title": "Make Corporations Pay What They Owe",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "64cc6a6814b6079d65baad6752b77e0b",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-06",
+  "url": "https://legiscan.com/NC/bill/S233/2025",
+  "aiSummary": "This bill would repeal a 2021 law that was phasing out North Carolina's corporate income tax. If passed, it would stop the phaseout process and maintain the corporate income tax at its current or higher rates going forward.",
+  "aiProArguments": "Supporters argue that repealing the phaseout would preserve state revenue needed for schools, roads, healthcare, and other public services. They contend that corporations should contribute their fair share to fund the state programs that benefit all North Carolinians, and that eliminating the tax would disproportionately harm working families who rely on public services.",
+  "aiConArguments": "Opponents argue that the corporate tax phaseout was designed to make North Carolina more competitive for business investment and job creation. They contend that maintaining or increasing corporate taxes could discourage companies from locating or expanding in the state, potentially reducing overall economic growth and tax revenue in the long term.",
+  "topic": "Taxes & Budget",
+  "textLength": 526,
+  "createdAt": "2026-06-23T03:06:00.520Z",
+  "sponsors": [
+    {"peopleId":24222,"name":"Lisa Grafstein","party":"D","isPrimary":true},
+    {"peopleId":24220,"name":"Val Applewhite","party":"D","isPrimary":true},
+    {"peopleId":21633,"name":"Natalie Murdock","party":"D","isPrimary":true},
+    {"peopleId":25858,"name":"Sophia Chitlik","party":"D","isPrimary":false},
+    {"peopleId":22425,"name":"Julie Mayfield","party":"D","isPrimary":false},
+    {"peopleId":16251,"name":"Graig Meyer","party":"D","isPrimary":false},
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":false},
+    {"peopleId":25859,"name":"Caleb Theodros","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

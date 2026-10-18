@@ -1,0 +1,28 @@
+{
+  "billId": 2022861,
+  "billNumber": "H996",
+  "title": "Further Limit General Fund Operating Budget",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "4216945a58b30e70a461c09c3b663173",
+  "lastAction": "Ref to the Com on Appropriations, if favorable, Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-04-14",
+  "url": "https://legiscan.com/NC/bill/H996/2025",
+  "aiSummary": "This bill lowers North Carolina's statutory cap on state General Fund operating budget spending from 7% to 6% of total state personal income. The change takes effect July 1, 2025, and applies to all future state budgets unless lawmakers vote by a two-thirds majority to exceed the new limit.",
+  "aiProArguments": "Supporters argue this bill constrains government spending growth and prevents the state budget from expanding faster than the state economy grows. They contend that a lower cap promotes fiscal responsibility, reduces the risk of unsustainable spending, and ensures taxpayer money is used efficiently without allowing automatic budget increases.",
+  "aiConArguments": "Opponents argue that lowering the budget cap could restrict funding for essential services like education, healthcare, and infrastructure during times of economic growth. They contend that a stricter cap makes it harder to meet increasing population needs and may force difficult choices between important programs, while the two-thirds override requirement makes it cumbersome to address legitimate spending needs.",
+  "topic": "Taxes & Budget",
+  "textLength": 1550,
+  "createdAt": "2026-06-23T03:00:12.184Z",
+  "sponsors": [
+    {"peopleId":14633,"name":"Dennis Riddell","party":"R","isPrimary":true},
+    {"peopleId":25855,"name":"Mike Schietzelt","party":"R","isPrimary":true},
+    {"peopleId":22616,"name":"Ray Pickett","party":"R","isPrimary":true},
+    {"peopleId":14606,"name":"Mark Brody","party":"R","isPrimary":true},
+    {"peopleId":24207,"name":"Neal Jackson","party":"R","isPrimary":false},
+    {"peopleId":20519,"name":"Keith Kidwell","party":"R","isPrimary":false},
+    {"peopleId":24212,"name":"Joe Pike","party":"R","isPrimary":false},
+    {"peopleId":24219,"name":"Bill Ward","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

@@ -1,0 +1,26 @@
+{
+  "billId": 2015560,
+  "billNumber": "H554",
+  "title": "Rev Laws Tech Chngs/BBA Chngs/P2P Tax Parity",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "354bb7ec77b2f4137fb53531965d7755",
+  "lastAction": "Ref to the Com on Finance, if favorable, Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-03-31",
+  "url": "https://legiscan.com/NC/bill/H554/2025",
+  "aiSummary": "This bill makes various changes to North Carolina's tax laws, including adjustments to personal income tax rules, conforming state partnership tax treatment to federal standards, updating sales tax definitions, making technical changes to excise taxes, and extending highway use taxes to peer-to-peer vehicle rentals (like Airbnb for cars).",
+  "aiProArguments": "Supporters argue the bill modernizes North Carolina's tax code to align with federal tax changes, reducing complexity for taxpayers and tax administrators. The peer-to-peer vehicle rental provisions create tax parity between traditional car rental companies and newer sharing platforms, ensuring fair competition and preventing tax avoidance. Technical corrections improve administrative clarity and efficiency in tax collection.",
+  "aiConArguments": "Opponents may contend that extending highway use taxes to peer-to-peer vehicle sharing increases costs for consumers using platforms like Turo, potentially making these services less competitive with traditional rentals. The partnership-level tax provisions and statute of limitations changes add regulatory complexity for businesses. Some may view increased tax burden on emerging business models as discouraging economic innovation in the sharing economy.",
+  "topic": "Taxes & Budget",
+  "textLength": 75708,
+  "createdAt": "2026-06-23T02:54:33.544Z",
+  "sponsors": [
+    {"peopleId":2083,"name":"Julia Howard","party":"R","isPrimary":true},
+    {"peopleId":2122,"name":"Mitchell Setzer","party":"R","isPrimary":true},
+    {"peopleId":24207,"name":"Neal Jackson","party":"R","isPrimary":true},
+    {"peopleId":24197,"name":"Brian Biggs","party":"R","isPrimary":false},
+    {"peopleId":21375,"name":"Jeffrey McNeely","party":"R","isPrimary":false},
+    {"peopleId":11850,"name":"Harry Warren","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

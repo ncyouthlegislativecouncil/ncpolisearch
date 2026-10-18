@@ -1,0 +1,26 @@
+{
+  "billId": 2146909,
+  "billNumber": "S969",
+  "title": "First Grade Reading Promise",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "701cf381895b8d4a9cbf7562f074fd61",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2026-05-05",
+  "url": "https://legiscan.com/NC/bill/S969/2025",
+  "aiSummary": "This bill appropriates $5 million to provide first grade students with tutoring based on reading science methods, clarifies that schools can offer tutoring virtually, and requires schools to publicly report detailed reading proficiency data for grades 1-3 including student performance rates and reading camp attendance.",
+  "aiProArguments": "Supporters argue this bill addresses early literacy gaps by investing in evidence-based tutoring during critical first grade years, when reading skills are foundational. They contend that allowing virtual tutoring expands access for students in underserved areas, and that public reporting of reading data creates transparency and accountability, helping parents and communities track student progress and school performance.",
+  "aiConArguments": "Opponents may argue that $5 million in nonrecurring funds is insufficient to sustain a statewide tutoring program long-term, potentially creating unsustainable expectations. They may also express concerns that detailed public reporting of reading proficiency data by school could stigmatize lower-performing schools or be misused without context, and question whether virtual tutoring is as effective as in-person instruction for struggling early readers.",
+  "topic": "Education",
+  "textLength": 3304,
+  "createdAt": "2026-06-23T03:12:16.366Z",
+  "sponsors": [
+    {"peopleId":20513,"name":"Bobby Hanig","party":"R","isPrimary":true},
+    {"peopleId":17147,"name":"Gale Adcock","party":"D","isPrimary":false},
+    {"peopleId":17936,"name":"Jay Chaudhuri","party":"D","isPrimary":false},
+    {"peopleId":11858,"name":"Timothy Moffitt","party":"R","isPrimary":false},
+    {"peopleId":11862,"name":"Norman Sanderson","party":"R","isPrimary":false},
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

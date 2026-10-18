@@ -1,0 +1,26 @@
+{
+  "billId": 2022105,
+  "billNumber": "H869",
+  "title": "Dynamic Symbol of Access",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "cf7610ce1b276bdf3b432d7584d1739a",
+  "lastAction": "Ref to the Com on Health, if favorable, State and Local Government, if favorable, Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-04-10",
+  "url": "https://legiscan.com/NC/bill/H869/2025",
+  "aiSummary": "This bill requires North Carolina state buildings and parking areas to replace the traditional international symbol of access (static wheelchair icon) with a dynamic symbol of access (a figure leaning forward in motion) on new or replaced signs starting January 1, 2026. The bill also updates driver's license tests, handicapped parking permits, and license plates to recognize both symbols, with new permits and plates using the dynamic symbol by January 1, 2026.",
+  "aiProArguments": "Supporters argue the dynamic symbol better represents people with disabilities as active and mobile rather than static, promoting a more positive and modern image of disability. They contend it encourages greater inclusion and accessibility awareness while maintaining equivalent accessibility standards. Advocates point out the change aligns with growing international recognition of the dynamic symbol and updates outdated visual representations.",
+  "aiConArguments": "Opponents may argue the change creates unnecessary costs for replacing signage, permits, and license plates across state facilities before the old symbols are worn out. They could contend that changing a universally recognized symbol creates confusion during the transition period and that resources spent on this rebranding could be directed toward actual accessibility improvements. Some may question whether a symbol change addresses real accessibility barriers people with disabilities face.",
+  "topic": "Local Government",
+  "textLength": 5581,
+  "createdAt": "2026-06-23T02:58:44.728Z",
+  "sponsors": [
+    {"peopleId":24201,"name":"Celeste Cairns","party":"R","isPrimary":true},
+    {"peopleId":22602,"name":"Karl Gillespie","party":"R","isPrimary":true},
+    {"peopleId":22607,"name":"Steve Tyson","party":"R","isPrimary":true},
+    {"peopleId":11863,"name":"Phillip Shepard","party":"R","isPrimary":true},
+    {"peopleId":18451,"name":"Mary Belk","party":"D","isPrimary":false},
+    {"peopleId":26396,"name":"Phil Rubin","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

@@ -1,0 +1,32 @@
+{
+  "billId": 1995996,
+  "billNumber": "H345",
+  "title": "Rights of Nature/Certain River Basins",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "2430b6febeb11d5052d55c82c3fa967c",
+  "lastAction": "Ref To Com On Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-03-11",
+  "url": "https://legiscan.com/NC/bill/H345/2025",
+  "aiSummary": "This bill would recognize the Dan and Haw River ecosystems as having legal rights to exist, flourish, and remain unpolluted, and would recognize North Carolina residents' right to healthy river ecosystems. It requires state agencies to assess these rivers by mid-2026, remedy violations by mid-2027, and complete full restoration by 2030, with enforcement mechanisms allowing the Attorney General, residents, and the ecosystems themselves to bring lawsuits for violations.",
+  "aiProArguments": "Supporters argue that the Haw River is one of America's most endangered rivers, contaminated with PFAS and other toxic chemicals that threaten human health and wildlife, and that existing environmental laws have proven insufficient to protect North Carolina's waterways. They contend that recognizing rights of nature—a legal framework already adopted in over 500 jurisdictions worldwide—provides stronger legal tools to prevent pollution and restore these ecosystems for current and future generations.",
+  "aiConArguments": "Opponents may argue that granting legal rights to rivers creates legal uncertainty and could lead to excessive litigation that impairs business operations, agricultural practices, and industrial development. They may also contend that the bill's burden-of-proof reversal (requiring violators to prove no harm occurred) and automatic trebled penalties could unfairly penalize entities, and question whether existing regulatory agencies already have adequate authority to protect these rivers without creating novel legal structures.",
+  "topic": "Environment & Energy",
+  "textLength": 15633,
+  "createdAt": "2026-06-23T02:48:57.861Z",
+  "sponsors": [
+    {"peopleId":2077,"name":"Mary Harrison","party":"D","isPrimary":true},
+    {"peopleId":19360,"name":"Marcia Morey","party":"D","isPrimary":true},
+    {"peopleId":24202,"name":"Maria Cervania","party":"D","isPrimary":true},
+    {"peopleId":24199,"name":"Kanika Brown","party":"D","isPrimary":true},
+    {"peopleId":18449,"name":"Cynthia Ball","party":"D","isPrimary":false},
+    {"peopleId":17151,"name":"Cecil Brockman","party":"D","isPrimary":false},
+    {"peopleId":24198,"name":"Gloristine Brown","party":"D","isPrimary":false},
+    {"peopleId":22422,"name":"Sarah Crawford","party":"D","isPrimary":false},
+    {"peopleId":20515,"name":"Zack Forde-Hawkins","party":"D","isPrimary":false},
+    {"peopleId":24206,"name":"Frances Jackson","party":"D","isPrimary":false},
+    {"peopleId":24214,"name":"Renee Price","party":"D","isPrimary":false},
+    {"peopleId":20528,"name":"Julie von Haefen","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

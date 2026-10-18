@@ -1,0 +1,28 @@
+{
+  "billId": 2146830,
+  "billNumber": "S989",
+  "title": "Epstein Truth and Accountability Act",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "51776f8861e2e7482663e5ea1eded827",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2026-05-05",
+  "url": "https://legiscan.com/NC/bill/S989/2025",
+  "aiSummary": "This bill establishes a Human Trafficking Records Commission within the Department of Justice to review and publicly release records from the Jeffrey Epstein investigation (with victim names redacted), removes legislative privilege protections for any legislators identified in those records, and creates a new extreme risk protection order process to restrict firearm access for individuals identified in the released records. The bill allocates $10 million in funding to implement these provisions.",
+  "aiProArguments": "Supporters argue this bill increases government transparency and accountability by releasing investigation records to the public, ensuring that no one—including legislators—can hide behind legal privileges when connected to serious crimes. They contend that extreme risk protection orders provide a legal mechanism to temporarily remove firearms from individuals identified in the investigation who may pose safety concerns, particularly in human trafficking cases where violence is common.",
+  "aiConArguments": "Opponents may argue that removing legislative privilege could set a problematic precedent that undermines the separation of powers and legislators' ability to conduct official business. They may also raise concerns about due process, questioning whether individuals identified in records should have firearms removed without full criminal convictions, and express worry that the bill could lead to false accusations or misuse of protection orders based on incomplete investigation records.",
+  "topic": "Criminal Justice & Public Safety",
+  "textLength": 8002,
+  "createdAt": "2026-06-23T03:12:25.366Z",
+  "sponsors": [
+    {"peopleId":20505,"name":"Sydney Batch","party":"D","isPrimary":true},
+    {"peopleId":25860,"name":"Woodson Bradley","party":"D","isPrimary":true},
+    {"peopleId":20220,"name":"Michael Garrett","party":"D","isPrimary":true},
+    {"peopleId":25858,"name":"Sophia Chitlik","party":"D","isPrimary":false},
+    {"peopleId":24222,"name":"Lisa Grafstein","party":"D","isPrimary":false},
+    {"peopleId":21633,"name":"Natalie Murdock","party":"D","isPrimary":false},
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":false},
+    {"peopleId":25859,"name":"Caleb Theodros","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

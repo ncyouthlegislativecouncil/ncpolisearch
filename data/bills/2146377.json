@@ -1,0 +1,28 @@
+{
+  "billId": 2146377,
+  "billNumber": "S897",
+  "title": "NC CROWN Act",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "ce18f95b6bdc39f5cd14e8cee2d1829e",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2026-04-30",
+  "url": "https://legiscan.com/NC/bill/S897/2025",
+  "aiSummary": "The NC CROWN Act expands North Carolina's employment discrimination law to explicitly prohibit employers from discriminating against workers based on natural hairstyles and hair characteristics associated with race, including braids, locks, twists, and bantu knots. The bill also adds protections against retaliation for employees who report violations and provides $100,000 in funding for employer and employee education.",
+  "aiProArguments": "Supporters argue this bill addresses documented discrimination in hiring and employment where workers, particularly Black employees, face penalties for wearing natural hairstyles. They contend the law protects individuals' right to express their racial and cultural identity at work while ensuring fair treatment regardless of appearance. Proponents say explicit protections clarify existing anti-discrimination law and help create more inclusive workplaces.",
+  "aiConArguments": "Opponents may argue that existing anti-discrimination laws already provide sufficient protection and that adding specific hairstyle protections is unnecessary or creates special classifications. Some business groups could express concerns about potential litigation costs or argue that employers should retain flexibility in grooming policies. Others might question whether government should regulate personal appearance standards or suggest the funding allocated could be used differently.",
+  "topic": "Business & Labor",
+  "textLength": 3324,
+  "createdAt": "2026-06-23T03:11:40.438Z",
+  "sponsors": [
+    {"peopleId":21633,"name":"Natalie Murdock","party":"D","isPrimary":true},
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":true},
+    {"peopleId":22426,"name":"DeAndrea Salvador","party":"D","isPrimary":true},
+    {"peopleId":24220,"name":"Val Applewhite","party":"D","isPrimary":false},
+    {"peopleId":25858,"name":"Sophia Chitlik","party":"D","isPrimary":false},
+    {"peopleId":20223,"name":"Mujtaba Mohammed","party":"D","isPrimary":false},
+    {"peopleId":25859,"name":"Caleb Theodros","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

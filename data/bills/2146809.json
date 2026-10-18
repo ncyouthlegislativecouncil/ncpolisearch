@@ -1,0 +1,22 @@
+{
+  "billId": 2146809,
+  "billNumber": "S977",
+  "title": "Moratorium on New Coastal Fishing Regulations",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "2a3682b369bbcf9eb2938ab76a93faaf",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2026-05-04",
+  "url": "https://legiscan.com/NC/bill/S977/2025",
+  "aiSummary": "This bill establishes a 10-year moratorium (through January 1, 2037) on new fishing regulations that restrict commercial or recreational fishing in North Carolina's coastal waters, pending completion of a state study on marine fisheries. It also restores recreational fishing rules to 2019 levels and creates a Joint Legislative Commission on Seafood and Aquaculture to oversee the fishing industry.",
+  "aiProArguments": "Supporters argue this bill protects the fishing industry from regulatory uncertainty that harms businesses, workers, and communities dependent on seafood production and fishing tourism. They contend that the moratorium allows time for the comprehensive Collaboratory Study to guide future policy decisions rather than implementing piecemeal regulations, and that it prevents job losses and economic disruption while maintaining existing fishing opportunities for recreational anglers.",
+  "aiConArguments": "Opponents worry the moratorium could prevent necessary conservation measures to protect fish populations and marine ecosystems, even if science shows declining stocks. They argue that restricting regulators' ability to respond to environmental changes—except in extreme emergencies—may violate federal fisheries laws and compromise North Carolina's obligations under interstate fishing agreements, potentially resulting in federal intervention or loss of fishing access.",
+  "topic": "Environment & Energy",
+  "textLength": 19926,
+  "createdAt": "2026-06-23T03:12:19.923Z",
+  "sponsors": [
+    {"peopleId":20513,"name":"Bobby Hanig","party":"R","isPrimary":true},
+    {"peopleId":11862,"name":"Norman Sanderson","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

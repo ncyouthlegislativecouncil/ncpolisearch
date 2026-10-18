@@ -1,0 +1,24 @@
+{
+  "billId": 2147577,
+  "billNumber": "S1072",
+  "title": "Constitutional Amendments - Cannabis",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "213c7e798cdea1e8acb46a5617e23f89",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2026-05-05",
+  "url": "https://legiscan.com/NC/bill/S1072/2025",
+  "aiSummary": "This bill proposes two separate constitutional amendments for North Carolina voters to decide on in November 2026. The first would decriminalize possession of limited amounts of cannabis for personal use, and the second would allow patients with qualifying medical conditions to possess cannabis for medical purposes. Both amendments would require the General Assembly to pass additional laws specifying the details of possession limits and regulations.",
+  "aiProArguments": "Supporters argue that decriminalizing cannabis for personal use reduces unnecessary incarceration and criminal records that can harm employment and housing opportunities. They contend that medical cannabis access could provide treatment options for patients with chronic pain, epilepsy, and other conditions, while decriminalization aligns North Carolina with other states that have reduced cannabis penalties. Additionally, they suggest these changes respect individual liberty and allow voters to decide the policy rather than leaving it solely to legislators.",
+  "aiConArguments": "Opponents worry that decriminalizing personal cannabis use could increase substance abuse, impaired driving, and youth access to the drug. They argue that insufficient evidence exists for cannabis as a medical treatment compared to FDA-approved medications, and they raise concerns about workplace safety and the challenges of detecting cannabis impairment. Some also contend that constitutional amendments are too inflexible for addressing a complex issue that may require future adjustments based on real-world outcomes.",
+  "topic": "Criminal Justice & Public Safety",
+  "textLength": 5052,
+  "createdAt": "2026-06-23T03:13:07.776Z",
+  "sponsors": [
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":true},
+    {"peopleId":25859,"name":"Caleb Theodros","party":"D","isPrimary":true},
+    {"peopleId":17457,"name":"Paul Lowe","party":"D","isPrimary":true},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

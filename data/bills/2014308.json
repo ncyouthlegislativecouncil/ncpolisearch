@@ -1,0 +1,27 @@
+{
+  "billId": 2014308,
+  "billNumber": "S656",
+  "title": "Cosmetic Art Deregulation",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "434c3980bd3b63abedc26c5d22b41f1c",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-26",
+  "url": "https://legiscan.com/NC/bill/S656/2025",
+  "aiSummary": "This bill removes state licensing requirements for natural hair care services, blow-dry styling, and makeup artistry, allowing people to provide these services after completing a one-time four-hour sanitation course instead. It converts the mandatory natural hair care specialist license into a voluntary certification that is no longer required to practice. The bill also expands where these services can be provided, including in barbershops and other venues beyond traditional cosmetology shops.",
+  "aiProArguments": "Supporters argue this bill reduces barriers to entry for workers in these specific services, lowering costs and allowing more people to enter the profession without lengthy licensing requirements. They contend that natural hair care, blow-dry styling, and makeup artistry are less risky services that don't require the same level of regulation as chemical-intensive services like perms or hair coloring. The bill may increase job opportunities and entrepreneurship, particularly benefiting communities underserved by licensed cosmetology shops.",
+  "aiConArguments": "Opponents worry that removing licensing requirements may compromise consumer safety and product quality standards, as unlicensed practitioners won't have formal training on sanitation, chemistry, or professional standards beyond a four-hour course. They argue that licensing protects consumers by ensuring practitioners meet minimum competency standards and can be held accountable through disciplinary processes. Some may be concerned about fair competition between newly unlicensed practitioners and those who completed expensive licensed training programs.",
+  "topic": "Business & Labor",
+  "textLength": 33925,
+  "createdAt": "2026-06-23T03:09:43.522Z",
+  "sponsors": [
+    {"peopleId":11858,"name":"Timothy Moffitt","party":"R","isPrimary":true},
+    {"peopleId":24222,"name":"Lisa Grafstein","party":"D","isPrimary":true},
+    {"peopleId":25860,"name":"Woodson Bradley","party":"D","isPrimary":true},
+    {"peopleId":25858,"name":"Sophia Chitlik","party":"D","isPrimary":false},
+    {"peopleId":21633,"name":"Natalie Murdock","party":"D","isPrimary":false},
+    {"peopleId":22426,"name":"DeAndrea Salvador","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

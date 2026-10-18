@@ -1,0 +1,25 @@
+{
+  "billId": 2022763,
+  "billNumber": "H977",
+  "title": "Defend NC",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "4e1bddd16634f74937b33beba1a3af92",
+  "lastAction": "Ref To Com On Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-04-14",
+  "url": "https://legiscan.com/NC/bill/H977/2025",
+  "aiSummary": "This bill contains several provisions: it prohibits North Carolina law enforcement from assisting federal Immigration and Customs Enforcement with immigration enforcement activities; it temporarily suspends sales tax on items that increased in price by over 50% due to 2025 federal tariffs; and it directs state agencies to study federal funding losses and consider alternatives for health research, education, and Medicaid programs.",
+  "aiProArguments": "Supporters argue this bill protects North Carolinians by limiting local police involvement in federal immigration enforcement, which they say allows officers to focus on community policing and protects immigrant communities from fear of deportation. They contend the sales tax suspension provides relief to residents facing higher prices from federal tariffs, and that state-funded health research initiatives can help replace lost federal funding and support economic growth in biomedical research.",
+  "aiConArguments": "Opponents may argue that prohibiting law enforcement cooperation with federal immigration authorities could create public safety concerns and complicate federal enforcement efforts. They may also question whether a temporary sales tax suspension on tariff-affected goods is the best use of state revenue, and whether the state should fund health research initiatives that would compete with or duplicate federal programs, particularly given budget constraints.",
+  "topic": "Taxes & Budget",
+  "textLength": 7580,
+  "createdAt": "2026-06-23T02:59:58.645Z",
+  "sponsors": [
+    {"peopleId":20515,"name":"Zack Forde-Hawkins","party":"D","isPrimary":true},
+    {"peopleId":22599,"name":"Amber Baker","party":"D","isPrimary":false},
+    {"peopleId":24200,"name":"Laura Budd","party":"D","isPrimary":false},
+    {"peopleId":24202,"name":"Maria Cervania","party":"D","isPrimary":false},
+    {"peopleId":2077,"name":"Mary Harrison","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

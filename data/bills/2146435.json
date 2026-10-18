@@ -1,0 +1,21 @@
+{
+  "billId": 2146435,
+  "billNumber": "S921",
+  "title": "Forsyth Tech First Responder Funding",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "4c61512bf31091e8204d26cea6e8e7de",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2026-04-30",
+  "url": "https://legiscan.com/NC/bill/S921/2025",
+  "aiSummary": "This bill appropriates $10.4 million in state funding to Forsyth Technical Community College for construction and equipment to expand first responder training programs. The funds will support building new facilities, classrooms, training tracks, and fire apparatus equipment for the 2026-2027 fiscal year.",
+  "aiProArguments": "Supporters argue this investment strengthens emergency response capacity by improving training for firefighters, EMTs, police, and other first responders in the Forsyth County area. They contend that modern facilities and equipment enhance training quality and safety, better preparing responders to serve their communities and potentially saving lives through improved readiness.",
+  "aiConArguments": "Opponents may question whether $10.4 million in nonrecurring state funds is the best use of limited resources, particularly if other regions have similar unmet training needs. Some may argue the college or local government should fund facility improvements, or that this represents an unfair allocation favoring one community college over others across the state.",
+  "topic": "Taxes & Budget",
+  "textLength": 1010,
+  "createdAt": "2026-06-23T03:11:53.646Z",
+  "sponsors": [
+    {"peopleId":17457,"name":"Paul Lowe","party":"D","isPrimary":true}
+  ],
+  "rollCalls": []
+}

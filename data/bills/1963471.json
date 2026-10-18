@@ -1,0 +1,30 @@
+{
+  "billId": 1963471,
+  "billNumber": "H89",
+  "title": "University Vaccination Freedom Act",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "fc2fe83cc84d054e37da89ddec1b2eff",
+  "lastAction": "Ref to the Com on Health, if favorable, Higher Education, if favorable, Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-02-11",
+  "url": "https://legiscan.com/NC/bill/H89/2025",
+  "aiSummary": "This bill removes immunization requirements for students attending North Carolina colleges and universities. It eliminates vaccine documentation rules for higher education institutions while keeping K-12 school requirements unchanged.",
+  "aiProArguments": "Supporters argue this bill protects individual choice and parental authority over medical decisions without government mandate. They contend that college students are adults capable of making their own health decisions and that voluntary vaccination choices should be respected rather than required by institutions.",
+  "aiConArguments": "Opponents argue that vaccine requirements help prevent disease outbreaks among concentrated student populations and protect vulnerable individuals who cannot be vaccinated for medical reasons. They contend that removing these requirements could reduce vaccination rates, increase transmission of preventable diseases on campuses, and potentially spread illness to surrounding communities.",
+  "topic": "Education",
+  "textLength": 2193,
+  "createdAt": "2026-06-23T02:40:42.682Z",
+  "sponsors": [
+    {"peopleId":25852,"name":"Wyatt Gable","party":"R","isPrimary":true},
+    {"peopleId":25841,"name":"Jonathan Almond","party":"R","isPrimary":true},
+    {"peopleId":20519,"name":"Keith Kidwell","party":"R","isPrimary":true},
+    {"peopleId":22607,"name":"Steve Tyson","party":"R","isPrimary":true},
+    {"peopleId":25197,"name":"Jerry Branson","party":"R","isPrimary":false},
+    {"peopleId":24201,"name":"Celeste Cairns","party":"R","isPrimary":false},
+    {"peopleId":22965,"name":"Donnie Loftis","party":"R","isPrimary":false},
+    {"peopleId":21375,"name":"Jeffrey McNeely","party":"R","isPrimary":false},
+    {"peopleId":22613,"name":"Ben Moss","party":"R","isPrimary":false},
+    {"peopleId":22611,"name":"Jeff Zenger","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

@@ -1,0 +1,22 @@
+{
+  "billId": 2146871,
+  "billNumber": "H1165",
+  "title": "Hygiene Products Protections/Sales Tax",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "63e3b733d69b89f7d087d3d571d774f3",
+  "lastAction": "Ref To Com On Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2026-05-04",
+  "url": "https://legiscan.com/NC/bill/H1165/2025",
+  "aiSummary": "This bill exempts menstrual hygiene products (tampons, pads, menstrual cups, and similar items) that are certified as free of intentionally added PFAS chemicals from North Carolina's state sales tax. It also creates a certification program through the Department of Commerce to verify which menstrual products meet PFAS-free standards, and appropriates $100,000 to the Department of Revenue for implementation.",
+  "aiProArguments": "Supporters argue this bill reduces costs for menstruating individuals by eliminating sales tax on an essential health product, making period supplies more affordable and accessible. They also contend that certifying PFAS-free products protects public health by preventing exposure to potentially harmful chemicals that may accumulate in the body, while encouraging manufacturers to produce safer menstrual products.",
+  "aiConArguments": "Opponents may argue that removing sales tax on menstrual products reduces state revenue and creates questions about why these products receive special tax treatment when other essential health items do not. They may also express concerns about the administrative costs and burden of the PFAS certification program, or question whether the state should regulate product chemical composition rather than leaving that to federal oversight and market forces.",
+  "topic": "Taxes & Budget",
+  "textLength": 8874,
+  "createdAt": "2026-06-23T03:02:49.470Z",
+  "sponsors": [
+    {"peopleId":24200,"name":"Laura Budd","party":"D","isPrimary":true},
+    {"peopleId":24198,"name":"Gloristine Brown","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

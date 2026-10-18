@@ -1,0 +1,24 @@
+{
+  "billId": 1946199,
+  "billNumber": "H25",
+  "title": "Restore Down-Zoning Auth./Stanly & Catawba",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "22d766d173aa261fd47f58bbebce6000",
+  "lastAction": "Re-ref to the Com on Judiciary 3, if favorable, Housing and Development, if favorable, Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-02-03",
+  "url": "https://legiscan.com/NC/bill/H25/2025",
+  "aiSummary": "This bill restores the authority of local governments in Stanly and Catawba Counties to initiate down-zoning (reducing allowed development density or permitted uses on property) without needing written consent from all affected property owners. It reverses a restriction that was imposed in December 2024 and applies retroactively to restore ordinances that were in effect before that date.",
+  "aiProArguments": "Supporters argue that local governments need flexibility to manage land use and community development without being blocked by individual property owners. They contend that down-zoning can protect community character, preserve neighborhoods, and prevent overdevelopment, and that local elected officials should have the authority to make zoning decisions on behalf of their constituents without requiring unanimous property owner approval.",
+  "aiConArguments": "Opponents argue that property owners have legitimate interests in decisions affecting their land's development potential and value, and that requiring consent protects individual property rights. They contend that allowing governments to down-zone without owner approval could unfairly reduce property values and development opportunities, and that the December 2024 restriction was enacted to prevent such governmental overreach.",
+  "topic": "Local Government",
+  "textLength": 2060,
+  "createdAt": "2026-06-23T02:38:08.307Z",
+  "sponsors": [
+    {"peopleId":25848,"name":"Cody Huneycutt","party":"R","isPrimary":true},
+    {"peopleId":2122,"name":"Mitchell Setzer","party":"R","isPrimary":true},
+    {"peopleId":25842,"name":"Bryan Cohn","party":"D","isPrimary":false},
+    {"peopleId":2077,"name":"Mary Harrison","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

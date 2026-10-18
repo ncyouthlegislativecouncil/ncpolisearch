@@ -1,0 +1,26 @@
+{
+  "billId": 2012975,
+  "billNumber": "S420",
+  "title": "Redirect Lottery Advertising for Foster Care",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "aec4252b7d0e628a35f1a61f3c3d53e2",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-25",
+  "url": "https://legiscan.com/NC/bill/S420/2025",
+  "aiSummary": "This bill prohibits the North Carolina Lottery Commission from spending public funds on lottery advertising and redirects $31 million in annual lottery revenues to the Department of Health and Human Services—$1 million for gambling addiction programs and $30 million for foster care services. The bill maintains existing regulations on how lottery retailers can advertise their games.",
+  "aiProArguments": "Supporters argue this bill addresses critical needs in North Carolina's foster care system by dedicating substantial annual funding without requiring new taxes. They contend that reducing lottery advertising could decrease problem gambling and associated harms, while the advertising restrictions still allow retailers to promote games responsibly through means other than government-funded campaigns.",
+  "aiConArguments": "Opponents may argue that eliminating lottery advertising could reduce ticket sales and lottery revenues available for other state programs beyond foster care. They contend that lottery advertising helps fund education and other priorities, and that redirecting these funds creates uncertainty about how other programs will be financed. Some may also question whether advertising restrictions adequately account for retailers' needs to inform consumers about available games.",
+  "topic": "Social Services & Welfare",
+  "textLength": 5783,
+  "createdAt": "2026-06-23T03:07:39.417Z",
+  "sponsors": [
+    {"peopleId":20216,"name":"Jim Burgin","party":"R","isPrimary":true},
+    {"peopleId":20225,"name":"Ted Alexander","party":"R","isPrimary":true},
+    {"peopleId":24220,"name":"Val Applewhite","party":"D","isPrimary":false},
+    {"peopleId":20223,"name":"Mujtaba Mohammed","party":"D","isPrimary":false},
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

@@ -1,0 +1,27 @@
+{
+  "billId": 2146973,
+  "billNumber": "S1054",
+  "title": "No Child Left Unfed",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "9f1a0893e2641438de5d2262a0be95f4",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2026-05-06",
+  "url": "https://legiscan.com/NC/bill/S1054/2025",
+  "aiSummary": "This bill directs the North Carolina Department of Health and Human Services to expand access to the federal Child and Adult Care Food Program (CACFP) to family, friend, and neighbor (FFN) child care providers who are legally operating but currently excluded from the program. The bill appropriates $150,000 for planning and $500,000 in recurring funds to support implementation, and requires annual reporting on participation and barriers.",
+  "aiProArguments": "Supporters argue this bill addresses child food insecurity by providing meal reimbursements to children in FFN care settings, which serve a significant share of young children in low-income, rural, and underserved communities. They contend that FFN providers are an important part of North Carolina's child care ecosystem and currently lack access to nutritional resources available through CACFP, making this expansion a practical way to improve child health outcomes without changing licensure requirements.",
+  "aiConArguments": "Opponents may be concerned about the administrative costs and complexity of implementing CACFP for informal care providers, who typically operate with minimal paperwork and overhead. They might also question whether FFN providers have the capacity or willingness to meet CACFP record-keeping and compliance requirements, or worry that expanded oversight could burden small providers and discourage participation in the program.",
+  "topic": "Social Services & Welfare",
+  "textLength": 9015,
+  "createdAt": "2026-06-23T03:12:59.351Z",
+  "sponsors": [
+    {"peopleId":17936,"name":"Jay Chaudhuri","party":"D","isPrimary":true},
+    {"peopleId":20216,"name":"Jim Burgin","party":"R","isPrimary":true},
+    {"peopleId":17147,"name":"Gale Adcock","party":"D","isPrimary":false},
+    {"peopleId":25858,"name":"Sophia Chitlik","party":"D","isPrimary":false},
+    {"peopleId":12032,"name":"Gladys Robinson","party":"D","isPrimary":false},
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

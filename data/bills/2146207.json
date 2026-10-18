@@ -1,0 +1,21 @@
+{
+  "billId": 2146207,
+  "billNumber": "S879",
+  "title": "Funds for the Franklinton Center",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "d6f6341c543695739c6650ad873ca2d0",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2026-04-29",
+  "url": "https://legiscan.com/NC/bill/S879/2025",
+  "aiSummary": "This bill appropriates $300,000 in one-time state funding for the 2026-2027 fiscal year to the Franklinton Center at Bricks, Inc., to support operating expenses and capital improvements. The funds come from the state's General Fund and become available starting July 1, 2026.",
+  "aiProArguments": "Supporters argue this funding helps a specific community organization maintain operations and make necessary facility improvements that might otherwise go undone. The grant provides resources for the Franklinton Center to serve its mission and community members who depend on its programs and services.",
+  "aiConArguments": "Opponents may question whether directing state funds to a specific nonprofit organization is the best use of limited General Fund resources, and whether such targeted appropriations should go through standard competitive grant processes instead. They might also note that because the funds are nonrecurring (one-time only), the organization may face challenges sustaining programs after 2026-2027 without ongoing funding commitments.",
+  "topic": "Taxes & Budget",
+  "textLength": 789,
+  "createdAt": "2026-06-23T03:11:31.776Z",
+  "sponsors": [
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":true}
+  ],
+  "rollCalls": []
+}

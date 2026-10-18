@@ -1,0 +1,23 @@
+{
+  "billId": 2014275,
+  "billNumber": "S594",
+  "title": "Care Center Cost Support Act",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "0e03f709265c9e17e8432c230abce688",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2025-03-26",
+  "url": "https://legiscan.com/NC/bill/S594/2025",
+  "aiSummary": "This bill increases child care subsidy payment rates for providers serving low-income families to the seventy-fifth percentile of the 2023 market rate study, establishes a minimum statewide payment floor for child care centers and homes, and appropriates $110 million per year for the 2025-2027 budget period to fund these increases.",
+  "aiProArguments": "Supporters argue that higher subsidy rates make child care more affordable and accessible for low-income families while improving provider compensation and retention. They contend that aligning rates with current market conditions helps providers cover operating costs, offer better wages to staff, and maintain or improve quality care—benefits that particularly help working parents who rely on subsidies.",
+  "aiConArguments": "Opponents may express concern about the $110 million annual recurring cost and its impact on the state budget, especially during economic uncertainty. Some may question whether increased subsidies are the most efficient way to address child care affordability, or argue that funds could be better spent on other priorities like education or tax relief.",
+  "topic": "Social Services & Welfare",
+  "textLength": 2200,
+  "createdAt": "2026-06-23T03:09:10.935Z",
+  "sponsors": [
+    {"peopleId":17936,"name":"Jay Chaudhuri","party":"D","isPrimary":true},
+    {"peopleId":25858,"name":"Sophia Chitlik","party":"D","isPrimary":true},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

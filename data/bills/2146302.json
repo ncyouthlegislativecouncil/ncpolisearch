@@ -1,0 +1,29 @@
+{
+  "billId": 2146302,
+  "billNumber": "H1088",
+  "title": "Traffic Signal Preemption Software",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "9e1a6c45be88dd3aa833c32ee6786a41",
+  "lastAction": "Ref to the Com on Appropriations, if favorable, Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2026-04-30",
+  "url": "https://legiscan.com/NC/bill/H1088/2025",
+  "aiSummary": "This bill appropriates $2.7 million in one-time funding from the Highway Fund to the North Carolina Department of Transportation to install traffic signal preemption technology. This technology allows traffic signals to change in real-time to prioritize emergency vehicles, aiming to reduce emergency response times and improve intersection safety.",
+  "aiProArguments": "Supporters argue this technology saves lives by reducing response times for emergency services like ambulances and fire trucks, allowing them to reach patients and fire scenes faster. They contend that faster emergency response leads to better outcomes for medical emergencies and fire incidents, and that improved traffic flow for first responders enhances public safety at intersections by reducing dangerous high-speed crossings through busy traffic.",
+  "aiConArguments": "Opponents may question whether the one-time $2.7 million investment provides lasting value or if ongoing maintenance and operational costs were not included in this appropriation. Some may argue the funds could address other transportation priorities, or raise concerns about whether this technology is cost-effective compared to other emergency response improvements, and whether all intersections across North Carolina would benefit equally from this limited funding.",
+  "topic": "Transportation & Infrastructure",
+  "textLength": 963,
+  "createdAt": "2026-06-23T03:01:38.307Z",
+  "sponsors": [
+    {"peopleId":24199,"name":"Kanika Brown","party":"D","isPrimary":true},
+    {"peopleId":24890,"name":"Eric Ager","party":"D","isPrimary":false},
+    {"peopleId":24198,"name":"Gloristine Brown","party":"D","isPrimary":false},
+    {"peopleId":26662,"name":"Amanda Cook","party":"D","isPrimary":false},
+    {"peopleId":20509,"name":"Allison Dahle","party":"D","isPrimary":false},
+    {"peopleId":20521,"name":"Carolyn Logan","party":"D","isPrimary":false},
+    {"peopleId":18462,"name":"Amos Quick","party":"D","isPrimary":false},
+    {"peopleId":22606,"name":"James Roberson","party":"D","isPrimary":false},
+    {"peopleId":26396,"name":"Phil Rubin","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

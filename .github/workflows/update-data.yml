@@ -1,0 +1,67 @@
+# Daily data update: pulls new/changed bills from LegiScan, writes AI analysis
+# for new bills, and commits the changed files in data/. Pushing that commit
+# makes Vercel redeploy the site with the new data.
+#
+# Required repository secrets (Settings → Secrets and variables → Actions):
+#   LEGISCAN_API_KEY, ANTHROPIC_API_KEY
+# Optional:
+#   VERCEL_DEPLOY_HOOK — only needed if Vercel doesn't deploy the bot's commits
+#   on its own; when set, it's called after each data commit.
+name: Daily data update
+
+on:
+  schedule:
+    - cron: "0 11 * * *" # 11:00 UTC daily (same time as the old Vercel cron)
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: data-update
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    env:
+      # Job-level so the deploy step's `if` can see whether it's set.
+      VERCEL_DEPLOY_HOOK: ${{ secrets.VERCEL_DEPLOY_HOOK }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+
+      - run: npm ci
+
+      - name: Update data from LegiScan
+        run: npx tsx scripts/update-data.ts
+        env:
+          LEGISCAN_API_KEY: ${{ secrets.LEGISCAN_API_KEY }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+
+      - name: Check the data still builds an index
+        run: npx tsx scripts/build-data-index.ts
+
+      - name: Commit and push changes
+        id: commit
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data
+          if git diff --cached --quiet; then
+            echo "No data changes today."
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+          else
+            git commit -m "Daily data update $(date -u +%Y-%m-%d)"
+            git push
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Trigger Vercel deploy (optional fallback)
+        if: steps.commit.outputs.changed == 'true' && env.VERCEL_DEPLOY_HOOK != ''
+        run: curl -fsS -X POST "$VERCEL_DEPLOY_HOOK" > /dev/null

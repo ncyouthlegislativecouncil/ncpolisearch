@@ -1,0 +1,31 @@
+{
+  "billId": 1968426,
+  "billNumber": "H119",
+  "title": "SchCalFlex/Pitt/MorF Aug 10",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "53a58fe133ed145bac8ac2df73ca0e42",
+  "lastAction": "Re-ref to the Com on Education - K-12, if favorable, Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-02-24",
+  "url": "https://legiscan.com/NC/bill/H119/2025",
+  "aiSummary": "This bill changes the earliest date that Pitt County Schools can start the school year from the Monday closest to August 26 to the Monday closest to August 10 (or the Friday or Monday adjacent if August 10 falls on a weekend). The change applies only to Pitt County beginning with the 2025-2026 school year.",
+  "aiProArguments": "Supporters argue that an earlier school start date allows Pitt County Schools to begin instruction sooner, potentially providing more instructional time before winter weather closures occur. An earlier start may also better align the school calendar with family vacation schedules and allow students to finish the school year earlier in June.",
+  "aiConArguments": "Opponents may be concerned that starting school in early-to-mid August conflicts with summer activities, family vacations, and end-of-summer traditions. An earlier start date could also affect local tourism and economies that depend on summer visitors, and may create scheduling conflicts for families and summer employment for students and teachers.",
+  "topic": "Education",
+  "textLength": 2686,
+  "createdAt": "2026-06-23T02:41:55.714Z",
+  "sponsors": [
+    {"peopleId":24198,"name":"Gloristine Brown","party":"D","isPrimary":true},
+    {"peopleId":24215,"name":"Timothy Reeder","party":"R","isPrimary":true},
+    {"peopleId":18451,"name":"Mary Belk","party":"D","isPrimary":false},
+    {"peopleId":24199,"name":"Kanika Brown","party":"D","isPrimary":false},
+    {"peopleId":24200,"name":"Laura Budd","party":"D","isPrimary":false},
+    {"peopleId":2044,"name":"Becky Carney","party":"D","isPrimary":false},
+    {"peopleId":2077,"name":"Mary Harrison","party":"D","isPrimary":false},
+    {"peopleId":24206,"name":"Frances Jackson","party":"D","isPrimary":false},
+    {"peopleId":25853,"name":"Rodney Pierce","party":"D","isPrimary":false},
+    {"peopleId":24214,"name":"Renee Price","party":"D","isPrimary":false},
+    {"peopleId":14633,"name":"Dennis Riddell","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

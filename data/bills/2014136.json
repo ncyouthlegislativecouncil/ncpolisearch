@@ -1,0 +1,23 @@
+{
+  "billId": 2014136,
+  "billNumber": "S578",
+  "title": "North Carolina CARDINAL Corps Act",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "41cc776c9bad16f32118b64c8bfabcc0",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2025-03-26",
+  "url": "https://legiscan.com/NC/bill/S578/2025",
+  "aiSummary": "This bill establishes the North Carolina CARDINAL Corps Program, a fellowship initiative that provides funding to employers in critical sectors (education, public safety, disaster relief, farming, military services, and public service) to hire and train recent high school graduates or veterans within two years of their military deployment. Fellows receive up to $30,200 per year in salary and program support, plus a $5,000 completion award after nine months, with the state providing matching funds on a 1:1 basis with employer contributions.",
+  "aiProArguments": "Supporters argue this bill addresses workforce shortages in vital sectors by creating pathways for young people and veterans to gain work experience, training, and certifications while earning income. The program could help reduce unemployment among recent graduates and veterans while filling labor gaps in education, public safety, and other critical industries. Employers benefit from financial assistance in hiring and training entry-level workers, and fellows gain professional development through conferences and mentorship.",
+  "aiConArguments": "Opponents may contend that the $1.485 million in state funds could be used more efficiently or directed toward other workforce programs with proven track records. Some may question whether employers should bear less financial responsibility given the requirement for 1:1 matching funds, and whether nine-month fellowships adequately prepare workers for permanent employment. Concerns may also arise about accountability, given the bill's aspiration to grow to 1,000 annual participants, and whether the program's success will be properly measured before expansion.",
+  "topic": "Business & Labor",
+  "textLength": 6931,
+  "createdAt": "2026-06-23T03:09:02.549Z",
+  "sponsors": [
+    {"peopleId":25858,"name":"Sophia Chitlik","party":"D","isPrimary":true},
+    {"peopleId":17457,"name":"Paul Lowe","party":"D","isPrimary":true},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

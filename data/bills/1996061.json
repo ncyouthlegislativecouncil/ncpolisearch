@@ -1,0 +1,21 @@
+{
+  "billId": 1996061,
+  "billNumber": "S255",
+  "title": "Greenville Bulkhead Appropriation",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "8efdb3bf9978ed1bebe9579d8d46621a",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2025-03-11",
+  "url": "https://legiscan.com/NC/bill/S255/2025",
+  "aiSummary": "This bill appropriates $5 million in state funds to the City of Greenville to replace an aging bulkhead in Town Common park. The replacement is intended to address flooding problems, structural deterioration, and improve the area's resilience to future flood events.",
+  "aiProArguments": "Supporters argue that replacing the deteriorating bulkhead is necessary infrastructure maintenance that protects public safety and prevents flooding damage to the park and surrounding area. They contend that state funding helps a local community address a critical infrastructure need while also improving flood resilience, which benefits residents and reduces long-term damage costs.",
+  "aiConArguments": "Opponents may question whether state general funds should be used for a local infrastructure project that could potentially be funded through local bonds, federal disaster assistance, or other sources. They might also raise concerns about whether this represents equitable allocation of limited state resources compared to other infrastructure needs across North Carolina.",
+  "topic": "Transportation & Infrastructure",
+  "textLength": 824,
+  "createdAt": "2026-06-23T03:06:09.953Z",
+  "sponsors": [
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":true}
+  ],
+  "rollCalls": []
+}

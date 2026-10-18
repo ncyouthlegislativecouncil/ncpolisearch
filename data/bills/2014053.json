@@ -1,0 +1,23 @@
+{
+  "billId": 2014053,
+  "billNumber": "S737",
+  "title": "Medicaid Rates/Ambulatory Surgical Centers",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "72912a3686644c355566d723dd3b812a",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2025-03-26",
+  "url": "https://legiscan.com/NC/bill/S737/2025",
+  "aiSummary": "This bill requires North Carolina's Medicaid program to increase reimbursement rates paid to ambulatory surgical centers (outpatient surgery facilities) to at least 95% of the Medicare fee schedule, effective July 1, 2025. The bill appropriates $6.9 million in state funds annually, which will leverage $12.6 million in federal matching funds, for a total of approximately $19.5 million per year.",
+  "aiProArguments": "Supporters argue that higher Medicaid reimbursement rates will improve access to surgical care by making it financially sustainable for ambulatory surgical centers to serve Medicaid patients. They contend that pegging rates to Medicare standards ensures fair compensation and helps these facilities remain competitive, potentially reducing wait times and expanding capacity for outpatient procedures.",
+  "aiConArguments": "Opponents may argue that the bill increases state spending during a time of fiscal constraints, committing $6.9 million annually from the General Fund. They may also question whether rate increases are the most cost-effective way to improve access, or suggest that the funds could address other healthcare priorities or be used more strategically to target underserved areas.",
+  "topic": "Healthcare",
+  "textLength": 1714,
+  "createdAt": "2026-06-23T03:10:26.053Z",
+  "sponsors": [
+    {"peopleId":18454,"name":"Kevin Corbin","party":"R","isPrimary":true},
+    {"peopleId":20504,"name":"Lisa Barnes","party":"R","isPrimary":true},
+    {"peopleId":17147,"name":"Gale Adcock","party":"D","isPrimary":true}
+  ],
+  "rollCalls": []
+}

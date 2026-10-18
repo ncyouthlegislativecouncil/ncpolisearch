@@ -1,0 +1,26 @@
+{
+  "billId": 2014024,
+  "billNumber": "S738",
+  "title": "Digital Content Provenance Initiative/Funds",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "d75b2fc6dbd29654ab16369c22e421d0",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2025-03-26",
+  "url": "https://legiscan.com/NC/bill/S738/2025",
+  "aiSummary": "This bill establishes the Digital Content Provenance Initiative, a program to develop technology standards that verify the origin and authenticity of digital content created by North Carolina state government, with a focus on preventing AI-generated misinformation. The bill appropriates $500,000 for Phase I implementation and requires progress reports to the General Assembly by December 2025 and March 2026.",
+  "aiProArguments": "Supporters argue this bill addresses a growing threat of AI-generated deepfakes and synthetic media that could undermine public trust in government communications and election integrity. They contend that implementing cryptographic authentication and provenance standards will help North Carolina residents identify false or manipulated content attributed to government officials, while also establishing the state as a leader in adopting open technical standards developed by industry coalitions.",
+  "aiConArguments": "Opponents may worry about the costs and complexity of implementing new technical infrastructure across state agencies, or question whether the $500,000 appropriation is sufficient for a comprehensive program. Some civil liberties advocates might express concerns about government-led authentication systems and whether such initiatives could eventually be used to restrict certain speech, though the bill does include a privacy-focused advisory board to address these concerns.",
+  "topic": "Technology & Privacy",
+  "textLength": 5022,
+  "createdAt": "2026-06-23T03:10:26.415Z",
+  "sponsors": [
+    {"peopleId":22426,"name":"DeAndrea Salvador","party":"D","isPrimary":true},
+    {"peopleId":25859,"name":"Caleb Theodros","party":"D","isPrimary":true},
+    {"peopleId":20220,"name":"Michael Garrett","party":"D","isPrimary":true},
+    {"peopleId":25860,"name":"Woodson Bradley","party":"D","isPrimary":false},
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

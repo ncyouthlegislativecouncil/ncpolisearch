@@ -1,0 +1,21 @@
+{
+  "billId": 2146524,
+  "billNumber": "S931",
+  "title": "Smith Reynolds Airport Hangar Improvements",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "79679f9825364591b3977f0d1c730928",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2026-04-30",
+  "url": "https://legiscan.com/NC/bill/S931/2025",
+  "aiSummary": "This bill appropriates $15.5 million in state funds to renovate, repair, and modernize two hangar facilities at Smith Reynolds Airport in Forsyth County. The money comes from the General Fund and is designated for the 2026-2027 fiscal year.",
+  "aiProArguments": "Supporters argue that upgrading aging airport infrastructure improves the facility's ability to serve aviation businesses and economic development in the region. The improvements could attract new tenants, support existing aviation operations, and generate economic activity and jobs in Forsyth County.",
+  "aiConArguments": "Opponents may question whether this represents the best use of state General Fund dollars during a time of competing budget priorities, and whether the local airport authority or private operators should bear more of the renovation costs rather than state taxpayers.",
+  "topic": "Taxes & Budget",
+  "textLength": 1116,
+  "createdAt": "2026-06-23T03:11:58.434Z",
+  "sponsors": [
+    {"peopleId":17457,"name":"Paul Lowe","party":"D","isPrimary":true}
+  ],
+  "rollCalls": []
+}

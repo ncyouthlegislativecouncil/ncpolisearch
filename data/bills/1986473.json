@@ -1,0 +1,30 @@
+{
+  "billId": 1986473,
+  "billNumber": "S211",
+  "title": "Reenact the Earned Income Tax Credit",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "d6ae09ebad3def343ad0d5332ce37e46",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-03",
+  "url": "https://legiscan.com/NC/bill/S211/2025",
+  "aiSummary": "This bill restores North Carolina's Earned Income Tax Credit, which expired in 2014. The credit would allow eligible workers who claim the federal Earned Income Tax Credit to receive a state tax credit equal to 5% of their federal credit amount, and any credit exceeding their state tax liability would be refunded to them.",
+  "aiProArguments": "Supporters argue this bill helps working families with low to moderate incomes keep more of their earnings and reduces their tax burden. The credit targets people who are already employed but earn modest wages, providing financial relief to households that may struggle with cost of living expenses. Proponents contend that restoring this credit supports economic activity in communities since low-income workers typically spend additional income locally.",
+  "aiConArguments": "Opponents may argue that reinstating this credit reduces state tax revenue at a time when funding other priorities like education and infrastructure may be needed. Critics could also question whether a 5% state credit provides meaningful assistance compared to the federal credit, and whether the state can afford a refundable credit that pays out money beyond what taxpayers owe in state taxes. Some may prefer alternative approaches to supporting low-income workers or prioritize other uses of state funds.",
+  "topic": "Taxes & Budget",
+  "textLength": 2128,
+  "createdAt": "2026-06-23T03:05:50.100Z",
+  "sponsors": [
+    {"peopleId":20223,"name":"Mujtaba Mohammed","party":"D","isPrimary":true},
+    {"peopleId":17457,"name":"Paul Lowe","party":"D","isPrimary":true},
+    {"peopleId":24220,"name":"Val Applewhite","party":"D","isPrimary":true},
+    {"peopleId":20505,"name":"Sydney Batch","party":"D","isPrimary":false},
+    {"peopleId":25858,"name":"Sophia Chitlik","party":"D","isPrimary":false},
+    {"peopleId":24222,"name":"Lisa Grafstein","party":"D","isPrimary":false},
+    {"peopleId":22426,"name":"DeAndrea Salvador","party":"D","isPrimary":false},
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":false},
+    {"peopleId":25859,"name":"Caleb Theodros","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

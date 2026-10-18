@@ -1,0 +1,24 @@
+{
+  "billId": 2014263,
+  "billNumber": "S610",
+  "title": "Funds for Orphan Roads in Mecklenburg Co",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "be3a1ea7ec8627d6b43966aec87cb83b",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2025-03-26",
+  "url": "https://legiscan.com/NC/bill/S610/2025",
+  "aiSummary": "This bill appropriates $5 million to Mecklenburg County and $750,000 to the NC Department of Transportation to repair and upgrade orphan roads (privately maintained roads open to public use) in non-municipal areas of the county. Specifically, it requires the Department of Transportation to improve Grand Palisades Parkway in Charlotte to state standards and accept it into the state highway system for ongoing maintenance.",
+  "aiProArguments": "Supporters argue that Grand Palisades Parkway is heavily used by the public, including 21 school bus routes and potentially as an emergency evacuation route for the Catawba Nuclear Station, making it a public safety concern. They contend that state assumption of maintenance responsibility is appropriate since the road serves essential public functions and private maintenance may be insufficient for current usage demands.",
+  "aiConArguments": "Opponents may argue that dedicating $5.75 million in state funds to repair one private road in one county sets a precedent that could encourage similar requests from other counties with orphan roads. They may also question whether private property owners who benefit from the road improvements should bear some responsibility for maintenance costs, or whether this diverts transportation funding from other statewide infrastructure needs.",
+  "topic": "Transportation & Infrastructure",
+  "textLength": 2890,
+  "createdAt": "2026-06-23T03:09:19.041Z",
+  "sponsors": [
+    {"peopleId":22426,"name":"DeAndrea Salvador","party":"D","isPrimary":true},
+    {"peopleId":25860,"name":"Woodson Bradley","party":"D","isPrimary":false},
+    {"peopleId":20223,"name":"Mujtaba Mohammed","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

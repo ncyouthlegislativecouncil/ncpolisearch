@@ -1,0 +1,28 @@
+{
+  "billId": 2014219,
+  "billNumber": "S714",
+  "title": "Prohibit Corporal Punishment in Schools",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "e8b697de3f5f0ee3444206d8c2cd4563",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-26",
+  "url": "https://legiscan.com/NC/bill/S714/2025",
+  "aiSummary": "This bill prohibits corporal punishment (physical pain inflicted as discipline) in North Carolina public schools statewide, effective in the 2025-2026 school year. It allows physical restraint and reasonable force in limited circumstances and requires schools to report data on corporal punishment use by student demographics.",
+  "aiProArguments": "Supporters argue that research shows corporal punishment does not improve academic outcomes and harms students' psychological and emotional development. They point out that 31 states have already banned it, no North Carolina school district currently allows it, and major education organizations including the State Board of Education and NC PTA recommend the prohibition.",
+  "aiConArguments": "Opponents may argue that removing corporal punishment limits school discipline tools and could require more suspensions or other consequences that keep students out of classrooms. They might contend that local school boards should retain the authority to decide discipline policies for their communities rather than having a statewide prohibition imposed.",
+  "topic": "Education",
+  "textLength": 7716,
+  "createdAt": "2026-06-23T03:10:14.932Z",
+  "sponsors": [
+    {"peopleId":12032,"name":"Gladys Robinson","party":"D","isPrimary":true},
+    {"peopleId":17147,"name":"Gale Adcock","party":"D","isPrimary":false},
+    {"peopleId":25860,"name":"Woodson Bradley","party":"D","isPrimary":false},
+    {"peopleId":25858,"name":"Sophia Chitlik","party":"D","isPrimary":false},
+    {"peopleId":18454,"name":"Kevin Corbin","party":"R","isPrimary":false},
+    {"peopleId":21633,"name":"Natalie Murdock","party":"D","isPrimary":false},
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

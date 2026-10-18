@@ -1,0 +1,29 @@
+{
+  "billId": 2144510,
+  "billNumber": "S804",
+  "title": "Fair Maps Act",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "3fa3d1490e09938201ce02bc45c6aaed",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2026-04-22",
+  "url": "https://legiscan.com/NC/bill/S804/2025",
+  "aiSummary": "This bill proposes a constitutional amendment to remove the North Carolina General Assembly and Governor from the redistricting process and establish an independent North Carolina Citizens Redistricting Commission to redraw state legislative and congressional districts after each 10-year census. The commission would be composed of 15 citizens selected through a process designed to ensure partisan and demographic balance, and would follow specific criteria prioritizing equal population representation, constitutional compliance, and community preservation.",
+  "aiProArguments": "Supporters argue this bill addresses partisan gerrymandering by removing politicians from drawing their own districts, which they contend undermines fair representation and voter choice. Proponents point to the independent commission structure with balanced partisan representation, transparency requirements including 25+ public hearings, and strict eligibility rules preventing political insiders as safeguards ensuring fair maps that reflect communities rather than partisan advantage. Advocates also note the bill includes protections for minority voting rights and requires consideration of communities of interest.",
+  "aiConArguments": "Opponents may argue that removing the General Assembly from redistricting transfers significant power to an unelected body with limited accountability to voters, and that the commission's strict criteria and lengthy timelines could create rigidity that prevents addressing genuine population shifts or constitutional changes. Critics might also contend that the complex appointment process, while designed to ensure balance, could still result in deadlock requiring a special master, and that eligibility restrictions—while preventing political operatives—might exclude citizens with legitimate policy knowledge and experience.",
+  "topic": "Elections & Voting",
+  "textLength": 39500,
+  "createdAt": "2026-06-23T03:10:52.959Z",
+  "sponsors": [
+    {"peopleId":25860,"name":"Woodson Bradley","party":"D","isPrimary":true},
+    {"peopleId":25858,"name":"Sophia Chitlik","party":"D","isPrimary":false},
+    {"peopleId":20220,"name":"Michael Garrett","party":"D","isPrimary":false},
+    {"peopleId":26664,"name":"Jonah Garson","party":"D","isPrimary":false},
+    {"peopleId":24222,"name":"Lisa Grafstein","party":"D","isPrimary":false},
+    {"peopleId":20223,"name":"Mujtaba Mohammed","party":"D","isPrimary":false},
+    {"peopleId":22426,"name":"DeAndrea Salvador","party":"D","isPrimary":false},
+    {"peopleId":25859,"name":"Caleb Theodros","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

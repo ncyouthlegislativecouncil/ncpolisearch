@@ -1,0 +1,24 @@
+{
+  "billId": 2146846,
+  "billNumber": "S983",
+  "title": "TIPs Tax Deduction",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "895a6eb16b743612ee8d1ff4d201949c",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2026-05-04",
+  "url": "https://legiscan.com/NC/bill/S983/2025",
+  "aiSummary": "This bill allows North Carolina taxpayers to deduct tips from their state income tax calculations. Tips that are already reported to employers would no longer be counted as taxable income for state tax purposes, effective for tax years starting January 1, 2026.",
+  "aiProArguments": "Supporters argue this bill provides tax relief to service industry workers who earn tips, such as servers, bartenders, and delivery drivers, many of whom work in lower-wage jobs. They contend that tips are often barely sufficient to cover living expenses, and this deduction would reduce the tax burden on workers who may struggle financially.",
+  "aiConArguments": "Opponents may argue this deduction reduces state tax revenue that funds public services like education and infrastructure, potentially requiring higher taxes elsewhere or cuts to state programs. They may also question whether a tips deduction is the most equitable way to provide tax relief, since it primarily benefits certain service industry workers while other low-income workers would not receive similar benefits.",
+  "topic": "Taxes & Budget",
+  "textLength": 904,
+  "createdAt": "2026-06-23T03:12:22.343Z",
+  "sponsors": [
+    {"peopleId":25250,"name":"Dana Jones","party":"R","isPrimary":true},
+    {"peopleId":20222,"name":"Todd Johnson","party":"R","isPrimary":true},
+    {"peopleId":25858,"name":"Sophia Chitlik","party":"D","isPrimary":true},
+    {"peopleId":17147,"name":"Gale Adcock","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

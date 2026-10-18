@@ -1,0 +1,32 @@
+{
+  "billId": 2006601,
+  "billNumber": "H408",
+  "title": "Fort Fisher Capital Improvements Funds",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "bdfcf84463708680029fa0363f403a4d",
+  "lastAction": "Ref to the Com on Appropriations, if favorable, Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-03-18",
+  "url": "https://legiscan.com/NC/bill/H408/2025",
+  "aiSummary": "This bill appropriates $869,000 in state funds to complete remaining items for Phase One and Phase Two capital improvements at Fort Fisher State Historic Site, including a visitor center tower sign, interior partitions and doors, gun carriages, and an ammunition magazine for the reconstructed earthworks.",
+  "aiProArguments": "Supporters argue that Fort Fisher is North Carolina's most visited state historic site and deserves completion of its improvement project to better serve visitors and preserve this important Civil War landmark. The additional funding completes work already begun and provides finishing touches like signage, interior fixtures, and historical artifacts that enhance the visitor experience and educational value of the site.",
+  "aiConArguments": "Opponents may question whether $869,000 in additional funding represents poor initial project planning or budget underestimation, and whether these funds could be better allocated to other state priorities or different historic sites. Some may argue the state should require the project to operate within previously appropriated budgets rather than requesting supplemental funding for items that could be added incrementally.",
+  "topic": "Taxes & Budget",
+  "textLength": 2077,
+  "createdAt": "2026-06-23T02:50:37.203Z",
+  "sponsors": [
+    {"peopleId":14613,"name":"Robert Davis","party":"R","isPrimary":true},
+    {"peopleId":18451,"name":"Mary Belk","party":"D","isPrimary":false},
+    {"peopleId":19238,"name":"Deb Butler","party":"D","isPrimary":false},
+    {"peopleId":2044,"name":"Becky Carney","party":"D","isPrimary":false},
+    {"peopleId":20512,"name":"Edward Goodwin","party":"R","isPrimary":false},
+    {"peopleId":2077,"name":"Mary Harrison","party":"D","isPrimary":false},
+    {"peopleId":2086,"name":"Francis Iler","party":"R","isPrimary":false},
+    {"peopleId":22612,"name":"Charles Miller","party":"R","isPrimary":false},
+    {"peopleId":22615,"name":"Howard Penny","party":"R","isPrimary":false},
+    {"peopleId":14633,"name":"Dennis Riddell","party":"R","isPrimary":false},
+    {"peopleId":14634,"name":"Stephen Ross","party":"R","isPrimary":false},
+    {"peopleId":24219,"name":"Bill Ward","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

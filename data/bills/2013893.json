@@ -1,0 +1,23 @@
+{
+  "billId": 2013893,
+  "billNumber": "S519",
+  "title": "Transportation for the Future Act",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "47c3e42e7bf0a01227890cfa35eee8cc",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-26",
+  "url": "https://legiscan.com/NC/bill/S519/2025",
+  "aiSummary": "This bill modernizes North Carolina's transportation funding formula by increasing support for public transit, bicycle, and pedestrian projects while adjusting how highway funds are distributed among statewide, regional, and local projects. It also allows local sales tax referendums specifically for public transportation and updates zoning regulations to support multimodal transportation infrastructure.",
+  "aiProArguments": "Supporters argue this bill addresses North Carolina's transportation needs beyond highways by requiring at least 20% of funds for non-highway projects like transit and bike infrastructure, reducing traffic congestion and emissions. They contend it gives communities flexibility through local sales tax options for transit, promotes sustainable development by updating zoning rules to accommodate transit-oriented infrastructure, and ensures taxpayer dollars support cost-effective multimodal transportation systems that serve economic growth.",
+  "aiConArguments": "Opponents argue the bill reduces highway funding percentages (from 40% to 30% for statewide projects and increases regional projects from 30% to 40%), which may delay critical road repairs and capacity improvements that most North Carolinians rely on daily. They contend the mandatory 20% non-highway allocation could divert resources from rural areas where transit is less viable, and the new local sales tax option for transit may burden residents in counties where public transportation demand is low or already limited.",
+  "topic": "Transportation & Infrastructure",
+  "textLength": 28306,
+  "createdAt": "2026-06-23T03:08:33.019Z",
+  "sponsors": [
+    {"peopleId":16251,"name":"Graig Meyer","party":"D","isPrimary":true},
+    {"peopleId":21633,"name":"Natalie Murdock","party":"D","isPrimary":true},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

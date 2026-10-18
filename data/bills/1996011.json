@@ -1,0 +1,21 @@
+{
+  "billId": 1996011,
+  "billNumber": "S256",
+  "title": "Funeral Board Transportation Agreements/Ins",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "1e79e283c6de550b023843802626dabe",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-11",
+  "url": "https://legiscan.com/NC/bill/S256/2025",
+  "aiSummary": "This bill creates a new category of funeral service agreements called 'transportation protection agreements' and excludes them from existing preneed funeral contract regulations and life insurance requirements. Transportation protection agreements are defined as agreements that arrange professional services for preparing and transporting human remains or cremated remains.",
+  "aiProArguments": "Supporters argue this bill provides necessary regulatory clarity by distinguishing between traditional preneed funeral contracts and simpler transportation arrangement agreements. They contend that transportation protection agreements serve a different purpose than full funeral services and should not be subject to the same complex regulatory requirements, allowing funeral homes to offer these services more efficiently and with less bureaucratic burden.",
+  "aiConArguments": "Opponents may be concerned that creating this new exemption reduces consumer protections for families purchasing transportation services, since these agreements would not be subject to the same disclosure, funding, and insurance requirements as traditional preneed contracts. They argue that removing regulatory oversight could increase the risk of fraud or misuse of consumer funds in a vulnerable population dealing with end-of-life arrangements.",
+  "topic": "Other / General Government",
+  "textLength": 9795,
+  "createdAt": "2026-06-23T03:06:10.325Z",
+  "sponsors": [
+    {"peopleId":20222,"name":"Todd Johnson","party":"R","isPrimary":true}
+  ],
+  "rollCalls": []
+}

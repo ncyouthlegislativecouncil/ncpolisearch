@@ -1,0 +1,22 @@
+{
+  "billId": 2146616,
+  "billNumber": "S939",
+  "title": "Drivers Education Modifications",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "baf01961887648d0a869947f62ba9225",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2026-04-30",
+  "url": "https://legiscan.com/NC/bill/S939/2025",
+  "aiSummary": "This bill requires the Division of Motor Vehicles to provide free printed driver license handbooks to public schools for driver education programs, modifies regulations for commercial driver training schools, extends instructor license renewal periods from 2 to 4 years, and establishes continuing education requirements for instructors. The bill also appropriates $100,000 to the Division of Motor Vehicles to implement these changes.",
+  "aiProArguments": "Supporters argue this bill improves driver education access by ensuring public school students have free handbooks explaining traffic laws and law enforcement procedures. The extended 4-year license renewal period and flexible continuing education options (including online courses and first aid training) reduce administrative burden on instructors and schools while maintaining safety standards through 24 credit hours of education every four years.",
+  "aiConArguments": "Opponents may argue that extending license renewal from 2 to 4 years could reduce oversight frequency of driving instructors, potentially allowing unsafe practices to continue longer before re-evaluation. Others might question whether $100,000 in appropriations is sufficient to cover printing and distribution costs of handbooks statewide, or express concern that online-only continuing education could be less effective than in-person training for maintaining instructor quality.",
+  "topic": "Education",
+  "textLength": 6689,
+  "createdAt": "2026-06-23T03:12:01.777Z",
+  "sponsors": [
+    {"peopleId":11937,"name":"Ralph Hise","party":"R","isPrimary":true},
+    {"peopleId":19669,"name":"Vickie Sawyer","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

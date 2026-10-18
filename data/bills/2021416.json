@@ -1,0 +1,23 @@
+{
+  "billId": 2021416,
+  "billNumber": "H827",
+  "title": "Create Annual Sex Off Registry Fee",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "fe2e7badeae2f155077c57b9d231fd45",
+  "lastAction": "Ref To Com On Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-04-09",
+  "url": "https://legiscan.com/NC/bill/H827/2025",
+  "aiSummary": "This bill creates an annual fee for individuals required to register on North Carolina's sex offense registry. The fee equals 1.25% of the federal poverty level for a single person (approximately $161 in 2025) and would be collected by sheriffs' offices to help fund registry maintenance, verification, and record-keeping. Sheriffs have discretion to decide whether to collect the fee in their county each year, and registrants deemed indigent or currently incarcerated can request a waiver.",
+  "aiProArguments": "Supporters argue this fee helps offset the actual costs counties incur maintaining and updating the sex offense registry, including staff time for verification and record management. They contend that having registrants contribute to these administrative expenses is fair and reduces the burden on general county budgets, while the indigency waiver ensures those unable to pay are protected.",
+  "aiConArguments": "Opponents may argue that adding financial barriers, even with waivers, could discourage registrants from maintaining compliance with registry requirements, potentially undermining public safety goals. They may also express concerns that this fee functions as a punitive tax on individuals who have already served their sentences, and that collection efforts could be costly relative to the modest revenue generated.",
+  "topic": "Criminal Justice & Public Safety",
+  "textLength": 4310,
+  "createdAt": "2026-06-23T02:58:14.516Z",
+  "sponsors": [
+    {"peopleId":25856,"name":"Paul Scott","party":"R","isPrimary":true},
+    {"peopleId":25222,"name":"Blair Eddins","party":"R","isPrimary":false},
+    {"peopleId":14633,"name":"Dennis Riddell","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

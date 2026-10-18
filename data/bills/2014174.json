@@ -1,0 +1,25 @@
+{
+  "billId": 2014174,
+  "billNumber": "S717",
+  "title": "Enhanced Penalty/Dom. Violence Strangulation",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "ecda203ebc8f53c24073b37d5154fd4a",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-26",
+  "url": "https://legiscan.com/NC/bill/S717/2025",
+  "aiSummary": "This bill increases criminal penalties for assault by strangulation in North Carolina. It upgrades assault with serious bodily injury from a Class F felony to a Class E felony, assault with physical injury by strangulation from a Class H felony to a Class G felony, and maintains assault by strangulation as a Class H felony. The changes take effect June 1, 2025.",
+  "aiProArguments": "Supporters argue that strangulation in domestic violence cases is particularly dangerous and often precedes lethal violence, so enhanced penalties are necessary to protect victims and deter offenders. They contend that stronger punishments reflect the severity of strangulation as a crime and send a message that intimate partner violence will be taken seriously by the criminal justice system.",
+  "aiConArguments": "Opponents may argue that increasing felony classifications could lead to harsher sentences that disproportionately affect certain populations and raise concerns about prison overcrowding. They might also question whether enhanced penalties alone effectively reduce domestic violence without accompanying investments in prevention, victim support services, and rehabilitation programs.",
+  "topic": "Criminal Justice & Public Safety",
+  "textLength": 2416,
+  "createdAt": "2026-06-23T03:10:16.856Z",
+  "sponsors": [
+    {"peopleId":25860,"name":"Woodson Bradley","party":"D","isPrimary":true},
+    {"peopleId":20223,"name":"Mujtaba Mohammed","party":"D","isPrimary":true},
+    {"peopleId":20505,"name":"Sydney Batch","party":"D","isPrimary":true},
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

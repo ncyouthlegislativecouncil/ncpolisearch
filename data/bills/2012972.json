@@ -1,0 +1,22 @@
+{
+  "billId": 2012972,
+  "billNumber": "S422",
+  "title": "Marriage/Family Therapy Mods",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "8318bebdca5c65eb362230a5de673919",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-25",
+  "url": "https://legiscan.com/NC/bill/S422/2025",
+  "aiSummary": "This bill modifies North Carolina's marriage and family therapy licensing rules by reducing the required years of out-of-state practice experience from five to two years for reciprocal licensure, requiring applicants to pass North Carolina's jurisprudence exam, and allowing applicants who passed California's clinical examination to qualify instead of the national exam.",
+  "aiProArguments": "Supporters argue this bill makes it easier to recruit and retain qualified marriage and family therapists in North Carolina by streamlining reciprocal licensure requirements, reducing unnecessary barriers for experienced professionals from other states. The shorter experience requirement and alternative examination pathways could help address potential shortages of mental health professionals while still maintaining quality standards through jurisprudence testing and good standing requirements.",
+  "aiConArguments": "Opponents may express concerns that reducing experience requirements from five to two years could lower quality standards or allow less experienced practitioners into the state. Some might argue that accepting California's clinical exam as an alternative to the national exam creates inconsistent qualification standards, or worry that the changes don't adequately ensure therapists are prepared to serve North Carolina's specific population needs.",
+  "topic": "Business & Labor",
+  "textLength": 2244,
+  "createdAt": "2026-06-23T03:07:40.490Z",
+  "sponsors": [
+    {"peopleId":18454,"name":"Kevin Corbin","party":"R","isPrimary":true},
+    {"peopleId":20216,"name":"Jim Burgin","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

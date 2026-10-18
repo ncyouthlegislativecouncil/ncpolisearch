@@ -1,0 +1,26 @@
+{
+  "billId": 1979299,
+  "billNumber": "S134",
+  "title": "Inclusionary Zoning/Workforce Housing Funds",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "89b0f5919129b28d32f31fd721d59580",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2025-02-24",
+  "url": "https://legiscan.com/NC/bill/S134/2025",
+  "aiSummary": "This bill allows local governments in North Carolina to use inclusionary zoning policies to increase affordable housing options. It also appropriates $10 million in state funding to the Housing Finance Agency for a Workforce Housing Loan Program starting July 1, 2025.",
+  "aiProArguments": "Supporters argue this bill addresses North Carolina's affordable housing shortage by giving local governments a tool to require or encourage affordable units in new developments. They contend that inclusionary zoning helps integrate affordable housing into mixed-income communities and that the $10 million loan program funding provides direct financial support for workforce housing, benefiting lower and middle-income workers who struggle with rising housing costs.",
+  "aiConArguments": "Opponents worry that inclusionary zoning requirements may increase development costs and housing prices for all buyers, potentially making overall housing less affordable. They also question whether $10 million in state funding is sufficient to meaningfully address housing needs, and some argue local zoning decisions should not be mandated by state policy, preferring market-based approaches to housing supply.",
+  "topic": "Housing",
+  "textLength": 2299,
+  "createdAt": "2026-06-23T03:05:12.316Z",
+  "sponsors": [
+    {"peopleId":20510,"name":"Terence Everitt","party":"D","isPrimary":true},
+    {"peopleId":25860,"name":"Woodson Bradley","party":"D","isPrimary":true},
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":true},
+    {"peopleId":25858,"name":"Sophia Chitlik","party":"D","isPrimary":false},
+    {"peopleId":22425,"name":"Julie Mayfield","party":"D","isPrimary":false},
+    {"peopleId":22426,"name":"DeAndrea Salvador","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

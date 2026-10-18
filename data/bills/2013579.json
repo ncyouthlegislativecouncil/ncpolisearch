@@ -1,0 +1,25 @@
+{
+  "billId": 2013579,
+  "billNumber": "S455",
+  "title": "Main Street Resilience Act",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "ba4c193d9a090d656149346ed62a6251",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-25",
+  "url": "https://legiscan.com/NC/bill/S455/2025",
+  "aiSummary": "The Main Street Resilience Act allows small business owners to deduct up to $75,000 of net business income from their North Carolina state income taxes (or $150,000 for married couples filing jointly). A small business is defined as independently owned and operated with fewer than 50 employees and annual revenues under $5 million. The tax relief takes effect for the 2026 tax year.",
+  "aiProArguments": "Supporters argue this bill helps small business owners keep more of their earnings, which can be reinvested in their businesses for growth, hiring, and equipment. They contend that small businesses form the backbone of North Carolina communities and often struggle with cash flow, so reducing their tax burden helps them compete with larger corporations and survive economic challenges.",
+  "aiConArguments": "Opponents argue this bill reduces state tax revenue that funds schools, infrastructure, and public services without offsetting spending cuts or new revenue sources. They also raise concerns that the deduction primarily benefits business owners rather than their employees, and question whether $75,000 in tax relief per business owner is the most effective way to support economic development in the state.",
+  "topic": "Taxes & Budget",
+  "textLength": 1673,
+  "createdAt": "2026-06-23T03:08:00.041Z",
+  "sponsors": [
+    {"peopleId":20510,"name":"Terence Everitt","party":"D","isPrimary":true},
+    {"peopleId":25860,"name":"Woodson Bradley","party":"D","isPrimary":true},
+    {"peopleId":24222,"name":"Lisa Grafstein","party":"D","isPrimary":true},
+    {"peopleId":25859,"name":"Caleb Theodros","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

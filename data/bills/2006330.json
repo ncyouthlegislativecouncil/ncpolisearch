@@ -1,0 +1,22 @@
+{
+  "billId": 2006330,
+  "billNumber": "S289",
+  "title": "Funds for the Stagville Memorial Project",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "4c3909dd13651400f521fc92cdb6a113",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2025-03-17",
+  "url": "https://legiscan.com/NC/bill/S289/2025",
+  "aiSummary": "This bill appropriates $237,000 in one-time state funds to The Stagville Memorial Project to design and develop an art installation honoring the history of Stagville descendants. The installation will be located on land across from the Museum of Durham History in Durham, and the funding becomes available July 1, 2025.",
+  "aiProArguments": "Supporters argue this memorial honors an important part of North Carolina's history by recognizing the Stagville descendants and their experiences. The art installation serves an educational purpose by bringing awareness to this community's story to visitors of the Durham museum, and the one-time funding amount is a modest investment in cultural heritage and historical preservation.",
+  "aiConArguments": "Opponents may question whether state general funds should be directed to a specific local memorial project rather than broader statewide needs, or whether this represents the best use of limited public resources. Some may argue that historical commemoration could be funded through private donations, grants, or local sources rather than state appropriations.",
+  "topic": "Taxes & Budget",
+  "textLength": 955,
+  "createdAt": "2026-06-23T03:06:26.067Z",
+  "sponsors": [
+    {"peopleId":21633,"name":"Natalie Murdock","party":"D","isPrimary":true},
+    {"peopleId":25858,"name":"Sophia Chitlik","party":"D","isPrimary":true}
+  ],
+  "rollCalls": []
+}

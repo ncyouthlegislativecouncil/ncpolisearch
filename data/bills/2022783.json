@@ -1,0 +1,32 @@
+{
+  "billId": 2022783,
+  "billNumber": "H956",
+  "title": "Enhance Financial Protections/Older Adults",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "5d36664c4b1eef4b806d6334b162de74",
+  "lastAction": "Re-ref Com On Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-04-29",
+  "url": "https://legiscan.com/NC/bill/H956/2025",
+  "aiSummary": "This bill requires North Carolina financial institutions and payment card processors to report to social services when they observe older adults (65+) or disabled adults exhibiting financially harmful behavior patterns or ceasing communication for six months. During the reporting period, covered entities must waive late fees, penalties, and interest charges on loans or credit extended to these individuals.",
+  "aiProArguments": "Supporters argue this bill protects vulnerable populations from financial exploitation and the consequences of cognitive decline by requiring early intervention from social services. The waived fees and interest during the reporting period prevent financial institutions from profiting while vulnerable adults may be experiencing cognitive impairment, and mandatory reporting ensures someone notifies family or authorities when concerning financial patterns emerge.",
+  "aiConArguments": "Opponents may contend that the reporting requirement could create privacy concerns and unwarranted government intrusion into personal financial decisions, and that financial institutions lack expertise to diagnose cognitive impairment or determine what constitutes \"materially harmful\" behavior. Critics might also worry that waiving fees and interest could reduce financial institutions' incentive to contact or assist struggling customers, and that the vague standard of \"materially harmful behavior\" could lead to inconsistent application and potential over-reporting.",
+  "topic": "Social Services & Welfare",
+  "textLength": 3967,
+  "createdAt": "2026-06-23T02:59:44.458Z",
+  "sponsors": [
+    {"peopleId":22609,"name":"David Willis","party":"R","isPrimary":true},
+    {"peopleId":22608,"name":"Diane Wheatley","party":"R","isPrimary":true},
+    {"peopleId":25845,"name":"Grant Campbell","party":"R","isPrimary":true},
+    {"peopleId":25222,"name":"Blair Eddins","party":"R","isPrimary":true},
+    {"peopleId":18451,"name":"Mary Belk","party":"D","isPrimary":false},
+    {"peopleId":25846,"name":"Mike Colvin","party":"D","isPrimary":false},
+    {"peopleId":14612,"name":"Carla Cunningham","party":"D","isPrimary":false},
+    {"peopleId":2077,"name":"Mary Harrison","party":"D","isPrimary":false},
+    {"peopleId":24206,"name":"Frances Jackson","party":"D","isPrimary":false},
+    {"peopleId":20521,"name":"Carolyn Logan","party":"D","isPrimary":false},
+    {"peopleId":2115,"name":"Garland Pierce","party":"D","isPrimary":false},
+    {"peopleId":24219,"name":"Bill Ward","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

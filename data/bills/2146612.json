@@ -1,0 +1,23 @@
+{
+  "billId": 2146612,
+  "billNumber": "S936",
+  "title": "2026 DST Admin/Technical/Clarifying Changes.-AB",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "4ab79ed618d45226bb79a8fb2c5d2025",
+  "lastAction": "Re-ref to Pensions and Retirement and Aging. If fav, re-ref to Rules and Operations of the Senate",
+  "lastActionDate": "2026-05-04",
+  "url": "https://legiscan.com/NC/bill/S936/2025",
+  "aiSummary": "This bill makes administrative, technical, and clarifying changes to North Carolina's retirement systems and state financial management. Major changes include: allowing military service credit restoration for certain state employees and teachers; protecting contributory death benefits from debt offsets; updating retirement system personnel compensation flexibility; modifying the Legislative Retirement System's reemployment rules; transferring state fund investment authority to the North Carolina Investment Authority; and clarifying various benefits calculations and procedures.",
+  "aiProArguments": "Supporters argue these changes improve administration of state retirement systems by modernizing personnel practices, streamlining fund management, and clarifying existing benefit provisions. The bill allows greater compensation flexibility for specialized retirement system staff, prevents overpayment debts from reducing death benefits for beneficiaries, and restores military service credit for eligible members who previously forfeited it. Transitioning fund management to the North Carolina Investment Authority consolidates investment oversight and may improve efficiency.",
+  "aiConArguments": "Opponents may be concerned about broadened personnel compensation authority without legislative oversight of specific pay decisions, changes to legislative retirement benefit rules that affect General Assembly members, and complexity of numerous technical modifications that could create implementation challenges. Some may question transferring investment responsibilities away from the State Treasurer and whether clarifications to benefit calculations might inadvertently affect retirees' expected benefits.",
+  "topic": "Taxes & Budget",
+  "textLength": 141081,
+  "createdAt": "2026-06-23T03:12:00.362Z",
+  "sponsors": [
+    {"peopleId":14615,"name":"Carl Ford","party":"R","isPrimary":true},
+    {"peopleId":20225,"name":"Ted Alexander","party":"R","isPrimary":true},
+    {"peopleId":20513,"name":"Bobby Hanig","party":"R","isPrimary":true}
+  ],
+  "rollCalls": []
+}

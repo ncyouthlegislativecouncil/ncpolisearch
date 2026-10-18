@@ -1,0 +1,21 @@
+{
+  "billId": 1984317,
+  "billNumber": "S174",
+  "title": "Rutherford Cty/Isothermal CC Construction",
+  "status": "2",
+  "chamber": "S",
+  "changeHash": "709bb4a7a7e15da91307b3e0e62aeb28",
+  "lastAction": "Re-ref Com On Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-06-17",
+  "url": "https://legiscan.com/NC/bill/S174/2025",
+  "aiSummary": "This bill authorizes Rutherford County to construct, renovate, and repair buildings on Isothermal Community College's campuses within the county. The county can finance these projects using county bonds, state appropriations, or other funding sources, and will lease completed buildings to the college under mutually agreed terms.",
+  "aiProArguments": "Supporters argue this bill gives Rutherford County flexibility to address facility needs at Isothermal Community College more quickly and efficiently than traditional state processes allow. By streamlining construction procedures and allowing the county to use various funding sources, the bill may enable faster completion of needed campus improvements and repairs that benefit students and the community.",
+  "aiConArguments": "Opponents may be concerned that exempting county construction from certain state oversight requirements (G.S. 115D-9 and building code provisions) could reduce accountability and standardized safeguards. They might also question whether local funding responsibility is appropriate for a state community college system, or worry about potential conflicts if the county and college disagree on building priorities or lease terms.",
+  "topic": "Education",
+  "textLength": 3276,
+  "createdAt": "2026-06-23T03:05:33.820Z",
+  "sponsors": [
+    {"peopleId":11858,"name":"Timothy Moffitt","party":"R","isPrimary":true}
+  ],
+  "rollCalls": []
+}

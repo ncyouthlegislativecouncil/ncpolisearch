@@ -1,0 +1,23 @@
+{
+  "billId": 2146171,
+  "billNumber": "S873",
+  "title": "Innovations Waiver Tiers",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "08d20edf7ba881075133d1b1edc150d9",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2026-04-29",
+  "url": "https://legiscan.com/NC/bill/S873/2025",
+  "aiSummary": "This bill directs the North Carolina Department of Health and Human Services to develop a plan for a tiered Innovations waiver program to address the waitlist for individuals needing services. The tiered system would offer three benefit levels ($25,000, $75,000, and full waiver benefits) and requires a report back to the legislature by December 1, 2026, with $100,000 allocated for implementation.",
+  "aiProArguments": "Supporters argue this bill addresses a significant problem: many North Carolinians with disabilities and long-term care needs are waiting for the NC Innovations waiver. By creating tiered benefit levels, the state can serve more people with limited resources—some individuals may need fewer services and could be served at lower benefit tiers while others get full benefits. This approach could reduce waitlist times and get people access to needed services faster.",
+  "aiConArguments": "Opponents may be concerned that tiered benefits create unequal access to care based on funding levels rather than actual need, potentially leaving some individuals without adequate support. Some worry that lower-tier benefits ($25,000-$75,000) may not be sufficient for individuals with high support needs, and that the $100,000 appropriation may be insufficient to meaningfully reduce a large waitlist. Additionally, without knowing final details, stakeholders may question whether this approach truly solves the underlying shortage of waiver slots.",
+  "topic": "Social Services & Welfare",
+  "textLength": 1633,
+  "createdAt": "2026-06-23T03:11:28.933Z",
+  "sponsors": [
+    {"peopleId":20216,"name":"Jim Burgin","party":"R","isPrimary":true},
+    {"peopleId":11858,"name":"Timothy Moffitt","party":"R","isPrimary":false},
+    {"peopleId":11862,"name":"Norman Sanderson","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

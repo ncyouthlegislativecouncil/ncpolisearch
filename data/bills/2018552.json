@@ -1,0 +1,33 @@
+{
+  "billId": 2018552,
+  "billNumber": "H689",
+  "title": "Expanding Workforce and Education Act",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "466a25ca4209db1463ed724ea9968012",
+  "lastAction": "Ref To Com On Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-04-03",
+  "url": "https://legiscan.com/NC/bill/H689/2025",
+  "aiSummary": "This bill allows North Carolina high school graduates who meet specific criteria to pay in-state tuition at UNC and community college institutions, even if they are not state residents. Eligible students must graduate from a North Carolina public high school, enroll the following year, have attended NC schools for four consecutive years, and hold a valid NC driver's license or ID and social security number.",
+  "aiProArguments": "Supporters argue this bill addresses North Carolina's workforce shortage by making higher education more affordable and encouraging more graduates to pursue postsecondary credentials. They point to employer difficulty finding skilled workers and economic data suggesting that increased educational attainment would generate hundreds of millions in economic growth for the state.",
+  "aiConArguments": "Opponents may argue this bill could reduce revenue for universities and community colleges by lowering tuition rates for non-resident students, potentially shifting costs to other students or the state budget. Some may also question whether in-state tuition pricing alone addresses barriers to enrollment or whether the criteria effectively target those most in need of assistance.",
+  "topic": "Education",
+  "textLength": 4476,
+  "createdAt": "2026-06-23T02:56:27.216Z",
+  "sponsors": [
+    {"peopleId":24202,"name":"Maria Cervania","party":"D","isPrimary":true},
+    {"peopleId":2077,"name":"Mary Harrison","party":"D","isPrimary":true},
+    {"peopleId":24213,"name":"Lindsey Prather","party":"D","isPrimary":true},
+    {"peopleId":24890,"name":"Eric Ager","party":"D","isPrimary":false},
+    {"peopleId":19238,"name":"Deb Butler","party":"D","isPrimary":false},
+    {"peopleId":22422,"name":"Sarah Crawford","party":"D","isPrimary":false},
+    {"peopleId":25851,"name":"Aisha Dew","party":"D","isPrimary":false},
+    {"peopleId":25844,"name":"Julia Greenfield","party":"D","isPrimary":false},
+    {"peopleId":20515,"name":"Zack Forde-Hawkins","party":"D","isPrimary":false},
+    {"peopleId":24206,"name":"Frances Jackson","party":"D","isPrimary":false},
+    {"peopleId":25849,"name":"Monika Johnson-Hostler","party":"D","isPrimary":false},
+    {"peopleId":20522,"name":"Nasif Majeed","party":"D","isPrimary":false},
+    {"peopleId":19360,"name":"Marcia Morey","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

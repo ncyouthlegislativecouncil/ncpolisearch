@@ -1,0 +1,24 @@
+{
+  "billId": 2022830,
+  "billNumber": "H964",
+  "title": "CCW Permit/Allow Carry of Other Weapons",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "4cd0d6cb0f714d76f1f601d764cc8a6d",
+  "lastAction": "Ref To Com On Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-04-14",
+  "url": "https://legiscan.com/NC/bill/H964/2025",
+  "aiSummary": "This bill allows people who have a concealed handgun permit to also carry other concealed weapons like knives, brass knuckles, and stun guns, as long as these weapons are not carried in places where concealed handguns are already prohibited by law. The bill takes effect December 1, 2025.",
+  "aiProArguments": "Supporters argue this bill provides consistency in weapon regulations by allowing permit holders who are already vetted and trusted with concealed handguns to carry other defensive weapons under the same rules. They contend that if someone qualifies for a handgun permit, they should have similar rights regarding other self-defense tools, and the bill maintains safety by still prohibiting these weapons in restricted locations.",
+  "aiConArguments": "Opponents express concerns that expanding concealed weapon permits to include items like brass knuckles, dirks, and other bladed weapons increases public safety risks and the potential for violent confrontations. They argue that weapons like brass knuckles and daggers are designed primarily for close-range assault rather than self-defense, and that the bill removes restrictions that were in place to protect public safety without strong justification.",
+  "topic": "Criminal Justice & Public Safety",
+  "textLength": 2498,
+  "createdAt": "2026-06-23T02:59:50.666Z",
+  "sponsors": [
+    {"peopleId":25843,"name":"Brian Echevarria","party":"R","isPrimary":true},
+    {"peopleId":24212,"name":"Joe Pike","party":"R","isPrimary":true},
+    {"peopleId":22613,"name":"Ben Moss","party":"R","isPrimary":true},
+    {"peopleId":20519,"name":"Keith Kidwell","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

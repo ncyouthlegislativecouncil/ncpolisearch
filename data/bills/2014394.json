@@ -1,0 +1,24 @@
+{
+  "billId": 2014394,
+  "billNumber": "S617",
+  "title": "Accessing Certified Professional Midwives Act",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "35f48bfbf47421a679b2b022692349cb",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-26",
+  "url": "https://legiscan.com/NC/bill/S617/2025",
+  "aiSummary": "This bill creates a new state licensing system for Certified Professional Midwives (CPMs) in North Carolina. It establishes a Council to oversee CPM licensure, sets educational and certification requirements, defines the scope of midwifery practice, and outlines disciplinary procedures for licensed midwives.",
+  "aiProArguments": "Supporters argue this bill increases access to midwifery care, particularly in underserved areas, and provides consumers with qualified, regulated midwives who meet national certification standards. They contend that formal licensing protects public safety by establishing clear standards, requiring emergency training, mandating collaboration with physicians when needed, and creating oversight mechanisms to investigate complaints and discipline misconduct.",
+  "aiConArguments": "Opponents may express concerns about liability protections granted to health care providers and facilities that work with CPMs, questioning whether this adequately protects patients if complications arise. Some may also worry about whether the scope of practice is too broad, the adequacy of physician oversight requirements, or whether the regulatory structure sufficiently ensures coordination between CPMs and traditional obstetric care providers.",
+  "topic": "Healthcare",
+  "textLength": 19361,
+  "createdAt": "2026-06-23T03:09:21.855Z",
+  "sponsors": [
+    {"peopleId":20216,"name":"Jim Burgin","party":"R","isPrimary":true},
+    {"peopleId":21633,"name":"Natalie Murdock","party":"D","isPrimary":true},
+    {"peopleId":25858,"name":"Sophia Chitlik","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

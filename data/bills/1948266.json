@@ -1,0 +1,21 @@
+{
+  "billId": 1948266,
+  "billNumber": "S28",
+  "title": "39th Senatorial District Local Act-1",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "401380da03d87ee9613254394beef60c",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-02-03",
+  "url": "https://legiscan.com/NC/bill/S28/2025",
+  "aiSummary": "This is a local bill that applies only to the 39th Senatorial District in North Carolina. The bill text provided does not specify what changes or actions it actually implements—it only establishes that the legislation applies to this specific district and becomes effective upon passage.",
+  "aiProArguments": "Supporters of local bills argue they allow the legislature to address specific issues affecting a particular district without imposing statewide requirements. Local acts enable tailored solutions for regional concerns and can be passed more efficiently when they only impact one area's constituents.",
+  "aiConArguments": "Opponents of local bills raise concerns about transparency and fairness, arguing that legislation affecting only one district may receive less public scrutiny than statewide bills. Without seeing the actual provisions, it's difficult to assess whether this represents special treatment for one district or creates inconsistencies in state law across different regions.",
+  "topic": "Local Government",
+  "textLength": 508,
+  "createdAt": "2026-06-23T03:04:17.664Z",
+  "sponsors": [
+    {"peopleId":22426,"name":"DeAndrea Salvador","party":"D","isPrimary":true}
+  ],
+  "rollCalls": []
+}

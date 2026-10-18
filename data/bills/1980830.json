@@ -1,0 +1,22 @@
+{
+  "billId": 1980830,
+  "billNumber": "S141",
+  "title": "Funds for the Males Place",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "9303cf39d55469c27c47b5e8ef865bf4",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2025-02-25",
+  "url": "https://legiscan.com/NC/bill/S141/2025",
+  "aiSummary": "This bill appropriates $75,000 in state funds for the 2025-2026 fiscal year to The Males Place, Inc., a Charlotte-based organization that provides weekly mentoring programs for African American boys ages 12-18. The funds are nonrecurring, meaning they are one-time appropriations rather than ongoing budget allocations.",
+  "aiProArguments": "Supporters argue that mentoring programs for young African American males address documented disparities in academic achievement, graduation rates, and youth outcomes. They contend that targeted funding helps expand access to positive role models and structured support for vulnerable youth populations, potentially reducing dropout rates and improving long-term life outcomes in an underserved community.",
+  "aiConArguments": "Opponents may question whether directed grants to specific organizations represent the most efficient use of state funds, or whether such mentoring services could be better provided through existing community programs or schools. Some may argue about the appropriateness of race-based funding allocations or express concerns about accountability measures ensuring the funds achieve their intended outcomes.",
+  "topic": "Social Services & Welfare",
+  "textLength": 830,
+  "createdAt": "2026-06-23T03:05:15.930Z",
+  "sponsors": [
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":true},
+    {"peopleId":20223,"name":"Mujtaba Mohammed","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

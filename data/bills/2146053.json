@@ -1,0 +1,25 @@
+{
+  "billId": 2146053,
+  "billNumber": "S853",
+  "title": "Create Dept. of Housing and Comm. Development",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "ffac0496a8c0eaf68f834d3044fd2a5d",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2026-04-29",
+  "url": "https://legiscan.com/NC/bill/S853/2025",
+  "aiSummary": "This bill creates a new cabinet-level Department of Housing and Community Development in North Carolina state government. The department would be organized into four divisions (Operations, Community Development, Housing, and Policy/Legislative) with a mission focused on housing production, community revitalization, broadband expansion, and assistance to low- to moderate-income residents. The bill appropriates $30 million in recurring annual funding starting in fiscal year 2026-2027.",
+  "aiProArguments": "Supporters argue that consolidating housing and community development functions into a single cabinet-level department will improve coordination, eliminate redundancies across multiple agencies, and give housing issues higher priority in state government. They contend that a dedicated department with focused leadership and adequate funding can more effectively address North Carolina's housing shortages, support community economic development, and respond to disaster resilience needs.",
+  "aiConArguments": "Opponents may argue that creating a new cabinet department increases government bureaucracy and administrative overhead rather than solving underlying problems. They might also express concerns about the $30 million annual cost, question whether consolidating existing programs into a new structure actually improves outcomes, or worry that establishing another government agency dilutes accountability rather than clarifying it.",
+  "topic": "Housing",
+  "textLength": 5554,
+  "createdAt": "2026-06-23T03:11:18.122Z",
+  "sponsors": [
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":true},
+    {"peopleId":25858,"name":"Sophia Chitlik","party":"D","isPrimary":false},
+    {"peopleId":21633,"name":"Natalie Murdock","party":"D","isPrimary":false},
+    {"peopleId":25859,"name":"Caleb Theodros","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

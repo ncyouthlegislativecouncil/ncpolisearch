@@ -1,0 +1,29 @@
+{
+  "billId": 2013961,
+  "billNumber": "S534",
+  "title": "Capital Project Funding at NCA&T/WSSU",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "27bb855d13a53ba1bc525153c9149649",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2025-03-26",
+  "url": "https://legiscan.com/NC/bill/S534/2025",
+  "aiSummary": "This bill appropriates $237.5 million in state capital funding for two major building projects: $125 million for an Agricultural Research Classroom at North Carolina A&T State University and $112.5 million for a Health, Physical Education, and Recreation Complex at Winston-Salem State University. The funds come from the State Capital and Infrastructure Fund and become available starting July 1, 2025.",
+  "aiProArguments": "Supporters argue this funding addresses critical infrastructure needs at two historically black universities, enabling them to modernize facilities, improve student learning environments, and enhance their competitive position among peer institutions. They contend these investments support economic development, workforce training in agriculture and health sciences, and provide long-term benefits to the universities' communities.",
+  "aiConArguments": "Opponents may question whether $237.5 million in capital spending is fiscally responsible given other state budget priorities, and whether these specific projects represent the most urgent needs across the university system. Some may argue the funds could address more pressing statewide infrastructure gaps or that the allocation process should involve broader competitive review rather than directing funds to only these two institutions.",
+  "topic": "Taxes & Budget",
+  "textLength": 1401,
+  "createdAt": "2026-06-23T03:08:39.821Z",
+  "sponsors": [
+    {"peopleId":12032,"name":"Gladys Robinson","party":"D","isPrimary":true},
+    {"peopleId":17457,"name":"Paul Lowe","party":"D","isPrimary":true},
+    {"peopleId":2033,"name":"Daniel Blue","party":"D","isPrimary":true},
+    {"peopleId":20223,"name":"Mujtaba Mohammed","party":"D","isPrimary":false},
+    {"peopleId":21633,"name":"Natalie Murdock","party":"D","isPrimary":false},
+    {"peopleId":22426,"name":"DeAndrea Salvador","party":"D","isPrimary":false},
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":false},
+    {"peopleId":25859,"name":"Caleb Theodros","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

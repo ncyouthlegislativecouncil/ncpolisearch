@@ -1,0 +1,27 @@
+{
+  "billId": 2147090,
+  "billNumber": "H1201",
+  "title": "Youth Placement Study",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "6a6430b276ef568d1622dec39a912fc7",
+  "lastAction": "Ref to the Com on Appropriations, if favorable, Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2026-05-05",
+  "url": "https://legiscan.com/NC/bill/H1201/2025",
+  "aiSummary": "This bill establishes a temporary pilot program through the Department of Health and Human Services to place high-need youth in lower-level care settings with support services instead of psychiatric residential treatment facilities, and directs the department to study reforms to licensure requirements and youth placement practices. The study is due by October 1, 2026, and the program receives $100,000 in funding.",
+  "aiProArguments": "Supporters argue this bill addresses a critical gap in youth mental health services by providing therapeutic alternatives when psychiatric facilities are full, keeping vulnerable youth out of emergency rooms and social service offices. The bill also streamlines provider licensing to reduce delays that prevent qualified facilities from opening, while the study component examines ways to improve outcomes for youth transitioning from out-of-state placements back to North Carolina care.",
+  "aiConArguments": "Opponents may be concerned that temporary, less rigorous licensure approval could compromise safety standards or quality of care before full compliance verification occurs. Others might worry that clinical exception pathways and liability protections for providers could reduce accountability, or that the study's scope on reducing admission requirements could lower the bar for who provides youth mental health services.",
+  "topic": "Healthcare",
+  "textLength": 3646,
+  "createdAt": "2026-06-23T03:03:23.536Z",
+  "sponsors": [
+    {"peopleId":24199,"name":"Kanika Brown","party":"D","isPrimary":true},
+    {"peopleId":22599,"name":"Amber Baker","party":"D","isPrimary":true},
+    {"peopleId":19238,"name":"Deb Butler","party":"D","isPrimary":false},
+    {"peopleId":24202,"name":"Maria Cervania","party":"D","isPrimary":false},
+    {"peopleId":25844,"name":"Julia Greenfield","party":"D","isPrimary":false},
+    {"peopleId":2077,"name":"Mary Harrison","party":"D","isPrimary":false},
+    {"peopleId":22606,"name":"James Roberson","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

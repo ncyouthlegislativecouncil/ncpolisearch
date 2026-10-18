@@ -1,0 +1,22 @@
+{
+  "billId": 2146875,
+  "billNumber": "S951",
+  "title": "Critical Funds for North Mecklenburg",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "e5ce125596b21045442f92076829ef28",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2026-05-04",
+  "url": "https://legiscan.com/NC/bill/S951/2025",
+  "aiSummary": "This bill appropriates $34.44 million in state funds for the 2026-2027 fiscal year to support emergency services, public safety infrastructure, and affordable housing projects in three North Mecklenburg communities: Davidson, Cornelius, and the Lake Norman area. The funds are designated for fire stations, emergency vehicles, police equipment, pedestrian safety improvements, recreation facilities, and affordable housing development.",
+  "aiProArguments": "Supporters argue this bill addresses critical infrastructure needs in growing North Mecklenburg communities, enabling them to improve emergency response capabilities, enhance public safety, and address affordable housing shortages. Proponents contend these investments support economic development, improve quality of life for residents, and help communities accommodate population growth through better facilities and services.",
+  "aiConArguments": "Opponents may question whether these directed grants to specific communities represent the best use of state resources and whether they follow standard budget processes that prioritize statewide needs equitably. Concerns could include whether local governments should fund these projects through local bonds or revenues rather than state appropriations, and whether other regions of North Carolina with similar needs are being overlooked.",
+  "topic": "Taxes & Budget",
+  "textLength": 3225,
+  "createdAt": "2026-06-23T03:12:08.507Z",
+  "sponsors": [
+    {"peopleId":20223,"name":"Mujtaba Mohammed","party":"D","isPrimary":true},
+    {"peopleId":25859,"name":"Caleb Theodros","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

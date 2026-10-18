@@ -1,0 +1,25 @@
+{
+  "billId": 2014109,
+  "billNumber": "S642",
+  "title": "SAVE Students Act",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "798bb84d6bbd3f227a4ff46108f5c191",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-26",
+  "url": "https://legiscan.com/NC/bill/S642/2025",
+  "aiSummary": "The SAVE Students Act requires all public school students in grades 6-12 to receive two hours of annual training on suicide awareness, violence prevention, and social inclusion using evidence-based programs. School employees must receive one hour of annual training on suicide and violence prevention, and schools must adopt mental health plans and allow student-led safety clubs.",
+  "aiProArguments": "Supporters argue this bill addresses rising youth suicide and violence rates by equipping students and staff to recognize warning signs and respond appropriately. They contend that evidence-based training can save lives by teaching students to identify peers in crisis, know how to get help, and create more inclusive school environments that reduce isolation and bullying.",
+  "aiConArguments": "Opponents may express concerns about implementation costs and teacher workload, particularly the requirement for annual training hours. Some may question whether mandated training effectively changes student behavior or if parental concerns about curriculum content and opt-out procedures are adequately addressed, though the bill does allow parents to request their child be excused from training.",
+  "topic": "Education",
+  "textLength": 7607,
+  "createdAt": "2026-06-23T03:09:36.801Z",
+  "sponsors": [
+    {"peopleId":17457,"name":"Paul Lowe","party":"D","isPrimary":true},
+    {"peopleId":20513,"name":"Bobby Hanig","party":"R","isPrimary":true},
+    {"peopleId":25860,"name":"Woodson Bradley","party":"D","isPrimary":false},
+    {"peopleId":12032,"name":"Gladys Robinson","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

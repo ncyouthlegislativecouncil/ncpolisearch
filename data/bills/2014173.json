@@ -1,0 +1,28 @@
+{
+  "billId": 2014173,
+  "billNumber": "S647",
+  "title": "The Child Promise Act",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "2fd2e07833631bb0ede816f691f9fdd5",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-26",
+  "url": "https://legiscan.com/NC/bill/S647/2025",
+  "aiSummary": "The Child Promise Act is a comprehensive early childhood education and childcare investment package that appropriates approximately $168 million over three years to expand pre-K programs, increase childcare subsidies and affordability, strengthen the childcare workforce through education and retention programs, and improve childcare infrastructure across North Carolina.",
+  "aiProArguments": "Supporters argue this bill addresses critical workforce challenges by enabling more parents—especially working families—to afford quality childcare and early education, which they contend improves child development outcomes and school readiness. They point to investments in workforce compensation, scholarships, and apprenticeships as necessary to reduce childcare worker turnover and improve service quality, while expansion of pre-K slots and subsidies helps low- and middle-income families access educational opportunities regardless of geography or income level.",
+  "aiConArguments": "Opponents may argue the bill represents significant state spending during uncertain budget conditions and requires ongoing recurring appropriations that could strain future state budgets. Some may question whether the subsidies and programs represent the most efficient use of state resources, whether private market solutions should be prioritized, or whether the income eligibility thresholds (up to 300% of federal poverty level) are appropriately targeted to those most in need.",
+  "topic": "Education",
+  "textLength": 17118,
+  "createdAt": "2026-06-23T03:09:39.895Z",
+  "sponsors": [
+    {"peopleId":20220,"name":"Michael Garrett","party":"D","isPrimary":true},
+    {"peopleId":20510,"name":"Terence Everitt","party":"D","isPrimary":true},
+    {"peopleId":22426,"name":"DeAndrea Salvador","party":"D","isPrimary":true},
+    {"peopleId":25860,"name":"Woodson Bradley","party":"D","isPrimary":false},
+    {"peopleId":17936,"name":"Jay Chaudhuri","party":"D","isPrimary":false},
+    {"peopleId":21633,"name":"Natalie Murdock","party":"D","isPrimary":false},
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

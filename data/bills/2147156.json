@@ -1,0 +1,28 @@
+{
+  "billId": 2147156,
+  "billNumber": "H1208",
+  "title": "Community Safety Risk Protection Act",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "ef7e3bfd5ee822d2c9e502dd382b6f69",
+  "lastAction": "Ref To Com On Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2026-05-05",
+  "url": "https://legiscan.com/NC/bill/H1208/2025",
+  "aiSummary": "This bill creates two new firearm restriction mechanisms in North Carolina. First, it requires people subject to civil no-contact orders to surrender firearms to the sheriff if the court finds certain risk factors (such as threats of violence or suicide). Second, it establishes Individual Risk Protection Orders (IRPOs) that allow law enforcement, judges, doctors, and family members to petition courts to temporarily restrict a person's firearm access if they pose a danger to themselves or others, with safeguards including hearings and the ability to retrieve weapons after the order expires.",
+  "aiProArguments": "Supporters argue this bill protects public safety by removing firearms from people in dangerous situations, such as those involved in domestic violence or experiencing mental health crises. They contend that the bill includes due process protections like hearings, evidence standards, and appeals processes, and that allowing multiple groups (law enforcement, healthcare providers, family members) to file petitions helps identify at-risk individuals early. Proponents also note that the bill respects constitutional rights by being temporary, having clear renewal standards, and allowing firearm retrieval once the danger passes.",
+  "aiConArguments": "Opponents worry the bill infringes on Second Amendment rights by removing firearms based on civil rather than criminal proceedings, potentially affecting innocent people. They raise concerns about the IRPO standard of 'danger of physical harm,' which they argue is vague and could be applied too broadly, and about false petitions filed by former partners or estranged family members. Critics also question whether healthcare providers or distant family members have adequate information to assess genuine danger, and note that firearms dealers may charge high storage fees that effectively prevent retrieval.",
+  "topic": "Criminal Justice & Public Safety",
+  "textLength": 51210,
+  "createdAt": "2026-06-23T03:03:29.484Z",
+  "sponsors": [
+    {"peopleId":24200,"name":"Laura Budd","party":"D","isPrimary":true},
+    {"peopleId":19238,"name":"Deb Butler","party":"D","isPrimary":false},
+    {"peopleId":25213,"name":"Tracy Clark","party":"D","isPrimary":false},
+    {"peopleId":25844,"name":"Julia Greenfield","party":"D","isPrimary":false},
+    {"peopleId":2077,"name":"Mary Harrison","party":"D","isPrimary":false},
+    {"peopleId":25850,"name":"Jordan Lopez","party":"D","isPrimary":false},
+    {"peopleId":19360,"name":"Marcia Morey","party":"D","isPrimary":false},
+    {"peopleId":22606,"name":"James Roberson","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

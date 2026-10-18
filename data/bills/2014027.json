@@ -1,0 +1,27 @@
+{
+  "billId": 2014027,
+  "billNumber": "S566",
+  "title": "Parity Enhancement for Addiction Recovery",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "b5e15e0a103273be8304cabe9ff03399",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-26",
+  "url": "https://legiscan.com/NC/bill/S566/2025",
+  "aiSummary": "This bill updates North Carolina insurance laws to align with federal mental health parity requirements and enhance coverage for substance use disorders. It requires health insurance plans to cover mental health conditions, including addiction treatment, with the same terms and conditions as physical health care, and mandates that medical necessity decisions for substance use treatment be based on established addiction medicine criteria rather than insurer discretion.",
+  "aiProArguments": "Supporters argue this bill ensures people struggling with addiction receive fair insurance coverage equivalent to physical health treatment, reducing barriers to recovery. They contend that requiring insurers to use standardized addiction medicine criteria for treatment decisions improves care quality, prevents arbitrary denials, and aligns North Carolina with federal law and modern medical standards for treating substance use disorders.",
+  "aiConArguments": "Opponents may argue that mandating specific addiction medicine criteria and limiting insurer discretion could increase insurance costs, which may be passed to consumers through higher premiums. They might also contend that standardized placement criteria could reduce flexibility for individualized treatment decisions or that compliance requirements place additional regulatory burden on insurers and health plans.",
+  "topic": "Healthcare",
+  "textLength": 9472,
+  "createdAt": "2026-06-23T03:08:56.037Z",
+  "sponsors": [
+    {"peopleId":16251,"name":"Graig Meyer","party":"D","isPrimary":true},
+    {"peopleId":17147,"name":"Gale Adcock","party":"D","isPrimary":true},
+    {"peopleId":20505,"name":"Sydney Batch","party":"D","isPrimary":true},
+    {"peopleId":25858,"name":"Sophia Chitlik","party":"D","isPrimary":false},
+    {"peopleId":22425,"name":"Julie Mayfield","party":"D","isPrimary":false},
+    {"peopleId":20223,"name":"Mujtaba Mohammed","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

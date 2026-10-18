@@ -1,0 +1,25 @@
+{
+  "billId": 2014015,
+  "billNumber": "S678",
+  "title": "Onsite Childcare for State Employees Act",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "68fd1afe30e7c12a746098cdec2393f9",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2025-03-26",
+  "url": "https://legiscan.com/NC/bill/S678/2025",
+  "aiSummary": "This bill requires the state to study using empty or underutilized state buildings for childcare facilities for state employees and establishes a pilot program to contract with private childcare providers to operate three childcare centers on state property. It also requires that future state building projects over $5 million with more than 250 employees include an onsite childcare or adult daycare center, unless it would delay the project by six months or increase costs by 10% or more.",
+  "aiProArguments": "Supporters argue this bill helps state employees by providing affordable, accessible childcare, which reduces work absences and improves employee retention and productivity. They contend that repurposing empty state buildings is cost-efficient use of existing resources, and the apprenticeship requirement creates training opportunities in early childhood education while addressing workforce shortages in that field.",
+  "aiConArguments": "Opponents may question whether $5 million in state funding is the best use of limited taxpayer resources, especially if pilot enrollment is low or operating costs exceed projections. They might argue that childcare is a private responsibility and worry about the state competing with private childcare providers, and express concerns about the quality and long-term viability of centers housed in repurposed buildings that may require expensive asbestos or lead remediation.",
+  "topic": "Social Services & Welfare",
+  "textLength": 5644,
+  "createdAt": "2026-06-23T03:09:56.805Z",
+  "sponsors": [
+    {"peopleId":25858,"name":"Sophia Chitlik","party":"D","isPrimary":true},
+    {"peopleId":17936,"name":"Jay Chaudhuri","party":"D","isPrimary":true},
+    {"peopleId":25860,"name":"Woodson Bradley","party":"D","isPrimary":false},
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

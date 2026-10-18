@@ -1,0 +1,25 @@
+{
+  "billId": 1958638,
+  "billNumber": "S62",
+  "title": "Nonprofit Fundraising Sales Tax Exemption",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "5db80ad14ab3bb9633cf8f4b2fe081e6",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-02-10",
+  "url": "https://legiscan.com/NC/bill/S62/2025",
+  "aiSummary": "This bill expands sales tax exemptions for nonprofit organizations by allowing certain 501(c)(3) nonprofits to purchase goods and services without paying sales tax, and exempts admission charges for nonprofit fundraising events from entertainment tax. The bill sets annual caps on the total tax exemptions ($31.7 million statewide and $13.3 million for local taxes) and establishes an application process for nonprofits to obtain exemption certificates.",
+  "aiProArguments": "Supporters argue this bill reduces operational costs for qualifying nonprofits, allowing them to redirect more resources toward their charitable missions and community services. They contend that nonprofits provide essential services in healthcare, education, disaster relief, and social services, and deserve tax relief similar to other tax-exempt entities. The exemption for fundraising events helps nonprofits raise money more efficiently by eliminating the entertainment tax on admission charges.",
+  "aiConArguments": "Opponents worry this bill reduces state and local tax revenue needed for public services, potentially shifting costs to individual taxpayers. They raise concerns about the broad scope of eligible nonprofits and question whether the annual caps ($31.7 million) are sufficient to prevent significant revenue loss. Some argue the exemption for fundraising events could be exploited and that nonprofits already receive tax exemptions on their property and income, making additional sales tax breaks unnecessary.",
+  "topic": "Taxes & Budget",
+  "textLength": 11572,
+  "createdAt": "2026-06-23T03:04:34.533Z",
+  "sponsors": [
+    {"peopleId":20216,"name":"Jim Burgin","party":"R","isPrimary":true},
+    {"peopleId":17457,"name":"Paul Lowe","party":"D","isPrimary":false},
+    {"peopleId":20223,"name":"Mujtaba Mohammed","party":"D","isPrimary":false},
+    {"peopleId":12032,"name":"Gladys Robinson","party":"D","isPrimary":false},
+    {"peopleId":25859,"name":"Caleb Theodros","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

@@ -1,0 +1,28 @@
+{
+  "billId": 2014168,
+  "billNumber": "S646",
+  "title": "Make NC Insurrection-Free",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "6de7cd93c353b158bbc628b4f3334bbf",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-26",
+  "url": "https://legiscan.com/NC/bill/S646/2025",
+  "aiSummary": "This bill would make people ineligible for employment with North Carolina state government if they were convicted of January 6-related offenses, received a pardon for January 6 actions, were found by a court to have engaged in insurrection under the 14th Amendment, or have clear evidence of participating in efforts to disrupt the peaceful transfer of power or attack democratic institutions. The bill applies to new hires starting July 1, 2025, and to current employees if disqualifying conduct is discovered, with procedural protections including notice, hearings, and written decisions.",
+  "aiProArguments": "Supporters argue this bill protects the integrity of state government by ensuring public employees are committed to constitutional democracy and the rule of law. They contend that people who participated in efforts to overturn election results or disrupt the Capitol are fundamentally unfit for public service positions of trust. Supporters also note the bill includes procedural safeguards like hearings and the opportunity to present evidence before employment decisions are made.",
+  "aiConArguments": "Opponents may argue the bill's definition of \"infamous or disgraceful conduct\" is vague and could be applied too broadly beyond actual January 6 participants, raising concerns about due process and free speech rights. They might contend that excluding people based on political conduct, even controversial conduct, sets a precedent for politicizing state employment and that \"clear and convincing evidence\" standards for conduct findings could be subject to subjective interpretation. Some may also question whether state employment restrictions are an appropriate response when federal criminal justice processes already address these matters.",
+  "topic": "Local Government",
+  "textLength": 4429,
+  "createdAt": "2026-06-23T03:09:39.511Z",
+  "sponsors": [
+    {"peopleId":20220,"name":"Michael Garrett","party":"D","isPrimary":true},
+    {"peopleId":20510,"name":"Terence Everitt","party":"D","isPrimary":true},
+    {"peopleId":12032,"name":"Gladys Robinson","party":"D","isPrimary":true},
+    {"peopleId":24220,"name":"Val Applewhite","party":"D","isPrimary":false},
+    {"peopleId":25860,"name":"Woodson Bradley","party":"D","isPrimary":false},
+    {"peopleId":21633,"name":"Natalie Murdock","party":"D","isPrimary":false},
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

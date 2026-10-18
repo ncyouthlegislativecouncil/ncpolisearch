@@ -1,0 +1,22 @@
+{
+  "billId": 2147054,
+  "billNumber": "S1039",
+  "title": "Construction Inspection Efficiency Act",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "47115ba23a3fa111c09cc3bb9a2b2a76",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2026-05-04",
+  "url": "https://legiscan.com/NC/bill/S1039/2025",
+  "aiSummary": "This bill creates a system for certified private construction inspectors to conduct building inspections when local inspection departments fail to inspect within 10 business days or miss an agreed-upon deadline. It establishes qualification standards, registration requirements, and procedures for private inspectors while preserving local government oversight of zoning, utilities, and fire safety systems.",
+  "aiProArguments": "Supporters argue this bill addresses inspection delays that slow construction projects and increase costs for builders and property owners. By allowing qualified private inspectors when local departments are backlogged, the bill reduces project timelines while maintaining code compliance through certification requirements and conflict-of-interest protections. The bill also includes fee credits when inspections are performed privately, protecting consumers from paying twice.",
+  "aiConArguments": "Opponents may worry that private inspectors could have conflicts of interest despite the bill's safeguards, potentially approving substandard work to maintain client relationships. They may also argue that this shifts costs to private citizens rather than addressing local government funding issues, and that private inspectors may have less accountability than government employees. Some may be concerned about reduced local control over building standards and enforcement.",
+  "topic": "Local Government",
+  "textLength": 80805,
+  "createdAt": "2026-06-23T03:12:52.552Z",
+  "sponsors": [
+    {"peopleId":17936,"name":"Jay Chaudhuri","party":"D","isPrimary":true},
+    {"peopleId":17504,"name":"Michael Lee","party":"R","isPrimary":true}
+  ],
+  "rollCalls": []
+}

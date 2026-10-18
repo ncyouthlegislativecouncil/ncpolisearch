@@ -1,0 +1,23 @@
+{
+  "billId": 1963519,
+  "billNumber": "H82",
+  "title": "Study Commission for LEA Size",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "7059a715cdd746c8e5c8ead8df66ae68",
+  "lastAction": "Re-ref Com On Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-03-04",
+  "url": "https://legiscan.com/NC/bill/H82/2025",
+  "aiSummary": "This bill creates a study commission to examine whether North Carolina's five largest school districts experience negative outcomes because of their size and to recommend solutions. The nine-member commission, composed of legislators, school board members, and Department of Public Instruction representatives, will report its findings and recommendations to the General Assembly by 2026.",
+  "aiProArguments": "Supporters argue that very large school districts may face unique challenges in management, student services, and academic outcomes that smaller districts do not experience. By studying these five largest districts specifically, the commission can identify whether size is causing problems and develop targeted solutions that could improve educational quality and efficiency in these systems.",
+  "aiConArguments": "Opponents may question whether creating a formal study commission is the most efficient use of resources, noting that school districts already conduct their own analyses. Some may also be concerned that the study's predetermined focus on the five largest districts could bias findings or that recommendations might lead to costly district reorganization efforts without clear evidence of problems caused specifically by size.",
+  "topic": "Education",
+  "textLength": 5558,
+  "createdAt": "2026-06-23T02:40:32.419Z",
+  "sponsors": [
+    {"peopleId":14624,"name":"Donny Lambeth","party":"R","isPrimary":true},
+    {"peopleId":22611,"name":"Jeff Zenger","party":"R","isPrimary":true},
+    {"peopleId":21375,"name":"Jeffrey McNeely","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

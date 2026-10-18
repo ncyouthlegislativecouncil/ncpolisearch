@@ -1,0 +1,22 @@
+{
+  "billId": 1992928,
+  "billNumber": "H312",
+  "title": "Funds/Madison County Courthouse Relocation",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "d0a258f15d114b391785d9ed674cf681",
+  "lastAction": "Ref to the Com on Appropriations, if favorable, Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-03-10",
+  "url": "https://legiscan.com/NC/bill/H312/2025",
+  "aiSummary": "This bill appropriates $80 million in state funds to Madison County to help relocate its courthouse, which was severely damaged by Hurricane Helene, to a location outside the floodplain. The funds would be available starting July 1, 2025.",
+  "aiProArguments": "Supporters argue this bill addresses critical infrastructure damage from a natural disaster and helps Madison County recover. They contend that moving the courthouse out of the floodplain reduces future flood risk and protects an important government facility, making the county more resilient and ensuring continuity of court operations and judicial services.",
+  "aiConArguments": "Opponents may argue that $80 million is a significant state expenditure that could strain the General Fund and limit resources for other priorities. Some may question whether state funds should cover what could be addressed through federal disaster relief, insurance, or whether the county should contribute to relocation costs rather than receiving full state funding.",
+  "topic": "Taxes & Budget",
+  "textLength": 1003,
+  "createdAt": "2026-06-23T02:48:04.293Z",
+  "sponsors": [
+    {"peopleId":22617,"name":"Mark Pless","party":"R","isPrimary":true},
+    {"peopleId":17149,"name":"Brian Turner","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

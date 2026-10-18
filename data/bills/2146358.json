@@ -1,0 +1,21 @@
+{
+  "billId": 2146358,
+  "billNumber": "S932",
+  "title": "Winston-Salem/Forsyth Co. Planning & Zoning",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "806b31a07a3b44ab62dffa0118174363",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2026-04-30",
+  "url": "https://legiscan.com/NC/bill/S932/2025",
+  "aiSummary": "This bill allows the City of Winston-Salem to delegate rezoning authority to the joint City-County Planning Board, while keeping the final decision-making power with the City Council. The City Council must establish rules for how the Planning Board exercises this authority and must provide residents with appeal rights and final review procedures.",
+  "aiProArguments": "Supporters argue this streamlines the rezoning process by letting the Planning Board handle initial decisions, reducing delays and allowing the Planning Board's technical expertise to be used more efficiently. This could speed up development projects and housing initiatives, including affordable housing efforts, while the City Council retains ultimate control through the appeal and review process.",
+  "aiConArguments": "Opponents may be concerned that delegating rezoning authority could reduce public input in the process or lead to decisions that bypass community oversight. Critics might worry that the Planning Board's decisions could favor developers over neighborhood interests, or that the appeal process may not adequately protect residents' voices in zoning changes that affect their communities.",
+  "topic": "Local Government",
+  "textLength": 10398,
+  "createdAt": "2026-06-23T03:11:58.845Z",
+  "sponsors": [
+    {"peopleId":17457,"name":"Paul Lowe","party":"D","isPrimary":true}
+  ],
+  "rollCalls": []
+}

@@ -1,0 +1,23 @@
+{
+  "billId": 2145297,
+  "billNumber": "S833",
+  "title": "Restore Down-Zoning Char/Meck & Others",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "2819237cdfbbae317598a31747de8170",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2026-04-27",
+  "url": "https://legiscan.com/NC/bill/S833/2025",
+  "aiSummary": "This bill restores the ability of local governments in Mecklenburg County, Charlotte, Cornelius, Davidson, and Huntersville to initiate down-zoning (reducing the allowed density or permitted uses of property) without requiring written consent from all affected property owners. It reverses a restriction imposed in December 2024 and allows these changes to take effect retroactively.",
+  "aiProArguments": "Supporters argue this restores local control over land use planning and allows communities to manage growth and development according to their needs and character. They contend that requiring unanimous property owner consent creates gridlock and prevents municipalities from implementing comprehensive zoning strategies, protecting neighborhood character, and responding to changing community priorities.",
+  "aiConArguments": "Opponents argue that down-zoning without owner consent reduces property values and takes away owners' rights to develop their land as previously permitted. They contend that property owners should have a say in decisions that significantly affect their property's economic potential, and that this change could discourage investment and development in these areas.",
+  "topic": "Local Government",
+  "textLength": 1972,
+  "createdAt": "2026-06-23T03:11:05.723Z",
+  "sponsors": [
+    {"peopleId":20223,"name":"Mujtaba Mohammed","party":"D","isPrimary":true},
+    {"peopleId":25860,"name":"Woodson Bradley","party":"D","isPrimary":false},
+    {"peopleId":19669,"name":"Vickie Sawyer","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

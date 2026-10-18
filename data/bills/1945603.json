@@ -1,0 +1,22 @@
+{
+  "billId": 1945603,
+  "billNumber": "S19",
+  "title": "Various Environmental Amendments",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "d9e27a8bc59923f1044320a4fe5b24c2",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-01-30",
+  "url": "https://legiscan.com/NC/bill/S19/2025",
+  "aiSummary": "This bill makes three environmental policy changes: it designates Jockey's Ridge sand dune as a protected area of environmental concern with development restrictions, requires public hearings and legislative consultation before the state grants easements for disposal of dredged materials, and clarifies that certain surfaces like artificial turf and permeable materials do not count as impervious surfaces in state and local stormwater management programs.",
+  "aiProArguments": "Supporters argue the bill protects a unique natural landmark and geologically significant dune system at Jockey's Ridge State Park from development that could alter its natural characteristics. They contend that requiring public input and legislative review before granting easements for spoil disposal ensures community concerns are heard. Proponents also argue that exempting permeable and environmentally beneficial surfaces from stormwater requirements reduces unnecessary regulatory burdens on property owners and developers while still managing water runoff effectively.",
+  "aiConArguments": "Opponents may argue that designating Jockey's Ridge with stricter development standards could limit economic activity and property rights in the area. Critics of the easement provision might contend that additional public hearing and legislative consultation requirements slow down infrastructure projects and dredging operations needed for navigation and coastal maintenance. Some may also contend that the stormwater exemptions, particularly for artificial turf, weaken environmental protections by reducing what counts as impervious surface and potentially limiting local governments' ability to set stricter environmental standards.",
+  "topic": "Environment & Energy",
+  "textLength": 11003,
+  "createdAt": "2026-06-23T03:04:12.829Z",
+  "sponsors": [
+    {"peopleId":20513,"name":"Bobby Hanig","party":"R","isPrimary":true},
+    {"peopleId":11862,"name":"Norman Sanderson","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

@@ -1,0 +1,21 @@
+{
+  "billId": 2146140,
+  "billNumber": "S886",
+  "title": "Funds/Town of Grifton Resiliency",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "001298ad7a613b33791835ca74a8ba3d",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2026-04-29",
+  "url": "https://legiscan.com/NC/bill/S886/2025",
+  "aiSummary": "This bill appropriates $3 million in state funds to the Town of Grifton for designing and building projects to reduce flood damage and improve community resilience. The money is available for the 2026-2027 fiscal year and takes effect July 1, 2026.",
+  "aiProArguments": "Supporters argue that Grifton faces significant flood risks and needs state support to implement protective infrastructure like levees, drainage systems, or elevated structures. This investment protects residents' homes and businesses, supports economic stability, and may reduce future disaster recovery costs by preventing flood damage before it occurs.",
+  "aiConArguments": "Opponents may question whether $3 million is the most efficient use of limited state budget resources, or whether the town should use local funding or federal disaster assistance programs instead. Some may argue that directing funds to a specific town sets a precedent for similar requests from other flood-prone communities across North Carolina.",
+  "topic": "Taxes & Budget",
+  "textLength": 807,
+  "createdAt": "2026-06-23T03:11:34.854Z",
+  "sponsors": [
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":true}
+  ],
+  "rollCalls": []
+}

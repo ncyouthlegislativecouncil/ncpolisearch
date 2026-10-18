@@ -1,0 +1,21 @@
+{
+  "billId": 1947780,
+  "billNumber": "S33",
+  "title": "26th Senatorial District Local Act-1",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "e26fbc32d526339ee7adce4b986ed072",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-02-03",
+  "url": "https://legiscan.com/NC/bill/S33/2025",
+  "aiSummary": "This is a local bill that applies only to North Carolina's 26th Senatorial District. The bill text does not specify what changes or provisions it creates, only that it relates to that district and becomes effective upon passage.",
+  "aiProArguments": "Supporters of local bills argue they allow the legislature to address specific regional needs and circumstances that affect particular districts. Local acts can be tailored to solve problems unique to a community without requiring statewide legislation.",
+  "aiConArguments": "Opponents of local bills raise concerns about transparency and fairness, noting that the bill's actual content and impact are not detailed in this text. They argue local bills can sometimes create unequal treatment across the state and may lack the scrutiny given to statewide legislation.",
+  "topic": "Local Government",
+  "textLength": 506,
+  "createdAt": "2026-06-23T03:04:20.111Z",
+  "sponsors": [
+    {"peopleId":2154,"name":"Philip Berger","party":"R","isPrimary":true}
+  ],
+  "rollCalls": []
+}

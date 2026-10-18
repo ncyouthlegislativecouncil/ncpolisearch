@@ -1,0 +1,25 @@
+{
+  "billId": 2144444,
+  "billNumber": "S782",
+  "title": "Safe Schools Transparency Act",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "672695cdddc4244ad0dbc53284dd699b",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2026-04-23",
+  "url": "https://legiscan.com/NC/bill/S782/2025",
+  "aiSummary": "This bill requires North Carolina public schools to immediately notify parents when credible threats target their children, school staff, or campus security. It establishes penalties for schools that fail to notify parents, reinstitutes a Task Force for Safer Schools, and creates a $25 million School Safety Fund to help schools purchase safety equipment and provide crisis services to students.",
+  "aiProArguments": "Supporters argue that parents have a right to know about threats affecting their children's safety so they can take appropriate precautions and make informed decisions about their children's schooling. They contend the bill improves school safety by requiring rapid response to threats, holding schools accountable through investigations and penalties, and providing funding for evidence-based crisis services and security equipment that can prevent incidents and help at-risk students.",
+  "aiConArguments": "Opponents may worry that strict notification timelines could interfere with active law enforcement investigations or cause unnecessary panic among parents and students. Some may question whether financial penalties on school budgets help or harm school safety efforts, and whether the bill places excessive administrative burdens on schools while holding them responsible for threats beyond their control.",
+  "topic": "Criminal Justice & Public Safety",
+  "textLength": 12874,
+  "createdAt": "2026-06-23T03:10:42.107Z",
+  "sponsors": [
+    {"peopleId":25860,"name":"Woodson Bradley","party":"D","isPrimary":true},
+    {"peopleId":20220,"name":"Michael Garrett","party":"D","isPrimary":false},
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":false},
+    {"peopleId":25859,"name":"Caleb Theodros","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

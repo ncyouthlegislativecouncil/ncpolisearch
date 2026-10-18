@@ -1,0 +1,26 @@
+{
+  "billId": 2145915,
+  "billNumber": "S847",
+  "title": "Tyler's Law",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "b67bcadf26ee50aedbd59568079b1b58",
+  "lastAction": "Re-ref to Appropriations/Base Budget. If fav, re-ref to Rules and Operations of the Senate",
+  "lastActionDate": "2026-04-28",
+  "url": "https://legiscan.com/NC/bill/S847/2025",
+  "aiSummary": "Tyler's Law requires that all apparent suicide deaths in North Carolina undergo a full investigation before being officially classified as suicide, including interviews, gunshot residue testing (when applicable), and completion of medical examiner duties. The bill also increases the fee paid to medical examiners for each investigation from $200 to $400 and appropriates $579,000 in state funding to cover the increased costs to counties.",
+  "aiProArguments": "Supporters argue this bill ensures thorough investigations into deaths that appear to be suicides, which may help identify cases that are actually accidents, homicides, or undetermined deaths. They contend that increased medical examiner fees will allow for more comprehensive investigations and improve the quality of death investigations across the state, potentially preventing families from receiving incomplete or inaccurate death determinations.",
+  "aiConArguments": "Opponents may argue that the bill creates additional bureaucratic requirements that could slow down death investigations and certification processes without clear evidence that current practices are inadequate. They may also contend that doubling medical examiner fees represents a significant cost increase for counties, and that the $579,000 in state appropriations may not fully cover all counties' increased expenses, placing financial burdens on local budgets.",
+  "topic": "Criminal Justice & Public Safety",
+  "textLength": 4175,
+  "createdAt": "2026-06-23T03:11:13.124Z",
+  "sponsors": [
+    {"peopleId":11937,"name":"Ralph Hise","party":"R","isPrimary":true},
+    {"peopleId":20216,"name":"Jim Burgin","party":"R","isPrimary":false},
+    {"peopleId":12033,"name":"Warren Daniel","party":"R","isPrimary":false},
+    {"peopleId":11858,"name":"Timothy Moffitt","party":"R","isPrimary":false},
+    {"peopleId":11862,"name":"Norman Sanderson","party":"R","isPrimary":false},
+    {"peopleId":19669,"name":"Vickie Sawyer","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

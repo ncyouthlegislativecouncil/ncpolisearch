@@ -1,0 +1,26 @@
+{
+  "billId": 1981197,
+  "billNumber": "H190",
+  "title": "SchCal Mandatory Winter Break/Date Adjustment",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "a3bc816a52fba82775830a9bb68c56fd",
+  "lastAction": "Ref to the Com on Education - K-12, if favorable, Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-02-26",
+  "url": "https://legiscan.com/NC/bill/H190/2025",
+  "aiSummary": "This bill requires Lincoln County Schools and Iredell-Statesville Schools to include a mandatory two-week winter break with no instructional days or teacher workdays in their school calendars. It also adjusts the earliest date schools can start the academic year from Monday closest to August 26 to Wednesday closest to August 13, while allowing schools that have experienced three or more weather closures before winter break to potentially use some winter break days for makeup instruction.",
+  "aiProArguments": "Supporters argue that a guaranteed two-week winter break provides students and teachers with extended time for rest, family time, and mental health benefits during the winter season. They contend that having a consistent, longer break improves well-being and allows families to plan vacations with certainty. Additionally, the earlier August start date may help schools better accommodate unexpected weather closures without extending the school year into late June.",
+  "aiConArguments": "Opponents may argue that shortening the time between school start and winter break could disrupt instructional continuity and limit the amount of instruction before the holiday. Some may worry that allowing winter break days to be used for makeup days due to weather closures could eliminate the guaranteed break for families in areas with frequent bad weather. Others might contend that an earlier August 13 start date conflicts with summer employment, tourism seasons, and family vacation planning that many communities rely on.",
+  "topic": "Education",
+  "textLength": 3344,
+  "createdAt": "2026-06-23T02:44:31.656Z",
+  "sponsors": [
+    {"peopleId":25214,"name":"Heather Rhyne","party":"R","isPrimary":true},
+    {"peopleId":21375,"name":"Jeffrey McNeely","party":"R","isPrimary":true},
+    {"peopleId":18451,"name":"Mary Belk","party":"D","isPrimary":false},
+    {"peopleId":2044,"name":"Becky Carney","party":"D","isPrimary":false},
+    {"peopleId":2049,"name":"Patricia Cotham","party":"R","isPrimary":false},
+    {"peopleId":14633,"name":"Dennis Riddell","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

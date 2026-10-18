@@ -1,0 +1,21 @@
+{
+  "billId": 1966074,
+  "billNumber": "S87",
+  "title": "37th Senatorial District Local Act-1",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "e1b006b54c734bd73146f1672a0acff0",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-02-13",
+  "url": "https://legiscan.com/NC/bill/S87/2025",
+  "aiSummary": "This is a local bill that relates specifically to the 37th Senatorial District in North Carolina, but the bill text does not specify what changes or actions are being taken. The bill would become effective immediately upon passage.",
+  "aiProArguments": "Supporters of local bills argue they allow the legislature to address specific regional needs and circumstances that affect particular districts or communities. Local acts can provide tailored solutions for a specific area's unique challenges that might not be appropriate for statewide legislation.",
+  "aiConArguments": "Opponents of local bills raise concerns about transparency and equal treatment, noting that without specific language in the bill text, it is unclear what actual changes are being made or who benefits. Critics also question whether local legislative matters should be handled through the state legislature rather than local governance structures.",
+  "topic": "Local Government",
+  "textLength": 507,
+  "createdAt": "2026-06-23T03:04:47.660Z",
+  "sponsors": [
+    {"peopleId":19669,"name":"Vickie Sawyer","party":"R","isPrimary":true}
+  ],
+  "rollCalls": []
+}

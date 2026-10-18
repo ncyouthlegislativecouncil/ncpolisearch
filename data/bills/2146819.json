@@ -1,0 +1,27 @@
+{
+  "billId": 2146819,
+  "billNumber": "S954",
+  "title": "Learning & Enrichment in Afterschool Programs",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "bd35e44cce4ee0f8f2e841158bbadd65",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2026-05-04",
+  "url": "https://legiscan.com/NC/bill/S954/2025",
+  "aiSummary": "This bill establishes the Learning and Enrichment in Afterschool Programs (LEAP) Grant Program, which provides funding to community organizations, schools, and local governments to offer afterschool and summer youth activities. It creates an advisory council to guide the program and appropriates $19.5 million for the 2026-2027 fiscal year, with grants directed toward rural and underserved communities.",
+  "aiProArguments": "Supporters argue this bill addresses the need for safe, structured activities for school-age children outside school hours, particularly in rural and underserved areas where such programs are limited. The program aims to improve youth development outcomes in academics, career readiness, and skills while strengthening partnerships between schools and community organizations. Proponents also highlight that litigation settlements against social media companies for child harm would be directed to fund these protective youth programs.",
+  "aiConArguments": "Opponents may question whether $19.5 million is sufficient to create a statewide program and whether one-time funding is sustainable long-term for organizations receiving grants. Some may express concerns about the administrative overhead (up to 10% of funds) and whether grant requirements and evaluation metrics could create burdensome compliance costs for smaller organizations. Others might argue the state should prioritize core K-12 education funding before expanding afterschool programming.",
+  "topic": "Education",
+  "textLength": 9325,
+  "createdAt": "2026-06-23T03:12:09.809Z",
+  "sponsors": [
+    {"peopleId":25858,"name":"Sophia Chitlik","party":"D","isPrimary":true},
+    {"peopleId":20223,"name":"Mujtaba Mohammed","party":"D","isPrimary":true},
+    {"peopleId":17936,"name":"Jay Chaudhuri","party":"D","isPrimary":true},
+    {"peopleId":17147,"name":"Gale Adcock","party":"D","isPrimary":false},
+    {"peopleId":21633,"name":"Natalie Murdock","party":"D","isPrimary":false},
+    {"peopleId":25859,"name":"Caleb Theodros","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

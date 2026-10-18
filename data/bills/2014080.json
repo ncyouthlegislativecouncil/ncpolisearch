@@ -1,0 +1,26 @@
+{
+  "billId": 2014080,
+  "billNumber": "S703",
+  "title": "Update 1987 Rates/Organs and Disfigurement",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "86cb46d33365dd701a36d45ec36c2161",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-26",
+  "url": "https://legiscan.com/NC/bill/S703/2025",
+  "aiSummary": "This bill increases the maximum workers' compensation benefits for certain workplace injuries, including facial disfigurement (from $20,000 to $56,000), bodily disfigurement (from $10,000 to $28,000), and organ/internal injuries (from $20,000 to $56,000). It also establishes automatic annual adjustments to these maximum amounts based on changes in the Consumer Price Index, starting July 1, 2026.",
+  "aiProArguments": "Supporters argue these increases are necessary because the current benefit limits have not been updated since 1987, making them inadequate to cover modern medical costs and lost earnings. They contend that workers who suffer serious, permanent injuries deserve compensation that reflects current economic conditions and that automatic adjustments ensure benefits keep pace with inflation without requiring repeated legislative action.",
+  "aiConArguments": "Opponents may argue that increasing workers' compensation benefits raises costs for employers and insurance premiums, potentially affecting business competitiveness and hiring decisions. Some may also question whether automatic adjustments tied to the Consumer Price Index are the most appropriate method, or whether these specific injury categories warrant larger increases than others.",
+  "topic": "Business & Labor",
+  "textLength": 4815,
+  "createdAt": "2026-06-23T03:10:08.347Z",
+  "sponsors": [
+    {"peopleId":18465,"name":"Danny Britt","party":"R","isPrimary":true},
+    {"peopleId":24224,"name":"Buck Newton","party":"R","isPrimary":true},
+    {"peopleId":12033,"name":"Warren Daniel","party":"R","isPrimary":true},
+    {"peopleId":21663,"name":"David Craven","party":"R","isPrimary":false},
+    {"peopleId":22423,"name":"Amy Galey","party":"R","isPrimary":false},
+    {"peopleId":24225,"name":"Benton Sawrey","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

@@ -1,0 +1,22 @@
+{
+  "billId": 1985411,
+  "billNumber": "S184",
+  "title": "System Development Fees/Exemption",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "223b8c4d20523702609eebb5abf2dbbc",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-02-27",
+  "url": "https://legiscan.com/NC/bill/S184/2025",
+  "aiSummary": "This bill allows local governments in North Carolina to exempt properties being developed for affordable housing from system development fees (charges imposed on new water and sewer connections). Local governments that choose to offer this exemption must establish criteria to determine which affordable housing projects qualify.",
+  "aiProArguments": "Supporters argue this bill reduces barriers to affordable housing development by eliminating a significant cost burden for developers. By lowering development costs through fee exemptions, advocates contend that more affordable housing can be built and housing may be made available to lower-income residents who struggle to find affordable options in their communities.",
+  "aiConArguments": "Opponents may argue that exempting affordable housing from system development fees shifts costs to other ratepayers or local government budgets, as these fees typically fund water and sewer infrastructure maintenance and expansion. They may also contend that local governments should not be pressured into subsidizing housing development, or that fee exemptions could create inequities between different types of developers.",
+  "topic": "Housing",
+  "textLength": 1352,
+  "createdAt": "2026-06-23T03:05:38.397Z",
+  "sponsors": [
+    {"peopleId":17457,"name":"Paul Lowe","party":"D","isPrimary":true},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

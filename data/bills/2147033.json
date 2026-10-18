@@ -1,0 +1,25 @@
+{
+  "billId": 2147033,
+  "billNumber": "S1008",
+  "title": "Pilot for Shoreline Stabilization Projects",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "fc11a609e571d2a4c610e1fc1c4ae06e",
+  "lastAction": "Re-ref to Agriculture, Energy, and Environment. If fav, re-ref to Appropriations/Base Budget",
+  "lastActionDate": "2026-06-09",
+  "url": "https://legiscan.com/NC/bill/S1008/2025",
+  "aiSummary": "This bill creates a pilot program allowing North Carolina to test shoreline stabilization structures like sheet pile walls in limited locations where oceanfront homes face imminent erosion danger. The University of North Carolina Collaboratory will select a small number of pilot projects based on erosion severity, scientific value, and economic impact, with all construction costs and permits funded by local governments or homeowners associations, not the state.",
+  "aiProArguments": "Supporters argue this pilot program addresses an urgent coastal problem by allowing communities facing severe erosion to protect homes and property that would otherwise be lost to the ocean. They point out that the pilot approach is limited in scope, requires full local funding, includes mandatory monitoring and data collection, and will provide scientific evidence to guide future coastal management decisions—all while protecting oceanfront tax bases, infrastructure, and community assets.",
+  "aiConArguments": "Opponents contend that this program could set a precedent for weakening environmental protections under the Coastal Area Management Act and may cause unintended consequences for neighboring properties and ecosystems. They argue that permanent structures like sheet pile walls could redirect erosion to adjacent shorelines, disrupt natural coastal processes, and shift financial burdens to local governments while providing benefits primarily to private homeowners.",
+  "topic": "Environment & Energy",
+  "textLength": 6636,
+  "createdAt": "2026-06-23T03:12:35.720Z",
+  "sponsors": [
+    {"peopleId":25212,"name":"Bob Brinson","party":"R","isPrimary":true},
+    {"peopleId":22424,"name":"Michael Lazzara","party":"R","isPrimary":true},
+    {"peopleId":20513,"name":"Bobby Hanig","party":"R","isPrimary":true},
+    {"peopleId":11858,"name":"Timothy Moffitt","party":"R","isPrimary":false},
+    {"peopleId":11862,"name":"Norman Sanderson","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

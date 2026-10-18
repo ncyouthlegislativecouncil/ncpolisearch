@@ -1,0 +1,21 @@
+{
+  "billId": 1957261,
+  "billNumber": "S60",
+  "title": "GSC Attorneys' Fees in Debt Instruments",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "d5bf421698067826c775d92b4f8aa040",
+  "lastAction": "Re-ref to Judiciary. If fav, re-ref to Rules and Operations of the Senate",
+  "lastActionDate": "2025-02-11",
+  "url": "https://legiscan.com/NC/bill/S60/2025",
+  "aiSummary": "This bill clarifies how creditors can collect attorneys' fees from debtors when a debt goes unpaid and requires legal action to collect it. It sets a maximum attorneys' fee of 15% of the amount owed and requires creditors to notify debtors before enforcing fee provisions, giving them 14 days to pay without fees. It also establishes specific documentation requirements when debt buyers or assignees attempt to collect fees.",
+  "aiProArguments": "Supporters argue this bill provides clear, consistent rules that protect creditors' ability to recover legal costs when they must hire attorneys to collect debts, making it economically feasible for businesses to pursue collection cases. They contend the 15% cap and notification requirements balance creditor interests with debtor protection by preventing surprise fees and allowing debtors a window to avoid them by paying on time.",
+  "aiConArguments": "Opponents may argue that the 15% fee cap is still substantial for struggling debtors already in default and could increase the total amount owed significantly. They may also contend that the 14-day payment window is insufficient for debtors facing financial hardship, and that strict documentation requirements for debt buyers could be difficult to enforce, potentially allowing improper fee collections.",
+  "topic": "Business & Labor",
+  "textLength": 12082,
+  "createdAt": "2026-06-23T03:04:33.802Z",
+  "sponsors": [
+    {"peopleId":22423,"name":"Amy Galey","party":"R","isPrimary":true}
+  ],
+  "rollCalls": []
+}

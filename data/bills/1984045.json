@@ -1,0 +1,21 @@
+{
+  "billId": 1984045,
+  "billNumber": "S178",
+  "title": "Assessment of Self-Storage Facilities",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "a43fb805017970254d8583ac7fe57b8c",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-02-27",
+  "url": "https://legiscan.com/NC/bill/S178/2025",
+  "aiSummary": "This bill modifies how North Carolina assesses self-storage facilities for property tax purposes. It specifies that self-storage facilities must be taxed based on the land value and depreciated building improvements, excluding any additional value beyond these tangible assets, effective for tax years starting July 1, 2026.",
+  "aiProArguments": "Supporters argue this bill creates clarity and uniformity in how self-storage properties are taxed across the state, preventing inconsistent assessments. They contend that excluding intangible business value (like brand reputation or customer loyalty) from assessments is fairer because it taxes only the actual physical property and land, similar to how other businesses are assessed.",
+  "aiConArguments": "Opponents may argue that excluding intangible business value could reduce tax revenue for counties and municipalities that depend on property tax income for schools and services. They could also contend that the bill artificially undervalues profitable self-storage businesses compared to how assessments account for income-generating potential in other property types.",
+  "topic": "Taxes & Budget",
+  "textLength": 1640,
+  "createdAt": "2026-06-23T03:05:35.679Z",
+  "sponsors": [
+    {"peopleId":20222,"name":"Todd Johnson","party":"R","isPrimary":true}
+  ],
+  "rollCalls": []
+}

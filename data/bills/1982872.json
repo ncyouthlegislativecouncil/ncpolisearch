@@ -1,0 +1,22 @@
+{
+  "billId": 1982872,
+  "billNumber": "S168",
+  "title": "Durham/Reduce Speed Limits",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "2935a80e9d96e5affbf3c006db7aca27",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-02-26",
+  "url": "https://legiscan.com/NC/bill/S168/2025",
+  "aiSummary": "This bill allows the City of Durham to reduce speed limits to 25 miles per hour on residential streets that the city determines are experiencing congestion. The change would take effect December 1, 2025, and applies only to Durham.",
+  "aiProArguments": "Supporters argue that lower speed limits on congested residential streets improve public safety by reducing vehicle speeds in areas with higher traffic and pedestrian activity. They contend this protects residents, children, and pedestrians from serious injuries or fatalities caused by speeding vehicles in neighborhoods.",
+  "aiConArguments": "Opponents may argue that lower speed limits could increase travel times and driver frustration in Durham neighborhoods, and question whether reduced speeds effectively solve congestion problems. They might also express concerns about enforcement costs and whether the city's transportation department should have broad authority to determine which streets qualify for speed reductions.",
+  "topic": "Transportation & Infrastructure",
+  "textLength": 957,
+  "createdAt": "2026-06-23T03:05:30.490Z",
+  "sponsors": [
+    {"peopleId":21633,"name":"Natalie Murdock","party":"D","isPrimary":true},
+    {"peopleId":25858,"name":"Sophia Chitlik","party":"D","isPrimary":true}
+  ],
+  "rollCalls": []
+}

@@ -1,0 +1,25 @@
+{
+  "billId": 2146195,
+  "billNumber": "S866",
+  "title": "Add Home Schools to Opportunity Scholarships",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "046e642df97e0b13d2fbae8672ec8966",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2026-05-06",
+  "url": "https://legiscan.com/NC/bill/S866/2025",
+  "aiSummary": "This bill expands North Carolina's Opportunity Scholarship program to include home schools alongside private schools. Home school students would receive $1,500 per year in scholarship grants, with funds usable for books, equipment, and other required educational materials. The bill also increases overall funding for the scholarship program from $700-825 million annually to $950 million-$1.075 billion annually.",
+  "aiProArguments": "Supporters argue this bill expands educational choice and opportunity for families who choose home schooling, which is a legitimate and growing educational option in North Carolina. They contend that home school families pay taxes for public education but don't use public school services, so scholarship support helps level the playing field. Proponents believe the funding increase reflects strong state commitment to diverse education options and provides necessary resources for the expanded program.",
+  "aiConArguments": "Opponents may argue that directing significant state funding to home schools—which lack the same regulatory oversight and accountability measures as private schools in the program—raises concerns about how public money is spent. Critics might contend that the substantial funding increase ($250 million initially, then $950+ million annually) could reduce resources available for public schools serving the majority of North Carolina students. Some question whether $1,500 per home school student is adequate or appropriate compared to per-pupil spending in public schools.",
+  "topic": "Education",
+  "textLength": 16929,
+  "createdAt": "2026-06-23T03:11:25.264Z",
+  "sponsors": [
+    {"peopleId":20216,"name":"Jim Burgin","party":"R","isPrimary":true},
+    {"peopleId":14615,"name":"Carl Ford","party":"R","isPrimary":false},
+    {"peopleId":11858,"name":"Timothy Moffitt","party":"R","isPrimary":false},
+    {"peopleId":11862,"name":"Norman Sanderson","party":"R","isPrimary":false},
+    {"peopleId":24226,"name":"Eddie Settle","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

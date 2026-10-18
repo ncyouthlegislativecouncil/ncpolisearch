@@ -1,0 +1,30 @@
+{
+  "billId": 1991247,
+  "billNumber": "H286",
+  "title": "SchCalFlex/Vance/Open Cal",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "bf54b8dc1781b60bbb2a8bc908d9bed8",
+  "lastAction": "Ref to the Com on Education - K-12, if favorable, Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-03-06",
+  "url": "https://legiscan.com/NC/bill/H286/2025",
+  "aiSummary": "This bill allows Vance County Schools to have more flexibility in setting their school calendar by permitting earlier opening dates without needing State Board of Education approval. Specifically, it enables Vance County to start school as early as the Monday closest to August 19 instead of the required Monday closest to August 26, beginning with the 2025-2026 school year.",
+  "aiProArguments": "Supporters argue that local school boards should have autonomy to set calendars that work best for their communities' needs. Vance County may benefit from starting earlier to accommodate weather-related closures, better align with family schedules, or improve instructional planning without state-level bureaucratic delays.",
+  "aiConArguments": "Opponents may worry that earlier school starts disrupt summer activities, family vacations, and youth employment opportunities. Some may also question whether removing state oversight limits accountability or creates inconsistency across regions, and whether one county receiving special flexibility is fair to other districts with similar needs.",
+  "topic": "Education",
+  "textLength": 2427,
+  "createdAt": "2026-06-23T02:47:25.493Z",
+  "sponsors": [
+    {"peopleId":22610,"name":"Matthew Winslow","party":"R","isPrimary":true},
+    {"peopleId":18451,"name":"Mary Belk","party":"D","isPrimary":false},
+    {"peopleId":24198,"name":"Gloristine Brown","party":"D","isPrimary":false},
+    {"peopleId":19238,"name":"Deb Butler","party":"D","isPrimary":false},
+    {"peopleId":2044,"name":"Becky Carney","party":"D","isPrimary":false},
+    {"peopleId":2077,"name":"Mary Harrison","party":"D","isPrimary":false},
+    {"peopleId":20515,"name":"Zack Forde-Hawkins","party":"D","isPrimary":false},
+    {"peopleId":24206,"name":"Frances Jackson","party":"D","isPrimary":false},
+    {"peopleId":25853,"name":"Rodney Pierce","party":"D","isPrimary":false},
+    {"peopleId":14633,"name":"Dennis Riddell","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

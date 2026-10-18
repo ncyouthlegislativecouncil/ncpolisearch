@@ -1,0 +1,24 @@
+{
+  "billId": 2014110,
+  "billNumber": "S585",
+  "title": "Local Govts/Mental Health/ CC Tuition Waiver",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "dfdaa5dbc740680ddec7b816ccd490f5",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2025-03-26",
+  "url": "https://legiscan.com/NC/bill/S585/2025",
+  "aiSummary": "This bill allows mental health clinicians and peer support specialists who work in municipal and county emergency medical services, rescue, or lifesaving departments to receive a waiver of tuition and registration fees when attending community college courses. The waiver applies to specialized courses approved by the State Board of Community Colleges that support these departments' training needs.",
+  "aiProArguments": "Supporters argue this bill helps recruit and retain mental health professionals in emergency services by reducing financial barriers to education and training. They contend that mental health clinicians and peer support specialists embedded in 911 systems and paired with first responders provide critical services for crisis intervention, which benefits community safety and mental health outcomes.",
+  "aiConArguments": "Opponents may question the fiscal impact of tuition waivers on community college budgets and whether state resources should fund education for this specific workforce. Some may also argue that other essential workers or fields deserve similar tuition assistance, raising concerns about fairness and whether this represents the best use of limited education funding.",
+  "topic": "Education",
+  "textLength": 2599,
+  "createdAt": "2026-06-23T03:09:06.142Z",
+  "sponsors": [
+    {"peopleId":21633,"name":"Natalie Murdock","party":"D","isPrimary":true},
+    {"peopleId":20223,"name":"Mujtaba Mohammed","party":"D","isPrimary":false},
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

@@ -1,0 +1,22 @@
+{
+  "billId": 2019273,
+  "billNumber": "H757",
+  "title": "Funds for Joyful Soul Treasures",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "22fcbcd8e750a0c565f969d8a3e75e18",
+  "lastAction": "Ref to the Com on Appropriations, if favorable, Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-04-07",
+  "url": "https://legiscan.com/NC/bill/H757/2025",
+  "aiSummary": "This bill appropriates $31,000 in state funds for the 2025-2026 fiscal year to Joyful Soul Treasures, Inc., a nonprofit organization, to support their \"Safe Haven for Safe Sex\" project. The project provides sexual health education and awareness for teenagers aged 13-18, with goals of reducing stigma and providing young people with health knowledge and skills.",
+  "aiProArguments": "Supporters argue that comprehensive sexual health education for adolescents is important for public health, helping young people make informed decisions and reduce risky behaviors. They contend that funding nonprofit organizations to reduce stigma around sexual health and provide accurate information benefits teenagers and their communities. Proponents may view this as a cost-effective investment in youth wellness and disease prevention.",
+  "aiConArguments": "Opponents may question whether state funding should support this specific organization or project, or argue that sexual health education should be provided through schools rather than directed grants to individual nonprofits. Some may have concerns about the nature and content of the \"Safe Haven for Safe Sex\" program, or believe that limited state budget dollars should be directed toward other priorities. Others may raise questions about oversight and accountability for directed grants to nonprofits.",
+  "topic": "Education",
+  "textLength": 1195,
+  "createdAt": "2026-06-23T02:57:19.202Z",
+  "sponsors": [
+    {"peopleId":24199,"name":"Kanika Brown","party":"D","isPrimary":true},
+    {"peopleId":22599,"name":"Amber Baker","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

@@ -1,0 +1,21 @@
+{
+  "billId": 1955036,
+  "billNumber": "S52",
+  "title": "24th Senatorial District Local Act-1",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "99f67211318f317c3853fe2fa8806c2a",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-02-05",
+  "url": "https://legiscan.com/NC/bill/S52/2025",
+  "aiSummary": "This is a local bill that applies only to North Carolina's 24th Senatorial District. The bill text does not specify what changes it makes to the district, as the actual provisions are not detailed in this version of the legislation.",
+  "aiProArguments": "Supporters of local bills argue they allow the General Assembly to address specific, localized needs within particular districts that general statewide legislation cannot adequately serve. Local acts enable targeted solutions for regional issues affecting constituents in that specific area.",
+  "aiConArguments": "Opponents of local bills raise concerns about transparency and equal treatment, arguing that legislation affecting specific districts should be clearly detailed and available for public review. They also question whether local bills receive sufficient scrutiny compared to general legislation that applies statewide.",
+  "topic": "Local Government",
+  "textLength": 505,
+  "createdAt": "2026-06-23T03:04:29.207Z",
+  "sponsors": [
+    {"peopleId":18465,"name":"Danny Britt","party":"R","isPrimary":true}
+  ],
+  "rollCalls": []
+}

@@ -1,0 +1,21 @@
+{
+  "billId": 1945653,
+  "billNumber": "S7",
+  "title": "34th Senatorial District Local Act-1",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "42b7f7f1c22b4179892451d0ff5b7328",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-01-30",
+  "url": "https://legiscan.com/NC/bill/S7/2025",
+  "aiSummary": "This is a local bill that applies only to North Carolina's 34th Senatorial District. The bill text provided does not contain specific provisions—it only establishes that the act relates to this district and becomes effective upon passage. The actual substantive changes or requirements would be detailed in additional sections not included in this document excerpt.",
+  "aiProArguments": "Supporters of local bills argue they allow the General Assembly to address specific, localized needs and circumstances within a particular district that may not require statewide legislation. Local acts can be tailored to solve unique problems or implement changes that benefit a specific community without affecting other parts of the state.",
+  "aiConArguments": "Opponents of local bills raise concerns about whether they receive adequate public scrutiny compared to statewide legislation, and whether local acts create inconsistencies in state law across different districts. Some argue that local bills can be used to benefit specific individuals or narrow interests rather than serving a broad public purpose, and that important legislative changes should be transparent and apply uniformly across the state.",
+  "topic": "Local Government",
+  "textLength": 507,
+  "createdAt": "2026-06-23T03:04:07.473Z",
+  "sponsors": [
+    {"peopleId":18497,"name":"Paul Newton","party":"R","isPrimary":true}
+  ],
+  "rollCalls": []
+}

@@ -1,0 +1,26 @@
+{
+  "billId": 2010965,
+  "billNumber": "S349",
+  "title": "Property Tax Modifications",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "a271d30555c31e297fc42b026e761791",
+  "lastAction": "Re-ref to Finance. If fav, re-ref to Rules and Operations of the Senate",
+  "lastActionDate": "2025-06-12",
+  "url": "https://legiscan.com/NC/bill/S349/2025",
+  "aiSummary": "This bill modifies North Carolina's property tax relief programs for elderly and disabled homeowners. It eliminates the deferred tax liability system under the Property Tax Homestead Circuit Breaker, meaning qualifying homeowners would become exempt from paying certain property taxes rather than deferring payment. The bill also makes related changes to income eligibility definitions and tax record disclosure rules.",
+  "aiProArguments": "Supporters argue this change provides immediate, permanent tax relief to elderly and disabled homeowners on fixed incomes rather than creating a debt that must be repaid when they sell their home or pass it to heirs. By eliminating the deferred tax lien, the bill prevents financial burdens on estates and allows seniors to keep more of their home equity, while still protecting county tax revenues through the income eligibility limits that determine who qualifies.",
+  "aiConArguments": "Opponents may argue that eliminating deferred taxes reduces revenue for counties and schools that rely on property tax income, potentially requiring cuts to services or tax increases elsewhere. They may also contend that the deferred tax system was designed to be fiscally sustainable by deferring rather than forgiving taxes, and that making it an outright exemption creates permanent revenue losses that grow over time as more qualifying homeowners benefit.",
+  "topic": "Taxes & Budget",
+  "textLength": 11218,
+  "createdAt": "2026-06-23T03:07:00.495Z",
+  "sponsors": [
+    {"peopleId":24223,"name":"Brad Overcash","party":"R","isPrimary":true},
+    {"peopleId":20222,"name":"Todd Johnson","party":"R","isPrimary":true},
+    {"peopleId":24225,"name":"Benton Sawrey","party":"R","isPrimary":true},
+    {"peopleId":20216,"name":"Jim Burgin","party":"R","isPrimary":false},
+    {"peopleId":11858,"name":"Timothy Moffitt","party":"R","isPrimary":false},
+    {"peopleId":20223,"name":"Mujtaba Mohammed","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

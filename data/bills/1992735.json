@@ -1,0 +1,22 @@
+{
+  "billId": 1992735,
+  "billNumber": "H313",
+  "title": "Funds for Madison County/Hurricane Helene",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "31a4436113f522ad4e364f4527b7aa6e",
+  "lastAction": "Ref to the Com on Appropriations, if favorable, Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-03-10",
+  "url": "https://legiscan.com/NC/bill/H313/2025",
+  "aiSummary": "This bill appropriates $88.395 million in state funds to Madison County for repairs and rebuilding of public infrastructure damaged by Hurricane Helene. The funds cover repairs to wastewater treatment plants, town halls, fire departments, housing facilities, libraries, parks, emergency communication systems, and waterway debris removal across Marshall and Hot Springs.",
+  "aiProArguments": "Supporters argue that Hurricane Helene caused significant damage to critical public infrastructure in Madison County, and state disaster relief funding is necessary to help the county recover and rebuild essential services. They contend that local governments often lack sufficient resources to handle major disaster recovery alone, and state assistance helps restore public services like water treatment, emergency response, and housing for vulnerable populations.",
+  "aiConArguments": "Opponents may argue about the overall cost of disaster relief spending across the state and prioritization of limited state resources, or question whether all listed projects are equally urgent disaster recovery needs versus regular maintenance or upgrades. Some may also raise concerns about whether the state should direct funds to specific projects rather than allowing counties flexibility to determine their own recovery priorities.",
+  "topic": "Taxes & Budget",
+  "textLength": 2954,
+  "createdAt": "2026-06-23T02:48:04.857Z",
+  "sponsors": [
+    {"peopleId":22617,"name":"Mark Pless","party":"R","isPrimary":true},
+    {"peopleId":17149,"name":"Brian Turner","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

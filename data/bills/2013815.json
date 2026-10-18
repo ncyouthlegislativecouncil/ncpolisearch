@@ -1,0 +1,21 @@
+{
+  "billId": 2013815,
+  "billNumber": "S502",
+  "title": "Cape Carteret Capital Funds",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "73e7c8039762a49dc33405be25bb5227",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2025-03-26",
+  "url": "https://legiscan.com/NC/bill/S502/2025",
+  "aiSummary": "This bill appropriates $3.3 million in state funds to the Town of Cape Carteret for a single fiscal year to construct a new building that will house the town hall, police headquarters, and emergency operations center.",
+  "aiProArguments": "Supporters argue this funding addresses critical infrastructure needs for Cape Carteret by consolidating multiple municipal functions into one efficient facility. They contend this improves emergency response capabilities and provides the town with necessary resources it may lack the independent funding to obtain.",
+  "aiConArguments": "Opponents may question why state general funds should support one town's capital project rather than being distributed across the state or allocated through existing grant programs. They might also raise concerns about whether $3.3 million is an appropriate expenditure or whether Cape Carteret should fund its own municipal facilities through local revenue.",
+  "topic": "Taxes & Budget",
+  "textLength": 869,
+  "createdAt": "2026-06-23T03:08:24.562Z",
+  "sponsors": [
+    {"peopleId":11862,"name":"Norman Sanderson","party":"R","isPrimary":true}
+  ],
+  "rollCalls": []
+}

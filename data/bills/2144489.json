@@ -1,0 +1,30 @@
+{
+  "billId": 2144489,
+  "billNumber": "S799",
+  "title": "Restore State Emp/Teacher Retiree Med Benefit",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "4330c8ba2bea8e1a21fdb915bad684f4",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2026-04-23",
+  "url": "https://legiscan.com/NC/bill/S799/2025",
+  "aiSummary": "This bill restores medical benefits for state employees and teachers who began service on or after January 1, 2021, preventing their elimination under state retirement systems. The bill repeals previous language that would have ended these retiree medical benefits and allocates $2 million in state funding to cover the increased costs of maintaining these benefits.",
+  "aiProArguments": "Supporters argue this bill keeps a promised benefit that attracts quality employees to public service by ensuring retirement security. They contend that state employees and teachers made career decisions based on the expectation of retiree medical coverage, and eliminating it breaks that commitment and unfairly targets newer workers while older retirees keep their benefits.",
+  "aiConArguments": "Opponents argue the $2 million annual appropriation diverts limited state resources that could fund other priorities, and that newer employees should bear more responsibility for their own healthcare costs given state budget constraints. They contend that the previous decision to limit retiree benefits for newer hires was necessary fiscal policy and reversing it creates unsustainable long-term obligations for taxpayers.",
+  "topic": "Social Services & Welfare",
+  "textLength": 1314,
+  "createdAt": "2026-06-23T03:10:50.581Z",
+  "sponsors": [
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":true},
+    {"peopleId":24220,"name":"Val Applewhite","party":"D","isPrimary":false},
+    {"peopleId":25860,"name":"Woodson Bradley","party":"D","isPrimary":false},
+    {"peopleId":20220,"name":"Michael Garrett","party":"D","isPrimary":false},
+    {"peopleId":26664,"name":"Jonah Garson","party":"D","isPrimary":false},
+    {"peopleId":24222,"name":"Lisa Grafstein","party":"D","isPrimary":false},
+    {"peopleId":20223,"name":"Mujtaba Mohammed","party":"D","isPrimary":false},
+    {"peopleId":22426,"name":"DeAndrea Salvador","party":"D","isPrimary":false},
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":false},
+    {"peopleId":25859,"name":"Caleb Theodros","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

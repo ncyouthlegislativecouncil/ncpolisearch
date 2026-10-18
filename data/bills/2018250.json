@@ -1,0 +1,23 @@
+{
+  "billId": 2018250,
+  "billNumber": "H660",
+  "title": "Funds for Various Projects in Cabarrus Co",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "e0b3c93d7e1476f2700a36d25b1d9315",
+  "lastAction": "Ref to the Com on Appropriations, if favorable, Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-04-02",
+  "url": "https://legiscan.com/NC/bill/H660/2025",
+  "aiSummary": "This bill appropriates $22.65 million in state funds for various projects in Cabarrus County during fiscal year 2025-2026. The funds are divided among road improvements in Midland ($7 million), multiple projects in Harrisburg including a rail station and turf fields ($12.7 million), a community health center expansion ($1.95 million), and a nonprofit serving people in crisis ($1 million).",
+  "aiProArguments": "Supporters argue this bill addresses important local needs including infrastructure improvements, transportation access, recreational facilities, healthcare expansion, and social services. They contend that state investment in these projects benefits residents, promotes economic development, and supports community organizations that serve vulnerable populations.",
+  "aiConArguments": "Opponents may argue that directed grants to specific towns raise questions about fairness to other communities with similar needs, and that nonrecurring state funds might not be sustainable for ongoing project maintenance. They may also question whether these projects should be funded through local bonds or federal grants rather than state general funds, or whether the state should prioritize statewide needs over localized projects.",
+  "topic": "Taxes & Budget",
+  "textLength": 2342,
+  "createdAt": "2026-06-23T02:56:02.955Z",
+  "sponsors": [
+    {"peopleId":25843,"name":"Brian Echevarria","party":"R","isPrimary":true},
+    {"peopleId":25841,"name":"Jonathan Almond","party":"R","isPrimary":false},
+    {"peopleId":25845,"name":"Grant Campbell","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

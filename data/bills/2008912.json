@@ -1,0 +1,21 @@
+{
+  "billId": 2008912,
+  "billNumber": "S298",
+  "title": "Inexperienced Operator Continuous Coverage",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "fbe3b7f8966040dd7419570097749329",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-18",
+  "url": "https://legiscan.com/NC/bill/S298/2025",
+  "aiSummary": "This bill requires drivers subject to an inexperienced operator premium surcharge to maintain continuous liability insurance coverage that includes that surcharge, or demonstrate financial responsibility through other authorized means. It also requires insurance companies to notify the Division of Motor Vehicles when someone subject to the surcharge is added or removed from a policy, and clarifies that switching between insurance policies does not count as a lapse in coverage.",
+  "aiProArguments": "Supporters argue this bill protects public safety by ensuring inexperienced drivers maintain continuous insurance coverage, reducing the number of uninsured drivers on the road. They contend it holds young or inexperienced drivers accountable for maintaining proper coverage with the required surcharge, and the clarification about policy switches prevents gaps in coverage that could leave accident victims uncompensated.",
+  "aiConArguments": "Opponents may argue the bill places additional financial burden on inexperienced drivers who already pay a premium surcharge, potentially making insurance less affordable for younger drivers. Some may be concerned that stricter enforcement could result in license suspensions that affect employment and transportation access, or that the tracking and notification requirements create administrative costs for insurers.",
+  "topic": "Transportation & Infrastructure",
+  "textLength": 2962,
+  "createdAt": "2026-06-23T03:06:31.367Z",
+  "sponsors": [
+    {"peopleId":20222,"name":"Todd Johnson","party":"R","isPrimary":true}
+  ],
+  "rollCalls": []
+}

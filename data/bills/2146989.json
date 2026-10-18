@@ -1,0 +1,27 @@
+{
+  "billId": 2146989,
+  "billNumber": "S1030",
+  "title": "Community Scale Weatherization + Health",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "f127a086a2b2e3a8775b23e3c5752691",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2026-05-05",
+  "url": "https://legiscan.com/NC/bill/S1030/2025",
+  "aiSummary": "This bill expands North Carolina's Weatherization Assistance Program to include health and safety improvements for low-income households and allows for community-scale projects that serve multiple homes in the same area. The bill appropriates $10 million in state funding and requires the Department of Environmental Quality to adopt rules for implementing these expanded services.",
+  "aiProArguments": "Supporters argue this bill addresses energy poverty and health disparities by helping low-income families reduce heating and cooling costs while improving indoor air quality and reducing respiratory illnesses like asthma. The community-scale project approach allows improvements to reach multiple households efficiently, and prioritizing areas with environmental health disparities ensures resources go to the most vulnerable populations.",
+  "aiConArguments": "Opponents may question whether $10 million is sufficient to meaningfully serve the state's low-income population, and whether community-scale projects could reduce customized help for individual households. Some may also raise concerns about the state's ongoing funding commitment, since the appropriation is nonrecurring, and worry about whether the program's administrative requirements will delay help reaching families.",
+  "topic": "Environment & Energy",
+  "textLength": 7290,
+  "createdAt": "2026-06-23T03:12:48.156Z",
+  "sponsors": [
+    {"peopleId":22426,"name":"DeAndrea Salvador","party":"D","isPrimary":true},
+    {"peopleId":20223,"name":"Mujtaba Mohammed","party":"D","isPrimary":true},
+    {"peopleId":24222,"name":"Lisa Grafstein","party":"D","isPrimary":true},
+    {"peopleId":24220,"name":"Val Applewhite","party":"D","isPrimary":false},
+    {"peopleId":20505,"name":"Sydney Batch","party":"D","isPrimary":false},
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

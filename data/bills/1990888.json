@@ -1,0 +1,24 @@
+{
+  "billId": 1990888,
+  "billNumber": "H273",
+  "title": "Create/Fund Brushy Mtns. State Natural Area",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "d93b0193334a560afdd5b5124fcc7566",
+  "lastAction": "Ref to the Com on Appropriations, if favorable, Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-03-05",
+  "url": "https://legiscan.com/NC/bill/H273/2025",
+  "aiSummary": "This bill authorizes the creation of the Brushy Mountains State Natural Area across Alexander, Caldwell, and Wilkes Counties and appropriates $500,000 in state funding for the 2025-2026 fiscal year to purchase land and develop the site. The natural area would be added to North Carolina's State Parks System and could also receive donated land and funding from federal and other sources.",
+  "aiProArguments": "Supporters argue this bill preserves natural land in the Brushy Mountains region, protects it from development, and creates a new public recreational resource for residents and visitors. The investment in land acquisition and site development could generate tourism, support conservation of the area's ecosystems, and provide outdoor recreation opportunities while leveraging additional funding from federal and private donation sources.",
+  "aiConArguments": "Opponents may argue that $500,000 in state funding could be allocated to other priorities, such as education or infrastructure, and question whether adding another state park is the best use of General Fund resources. Some may also raise concerns about ongoing operating and maintenance costs for the new natural area beyond the initial two-year funding period shown in the bill.",
+  "topic": "Environment & Energy",
+  "textLength": 1718,
+  "createdAt": "2026-06-23T02:46:56.628Z",
+  "sponsors": [
+    {"peopleId":25222,"name":"Blair Eddins","party":"R","isPrimary":true},
+    {"peopleId":25197,"name":"Jerry Branson","party":"R","isPrimary":false},
+    {"peopleId":20509,"name":"Allison Dahle","party":"D","isPrimary":false},
+    {"peopleId":2077,"name":"Mary Harrison","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

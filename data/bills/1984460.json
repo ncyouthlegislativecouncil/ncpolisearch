@@ -1,0 +1,21 @@
+{
+  "billId": 1984460,
+  "billNumber": "S192",
+  "title": "Increase Vehicle Safety Inspection Fee",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "ecea0e7319db8e2c32428177c401e6ec",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-02-27",
+  "url": "https://legiscan.com/NC/bill/S192/2025",
+  "aiSummary": "This bill increases the fee that inspection stations charge for vehicle safety inspections in North Carolina. The safety-only inspection fee increases from $12.75 to $29.15, and the combined emissions and safety inspection fee increases from $23.75 to $40.15, effective October 1, 2025.",
+  "aiProArguments": "Supporters argue that inspection fees have not been increased in many years and no longer cover the costs of maintaining inspection equipment, training mechanics, and operating inspection stations. The fee increase helps ensure inspection stations can continue providing this important safety service to the public and maintain adequate equipment standards.",
+  "aiConArguments": "Opponents contend that the fee increase places a burden on vehicle owners, particularly those with lower incomes who may struggle with the higher cost. They argue the increase should be justified with evidence that current fees are insufficient and may discourage some North Carolinians from getting required safety inspections.",
+  "topic": "Taxes & Budget",
+  "textLength": 2582,
+  "createdAt": "2026-06-23T03:05:41.652Z",
+  "sponsors": [
+    {"peopleId":20216,"name":"Jim Burgin","party":"R","isPrimary":true}
+  ],
+  "rollCalls": []
+}

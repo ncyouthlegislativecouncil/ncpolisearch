@@ -1,0 +1,22 @@
+{
+  "billId": 2013049,
+  "billNumber": "S399",
+  "title": "Study Jordan Lake Nutrient Managem't Strategy",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "7c8a0bdc587c38d896083ae70a0f4792",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-25",
+  "url": "https://legiscan.com/NC/bill/S399/2025",
+  "aiSummary": "This bill directs the North Carolina Department of Environmental Quality to study and analyze nutrient management strategies for Jordan Lake, including water quality data and the effectiveness of existing regulations. The department must report findings to the Environmental Review Commission and Environmental Management Commission by January 31, 2027, with interim reports due earlier.",
+  "aiProArguments": "Supporters argue this study will provide clarity on whether current nutrient reduction rules are actually improving water quality in Jordan Lake, and will help identify the most cost-effective approaches to maintain the lake's uses. The research could lead to science-based adjustments to regulations that balance environmental protection with practical implementation costs for upstream users and communities.",
+  "aiConArguments": "Opponents may worry that this study could delay or lead to weakening of existing nutrient management rules while data is being reviewed, potentially allowing continued water quality degradation. Some environmental advocates might view it as unnecessary given existing studies and regulations, arguing that resources should focus on implementing current strategies rather than studying them further.",
+  "topic": "Environment & Energy",
+  "textLength": 2275,
+  "createdAt": "2026-06-23T03:07:28.945Z",
+  "sponsors": [
+    {"peopleId":22423,"name":"Amy Galey","party":"R","isPrimary":true},
+    {"peopleId":11862,"name":"Norman Sanderson","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

@@ -1,0 +1,25 @@
+{
+  "billId": 2144503,
+  "billNumber": "S793",
+  "title": "Right to IVF",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "eef7d7edaea4f6e971b8d3c507b11fd7",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2026-04-23",
+  "url": "https://legiscan.com/NC/bill/S793/2025",
+  "aiSummary": "This bill protects access to assisted reproductive technology (ART) like in vitro fertilization (IVF) by prohibiting the state and its subdivisions from blocking or unreasonably limiting patients' right to use ART or health care providers' right to offer it. The bill also specifies that fertilized eggs or embryos outside the uterus are not considered human beings under state law, and appropriates $500,000 in state funds to expand Medicaid maternal support services.",
+  "aiProArguments": "Supporters argue this bill protects individuals' reproductive freedom and access to fertility treatments that help people build families. They contend that clarifying the legal status of embryos outside the body removes uncertainty that could chill IVF services, and that increased Medicaid funding expands maternal health support for low-income families who might otherwise be unable to afford pregnancy and childbirth care.",
+  "aiConArguments": "Opponents may argue that the bill's definition of when life begins contradicts their moral or religious beliefs about embryos, and they could express concerns that explicitly stating embryos outside the uterus are not human beings conflicts with their views on fetal personhood. Some may also question whether the $500,000 appropriation represents the most effective use of state resources for maternal health.",
+  "topic": "Healthcare",
+  "textLength": 4448,
+  "createdAt": "2026-06-23T03:10:47.575Z",
+  "sponsors": [
+    {"peopleId":25860,"name":"Woodson Bradley","party":"D","isPrimary":true},
+    {"peopleId":20220,"name":"Michael Garrett","party":"D","isPrimary":false},
+    {"peopleId":20223,"name":"Mujtaba Mohammed","party":"D","isPrimary":false},
+    {"peopleId":25859,"name":"Caleb Theodros","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

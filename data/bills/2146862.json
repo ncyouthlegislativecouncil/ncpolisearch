@@ -1,0 +1,28 @@
+{
+  "billId": 2146862,
+  "billNumber": "H1145",
+  "title": "Safety Funds for Highway 49 & Eastway Drive",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "19834cab063e1aaeb58e28fb6f6da257",
+  "lastAction": "Ref to the Com on Appropriations, if favorable, Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2026-05-04",
+  "url": "https://legiscan.com/NC/bill/H1145/2025",
+  "aiSummary": "This bill appropriates $2.5 million from the Highway Fund to the Department of Transportation for fiscal year 2026-2027 to update utilities and street infrastructure at the intersection of Highway 49 (North Tryon Street) and Eastway Drive in order to improve pedestrian safety at that crossing.",
+  "aiProArguments": "Supporters argue this bill addresses a specific safety hazard at a busy intersection where pedestrians currently face dangerous crossing conditions. The funding enables necessary infrastructure improvements such as traffic signals, sidewalks, or other safety features that can reduce accidents and injuries at this high-traffic location. They contend that targeted investments in identified safety problem areas protect vulnerable road users and are an appropriate use of transportation funds.",
+  "aiConArguments": "Opponents may argue that $2.5 million is a substantial amount to spend on a single intersection and question whether this represents the best use of limited transportation funds when many other areas of the state have safety needs. They might also raise concerns about whether the bill follows proper procedures for prioritizing infrastructure projects statewide, or whether funding decisions should be made through standard transportation planning processes rather than individual legislative appropriations.",
+  "topic": "Transportation & Infrastructure",
+  "textLength": 1123,
+  "createdAt": "2026-06-23T03:02:29.246Z",
+  "sponsors": [
+    {"peopleId":18451,"name":"Mary Belk","party":"D","isPrimary":true},
+    {"peopleId":2044,"name":"Becky Carney","party":"D","isPrimary":true},
+    {"peopleId":20521,"name":"Carolyn Logan","party":"D","isPrimary":true},
+    {"peopleId":20522,"name":"Nasif Majeed","party":"D","isPrimary":true},
+    {"peopleId":24199,"name":"Kanika Brown","party":"D","isPrimary":false},
+    {"peopleId":22600,"name":"Terry Brown","party":"D","isPrimary":false},
+    {"peopleId":25844,"name":"Julia Greenfield","party":"D","isPrimary":false},
+    {"peopleId":25850,"name":"Jordan Lopez","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

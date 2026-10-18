@@ -1,0 +1,24 @@
+{
+  "billId": 2014036,
+  "billNumber": "S562",
+  "title": "Cybersecurity and Quantum Resilience Study",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "73f0e087edf92792e30f6fcf535ee410",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-26",
+  "url": "https://legiscan.com/NC/bill/S562/2025",
+  "aiSummary": "This bill establishes a 21-member commission to study how quantum computing technology could threaten North Carolina's current computer security systems and infrastructure. The commission will assess vulnerabilities in state IT systems, research quantum-resistant security solutions, and submit recommendations to the General Assembly by July 1, 2026, with $250,000 in funding allocated for the study.",
+  "aiProArguments": "Supporters argue that quantum computing represents a genuine emerging threat to current encryption methods used by state government and critical infrastructure, and that early study positions North Carolina to address this proactively rather than reactively after a breach occurs. They contend that the state's strong academic and technology sector makes it well-positioned to lead this research, and that a comprehensive assessment now will inform smart investments in cybersecurity upgrades.",
+  "aiConArguments": "Opponents may argue that quantum computing threats remain theoretical and distant, making a $250,000 study premature when other cybersecurity needs are more immediate. Some may question whether a government commission is the most efficient way to address technical issues, or whether private sector and federal cybersecurity efforts already adequately cover quantum threats without requiring additional state resources and oversight.",
+  "topic": "Technology & Privacy",
+  "textLength": 6087,
+  "createdAt": "2026-06-23T03:08:54.296Z",
+  "sponsors": [
+    {"peopleId":25859,"name":"Caleb Theodros","party":"D","isPrimary":true},
+    {"peopleId":22426,"name":"DeAndrea Salvador","party":"D","isPrimary":true},
+    {"peopleId":17936,"name":"Jay Chaudhuri","party":"D","isPrimary":true},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

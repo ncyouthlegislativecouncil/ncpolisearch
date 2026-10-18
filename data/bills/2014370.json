@@ -1,0 +1,27 @@
+{
+  "billId": 2014370,
+  "billNumber": "S618",
+  "title": "Lasting Economic and Academic Prosperity Act",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "3eb937c4d8c4620d384622c54410c39f",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-26",
+  "url": "https://legiscan.com/NC/bill/S618/2025",
+  "aiSummary": "This bill establishes the Lasting Economic and Academic Prosperity (LEAP) Endowment Program to fund early childhood development and education initiatives in North Carolina. The program creates an endowment managed by an independent investment manager, uses investment earnings to support child development programs, and establishes a reserve fund that receives matching state dollars for private donations raised by the Division of Child Development and Early Education.",
+  "aiProArguments": "Supporters argue this bill creates a stable, long-term funding source for early childhood programs by leveraging private donations with state matching funds, similar to successful endowment models used nationwide. They contend the program addresses a significant gap in childhood development funding while keeping administrative costs low (capped at 15 basis points for investment management) and creating incentives for philanthropic giving that might not otherwise occur.",
+  "aiConArguments": "Opponents may argue that dedicating $450,000-$472,500 annually for fundraising represents a substantial state investment with uncertain returns, and that the state should directly fund these programs rather than relying on private donations. They might also question whether an endowment structure is the most efficient use of public resources compared to direct appropriations, and express concerns about the long-term commitment implied by the 10-year funding timeline.",
+  "topic": "Education",
+  "textLength": 7616,
+  "createdAt": "2026-06-23T03:09:22.252Z",
+  "sponsors": [
+    {"peopleId":25858,"name":"Sophia Chitlik","party":"D","isPrimary":true},
+    {"peopleId":17457,"name":"Paul Lowe","party":"D","isPrimary":true},
+    {"peopleId":24222,"name":"Lisa Grafstein","party":"D","isPrimary":true},
+    {"peopleId":21633,"name":"Natalie Murdock","party":"D","isPrimary":false},
+    {"peopleId":12032,"name":"Gladys Robinson","party":"D","isPrimary":false},
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

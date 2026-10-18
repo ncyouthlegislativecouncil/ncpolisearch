@@ -1,0 +1,23 @@
+{
+  "billId": 2014255,
+  "billNumber": "S713",
+  "title": "Limit Local Gov't Environmental Rqmt's",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "6982e22a0c0ab1aeecd23877f0506b4d",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-26",
+  "url": "https://legiscan.com/NC/bill/S713/2025",
+  "aiSummary": "This bill prevents local governments in North Carolina from enacting environmental regulations that are stricter than state or federal standards, unless the General Assembly specifically approves them. Local governments would have until December 1, 2025 to review and change any ordinances that exceed state or federal requirements, after which non-compliant rules would become unenforceable.",
+  "aiProArguments": "Supporters argue this bill prevents a patchwork of conflicting local environmental rules that could burden businesses and create confusion across regions. They contend that environmental protection should be handled uniformly at state and federal levels where expertise and resources are concentrated, and that local rules often duplicate or exceed necessary protections, increasing compliance costs without additional environmental benefit.",
+  "aiConArguments": "Opponents argue this bill strips local communities of the ability to address their own environmental challenges and priorities, which may differ by region. They contend that local governments are better positioned to protect local ecosystems, water quality, and public health based on community needs, and that this limits democratic participation by preventing residents from enacting protections their communities support.",
+  "topic": "Local Government",
+  "textLength": 2051,
+  "createdAt": "2026-06-23T03:10:14.458Z",
+  "sponsors": [
+    {"peopleId":20518,"name":"Steve Jarvis","party":"R","isPrimary":true},
+    {"peopleId":11858,"name":"Timothy Moffitt","party":"R","isPrimary":true},
+    {"peopleId":17437,"name":"Thomas McInnis","party":"R","isPrimary":true}
+  ],
+  "rollCalls": []
+}

@@ -1,0 +1,27 @@
+{
+  "billId": 2014232,
+  "billNumber": "S736",
+  "title": "Foundation Act: Building NC's Housing Future",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "c82cd64ce57459a1c49b1ba42aaf69f6",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-26",
+  "url": "https://legiscan.com/NC/bill/S736/2025",
+  "aiSummary": "This comprehensive bill addresses North Carolina's housing crisis through multiple strategies: it increases funding for affordable housing programs, creates tax credits for housing development and donations, establishes by-right zoning for accessory dwelling units and multi-family housing, provides down payment assistance and community land trust programs for homebuyers, offers emergency rental and homelessness prevention funds, streamlines permitting for affordable housing projects, and invests in workforce development for construction trades.",
+  "aiProArguments": "Supporters argue this bill tackles North Carolina's critical housing shortage by increasing affordable housing supply through zoning reforms and incentivizing construction. The by-right accessory dwelling unit allowance and reduced minimum lot sizes enable more housing density. Tax credits and grants help developers build affordable units, while down payment assistance and community land trust programs increase homeownership access for low-income residents. Emergency rental assistance and homelessness prevention funding address immediate housing crises, and construction workforce development ensures adequate labor to build new homes.",
+  "aiConArguments": "Opponents may worry about fiscal costs, as the bill appropriates hundreds of millions in recurring and non-recurring funds that impact the state budget. Some argue the by-right zoning changes and density requirements infringe on local government authority to control land use. Concerns exist about whether new housing supply will actually reduce prices affordably or primarily benefit developers. Some may question whether programs like community land trusts and emergency rental assistance are sustainable long-term solutions, and whether the excise tax increase on property transfers could affect home sales and economic activity.",
+  "topic": "Housing",
+  "textLength": 53228,
+  "createdAt": "2026-06-23T03:10:25.499Z",
+  "sponsors": [
+    {"peopleId":20220,"name":"Michael Garrett","party":"D","isPrimary":true},
+    {"peopleId":24222,"name":"Lisa Grafstein","party":"D","isPrimary":true},
+    {"peopleId":25860,"name":"Woodson Bradley","party":"D","isPrimary":true},
+    {"peopleId":20223,"name":"Mujtaba Mohammed","party":"D","isPrimary":false},
+    {"peopleId":12032,"name":"Gladys Robinson","party":"D","isPrimary":false},
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

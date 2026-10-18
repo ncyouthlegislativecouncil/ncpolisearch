@@ -1,0 +1,26 @@
+{
+  "billId": 2014220,
+  "billNumber": "S680",
+  "title": "Comprehensive Capital for Childcare Expansion",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "54a010320a880b47c1efb83401e1dfe7",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2025-03-26",
+  "url": "https://legiscan.com/NC/bill/S680/2025",
+  "aiSummary": "This bill creates the North Carolina Child Care Finance Agency, a new state agency that would provide financing (loans, mortgages, and insurance) to help build, rehabilitate, and expand child care facilities across the state. The agency would be governed by a 12-member board with expertise in child care, construction, lending, and workforce needs, and would receive $20 million in initial state funding plus investment from the North Carolina Innovation Fund.",
+  "aiProArguments": "Supporters argue this bill addresses a critical shortage of affordable, accessible child care that limits workforce participation and harms children's development. By providing government-backed financing, the agency would encourage private investment in child care facilities where the market alone hasn't met demand. The bill prioritizes underserved areas, small providers, high-quality facilities, and employers offering on-site child care, potentially expanding opportunities for low-income families while supporting economic growth.",
+  "aiConArguments": "Opponents may argue the bill represents significant government intervention in the private market, with $20 million in taxpayer funding plus billions in potential bond authority. Concerns include whether government-run financing is the most efficient use of state resources, risks of loan defaults, whether the agency might duplicate existing small-business lending programs, and whether targeted forgiveness provisions (loan forgiveness after 15 years for certain providers) represent poor fiscal stewardship. Some may also question whether the $12 billion bond authority cap is appropriate without more legislative oversight of individual financing decisions.",
+  "topic": "Social Services & Welfare",
+  "textLength": 63661,
+  "createdAt": "2026-06-23T03:09:57.870Z",
+  "sponsors": [
+    {"peopleId":25858,"name":"Sophia Chitlik","party":"D","isPrimary":true},
+    {"peopleId":17936,"name":"Jay Chaudhuri","party":"D","isPrimary":true},
+    {"peopleId":20220,"name":"Michael Garrett","party":"D","isPrimary":true},
+    {"peopleId":25860,"name":"Woodson Bradley","party":"D","isPrimary":false},
+    {"peopleId":21633,"name":"Natalie Murdock","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

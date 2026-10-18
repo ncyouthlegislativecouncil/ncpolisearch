@@ -1,0 +1,22 @@
+{
+  "billId": 2005664,
+  "billNumber": "H394",
+  "title": "Distracted Driving/Children and Animals",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "0a4e32022e37e565278c3e93a2910dae",
+  "lastAction": "Re-ref to the Com on Judiciary 1, if favorable, Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-04-14",
+  "url": "https://legiscan.com/NC/bill/H394/2025",
+  "aiSummary": "This bill makes it illegal to hold animals or allow them to sit in a driver's lap while driving, or to interact with children or animals in ways that impair safe vehicle operation on public roads. Violations are classified as infractions with a $100 fine and court costs, though law enforcement will issue warnings only during the first six months after the law takes effect on December 1, 2025.",
+  "aiProArguments": "Supporters argue this bill addresses a genuine road safety hazard by reducing distractions that can cause accidents. They contend that holding pets or attending to children while driving diverts driver attention and increases crash risk, and that a clear legal prohibition with enforcement will encourage safer driving behaviors and protect both vehicle occupants and the public.",
+  "aiConArguments": "Opponents may argue the bill's language is vague—terms like \"interacting\" and \"impairs\" could be interpreted differently by different officers, potentially leading to inconsistent enforcement. Some may also contend that existing distracted driving laws already address reckless driving behavior, making this law redundant, or question whether a $100 fine is an appropriate penalty for what could be minor interactions.",
+  "topic": "Criminal Justice & Public Safety",
+  "textLength": 1972,
+  "createdAt": "2026-06-23T02:50:10.620Z",
+  "sponsors": [
+    {"peopleId":2086,"name":"Francis Iler","party":"R","isPrimary":true},
+    {"peopleId":17678,"name":"James Adams","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

@@ -1,0 +1,24 @@
+{
+  "billId": 2014067,
+  "billNumber": "S575",
+  "title": "Improve Pedestrian Safety",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "3aaf03b9b473b093b4c030cb71f086b9",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-26",
+  "url": "https://legiscan.com/NC/bill/S575/2025",
+  "aiSummary": "This bill makes it a Class 2 misdemeanor for drivers to fail to yield to pedestrians if the pedestrian is seriously injured. It also requires pedestrian safety training to be added to North Carolina's driver education curriculum and directs state agencies to study ways to improve driver education on pedestrian safety.",
+  "aiProArguments": "Supporters argue this bill addresses a serious public safety problem by creating stronger legal consequences for dangerous driving behavior that causes severe pedestrian injuries. They contend that enhanced driver education on pedestrian safety and increased criminal penalties will encourage drivers to be more cautious around pedestrians, potentially reducing accidents and deaths. Additionally, the bill directs a study to identify further improvements to driver education curriculum.",
+  "aiConArguments": "Opponents may argue that creating new misdemeanor charges could result in criminal records for drivers in accidents that may have been unavoidable or where liability is unclear. Some may contend that driver education improvements and enforcement of existing traffic laws would be more effective than additional criminal penalties, and question whether a Class 2 misdemeanor is proportionate to the offense when the injury itself results from negligence rather than intentional harm.",
+  "topic": "Criminal Justice & Public Safety",
+  "textLength": 3591,
+  "createdAt": "2026-06-23T03:09:01.081Z",
+  "sponsors": [
+    {"peopleId":21633,"name":"Natalie Murdock","party":"D","isPrimary":true},
+    {"peopleId":22425,"name":"Julie Mayfield","party":"D","isPrimary":false},
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

@@ -1,0 +1,31 @@
+{
+  "billId": 1991287,
+  "billNumber": "H287",
+  "title": "SchCalFlex/Franklin/Open Cal",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "78f1bcfd938ded0af3c759761d1102d7",
+  "lastAction": "Ref to the Com on Education - K-12, if favorable, Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-03-06",
+  "url": "https://legiscan.com/NC/bill/H287/2025",
+  "aiSummary": "This bill allows Franklin County Schools to set school opening dates as early as the Monday closest to August 19, instead of the standard Monday closest to August 26, without needing approval from the State Board of Education. The change applies only to Franklin County Schools beginning with the 2025-2026 school year.",
+  "aiProArguments": "Supporters argue this gives Franklin County Schools greater flexibility to design calendars that work better for their community's needs. It allows the county to start school earlier if desired, which could help accommodate weather-related closures or better align with local family schedules and work calendars. Proponents view this as a reasonable local control measure for a specific county.",
+  "aiConArguments": "Opponents may be concerned that allowing one county to start school a week earlier could create inconsistencies across North Carolina and set a precedent for other counties to request similar exemptions. Some may worry that earlier start dates could impact summer employment or family vacation plans, or that it undermines statewide consistency in school calendars. Others might question whether this special treatment for Franklin County is equitable compared to other counties with similar needs.",
+  "topic": "Education",
+  "textLength": 2436,
+  "createdAt": "2026-06-23T02:47:26.814Z",
+  "sponsors": [
+    {"peopleId":22610,"name":"Matthew Winslow","party":"R","isPrimary":true},
+    {"peopleId":18451,"name":"Mary Belk","party":"D","isPrimary":false},
+    {"peopleId":24198,"name":"Gloristine Brown","party":"D","isPrimary":false},
+    {"peopleId":19238,"name":"Deb Butler","party":"D","isPrimary":false},
+    {"peopleId":2044,"name":"Becky Carney","party":"D","isPrimary":false},
+    {"peopleId":22422,"name":"Sarah Crawford","party":"D","isPrimary":false},
+    {"peopleId":2077,"name":"Mary Harrison","party":"D","isPrimary":false},
+    {"peopleId":20515,"name":"Zack Forde-Hawkins","party":"D","isPrimary":false},
+    {"peopleId":24206,"name":"Frances Jackson","party":"D","isPrimary":false},
+    {"peopleId":25853,"name":"Rodney Pierce","party":"D","isPrimary":false},
+    {"peopleId":14633,"name":"Dennis Riddell","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

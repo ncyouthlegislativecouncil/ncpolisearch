@@ -1,0 +1,30 @@
+{
+  "billId": 2018650,
+  "billNumber": "H716",
+  "title": "Bail Bond Omnibus",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "6d333755972f410990f5077c1dc4134a",
+  "lastAction": "Ref to the Com on Insurance, if favorable, Finance, if favorable, Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-04-03",
+  "url": "https://legiscan.com/NC/bill/H716/2025",
+  "aiSummary": "This bill modifies North Carolina's bail bond laws by expanding the definition of a defendant's address of record, clarifying when bail bond obligations end, establishing procedures for setting aside bond forfeitures, requiring district attorneys to report failed appearances to a national database, and prohibiting electronic systems from acting as bail bondsmen.",
+  "aiProArguments": "Supporters argue this bill improves the bail system's efficiency and fairness by clarifying rules for when bonds are terminated, making it easier to locate defendants through expanded address definitions, and preventing automated systems from replacing licensed professionals. They contend these changes strengthen court procedures and ensure bail bondsmen have proper oversight while giving defendants clearer paths to have forfeitures set aside in specific circumstances.",
+  "aiConArguments": "Opponents may argue the bill creates additional burdens on district attorneys and county officials to maintain electronic filing systems and report information to national databases, potentially increasing costs. They might also contend that stricter procedural requirements and expanded address tracking could complicate bail bond processes, while the prohibition on electronic systems could limit innovation in the bail industry.",
+  "topic": "Criminal Justice & Public Safety",
+  "textLength": 12655,
+  "createdAt": "2026-06-23T02:56:48.755Z",
+  "sponsors": [
+    {"peopleId":20516,"name":"Chris Humphrey","party":"R","isPrimary":true},
+    {"peopleId":24196,"name":"Jennifer Balkcom","party":"R","isPrimary":true},
+    {"peopleId":20523,"name":"Carson Smith","party":"R","isPrimary":true},
+    {"peopleId":21377,"name":"Jake Johnson","party":"R","isPrimary":true},
+    {"peopleId":24207,"name":"Neal Jackson","party":"R","isPrimary":false},
+    {"peopleId":20522,"name":"Nasif Majeed","party":"D","isPrimary":false},
+    {"peopleId":21375,"name":"Jeffrey McNeely","party":"R","isPrimary":false},
+    {"peopleId":22613,"name":"Ben Moss","party":"R","isPrimary":false},
+    {"peopleId":22616,"name":"Ray Pickett","party":"R","isPrimary":false},
+    {"peopleId":24219,"name":"Bill Ward","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

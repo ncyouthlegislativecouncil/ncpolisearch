@@ -1,0 +1,21 @@
+{
+  "billId": 1980711,
+  "billNumber": "S144",
+  "title": "Requirements for Operating Public Cold Baths",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "171aa3800155af6331b4bfd1910dbfe5",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-02-25",
+  "url": "https://legiscan.com/NC/bill/S144/2025",
+  "aiSummary": "This bill exempts public cold baths from North Carolina's public swimming pool regulations if they meet specific requirements: they must be single-occupancy tubs or tanks with water below 60°F, no more than 180 gallons, shallow enough for seated bathers to keep their heads above water, and equipped with continuous filtration and sanitization systems. The bill clarifies existing pool safety laws by creating a separate category for these cold water immersion facilities.",
+  "aiProArguments": "Supporters argue this bill removes unnecessary regulatory barriers for cold bath businesses and wellness facilities that don't pose the same public health risks as traditional swimming pools. Cold water immersion therapy has grown in popularity for athletic recovery and wellness, and allowing these facilities to operate with tailored safety requirements rather than full pool regulations could enable broader access to this emerging health trend while still maintaining basic safety standards like continuous filtration.",
+  "aiConArguments": "Opponents may argue that exempting public cold baths from standard pool regulations creates a lower safety standard for facilities serving the general public, even though they have fewer users at once. Critics could express concern that water temperature, volume, and depth requirements alone may not adequately protect public health and safety, and that reducing oversight of publicly-used water facilities sets a problematic precedent for other aquatic facilities.",
+  "topic": "Other / General Government",
+  "textLength": 5020,
+  "createdAt": "2026-06-23T03:05:17.177Z",
+  "sponsors": [
+    {"peopleId":20513,"name":"Bobby Hanig","party":"R","isPrimary":true}
+  ],
+  "rollCalls": []
+}

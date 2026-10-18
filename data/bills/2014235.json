@@ -1,0 +1,29 @@
+{
+  "billId": 2014235,
+  "billNumber": "S636",
+  "title": "School Psychologist Omnibus",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "b9ec06064adc002fc3cbe17edfcad20d",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-26",
+  "url": "https://legiscan.com/NC/bill/S636/2025",
+  "aiSummary": "This bill increases compensation for school psychologists, creates a grant program to help schools recruit psychologists, establishes an internship program with stipends for psychology students, and funds university training programs to produce more school psychologists in North Carolina. The bill appropriates approximately $21.4 million for these initiatives.",
+  "aiProArguments": "Supporters argue this bill addresses a critical shortage of school psychologists in North Carolina by making the profession more attractive through higher pay and creating a pipeline of new professionals. Increased school psychologist staffing would improve student mental health services, school safety, and early intervention for students in crisis—particularly in underserved school districts that currently lack full-time psychologists.",
+  "aiConArguments": "Opponents may be concerned about the substantial recurring cost of $21.4 million annually and question whether these funds could address other pressing education needs. Some may argue that salary increases alone may not retain psychologists if working conditions, caseloads, or other systemic issues aren't addressed, or that the internship program's effectiveness in increasing the overall workforce remains uncertain.",
+  "topic": "Education",
+  "textLength": 7062,
+  "createdAt": "2026-06-23T03:09:32.632Z",
+  "sponsors": [
+    {"peopleId":25860,"name":"Woodson Bradley","party":"D","isPrimary":true},
+    {"peopleId":20510,"name":"Terence Everitt","party":"D","isPrimary":true},
+    {"peopleId":24222,"name":"Lisa Grafstein","party":"D","isPrimary":true},
+    {"peopleId":17936,"name":"Jay Chaudhuri","party":"D","isPrimary":false},
+    {"peopleId":25858,"name":"Sophia Chitlik","party":"D","isPrimary":false},
+    {"peopleId":22425,"name":"Julie Mayfield","party":"D","isPrimary":false},
+    {"peopleId":21633,"name":"Natalie Murdock","party":"D","isPrimary":false},
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

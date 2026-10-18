@@ -1,0 +1,24 @@
+{
+  "billId": 2014131,
+  "billNumber": "S718",
+  "title": "Fair Procurement and Ownership Reform Act",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "a195d854dfe2bb98553100395def860c",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-26",
+  "url": "https://legiscan.com/NC/bill/S718/2025",
+  "aiSummary": "This bill restructures North Carolina's renewable energy procurement and ownership rules by requiring large utilities to conduct competitive 'all-source' bidding for energy resources (removing previous mandates requiring utilities to own 55% of solar and storage projects), reallocating shared solar capacity toward commercial and large industrial customers, and establishing independent oversight and transparent evaluation processes for all energy procurement decisions.",
+  "aiProArguments": "Supporters argue this bill promotes competition and market efficiency by allowing third-party developers and utilities to bid on equal terms, potentially lowering costs for consumers through competitive pricing. They contend that removing ownership mandates accelerates renewable energy deployment by giving developers more flexibility and faster project timelines, while independent evaluation ensures fairness and prevents utility bias in the procurement process. Proponents also say rebalancing shared solar allocation toward commercial customers better reflects actual demand and market participation.",
+  "aiConArguments": "Opponents worry that eliminating utility ownership requirements may reduce utility investment in renewable infrastructure and shift financial risk to ratepayers, potentially increasing long-term costs if competitive projects fail or underperform. They argue that removing guaranteed utility ownership diminishes utilities' incentive to build and maintain reliable renewable capacity, and that rebalancing shared solar away from residential customers (from current levels to 15%) disadvantages individual homeowners and low-income households seeking renewable energy access. Some also contend that independent oversight adds administrative complexity and costs.",
+  "topic": "Environment & Energy",
+  "textLength": 10654,
+  "createdAt": "2026-06-23T03:10:17.442Z",
+  "sponsors": [
+    {"peopleId":16251,"name":"Graig Meyer","party":"D","isPrimary":true},
+    {"peopleId":21633,"name":"Natalie Murdock","party":"D","isPrimary":true},
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

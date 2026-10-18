@@ -1,0 +1,22 @@
+{
+  "billId": 2022244,
+  "billNumber": "H862",
+  "title": "Justice Improvements",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "2d79b5a8c1874fa4a9adbb1ff7de8564",
+  "lastAction": "Ref To Com On Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-04-10",
+  "url": "https://legiscan.com/NC/bill/H862/2025",
+  "aiSummary": "This bill requires North Carolina district courts to video and audio record all criminal trials, pretrial motions, pleas, sentencing hearings, and infraction hearings. It also requires courts to collect and publish detailed annual reports on how impaired driving cases are resolved, including information about charges, dismissals, evidence suppression, and sentencing factors.",
+  "aiProArguments": "Supporters argue that video recording court proceedings increases transparency and accountability in the justice system, allowing the public to see how cases are handled. They contend that detailed public reports on impaired driving case outcomes will help identify patterns, ensure consistent justice, and provide data to improve public safety by showing how different charges and factors result in different sentences.",
+  "aiConArguments": "Opponents may argue that the costs of implementing statewide video recording equipment and staff training could be substantial for already-stretched court budgets. They might also express concerns about privacy and security issues with posting detailed case information online, and question whether the administrative burden of collecting and publishing this data diverts resources from other court operations.",
+  "topic": "Criminal Justice & Public Safety",
+  "textLength": 5745,
+  "createdAt": "2026-06-23T02:58:41.246Z",
+  "sponsors": [
+    {"peopleId":25843,"name":"Brian Echevarria","party":"R","isPrimary":true},
+    {"peopleId":2034,"name":"John Blust","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

@@ -1,0 +1,25 @@
+{
+  "billId": 2022133,
+  "billNumber": "H884",
+  "title": "Prepared Food Tax - Modification",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "4ae7327e1424665d954e19eba1839f03",
+  "lastAction": "Ref to the Com on Finance, if favorable, Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-04-14",
+  "url": "https://legiscan.com/NC/bill/H884/2025",
+  "aiSummary": "This bill increases the gross receipts threshold for artisanal bakeries that are exempt from North Carolina's sales tax on prepared food. The exemption threshold would rise from $1.8 million to $2.4 million in annual gross receipts, allowing slightly larger bakery operations to qualify for the tax exemption while still meeting the requirement that over 80% of their revenue comes from bakery items.",
+  "aiProArguments": "Supporters argue this change helps small and growing artisanal bakeries remain competitive without the burden of sales tax compliance. The higher threshold allows bakeries that have been successful to continue operating under the exemption as they expand, supporting local food businesses and the artisans who own them without significantly increasing state revenue loss.",
+  "aiConArguments": "Opponents may argue that raising the threshold reduces state and local tax revenue that could fund public services. Some may question whether bakeries generating $2.4 million in annual revenue still qualify as small businesses deserving tax breaks, or whether the exemption should remain more limited to truly small operations.",
+  "topic": "Taxes & Budget",
+  "textLength": 2402,
+  "createdAt": "2026-06-23T02:58:55.424Z",
+  "sponsors": [
+    {"peopleId":22608,"name":"Diane Wheatley","party":"R","isPrimary":true},
+    {"peopleId":24206,"name":"Frances Jackson","party":"D","isPrimary":true},
+    {"peopleId":24216,"name":"Charles Smith","party":"D","isPrimary":true},
+    {"peopleId":24198,"name":"Gloristine Brown","party":"D","isPrimary":false},
+    {"peopleId":25846,"name":"Mike Colvin","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

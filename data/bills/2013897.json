@@ -1,0 +1,21 @@
+{
+  "billId": 2013897,
+  "billNumber": "S557",
+  "title": "Bifurcate Economic Distress Categorization",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "a09b05fdb4a7a9a97edcf3930238f1a6",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-26",
+  "url": "https://legiscan.com/NC/bill/S557/2025",
+  "aiSummary": "This bill creates two separate systems for measuring economic distress in North Carolina counties. The Department of Commerce will continue using 'development tier' rankings for economic development programs, but all other state departments and programs (such as tax incentives, housing assistance, water infrastructure, and health services) must stop using these rankings by July 1, 2027, and instead develop their own criteria tailored to their specific program goals.",
+  "aiProArguments": "Supporters argue that different state programs have different goals and needs, so using a one-size-fits-all economic distress measure is inefficient. By allowing each department to create custom criteria aligned with their specific objectives, the bill could direct resources more effectively to areas and populations that truly need them. This approach may also reduce bureaucratic burden by having departments use measures already relevant to their existing work.",
+  "aiConArguments": "Opponents may argue that this bifurcation creates administrative complexity and costs, requiring multiple departments to develop and maintain separate ranking systems instead of using one standardized measure. The transition period and lack of clear guidance on what new criteria should be used could create uncertainty for counties and organizations that depend on these designations. Inconsistent standards across programs might also disadvantage certain regions if different departments rate economic distress differently.",
+  "topic": "Taxes & Budget",
+  "textLength": 6424,
+  "createdAt": "2026-06-23T03:08:52.014Z",
+  "sponsors": [
+    {"peopleId":24225,"name":"Benton Sawrey","party":"R","isPrimary":true}
+  ],
+  "rollCalls": []
+}

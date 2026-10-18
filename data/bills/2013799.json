@@ -1,0 +1,25 @@
+{
+  "billId": 2013799,
+  "billNumber": "S542",
+  "title": "Western NC Support; Expand Comm. Eco. Dev",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "a1824db5cb37f7b9acef175b17db93c1",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2025-03-26",
+  "url": "https://legiscan.com/NC/bill/S542/2025",
+  "aiSummary": "This bill appropriates $20.3 million in one-time funds and $1 million in recurring annual funds to the National Institute of Minority Economic Development for disaster recovery in western North Carolina following Hurricane Helene, women's business center support, and community economic development services across the state.",
+  "aiProArguments": "Supporters argue this bill provides critical recovery assistance to western North Carolina residents whose homes were damaged by Hurricane Helene, while also strengthening economic development infrastructure through women's business centers and Community Development Corporations. They contend these investments support vulnerable populations and underserved communities across multiple regions of the state.",
+  "aiConArguments": "Opponents may question whether $20.3 million in nonrecurring funds is sufficient for long-term housing recovery needs, or whether funds should be allocated directly to affected individuals rather than through a nonprofit intermediary. Some may also express concerns about the appropriate role of state funding versus federal disaster assistance or private sector recovery efforts.",
+  "topic": "Taxes & Budget",
+  "textLength": 2171,
+  "createdAt": "2026-06-23T03:08:44.195Z",
+  "sponsors": [
+    {"peopleId":2033,"name":"Daniel Blue","party":"D","isPrimary":true},
+    {"peopleId":12032,"name":"Gladys Robinson","party":"D","isPrimary":true},
+    {"peopleId":17457,"name":"Paul Lowe","party":"D","isPrimary":true},
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

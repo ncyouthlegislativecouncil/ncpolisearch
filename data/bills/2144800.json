@@ -1,0 +1,24 @@
+{
+  "billId": 2144800,
+  "billNumber": "H1036",
+  "title": "Funds for Caswell County Vol. Fire Department",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "a97b24d52f8f4b24d59b72a0ab7aedcc",
+  "lastAction": "Ref to the Com on Appropriations, if favorable, Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2026-04-23",
+  "url": "https://legiscan.com/NC/bill/H1036/2025",
+  "aiSummary": "This bill appropriates $1.7 million in state funds to Caswell County for the replacement of the Casville Volunteer Fire Department's facility. The funds would be distributed as a directed grant and become available starting July 1, 2026.",
+  "aiProArguments": "Supporters argue that volunteer fire departments are critical emergency services that often lack adequate funding and facilities. They contend that state investment in replacing an aging or inadequate fire station improves public safety, emergency response capabilities, and protects firefighters in Caswell County. Supporters may also emphasize that this targeted investment helps rural communities that struggle to fund essential services through local resources alone.",
+  "aiConArguments": "Opponents may question whether state general funds should be used for local infrastructure when counties have responsibility for funding their own services. They might argue that this sets a precedent for similar requests from other counties and fire departments across the state, potentially straining the state budget. Some may also ask whether the facility replacement is truly necessary and if alternative funding sources or phased improvements could be explored before requesting state appropriations.",
+  "topic": "Taxes & Budget",
+  "textLength": 983,
+  "createdAt": "2026-06-23T03:00:38.278Z",
+  "sponsors": [
+    {"peopleId":24214,"name":"Renee Price","party":"D","isPrimary":true},
+    {"peopleId":24199,"name":"Kanika Brown","party":"D","isPrimary":false},
+    {"peopleId":23148,"name":"Allen Buansi","party":"D","isPrimary":false},
+    {"peopleId":20521,"name":"Carolyn Logan","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

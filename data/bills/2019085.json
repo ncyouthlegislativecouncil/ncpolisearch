@@ -1,0 +1,28 @@
+{
+  "billId": 2019085,
+  "billNumber": "H751",
+  "title": "Uniform Energy Rates for Seasonal Service",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "5e5b74766b4481b630331b0657f95ecb",
+  "lastAction": "Ref to the Com on Energy and Public Utilities, if favorable, Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-04-03",
+  "url": "https://legiscan.com/NC/bill/H751/2025",
+  "aiSummary": "This bill requires large electric utility companies (serving at least 150,000 customers) to extend any seasonal or intermittent service rates they currently offer in part of their service area to all eligible customers statewide by September 1, 2025. The utility must file an application for a rate case to make this expansion.",
+  "aiProArguments": "Supporters argue this promotes fairness and equal access by ensuring customers across the entire state have access to the same rate options rather than having certain pricing available only in specific regions. This could benefit customers in underserved areas who currently lack access to seasonal or intermittent service rates, potentially reducing energy costs for those who use electricity seasonally.",
+  "aiConArguments": "Opponents may argue that uniform statewide rates ignore regional differences in infrastructure costs, demand patterns, and operational expenses that justify different pricing in different service areas. They may also contend that forcing utilities to expand rate offerings quickly could complicate billing systems, increase administrative costs, or lead to rate adjustments that affect other customer classes negatively.",
+  "topic": "Environment & Energy",
+  "textLength": 1232,
+  "createdAt": "2026-06-23T02:57:14.330Z",
+  "sponsors": [
+    {"peopleId":21375,"name":"Jeffrey McNeely","party":"R","isPrimary":true},
+    {"peopleId":14602,"name":"Dean Arp","party":"R","isPrimary":true},
+    {"peopleId":25848,"name":"Cody Huneycutt","party":"R","isPrimary":true},
+    {"peopleId":25222,"name":"Blair Eddins","party":"R","isPrimary":true},
+    {"peopleId":14612,"name":"Carla Cunningham","party":"D","isPrimary":false},
+    {"peopleId":22965,"name":"Donnie Loftis","party":"R","isPrimary":false},
+    {"peopleId":24219,"name":"Bill Ward","party":"R","isPrimary":false},
+    {"peopleId":22610,"name":"Matthew Winslow","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

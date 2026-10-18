@@ -1,0 +1,28 @@
+{
+  "billId": 2146054,
+  "billNumber": "S860",
+  "title": "Nonprofit Fundraising Sales Tax Exemption",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "14632e57e11b8aed2d4c4d0b44f1bc46",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2026-04-29",
+  "url": "https://legiscan.com/NC/bill/S860/2025",
+  "aiSummary": "This bill provides sales tax exemptions for certain nonprofit organizations and expands existing exemptions. It exempts diapers prescribed by Medicaid providers, exempts fundraising events held by nonprofits from entertainment tax, allows nonprofits to lease (rather than only own) property used for low-income housing and still qualify for property tax exemptions, and establishes a process for nonprofits to obtain sales tax exemption numbers with an annual cap of $31.7 million in state exemptions and $13.3 million in local exemptions.",
+  "aiProArguments": "Supporters argue this bill helps nonprofits serve their communities more efficiently by reducing their operating costs through tax savings, which allows them to direct more resources toward charitable work. They contend that exempting nonprofit fundraising events removes barriers to charitable giving, and that allowing nonprofits to lease properties for low-income housing expands housing options for vulnerable populations while encouraging nonprofits to participate in affordable housing solutions.",
+  "aiConArguments": "Opponents worry that expanding tax exemptions reduces state and local tax revenue needed for public services, particularly when exemptions for nonprofits have no aggregate cap beyond the stated limits. They argue that the bill may create complexity in enforcement and potential for misuse of exemption certificates, and question whether exempting all nonprofit fundraising events (even those that primarily benefit wealthy donors) is an appropriate use of foregone tax revenue.",
+  "topic": "Taxes & Budget",
+  "textLength": 16331,
+  "createdAt": "2026-06-23T03:11:21.906Z",
+  "sponsors": [
+    {"peopleId":20216,"name":"Jim Burgin","party":"R","isPrimary":true},
+    {"peopleId":18454,"name":"Kevin Corbin","party":"R","isPrimary":true},
+    {"peopleId":17437,"name":"Thomas McInnis","party":"R","isPrimary":true},
+    {"peopleId":20225,"name":"Ted Alexander","party":"R","isPrimary":false},
+    {"peopleId":22424,"name":"Michael Lazzara","party":"R","isPrimary":false},
+    {"peopleId":11858,"name":"Timothy Moffitt","party":"R","isPrimary":false},
+    {"peopleId":11862,"name":"Norman Sanderson","party":"R","isPrimary":false},
+    {"peopleId":19669,"name":"Vickie Sawyer","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

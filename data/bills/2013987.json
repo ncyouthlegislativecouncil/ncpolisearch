@@ -1,0 +1,30 @@
+{
+  "billId": 2013987,
+  "billNumber": "S516",
+  "title": "Women's Safety and Protection Act",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "e93c664a78d77dc1f36b7353c6a878a1",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-26",
+  "url": "https://legiscan.com/NC/bill/S516/2025",
+  "aiSummary": "This bill defines biological sex and gender terms in state law and creates the Women's Safety and Protection Act, which requires that bathrooms, changing facilities, and sleeping quarters in certain facilities (prisons, detention centers, schools, domestic violence centers, and rape crisis centers) be designated for use by one biological sex at a time. It also modifies birth certificate and driver's license procedures to reflect biological sex rather than allowing changes based on sex reassignment surgery.",
+  "aiProArguments": "Supporters argue this bill protects women and girls from safety risks by ensuring sex-separated facilities in vulnerable settings like detention centers, shelters, and schools. They contend that biological sex distinctions are scientifically based and necessary for privacy and security in spaces where people are undressed or vulnerable. Proponents also argue the bill clarifies state law by establishing consistent definitions of sex and gender across all statutes.",
+  "aiConArguments": "Opponents argue the bill restricts rights and dignity for transgender individuals by preventing them from using facilities consistent with their gender identity and limiting access to birth certificate changes. They contend that the bill's broad definitions and civil liability provisions could lead to discrimination and harassment claims, and that existing nondiscrimination protections for transgender people in some contexts are undermined. Critics also question whether the bill addresses actual safety concerns with evidence-based solutions.",
+  "topic": "Criminal Justice & Public Safety",
+  "textLength": 14686,
+  "createdAt": "2026-06-23T03:08:31.832Z",
+  "sponsors": [
+    {"peopleId":19669,"name":"Vickie Sawyer","party":"R","isPrimary":true},
+    {"peopleId":24223,"name":"Brad Overcash","party":"R","isPrimary":true},
+    {"peopleId":20504,"name":"Lisa Barnes","party":"R","isPrimary":false},
+    {"peopleId":25212,"name":"Bob Brinson","party":"R","isPrimary":false},
+    {"peopleId":12033,"name":"Warren Daniel","party":"R","isPrimary":false},
+    {"peopleId":20513,"name":"Bobby Hanig","party":"R","isPrimary":false},
+    {"peopleId":11937,"name":"Ralph Hise","party":"R","isPrimary":false},
+    {"peopleId":20518,"name":"Steve Jarvis","party":"R","isPrimary":false},
+    {"peopleId":25250,"name":"Dana Jones","party":"R","isPrimary":false},
+    {"peopleId":11862,"name":"Norman Sanderson","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

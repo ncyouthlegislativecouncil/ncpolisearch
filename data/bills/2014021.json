@@ -1,0 +1,24 @@
+{
+  "billId": 2014021,
+  "billNumber": "S623",
+  "title": "First Responders' Right to Assemble",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "7588c3f431aa2aab17394f549a63fcff",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-26",
+  "url": "https://legiscan.com/NC/bill/S623/2025",
+  "aiSummary": "This bill would allow first responders (such as police officers and firefighters) in North Carolina to collectively bargain with their employers for wages, benefits, and working conditions. Currently, North Carolina law prohibits collective bargaining for public employees, including first responders. The bill maintains the existing prohibition on strikes by first responders.",
+  "aiProArguments": "Supporters argue that collective bargaining is a fundamental labor right that would help North Carolina recruit and retain first responders during a critical staffing shortage. They contend that allowing first responders to negotiate collaboratively with management improves public safety outcomes by securing better training, equipment, and safety protocols. Proponents also note that 48 states already permit some form of collective bargaining for first responders, making North Carolina an outlier.",
+  "aiConArguments": "Opponents may argue that collective bargaining could increase costs for municipalities and taxpayers through higher wages and benefits. They might contend that public sector labor negotiations could reduce management flexibility in hiring, firing, and operational decisions, or that existing civil service protections for public employees already provide adequate safeguards without formal collective bargaining rights.",
+  "topic": "Business & Labor",
+  "textLength": 2851,
+  "createdAt": "2026-06-23T03:09:24.647Z",
+  "sponsors": [
+    {"peopleId":25860,"name":"Woodson Bradley","party":"D","isPrimary":true},
+    {"peopleId":20223,"name":"Mujtaba Mohammed","party":"D","isPrimary":true},
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

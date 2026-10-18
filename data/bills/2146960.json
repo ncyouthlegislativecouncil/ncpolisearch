@@ -1,0 +1,23 @@
+{
+  "billId": 2146960,
+  "billNumber": "S1013",
+  "title": "2026 Office of the State Auditor Agency Bill.-AB",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "9faf8448551c7525a421905e9b5236e5",
+  "lastAction": "Re-ref Com On Rules and Operations of the Senate",
+  "lastActionDate": "2026-06-17",
+  "url": "https://legiscan.com/NC/bill/S1013/2025",
+  "aiSummary": "This bill modifies the Office of the State Auditor's authority and operations, including allowing the Auditor to charge state agencies for financial statement audits, enabling the Auditor to contract with district attorneys for criminal prosecution of audit-related matters, and providing $500,000 in state funding for Annual Comprehensive Financial Report audits. The bill also allows the Auditor to convert certain positions to receipt-supported status and exempts the Auditor from some Department of Administration oversight.",
+  "aiProArguments": "Supporters argue this bill enhances the Auditor's independence and effectiveness by allowing cost-recovery for audits (with federal agencies and state agencies paying for services), providing dedicated funding, and streamlining the ability to prosecute financial crimes discovered during audits. These changes could improve accountability, reduce misuse of public funds, and make auditing operations more financially sustainable without relying solely on General Fund appropriations.",
+  "aiConArguments": "Opponents may be concerned that charging state agencies for audits could create financial burdens on already-stretched budgets, potentially incentivizing agencies to limit audit scope or cooperation. Others might worry that allowing the Auditor to work directly with district attorneys on prosecutions could raise questions about the Auditor's independence or create perception of bias, and that exempting the Auditor from Department of Administration oversight reduces central government accountability and purchasing oversight.",
+  "topic": "Other / General Government",
+  "textLength": 10331,
+  "createdAt": "2026-06-23T03:12:38.624Z",
+  "sponsors": [
+    {"peopleId":24225,"name":"Benton Sawrey","party":"R","isPrimary":true},
+    {"peopleId":25250,"name":"Dana Jones","party":"R","isPrimary":true},
+    {"peopleId":11858,"name":"Timothy Moffitt","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

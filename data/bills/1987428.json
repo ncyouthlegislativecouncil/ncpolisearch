@@ -1,0 +1,21 @@
+{
+  "billId": 1987428,
+  "billNumber": "S215",
+  "title": "28th Senatorial District Local Act-1",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "86db1ae66012d65f1067311dae9c0225",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-03",
+  "url": "https://legiscan.com/NC/bill/S215/2025",
+  "aiSummary": "This is a local bill that applies only to the 28th Senatorial District in North Carolina. The bill itself contains no specific provisions—it only establishes that any measures contained would apply exclusively to that district and become effective upon passage.",
+  "aiProArguments": "Supporters of local bills argue they allow the General Assembly to address unique circumstances, needs, or concerns specific to individual districts without affecting the entire state. Local legislation can provide targeted solutions for district-specific issues more efficiently than statewide laws.",
+  "aiConArguments": "Opponents of local bills raise concerns about equity and consistency, arguing that different rules in different districts can create confusion and unfair treatment. They contend that local bills may lack sufficient public scrutiny compared to statewide legislation and can make the legal code harder to navigate.",
+  "topic": "Local Government",
+  "textLength": 507,
+  "createdAt": "2026-06-23T03:05:52.078Z",
+  "sponsors": [
+    {"peopleId":12032,"name":"Gladys Robinson","party":"D","isPrimary":true}
+  ],
+  "rollCalls": []
+}

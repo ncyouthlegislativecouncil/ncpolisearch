@@ -1,0 +1,27 @@
+{
+  "billId": 2014051,
+  "billNumber": "S592",
+  "title": "Statewide Child Care Investment Act",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "0881d59421a80bcb9f0bdde2bb4978ef",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2025-03-26",
+  "url": "https://legiscan.com/NC/bill/S592/2025",
+  "aiSummary": "This bill appropriates $25 million per year for the 2025-2027 fiscal period to provide matching grants to North Carolina counties and private employers for child care capacity building projects. Eligible uses include construction, renovation, equipment, and playground installation, with recipients required to provide a 25% match of their own funds.",
+  "aiProArguments": "Supporters argue this bill addresses child care shortages and affordability challenges that limit workforce participation, particularly for lower-income families. They contend that public and private investment in child care infrastructure creates jobs, increases available slots for children, and removes barriers that prevent parents—especially mothers—from entering or remaining in the workforce, benefiting both families and the state economy.",
+  "aiConArguments": "Opponents may question whether state funds should subsidize private employer child care operations, argue that the 25% match requirement could burden smaller counties with limited budgets, or express concern that $25 million annually may be insufficient to meaningfully expand capacity statewide. Some may also raise questions about whether this is the most cost-effective use of general funds compared to other child care support approaches.",
+  "topic": "Taxes & Budget",
+  "textLength": 1765,
+  "createdAt": "2026-06-23T03:09:09.744Z",
+  "sponsors": [
+    {"peopleId":17936,"name":"Jay Chaudhuri","party":"D","isPrimary":true},
+    {"peopleId":25858,"name":"Sophia Chitlik","party":"D","isPrimary":true},
+    {"peopleId":25860,"name":"Woodson Bradley","party":"D","isPrimary":false},
+    {"peopleId":22425,"name":"Julie Mayfield","party":"D","isPrimary":false},
+    {"peopleId":20223,"name":"Mujtaba Mohammed","party":"D","isPrimary":false},
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

@@ -1,0 +1,21 @@
+{
+  "billId": 1987548,
+  "billNumber": "S213",
+  "title": "42nd Senatorial District Local Act-1",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "25e060912bd2dce79854b22d4ac7255f",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-03",
+  "url": "https://legiscan.com/NC/bill/S213/2025",
+  "aiSummary": "This is a local bill that applies only to the 42nd Senatorial District in North Carolina. The bill text provided does not specify what changes are being made to the district, only that the act relates to it and becomes effective upon passage.",
+  "aiProArguments": "Supporters of local bills argue they allow the General Assembly to address specific regional needs and circumstances that may not apply statewide. Local acts can provide targeted solutions for particular districts without affecting the rest of the state.",
+  "aiConArguments": "Opponents of local bills raise concerns about transparency and equal treatment, arguing that laws affecting specific districts should be clearly spelled out in the legislation so constituents understand what is being changed. The vague language in this bill makes it difficult for the public to know what impacts their district will experience.",
+  "topic": "Local Government",
+  "textLength": 506,
+  "createdAt": "2026-06-23T03:05:51.346Z",
+  "sponsors": [
+    {"peopleId":25860,"name":"Woodson Bradley","party":"D","isPrimary":true}
+  ],
+  "rollCalls": []
+}

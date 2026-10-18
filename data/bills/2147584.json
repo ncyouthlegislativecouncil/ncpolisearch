@@ -1,0 +1,21 @@
+{
+  "billId": 2147584,
+  "billNumber": "H1217",
+  "title": "Norlina/Even-Yr Elect./4-Yr Staggered Terms",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "9f4a16719c22b4c00d008543efdeb49a",
+  "lastAction": "Re-ref Com On Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2026-06-23",
+  "url": "https://legiscan.com/NC/bill/H1217/2025",
+  "aiSummary": "This bill changes municipal elections in the Town of Norlina from odd-numbered years to even-numbered years (aligning with general elections) and extends commissioner terms from two years to staggered four-year terms, with the mayor serving four-year terms. The transition skips the 2027 election and begins regular elections again in 2028 with a staggered system.",
+  "aiProArguments": "Supporters argue that holding Norlina elections in even-numbered years increases voter turnout by combining local elections with state and federal elections, reducing voter fatigue and election administration costs. They contend that four-year staggered terms provide more stability and continuity in local government, allowing elected officials to focus on long-term planning rather than constantly campaigning for re-election.",
+  "aiConArguments": "Opponents may argue that the transition period (skipping 2027 and extending current terms) raises concerns about democratic representation and accountability, as it delays when voters can express their preferences. Some may also contend that four-year terms reduce the frequency of electoral accountability and make it harder for voters to remove ineffective officials, and that the staggered system adds complexity to the election process.",
+  "topic": "Elections & Voting",
+  "textLength": 4062,
+  "createdAt": "2026-06-23T03:03:36.368Z",
+  "sponsors": [
+    {"peopleId":25853,"name":"Rodney Pierce","party":"D","isPrimary":true}
+  ],
+  "rollCalls": []
+}

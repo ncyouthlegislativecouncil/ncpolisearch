@@ -1,0 +1,24 @@
+{
+  "billId": 2013313,
+  "billNumber": "S476",
+  "title": "Allow Widow/Widower To Hyphenate Name",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "eca6d4dd4001454609b0d34102d2da24",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-25",
+  "url": "https://legiscan.com/NC/bill/S476/2025",
+  "aiSummary": "This bill modifies North Carolina law to give widows and widowers additional options when changing their name after a spouse's death. Instead of only being able to resume their pre-marriage surname or a previous spouse's surname, they may now also hyphenate their pre-marriage surname with their deceased spouse's surname.",
+  "aiProArguments": "Supporters argue this gives grieving spouses more personal choice and flexibility in how they honor their identity after losing a partner. The hyphenation option allows people to maintain connection to both their family of origin and their marriage, which some may find meaningful. This change expands individual freedom without restricting any existing options previously available.",
+  "aiConArguments": "Opponents may question whether expanding name change options is a necessary use of legislative time and resources. Some could argue the current law already provides sufficient choices for widows and widowers, and that hyphenated surnames may create practical complications with government records, identification documents, or legal processes. There may also be concerns about administrative burden on county clerks implementing the new procedure.",
+  "topic": "Other / General Government",
+  "textLength": 1807,
+  "createdAt": "2026-06-23T03:08:10.369Z",
+  "sponsors": [
+    {"peopleId":21633,"name":"Natalie Murdock","party":"D","isPrimary":true},
+    {"peopleId":20220,"name":"Michael Garrett","party":"D","isPrimary":false},
+    {"peopleId":20223,"name":"Mujtaba Mohammed","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

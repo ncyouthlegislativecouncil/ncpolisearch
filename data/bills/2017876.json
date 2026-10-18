@@ -1,0 +1,29 @@
+{
+  "billId": 2017876,
+  "billNumber": "H640",
+  "title": "Public Assistance Verification Enhancements",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "55a09bb5743d280d55e03272ca205938",
+  "lastAction": "Re-ref Com On Health",
+  "lastActionDate": "2025-04-15",
+  "url": "https://legiscan.com/NC/bill/H640/2025",
+  "aiSummary": "This bill requires North Carolina's Department of Health and Human Services and public housing authorities to regularly verify eligibility for public assistance programs (food stamps, Medicaid, temporary assistance, and housing) by checking multiple state and federal databases for changes in income, employment, residency, incarceration status, lottery winnings, and other circumstances. It also requires the department to verify applicants' information before enrollment rather than accepting self-attestation and to publish quarterly data about fraud investigations and improper payments.",
+  "aiProArguments": "Supporters argue this bill prevents fraud and misuse of public assistance by catching ineligible recipients who fail to report income changes or other circumstances that would disqualify them. They contend that cross-checking with databases for lottery winnings, employment records, and other data helps ensure benefits go only to those who truly qualify, protecting taxpayer funds and freeing resources for those genuinely in need.",
+  "aiConArguments": "Opponents worry the bill creates administrative burdens and costs for agencies implementing frequent data checks and may cause eligible recipients to lose benefits due to verification delays or errors in database matching. They also raise concerns about privacy when multiple government agencies share personal data, and note that the stricter verification requirements—especially the 12-day response deadline and prohibition on self-attestation—may discourage eligible people from applying or cause benefits to lapse due to paperwork challenges.",
+  "topic": "Social Services & Welfare",
+  "textLength": 20514,
+  "createdAt": "2026-06-23T02:55:50.043Z",
+  "sponsors": [
+    {"peopleId":2127,"name":"Sarah Stevens","party":"R","isPrimary":true},
+    {"peopleId":24196,"name":"Jennifer Balkcom","party":"R","isPrimary":false},
+    {"peopleId":24197,"name":"Brian Biggs","party":"R","isPrimary":false},
+    {"peopleId":24207,"name":"Neal Jackson","party":"R","isPrimary":false},
+    {"peopleId":20519,"name":"Keith Kidwell","party":"R","isPrimary":false},
+    {"peopleId":24211,"name":"Jarrod Lowery","party":"R","isPrimary":false},
+    {"peopleId":21375,"name":"Jeffrey McNeely","party":"R","isPrimary":false},
+    {"peopleId":24219,"name":"Bill Ward","party":"R","isPrimary":false},
+    {"peopleId":18495,"name":"Donna White","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

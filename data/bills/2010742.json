@@ -1,0 +1,26 @@
+{
+  "billId": 2010742,
+  "billNumber": "S338",
+  "title": "NC Farmland and Military Protection Act",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "89aead09613a10aa9c50728de4ab689a",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-20",
+  "url": "https://legiscan.com/NC/bill/S338/2025",
+  "aiSummary": "This bill prohibits foreign governments designated as adversarial by the U.S. Department of Commerce from purchasing, leasing, or holding interests in North Carolina agricultural land or land within 25 miles of specified military installations. The bill includes a $50,000 appropriation for farmland inventory and becomes effective January 1, 2026.",
+  "aiProArguments": "Supporters argue this bill protects critical state resources by preventing adversarial foreign powers from controlling North Carolina's food production and gaining strategic proximity to military bases. They contend that farmland is essential infrastructure for national food security and that foreign government ownership of land near military installations poses legitimate security risks.",
+  "aiConArguments": "Opponents may raise concerns about potential conflicts with federal law and interstate commerce regulations, the enforceability of restrictions on foreign entities, and whether the bill might discourage legitimate foreign investment in agriculture or related industries. Some may question whether the 25-mile buffer around military installations is justified or if the definition of adversarial governments is too broad or subject to political manipulation.",
+  "topic": "Agriculture",
+  "textLength": 5589,
+  "createdAt": "2026-06-23T03:06:54.973Z",
+  "sponsors": [
+    {"peopleId":20510,"name":"Terence Everitt","party":"D","isPrimary":true},
+    {"peopleId":24220,"name":"Val Applewhite","party":"D","isPrimary":true},
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":true},
+    {"peopleId":25860,"name":"Woodson Bradley","party":"D","isPrimary":false},
+    {"peopleId":20223,"name":"Mujtaba Mohammed","party":"D","isPrimary":false},
+    {"peopleId":22426,"name":"DeAndrea Salvador","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

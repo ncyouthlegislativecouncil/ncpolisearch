@@ -1,0 +1,29 @@
+{
+  "billId": 2018814,
+  "billNumber": "H712",
+  "title": "Universal Income/Pay-It-Forward Fund",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "ea19933b2a19f9a52f6dcb2b508ab908",
+  "lastAction": "Ref To Com On Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-04-03",
+  "url": "https://legiscan.com/NC/bill/H712/2025",
+  "aiSummary": "This bill establishes the North Carolina Universal Income Program (NCUIP) in the Department of Commerce, which would provide eligible individuals up to $3,000 per month for up to five years while they participate in job training, volunteer work, or both. The program would be funded through a Pay-It-Forward Fund supported by private partnerships, tax incentives, and government sources, with program graduates required to pay an additional 1% in state income taxes to support future participants.",
+  "aiProArguments": "Supporters argue this program helps unemployed or underemployed North Carolinians gain skills and stable employment while contributing to their communities through volunteering. They contend the Pay-It-Forward repayment structure creates a sustainable funding model where graduates help fund the program for others, and the public-private partnership approach minimizes direct government spending while addressing workforce development and community service needs.",
+  "aiConArguments": "Opponents may worry about the significant cost of providing $3,000 monthly to participants and whether the 1% income tax surcharge on graduates will generate sufficient revenue to sustain the program long-term. Critics might also question whether the program is the most efficient use of resources compared to other job training or assistance programs, and whether adding a permanent 1% tax on graduates could discourage participation or create fairness concerns.",
+  "topic": "Social Services & Welfare",
+  "textLength": 2506,
+  "createdAt": "2026-06-23T02:56:45.590Z",
+  "sponsors": [
+    {"peopleId":17151,"name":"Cecil Brockman","party":"D","isPrimary":true},
+    {"peopleId":24890,"name":"Eric Ager","party":"D","isPrimary":false},
+    {"peopleId":22599,"name":"Amber Baker","party":"D","isPrimary":false},
+    {"peopleId":24202,"name":"Maria Cervania","party":"D","isPrimary":false},
+    {"peopleId":25851,"name":"Aisha Dew","party":"D","isPrimary":false},
+    {"peopleId":2077,"name":"Mary Harrison","party":"D","isPrimary":false},
+    {"peopleId":20515,"name":"Zack Forde-Hawkins","party":"D","isPrimary":false},
+    {"peopleId":20522,"name":"Nasif Majeed","party":"D","isPrimary":false},
+    {"peopleId":25853,"name":"Rodney Pierce","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

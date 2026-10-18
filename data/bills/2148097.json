@@ -1,0 +1,29 @@
+{
+  "billId": 2148097,
+  "billNumber": "H1228",
+  "title": "Down-Zoning/Historic Districts-Mecklenburg Co",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "7333d93b2642b8091ee0f66a4a1ff44b",
+  "lastAction": "Ref To Com On Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2026-05-07",
+  "url": "https://legiscan.com/NC/bill/H1228/2025",
+  "aiSummary": "This bill changes North Carolina law to specify that designating a historic district in Mecklenburg County is not considered 'down-zoning.' Under current state law, down-zoning requires written consent from all affected property owners; this bill exempts historic district designations from that requirement in Mecklenburg County.",
+  "aiProArguments": "Supporters argue this bill makes it easier to protect historic neighborhoods and architectural heritage by removing a procedural barrier. They contend that historic district designations preserve community character and property values while preventing demolition of culturally significant structures, and that requiring unanimous property owner consent would make such protections difficult or impossible to implement.",
+  "aiConArguments": "Opponents argue that historic district designations do restrict how property owners can develop or modify their land, which constitutes down-zoning regardless of the label. They contend that removing the consent requirement limits property owner rights and allows the government to impose restrictions on land use without unanimous agreement, potentially affecting property values and owners' ability to redevelop their properties.",
+  "topic": "Local Government",
+  "textLength": 2337,
+  "createdAt": "2026-06-23T03:03:41.430Z",
+  "sponsors": [
+    {"peopleId":2044,"name":"Becky Carney","party":"D","isPrimary":true},
+    {"peopleId":22600,"name":"Terry Brown","party":"D","isPrimary":true},
+    {"peopleId":18451,"name":"Mary Belk","party":"D","isPrimary":true},
+    {"peopleId":20520,"name":"Brandon Lofton","party":"D","isPrimary":true},
+    {"peopleId":26662,"name":"Amanda Cook","party":"D","isPrimary":false},
+    {"peopleId":25844,"name":"Julia Greenfield","party":"D","isPrimary":false},
+    {"peopleId":2077,"name":"Mary Harrison","party":"D","isPrimary":false},
+    {"peopleId":25847,"name":"Beth Helfrich","party":"D","isPrimary":false},
+    {"peopleId":20521,"name":"Carolyn Logan","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

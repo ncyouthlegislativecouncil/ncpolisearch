@@ -1,0 +1,28 @@
+{
+  "billId": 2011556,
+  "billNumber": "S362",
+  "title": "Strengthen Long-Term Care Ombudsman Program",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "1d9a0362649c392da065a5d31df70c63",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2025-03-24",
+  "url": "https://legiscan.com/NC/bill/S362/2025",
+  "aiSummary": "This bill appropriates $1 million per year for the 2025-2027 fiscal years to strengthen North Carolina's Long-Term Care Ombudsman Program. The funding supports nine new Regional Ombudsman positions in Area Agencies on Aging, operational expenses, and directs a study on statutory changes needed to improve the program and its volunteer system.",
+  "aiProArguments": "Supporters argue this bill addresses a critical gap in protecting vulnerable residents of nursing homes and long-term care facilities. By funding nine additional ombudsman positions, the state moves closer to national standards for resident advocacy, allowing more complaints to be investigated and more residents to receive help with grievances, quality of care issues, and rights violations.",
+  "aiConArguments": "Opponents may question the cost-effectiveness of the $1 million annual appropriation and whether sufficient oversight exists to ensure the new positions effectively serve residents. Some may argue the state should first study whether structural reforms are needed before expanding staff, or raise concerns about whether the positions will be placed in areas of greatest need versus political considerations.",
+  "topic": "Healthcare",
+  "textLength": 2617,
+  "createdAt": "2026-06-23T03:07:08.409Z",
+  "sponsors": [
+    {"peopleId":20225,"name":"Ted Alexander","party":"R","isPrimary":true},
+    {"peopleId":17147,"name":"Gale Adcock","party":"D","isPrimary":false},
+    {"peopleId":24222,"name":"Lisa Grafstein","party":"D","isPrimary":false},
+    {"peopleId":17457,"name":"Paul Lowe","party":"D","isPrimary":false},
+    {"peopleId":20223,"name":"Mujtaba Mohammed","party":"D","isPrimary":false},
+    {"peopleId":12032,"name":"Gladys Robinson","party":"D","isPrimary":false},
+    {"peopleId":25859,"name":"Caleb Theodros","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

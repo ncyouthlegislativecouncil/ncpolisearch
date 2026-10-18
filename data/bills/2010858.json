@@ -1,0 +1,21 @@
+{
+  "billId": 2010858,
+  "billNumber": "S340",
+  "title": "Funds for Pittsboro Fire Services",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "4ad905c508b5c3f44481f9dc53b9728b",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2025-03-24",
+  "url": "https://legiscan.com/NC/bill/S340/2025",
+  "aiSummary": "This bill appropriates $10 million in state funds to the Town of Pittsboro for emergency fire services, including $7 million for a new fire station, $1.8 million for a ladder truck, and $1.2 million for a fire engine. The funds are designated as nonrecurring and become available on July 1, 2025.",
+  "aiProArguments": "Supporters argue that Pittsboro's fire services need modernization and upgraded equipment to protect residents and property more effectively. This directed state investment would allow the town to build critical infrastructure and acquire essential equipment without burdening local taxpayers, potentially improving emergency response times and public safety in the community.",
+  "aiConArguments": "Opponents may argue that directing $10 million to one town sets a precedent for other municipalities to request similar state funding, potentially straining the state budget. They might also question whether Pittsboro should fund fire services improvements through local taxes or bonds rather than relying on state appropriations, and whether this represents the best use of limited state resources compared to other statewide priorities.",
+  "topic": "Taxes & Budget",
+  "textLength": 1070,
+  "createdAt": "2026-06-23T03:06:56.061Z",
+  "sponsors": [
+    {"peopleId":21633,"name":"Natalie Murdock","party":"D","isPrimary":true}
+  ],
+  "rollCalls": []
+}

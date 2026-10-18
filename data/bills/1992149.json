@@ -1,0 +1,21 @@
+{
+  "billId": 1992149,
+  "billNumber": "S235",
+  "title": "Funds for Town of Macclesfield Equipment",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "896629c29edf2dc023986924acb3f95b",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2025-03-06",
+  "url": "https://legiscan.com/NC/bill/S235/2025",
+  "aiSummary": "This bill appropriates $100,000 in state funds to the Town of Macclesfield for a one-time grant to purchase equipment. The funds come from the state's General Fund and are intended for the 2025-2026 fiscal year, becoming effective July 1, 2025.",
+  "aiProArguments": "Supporters argue this funding helps a small town acquire necessary equipment it may not otherwise afford, improving local services and infrastructure. The grant enables Macclesfield to better serve its residents by upgrading or replacing aging equipment that supports municipal operations.",
+  "aiConArguments": "Opponents may question whether state general fund resources should be directed to specific towns rather than distributed through standard competitive grant processes, and whether this appropriation reflects fair allocation of limited state funds across all communities in North Carolina.",
+  "topic": "Taxes & Budget",
+  "textLength": 761,
+  "createdAt": "2026-06-23T03:06:01.389Z",
+  "sponsors": [
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":true}
+  ],
+  "rollCalls": []
+}

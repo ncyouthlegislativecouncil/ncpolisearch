@@ -1,0 +1,25 @@
+{
+  "billId": 2013830,
+  "billNumber": "S546",
+  "title": "Clean Energy Workforce & Innovation Act",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "9b7b7fbdf201736647a50b5e496be5d3",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-26",
+  "url": "https://legiscan.com/NC/bill/S546/2025",
+  "aiSummary": "This bill establishes a Clean Energy Workforce Development Program to train North Carolinians for nuclear energy and small modular reactor jobs through grants to schools, apprenticeships, scholarships, and veteran initiatives. It also directs a study on creating Nuclear Innovation Zones to streamline nuclear energy development and adds tax credits for clean energy manufacturers.",
+  "aiProArguments": "Supporters argue this bill creates high-paying jobs in emerging clean energy sectors while helping communities transition away from coal plant closures. The workforce programs prioritize economically disadvantaged students and displaced fossil fuel workers, directing benefits to affected regions. Clean energy manufacturing tax credits and streamlined regulations could attract nuclear technology companies and manufacturing to North Carolina.",
+  "aiConArguments": "Opponents may question whether nuclear energy qualifies as truly clean energy given long-term waste storage concerns, and worry about regulatory streamlining potentially compromising safety oversight. The tax credits for manufacturers could reduce state revenue without guaranteed job creation results. Some may also be concerned about whether workforce training programs adequately prepare workers or if nuclear facility closures could leave trained workers without employment.",
+  "topic": "Environment & Energy",
+  "textLength": 66177,
+  "createdAt": "2026-06-23T03:08:46.119Z",
+  "sponsors": [
+    {"peopleId":25859,"name":"Caleb Theodros","party":"D","isPrimary":true},
+    {"peopleId":22426,"name":"DeAndrea Salvador","party":"D","isPrimary":true},
+    {"peopleId":21633,"name":"Natalie Murdock","party":"D","isPrimary":false},
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

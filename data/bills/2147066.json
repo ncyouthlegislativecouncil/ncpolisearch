@@ -1,0 +1,22 @@
+{
+  "billId": 2147066,
+  "billNumber": "S1025",
+  "title": "Constitutional Repeal of Art. XIV Sec. 6",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "ca4b4c3541c060d8ddc9118d54858a23",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2026-05-04",
+  "url": "https://legiscan.com/NC/bill/S1025/2025",
+  "aiSummary": "This bill proposes a constitutional amendment to repeal North Carolina's current constitutional definition of marriage as only between one man and one woman. The amendment would be submitted to North Carolina voters in November 2026, and if approved by a majority, would take effect January 1, 2027.",
+  "aiProArguments": "Supporters argue that the current constitutional language discriminates against same-sex couples and prevents them from accessing the legal protections and recognition that marriage provides, such as hospital visitation rights, inheritance rights, and tax benefits. They contend that repealing this provision aligns North Carolina with the U.S. Supreme Court's 2015 Obergefell decision, which found a constitutional right to marriage equality, and allows the state constitution to reflect current legal standards and values of equality.",
+  "aiConArguments": "Opponents argue that the current constitutional language reflects traditional definitions of marriage and their religious or philosophical beliefs about the nature of marriage. They contend that decisions about marriage definition should be made through democratic processes by voters rather than courts, and express concerns that removing this language could lead to additional legal or regulatory changes they view as conflicting with their values.",
+  "topic": "Other / General Government",
+  "textLength": 2149,
+  "createdAt": "2026-06-23T03:12:45.426Z",
+  "sponsors": [
+    {"peopleId":20220,"name":"Michael Garrett","party":"D","isPrimary":true},
+    {"peopleId":20505,"name":"Sydney Batch","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

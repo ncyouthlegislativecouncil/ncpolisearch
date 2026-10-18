@@ -1,0 +1,24 @@
+{
+  "billId": 2013527,
+  "billNumber": "S470",
+  "title": "End Block Scheduling",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "f0947a47afc3f18305b4d8b7dc55eae2",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-25",
+  "url": "https://legiscan.com/NC/bill/S470/2025",
+  "aiSummary": "This bill prohibits North Carolina public schools from using block scheduling, requiring instead that no class period exceed 50 minutes of instructional time per day. Schools must report their class schedules and start/release times to the State Board of Education beginning in the 2026-2027 school year.",
+  "aiProArguments": "Supporters argue that shorter class periods allow students to take more courses, improve focus and engagement since 50-minute periods match typical student attention spans better, and reduce the depth of material students must absorb in a single sitting. They contend this schedule helps students with different learning needs and provides more variety in their daily academic experience.",
+  "aiConArguments": "Opponents worry that shorter periods reduce instructional time for complex subjects that benefit from longer, uninterrupted blocks—such as lab sciences, mathematics, and foreign languages. They also argue that schools have adopted block scheduling intentionally to reduce transitions between classes and administrative burden, and that eliminating this flexibility removes local control over scheduling decisions that work best for individual school communities.",
+  "topic": "Education",
+  "textLength": 2029,
+  "createdAt": "2026-06-23T03:08:07.222Z",
+  "sponsors": [
+    {"peopleId":11858,"name":"Timothy Moffitt","party":"R","isPrimary":true},
+    {"peopleId":17437,"name":"Thomas McInnis","party":"R","isPrimary":true},
+    {"peopleId":20216,"name":"Jim Burgin","party":"R","isPrimary":false},
+    {"peopleId":20513,"name":"Bobby Hanig","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

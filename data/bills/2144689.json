@@ -1,0 +1,21 @@
+{
+  "billId": 2144689,
+  "billNumber": "H1033",
+  "title": "Dental Board Reform",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "f47401e2c65ea983260e1ee4721d5f12",
+  "lastAction": "Re-ref Com On Health",
+  "lastActionDate": "2026-05-12",
+  "url": "https://legiscan.com/NC/bill/H1033/2025",
+  "aiSummary": "This bill restructures the North Carolina Board of Dental Examiners by changing it from an elected board to an appointed board with 11 members instead of the previous structure. It adds new consumer protections, voting restrictions, training requirements for board members, and establishes new rules for how occupational licensing boards operate, including requirements for rulemaking, complaint processes, and enforcement procedures.",
+  "aiProArguments": "Supporters argue this bill increases public oversight and accountability by adding more consumer members (3 instead of 1) who cannot have financial interests in dental services, and by moving board appointments to the Governor, General Assembly, and Commissioner of Labor rather than having dentists elect themselves. The bill also implements safeguards recommended by the U.S. Federal Trade Commission to prevent the dental board from using its regulatory power to restrict competition, protects consumers through improved complaint processes and transparency, and requires board members to receive training on ethics, open meetings, and administrative law.",
+  "aiConArguments": "Opponents may argue that removing the election of dentist board members by licensed dentists reduces professional input from practitioners who understand dental practice standards, and that appointed boards are more susceptible to political influence than elected ones. Some may contend that strict conflict-of-interest rules for consumer members could make it difficult to find qualified candidates, and that the restrictions on what dental hygienists and consumer members can vote on limits their meaningful participation in board decisions despite their appointment to the board.",
+  "topic": "Business & Labor",
+  "textLength": 19592,
+  "createdAt": "2026-06-23T03:00:36.794Z",
+  "sponsors": [
+    {"peopleId":2127,"name":"Sarah Stevens","party":"R","isPrimary":true}
+  ],
+  "rollCalls": []
+}

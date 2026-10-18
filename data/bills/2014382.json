@@ -1,0 +1,24 @@
+{
+  "billId": 2014382,
+  "billNumber": "S671",
+  "title": "Helene Rev. Replace./Locals; Prop Tax Relief",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "ee057095d0c8ce74cae7cd469f166eba",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2025-04-28",
+  "url": "https://legiscan.com/NC/bill/S671/2025",
+  "aiSummary": "This bill creates a $40 million grant program to help local governments in western North Carolina recover revenue lost from property damage caused by Hurricane Helene, covering losses in property taxes, sales taxes, and water/sewer fees. It also provides property tax interest relief from January 2025 through December 2026 for property owners in affected areas who received over $42,000 in disaster relief or insurance compensation.",
+  "aiProArguments": "Supporters argue this bill helps communities devastated by Hurricane Helene recover essential government services and infrastructure by replacing lost tax revenue during the recovery period. Proponents contend that property tax interest relief is fair because affected homeowners are already dealing with major damage and financial hardship, and waiving interest during the recovery window prevents additional burden on those receiving disaster assistance.",
+  "aiConArguments": "Opponents may question whether $40 million is sufficient given the scale of hurricane damage across the region and whether the program's time limits (ending in 2026) adequately address long-term recovery needs. Critics could also raise concerns about the fiscal impact of interest relief on county budgets and whether relief should be limited only to those receiving substantial disaster compensation rather than all affected property owners.",
+  "topic": "Taxes & Budget",
+  "textLength": 12258,
+  "createdAt": "2026-06-23T03:09:53.109Z",
+  "sponsors": [
+    {"peopleId":11937,"name":"Ralph Hise","party":"R","isPrimary":true},
+    {"peopleId":11858,"name":"Timothy Moffitt","party":"R","isPrimary":true},
+    {"peopleId":12033,"name":"Warren Daniel","party":"R","isPrimary":true},
+    {"peopleId":22425,"name":"Julie Mayfield","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

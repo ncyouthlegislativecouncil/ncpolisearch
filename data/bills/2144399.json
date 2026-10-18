@@ -1,0 +1,33 @@
+{
+  "billId": 2144399,
+  "billNumber": "S806",
+  "title": "No Budget, No Pay Act",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "1d76d4fafb8fede3507ab7cde868de63",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2026-05-06",
+  "url": "https://legiscan.com/NC/bill/S806/2025",
+  "aiSummary": "This bill requires the salaries of North Carolina General Assembly members to be held in escrow (set aside) if the legislature does not pass a budget for fiscal year 2026-2027 by June 30, 2026. The withheld pay would be released once a budget is ratified or the legislative session ends.",
+  "aiProArguments": "Supporters argue this creates financial incentive for lawmakers to pass a budget on time, preventing delays that can disrupt state spending and operations. They contend that holding legislators' own paychecks accountable encourages fiscal responsibility and timely budget negotiations, similar to measures used in other states.",
+  "aiConArguments": "Opponents may argue this punishes all legislators equally regardless of who causes budget delays, potentially affecting lower-paid members more severely. They may also contend that budget negotiations are complex and sometimes require careful deliberation beyond artificial deadlines, and that delaying lawmaker pay could distract from substantive budget discussions.",
+  "topic": "Taxes & Budget",
+  "textLength": 1820,
+  "createdAt": "2026-06-23T03:10:53.747Z",
+  "sponsors": [
+    {"peopleId":24222,"name":"Lisa Grafstein","party":"D","isPrimary":true},
+    {"peopleId":25860,"name":"Woodson Bradley","party":"D","isPrimary":true},
+    {"peopleId":20510,"name":"Terence Everitt","party":"D","isPrimary":true},
+    {"peopleId":20505,"name":"Sydney Batch","party":"D","isPrimary":false},
+    {"peopleId":25858,"name":"Sophia Chitlik","party":"D","isPrimary":false},
+    {"peopleId":20220,"name":"Michael Garrett","party":"D","isPrimary":false},
+    {"peopleId":26664,"name":"Jonah Garson","party":"D","isPrimary":false},
+    {"peopleId":22425,"name":"Julie Mayfield","party":"D","isPrimary":false},
+    {"peopleId":20223,"name":"Mujtaba Mohammed","party":"D","isPrimary":false},
+    {"peopleId":21633,"name":"Natalie Murdock","party":"D","isPrimary":false},
+    {"peopleId":22426,"name":"DeAndrea Salvador","party":"D","isPrimary":false},
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":false},
+    {"peopleId":25859,"name":"Caleb Theodros","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

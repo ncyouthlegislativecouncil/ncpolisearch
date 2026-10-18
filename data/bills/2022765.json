@@ -1,0 +1,23 @@
+{
+  "billId": 2022765,
+  "billNumber": "H991",
+  "title": "Establish DMORT",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "4e300bfbf4bba71b0ee8b12e3a597a76",
+  "lastAction": "Ref to the Com on Emergency Management and Disaster Recovery, if favorable, Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-04-14",
+  "url": "https://legiscan.com/NC/bill/H991/2025",
+  "aiSummary": "This bill establishes a Disaster Mortuary Operational Response Team (DMORT) within the Division of Emergency Management to respond to disasters and mass fatality incidents in North Carolina. DMORT would consist of licensed professionals such as funeral directors, medical examiners, dentists, and forensic specialists who would identify victims, recover and transport remains, and assist families during disaster recovery operations.",
+  "aiProArguments": "Supporters argue that DMORT creates an organized, trained response system for handling mass casualty events that overwhelm local funeral services and medical examiner offices. The team would provide critical services including victim identification, temporary morgue operations, and respectful handling of remains during chaotic disaster situations, reducing burden on local communities and helping families reunite with loved ones more efficiently.",
+  "aiConArguments": "Opponents may be concerned about the costs of establishing and maintaining a specialized team, including training and equipment expenses within a state budget. Some may question whether existing local funeral services, medical examiners, and federal disaster response resources (like the federal DMORT) already adequately address these needs, or whether this duplicates services and creates unnecessary state infrastructure.",
+  "topic": "Criminal Justice & Public Safety",
+  "textLength": 6268,
+  "createdAt": "2026-06-23T03:00:08.722Z",
+  "sponsors": [
+    {"peopleId":18460,"name":"Brenden Jones","party":"R","isPrimary":true},
+    {"peopleId":25846,"name":"Mike Colvin","party":"D","isPrimary":true},
+    {"peopleId":24219,"name":"Bill Ward","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

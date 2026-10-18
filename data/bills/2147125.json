@@ -1,0 +1,25 @@
+{
+  "billId": 2147125,
+  "billNumber": "S1029",
+  "title": "Tax Relief on Essentials for Working Families",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "a4dbea83f37784eff5de40f8db5ed7ea",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2026-05-05",
+  "url": "https://legiscan.com/NC/bill/S1029/2025",
+  "aiSummary": "This bill exempts feminine hygiene products, diapers, and most groceries from North Carolina's sales tax, effective October 1, 2026. It also appropriates $1.6 million to regional councils of government to educate the public about these tax relief measures.",
+  "aiProArguments": "Supporters argue this bill reduces financial burden on working families and low-income households by eliminating sales tax on essential items they must purchase regularly. They contend that feminine hygiene products and diapers are necessities, not luxuries, and that removing tax on groceries helps families afford basic nutrition and improves affordability of basic living expenses.",
+  "aiConArguments": "Opponents may argue that eliminating sales tax on these items reduces state revenue needed for schools, roads, and services, and that the $1.6 million education appropriation adds to state spending. Critics might also question whether targeted exemptions are the most efficient way to help low-income families compared to other approaches, or note that broad grocery exemptions could benefit higher-income households equally despite their greater ability to pay.",
+  "topic": "Taxes & Budget",
+  "textLength": 7723,
+  "createdAt": "2026-06-23T03:12:47.673Z",
+  "sponsors": [
+    {"peopleId":20223,"name":"Mujtaba Mohammed","party":"D","isPrimary":true},
+    {"peopleId":25858,"name":"Sophia Chitlik","party":"D","isPrimary":false},
+    {"peopleId":21633,"name":"Natalie Murdock","party":"D","isPrimary":false},
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

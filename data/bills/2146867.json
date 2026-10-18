@@ -1,0 +1,25 @@
+{
+  "billId": 2146867,
+  "billNumber": "S957",
+  "title": "Portable-Scale Solar Energy Devices",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "72f0af93b9a2881f939081d9879f4772",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2026-05-04",
+  "url": "https://legiscan.com/NC/bill/S957/2025",
+  "aiSummary": "This bill allows North Carolina residents to use small portable solar energy devices (up to 1.92 kilowatts) without needing utility company approval or paying installation fees, as long as the devices are primarily for personal use and have safety features. The bill also provides $100,000 in funding to expand the Board of Examiners of Electrical Contractors' public awareness program about electrical code requirements.",
+  "aiProArguments": "Supporters argue this bill removes barriers for homeowners and renters who want to use small solar devices to reduce their electricity costs and environmental impact without bureaucratic delays. The bill also promotes electrical safety education through the expanded contractor board program, helping more North Carolinians understand proper electrical installation standards and potentially reducing safety hazards.",
+  "aiConArguments": "Opponents may worry that exempting these devices from interconnection agreements and utility oversight could create safety or grid stability issues if devices malfunction or are improperly installed. Some utilities argue that requiring approval and fees helps them manage the grid responsibly and that customers operating solar devices should still contribute to infrastructure costs through net metering participation, which this bill explicitly excludes.",
+  "topic": "Environment & Energy",
+  "textLength": 7170,
+  "createdAt": "2026-06-23T03:12:11.400Z",
+  "sponsors": [
+    {"peopleId":11858,"name":"Timothy Moffitt","party":"R","isPrimary":true},
+    {"peopleId":22424,"name":"Michael Lazzara","party":"R","isPrimary":true},
+    {"peopleId":22425,"name":"Julie Mayfield","party":"D","isPrimary":true},
+    {"peopleId":17147,"name":"Gale Adcock","party":"D","isPrimary":false},
+    {"peopleId":22426,"name":"DeAndrea Salvador","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

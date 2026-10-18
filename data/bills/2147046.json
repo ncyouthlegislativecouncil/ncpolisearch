@@ -1,0 +1,22 @@
+{
+  "billId": 2147046,
+  "billNumber": "S995",
+  "title": "Fix Republican Failures on Public Safety Act",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "f8815d4a7bb5bcb3fc27fe770976bf6c",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2026-05-05",
+  "url": "https://legiscan.com/NC/bill/S995/2025",
+  "aiSummary": "This bill increases pay for state law enforcement and correctional officers, establishes mental health services for public safety personnel, and provides grant funding to help local governments offer similar pay increases. The bill appropriates approximately $286 million in state funding for these purposes, effective July 1, 2026.",
+  "aiProArguments": "Supporters argue that North Carolina law enforcement and correctional officers are significantly underpaid compared to neighboring states, making recruitment and retention difficult and compromising public safety. They contend that higher pay, retention bonuses, hazard pay, and mental health services will reduce turnover, decrease officer burnout and suicide rates, improve community safety, and help local governments attract qualified personnel. The bill also addresses officer mental health stigma by providing confidential services and peer support programs.",
+  "aiConArguments": "Opponents may argue that the $286 million appropriation places a substantial burden on the state budget that could be allocated to other priorities, and question whether pay increases alone will solve retention issues without addressing broader systemic problems. Some may also contend that the bill's framing language blaming one political party is inappropriate for legislation, and raise concerns about whether the proposed mental health confidentiality protections could complicate necessary oversight or create liability issues for employing agencies.",
+  "topic": "Criminal Justice & Public Safety",
+  "textLength": 8975,
+  "createdAt": "2026-06-23T03:12:29.000Z",
+  "sponsors": [
+    {"peopleId":24222,"name":"Lisa Grafstein","party":"D","isPrimary":true},
+    {"peopleId":20505,"name":"Sydney Batch","party":"D","isPrimary":true}
+  ],
+  "rollCalls": []
+}

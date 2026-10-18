@@ -1,10 +1,8 @@
 import { config } from "dotenv";
 config({ path: ".env.local" });
 
-import { writeFileSync } from "fs";
-import { drizzle } from "drizzle-orm/neon-http";
-import { neon } from "@neondatabase/serverless";
-import { legislators } from "../db/schema";
+import { readFileSync, writeFileSync } from "fs";
+import type { Legislator } from "../lib/data/types";
 
 // Pulls each member's official email from their page on ncleg.gov and saves
 // them to lib/legislator-emails.json (keyed by LegiScan people_id), so profile
@@ -17,7 +15,6 @@ import { legislators } from "../db/schema";
 //   npx tsx scripts/backfill-emails.ts --write  (writes lib/legislator-emails.json)
 const WRITE = process.argv.includes("--write");
 
-const db = drizzle(neon(process.env.DATABASE_URL!), { schema: { legislators } });
 const sleep = (ms: number) => new Promise((r) => setTimeout(r, ms));
 const UA = { "User-Agent": "Mozilla/5.0 (NCPoliSearch email backfill)" };
 
@@ -85,7 +82,7 @@ async function scrapeChamber(chamber: "H" | "S"): Promise<Member[]> {
 }
 
 async function main() {
-  const all = await db.select().from(legislators);
+  const all: Legislator[] = JSON.parse(readFileSync("data/legislators.json", "utf8"));
   let matched = 0;
   const byPeopleId: Record<number, string> = {};
   const unmatched: string[] = [];

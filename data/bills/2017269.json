@@ -1,0 +1,23 @@
+{
+  "billId": 2017269,
+  "billNumber": "H629",
+  "title": "Extend Primary Care Task Force",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "80432d0931ccbffd4df50077b6632cf2",
+  "lastAction": "Ref to the Com on Health, if favorable, Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-04-02",
+  "url": "https://legiscan.com/NC/bill/H629/2025",
+  "aiSummary": "This bill extends the Primary Care Payment Reform Task Force from its original expiration date of May 1, 2024, to December 31, 2026, allowing the group to continue studying primary care spending and payment systems in North Carolina. The bill also adds requirements for data security protections and clarifies that collected data is not subject to public records requests.",
+  "aiProArguments": "Supporters argue that extending the task force provides necessary time to complete comprehensive research on primary care payment systems across Medicaid, state health plans, and commercial insurance. They contend that studying payment adequacy and comparing North Carolina's approach to other states will produce actionable recommendations to improve primary care access and provider supply in the state.",
+  "aiConArguments": "Opponents may argue that extending the task force delays final action and creates ongoing administrative costs without guaranteeing meaningful reform. Some may also be concerned about the exemption of collected healthcare data from public records laws, questioning whether this limits transparency and public oversight of how sensitive health information is being used.",
+  "topic": "Healthcare",
+  "textLength": 4342,
+  "createdAt": "2026-06-23T02:55:42.039Z",
+  "sponsors": [
+    {"peopleId":24215,"name":"Timothy Reeder","party":"R","isPrimary":true},
+    {"peopleId":14612,"name":"Carla Cunningham","party":"D","isPrimary":false},
+    {"peopleId":24219,"name":"Bill Ward","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

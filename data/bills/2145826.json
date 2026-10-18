@@ -1,0 +1,27 @@
+{
+  "billId": 2145826,
+  "billNumber": "H1049",
+  "title": "Funding for Shotgun House Museum",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "588c7c49cce60db57b56fb5a65a49b86",
+  "lastAction": "Ref to the Com on Appropriations, if favorable, Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2026-04-28",
+  "url": "https://legiscan.com/NC/bill/H1049/2025",
+  "aiSummary": "This bill appropriates $250,000 in one-time state funding to Triad Cultural Arts, Inc., a nonprofit organization, to support improvements to a restored Shotgun House museum in Winston-Salem. The funds are intended to help the museum serve as an educational and community gathering space for students and visitors.",
+  "aiProArguments": "Supporters argue that this funding preserves an important cultural and historical landmark that educates the public about regional architectural heritage and African American history. They contend that the museum serves a valuable public purpose by providing educational opportunities for students and hosting community events, while supporting local cultural institutions and tourism in Winston-Salem.",
+  "aiConArguments": "Opponents may question whether $250,000 in state general fund resources is the best use of limited public money, particularly if other state priorities lack adequate funding. They might argue that cultural institutions should primarily rely on private donations, grants, or local funding rather than state appropriations, or that the funding should be recurring rather than one-time to ensure sustainable operations.",
+  "topic": "Taxes & Budget",
+  "textLength": 1056,
+  "createdAt": "2026-06-23T03:00:51.405Z",
+  "sponsors": [
+    {"peopleId":24199,"name":"Kanika Brown","party":"D","isPrimary":true},
+    {"peopleId":22599,"name":"Amber Baker","party":"D","isPrimary":false},
+    {"peopleId":25842,"name":"Bryan Cohn","party":"D","isPrimary":false},
+    {"peopleId":26662,"name":"Amanda Cook","party":"D","isPrimary":false},
+    {"peopleId":20509,"name":"Allison Dahle","party":"D","isPrimary":false},
+    {"peopleId":24214,"name":"Renee Price","party":"D","isPrimary":false},
+    {"peopleId":22606,"name":"James Roberson","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

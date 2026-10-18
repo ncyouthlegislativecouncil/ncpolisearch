@@ -1,0 +1,25 @@
+{
+  "billId": 2019140,
+  "billNumber": "H748",
+  "title": "Funds/Greensboro Water and Wastewater",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "1ad3f8c18253feccbe992b984b767634",
+  "lastAction": "Ref to the Com on Appropriations, if favorable, Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-04-03",
+  "url": "https://legiscan.com/NC/bill/H748/2025",
+  "aiSummary": "This bill appropriates $5 million in state funds to the City of Greensboro for planning and preliminary work to extend water and wastewater infrastructure to economic development sites at Piedmont Triad International Airport. The funds are provided as a grant through the Department of Environmental Quality and become available July 1, 2025.",
+  "aiProArguments": "Supporters argue that improved water and wastewater infrastructure at the airport's economic development sites would attract new businesses and jobs to the region, boosting economic growth in Greensboro and the Piedmont Triad area. They contend that state investment in essential infrastructure removes barriers to development and helps the city compete for corporate relocations and expansion projects.",
+  "aiConArguments": "Opponents may question whether state general funds should be used for local infrastructure projects when other state needs exist, and whether Greensboro should fund its own development priorities. They might also ask whether this represents the most efficient use of limited state resources and whether other communities face similar infrastructure needs without receiving comparable state grants.",
+  "topic": "Taxes & Budget",
+  "textLength": 1079,
+  "createdAt": "2026-06-23T02:57:12.750Z",
+  "sponsors": [
+    {"peopleId":25213,"name":"Tracy Clark","party":"D","isPrimary":true},
+    {"peopleId":2034,"name":"John Blust","party":"R","isPrimary":true},
+    {"peopleId":25197,"name":"Jerry Branson","party":"R","isPrimary":true},
+    {"peopleId":18462,"name":"Amos Quick","party":"D","isPrimary":true},
+    {"peopleId":2077,"name":"Mary Harrison","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

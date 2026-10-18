@@ -1,0 +1,22 @@
+{
+  "billId": 2014117,
+  "billNumber": "S615",
+  "title": "Property Tax Rate Transparency Act",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "116aab3348271b6ee6b3d1034da7de57",
+  "lastAction": "Held As Filed",
+  "lastActionDate": "2025-03-25",
+  "url": "https://legiscan.com/NC/bill/S615/2025",
+  "aiSummary": "This bill requires local governments to hold a public vote on whether to use a revenue-neutral tax rate during years when properties are reappraised. A revenue-neutral tax rate would keep tax collections the same as the previous year despite property value changes. If the local board votes yes, they must use this rate; if they vote no, they can set rates normally.",
+  "aiProArguments": "Supporters argue this increases transparency and gives elected officials a clear opportunity to consider whether rising property values should automatically result in higher tax bills for residents. They contend it protects homeowners from unexpected tax increases caused by reappraisals and forces deliberate decisions about tax policy rather than allowing rates to shift automatically.",
+  "aiConArguments": "Opponents argue this could limit local government revenue needed for schools, emergency services, and infrastructure when property values increase. They contend that mandatory votes on revenue-neutral rates add bureaucratic steps and may prevent governments from adjusting to real changes in community needs and costs.",
+  "topic": "Taxes & Budget",
+  "textLength": 1928,
+  "createdAt": "2026-06-23T03:09:21.088Z",
+  "sponsors": [
+    {"peopleId":20222,"name":"Todd Johnson","party":"R","isPrimary":true},
+    {"peopleId":12033,"name":"Warren Daniel","party":"R","isPrimary":true}
+  ],
+  "rollCalls": []
+}

@@ -1,0 +1,28 @@
+{
+  "billId": 1965349,
+  "billNumber": "S81",
+  "title": "NC Time Zone/Observe DST All Year",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "cf8af70d469073f405c90648e25194e9",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-02-12",
+  "url": "https://legiscan.com/NC/bill/S81/2025",
+  "aiSummary": "This bill would allow North Carolina to observe Daylight Saving Time (DST) year-round instead of switching between standard time and DST twice annually, but only if Congress passes federal legislation authorizing states to do so. The bill designates the state's time zone according to federal law and requires the Commissioner of Agriculture to notify the Governor to implement this change once Congress authorizes it.",
+  "aiProArguments": "Supporters argue that year-round DST would provide more evening daylight during fall and winter months, potentially reducing traffic accidents, improving public safety, and boosting economic activity by extending daylight hours when people are most active. They contend that eliminating the twice-yearly time changes would reduce confusion and the adjustment period many people experience, which some studies suggest affects sleep and health.",
+  "aiConArguments": "Opponents worry that year-round DST could disrupt children's sleep schedules and school routines, particularly in winter months when the sun would rise much later. They also note that Congress has not yet authorized permanent DST, so the bill depends on future federal action, and some argue that standard time year-round might be better for morning activities and agriculture. Additionally, concerns exist about the health effects of permanent DST and whether the evening daylight benefits outweigh early morning darkness.",
+  "topic": "Other / General Government",
+  "textLength": 1345,
+  "createdAt": "2026-06-23T03:04:44.127Z",
+  "sponsors": [
+    {"peopleId":11937,"name":"Ralph Hise","party":"R","isPrimary":true},
+    {"peopleId":19669,"name":"Vickie Sawyer","party":"R","isPrimary":true},
+    {"peopleId":18465,"name":"Danny Britt","party":"R","isPrimary":false},
+    {"peopleId":20216,"name":"Jim Burgin","party":"R","isPrimary":false},
+    {"peopleId":25858,"name":"Sophia Chitlik","party":"D","isPrimary":false},
+    {"peopleId":17437,"name":"Thomas McInnis","party":"R","isPrimary":false},
+    {"peopleId":11858,"name":"Timothy Moffitt","party":"R","isPrimary":false},
+    {"peopleId":24225,"name":"Benton Sawrey","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

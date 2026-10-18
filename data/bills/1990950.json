@@ -1,0 +1,32 @@
+{
+  "billId": 1990950,
+  "billNumber": "H274",
+  "title": "Foster Care Services/Funds",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "28e4062660213ee4d40d37feb83c1503",
+  "lastAction": "Ref to the Com on Appropriations, if favorable, Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-03-05",
+  "url": "https://legiscan.com/NC/bill/H274/2025",
+  "aiSummary": "This bill appropriates $5 million in nonrecurring state funding to Crossnore Communities for Children, a nonprofit organization, to provide foster care services across North Carolina during fiscal year 2025-2026. The funds will support programs including trauma resilience training, family reunification, youth independent living services, and foster care support delivered from locations in Winston-Salem, Crossnore, and Hendersonville.",
+  "aiProArguments": "Supporters argue that North Carolina faces a foster care crisis requiring additional resources and that Crossnore Communities for Children has demonstrated expertise in addressing trauma and supporting vulnerable children and families. The funding would expand capacity for critical services like family reunification and preservation, helping keep children safe while reducing the burden on the state's foster care system.",
+  "aiConArguments": "Opponents may question whether a directed grant to a single nonprofit is the most efficient use of state funds and whether similar services could be provided through existing state agencies or competitive grant processes. Some may also express concern about the nonrecurring nature of the funding, which could create service disruptions if the grant is not renewed in future budget years.",
+  "topic": "Social Services & Welfare",
+  "textLength": 1481,
+  "createdAt": "2026-06-23T02:46:57.360Z",
+  "sponsors": [
+    {"peopleId":14624,"name":"Donny Lambeth","party":"R","isPrimary":true},
+    {"peopleId":17876,"name":"Kyle Hall","party":"R","isPrimary":true},
+    {"peopleId":22965,"name":"Donnie Loftis","party":"R","isPrimary":true},
+    {"peopleId":2038,"name":"William Brisson","party":"R","isPrimary":false},
+    {"peopleId":22422,"name":"Sarah Crawford","party":"D","isPrimary":false},
+    {"peopleId":14612,"name":"Carla Cunningham","party":"D","isPrimary":false},
+    {"peopleId":2077,"name":"Mary Harrison","party":"D","isPrimary":false},
+    {"peopleId":24207,"name":"Neal Jackson","party":"R","isPrimary":false},
+    {"peopleId":18461,"name":"Larry Potts","party":"R","isPrimary":false},
+    {"peopleId":24213,"name":"Lindsey Prather","party":"D","isPrimary":false},
+    {"peopleId":26396,"name":"Phil Rubin","party":"D","isPrimary":false},
+    {"peopleId":22609,"name":"David Willis","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

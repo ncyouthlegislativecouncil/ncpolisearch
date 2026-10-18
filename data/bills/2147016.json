@@ -1,0 +1,23 @@
+{
+  "billId": 2147016,
+  "billNumber": "S1000",
+  "title": "Environmental Management Commission Staffing",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "982331b3eac3db66af1a06f8199d3936",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2026-05-04",
+  "url": "https://legiscan.com/NC/bill/S1000/2025",
+  "aiSummary": "This bill allows the chair of the Environmental Management Commission to hire temporary employees through the state's Temporary Solutions Program. It also reduces the General Fund appropriation to the Department of Environmental Quality by $5,000 annually for dedicated EMC staff.",
+  "aiProArguments": "Supporters argue this bill provides flexibility in staffing by allowing the commission chair to use temporary workers to meet short-term needs without creating permanent positions. This approach may reduce costs and allow the commission to quickly scale staffing up or down based on workload demands.",
+  "aiConArguments": "Opponents may be concerned that relying on temporary workers could reduce institutional knowledge and continuity in environmental management work, potentially affecting the quality and consistency of commission operations. The $5,000 budget reduction could limit the commission's ability to maintain adequate permanent staff capacity for ongoing environmental protection responsibilities.",
+  "topic": "Environment & Energy",
+  "textLength": 1983,
+  "createdAt": "2026-06-23T03:12:31.035Z",
+  "sponsors": [
+    {"peopleId":20504,"name":"Lisa Barnes","party":"R","isPrimary":true},
+    {"peopleId":20222,"name":"Todd Johnson","party":"R","isPrimary":true},
+    {"peopleId":11862,"name":"Norman Sanderson","party":"R","isPrimary":true}
+  ],
+  "rollCalls": []
+}

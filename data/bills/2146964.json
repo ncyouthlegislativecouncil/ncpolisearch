@@ -1,0 +1,31 @@
+{
+  "billId": 2146964,
+  "billNumber": "H1183",
+  "title": "Defend NC",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "2f359011bf932d705a9c3bc086745ab8",
+  "lastAction": "Ref To Com On Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2026-05-05",
+  "url": "https://legiscan.com/NC/bill/H1183/2025",
+  "aiSummary": "House Bill 1183 'Defend NC' contains multiple provisions: it prohibits North Carolina law enforcement from assisting federal Immigration and Customs Enforcement with immigration enforcement; temporarily suspends sales tax on goods that increased in price by 50% or more due to 2025 federal tariffs during fiscal year 2026-2027; directs state agencies to study and report on federal funding losses and consider replacement funding for health research, Medicaid programs, and education; and appropriates $50,000 to establish a potential North Carolina Institute of Health to support biomedical research.",
+  "aiProArguments": "Supporters argue this bill protects North Carolina residents from potential federal immigration enforcement actions and preserves state-local relationships by keeping law enforcement focused on community policing rather than federal immigration work. They contend the tariff sales tax suspension provides relief to consumers facing higher prices from federal trade policies, and that investing in state-funded health research and Medicaid alternatives protects North Carolina's healthcare system and economy from federal funding cuts or policy changes.",
+  "aiConArguments": "Opponents contend that prohibiting local law enforcement cooperation with federal immigration authorities may interfere with federal law enforcement authority and create legal conflicts, while potentially affecting public safety collaboration. They argue the tariff tax suspension reduces state revenue without addressing the underlying cause of price increases, and that state-funded replacements for federal research and healthcare funding represent significant new spending commitments that may not be sustainable or as efficient as existing federal programs.",
+  "topic": "Taxes & Budget",
+  "textLength": 8203,
+  "createdAt": "2026-06-23T03:03:04.531Z",
+  "sponsors": [
+    {"peopleId":20515,"name":"Zack Forde-Hawkins","party":"D","isPrimary":true},
+    {"peopleId":19238,"name":"Deb Butler","party":"D","isPrimary":false},
+    {"peopleId":24202,"name":"Maria Cervania","party":"D","isPrimary":false},
+    {"peopleId":25213,"name":"Tracy Clark","party":"D","isPrimary":false},
+    {"peopleId":25842,"name":"Bryan Cohn","party":"D","isPrimary":false},
+    {"peopleId":26662,"name":"Amanda Cook","party":"D","isPrimary":false},
+    {"peopleId":25844,"name":"Julia Greenfield","party":"D","isPrimary":false},
+    {"peopleId":2077,"name":"Mary Harrison","party":"D","isPrimary":false},
+    {"peopleId":20521,"name":"Carolyn Logan","party":"D","isPrimary":false},
+    {"peopleId":25850,"name":"Jordan Lopez","party":"D","isPrimary":false},
+    {"peopleId":22606,"name":"James Roberson","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

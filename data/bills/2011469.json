@@ -1,0 +1,25 @@
+{
+  "billId": 2011469,
+  "billNumber": "S367",
+  "title": "Capital Project Funding at HBCUs",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "85d92d092b3707a50bfd358d1674a9d2",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2025-03-24",
+  "url": "https://legiscan.com/NC/bill/S367/2025",
+  "aiSummary": "This bill appropriates $8 million from the Education Lottery Fund to four private historically Black colleges and universities in North Carolina (Bennett College, Johnson C. Smith University, Livingstone College, and Shaw University) for capital improvement projects. The funds are distributed to each school based on the proportion of their North Carolina resident students who receive federal Pell Grants.",
+  "aiProArguments": "Supporters argue this funding helps address long-standing infrastructure gaps at HBCUs, which have historically received less investment than other institutions. They contend that targeted support for these schools strengthens higher education diversity in North Carolina, improves campus facilities for economically disadvantaged students (evidenced by Pell Grant eligibility), and fulfills a commitment to institutions that serve important educational missions for underrepresented communities.",
+  "aiConArguments": "Opponents may argue that directing lottery education funds to private institutions raises questions about equity across all North Carolina colleges and universities. Some could contend that such targeted spending should go through a more competitive, transparent allocation process rather than designated institutions, or that public universities also face capital funding needs that deserve consideration. Questions may also arise about why specific HBCUs were selected and whether the allocation method adequately addresses each institution's actual facility needs.",
+  "topic": "Taxes & Budget",
+  "textLength": 1423,
+  "createdAt": "2026-06-23T03:07:11.451Z",
+  "sponsors": [
+    {"peopleId":12032,"name":"Gladys Robinson","party":"D","isPrimary":true},
+    {"peopleId":17457,"name":"Paul Lowe","party":"D","isPrimary":true},
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":false},
+    {"peopleId":25859,"name":"Caleb Theodros","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

@@ -1,0 +1,25 @@
+{
+  "billId": 2022039,
+  "billNumber": "H853",
+  "title": "Special License Plate After Revocation",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "18f0a7f36a9e645dba01c288454d11a3",
+  "lastAction": "Ref To Com On Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-04-10",
+  "url": "https://legiscan.com/NC/bill/H853/2025",
+  "aiSummary": "This bill requires drivers whose licenses have been revoked to display a special, distinctly-colored license plate on any vehicle they operate for 3-7 years after their license is restored. The special plate must be readily identifiable by law enforcement and costs an additional $10 per registration. Drivers may operate employer vehicles without the plate if the employer is notified and the driver carries proof of notification.",
+  "aiProArguments": "Supporters argue this bill enhances public safety by making it easier for law enforcement to identify high-risk drivers on the road, allowing officers to monitor compliance with driving restrictions. They contend it deters drivers with serious violations (like DUI or reckless driving) from breaking the law again, knowing their vehicle will be easily identifiable. Proponents may also argue the $10 fee creates a dedicated funding source for vehicle safety programs.",
+  "aiConArguments": "Opponents worry the visible plate amounts to a 'scarlet letter' that violates privacy and creates ongoing public stigma for drivers trying to rehabilitate themselves. They argue it may discourage license restoration efforts and infringe on personal liberty without clear evidence it improves safety. Critics also note enforcement challenges—for example, criminals could remove or obscure plates—and question whether the burden on law-abiding citizens seeking employment (particularly those needing to drive for work) outweighs the public safety benefits.",
+  "topic": "Criminal Justice & Public Safety",
+  "textLength": 9749,
+  "createdAt": "2026-06-23T02:58:35.787Z",
+  "sponsors": [
+    {"peopleId":24212,"name":"Joe Pike","party":"R","isPrimary":true},
+    {"peopleId":25843,"name":"Brian Echevarria","party":"R","isPrimary":true},
+    {"peopleId":22615,"name":"Howard Penny","party":"R","isPrimary":true},
+    {"peopleId":22603,"name":"Dudley Greene","party":"R","isPrimary":true},
+    {"peopleId":24219,"name":"Bill Ward","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

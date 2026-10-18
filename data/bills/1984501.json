@@ -1,0 +1,25 @@
+{
+  "billId": 1984501,
+  "billNumber": "H238",
+  "title": "Reimburse Buncombe Co. for Cost of Study",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "7185371e56895a9295a3a261eff8be1d",
+  "lastAction": "Ref to the Com on Appropriations, if favorable, Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-02-27",
+  "url": "https://legiscan.com/NC/bill/H238/2025",
+  "aiSummary": "This bill appropriates $300,000 from the state General Fund to reimburse Buncombe County for costs it incurred conducting a study on whether to merge the Buncombe County and City of Asheville school districts. The study was required by state law passed in 2023, and this reimbursement would take effect July 1, 2025.",
+  "aiProArguments": "Supporters argue that the state required Buncombe County to conduct this consolidation study through state law, so the state should pay for it rather than leaving the county to absorb the expense. They contend that reimbursing counties for state-mandated studies is fair and prevents unfunded mandates from burdening local governments.",
+  "aiConArguments": "Opponents may argue that $300,000 is an appropriate use of limited state funds during a time when many schools and services face budget constraints, or they might question whether the study's costs actually justify reimbursement. Some could also question whether this sets a precedent for reimbursing counties for other state-mandated expenses.",
+  "topic": "Taxes & Budget",
+  "textLength": 1106,
+  "createdAt": "2026-06-23T02:45:39.665Z",
+  "sponsors": [
+    {"peopleId":24213,"name":"Lindsey Prather","party":"D","isPrimary":true},
+    {"peopleId":24890,"name":"Eric Ager","party":"D","isPrimary":true},
+    {"peopleId":17149,"name":"Brian Turner","party":"D","isPrimary":true},
+    {"peopleId":2077,"name":"Mary Harrison","party":"D","isPrimary":false},
+    {"peopleId":20521,"name":"Carolyn Logan","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

@@ -1,0 +1,22 @@
+{
+  "billId": 2014240,
+  "billNumber": "S573",
+  "title": "Reform Animal Cruelty and Neglect laws",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "4d99d8cddfb1c148adb09521f60d7444",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-26",
+  "url": "https://legiscan.com/NC/bill/S573/2025",
+  "aiSummary": "This bill strengthens North Carolina's animal cruelty laws by adding specific definitions and standards for adequate shelter and adequate space for animals, including detailed requirements for tethered animals. It also creates a new category of offense for companion animal hoarders and requires judges to mandate psychological evaluations and treatment for convicted hoarders.",
+  "aiProArguments": "Supporters argue this bill clarifies vague animal welfare standards, making it easier for law enforcement to identify and prosecute animal abuse and neglect. The detailed standards for shelter and space protect animals from preventable suffering, and the focus on animal hoarding addresses a serious welfare problem that often involves dozens of animals living in poor conditions. Advocates say these reforms bring North Carolina in line with animal welfare practices in other states.",
+  "aiConArguments": "Opponents may argue the detailed standards, particularly regarding tethering length (15 feet or four times body length) and shelter specifications, could be costly or impractical for some animal owners, especially in rural areas. Some may express concern about increased government regulation of private property and animal ownership, or worry that the psychological evaluation requirement for hoarders could face legal challenges. Others might question whether these definitions are too rigid to account for different animal needs or regional differences.",
+  "topic": "Criminal Justice & Public Safety",
+  "textLength": 9668,
+  "createdAt": "2026-06-23T03:09:00.178Z",
+  "sponsors": [
+    {"peopleId":21633,"name":"Natalie Murdock","party":"D","isPrimary":true},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

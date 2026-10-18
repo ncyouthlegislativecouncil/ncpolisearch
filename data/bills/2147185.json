@@ -1,0 +1,21 @@
+{
+  "billId": 2147185,
+  "billNumber": "S1063",
+  "title": "Fiscal Note for All Bills Considered",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "4c17ea8d08158c257c6fa938e2988c17",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2026-05-05",
+  "url": "https://legiscan.com/NC/bill/S1063/2025",
+  "aiSummary": "This bill requires fiscal notes to be prepared for all bills and resolutions introduced in the North Carolina General Assembly before they are considered in committee. Currently, fiscal notes are only required for certain types of bills. The bill provides $50,000 to fund the Fiscal Research Division's work in preparing these analyses.",
+  "aiProArguments": "Supporters argue that fiscal notes on all bills provide lawmakers and the public with essential information about the financial consequences of proposed legislation before votes occur. This transparency helps legislators make informed decisions about whether bills are affordable and allows citizens to understand the true costs of laws being debated. Requiring notes upfront prevents costly surprises and ensures fiscal responsibility in the legislative process.",
+  "aiConArguments": "Opponents contend that requiring fiscal notes on every bill—including minor or technical measures—could significantly increase workload for the Fiscal Research Division and slow down the legislative process. They argue that not all bills have meaningful fiscal impacts, and the requirement may create delays or administrative burdens that outweigh the benefits, particularly for bills with minimal budgetary effects.",
+  "topic": "Taxes & Budget",
+  "textLength": 6652,
+  "createdAt": "2026-06-23T03:13:03.755Z",
+  "sponsors": [
+    {"peopleId":20216,"name":"Jim Burgin","party":"R","isPrimary":true}
+  ],
+  "rollCalls": []
+}

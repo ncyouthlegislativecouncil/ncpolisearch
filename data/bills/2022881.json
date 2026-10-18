@@ -1,0 +1,30 @@
+{
+  "billId": 2022881,
+  "billNumber": "H1004",
+  "title": "UNC AI & Technology Hubs",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "8637eae885fde75fa8d16e7ab355e7e0",
+  "lastAction": "Ref to the Com on Appropriations, if favorable, Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-04-14",
+  "url": "https://legiscan.com/NC/bill/H1004/2025",
+  "aiSummary": "This bill appropriates $124 million to establish artificial intelligence and technology hubs across UNC universities. It designates up to eight UNC institutions as AI Hubs (with at least one being a historically Black college or American Indian university), provides $70 million for technology hubs at all UNC campuses, and allocates $30 million for AI research grants through the NC Collaboratory.",
+  "aiProArguments": "Supporters argue this investment positions North Carolina as a leader in AI innovation and technology, creating economic growth and high-skilled jobs in the state. The bill supports workforce development, encourages entrepreneurship, and advances research in critical areas like healthcare and education. By requiring at least one AI Hub at a historically Black college or tribal university, the legislation promotes equitable access to technology resources and opportunities across diverse institutions.",
+  "aiConArguments": "Opponents may question whether $124 million in state funding represents an effective use of taxpayer money, particularly if similar initiatives already exist or if institutions can fund these hubs through other means. Some may be concerned about whether the required 10% institutional match requirement is feasible for all selected schools, and whether recurring operational costs will be sustainable beyond initial state funding.",
+  "topic": "Education",
+  "textLength": 4969,
+  "createdAt": "2026-06-23T03:00:16.902Z",
+  "sponsors": [
+    {"peopleId":20515,"name":"Zack Forde-Hawkins","party":"D","isPrimary":true},
+    {"peopleId":24211,"name":"Jarrod Lowery","party":"R","isPrimary":true},
+    {"peopleId":16252,"name":"Robert Reives","party":"D","isPrimary":true},
+    {"peopleId":24890,"name":"Eric Ager","party":"D","isPrimary":false},
+    {"peopleId":18451,"name":"Mary Belk","party":"D","isPrimary":false},
+    {"peopleId":25846,"name":"Mike Colvin","party":"D","isPrimary":false},
+    {"peopleId":2077,"name":"Mary Harrison","party":"D","isPrimary":false},
+    {"peopleId":20521,"name":"Carolyn Logan","party":"D","isPrimary":false},
+    {"peopleId":20522,"name":"Nasif Majeed","party":"D","isPrimary":false},
+    {"peopleId":26396,"name":"Phil Rubin","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

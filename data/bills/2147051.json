@@ -1,0 +1,26 @@
+{
+  "billId": 2147051,
+  "billNumber": "S1053",
+  "title": "Child Care Licensing Penalty Reform",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "bd2dbe53ed6f05ebda1b3115cf4e993d",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2026-05-06",
+  "url": "https://legiscan.com/NC/bill/S1053/2025",
+  "aiSummary": "This bill changes how North Carolina punishes child care facility licensing violations. First-time violations become Class A1 misdemeanors instead of Class I felonies, while prosecutors gain discretion to charge repeat violations or those posing substantial risk of harm as felonies based on specific factors.",
+  "aiProArguments": "Supporters argue that treating first-time licensing violations as felonies is disproportionate when no actual child injury occurs, and that prosecutorial discretion allows punishments to match the severity of each case. They contend this change balances public safety with fair consequences while still allowing felony charges for serious, repeated, or dangerous violations.",
+  "aiConArguments": "Opponents may worry that reducing first offenses to misdemeanors weakens enforcement and deterrence for child safety violations, potentially allowing unsafe operators to continue with minimal consequences. They could also argue that giving prosecutors discretion creates inconsistency across counties and may result in some serious violations being treated too leniently.",
+  "topic": "Criminal Justice & Public Safety",
+  "textLength": 4721,
+  "createdAt": "2026-06-23T03:12:58.862Z",
+  "sponsors": [
+    {"peopleId":17936,"name":"Jay Chaudhuri","party":"D","isPrimary":true},
+    {"peopleId":20216,"name":"Jim Burgin","party":"R","isPrimary":true},
+    {"peopleId":25858,"name":"Sophia Chitlik","party":"D","isPrimary":false},
+    {"peopleId":12032,"name":"Gladys Robinson","party":"D","isPrimary":false},
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

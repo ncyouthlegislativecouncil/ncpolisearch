@@ -1,0 +1,25 @@
+{
+  "billId": 2146889,
+  "billNumber": "S952",
+  "title": "Repeal STI Cap on Light Rail/Fund Rail Safety",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "e1715ad10cc6b1776b3b0e842a5c772e",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2026-05-07",
+  "url": "https://legiscan.com/NC/bill/S952/2025",
+  "aiSummary": "This bill removes a funding cap that limited state investment in light rail projects to 10% of regional distribution allocations or project costs. It also appropriates $1 million for safety and security improvements on the CATS Blue Lynx rail line in Charlotte.",
+  "aiProArguments": "Supporters argue that removing the funding cap allows North Carolina to invest more flexibly in light rail infrastructure, which can improve public transportation, reduce traffic congestion, and support economic development in urban areas. They contend that the $1 million for rail safety addresses security needs on an existing transit system and that state funding should not be artificially constrained when projects have regional benefits.",
+  "aiConArguments": "Opponents may argue that removing spending caps creates open-ended state financial commitments that could exceed budgets and divert resources from other transportation needs. They might be concerned that light rail projects require ongoing operational subsidies and that state taxpayers could bear increasing costs without clear limits or accountability measures in place.",
+  "topic": "Transportation & Infrastructure",
+  "textLength": 2536,
+  "createdAt": "2026-06-23T03:12:08.964Z",
+  "sponsors": [
+    {"peopleId":20223,"name":"Mujtaba Mohammed","party":"D","isPrimary":true},
+    {"peopleId":17147,"name":"Gale Adcock","party":"D","isPrimary":false},
+    {"peopleId":21633,"name":"Natalie Murdock","party":"D","isPrimary":false},
+    {"peopleId":22426,"name":"DeAndrea Salvador","party":"D","isPrimary":false},
+    {"peopleId":25859,"name":"Caleb Theodros","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

@@ -1,0 +1,33 @@
+{
+  "billId": 2011994,
+  "billNumber": "S383",
+  "title": "Right to IVF",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "fdc2c25402be63ee1900468c2e81b899",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-24",
+  "url": "https://legiscan.com/NC/bill/S383/2025",
+  "aiSummary": "This bill protects access to assisted reproductive technology (ART) like in vitro fertilization (IVF) by prohibiting the state from limiting or interfering with patients' right to use ART or healthcare providers' right to offer it. The bill also specifies that fertilized eggs and embryos outside the uterus are not considered human beings under state law, and appropriates $500,000 annually to expand Medicaid maternal support services.",
+  "aiProArguments": "Supporters argue this bill protects reproductive freedom and access to fertility treatments for North Carolinians who struggle with infertility. They contend that the legal clarification about embryo status removes uncertainty that could chill IVF availability and that increased Medicaid funding for maternal support services expands healthcare access for low-income pregnant people and new mothers.",
+  "aiConArguments": "Opponents may argue that the bill's definition of fertilized eggs and embryos conflicts with religious or philosophical beliefs about when human life begins, and they may oppose using state funds for services they believe raise ethical concerns. Some may also question whether the Medicaid expansion is the best use of state resources or whether it should be funded differently.",
+  "topic": "Healthcare",
+  "textLength": 4509,
+  "createdAt": "2026-06-23T03:07:20.688Z",
+  "sponsors": [
+    {"peopleId":25860,"name":"Woodson Bradley","party":"D","isPrimary":true},
+    {"peopleId":24222,"name":"Lisa Grafstein","party":"D","isPrimary":true},
+    {"peopleId":20510,"name":"Terence Everitt","party":"D","isPrimary":true},
+    {"peopleId":24220,"name":"Val Applewhite","party":"D","isPrimary":false},
+    {"peopleId":20505,"name":"Sydney Batch","party":"D","isPrimary":false},
+    {"peopleId":17936,"name":"Jay Chaudhuri","party":"D","isPrimary":false},
+    {"peopleId":25858,"name":"Sophia Chitlik","party":"D","isPrimary":false},
+    {"peopleId":20223,"name":"Mujtaba Mohammed","party":"D","isPrimary":false},
+    {"peopleId":21633,"name":"Natalie Murdock","party":"D","isPrimary":false},
+    {"peopleId":22426,"name":"DeAndrea Salvador","party":"D","isPrimary":false},
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":false},
+    {"peopleId":25859,"name":"Caleb Theodros","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

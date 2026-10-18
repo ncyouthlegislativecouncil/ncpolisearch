@@ -1,0 +1,22 @@
+{
+  "billId": 2144612,
+  "billNumber": "S810",
+  "title": "Even-Year Municipal Elections/Catawba Co",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "190ef089715db4b05abe8a34b3b47cb4",
+  "lastAction": "Re-ref to Elections. If fav, re-ref to Rules and Operations of the Senate",
+  "lastActionDate": "2026-04-23",
+  "url": "https://legiscan.com/NC/bill/S810/2025",
+  "aiSummary": "This bill moves municipal elections in eight Catawba County municipalities (Brookford, Catawba, Claremont, Conover, Hickory, Long View, Maiden, and Newton) from odd-numbered years to even-numbered years, starting in 2028. To make this transition, the bill skips elections in 2027 and extends current officeholders' terms by one year.",
+  "aiProArguments": "Supporters argue that holding municipal elections in even-numbered years aligns local elections with state and federal elections, potentially increasing voter turnout by allowing people to vote on multiple levels simultaneously. This consolidation may also reduce election administration costs and voter confusion by having fewer separate election days.",
+  "aiConArguments": "Opponents contend that separating local elections from state and federal races allows voters to focus specifically on local issues and candidates without the distraction of higher-profile races. Some may be concerned about the one-year term extensions for current officials, viewing it as an extension of power without a new election. Local control advocates might prefer municipalities to maintain independent election schedules.",
+  "topic": "Elections & Voting",
+  "textLength": 21216,
+  "createdAt": "2026-06-23T03:10:55.806Z",
+  "sponsors": [
+    {"peopleId":11853,"name":"Mark Hollo","party":"R","isPrimary":true},
+    {"peopleId":11858,"name":"Timothy Moffitt","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

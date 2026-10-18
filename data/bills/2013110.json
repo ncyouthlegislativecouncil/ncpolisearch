@@ -1,0 +1,30 @@
+{
+  "billId": 2013110,
+  "billNumber": "S419",
+  "title": "Restore Down-Zoning Authority",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "8e6a5b05726968cb81876fce013526f1",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-25",
+  "url": "https://legiscan.com/NC/bill/S419/2025",
+  "aiSummary": "This bill repeals a 2024 law that restricted local governments' ability to reduce zoning density (down-zone) and restores their previous authority to do so. The bill applies retroactively, meaning any ordinances affected by the 2024 restriction would revert to their pre-December 11, 2024 status.",
+  "aiProArguments": "Supporters argue that local communities should have control over their own zoning decisions and land use planning. They contend that down-zoning authority allows cities and counties to preserve neighborhood character, manage growth responsibly, and respond to community preferences without state-level restrictions.",
+  "aiConArguments": "Opponents argue that down-zoning restrictions were put in place to address housing affordability and supply challenges by limiting local governments' ability to reduce housing density. They contend that restoring down-zoning authority could make it harder to develop affordable housing and contribute to housing shortages in North Carolina.",
+  "topic": "Local Government",
+  "textLength": 694,
+  "createdAt": "2026-06-23T03:07:38.611Z",
+  "sponsors": [
+    {"peopleId":20216,"name":"Jim Burgin","party":"R","isPrimary":true},
+    {"peopleId":24220,"name":"Val Applewhite","party":"D","isPrimary":false},
+    {"peopleId":25860,"name":"Woodson Bradley","party":"D","isPrimary":false},
+    {"peopleId":25858,"name":"Sophia Chitlik","party":"D","isPrimary":false},
+    {"peopleId":20220,"name":"Michael Garrett","party":"D","isPrimary":false},
+    {"peopleId":22425,"name":"Julie Mayfield","party":"D","isPrimary":false},
+    {"peopleId":20223,"name":"Mujtaba Mohammed","party":"D","isPrimary":false},
+    {"peopleId":21633,"name":"Natalie Murdock","party":"D","isPrimary":false},
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

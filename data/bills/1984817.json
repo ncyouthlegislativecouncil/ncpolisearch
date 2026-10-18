@@ -1,0 +1,30 @@
+{
+  "billId": 1984817,
+  "billNumber": "H234",
+  "title": "Little Federal Model NC Edition",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "4af5d85f1166124564232c8dd83074a0",
+  "lastAction": "Ref to the Com on Judiciary 1, if favorable, Election Law, if favorable, State and Local Government, if favorable, Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-02-27",
+  "url": "https://legiscan.com/NC/bill/H234/2025",
+  "aiSummary": "This bill proposes a constitutional amendment to change how North Carolina state senators are elected and organized. Specifically, it would require each senator to represent exactly two counties instead of representing districts based on equal population, and it would lock the state at 100 counties. The amendment would need voter approval in November 2026.",
+  "aiProArguments": "Supporters argue this creates a more predictable, stable system where county representation is clear and transparent—each senator represents two counties, similar to how the U.S. Senate operates with two senators per state. They contend this approach provides stronger county-level representation and makes redistricting simpler and less political by removing the need to balance population numbers after each census.",
+  "aiConArguments": "Opponents argue this system would create districts with vastly unequal populations, since some counties have hundreds of thousands of residents while others have only thousands, meaning some voters would have significantly less representation per capita than others. Critics also worry that locking the state at 100 counties is inflexible and could prevent needed local government reorganization, and that removing population-based apportionment reduces democratic representation based on the principle of 'one person, one vote.'",
+  "topic": "Elections & Voting",
+  "textLength": 5146,
+  "createdAt": "2026-06-23T02:45:35.828Z",
+  "sponsors": [
+    {"peopleId":17678,"name":"James Adams","party":"R","isPrimary":true},
+    {"peopleId":20523,"name":"Carson Smith","party":"R","isPrimary":true},
+    {"peopleId":22602,"name":"Karl Gillespie","party":"R","isPrimary":true},
+    {"peopleId":20519,"name":"Keith Kidwell","party":"R","isPrimary":true},
+    {"peopleId":24201,"name":"Celeste Cairns","party":"R","isPrimary":false},
+    {"peopleId":25843,"name":"Brian Echevarria","party":"R","isPrimary":false},
+    {"peopleId":25222,"name":"Blair Eddins","party":"R","isPrimary":false},
+    {"peopleId":21375,"name":"Jeffrey McNeely","party":"R","isPrimary":false},
+    {"peopleId":25856,"name":"Paul Scott","party":"R","isPrimary":false},
+    {"peopleId":24219,"name":"Bill Ward","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

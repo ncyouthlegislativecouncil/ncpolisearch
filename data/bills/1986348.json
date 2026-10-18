@@ -1,0 +1,21 @@
+{
+  "billId": 1986348,
+  "billNumber": "S196",
+  "title": "Winston-Salem/Forsyth Co. Planning & Zoning",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "85a5548c08c5ebc471a56fc1d1c28913",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-03",
+  "url": "https://legiscan.com/NC/bill/S196/2025",
+  "aiSummary": "This bill updates Winston-Salem and Forsyth County's planning and zoning laws to modernize terminology and procedures. It clarifies the joint City-County Planning Board's role in zoning decisions, allows the city to offer density bonuses and financial incentives to developers who build affordable housing, and updates references from 'Board of Aldermen' to 'City Council' throughout the enabling statutes.",
+  "aiProArguments": "Supporters argue this bill modernizes outdated language in Winston-Salem's zoning code, making it clearer and easier to administer. The addition of density bonus provisions gives the city tools to encourage affordable housing development by allowing developers to build more units in exchange for dedicating some to low- or moderate-income residents, potentially addressing housing affordability challenges.",
+  "aiConArguments": "Opponents may be concerned that density bonuses could lead to increased density in neighborhoods without corresponding infrastructure improvements like roads or utilities. Some may worry that giving developers financial incentives shifts public resources toward private projects, or that the changes could accelerate development patterns without adequate community input in the three-mile extraterritorial jurisdiction around the city.",
+  "topic": "Housing",
+  "textLength": 10338,
+  "createdAt": "2026-06-23T03:05:43.541Z",
+  "sponsors": [
+    {"peopleId":17457,"name":"Paul Lowe","party":"D","isPrimary":true}
+  ],
+  "rollCalls": []
+}

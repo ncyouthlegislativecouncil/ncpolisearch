@@ -1,0 +1,24 @@
+{
+  "billId": 2014050,
+  "billNumber": "S673",
+  "title": "Protect Physicians Voices/Freedom of Movement",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "5468d597f95bb5537b116b6a31bcc9e4",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-26",
+  "url": "https://legiscan.com/NC/bill/S673/2025",
+  "aiSummary": "This bill protects health care professionals (physicians, physician assistants, advanced practice nurses, and registered nurses) by removing certain legal protections for hospitals' non-clinical services, adding whistleblower protections against retaliation for reporting safety concerns, and prohibiting non-compete agreements and restrictive nondisclosure agreements for hospital-employed health care professionals.",
+  "aiProArguments": "Supporters argue this bill protects patient safety by allowing health care professionals to report concerns without fear of losing their jobs or hospital privileges. They contend that health care professionals need freedom to speak up about ethical violations, safety issues, and illegal activities, and that non-compete clauses unfairly restrict their ability to practice medicine and may discourage them from reporting problems. The bill also ensures transparency by requiring health care professionals to share practice information with patients upon request.",
+  "aiConArguments": "Opponents may argue that prohibiting non-compete agreements limits hospitals' ability to protect legitimate business interests and confidential information, potentially making it harder to recruit and retain talented physicians. They could contend that overly broad whistleblower protections might be misused to challenge legitimate management decisions, and that removing certain legal protections from non-clinical hospital services could expose hospitals to increased litigation and liability costs.",
+  "topic": "Business & Labor",
+  "textLength": 7910,
+  "createdAt": "2026-06-23T03:09:54.114Z",
+  "sponsors": [
+    {"peopleId":20216,"name":"Jim Burgin","party":"R","isPrimary":true},
+    {"peopleId":22425,"name":"Julie Mayfield","party":"D","isPrimary":true},
+    {"peopleId":25860,"name":"Woodson Bradley","party":"D","isPrimary":false},
+    {"peopleId":24222,"name":"Lisa Grafstein","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

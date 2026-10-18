@@ -1,0 +1,26 @@
+{
+  "billId": 2144897,
+  "billNumber": "S822",
+  "title": "Every School Has Resources Act",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "70bb00def96ebd8cf96028118a55da27",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2026-04-23",
+  "url": "https://legiscan.com/NC/bill/S822/2025",
+  "aiSummary": "This bill creates a three-year grant program to help North Carolina school districts hire a Development Director who seeks external funding sources like grants and donations. The state would cover 100% of the position's cost in year one, 50% in year two, and 25% in year three, with districts covering the remaining costs through matching funds. The program targets rural, small, and lower-wealth school districts that currently lack dedicated grant-writing staff.",
+  "aiProArguments": "Supporters argue this addresses a real problem: poorer and smaller school districts cannot afford to hire grant writers, so they miss out on external funding that wealthier districts easily access. By helping districts establish this position with state support that phases down over three years, the program levels the playing field and allows all districts to tap into grants, philanthropy, and corporate partnerships. Supporters point out that successful grant-writing typically returns far more money than the position costs, making it a smart investment that reduces reliance on property taxes and state appropriations.",
+  "aiConArguments": "Opponents may question whether $1 million in state funds is the best use of limited education budgets, especially since the program only funds 13-20 positions statewide. They might worry that districts struggling to find matching funds in years two and three could drop out, leaving the positions unfunded and making the initial investment wasteful. Some may also argue that the state should directly increase education funding rather than creating programs that help only some districts pursue supplemental money.",
+  "topic": "Education",
+  "textLength": 12979,
+  "createdAt": "2026-06-23T03:11:00.943Z",
+  "sponsors": [
+    {"peopleId":17936,"name":"Jay Chaudhuri","party":"D","isPrimary":true},
+    {"peopleId":12032,"name":"Gladys Robinson","party":"D","isPrimary":true},
+    {"peopleId":21633,"name":"Natalie Murdock","party":"D","isPrimary":false},
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":false},
+    {"peopleId":25859,"name":"Caleb Theodros","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

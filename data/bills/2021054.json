@@ -1,0 +1,28 @@
+{
+  "billId": 2021054,
+  "billNumber": "H808",
+  "title": "NC Infrastructure Protection Act",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "2e87927e58af7135ab6996e39362c07c",
+  "lastAction": "Re-ref Com On Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-06-24",
+  "url": "https://legiscan.com/NC/bill/H808/2025",
+  "aiSummary": "This bill prohibits North Carolina government entities from contracting with foreign-owned companies from China, Iran, North Korea, Russia, or other designated countries if those companies would have direct or remote access to critical infrastructure like power grids, water systems, and communication networks. It also requires criminal background checks for all individuals granted access to these critical infrastructure systems across multiple state agencies.",
+  "aiProArguments": "Supporters argue this bill protects North Carolina's essential infrastructure from potential foreign espionage, sabotage, or cyber attacks by adversarial nations. They contend that criminal background checks for infrastructure access personnel enhance security by preventing individuals with criminal histories from working in sensitive positions. Proponents say these safeguards are necessary national security measures similar to practices in other states and align with federal concerns about foreign control of critical infrastructure.",
+  "aiConArguments": "Opponents may argue the bill could limit business opportunities and increase costs for companies affected by the foreign ownership restrictions, potentially raising prices for North Carolina consumers and limiting competition. They could also contend that broad background check requirements for infrastructure workers may face privacy concerns and could create delays in hiring or certification processes. Some may question whether designating countries as threats should rest with the Council of State rather than a more formal legislative or judicial process.",
+  "topic": "Criminal Justice & Public Safety",
+  "textLength": 14847,
+  "createdAt": "2026-06-23T02:57:58.303Z",
+  "sponsors": [
+    {"peopleId":22965,"name":"Donnie Loftis","party":"R","isPrimary":true},
+    {"peopleId":21375,"name":"Jeffrey McNeely","party":"R","isPrimary":true},
+    {"peopleId":21377,"name":"Jake Johnson","party":"R","isPrimary":true},
+    {"peopleId":24207,"name":"Neal Jackson","party":"R","isPrimary":false},
+    {"peopleId":24219,"name":"Bill Ward","party":"R","isPrimary":false},
+    {"peopleId":17158,"name":"Shelly Willingham","party":"D","isPrimary":false},
+    {"peopleId":22610,"name":"Matthew Winslow","party":"R","isPrimary":false},
+    {"peopleId":22611,"name":"Jeff Zenger","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

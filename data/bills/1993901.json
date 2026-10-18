@@ -1,0 +1,21 @@
+{
+  "billId": 1993901,
+  "billNumber": "S252",
+  "title": "Funds for Pinetops Fire Department",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "b1d9183343eb7fe8cab80ef4abee7273",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2025-03-10",
+  "url": "https://legiscan.com/NC/bill/S252/2025",
+  "aiSummary": "This bill appropriates $150,000 per year for the 2025-2027 fiscal biennium from the state's General Fund to the Town of Pinetops to help cover staffing costs for its fire department. The funding becomes available starting July 1, 2025.",
+  "aiProArguments": "Supporters argue that state funding helps small towns maintain adequate firefighting staffing levels, which improves public safety and emergency response capabilities in the community. They contend that local governments often struggle to fund essential services like fire departments and that state support ensures these critical services remain available to residents.",
+  "aiConArguments": "Opponents may argue that directing state General Fund money to a specific town raises fairness questions about whether other fire departments across the state with similar needs are receiving equal support. They may also question whether recurring state appropriations for local operational expenses set a precedent that strains the state budget and should instead be addressed through local funding mechanisms.",
+  "topic": "Taxes & Budget",
+  "textLength": 844,
+  "createdAt": "2026-06-23T03:06:08.818Z",
+  "sponsors": [
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":true}
+  ],
+  "rollCalls": []
+}

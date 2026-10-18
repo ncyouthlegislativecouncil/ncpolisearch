@@ -1,0 +1,33 @@
+{
+  "billId": 2018669,
+  "billNumber": "H721",
+  "title": "Muddy Sneakers/St. Gerard House",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "2f5dad6b2ed7fd0647dd8e48177f8b2c",
+  "lastAction": "Ref to the Com on Appropriations, if favorable, Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-04-03",
+  "url": "https://legiscan.com/NC/bill/H721/2025",
+  "aiSummary": "This bill appropriates $500,000 in recurring funds to the Muddy Sneakers program to support hands-on science learning for fifth graders, and $2,750,000 in nonrecurring funds to St. Gerard House to support autism treatment programs. Both appropriations are funded from the General Fund and take effect July 1, 2025.",
+  "aiProArguments": "Supporters argue that Muddy Sneakers provides valuable experiential learning that improves student science aptitude through field-based instruction aligned with state standards, filling a gap in supplemental science education. They contend that St. Gerard House's autism programs serve families in need of specialized treatment services, and state funding helps expand access to care for North Carolina residents.",
+  "aiConArguments": "Opponents may question whether direct appropriations to specific nonprofit organizations are the most efficient use of state funds, and whether other education programs or autism services could demonstrate greater cost-effectiveness. Some may also note concerns about the sustainability of nonrecurring funds for St. Gerard House and whether the $500,000 for Muddy Sneakers should be distributed through broader competitive grant processes rather than direct appropriation.",
+  "topic": "Taxes & Budget",
+  "textLength": 1500,
+  "createdAt": "2026-06-23T02:56:51.980Z",
+  "sponsors": [
+    {"peopleId":21377,"name":"Jake Johnson","party":"R","isPrimary":true},
+    {"peopleId":17149,"name":"Brian Turner","party":"D","isPrimary":true},
+    {"peopleId":25852,"name":"Wyatt Gable","party":"R","isPrimary":true},
+    {"peopleId":18453,"name":"Mike Clampitt","party":"R","isPrimary":true},
+    {"peopleId":24197,"name":"Brian Biggs","party":"R","isPrimary":false},
+    {"peopleId":2049,"name":"Patricia Cotham","party":"R","isPrimary":false},
+    {"peopleId":20512,"name":"Edward Goodwin","party":"R","isPrimary":false},
+    {"peopleId":25844,"name":"Julia Greenfield","party":"D","isPrimary":false},
+    {"peopleId":20515,"name":"Zack Forde-Hawkins","party":"D","isPrimary":false},
+    {"peopleId":24207,"name":"Neal Jackson","party":"R","isPrimary":false},
+    {"peopleId":26396,"name":"Phil Rubin","party":"D","isPrimary":false},
+    {"peopleId":24219,"name":"Bill Ward","party":"R","isPrimary":false},
+    {"peopleId":18495,"name":"Donna White","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

@@ -1,0 +1,26 @@
+{
+  "billId": 2018270,
+  "billNumber": "H659",
+  "title": "Local Government Spending Transparency",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "71d466f391bbda8c67744d4a438385e6",
+  "lastAction": "Re-ref Com On Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-05-06",
+  "url": "https://legiscan.com/NC/bill/H659/2025",
+  "aiSummary": "This bill requires all local government entities in North Carolina to publish itemized invoices online showing who was paid, how much, what was purchased, and when. It also requires local governments to publicly display the top three bids received for any project, service, or goods purchased with tax dollars, updated quarterly.",
+  "aiProArguments": "Supporters argue this increases accountability and allows taxpayers to see how their tax dollars are spent, potentially reducing wasteful spending and identifying inefficiencies. They contend that transparency deters fraud and mismanagement while empowering citizens to monitor local government spending decisions and bid processes.",
+  "aiConArguments": "Opponents worry about administrative costs and staff time required to compile, format, and maintain this data online for smaller local governments with limited budgets. They also raise concerns that publishing unredacted invoices and bids could expose sensitive information about government operations, vendor pricing strategies, or personal information that might normally be confidential.",
+  "topic": "Local Government",
+  "textLength": 1563,
+  "createdAt": "2026-06-23T02:56:02.523Z",
+  "sponsors": [
+    {"peopleId":25843,"name":"Brian Echevarria","party":"R","isPrimary":true},
+    {"peopleId":22965,"name":"Donnie Loftis","party":"R","isPrimary":true},
+    {"peopleId":25841,"name":"Jonathan Almond","party":"R","isPrimary":true},
+    {"peopleId":24211,"name":"Jarrod Lowery","party":"R","isPrimary":true},
+    {"peopleId":14606,"name":"Mark Brody","party":"R","isPrimary":false},
+    {"peopleId":24219,"name":"Bill Ward","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

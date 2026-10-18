@@ -1,0 +1,26 @@
+{
+  "billId": 2014101,
+  "billNumber": "S657",
+  "title": "Keeping Our Coaches Act",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "7b8fe20af534a411ea555beded7d201b",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-26",
+  "url": "https://legiscan.com/NC/bill/S657/2025",
+  "aiSummary": "This bill directs $11 million annually from sports betting tax revenue to the Department of Public Instruction to provide salary supplements to public school athletic coaches. The goal is to ensure each eligible coach receives at least $3,000 total in annual salary supplements from state and non-state combined sources, with any unused funds going to the North Carolina Alliance of YMCAs for youth sports programming.",
+  "aiProArguments": "Supporters argue this bill addresses coach compensation challenges by providing stable funding to retain quality athletic coaches in public schools. They contend that better coach salaries improve athletic programs, student experiences, and help schools compete for talent. Supporters also note that using sports betting revenue for this purpose creates a dedicated funding stream without raising taxes on other sources.",
+  "aiConArguments": "Opponents may argue that $11 million may be insufficient given the number of coaches statewide and existing salary disparities between districts. Some may question whether sports betting revenue is a reliable long-term funding source or whether these funds could address other education priorities. Others may be concerned that schools already providing local supplements could face pressure to reduce their contributions, potentially offsetting the state benefit.",
+  "topic": "Education",
+  "textLength": 3451,
+  "createdAt": "2026-06-23T03:09:44.105Z",
+  "sponsors": [
+    {"peopleId":20222,"name":"Todd Johnson","party":"R","isPrimary":true},
+    {"peopleId":24226,"name":"Eddie Settle","party":"R","isPrimary":true},
+    {"peopleId":25858,"name":"Sophia Chitlik","party":"D","isPrimary":true},
+    {"peopleId":24220,"name":"Val Applewhite","party":"D","isPrimary":false},
+    {"peopleId":25250,"name":"Dana Jones","party":"R","isPrimary":false},
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

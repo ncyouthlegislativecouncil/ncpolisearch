@@ -1,0 +1,28 @@
+{
+  "billId": 2013339,
+  "billNumber": "S459",
+  "title": "Constitutional Repeal of Art. XIV Sec. 6",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "bbb853bd6bc2cd58395a92b8f203dcdd",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-25",
+  "url": "https://legiscan.com/NC/bill/S459/2025",
+  "aiSummary": "This bill proposes a constitutional amendment that would remove North Carolina's current constitutional definition of marriage as exclusively between one man and one woman. If passed by the General Assembly and approved by voters in November 2026, the amendment would take effect January 1, 2027.",
+  "aiProArguments": "Supporters argue this amendment protects equal rights and dignity for same-sex couples by allowing them to marry and have their unions legally recognized by the state, similar to opposite-sex marriages. They contend the current constitutional language discriminates against LGBTQ+ individuals and prevents them from accessing marriage-related legal protections, benefits, and recognition that other citizens enjoy.",
+  "aiConArguments": "Opponents argue the current constitutional provision reflects traditional definitions of marriage and should be preserved through the democratic process. Some believe the amendment represents a significant social change that should require broad public consensus, while others express concerns about how it might affect religious liberty, parental rights, or other related policies.",
+  "topic": "Other / General Government",
+  "textLength": 2176,
+  "createdAt": "2026-06-23T03:08:02.096Z",
+  "sponsors": [
+    {"peopleId":20220,"name":"Michael Garrett","party":"D","isPrimary":true},
+    {"peopleId":24222,"name":"Lisa Grafstein","party":"D","isPrimary":true},
+    {"peopleId":25858,"name":"Sophia Chitlik","party":"D","isPrimary":true},
+    {"peopleId":22425,"name":"Julie Mayfield","party":"D","isPrimary":false},
+    {"peopleId":21633,"name":"Natalie Murdock","party":"D","isPrimary":false},
+    {"peopleId":22426,"name":"DeAndrea Salvador","party":"D","isPrimary":false},
+    {"peopleId":25859,"name":"Caleb Theodros","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

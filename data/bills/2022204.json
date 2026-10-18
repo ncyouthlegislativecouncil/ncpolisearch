@@ -1,0 +1,26 @@
+{
+  "billId": 2022204,
+  "billNumber": "H874",
+  "title": "North Carolina Healthy Schools Act",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "b9342ed4890bac8fb2c716d8e502a1d6",
+  "lastAction": "Ref To Com On Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-04-10",
+  "url": "https://legiscan.com/NC/bill/H874/2025",
+  "aiSummary": "This bill prohibits North Carolina public schools from serving or selling foods and beverages containing specific artificial dyes and additives (such as potassium bromate, titanium dioxide, and red/yellow/blue dyes) during the school day. Schools must certify compliance, and the Department of Public Instruction will maintain a public list of compliant schools. Students can still bring these foods from home.",
+  "aiProArguments": "Supporters argue that removing artificial additives and dyes from school meals addresses childhood obesity and health concerns by ensuring students receive more nutritious, whole-food-based meals during the school day. They contend that taxpayer-funded nutrition programs should prioritize children's health and that these specific additives have been banned or restricted in other countries, suggesting they may pose health risks.",
+  "aiConArguments": "Opponents may argue that the bill's narrow focus on specific ingredients may not effectively address broader nutrition issues, could increase meal costs for school districts already facing budget constraints, and that some listed additives (like titanium dioxide and certain dyes) are approved by the FDA as safe at current usage levels. They may also contend that enforcement and certification requirements create additional administrative burdens for schools.",
+  "topic": "Education",
+  "textLength": 3918,
+  "createdAt": "2026-06-23T02:58:47.748Z",
+  "sponsors": [
+    {"peopleId":25841,"name":"Jonathan Almond","party":"R","isPrimary":true},
+    {"peopleId":24203,"name":"Allen Chesser","party":"R","isPrimary":true},
+    {"peopleId":22610,"name":"Matthew Winslow","party":"R","isPrimary":true},
+    {"peopleId":24890,"name":"Eric Ager","party":"D","isPrimary":false},
+    {"peopleId":25853,"name":"Rodney Pierce","party":"D","isPrimary":false},
+    {"peopleId":26396,"name":"Phil Rubin","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

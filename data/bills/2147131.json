@@ -1,0 +1,21 @@
+{
+  "billId": 2147131,
+  "billNumber": "S1003",
+  "title": "Permit Time Lines/Certain Wastewater Systems",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "68ea8262e36b6e98266c0ee6c917c709",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2026-05-04",
+  "url": "https://legiscan.com/NC/bill/S1003/2025",
+  "aiSummary": "This bill establishes expedited permitting timelines for new or expanded wastewater treatment systems in North Carolina's fastest-growing counties. The bill sets specific deadlines for administrative review (30 days), technical review (90 calendar days), and overall approval or denial (90-120 days depending on public hearings), and appropriates $10,000 to the Department of Environmental Quality to implement these requirements.",
+  "aiProArguments": "Supporters argue this bill accelerates infrastructure development in fast-growing counties where wastewater systems are critical to accommodate population growth and prevent service bottlenecks. The expedited process with clear deadlines and defined procedures reduces regulatory uncertainty and delays that can hinder development, while still requiring environmental review and allowing public hearings when there is significant public interest.",
+  "aiConArguments": "Opponents may contend that compressed timelines could compromise thorough environmental review and public input, particularly in sensitive areas. They might argue that the 30-day applicant response windows and limits on follow-up information requests could disadvantage applicants with complex projects, and that $10,000 in funding may be insufficient for DEQ to handle expedited reviews without compromising other regulatory responsibilities.",
+  "topic": "Transportation & Infrastructure",
+  "textLength": 6419,
+  "createdAt": "2026-06-23T03:12:32.318Z",
+  "sponsors": [
+    {"peopleId":26462,"name":"Chris Measmer","party":"R","isPrimary":true}
+  ],
+  "rollCalls": []
+}

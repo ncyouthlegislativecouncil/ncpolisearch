@@ -1,0 +1,24 @@
+{
+  "billId": 2011954,
+  "billNumber": "S373",
+  "title": "Vaccination Schedule Variance/Minors",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "7593c20093cda035c3b1c73cea86dcb3",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-24",
+  "url": "https://legiscan.com/NC/bill/S373/2025",
+  "aiSummary": "This bill prohibits North Carolina health care practitioners from refusing to accept minors as patients solely because the child or their parent/guardian refuses to follow the CDC's recommended vaccination schedule timing or frequency. It allows delays or schedule variances while still requiring vaccines that are mandated by state law, and makes violation of this rule subject to professional discipline.",
+  "aiProArguments": "Supporters argue this protects parental medical decision-making rights and prevents families from being denied healthcare based on vaccination timing choices. They contend that delaying or spacing out vaccines according to an alternative schedule should not result in a child losing access to a pediatrician or hospital, and that parents should have flexibility in healthcare decisions for their children without fear of discrimination.",
+  "aiConArguments": "Opponents worry this could undermine public health efforts by enabling patients to avoid vaccines based on misinformation, potentially reducing community immunity levels against preventable diseases. They argue that pediatricians may refuse care when deviations from evidence-based schedules pose safety risks, and that mandating acceptance of all schedule variances could compromise professional medical judgment and patient safety standards.",
+  "topic": "Healthcare",
+  "textLength": 2368,
+  "createdAt": "2026-06-23T03:07:14.909Z",
+  "sponsors": [
+    {"peopleId":11858,"name":"Timothy Moffitt","party":"R","isPrimary":true},
+    {"peopleId":24225,"name":"Benton Sawrey","party":"R","isPrimary":true},
+    {"peopleId":24223,"name":"Brad Overcash","party":"R","isPrimary":true},
+    {"peopleId":20518,"name":"Steve Jarvis","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

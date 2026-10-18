@@ -1,0 +1,29 @@
+{
+  "billId": 2016938,
+  "billNumber": "H595",
+  "title": "Parental Rights for Curriculum and Books",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "5fe9b2261aa64525e8a1cf94e6757abe",
+  "lastAction": "Ref To Com On Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-04-01",
+  "url": "https://legiscan.com/NC/bill/H595/2025",
+  "aiSummary": "This bill restricts curriculum content related to gender identity, sexual activity, and sexuality in K-6 grades and requires parental consent for these topics in grades 7-12. It establishes new procedures for selecting health and safety instructional materials and library books, including public hearings and parent review periods. The bill also requires schools to maintain repositories of instructional materials and restricts minors' access to materials deemed harmful in public libraries.",
+  "aiProArguments": "Supporters argue this bill protects parental rights by ensuring parents know what their children are learning about sensitive topics and can opt out. They contend it prevents age-inappropriate sexual content in elementary schools and gives communities a voice through public hearings on curriculum. Supporters also believe restricting minors' library access to certain materials protects children from harmful content and maintains parental authority over children's exposure to such materials.",
+  "aiConArguments": "Opponents worry the bill limits classroom instruction on LGBTQ+ topics and reproductive health, arguing this can harm LGBTQ+ students and prevent comprehensive sex education. They contend the extensive parental consent requirements and 60-day review periods create burdensome processes that slow curriculum updates. Critics also argue that restricting library access violates intellectual freedom principles and that defining materials as \"harmful\" is subjective, potentially leading to excessive book removal from public libraries.",
+  "topic": "Education",
+  "textLength": 39944,
+  "createdAt": "2026-06-23T02:55:09.440Z",
+  "sponsors": [
+    {"peopleId":11866,"name":"John Torbett","party":"R","isPrimary":true},
+    {"peopleId":2031,"name":"Hugh Blackwell","party":"R","isPrimary":true},
+    {"peopleId":14602,"name":"Dean Arp","party":"R","isPrimary":false},
+    {"peopleId":18453,"name":"Mike Clampitt","party":"R","isPrimary":false},
+    {"peopleId":2086,"name":"Francis Iler","party":"R","isPrimary":false},
+    {"peopleId":21377,"name":"Jake Johnson","party":"R","isPrimary":false},
+    {"peopleId":20519,"name":"Keith Kidwell","party":"R","isPrimary":false},
+    {"peopleId":21375,"name":"Jeffrey McNeely","party":"R","isPrimary":false},
+    {"peopleId":24219,"name":"Bill Ward","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

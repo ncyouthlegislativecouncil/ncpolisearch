@@ -1,0 +1,25 @@
+{
+  "billId": 2144850,
+  "billNumber": "S820",
+  "title": "Safe Schools and Educational Access Act",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "c4947bd8b83488d39406b8cf59bdb0c9",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2026-04-23",
+  "url": "https://legiscan.com/NC/bill/S820/2025",
+  "aiSummary": "This bill protects students' access to public K-12 schools, community colleges, and UNC universities regardless of immigration status or national origin. It prohibits schools from requiring immigration documentation for enrollment, restricts immigration enforcement actions on school grounds without judicial warrants, and allocates $181 million in state funding for English language instruction and support services for students with limited English proficiency.",
+  "aiProArguments": "Supporters argue this bill ensures all children can attend school safely and focus on learning without fear of deportation, which aligns with the U.S. Supreme Court's Plyler v. Doe ruling guaranteeing education access. They contend that dedicated funding for English language programs helps multilingual learners succeed academically and integrate into their communities, while schools function better when families trust they are safe spaces focused on education rather than immigration enforcement.",
+  "aiConArguments": "Opponents argue that restricting immigration enforcement on school grounds may conflict with federal law enforcement priorities and could complicate cooperation between schools and immigration authorities. Some raise concerns about the $181 million recurring cost to the state budget during a period of limited resources, and question whether schools should be designated as protected locations that limit law enforcement authority rather than treating all public spaces equally.",
+  "topic": "Education",
+  "textLength": 6726,
+  "createdAt": "2026-06-23T03:10:59.950Z",
+  "sponsors": [
+    {"peopleId":25859,"name":"Caleb Theodros","party":"D","isPrimary":true},
+    {"peopleId":21633,"name":"Natalie Murdock","party":"D","isPrimary":true},
+    {"peopleId":25858,"name":"Sophia Chitlik","party":"D","isPrimary":false},
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

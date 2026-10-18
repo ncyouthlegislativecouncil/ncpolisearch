@@ -1,0 +1,27 @@
+{
+  "billId": 2018743,
+  "billNumber": "H705",
+  "title": "Study CTE Licensure Requirements",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "ea3e1b226bfe9905f40b55e789fbfeb4",
+  "lastAction": "Ref to the Com on Appropriations, if favorable, Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-04-03",
+  "url": "https://legiscan.com/NC/bill/H705/2025",
+  "aiSummary": "This bill directs the Department of Public Instruction, working with the State Board of Community Colleges, to study whether skilled workers and professionals with real-world experience could become Career and Technical Education (CTE) high school teachers without meeting all current licensure requirements. The study must be completed by March 15, 2026, and recommend alternative or modified paths to CTE teacher licensure based on industry credentials and work experience.",
+  "aiProArguments": "Supporters argue this study could address teacher shortages in CTE programs by opening the profession to experienced tradespeople and professionals who have deep expertise in their fields but lack traditional teaching credentials. They contend that skilled workers with years of industry experience may be effective teachers without completing all standard licensure requirements, potentially bringing more practical, real-world knowledge to students preparing for technical careers.",
+  "aiConArguments": "Opponents may be concerned that lowering or modifying licensure requirements could compromise teaching quality if candidates lack formal training in pedagogy, classroom management, and educational standards. They might also worry about protecting existing teacher professionals and question whether industry experience alone ensures someone can effectively teach diverse groups of high school students.",
+  "topic": "Education",
+  "textLength": 2275,
+  "createdAt": "2026-06-23T02:56:40.991Z",
+  "sponsors": [
+    {"peopleId":21377,"name":"Jake Johnson","party":"R","isPrimary":true},
+    {"peopleId":2049,"name":"Patricia Cotham","party":"R","isPrimary":true},
+    {"peopleId":22609,"name":"David Willis","party":"R","isPrimary":true},
+    {"peopleId":24206,"name":"Frances Jackson","party":"D","isPrimary":false},
+    {"peopleId":22965,"name":"Donnie Loftis","party":"R","isPrimary":false},
+    {"peopleId":2115,"name":"Garland Pierce","party":"D","isPrimary":false},
+    {"peopleId":22610,"name":"Matthew Winslow","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

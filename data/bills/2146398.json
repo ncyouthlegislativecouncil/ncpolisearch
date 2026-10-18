@@ -1,0 +1,21 @@
+{
+  "billId": 2146398,
+  "billNumber": "S930",
+  "title": "Traffic Signal Preemption Software",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "ca7ebc36d25c6da0d9d58726639ed398",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2026-04-30",
+  "url": "https://legiscan.com/NC/bill/S930/2025",
+  "aiSummary": "This bill appropriates $2.7 million in funding from North Carolina's Highway Fund to the Department of Transportation for the 2026-2027 fiscal year to implement traffic signal preemption technology. This technology allows traffic signals to change in real-time to give priority to first responder vehicles like ambulances, fire trucks, and police cars.",
+  "aiProArguments": "Supporters argue that traffic signal preemption technology reduces emergency response times by allowing first responders to pass through intersections faster, which can be critical in life-or-death situations. They contend the technology improves intersection safety and efficiency, potentially saving lives and reducing accidents when emergency vehicles can reach scenes more quickly.",
+  "aiConArguments": "Opponents may question whether $2.7 million represents the best use of highway transportation funds, or whether the money could address other transportation priorities. Some might express concerns about whether the technology will be implemented across enough intersections to be truly effective, or raise questions about maintenance costs and long-term sustainability beyond the initial one-time funding.",
+  "topic": "Transportation & Infrastructure",
+  "textLength": 841,
+  "createdAt": "2026-06-23T03:11:58.075Z",
+  "sponsors": [
+    {"peopleId":17457,"name":"Paul Lowe","party":"D","isPrimary":true}
+  ],
+  "rollCalls": []
+}

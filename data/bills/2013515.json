@@ -1,0 +1,24 @@
+{
+  "billId": 2013515,
+  "billNumber": "S471",
+  "title": "Horse Race Wagering Modifications",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "c0cbc1b1c7b80d7406eacf4492267531",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-25",
+  "url": "https://legiscan.com/NC/bill/S471/2025",
+  "aiSummary": "This bill legalizes and regulates pari-mutuel wagering on horse races in North Carolina. It creates a licensing system for horse racing tracks and online wagering platforms, establishes taxes on wagering revenue, and creates funds to support the state's equine industry including horse breeding incentives, purses for races, and horse care programs.",
+  "aiProArguments": "Supporters argue this bill will generate significant economic development and tax revenue for North Carolina, create thousands of jobs in agriculture, hospitality, tourism, and veterinary services, and strengthen the state's equine industry. They contend that regulated wagering is safer than unregulated alternatives and that other states have successfully implemented similar programs. The bill also funds equine programs, horse care, and veterinary education.",
+  "aiConArguments": "Opponents may be concerned about increased gambling availability and its potential social costs, including problem gambling and addiction. Some may object on moral grounds to legalizing gambling. Others might worry about the substantial $250 million minimum investment requirement potentially limiting competition, or question whether promised economic benefits and job creation will materialize as projected in other states.",
+  "topic": "Taxes & Budget",
+  "textLength": 95578,
+  "createdAt": "2026-06-23T03:08:07.739Z",
+  "sponsors": [
+    {"peopleId":11858,"name":"Timothy Moffitt","party":"R","isPrimary":true},
+    {"peopleId":20513,"name":"Bobby Hanig","party":"R","isPrimary":true},
+    {"peopleId":17437,"name":"Thomas McInnis","party":"R","isPrimary":true},
+    {"peopleId":17457,"name":"Paul Lowe","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

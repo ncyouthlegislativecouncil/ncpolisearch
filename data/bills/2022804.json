@@ -1,0 +1,29 @@
+{
+  "billId": 2022804,
+  "billNumber": "H1006",
+  "title": "Const. Amend. Single Subject Bills",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "5f3bccf9411164c6e5ba5426486d3e51",
+  "lastAction": "Ref To Com On Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-04-14",
+  "url": "https://legiscan.com/NC/bill/H1006/2025",
+  "aiSummary": "This bill proposes a constitutional amendment requiring that all state laws address only one subject, which must be clearly stated in the bill's title. The amendment would allow exceptions for general appropriation bills, revenue bills, and technical correction bills. If passed by the General Assembly, voters would decide on this amendment in the November 2026 general election.",
+  "aiProArguments": "Supporters argue that single-subject bills increase transparency and prevent legislators from hiding unpopular provisions within larger bills. This reform, they contend, makes it easier for voters to understand what each law does and helps elected officials focus on specific issues rather than bundling unrelated topics together.",
+  "aiConArguments": "Opponents worry that strict single-subject requirements could make it harder to pass necessary legislation by preventing compromise bills that address related issues together. They also argue the amendment could create legal disputes over what constitutes a single subject and might reduce the General Assembly's flexibility in crafting complex legislation.",
+  "topic": "Other / General Government",
+  "textLength": 2354,
+  "createdAt": "2026-06-23T03:00:18.152Z",
+  "sponsors": [
+    {"peopleId":2034,"name":"John Blust","party":"R","isPrimary":true},
+    {"peopleId":18451,"name":"Mary Belk","party":"D","isPrimary":false},
+    {"peopleId":19238,"name":"Deb Butler","party":"D","isPrimary":false},
+    {"peopleId":2077,"name":"Mary Harrison","party":"D","isPrimary":false},
+    {"peopleId":20519,"name":"Keith Kidwell","party":"R","isPrimary":false},
+    {"peopleId":19360,"name":"Marcia Morey","party":"D","isPrimary":false},
+    {"peopleId":17149,"name":"Brian Turner","party":"D","isPrimary":false},
+    {"peopleId":24219,"name":"Bill Ward","party":"R","isPrimary":false},
+    {"peopleId":18495,"name":"Donna White","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

@@ -1,0 +1,26 @@
+{
+  "billId": 2010954,
+  "billNumber": "S343",
+  "title": "Secure Home, Secure Future Act",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "8e93a1931dc4084039b948219d7e2589",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-20",
+  "url": "https://legiscan.com/NC/bill/S343/2025",
+  "aiSummary": "This bill creates a new property tax relief program called the Secure Home and Future Property Tax Relief Benefit for homeowners who have owned and occupied their primary residence in North Carolina for at least 15 consecutive years. Under the program, annual property tax increases on qualifying homes are capped at 2% or recalculated based on improvements, with deferred taxes becoming due if the property is sold or ceases to be a primary residence.",
+  "aiProArguments": "Supporters argue this bill helps long-term homeowners, especially seniors and fixed-income residents, by protecting them from rising property tax bills as their home values increase. The 2% annual cap and deferral of excess taxes provide predictability and stability for homeowners who have invested decades in their communities and prevents displacement due to escalating tax burdens.",
+  "aiConArguments": "Opponents may contend that this program reduces property tax revenue for local governments and schools during a time of increasing public service demands, potentially requiring higher tax rates on other properties or reduced services. Critics could also argue the 15-year ownership requirement may disproportionately benefit wealthier, long-established homeowners while doing less for younger residents or those who have recently moved.",
+  "topic": "Taxes & Budget",
+  "textLength": 11446,
+  "createdAt": "2026-06-23T03:06:57.235Z",
+  "sponsors": [
+    {"peopleId":25859,"name":"Caleb Theodros","party":"D","isPrimary":true},
+    {"peopleId":12032,"name":"Gladys Robinson","party":"D","isPrimary":true},
+    {"peopleId":17457,"name":"Paul Lowe","party":"D","isPrimary":true},
+    {"peopleId":20223,"name":"Mujtaba Mohammed","party":"D","isPrimary":false},
+    {"peopleId":21633,"name":"Natalie Murdock","party":"D","isPrimary":false},
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

@@ -1,0 +1,21 @@
+{
+  "billId": 1991362,
+  "billNumber": "H291",
+  "title": "Franklinton Annexations",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "fee2ee5c9681baad6af92dbeea535fe8",
+  "lastAction": "Ref to the Com on Transportation, if favorable, State and Local Government, if favorable, Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-03-06",
+  "url": "https://legiscan.com/NC/bill/H291/2025",
+  "aiSummary": "This bill expands the Town of Franklinton's corporate limits by adding specific North Carolina Department of Transportation rights-of-way (road corridors) to the town's boundaries. The additions include portions of US Highway 1, NC 56, and several local roads, becoming effective July 1, 2025.",
+  "aiProArguments": "Supporters argue that annexing these road rights-of-way allows Franklinton to better manage and maintain infrastructure within its expanded boundaries, potentially improving local services and economic development. The town gains jurisdiction over these critical transportation corridors, which may help coordinate planning and maintenance more effectively.",
+  "aiConArguments": "Opponents may be concerned that annexation could extend the town's regulatory authority over areas that currently fall outside municipal control, potentially affecting property owners and road maintenance responsibilities. Some may question whether the town has adequate resources to manage these additional areas or whether residents in the affected regions had input into the annexation decision.",
+  "topic": "Local Government",
+  "textLength": 2129,
+  "createdAt": "2026-06-23T02:47:33.703Z",
+  "sponsors": [
+    {"peopleId":22610,"name":"Matthew Winslow","party":"R","isPrimary":true}
+  ],
+  "rollCalls": []
+}

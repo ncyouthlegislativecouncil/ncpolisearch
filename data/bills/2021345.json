@@ -1,0 +1,33 @@
+{
+  "billId": 2021345,
+  "billNumber": "H824",
+  "title": "Expand Treatment Access/Opioid Use Disorder",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "748bc5e3c53836f25ce78098bf458590",
+  "lastAction": "Serial Referral To Finance Stricken",
+  "lastActionDate": "2025-04-17",
+  "url": "https://legiscan.com/NC/bill/H824/2025",
+  "aiSummary": "This bill expands insurance coverage for opioid use disorder and overdose treatment by requiring health plans to cover all FDA-approved medications for these conditions without prior authorization, requiring pharmacists' services to be covered like other healthcare providers, and updating language throughout state insurance law to reflect current medical terminology and federal parity requirements.",
+  "aiProArguments": "Supporters argue this bill removes barriers to life-saving opioid treatments by eliminating prior authorization requirements and ensuring medications like buprenorphine are covered without delay. They contend it addresses North Carolina's opioid crisis by making treatment more accessible and affordable, while also recognizing pharmacists as essential healthcare providers who can deliver medication and treatment services, potentially expanding access in underserved areas.",
+  "aiConArguments": "Opponents may argue the bill could increase insurance premiums and healthcare costs by mandating coverage of all opioid-related medications and expanding pharmacy services without cost controls. They might also express concerns about removing prior authorization requirements, which insurers use to manage drug costs and prevent overutilization, and worry about the bill's broad language potentially creating unfunded mandates on insurance companies.",
+  "topic": "Healthcare",
+  "textLength": 11289,
+  "createdAt": "2026-06-23T02:58:12.905Z",
+  "sponsors": [
+    {"peopleId":18495,"name":"Donna White","party":"R","isPrimary":true},
+    {"peopleId":25848,"name":"Cody Huneycutt","party":"R","isPrimary":true},
+    {"peopleId":24890,"name":"Eric Ager","party":"D","isPrimary":false},
+    {"peopleId":22599,"name":"Amber Baker","party":"D","isPrimary":false},
+    {"peopleId":18451,"name":"Mary Belk","party":"D","isPrimary":false},
+    {"peopleId":14612,"name":"Carla Cunningham","party":"D","isPrimary":false},
+    {"peopleId":25844,"name":"Julia Greenfield","party":"D","isPrimary":false},
+    {"peopleId":24206,"name":"Frances Jackson","party":"D","isPrimary":false},
+    {"peopleId":20521,"name":"Carolyn Logan","party":"D","isPrimary":false},
+    {"peopleId":25850,"name":"Jordan Lopez","party":"D","isPrimary":false},
+    {"peopleId":2115,"name":"Garland Pierce","party":"D","isPrimary":false},
+    {"peopleId":26396,"name":"Phil Rubin","party":"D","isPrimary":false},
+    {"peopleId":17158,"name":"Shelly Willingham","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

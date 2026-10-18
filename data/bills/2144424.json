@@ -1,0 +1,23 @@
+{
+  "billId": 2144424,
+  "billNumber": "S798",
+  "title": "Elderly Prop. Tax Appreciation Exclusion",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "5640e0dd7c01be1022555f92322a6694",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2026-04-22",
+  "url": "https://legiscan.com/NC/bill/S798/2025",
+  "aiSummary": "This bill creates a new property tax benefit for North Carolina homeowners age 65 and older who have owned and lived in their home for at least five consecutive years. Under this program, eligible seniors can defer paying taxes on the portion of their property tax bill that results from increases in their home's value above the value when they first applied for the benefit, though these deferred taxes become due if the property is sold or no longer used as a primary residence.",
+  "aiProArguments": "Supporters argue this bill provides meaningful tax relief to fixed-income seniors who may struggle with rising property taxes as their neighborhoods appreciate in value, allowing them to stay in their longtime homes without facing escalating tax burdens. The bill protects elderly homeowners from being priced out of their communities through property tax increases while still ensuring deferred taxes are eventually paid when the property changes hands, preserving county tax base revenues.",
+  "aiConArguments": "Opponents may contend that deferring taxes reduces immediate revenue for schools, counties, and municipalities during the years the benefit is active, potentially shifting the tax burden to other residents and businesses. Some may also argue the program primarily benefits homeowners in appreciating areas and those with sufficient home equity, and question whether it represents the most efficient use of tax policy to assist low-income elderly residents compared to other targeted assistance programs.",
+  "topic": "Taxes & Budget",
+  "textLength": 6981,
+  "createdAt": "2026-06-23T03:10:49.922Z",
+  "sponsors": [
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":true},
+    {"peopleId":24222,"name":"Lisa Grafstein","party":"D","isPrimary":false},
+    {"peopleId":12032,"name":"Gladys Robinson","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

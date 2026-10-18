@@ -1,0 +1,27 @@
+{
+  "billId": 2022576,
+  "billNumber": "H924",
+  "title": "Board for Gen. Contractors/Crim. Referrals",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "457e1e501680f455e4575c717ab108d0",
+  "lastAction": "Re-ref Com On Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-04-17",
+  "url": "https://legiscan.com/NC/bill/H924/2025",
+  "aiSummary": "This bill allows North Carolina's State Licensing Board for General Contractors to refer violations of contractor licensing laws to law enforcement and district attorneys for criminal prosecution. It also permits the Board to share investigative records with law enforcement and prosecutors to support criminal investigations, and allows the Board to use its resources to assist in prosecutions.",
+  "aiProArguments": "Supporters argue this bill strengthens consumer protection by enabling faster and more serious consequences for unlicensed or fraudulent contractors who violate licensing laws. Proponents contend that criminal referral authority gives the Board a more effective enforcement tool beyond civil penalties, potentially deterring serious violations and protecting North Carolina residents from unqualified or dishonest contractors who could cause property damage or financial harm.",
+  "aiConArguments": "Opponents may argue that this expands the Board's enforcement power without clear standards for when criminal referrals are appropriate, potentially leading to inconsistent application. Some may be concerned that sharing confidential investigative records with law enforcement without additional safeguards could create conflicts of interest or due process questions, or that the Board lacks expertise in criminal prosecution and should focus on civil regulatory enforcement.",
+  "topic": "Business & Labor",
+  "textLength": 2115,
+  "createdAt": "2026-06-23T02:59:22.163Z",
+  "sponsors": [
+    {"peopleId":22603,"name":"Dudley Greene","party":"R","isPrimary":true},
+    {"peopleId":24200,"name":"Laura Budd","party":"D","isPrimary":true},
+    {"peopleId":14606,"name":"Mark Brody","party":"R","isPrimary":true},
+    {"peopleId":14602,"name":"Dean Arp","party":"R","isPrimary":true},
+    {"peopleId":2077,"name":"Mary Harrison","party":"D","isPrimary":false},
+    {"peopleId":26396,"name":"Phil Rubin","party":"D","isPrimary":false},
+    {"peopleId":24219,"name":"Bill Ward","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

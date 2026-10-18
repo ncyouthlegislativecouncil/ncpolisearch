@@ -1,0 +1,25 @@
+{
+  "billId": 2146061,
+  "billNumber": "S863",
+  "title": "Streamline Adult Care Home Inspections",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "9fb2697aac3d07b5fbe0b6db9c49f14a",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2026-06-17",
+  "url": "https://legiscan.com/NC/bill/S863/2025",
+  "aiSummary": "This bill allows adult care homes to use passing inspection results from the state's Adult Care Licensure Section to satisfy similar routine inspections by other state or local departments, rather than requiring separate inspections. The bill includes exceptions for complaint-based investigations, abuse allegations, and inspections prompted by specific safety concerns, and provides $100,000 in funding to implement the streamlined process.",
+  "aiProArguments": "Supporters argue this bill reduces unnecessary regulatory burden and costs for adult care home operators by eliminating duplicate inspections when facilities have already passed similar state-level reviews. They contend that streamlining inspections allows resources to be redirected toward complaint investigations and safety issues, while still maintaining oversight through exceptions for complaints, abuse allegations, and circumstances where conditions may have changed.",
+  "aiConArguments": "Opponents may worry that accepting one inspection in place of others could reduce overall accountability and oversight of facilities, potentially allowing problems to slip through if different agencies have different standards or expertise. They may also be concerned that the bill could weaken inspections by local departments or county social services that may have direct relationships with facilities and communities, or that the $100,000 funding may be insufficient to properly implement and monitor the new system.",
+  "topic": "Healthcare",
+  "textLength": 3531,
+  "createdAt": "2026-06-23T03:11:23.571Z",
+  "sponsors": [
+    {"peopleId":20216,"name":"Jim Burgin","party":"R","isPrimary":true},
+    {"peopleId":24225,"name":"Benton Sawrey","party":"R","isPrimary":true},
+    {"peopleId":22423,"name":"Amy Galey","party":"R","isPrimary":true},
+    {"peopleId":11858,"name":"Timothy Moffitt","party":"R","isPrimary":false},
+    {"peopleId":11862,"name":"Norman Sanderson","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

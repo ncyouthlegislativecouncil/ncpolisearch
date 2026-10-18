@@ -1,0 +1,25 @@
+{
+  "billId": 2146972,
+  "billNumber": "S1040",
+  "title": "Repeal CON for ASCs and Inpatient Rehab",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "839f74481442afd62ca2fa8d718cac8a",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2026-05-13",
+  "url": "https://legiscan.com/NC/bill/S1040/2025",
+  "aiSummary": "This bill eliminates Certificate of Need (CON) requirements for ambulatory surgical facilities and inpatient rehabilitation services in North Carolina. It appropriates $50,000 to the Department of Health and Human Services to implement these changes and develop a plan to phase out remaining CON laws over three years.",
+  "aiProArguments": "Supporters argue that removing CON requirements reduces regulatory barriers that increase costs and limit access to surgical and rehabilitation services. They contend that eliminating unnecessary government approval processes allows healthcare providers to respond more quickly to patient demand, increases competition, and improves efficiency without compromising quality or safety standards.",
+  "aiConArguments": "Opponents argue that CON laws protect healthcare infrastructure by preventing overbuilding of expensive facilities that could lead to financial instability or reduced care quality. They contend that removing CON oversight may increase costs for uninsured and underinsured patients, reduce services in underserved rural areas where facilities are less profitable, and eliminate planning mechanisms that ensure equitable healthcare access statewide.",
+  "topic": "Healthcare",
+  "textLength": 12317,
+  "createdAt": "2026-06-23T03:12:53.003Z",
+  "sponsors": [
+    {"peopleId":17504,"name":"Michael Lee","party":"R","isPrimary":true},
+    {"peopleId":24225,"name":"Benton Sawrey","party":"R","isPrimary":true},
+    {"peopleId":20216,"name":"Jim Burgin","party":"R","isPrimary":true},
+    {"peopleId":22423,"name":"Amy Galey","party":"R","isPrimary":false},
+    {"peopleId":11862,"name":"Norman Sanderson","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

@@ -1,0 +1,32 @@
+{
+  "billId": 2013540,
+  "billNumber": "S457",
+  "title": "Automatic Voter Registration",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "4afebb5e5f9e12ff3ca8e41a49737fc2",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-25",
+  "url": "https://legiscan.com/NC/bill/S457/2025",
+  "aiSummary": "This bill establishes automatic voter registration at NC Division of Motor Vehicles offices (starting January 1, 2026), public agencies, community colleges, and UNC system universities (starting January 1, 2027). Eligible citizens would be automatically registered to vote unless they actively decline, and the State Board of Elections must conduct an outreach campaign about these new procedures.",
+  "aiProArguments": "Supporters argue automatic voter registration increases voter participation by removing barriers to registration, particularly for young people, minorities, and working families who may lack time to register separately. They contend it modernizes the registration process to match how other states operate, while still allowing citizens to decline registration if they choose. Proponents also note safeguards are included, such as informing applicants of voter qualifications and penalties for false information.",
+  "aiConArguments": "Opponents express concerns about potential registration of ineligible voters despite citizenship verification questions, particularly regarding non-citizens registering by mistake or fraud. They argue automatic registration could overwhelm election offices with applications to process and may create administrative burdens. Critics also worry about data security and privacy regarding electronic transmission of voter information between agencies, and question whether this expands government overreach into personal voting choices.",
+  "topic": "Elections & Voting",
+  "textLength": 30087,
+  "createdAt": "2026-06-23T03:08:01.145Z",
+  "sponsors": [
+    {"peopleId":16251,"name":"Graig Meyer","party":"D","isPrimary":true},
+    {"peopleId":25858,"name":"Sophia Chitlik","party":"D","isPrimary":true},
+    {"peopleId":20505,"name":"Sydney Batch","party":"D","isPrimary":true},
+    {"peopleId":24220,"name":"Val Applewhite","party":"D","isPrimary":false},
+    {"peopleId":20220,"name":"Michael Garrett","party":"D","isPrimary":false},
+    {"peopleId":24222,"name":"Lisa Grafstein","party":"D","isPrimary":false},
+    {"peopleId":20223,"name":"Mujtaba Mohammed","party":"D","isPrimary":false},
+    {"peopleId":21633,"name":"Natalie Murdock","party":"D","isPrimary":false},
+    {"peopleId":22426,"name":"DeAndrea Salvador","party":"D","isPrimary":false},
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":false},
+    {"peopleId":25859,"name":"Caleb Theodros","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

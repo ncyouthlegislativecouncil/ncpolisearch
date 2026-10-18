@@ -1,0 +1,23 @@
+{
+  "billId": 2146767,
+  "billNumber": "S967",
+  "title": "Budget Requirement for Tax Triggers",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "0b2e4d9932d405a0b380829e24707f32",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2026-05-04",
+  "url": "https://legiscan.com/NC/bill/S967/2025",
+  "aiSummary": "This bill modifies North Carolina's tax rate reduction trigger by adding a requirement that the General Assembly must pass a Current Operations Appropriations Act (a comprehensive budget spending plan) by July 1 of the fiscal year before automatic tax rate reductions can take effect. Previously, tax rate reductions were triggered solely based on whether General Fund revenue exceeded specified thresholds; this bill adds the budget requirement as an additional condition.",
+  "aiProArguments": "Supporters argue this bill ensures fiscal responsibility by requiring lawmakers to have a complete spending plan in place before reducing tax rates. This prevents tax cuts from occurring without understanding how the state will fund essential services like education, healthcare, and infrastructure. Proponents contend that linking tax reductions to an actual budget plan helps maintain state financial stability and prevents revenue shortfalls that could force service cuts or emergency measures later.",
+  "aiConArguments": "Opponents argue this bill undermines the original intent of automatic tax triggers, which were designed to return surplus revenue to taxpayers without requiring legislative approval. Critics contend that adding the budget requirement gives lawmakers discretion to block tax cuts even when revenue thresholds are met, potentially allowing politicians to keep tax money rather than returning it to residents. They also argue this could make the tax trigger mechanism ineffective and unpredictable for taxpayers and budget planning.",
+  "topic": "Taxes & Budget",
+  "textLength": 1861,
+  "createdAt": "2026-06-23T03:12:15.608Z",
+  "sponsors": [
+    {"peopleId":24222,"name":"Lisa Grafstein","party":"D","isPrimary":true},
+    {"peopleId":26664,"name":"Jonah Garson","party":"D","isPrimary":true},
+    {"peopleId":20505,"name":"Sydney Batch","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

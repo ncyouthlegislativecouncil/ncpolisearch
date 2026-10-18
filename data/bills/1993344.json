@@ -1,0 +1,28 @@
+{
+  "billId": 1993344,
+  "billNumber": "H323",
+  "title": "Down-Zoning/Cornelius/Davidson/Huntersville",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "0554d6f392f818a2d7889c3f441c59f5",
+  "lastAction": "Ref to the Com on Judiciary 3, if favorable, Housing and Development, if favorable, Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-03-10",
+  "url": "https://legiscan.com/NC/bill/H323/2025",
+  "aiSummary": "This bill restores the authority of three North Carolina towns—Cornelius, Davidson, and Huntersville—to initiate down-zoning (reducing property density or permitted uses) without requiring written consent from all affected property owners. The bill reverses a restriction that was imposed in December 2024 and applies retroactively to that date.",
+  "aiProArguments": "Supporters argue that local governments should have the flexibility to manage growth and community character through zoning decisions without being blocked by individual property owners. They contend that down-zoning can preserve neighborhood quality, protect residential areas from overdevelopment, and allow towns to implement comprehensive planning goals that reflect community values and infrastructure capacity.",
+  "aiConArguments": "Opponents argue that property owners have legitimate interests in how their land can be used and developed, and requiring their consent protects private property rights. They contend that allowing governments to down-zone unilaterally can reduce property values, limit owners' economic opportunities, and set a precedent for government overreach in land-use decisions without individual owner agreement.",
+  "topic": "Local Government",
+  "textLength": 2231,
+  "createdAt": "2026-06-23T02:48:23.784Z",
+  "sponsors": [
+    {"peopleId":25847,"name":"Beth Helfrich","party":"D","isPrimary":true},
+    {"peopleId":24890,"name":"Eric Ager","party":"D","isPrimary":false},
+    {"peopleId":18451,"name":"Mary Belk","party":"D","isPrimary":false},
+    {"peopleId":25844,"name":"Julia Greenfield","party":"D","isPrimary":false},
+    {"peopleId":2077,"name":"Mary Harrison","party":"D","isPrimary":false},
+    {"peopleId":20515,"name":"Zack Forde-Hawkins","party":"D","isPrimary":false},
+    {"peopleId":24206,"name":"Frances Jackson","party":"D","isPrimary":false},
+    {"peopleId":20521,"name":"Carolyn Logan","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

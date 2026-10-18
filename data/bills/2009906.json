@@ -1,0 +1,26 @@
+{
+  "billId": 2009906,
+  "billNumber": "S325",
+  "title": "Create Dept. of Housing and Comm. Development",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "8cae9f4abf88a561c18906efdc8b8096",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-19",
+  "url": "https://legiscan.com/NC/bill/S325/2025",
+  "aiSummary": "This bill creates a new cabinet-level Department of Housing and Community Development in North Carolina state government. The department would be divided into four sections: Operations, Community Development, Housing, and a Policy and Legislative Office, with a governing board and an initial appropriation of $30 million.",
+  "aiProArguments": "Supporters argue that consolidating housing and community development functions into a single department improves coordination and efficiency in addressing North Carolina's housing shortage and community needs. They contend that a dedicated cabinet-level department elevates these issues in state government, allows for better planning across broadband expansion, disaster resilience, and homelessness programs, and provides a clearer point of accountability for housing and community development policies.",
+  "aiConArguments": "Opponents may argue that creating a new department adds another layer of government bureaucracy and administrative costs without clear evidence it will solve housing problems more effectively than existing agencies. They might also question whether $30 million in recurring appropriations is sufficient or represents responsible budget allocation, and whether consolidating functions could reduce specialized expertise previously housed in separate departments.",
+  "topic": "Housing",
+  "textLength": 5566,
+  "createdAt": "2026-06-23T03:06:48.329Z",
+  "sponsors": [
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":true},
+    {"peopleId":24222,"name":"Lisa Grafstein","party":"D","isPrimary":true},
+    {"peopleId":25858,"name":"Sophia Chitlik","party":"D","isPrimary":false},
+    {"peopleId":21633,"name":"Natalie Murdock","party":"D","isPrimary":false},
+    {"peopleId":12032,"name":"Gladys Robinson","party":"D","isPrimary":false},
+    {"peopleId":22426,"name":"DeAndrea Salvador","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

@@ -1,0 +1,28 @@
+{
+  "billId": 2014378,
+  "billNumber": "S637",
+  "title": "Ensure Same-Sex Domestic Violence Prot. Order",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "fdc767f508252325f81af995eb224d11",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-26",
+  "url": "https://legiscan.com/NC/bill/S637/2025",
+  "aiSummary": "This bill modifies North Carolina's domestic violence protective order law to ensure that same-sex couples have the same access to protective orders as opposite-sex couples. Currently, the law limits dating relationship protections to opposite-sex couples; this bill removes that gender restriction so same-sex couples can obtain protective orders in dating relationships.",
+  "aiProArguments": "Supporters argue this bill ensures equal protection under law by closing a gap that leaves same-sex couples vulnerable to domestic violence without legal recourse. They contend that domestic violence protection should be available to all North Carolinians regardless of sexual orientation, and that removing the opposite-sex requirement brings the state in line with constitutional protections and modern fairness standards.",
+  "aiConArguments": "Opponents may argue about the scope of legislative changes to family law definitions or express concerns about how courts will implement expanded definitions. Some may question whether this represents an appropriate level of state involvement in relationship definitions, though most legal experts view the protective order statute as a straightforward expansion of existing domestic violence protections.",
+  "topic": "Criminal Justice & Public Safety",
+  "textLength": 1734,
+  "createdAt": "2026-06-23T03:09:33.413Z",
+  "sponsors": [
+    {"peopleId":25860,"name":"Woodson Bradley","party":"D","isPrimary":true},
+    {"peopleId":24222,"name":"Lisa Grafstein","party":"D","isPrimary":true},
+    {"peopleId":25858,"name":"Sophia Chitlik","party":"D","isPrimary":false},
+    {"peopleId":22425,"name":"Julie Mayfield","party":"D","isPrimary":false},
+    {"peopleId":16251,"name":"Graig Meyer","party":"D","isPrimary":false},
+    {"peopleId":21633,"name":"Natalie Murdock","party":"D","isPrimary":false},
+    {"peopleId":22426,"name":"DeAndrea Salvador","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

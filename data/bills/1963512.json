@@ -1,0 +1,28 @@
+{
+  "billId": 1963512,
+  "billNumber": "H72",
+  "title": "AG/Restrict Challenge to Presidential EOs",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "654e78dee4d28455dd0c499cd1c4ce81",
+  "lastAction": "Serial Referral To Rules, Calendar, and Operations of the House Added",
+  "lastActionDate": "2025-02-17",
+  "url": "https://legiscan.com/NC/bill/H72/2025",
+  "aiSummary": "This bill would restrict North Carolina's Attorney General from participating in lawsuits in other states if those lawsuits seek to overturn executive orders issued by the President of the United States. The restriction applies whether the Attorney General acts as a party to the case, files a friend-of-the-court brief, or participates in any other capacity.",
+  "aiProArguments": "Supporters argue this bill prevents the state from wasting resources on litigation they view as unlikely to succeed and maintains focus on issues directly affecting North Carolina. They contend it reduces partisan legal battles and allows the Attorney General to concentrate on state-level priorities and enforcement of North Carolina law.",
+  "aiConArguments": "Opponents argue this bill limits the Attorney General's ability to represent the state's interests when federal actions harm North Carolinians or violate the Constitution. They contend it prevents the state from joining multi-state coalitions that challenge executive overreach and removes an important check on presidential power that states have historically used across administrations.",
+  "topic": "Other / General Government",
+  "textLength": 1380,
+  "createdAt": "2026-06-23T02:40:13.173Z",
+  "sponsors": [
+    {"peopleId":20519,"name":"Keith Kidwell","party":"R","isPrimary":true},
+    {"peopleId":25852,"name":"Wyatt Gable","party":"R","isPrimary":true},
+    {"peopleId":25222,"name":"Blair Eddins","party":"R","isPrimary":true},
+    {"peopleId":22613,"name":"Ben Moss","party":"R","isPrimary":true},
+    {"peopleId":2034,"name":"John Blust","party":"R","isPrimary":false},
+    {"peopleId":21377,"name":"Jake Johnson","party":"R","isPrimary":false},
+    {"peopleId":21375,"name":"Jeffrey McNeely","party":"R","isPrimary":false},
+    {"peopleId":24219,"name":"Bill Ward","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

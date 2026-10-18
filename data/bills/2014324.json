@@ -1,0 +1,28 @@
+{
+  "billId": 2014324,
+  "billNumber": "S732",
+  "title": "NC Economic Progress and Well Being",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "7e13ce48e2af0ecbff6bb83b6f5fc44b",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2025-03-26",
+  "url": "https://legiscan.com/NC/bill/S732/2025",
+  "aiSummary": "This bill appropriates $200,000 per fiscal year to the NC Department of Commerce to conduct analyses of economic progress and well-being in North Carolina every two years. The department must measure and report on specific economic metrics for the state and each county, including poverty rates, job quality, household spending burdens, and concentrated poverty areas, with reports due to the General Assembly by January 31 of odd-numbered years.",
+  "aiProArguments": "Supporters argue this bill creates important accountability for how state policies affect everyday North Carolinians' economic security and quality of life. They contend that measuring well-being beyond just market productivity and GDP provides a more complete picture of whether state policies are actually helping people afford housing, healthcare, food, and childcare. Proponents believe this data will help lawmakers make informed decisions about which policies truly advance economic opportunity and security for all communities across the state.",
+  "aiConArguments": "Opponents may argue that the bill adds another reporting requirement and ongoing state spending without specifying how the findings will be used or what policy changes might result. Some may question whether collecting these metrics duplicates existing data collection efforts by other state agencies or federal sources, or whether $200,000 biennially is the most efficient use of state resources. Critics might also note concerns about how subjective measures like 'well-being' are defined and whether interviews with various socio-economic backgrounds could introduce inconsistency in data collection.",
+  "topic": "Taxes & Budget",
+  "textLength": 3611,
+  "createdAt": "2026-06-23T03:10:23.788Z",
+  "sponsors": [
+    {"peopleId":12032,"name":"Gladys Robinson","party":"D","isPrimary":true},
+    {"peopleId":16251,"name":"Graig Meyer","party":"D","isPrimary":true},
+    {"peopleId":22426,"name":"DeAndrea Salvador","party":"D","isPrimary":true},
+    {"peopleId":20505,"name":"Sydney Batch","party":"D","isPrimary":false},
+    {"peopleId":17936,"name":"Jay Chaudhuri","party":"D","isPrimary":false},
+    {"peopleId":22425,"name":"Julie Mayfield","party":"D","isPrimary":false},
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

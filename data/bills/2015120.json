@@ -1,0 +1,21 @@
+{
+  "billId": 2015120,
+  "billNumber": "H530",
+  "title": "Funds/Halifax, Northampton, Warren Counties",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "5c20c11e51c8b62736323af07225599f",
+  "lastAction": "Ref to the Com on Appropriations, if favorable, Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-03-27",
+  "url": "https://legiscan.com/NC/bill/H530/2025",
+  "aiSummary": "This bill appropriates approximately $173.6 million in state funding for the 2025-2026 fiscal year to support various public infrastructure and emergency services projects in Halifax, Northampton, and Warren counties. The funds are directed to local governments and special districts for purposes including water and sewer system improvements, fire and rescue equipment, detention facilities, and other capital projects, with an additional $300,000 annually allocated for cyanobacteria treatment in Lake Gaston.",
+  "aiProArguments": "Supporters argue this bill addresses critical infrastructure needs in rural counties that often lack sufficient local resources to fund major projects independently. The investments in water systems, sewer infrastructure, emergency services equipment, and public facilities can improve public health, safety, and economic development opportunities. Proponents contend that state funding helps ensure equitable access to essential services across all regions of North Carolina.",
+  "aiConArguments": "Opponents may question whether directing large sums to specific counties through earmarked appropriations is the most efficient use of state resources or whether a competitive grant process would better allocate funds. Some may express concerns about the sustainability of these projects long-term, including ongoing operational and maintenance costs that will fall on local budgets. Critics might also raise fairness questions about why certain counties receive targeted funding while others do not.",
+  "topic": "Local Government",
+  "textLength": 11100,
+  "createdAt": "2026-06-23T02:54:15.412Z",
+  "sponsors": [
+    {"peopleId":25853,"name":"Rodney Pierce","party":"D","isPrimary":true}
+  ],
+  "rollCalls": []
+}

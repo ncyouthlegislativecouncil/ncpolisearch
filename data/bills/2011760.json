@@ -1,0 +1,30 @@
+{
+  "billId": 2011760,
+  "billNumber": "H478",
+  "title": "Modify Appointment Process for DA Vacancies",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "b2cd60e25e2ce33533384d939244c7c8",
+  "lastAction": "Re-ref Com On Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-06-10",
+  "url": "https://legiscan.com/NC/bill/H478/2025",
+  "aiSummary": "This bill modifies how North Carolina fills District Attorney vacancies when they occur before a term ends. It clarifies the appointment process and requires the Governor to consult with the appropriate political party's district executive committee, which can recommend up to three qualified candidates within 30 days. The appointee serves until an election can be held, with the timing depending on when the original term was set to expire.",
+  "aiProArguments": "Supporters argue this bill provides clear, consistent rules for filling DA vacancies and ensures the Governor considers input from the political party that originally elected the district attorney. This approach respects the voters' original choice of party while maintaining the Governor's appointment authority and allows the political party to have a voice in recommending qualified candidates.",
+  "aiConArguments": "Opponents may contend that requiring consultation with political party committees could politicize the appointment process and limit the Governor's ability to choose the most qualified candidate based solely on merit. Critics might also argue that giving political parties a formal role in recommendations could reduce diversity of candidates or prevent appointment of independent or non-party-affiliated qualified individuals.",
+  "topic": "Criminal Justice & Public Safety",
+  "textLength": 3733,
+  "createdAt": "2026-06-23T02:52:42.023Z",
+  "sponsors": [
+    {"peopleId":24196,"name":"Jennifer Balkcom","party":"R","isPrimary":true},
+    {"peopleId":2127,"name":"Sarah Stevens","party":"R","isPrimary":true},
+    {"peopleId":17876,"name":"Kyle Hall","party":"R","isPrimary":true},
+    {"peopleId":24197,"name":"Brian Biggs","party":"R","isPrimary":true},
+    {"peopleId":25197,"name":"Jerry Branson","party":"R","isPrimary":false},
+    {"peopleId":24207,"name":"Neal Jackson","party":"R","isPrimary":false},
+    {"peopleId":22965,"name":"Donnie Loftis","party":"R","isPrimary":false},
+    {"peopleId":22613,"name":"Ben Moss","party":"R","isPrimary":false},
+    {"peopleId":25856,"name":"Paul Scott","party":"R","isPrimary":false},
+    {"peopleId":24219,"name":"Bill Ward","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

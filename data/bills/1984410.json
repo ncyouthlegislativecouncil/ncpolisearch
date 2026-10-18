@@ -1,0 +1,23 @@
+{
+  "billId": 1984410,
+  "billNumber": "S179",
+  "title": "Partnership with Voices Together",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "831c16c700172c0f7c32f81ca78dabba",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2025-02-27",
+  "url": "https://legiscan.com/NC/bill/S179/2025",
+  "aiSummary": "This bill appropriates $2.5 million in recurring state funds to the nonprofit organization Voices Together to provide educational programming for middle school students with intellectual and developmental disabilities or those experiencing educational delays. The funding is intended to prepare these students for Pre-Employment Transition Services, expanding Voices Together's existing high school programming to the middle school level.",
+  "aiProArguments": "Supporters argue this bill helps students with intellectual and developmental disabilities get an earlier start on workforce preparation and life skills training. By extending services to middle school, the program can identify and support students sooner, potentially improving their long-term employment and independence outcomes. Proponents note this funding supports an established nonprofit that already operates successfully at the high school level.",
+  "aiConArguments": "Opponents may question whether $2.5 million in recurring state funds is the most efficient use of education dollars, particularly without detailed information about the program's proven outcomes or how it compares to other disability services options. Concerns might also be raised about funding a specific nonprofit organization directly rather than through competitive grants, and whether similar services could be provided more cost-effectively through existing school district programs.",
+  "topic": "Education",
+  "textLength": 1146,
+  "createdAt": "2026-06-23T03:05:36.068Z",
+  "sponsors": [
+    {"peopleId":18454,"name":"Kevin Corbin","party":"R","isPrimary":true},
+    {"peopleId":20513,"name":"Bobby Hanig","party":"R","isPrimary":true},
+    {"peopleId":18497,"name":"Paul Newton","party":"R","isPrimary":true}
+  ],
+  "rollCalls": []
+}

@@ -1,0 +1,31 @@
+{
+  "billId": 2146372,
+  "billNumber": "S906",
+  "title": "MOMnibus 3.5",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "a9d19efaac38a2edf0bb58f80c3bd793",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2026-04-30",
+  "url": "https://legiscan.com/NC/bill/S906/2025",
+  "aiSummary": "MOMnibus 3.5 is a comprehensive maternal health bill that allocates $20.5 million to reduce maternal mortality and morbidity, particularly among Black women in North Carolina. It establishes grant programs for community organizations, requires implicit bias training for perinatal healthcare providers, funds lactation support training at historically Black colleges and universities, and creates a mobile health initiative to improve access to maternal care in underserved areas.",
+  "aiProArguments": "Supporters argue this bill addresses a critical public health crisis, citing that the U.S. has the highest maternal mortality rate among developed nations and that Black women face significantly higher risks. They contend the bill's multi-faceted approach—including community grants, provider training on implicit bias, and expanding lactation support—targets both systemic healthcare inequities and practical barriers to care. Advocates emphasize that most pregnancy-related deaths are preventable and that implicit bias training for healthcare providers is evidence-based and necessary to improve patient outcomes.",
+  "aiConArguments": "Opponents may argue the bill represents a substantial state spending commitment ($20.5 million) during fiscal constraints. Some could question whether implicit bias training mandates are the most effective use of resources or whether they impose burdensome requirements on healthcare providers. Critics might also debate whether focusing funding specifically on Black women's maternal health, rather than addressing broader maternal health disparities across all populations, is the optimal approach to improving overall state health outcomes.",
+  "topic": "Healthcare",
+  "textLength": 31774,
+  "createdAt": "2026-06-23T03:11:45.216Z",
+  "sponsors": [
+    {"peopleId":21633,"name":"Natalie Murdock","party":"D","isPrimary":true},
+    {"peopleId":12032,"name":"Gladys Robinson","party":"D","isPrimary":true},
+    {"peopleId":20505,"name":"Sydney Batch","party":"D","isPrimary":true},
+    {"peopleId":17147,"name":"Gale Adcock","party":"D","isPrimary":false},
+    {"peopleId":25858,"name":"Sophia Chitlik","party":"D","isPrimary":false},
+    {"peopleId":26664,"name":"Jonah Garson","party":"D","isPrimary":false},
+    {"peopleId":20223,"name":"Mujtaba Mohammed","party":"D","isPrimary":false},
+    {"peopleId":22426,"name":"DeAndrea Salvador","party":"D","isPrimary":false},
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":false},
+    {"peopleId":25859,"name":"Caleb Theodros","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

@@ -1,0 +1,22 @@
+{
+  "billId": 2146445,
+  "billNumber": "S923",
+  "title": "Funds for Brenner Children's Hospital",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "28a3b3775aa401c9df8c6d68adbba0ca",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2026-04-30",
+  "url": "https://legiscan.com/NC/bill/S923/2025",
+  "aiSummary": "This bill appropriates $250,000 in one-time state funds to the City of Winston-Salem as a grant to support a rural maternal health program at Brenner Children's Hospital. The funds would be available starting July 1, 2026.",
+  "aiProArguments": "Supporters argue this funding addresses maternal health needs in rural areas of North Carolina, where access to maternal and obstetric care is often limited. They contend that supporting programs at established children's hospitals like Brenner strengthens regional healthcare infrastructure and improves outcomes for mothers and infants in underserved communities.",
+  "aiConArguments": "Opponents may question whether one-time funding of $250,000 is sufficient to create lasting impact or whether these funds could be better allocated to other state priorities. Some may also ask whether public dollars should support programs at a hospital system, or whether the funding mechanism through a local government grant is the most efficient approach.",
+  "topic": "Healthcare",
+  "textLength": 869,
+  "createdAt": "2026-06-23T03:11:54.737Z",
+  "sponsors": [
+    {"peopleId":17457,"name":"Paul Lowe","party":"D","isPrimary":true},
+    {"peopleId":20223,"name":"Mujtaba Mohammed","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

@@ -1,0 +1,26 @@
+{
+  "billId": 1968548,
+  "billNumber": "S94",
+  "title": "Repeal Death Penalty",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "cd92688704b2d7c0225a557094e4e14a",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-02-17",
+  "url": "https://legiscan.com/NC/bill/S94/2025",
+  "aiSummary": "This bill abolishes capital punishment in North Carolina by eliminating the death penalty as a sentencing option for all crimes. All individuals currently sentenced to death would be resentenced to life imprisonment without the possibility of parole, and the state would repeal laws authorizing executions and related procedures.",
+  "aiProArguments": "Supporters argue that the death penalty is applied inconsistently and risks executing innocent people, citing concerns about wrongful convictions and irreversible mistakes. They contend that life imprisonment without parole adequately protects public safety while reducing the moral and financial costs of maintaining capital punishment systems, and that many democratic nations have abolished it without increased crime rates.",
+  "aiConArguments": "Opponents argue that the death penalty serves as justice for the most heinous crimes and provides closure for victims' families who view it as appropriate punishment for murder. They contend that life sentences may be commuted or reduced, whereas execution is irreversible, and that removing capital punishment eliminates a sentencing tool that reflects the severity of the worst crimes and may deter serious offenders.",
+  "topic": "Criminal Justice & Public Safety",
+  "textLength": 20538,
+  "createdAt": "2026-06-23T03:04:51.533Z",
+  "sponsors": [
+    {"peopleId":22425,"name":"Julie Mayfield","party":"D","isPrimary":true},
+    {"peopleId":16251,"name":"Graig Meyer","party":"D","isPrimary":true},
+    {"peopleId":21633,"name":"Natalie Murdock","party":"D","isPrimary":true},
+    {"peopleId":25858,"name":"Sophia Chitlik","party":"D","isPrimary":false},
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

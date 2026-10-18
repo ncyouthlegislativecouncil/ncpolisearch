@@ -1,0 +1,28 @@
+{
+  "billId": 2010773,
+  "billNumber": "H457",
+  "title": "Increase Small County Funding",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "4124782b728716c668001ea3559b78c1",
+  "lastAction": "Ref to the Com on Appropriations, if favorable, Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-03-20",
+  "url": "https://legiscan.com/NC/bill/H457/2025",
+  "aiSummary": "This bill increases funding for North Carolina's small county school systems by raising the dollar allotment each eligible small county receives per student. The bill appropriates $20,961,180 in state funds to support these increased allotments starting July 1, 2025.",
+  "aiProArguments": "Supporters argue that small county school systems face unique challenges in serving rural students with limited local tax bases and higher per-pupil costs. By increasing state funding, this bill helps ensure that rural students have access to similar educational resources and opportunities as students in larger, more affluent school districts, promoting educational equity across the state.",
+  "aiConArguments": "Opponents may argue that the state's General Fund has limited resources and that this $20.9 million in recurring annual spending could be allocated to other priorities or educational needs statewide. Some may also question whether targeted funding increases address the root causes of rural education challenges or whether these funds represent the most efficient use of taxpayer dollars.",
+  "topic": "Education",
+  "textLength": 1723,
+  "createdAt": "2026-06-23T02:52:06.219Z",
+  "sponsors": [
+    {"peopleId":24214,"name":"Renee Price","party":"D","isPrimary":true},
+    {"peopleId":24199,"name":"Kanika Brown","party":"D","isPrimary":true},
+    {"peopleId":22615,"name":"Howard Penny","party":"R","isPrimary":true},
+    {"peopleId":24198,"name":"Gloristine Brown","party":"D","isPrimary":false},
+    {"peopleId":20515,"name":"Zack Forde-Hawkins","party":"D","isPrimary":false},
+    {"peopleId":24206,"name":"Frances Jackson","party":"D","isPrimary":false},
+    {"peopleId":20521,"name":"Carolyn Logan","party":"D","isPrimary":false},
+    {"peopleId":2115,"name":"Garland Pierce","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

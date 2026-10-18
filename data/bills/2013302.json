@@ -1,0 +1,26 @@
+{
+  "billId": 2013302,
+  "billNumber": "S466",
+  "title": "Ensure Continuity of Care in Tailored Plans",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "81ec501ade6a43a7624f43b6cca3ed90",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-25",
+  "url": "https://legiscan.com/NC/bill/S466/2025",
+  "aiSummary": "This bill allows people enrolled in North Carolina's BH IDD Tailored Plans (Medicaid managed care plans for behavioral health and intellectual/developmental disabilities) to have more flexibility in choosing their coverage. Specifically, it lets beneficiaries stay in traditional Medicaid fee-for-service if their current providers aren't in their plan's network, and it allows them to switch to tailored plans in other regions if those plans offer better services or providers. The state must request federal approval for these changes by July 1, 2025, and report back to lawmakers by August 1, 2025.",
+  "aiProArguments": "Supporters argue this bill improves continuity of care by allowing patients to keep their existing doctors and healthcare providers even when switching insurance types, which is especially important for people with behavioral health and developmental disabilities who need stable provider relationships. They also contend that allowing cross-regional plan enrollment increases competition among local managed care organizations, which could drive innovation and improve service quality and choices for Medicaid beneficiaries across the state.",
+  "aiConArguments": "Opponents may worry that allowing beneficiaries to opt out of their regional tailored plan networks could undermine the efficiency and stability of those plans, potentially reducing enrollment and making it harder for local providers to coordinate care. They might also be concerned about increased administrative complexity and costs associated with managing cross-regional enrollment and maintaining Medicaid Direct fee-for-service options alongside managed care plans.",
+  "topic": "Healthcare",
+  "textLength": 2226,
+  "createdAt": "2026-06-23T03:08:05.463Z",
+  "sponsors": [
+    {"peopleId":20216,"name":"Jim Burgin","party":"R","isPrimary":true},
+    {"peopleId":24222,"name":"Lisa Grafstein","party":"D","isPrimary":true},
+    {"peopleId":17147,"name":"Gale Adcock","party":"D","isPrimary":false},
+    {"peopleId":20223,"name":"Mujtaba Mohammed","party":"D","isPrimary":false},
+    {"peopleId":25859,"name":"Caleb Theodros","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

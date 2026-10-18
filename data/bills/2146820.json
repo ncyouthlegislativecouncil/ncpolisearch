@@ -1,0 +1,22 @@
+{
+  "billId": 2146820,
+  "billNumber": "S968",
+  "title": "NCSU to Study Creation of New Vet School",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "5a2b1f6e5f47ea14b389cf526208c535",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2026-05-05",
+  "url": "https://legiscan.com/NC/bill/S968/2025",
+  "aiSummary": "This bill requires NC State University's Board of Trustees to study whether a new veterinary medicine college should be established at another North Carolina university. The study must examine the need for additional veterinarians in the state, the costs and benefits of creating a new vet school, and potential locations, with results due to the legislature by March 15, 2027. The bill appropriates $300,000 in state funds to conduct this study.",
+  "aiProArguments": "Supporters argue that North Carolina may need additional veterinarians, particularly those trained to treat large animals in agricultural areas, and that a second vet school could help retain talented North Carolina residents who might otherwise leave the state for veterinary education. They contend that studying feasibility is a prudent first step to understand whether such a program would benefit the state's workforce and economy without committing to full implementation.",
+  "aiConArguments": "Opponents may be concerned about the high cost of establishing and maintaining a veterinary medicine college, questioning whether the $300,000 study cost and potential future expenses are justified given NC State's existing vet program. They might also worry that duplicating veterinary education could strain resources, reduce quality at existing programs, or create redundancy without a clear demonstrated shortage of veterinarians in the state.",
+  "topic": "Education",
+  "textLength": 2293,
+  "createdAt": "2026-06-23T03:12:16.050Z",
+  "sponsors": [
+    {"peopleId":20216,"name":"Jim Burgin","party":"R","isPrimary":true},
+    {"peopleId":26462,"name":"Chris Measmer","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

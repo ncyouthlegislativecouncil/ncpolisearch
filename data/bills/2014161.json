@@ -1,0 +1,24 @@
+{
+  "billId": 2014161,
+  "billNumber": "S700",
+  "title": "Create the Office of Engineering and Codes",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "3ce1c61f4e3fbbf57f45ab0b6dfe8b4f",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-26",
+  "url": "https://legiscan.com/NC/bill/S700/2025",
+  "aiSummary": "This bill creates a new Office of Engineering and Codes within the Department of Labor, headed by an independently appointed State Engineer. It transfers responsibility for building codes, manufactured housing standards, home inspector licensing, and code official qualifications from the Department of Insurance (Office of State Fire Marshal) to this new office, effective July 1, 2026.",
+  "aiProArguments": "Supporters argue this bill improves efficiency by consolidating engineering and building code functions under specialized leadership rather than keeping them scattered across the insurance department. Creating an independent State Engineer position allows dedicated focus on construction standards and safety oversight. The bill also updates funding mechanisms through the Insurance Regulatory Fund to support the new office's operations.",
+  "aiConArguments": "Opponents may be concerned about the complexity of transferring multiple boards and divisions between departments, which could cause operational disruptions during the transition period. The bill requires legislative confirmation of the State Engineer position, adding a new political appointment process. Some may question whether creating a separate office is more efficient than improving coordination within the existing structure.",
+  "topic": "Local Government",
+  "textLength": 113879,
+  "createdAt": "2026-06-23T03:10:07.014Z",
+  "sponsors": [
+    {"peopleId":20518,"name":"Steve Jarvis","party":"R","isPrimary":true},
+    {"peopleId":22424,"name":"Michael Lazzara","party":"R","isPrimary":true},
+    {"peopleId":24225,"name":"Benton Sawrey","party":"R","isPrimary":true},
+    {"peopleId":11858,"name":"Timothy Moffitt","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

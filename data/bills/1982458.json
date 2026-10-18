@@ -1,0 +1,23 @@
+{
+  "billId": 1982458,
+  "billNumber": "S162",
+  "title": "Shared Parenting",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "85f39814b7bd71030189aa8702c60906",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-02-26",
+  "url": "https://legiscan.com/NC/bill/S162/2025",
+  "aiSummary": "This bill establishes a legal presumption that joint custody and roughly equal shared parenting time is in a child's best interest in North Carolina custody cases. The presumption can be overruled if a court finds by clear and convincing evidence that shared parenting is not in the child's best interest, or if both parents agree to a different arrangement.",
+  "aiProArguments": "Supporters argue that children benefit from meaningful relationships with both parents and that equal parenting time promotes this goal. They contend the presumption encourages parents to cooperate and reach fair agreements, reduces court disputes, and reflects modern family dynamics where both parents are actively involved in children's lives. Proponents also note the presumption protects against gender bias in custody decisions.",
+  "aiConArguments": "Opponents worry that a presumption favoring equal time may not account for individual family circumstances, such as a child's special needs, parents' work schedules, or significant distances between homes. They argue the standard could pressure families into arrangements that aren't practical and may prioritize equal time over what actually serves the child's wellbeing. Concerns also exist about whether courts can adequately consider domestic violence factors or override the presumption in cases where equal sharing is unsafe or unworkable.",
+  "topic": "Other / General Government",
+  "textLength": 7824,
+  "createdAt": "2026-06-23T03:05:27.476Z",
+  "sponsors": [
+    {"peopleId":20513,"name":"Bobby Hanig","party":"R","isPrimary":true},
+    {"peopleId":25250,"name":"Dana Jones","party":"R","isPrimary":true},
+    {"peopleId":11862,"name":"Norman Sanderson","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

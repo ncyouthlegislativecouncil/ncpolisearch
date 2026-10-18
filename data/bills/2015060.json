@@ -1,0 +1,24 @@
+{
+  "billId": 2015060,
+  "billNumber": "H532",
+  "title": "County Service Districts/Research & URSD",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "18b81f325fa8746ded15bcb0cb846a29",
+  "lastAction": "Ref to the Com on State and Local Government, if favorable, Finance, if favorable, Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-03-27",
+  "url": "https://legiscan.com/NC/bill/H532/2025",
+  "aiSummary": "This bill modifies North Carolina laws governing Research and Production Service Districts (RPSDs) and Urban Research Service Districts (URSDs)—special taxing districts that fund services in designated research and development areas. The changes allow these districts to span multiple counties, clarify how developers can serve as agents for service provision, increase the property tax rate limit from 10 cents to 20 cents per $100 of value, and adjust advisory committee appointment procedures.",
+  "aiProArguments": "Supporters argue these changes enable regional research parks that cross county lines to operate more efficiently by allowing coordinated governance and tax administration across multiple counties. They contend that raising the tax rate limit gives districts more funding flexibility to develop infrastructure like roads, utilities, and transportation systems needed to attract and support research facilities and economic development, potentially creating jobs and increasing property values in the region.",
+  "aiConArguments": "Opponents may be concerned that allowing multi-county districts reduces local control and makes it harder for individual counties to oversee spending in their territory. They might also worry that doubling the allowable tax rate from 10 to 20 cents per $100 of property value could impose unexpected tax increases on property owners within these districts, particularly if they were unaware of or did not support the district's creation.",
+  "topic": "Local Government",
+  "textLength": 15234,
+  "createdAt": "2026-06-23T02:54:17.149Z",
+  "sponsors": [
+    {"peopleId":16252,"name":"Robert Reives","party":"D","isPrimary":true},
+    {"peopleId":24890,"name":"Eric Ager","party":"D","isPrimary":false},
+    {"peopleId":22599,"name":"Amber Baker","party":"D","isPrimary":false},
+    {"peopleId":20515,"name":"Zack Forde-Hawkins","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

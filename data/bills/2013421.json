@@ -1,0 +1,21 @@
+{
+  "billId": 2013421,
+  "billNumber": "S468",
+  "title": "Alternative Additional Registration Fee",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "b5aed51c706302a92004cdedf8fe314e",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-25",
+  "url": "https://legiscan.com/NC/bill/S468/2025",
+  "aiSummary": "This bill gives owners of electric vehicles and plug-in hybrid vehicles in North Carolina the option to pay their additional registration fees based on miles driven instead of a flat annual fee. Electric vehicle owners can choose between paying $180 annually or a mileage-based fee, while plug-in hybrid owners can choose between $90 annually or a mileage-based fee.",
+  "aiProArguments": "Supporters argue this approach is fairer because vehicle owners pay based on actual road usage rather than a fixed fee regardless of how much they drive. This could benefit owners who drive their electric or plug-in hybrid vehicles infrequently, as they would pay less under a mileage system. Proponents also suggest mileage-based fees better align with road maintenance costs, since road wear correlates with vehicle miles traveled.",
+  "aiConArguments": "Opponents may be concerned about the administrative costs and complexity of tracking mileage for thousands of vehicles at registration time. Critics might also worry that mileage-based fees could discourage electric vehicle adoption by creating uncertainty about registration costs, or that the system could be difficult to implement accurately. Some may question whether the mileage tracking creates privacy concerns or if the additional bureaucracy outweighs any fairness benefits.",
+  "topic": "Transportation & Infrastructure",
+  "textLength": 2161,
+  "createdAt": "2026-06-23T03:08:06.348Z",
+  "sponsors": [
+    {"peopleId":24222,"name":"Lisa Grafstein","party":"D","isPrimary":true}
+  ],
+  "rollCalls": []
+}

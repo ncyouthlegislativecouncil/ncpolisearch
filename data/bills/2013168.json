@@ -1,0 +1,33 @@
+{
+  "billId": 2013168,
+  "billNumber": "S452",
+  "title": "End Child Marriage",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "182be4ac8a8f31429aeffd2f48dd3ffd",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-25",
+  "url": "https://legiscan.com/NC/bill/S452/2025",
+  "aiSummary": "This bill raises the minimum marriage age in North Carolina to 18 years old, eliminating the current ability for 16- and 17-year-olds to marry with parental consent or court approval. It removes existing exceptions that allowed minors to marry with permission from parents or judges.",
+  "aiProArguments": "Supporters argue this bill protects minors from early marriage, which research links to higher dropout rates, health complications, and domestic abuse. Advocates contend that 16- and 17-year-olds lack the maturity and life experience to make such a significant lifelong commitment, and that removing judicial exceptions closes loopholes that could be used to pressure vulnerable youth into marriage.",
+  "aiConArguments": "Opponents may argue that the bill removes parental rights and judicial discretion in rare cases where marriage might genuinely serve a minor's interests. Some contend that eliminating court review altogether is too rigid, and that cases involving emancipated minors or special circumstances should retain some pathway for judicial consideration of individual situations.",
+  "topic": "Social Services & Welfare",
+  "textLength": 14316,
+  "createdAt": "2026-06-23T03:07:57.606Z",
+  "sponsors": [
+    {"peopleId":20510,"name":"Terence Everitt","party":"D","isPrimary":true},
+    {"peopleId":24222,"name":"Lisa Grafstein","party":"D","isPrimary":true},
+    {"peopleId":25860,"name":"Woodson Bradley","party":"D","isPrimary":true},
+    {"peopleId":20505,"name":"Sydney Batch","party":"D","isPrimary":false},
+    {"peopleId":25858,"name":"Sophia Chitlik","party":"D","isPrimary":false},
+    {"peopleId":20220,"name":"Michael Garrett","party":"D","isPrimary":false},
+    {"peopleId":22425,"name":"Julie Mayfield","party":"D","isPrimary":false},
+    {"peopleId":20223,"name":"Mujtaba Mohammed","party":"D","isPrimary":false},
+    {"peopleId":21633,"name":"Natalie Murdock","party":"D","isPrimary":false},
+    {"peopleId":22426,"name":"DeAndrea Salvador","party":"D","isPrimary":false},
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":false},
+    {"peopleId":25859,"name":"Caleb Theodros","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

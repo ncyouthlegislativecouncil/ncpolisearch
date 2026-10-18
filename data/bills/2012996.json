@@ -1,0 +1,31 @@
+{
+  "billId": 2012996,
+  "billNumber": "S426",
+  "title": "Student Borrowers' Bill of Rights",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "783e92e9826365cd3dd44d73eeb2ee75",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-25",
+  "url": "https://legiscan.com/NC/bill/S426/2025",
+  "aiSummary": "This bill establishes a licensing and regulatory system for student loan servicers in North Carolina under the Commissioner of Banks, creates protections for student loan borrowers through a \"Student Borrowers' Bill of Rights,\" and establishes a Student Loan Ombudsman position to assist borrowers and investigate complaints.",
+  "aiProArguments": "Supporters argue this bill protects vulnerable borrowers from unfair servicing practices by requiring servicers to be licensed, maintain minimum financial standards, and follow strict conduct rules. The bill creates accountability through the Ombudsman who can investigate complaints, require servicers to respond within 20 days, and allow borrowers to sue for damages. Borrowers gain explicit rights regarding payment application, income-based repayment evaluation, and clear communication when loans are transferred between servicers.",
+  "aiConArguments": "Opponents may argue the regulatory requirements increase compliance costs for servicers, which could be passed to borrowers through higher fees or reduced service availability. The licensing and bonding requirements ($150,000-$500,000 depending on volume) could create barriers for smaller servicers. Some may contend that federal regulation of student loans already provides sufficient oversight, and state-level regulation creates duplicative bureaucracy and complexity for national servicers operating across multiple states.",
+  "topic": "Education",
+  "textLength": 46504,
+  "createdAt": "2026-06-23T03:07:42.100Z",
+  "sponsors": [
+    {"peopleId":22423,"name":"Amy Galey","party":"R","isPrimary":true},
+    {"peopleId":21663,"name":"David Craven","party":"R","isPrimary":true},
+    {"peopleId":17147,"name":"Gale Adcock","party":"D","isPrimary":false},
+    {"peopleId":24220,"name":"Val Applewhite","party":"D","isPrimary":false},
+    {"peopleId":18465,"name":"Danny Britt","party":"R","isPrimary":false},
+    {"peopleId":20220,"name":"Michael Garrett","party":"D","isPrimary":false},
+    {"peopleId":11858,"name":"Timothy Moffitt","party":"R","isPrimary":false},
+    {"peopleId":20223,"name":"Mujtaba Mohammed","party":"D","isPrimary":false},
+    {"peopleId":22426,"name":"DeAndrea Salvador","party":"D","isPrimary":false},
+    {"peopleId":24225,"name":"Benton Sawrey","party":"R","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

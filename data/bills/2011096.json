@@ -1,0 +1,26 @@
+{
+  "billId": 2011096,
+  "billNumber": "S354",
+  "title": "NC Breakthrough Act",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "6f59222df522e77a562f4b7907666878",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-20",
+  "url": "https://legiscan.com/NC/bill/S354/2025",
+  "aiSummary": "This bill reinstates and modifies North Carolina's Research and Development tax credit, which had been set to expire in 2016. The credit allows businesses to claim a percentage of their research and development expenses against their state income or franchise taxes, with different credit rates depending on business size, research location, and type of research performed.",
+  "aiProArguments": "Supporters argue this credit encourages companies to conduct research and development work in North Carolina, attracting and retaining high-value businesses and jobs in the state. The bill offers higher credit rates for university research (20%), eco-industrial parks (35%), and small businesses (3.25%), which proponents say targets incentives toward areas and entities that may need additional support to remain competitive and conduct research activities in the state.",
+  "aiConArguments": "Opponents may argue the tax credit reduces state revenue and funding available for other programs without guaranteed economic returns, since companies can claim credits regardless of whether the research creates jobs or benefits North Carolina. Critics could also contend that the different credit tiers create complexity in the tax code and that the 15% cap on credits means large companies still receive substantial tax benefits that might not generate proportional economic activity in the state.",
+  "topic": "Taxes & Budget",
+  "textLength": 12593,
+  "createdAt": "2026-06-23T03:07:03.351Z",
+  "sponsors": [
+    {"peopleId":25859,"name":"Caleb Theodros","party":"D","isPrimary":true},
+    {"peopleId":2033,"name":"Daniel Blue","party":"D","isPrimary":true},
+    {"peopleId":20223,"name":"Mujtaba Mohammed","party":"D","isPrimary":false},
+    {"peopleId":21633,"name":"Natalie Murdock","party":"D","isPrimary":false},
+    {"peopleId":12032,"name":"Gladys Robinson","party":"D","isPrimary":false},
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

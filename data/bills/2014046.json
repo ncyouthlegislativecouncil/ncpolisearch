@@ -1,0 +1,21 @@
+{
+  "billId": 2014046,
+  "billNumber": "S589",
+  "title": "Tier One County Assistance",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "8b7647cc1cbb6109817e7f8b24613465",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2025-03-26",
+  "url": "https://legiscan.com/NC/bill/S589/2025",
+  "aiSummary": "This bill appropriates $400 million in state funds to the Department of Commerce to provide grants to North Carolina's Tier One counties (the most economically distressed areas) for projects promoting self-sufficiency, infrastructure, education, and workforce development. Counties can receive up to $10 million each and must submit proposals that the Department must approve before funds are disbursed.",
+  "aiProArguments": "Supporters argue this bill addresses persistent economic struggles in North Carolina's most disadvantaged counties by providing direct financial support for locally-designed economic development initiatives. They contend that empowering these counties to pursue their own development priorities—whether through infrastructure, education, or job training—is more effective than one-size-fits-all state programs, and that such investment can reduce long-term dependency on state assistance.",
+  "aiConArguments": "Opponents may argue that the $400 million appropriation is a significant state expenditure that could be used for other priorities, and that the broad grant guidelines lack specificity about which projects will actually create sustainable economic growth. Some may also question whether this targeted approach is the best use of limited resources or whether the funds might have greater impact through other economic development strategies.",
+  "topic": "Taxes & Budget",
+  "textLength": 5148,
+  "createdAt": "2026-06-23T03:09:08.258Z",
+  "sponsors": [
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":true}
+  ],
+  "rollCalls": []
+}

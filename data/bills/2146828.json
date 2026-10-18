@@ -1,0 +1,25 @@
+{
+  "billId": 2146828,
+  "billNumber": "H1156",
+  "title": "Wastewater Design Flow Modifications",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "e5ef1dbe981d5328f90c9e37f555f485",
+  "lastAction": "Ref to the Com on Agriculture and Environment, if favorable, Appropriations, if favorable, Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2026-05-04",
+  "url": "https://legiscan.com/NC/bill/H1156/2025",
+  "aiSummary": "This bill modifies how North Carolina calculates wastewater design flow rates for new homes connecting to multi-unit wastewater systems. It allows the Department of Environmental Quality to approve lower flow rates (down to a minimum of 55 gallons per day per bedroom) if a permittee demonstrates that actual usage data supports the lower rate and there is no harm to public health or the environment. The bill also appropriates $10,000 to the Department to review these proposed flow rate calculations.",
+  "aiProArguments": "Supporters argue this bill provides necessary flexibility for wastewater systems to operate more efficiently based on real-world usage data rather than standardized estimates. By allowing lower flow rates when justified by actual usage patterns, the bill could reduce costs for system operators and developers, encourage water conservation, and make wastewater treatment more economically sustainable while still maintaining a 55-gallon minimum to protect public health.",
+  "aiConArguments": "Opponents may be concerned that allowing lower design flow rates could lead to system overloads if actual usage exceeds projections, potentially causing sewage backups or environmental contamination. They might argue that the standard 75-gallon-per-day rate exists as a safety margin, and that reducing it could compromise system reliability or public health if usage patterns change or Department approval processes are inadequate.",
+  "topic": "Environment & Energy",
+  "textLength": 3190,
+  "createdAt": "2026-06-23T03:02:40.829Z",
+  "sponsors": [
+    {"peopleId":25841,"name":"Jonathan Almond","party":"R","isPrimary":true},
+    {"peopleId":25843,"name":"Brian Echevarria","party":"R","isPrimary":true},
+    {"peopleId":25845,"name":"Grant Campbell","party":"R","isPrimary":true},
+    {"peopleId":2086,"name":"Francis Iler","party":"R","isPrimary":false},
+    {"peopleId":21375,"name":"Jeffrey McNeely","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

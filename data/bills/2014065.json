@@ -1,0 +1,22 @@
+{
+  "billId": 2014065,
+  "billNumber": "S658",
+  "title": "Funds/Greensboro Blandwood Mansion",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "0dfa60a62bc3c8eb43d9f36e9f1243a4",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2025-03-26",
+  "url": "https://legiscan.com/NC/bill/S658/2025",
+  "aiSummary": "This bill appropriates $1 million in state funding to Preservation Greensboro Incorporated for operating expenses and restoration work on the Blandwood Mansion, a 19th-century historic home in Greensboro that was owned by Governor John Motley Morehead. The funds are designated as nonrecurring and would be available for the 2025-2026 fiscal year.",
+  "aiProArguments": "Supporters argue this funding helps preserve an important piece of North Carolina's architectural and historical heritage for future generations. They contend that historic preservation benefits communities through tourism, educational opportunities, and maintaining cultural landmarks that reflect the state's past.",
+  "aiConArguments": "Opponents may question whether state funds should support a single local historic property when budget priorities exist elsewhere, or argue that historic preservation should be primarily funded through private donations, grants, or local funding rather than state general fund dollars.",
+  "topic": "Taxes & Budget",
+  "textLength": 934,
+  "createdAt": "2026-06-23T03:09:44.480Z",
+  "sponsors": [
+    {"peopleId":12032,"name":"Gladys Robinson","party":"D","isPrimary":true},
+    {"peopleId":20220,"name":"Michael Garrett","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

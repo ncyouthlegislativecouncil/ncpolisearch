@@ -1,0 +1,25 @@
+{
+  "billId": 2009807,
+  "billNumber": "H427",
+  "title": "CCW Permit/No Records Provided",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "197619e743b97ce2cc3ccd07615b26df",
+  "lastAction": "Re-ref Com On Health",
+  "lastActionDate": "2025-04-08",
+  "url": "https://legiscan.com/NC/bill/H427/2025",
+  "aiSummary": "This bill changes how North Carolina sheriffs receive mental health information when processing concealed handgun permit applications. Instead of requiring doctors and mental health providers to disclose full medical records, they would only submit a 'Yes' or 'No' answer about whether they have records of a mental illness diagnosis, with detailed records provided only if 'Yes' and only if they document an actual diagnosis.",
+  "aiProArguments": "Supporters argue this protects applicant privacy by limiting disclosure of sensitive mental health records to only what is necessary for the permit decision. They contend the current system requires unnecessary release of complete medical files, and this change streamlines the process while still allowing sheriffs to identify applicants who may be disqualified under existing law based on serious mental health conditions.",
+  "aiConArguments": "Opponents worry this change could reduce sheriffs' ability to thoroughly evaluate whether applicants meet legal requirements for permits, since they would receive less detailed information about an applicant's mental health history. They argue that full medical records are necessary to identify patterns or contexts that matter for safety determinations, and that a simple 'Yes/No' answer may miss important information about an applicant's mental health status.",
+  "topic": "Criminal Justice & Public Safety",
+  "textLength": 5309,
+  "createdAt": "2026-06-23T02:51:14.100Z",
+  "sponsors": [
+    {"peopleId":20519,"name":"Keith Kidwell","party":"R","isPrimary":true},
+    {"peopleId":22613,"name":"Ben Moss","party":"R","isPrimary":true},
+    {"peopleId":24212,"name":"Joe Pike","party":"R","isPrimary":true},
+    {"peopleId":24219,"name":"Bill Ward","party":"R","isPrimary":true},
+    {"peopleId":17678,"name":"James Adams","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

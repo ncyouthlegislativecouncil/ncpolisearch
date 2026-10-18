@@ -1,0 +1,31 @@
+{
+  "billId": 2146635,
+  "billNumber": "H1128",
+  "title": "Arbor Week Reform",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "07dd5f1cede7beaea1bba4b1f20f7505",
+  "lastAction": "Ref to the Com on Appropriations, if favorable, Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2026-04-30",
+  "url": "https://legiscan.com/NC/bill/H1128/2025",
+  "aiSummary": "This bill moves North Carolina's official Arbor Week from March to November, with the designated week now containing November 15 instead of March 15. The bill also appropriates $10,000 to the Department of Agriculture and Consumer Services to create education and training materials for Arbor Day celebrations during the new November timeframe.",
+  "aiProArguments": "Supporters argue that November is a better time for tree planting in North Carolina because fall weather conditions are more favorable for tree survival and root establishment compared to early spring. They contend that moving Arbor Week to November aligns North Carolina with national Arbor Day observance and provides educational resources that can increase community participation in tree planting initiatives.",
+  "aiConArguments": "Opponents may argue that March has been the traditional timing for Arbor Week in North Carolina and changing it disrupts long-standing practices and community expectations. They could also question whether the $10,000 appropriation is the most cost-effective use of state funds for tree education, or whether existing resources could accomplish the same goals without additional spending.",
+  "topic": "Agriculture",
+  "textLength": 1112,
+  "createdAt": "2026-06-23T03:02:10.524Z",
+  "sponsors": [
+    {"peopleId":26662,"name":"Amanda Cook","party":"D","isPrimary":true},
+    {"peopleId":2077,"name":"Mary Harrison","party":"D","isPrimary":true},
+    {"peopleId":26396,"name":"Phil Rubin","party":"D","isPrimary":true},
+    {"peopleId":24890,"name":"Eric Ager","party":"D","isPrimary":true},
+    {"peopleId":22599,"name":"Amber Baker","party":"D","isPrimary":false},
+    {"peopleId":24198,"name":"Gloristine Brown","party":"D","isPrimary":false},
+    {"peopleId":24199,"name":"Kanika Brown","party":"D","isPrimary":false},
+    {"peopleId":19238,"name":"Deb Butler","party":"D","isPrimary":false},
+    {"peopleId":20509,"name":"Allison Dahle","party":"D","isPrimary":false},
+    {"peopleId":25844,"name":"Julia Greenfield","party":"D","isPrimary":false},
+    {"peopleId":2115,"name":"Garland Pierce","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

@@ -1,0 +1,27 @@
+{
+  "billId": 2014289,
+  "billNumber": "S691",
+  "title": "In-State Tuition Equity",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "ef50b2c607dc20553751672ddd092c1f",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2025-03-26",
+  "url": "https://legiscan.com/NC/bill/S691/2025",
+  "aiSummary": "This bill allows certain students, including those without lawful immigration status, to qualify for in-state tuition at UNC schools and North Carolina community colleges if they graduated from a North Carolina high school, attended NC schools for at least two consecutive years before graduating, and (if undocumented) submit an affidavit stating they have applied or intend to apply for legal status. The bill also keeps application information confidential.",
+  "aiProArguments": "Supporters argue this bill removes financial barriers for students who grew up in North Carolina and completed their education here, regardless of immigration status. They contend these students have already invested years in the state's schools and contribute to their communities, and in-state tuition rates make higher education more affordable and accessible. Advocates also note this aligns North Carolina with other states that have implemented similar policies.",
+  "aiConArguments": "Opponents express concern that this policy uses state resources to subsidize tuition for individuals who may not be in the country legally, potentially at the expense of citizens and lawful permanent residents. They argue the state should prioritize affordability for documented residents and question whether federal law permits this approach. Some also worry about the administrative costs of implementing a separate tuition determination process.",
+  "topic": "Education",
+  "textLength": 2025,
+  "createdAt": "2026-06-23T03:10:03.000Z",
+  "sponsors": [
+    {"peopleId":20223,"name":"Mujtaba Mohammed","party":"D","isPrimary":true},
+    {"peopleId":16251,"name":"Graig Meyer","party":"D","isPrimary":true},
+    {"peopleId":21633,"name":"Natalie Murdock","party":"D","isPrimary":true},
+    {"peopleId":25858,"name":"Sophia Chitlik","party":"D","isPrimary":false},
+    {"peopleId":22425,"name":"Julie Mayfield","party":"D","isPrimary":false},
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

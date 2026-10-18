@@ -1,0 +1,26 @@
+{
+  "billId": 1968994,
+  "billNumber": "H127",
+  "title": "Voter Registration Drive Form",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "f1f27f6d3349f816f6037c8004a69ff0",
+  "lastAction": "Serial Referral To State and Local Government Stricken",
+  "lastActionDate": "2025-02-24",
+  "url": "https://legiscan.com/NC/bill/H127/2025",
+  "aiSummary": "This bill requires the North Carolina State Board of Elections to create a special sample form for organized voter registration drives that is visually distinct from official registration applications. The sample form would provide information about where to obtain official applications, registration deadlines, and election dates, but would not allow people to fill in personal information. Organizations conducting registration drives must register with their county board of elections and use only this sample form, not official application forms.",
+  "aiProArguments": "Supporters argue this bill provides clarity and transparency in voter registration drives by creating a standardized form that cannot be confused with official registration applications. They contend it protects voters by ensuring they understand they are completing a sample form, not an actual registration, and it establishes accountability by requiring organizations to register with county election boards before conducting drives.",
+  "aiConArguments": "Opponents may argue the registration requirements for organizations conducting voter registration drives add administrative burden and could discourage civic participation, particularly by grassroots or smaller volunteer organizations. They might also contend that prohibiting use of official application forms during registration drives creates an unnecessary extra step that could discourage voter registration rather than streamline it.",
+  "topic": "Elections & Voting",
+  "textLength": 3986,
+  "createdAt": "2026-06-23T02:42:09.359Z",
+  "sponsors": [
+    {"peopleId":11850,"name":"Harry Warren","party":"R","isPrimary":true},
+    {"peopleId":2031,"name":"Hugh Blackwell","party":"R","isPrimary":true},
+    {"peopleId":25843,"name":"Brian Echevarria","party":"R","isPrimary":true},
+    {"peopleId":22965,"name":"Donnie Loftis","party":"R","isPrimary":true},
+    {"peopleId":25841,"name":"Jonathan Almond","party":"R","isPrimary":false},
+    {"peopleId":24219,"name":"Bill Ward","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

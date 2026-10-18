@@ -1,0 +1,26 @@
+{
+  "billId": 2147115,
+  "billNumber": "S1005",
+  "title": "We Need More Midwives Act",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "191352665aed6f5fa19aec2fb16d4cfd",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2026-05-05",
+  "url": "https://legiscan.com/NC/bill/S1005/2025",
+  "aiSummary": "This bill establishes a Midwifery Education Grant Program that provides up to $20 million in state funding to University of North Carolina constituent institutions to create new certified nurse-midwife training programs. The program aims to increase the number of midwives available to provide prenatal, birth, and postpartum care across North Carolina, with priority given to historically Black colleges and universities and institutions near partner hospitals.",
+  "aiProArguments": "Supporters argue this bill addresses a shortage of midwives in North Carolina, which can improve access to maternal healthcare services, particularly in underserved areas. They contend that funding new midwifery programs at UNC institutions will increase the number of trained professionals available to support pregnant women and families, potentially reducing maternal health disparities and improving outcomes. The bill's prioritization of HBCUs also promotes equity by directing resources to historically underfunded institutions.",
+  "aiConArguments": "Opponents may argue that $20 million in state funding for this specific program diverts resources from other pressing budget needs or educational priorities. Some may question whether creating new midwifery programs is the most cost-effective way to address maternal healthcare access compared to other interventions, or whether existing programs could be expanded instead. Additionally, concerns may exist about whether the state can adequately support ongoing operational costs of these programs beyond the initial grant funding.",
+  "topic": "Healthcare",
+  "textLength": 5875,
+  "createdAt": "2026-06-23T03:12:33.532Z",
+  "sponsors": [
+    {"peopleId":11937,"name":"Ralph Hise","party":"R","isPrimary":true},
+    {"peopleId":25858,"name":"Sophia Chitlik","party":"D","isPrimary":true},
+    {"peopleId":17147,"name":"Gale Adcock","party":"D","isPrimary":false},
+    {"peopleId":26462,"name":"Chris Measmer","party":"R","isPrimary":false},
+    {"peopleId":20223,"name":"Mujtaba Mohammed","party":"D","isPrimary":false},
+    {"peopleId":21633,"name":"Natalie Murdock","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

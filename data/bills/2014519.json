@@ -1,0 +1,26 @@
+{
+  "billId": 2014519,
+  "billNumber": "S757",
+  "title": "Consumer Privacy Act",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "2130b4c6dc0864b22f9c2a1f32abf93c",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-26",
+  "url": "https://legiscan.com/NC/bill/S757/2025",
+  "aiSummary": "This bill creates North Carolina's Consumer Privacy Act, giving residents new rights over their personal data held by large companies. It allows consumers to access, delete, and port their data, and to opt out of targeted advertising and data sales. The law applies to businesses earning at least $25 million annually that collect data from 100,000+ NC residents, with many exemptions including healthcare, financial institutions, and government entities.",
+  "aiProArguments": "Supporters argue this protects North Carolina residents' privacy rights against large tech companies and data brokers who collect and sell personal information without meaningful consent. The law gives consumers control over sensitive data like health, location, and biometric information. It requires companies to be transparent about data practices and establishes enforcement mechanisms through the Attorney General to hold violators accountable.",
+  "aiConArguments": "Opponents contend the law creates compliance costs and administrative burdens for businesses, particularly small companies near the $25 million threshold. They argue the broad definitions of personal data and targeted advertising could limit beneficial uses of data for fraud prevention, product improvement, and personalized services. Some also question whether the 45-day response deadline is feasible for complex data requests and note that companies can still charge fees for repetitive requests.",
+  "topic": "Technology & Privacy",
+  "textLength": 39572,
+  "createdAt": "2026-06-23T03:10:36.219Z",
+  "sponsors": [
+    {"peopleId":22426,"name":"DeAndrea Salvador","party":"D","isPrimary":true},
+    {"peopleId":20513,"name":"Bobby Hanig","party":"R","isPrimary":true},
+    {"peopleId":11858,"name":"Timothy Moffitt","party":"R","isPrimary":true},
+    {"peopleId":25860,"name":"Woodson Bradley","party":"D","isPrimary":false},
+    {"peopleId":20220,"name":"Michael Garrett","party":"D","isPrimary":false},
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

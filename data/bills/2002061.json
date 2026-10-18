@@ -1,0 +1,25 @@
+{
+  "billId": 2002061,
+  "billNumber": "S273",
+  "title": "Grant's Law/Require Lifeguards at Day Camps",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "a3684f7c6bcc51d40d540cdd8266c966",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-13",
+  "url": "https://legiscan.com/NC/bill/S273/2025",
+  "aiSummary": "This bill requires North Carolina day camps to have certified lifeguards present when children participate in aquatic activities like swimming or water park visits. The bill sets specific requirements including lifeguard-to-child ratios, lifeguard chair heights, mandatory swim tests, and life jackets for non-swimmers, while prohibiting certain water activities like hot tubs and portable pools.",
+  "aiProArguments": "Supporters argue this bill protects children from drowning and water-related accidents by ensuring trained, vigilant supervision during aquatic activities. They contend that drowning is a leading cause of unintentional injury death for children, and that certified lifeguards with proper training and positioning can quickly respond to emergencies. Supporters believe the specific requirements—including lifeguard ratios, swim testing, and life jackets for weak swimmers—establish consistent safety standards across day camps statewide.",
+  "aiConArguments": "Opponents may argue the bill increases operational costs for day camps, particularly smaller providers, potentially making summer programs more expensive or less accessible for families. They may also contend that the requirements are overly prescriptive—such as the 6-foot lifeguard chair height or specific lifeguard-to-child ratios—and could limit flexibility in how camps manage activities. Some may question whether all provisions are necessary or if alternative supervision methods could achieve adequate safety at lower cost.",
+  "topic": null,
+  "textLength": 4408,
+  "createdAt": "2026-06-23T03:06:18.333Z",
+  "sponsors": [
+    {"peopleId":20222,"name":"Todd Johnson","party":"R","isPrimary":true},
+    {"peopleId":25858,"name":"Sophia Chitlik","party":"D","isPrimary":true},
+    {"peopleId":24220,"name":"Val Applewhite","party":"D","isPrimary":false},
+    {"peopleId":16251,"name":"Graig Meyer","party":"D","isPrimary":false},
+    {"peopleId":20223,"name":"Mujtaba Mohammed","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

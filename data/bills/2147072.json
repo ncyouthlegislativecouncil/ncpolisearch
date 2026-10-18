@@ -1,0 +1,29 @@
+{
+  "billId": 2147072,
+  "billNumber": "S1015",
+  "title": "Child Care Omnibus",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "e04bf78fbd0c2b3cf7b07ce16bcecd61",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2026-05-05",
+  "url": "https://legiscan.com/NC/bill/S1015/2025",
+  "aiSummary": "This bill makes sweeping changes to North Carolina's child care system by increasing subsidy payment rates to the 75th percentile, establishing a $110 million recurring funding stream, creating multiple pilot programs for child care access, establishing a new North Carolina Child Care Finance Agency to help fund child care facility construction, and providing tax exemptions and subsidies for certain worker categories including child care employees.",
+  "aiProArguments": "Supporters argue this bill addresses a critical shortage of affordable child care that limits workforce participation, particularly for low-income families and essential workers. The increased subsidy rates would improve child care provider compensation and retention, the Finance Agency would make it easier for providers to access loans for facility expansion, and new pilot programs targeting state employees, first responders, and community college students would expand access. The income tax exemptions and enhanced subsidies for caregivers (firefighters, teachers, child care workers, etc.) recognize the economic pressures these workers face and could improve recruitment and retention.",
+  "aiConArguments": "Opponents may express concerns about the substantial fiscal commitment ($530+ million in combined recurring and non-recurring appropriations), questioning whether the state can sustain these programs long-term during economic downturns. Some may worry that creating new state agencies and programs adds bureaucratic complexity, and that property-use requirements for state projects (mandating child care centers in buildings over $5 million) could increase construction costs. Additionally, critics might question whether subsidies reaching up to 75% of market rates are the most efficient use of funds compared to other approaches, and whether targeted tax exemptions for specific worker categories are equitable to other professionals.",
+  "topic": "Social Services & Welfare",
+  "textLength": 113552,
+  "createdAt": "2026-06-23T03:12:39.532Z",
+  "sponsors": [
+    {"peopleId":25858,"name":"Sophia Chitlik","party":"D","isPrimary":true},
+    {"peopleId":17936,"name":"Jay Chaudhuri","party":"D","isPrimary":true},
+    {"peopleId":26664,"name":"Jonah Garson","party":"D","isPrimary":false},
+    {"peopleId":24222,"name":"Lisa Grafstein","party":"D","isPrimary":false},
+    {"peopleId":21633,"name":"Natalie Murdock","party":"D","isPrimary":false},
+    {"peopleId":22426,"name":"DeAndrea Salvador","party":"D","isPrimary":false},
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":false},
+    {"peopleId":25859,"name":"Caleb Theodros","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

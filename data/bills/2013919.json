@@ -1,0 +1,24 @@
+{
+  "billId": 2013919,
+  "billNumber": "S481",
+  "title": "Definitions for Advanced Recycling",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "d685d9670ad7b3e039d6010b9ba9c6f9",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-26",
+  "url": "https://legiscan.com/NC/bill/S481/2025",
+  "aiSummary": "This bill adds definitions to North Carolina's environmental law for advanced recycling processes, specifically defining 'mass balance attribution' (a tracking system for recycled materials), 'recycled products' (products made from recyclable materials using this tracking method), and 'third-party certification system' (the international standards used to verify these processes). The bill clarifies that products labeled as recycled through these methods still must follow all air, water, and hazardous waste regulations.",
+  "aiProArguments": "Supporters argue this bill provides necessary clarity and uniformity for advanced recycling by establishing clear legal definitions that align with international standards. They contend that creating these definitions enables companies to participate in chemical recycling and material recovery programs, potentially reducing waste and supporting a circular economy while ensuring third-party oversight maintains environmental standards.",
+  "aiConArguments": "Opponents may argue that without more detailed regulations accompanying these definitions, the bill could allow products to be labeled as 'recycled' through mass balance attribution methods without ensuring actual environmental benefits. Some may be concerned that the definitions are too permissive or that third-party certification systems could be inadequately stringent, potentially creating loopholes that appear to advance recycling without delivering real waste reduction.",
+  "topic": "Environment & Energy",
+  "textLength": 1786,
+  "createdAt": "2026-06-23T03:08:13.923Z",
+  "sponsors": [
+    {"peopleId":24225,"name":"Benton Sawrey","party":"R","isPrimary":true},
+    {"peopleId":21663,"name":"David Craven","party":"R","isPrimary":true},
+    {"peopleId":24226,"name":"Eddie Settle","party":"R","isPrimary":true},
+    {"peopleId":11858,"name":"Timothy Moffitt","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

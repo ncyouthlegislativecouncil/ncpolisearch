@@ -1,0 +1,26 @@
+{
+  "billId": 2013553,
+  "billNumber": "S473",
+  "title": "Capital for Communities Act",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "c3cdc92b708becc91c2e9042eae88568",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2025-03-25",
+  "url": "https://legiscan.com/NC/bill/S473/2025",
+  "aiSummary": "This bill creates the Capital for Communities Special Fund, a new state fund that receives quarterly transfers of 3.5% from state treasurer holdings and special investment accounts when those accounts achieve a 7% or higher return. The fund would support economic development projects in North Carolina including affordable housing, childcare facilities, healthcare initiatives, medical research, workforce development, living-wage jobs, and nonprofit education facilities.",
+  "aiProArguments": "Supporters argue this bill directs investment returns toward meaningful community development without reducing the state's core budget. By tapping earnings from accounts that exceed a 7% return threshold, the fund could address critical needs like affordable housing shortages, healthcare access gaps, and workforce training. Proponents contend this creates a sustainable funding mechanism for economic development that benefits local communities across the state.",
+  "aiConArguments": "Opponents may question whether dedicating investment returns reduces flexibility in state finances during economic downturns or emergencies. Some may worry that the broad categories for fund use (such as 'groundbreaking medical research' or 'economic development projects') could lack clear accountability or measurable outcomes. Others might argue the 3.5% quarterly transfer could be better allocated to existing state priorities or that the 7% return threshold may not consistently generate reliable funding levels.",
+  "topic": "Taxes & Budget",
+  "textLength": 3393,
+  "createdAt": "2026-06-23T03:08:08.727Z",
+  "sponsors": [
+    {"peopleId":25858,"name":"Sophia Chitlik","party":"D","isPrimary":true},
+    {"peopleId":25859,"name":"Caleb Theodros","party":"D","isPrimary":true},
+    {"peopleId":20220,"name":"Michael Garrett","party":"D","isPrimary":false},
+    {"peopleId":20223,"name":"Mujtaba Mohammed","party":"D","isPrimary":false},
+    {"peopleId":22426,"name":"DeAndrea Salvador","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

@@ -1,0 +1,28 @@
+{
+  "billId": 2144462,
+  "billNumber": "S800",
+  "title": "Zero-Based Budgeting",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "02ee31a1c3d0b73c15ce32a06d90f36b",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2026-04-23",
+  "url": "https://legiscan.com/NC/bill/S800/2025",
+  "aiSummary": "This bill requires North Carolina state agencies to use zero-based budgeting on a rotating schedule, starting in 2026. Under zero-based budgeting, agencies must justify all spending from scratch rather than basing budgets on previous year amounts, and must document the purpose, cost, and effectiveness of each activity.",
+  "aiProArguments": "Supporters argue zero-based budgeting eliminates wasteful or outdated spending by requiring agencies to justify every dollar spent rather than automatically continuing past budget levels. This approach could identify inefficiencies, reduce unnecessary programs, and ensure state resources go to activities that genuinely serve statutory purposes and achieve measurable outcomes.",
+  "aiConArguments": "Opponents contend that zero-based budgeting is time-consuming and costly for agencies to implement, potentially diverting resources from actual service delivery. They argue the rotating eight-year schedule creates scheduling complexity, and that this approach may lead to service disruptions as agencies scramble to justify core functions that should be assumed as necessary.",
+  "topic": "Taxes & Budget",
+  "textLength": 5951,
+  "createdAt": "2026-06-23T03:10:51.049Z",
+  "sponsors": [
+    {"peopleId":20216,"name":"Jim Burgin","party":"R","isPrimary":true},
+    {"peopleId":17437,"name":"Thomas McInnis","party":"R","isPrimary":true},
+    {"peopleId":25212,"name":"Bob Brinson","party":"R","isPrimary":false},
+    {"peopleId":20222,"name":"Todd Johnson","party":"R","isPrimary":false},
+    {"peopleId":22424,"name":"Michael Lazzara","party":"R","isPrimary":false},
+    {"peopleId":26462,"name":"Chris Measmer","party":"R","isPrimary":false},
+    {"peopleId":11858,"name":"Timothy Moffitt","party":"R","isPrimary":false},
+    {"peopleId":11862,"name":"Norman Sanderson","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

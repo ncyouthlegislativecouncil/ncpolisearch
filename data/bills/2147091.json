@@ -1,0 +1,33 @@
+{
+  "billId": 2147091,
+  "billNumber": "H1188",
+  "title": "Limits on Immigration Detention Facilities",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "d8b2c76b35599c81f967f86270c38050",
+  "lastAction": "Ref To Com On Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2026-05-05",
+  "url": "https://legiscan.com/NC/bill/H1188/2025",
+  "aiSummary": "This bill prohibits North Carolina city, county, and state law enforcement agencies from contracting with the federal government or private companies to detain noncitizens for civil immigration purposes. It also requires the Department of Public Safety to collect and annually report data on immigration detainees, including their demographics, charges, and case status.",
+  "aiProArguments": "Supporters argue this bill protects individuals from potentially inhumane detention conditions and prevents local tax dollars from funding federal immigration enforcement. They contend that law enforcement should focus on public safety rather than civil immigration matters, and that collecting detailed data promotes transparency and accountability in how noncitizens are treated within the state.",
+  "aiConArguments": "Opponents argue this bill may strain federal-local law enforcement cooperation and create gaps in managing noncitizens involved in criminal activity. They contend that detention facilities serve legitimate purposes in the immigration process and that restricting local involvement could shift costs and responsibilities entirely to federal agencies or other states, potentially reducing oversight of detainee conditions.",
+  "topic": "Criminal Justice & Public Safety",
+  "textLength": 2902,
+  "createdAt": "2026-06-23T03:03:09.375Z",
+  "sponsors": [
+    {"peopleId":2077,"name":"Mary Harrison","party":"D","isPrimary":true},
+    {"peopleId":19238,"name":"Deb Butler","party":"D","isPrimary":true},
+    {"peopleId":24202,"name":"Maria Cervania","party":"D","isPrimary":true},
+    {"peopleId":26662,"name":"Amanda Cook","party":"D","isPrimary":true},
+    {"peopleId":18451,"name":"Mary Belk","party":"D","isPrimary":false},
+    {"peopleId":25213,"name":"Tracy Clark","party":"D","isPrimary":false},
+    {"peopleId":25842,"name":"Bryan Cohn","party":"D","isPrimary":false},
+    {"peopleId":25844,"name":"Julia Greenfield","party":"D","isPrimary":false},
+    {"peopleId":20521,"name":"Carolyn Logan","party":"D","isPrimary":false},
+    {"peopleId":25850,"name":"Jordan Lopez","party":"D","isPrimary":false},
+    {"peopleId":19360,"name":"Marcia Morey","party":"D","isPrimary":false},
+    {"peopleId":24214,"name":"Renee Price","party":"D","isPrimary":false},
+    {"peopleId":22606,"name":"James Roberson","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

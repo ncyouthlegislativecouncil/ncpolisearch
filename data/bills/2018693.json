@@ -1,0 +1,25 @@
+{
+  "billId": 2018693,
+  "billNumber": "H699",
+  "title": "Sheriff's Deputies/Dismissals",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "94c0578a9ffd8e069f25c537112885d1",
+  "lastAction": "Re-ref Com On Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-04-14",
+  "url": "https://legiscan.com/NC/bill/H699/2025",
+  "aiSummary": "This bill prohibits sheriffs from firing deputy sheriffs or other employees in their office because those employees refuse to make campaign contributions to the sheriff or the sheriff's campaign committee. It adds this restriction to existing North Carolina law governing sheriff hiring and firing authority.",
+  "aiProArguments": "Supporters argue this bill protects county employees from potential coercion or retaliation based on personal political choices and financial contributions. They contend that public employees should not face job loss for declining to support their employer's political campaigns, and the bill ensures fair employment practices in sheriff's offices.",
+  "aiConArguments": "Opponents may argue that sheriffs, as elected officials, should retain broad discretion to manage their offices and staff as they see fit. They could contend that this restriction limits a sheriff's authority over personnel decisions and that existing ethics laws may already address campaign contribution abuse, making additional legislation unnecessary.",
+  "topic": "Criminal Justice & Public Safety",
+  "textLength": 2702,
+  "createdAt": "2026-06-23T02:56:35.048Z",
+  "sponsors": [
+    {"peopleId":22605,"name":"Abraham Jones","party":"D","isPrimary":true},
+    {"peopleId":24202,"name":"Maria Cervania","party":"D","isPrimary":false},
+    {"peopleId":20522,"name":"Nasif Majeed","party":"D","isPrimary":false},
+    {"peopleId":24214,"name":"Renee Price","party":"D","isPrimary":false},
+    {"peopleId":26396,"name":"Phil Rubin","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

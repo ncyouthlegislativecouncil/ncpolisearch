@@ -1,0 +1,24 @@
+{
+  "billId": 2145447,
+  "billNumber": "S835",
+  "title": "Surveillance Pricing Ban",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "83149b96258024a76221ae98f8766b8f",
+  "lastAction": "Re-ref to Appropriations/Base Budget. If fav, re-ref to Rules and Operations of the Senate",
+  "lastActionDate": "2026-04-28",
+  "url": "https://legiscan.com/NC/bill/S835/2025",
+  "aiSummary": "This bill prohibits businesses in North Carolina from using surveillance pricing—charging different prices to different customers on the same day based on personal data like browsing history or income—for essential goods and services such as food, water, toiletries, and diapers. The bill allows exceptions for loyalty programs, group discounts, shipping cost differences, and pricing errors. It designates violations as unfair trade practices and allocates funding for the Department of Justice to enforce the law.",
+  "aiProArguments": "Supporters argue this bill protects vulnerable consumers from being exploited through personalized pricing that charges higher prices to those who can afford to pay more or who lack shopping alternatives. They contend that surveillance pricing uses personal data unfairly and creates an unequal marketplace where some customers pay significantly more for identical essential items. Proponents believe this regulation prevents companies from profiting off consumer data and ensures fair access to necessities.",
+  "aiConArguments": "Opponents worry the bill could limit businesses' ability to set prices based on legitimate factors like demand fluctuations, potentially reducing efficiency and inventory management. They argue the definition of 'surveillance pricing' is broad and could unintentionally restrict dynamic pricing strategies that benefit consumers through sales and discounts. Concerns also exist about enforcement costs, compliance burden on businesses, and whether the law could ultimately limit competition or innovation in retail pricing practices.",
+  "topic": "Business & Labor",
+  "textLength": 3423,
+  "createdAt": "2026-06-23T03:11:06.591Z",
+  "sponsors": [
+    {"peopleId":24222,"name":"Lisa Grafstein","party":"D","isPrimary":true},
+    {"peopleId":20223,"name":"Mujtaba Mohammed","party":"D","isPrimary":false},
+    {"peopleId":21633,"name":"Natalie Murdock","party":"D","isPrimary":false},
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

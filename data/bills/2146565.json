@@ -1,0 +1,27 @@
+{
+  "billId": 2146565,
+  "billNumber": "S944",
+  "title": "Keep Families Fed Act",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "8691267463d5d4e940a8663330872a9f",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2026-04-30",
+  "url": "https://legiscan.com/NC/bill/S944/2025",
+  "aiSummary": "This bill appropriates $6 million in recurring state funding to six regional food banks across North Carolina, beginning in fiscal year 2026-2027. The funding is intended to address food insecurity and ensure these programs continue operating regardless of annual budget passage.",
+  "aiProArguments": "Supporters argue this bill addresses a critical need by guaranteeing stable funding for food security programs that serve vulnerable North Carolinians facing hunger. They contend that dedicating recurring funds protects these essential services from budget uncertainty and allows food banks to plan long-term programs effectively, while the equal distribution ensures equitable support across different regions of the state.",
+  "aiConArguments": "Opponents may argue that dedicating $6 million in recurring general fund dollars limits budget flexibility for other state priorities and creates a permanent obligation that cannot be adjusted based on changing needs or fiscal conditions. Some may also question whether the funding level and distribution method are the most efficient way to address food insecurity compared to other approaches.",
+  "topic": "Social Services & Welfare",
+  "textLength": 1160,
+  "createdAt": "2026-06-23T03:12:04.549Z",
+  "sponsors": [
+    {"peopleId":25858,"name":"Sophia Chitlik","party":"D","isPrimary":true},
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":true},
+    {"peopleId":24222,"name":"Lisa Grafstein","party":"D","isPrimary":true},
+    {"peopleId":21633,"name":"Natalie Murdock","party":"D","isPrimary":false},
+    {"peopleId":22426,"name":"DeAndrea Salvador","party":"D","isPrimary":false},
+    {"peopleId":25859,"name":"Caleb Theodros","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

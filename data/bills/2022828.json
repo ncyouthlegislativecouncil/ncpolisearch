@@ -1,0 +1,32 @@
+{
+  "billId": 2022828,
+  "billNumber": "H970",
+  "title": "Preventing Algorithmic Rent Fixing",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "2308defac4ec9d2cca0a0b944ea9fdfd",
+  "lastAction": "Ref To Com On Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-04-14",
+  "url": "https://legiscan.com/NC/bill/H970/2025",
+  "aiSummary": "This bill prohibits landlords and rental management companies in North Carolina from using pricing algorithms that share or incorporate competitor rental data to set rent prices. It also prevents landlords from contracting with services that collect and analyze rental pricing information from multiple competitors. Violations are treated as unfair trade practices, and renters can sue for damages.",
+  "aiProArguments": "Supporters argue this bill protects renters from artificially inflated rents caused by algorithmic coordination between landlords. They contend that when landlords use algorithms that share competitor data, it functions like illegal price-fixing that reduces competition and drives up housing costs. The bill would allow renters legal recourse and help address housing affordability by preventing coordinated pricing schemes.",
+  "aiConArguments": "Opponents worry the bill may reduce landlords' access to legitimate market data tools that help them set competitive, fair prices. They argue the definition of 'coordinating functions' is broad and could inadvertently restrict standard industry practices or prevent landlords from using publicly available market information. Concerns also exist about litigation costs and whether the bill adequately distinguishes between illegal coordination and lawful independent pricing decisions.",
+  "topic": "Technology & Privacy",
+  "textLength": 5485,
+  "createdAt": "2026-06-23T02:59:54.455Z",
+  "sponsors": [
+    {"peopleId":24210,"name":"Tim Longest","party":"D","isPrimary":true},
+    {"peopleId":25850,"name":"Jordan Lopez","party":"D","isPrimary":true},
+    {"peopleId":19360,"name":"Marcia Morey","party":"D","isPrimary":true},
+    {"peopleId":24213,"name":"Lindsey Prather","party":"D","isPrimary":true},
+    {"peopleId":24890,"name":"Eric Ager","party":"D","isPrimary":false},
+    {"peopleId":18451,"name":"Mary Belk","party":"D","isPrimary":false},
+    {"peopleId":19238,"name":"Deb Butler","party":"D","isPrimary":false},
+    {"peopleId":24202,"name":"Maria Cervania","party":"D","isPrimary":false},
+    {"peopleId":2077,"name":"Mary Harrison","party":"D","isPrimary":false},
+    {"peopleId":20521,"name":"Carolyn Logan","party":"D","isPrimary":false},
+    {"peopleId":24214,"name":"Renee Price","party":"D","isPrimary":false},
+    {"peopleId":26396,"name":"Phil Rubin","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

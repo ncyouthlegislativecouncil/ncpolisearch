@@ -1,0 +1,23 @@
+{
+  "billId": 2146515,
+  "billNumber": "S894",
+  "title": "NC A&T Chancellor's Residence Transfer",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "11091514dd94f5c842eeb9dec8149b79",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2026-04-30",
+  "url": "https://legiscan.com/NC/bill/S894/2025",
+  "aiSummary": "This bill transfers ownership of North Carolina A&T State University's Chancellor's residence from the State of North Carolina to The North Carolina A&T Real Estate Foundation for $1. If the Foundation sells the property in the future, the proceeds must be used to purchase a new Chancellor's residence for the university.",
+  "aiProArguments": "Supporters argue this transfer allows the university foundation greater flexibility and control over the Chancellor's residence, potentially enabling better property management and long-term planning for university leadership housing. Proponents may contend that transferring the property to a foundation affiliated with the university streamlines decision-making and allows the institution to respond more quickly to its housing needs without state bureaucratic processes.",
+  "aiConArguments": "Opponents may be concerned about transferring state-owned property for nominal consideration ($1), questioning whether this represents good stewardship of public assets. Critics might also worry about the loss of state oversight and the \"as is\" conveyance without warranties, which could leave the foundation responsible for any undisclosed property issues or liabilities that the state would otherwise bear.",
+  "topic": "Education",
+  "textLength": 2537,
+  "createdAt": "2026-06-23T03:11:38.921Z",
+  "sponsors": [
+    {"peopleId":12032,"name":"Gladys Robinson","party":"D","isPrimary":true},
+    {"peopleId":20223,"name":"Mujtaba Mohammed","party":"D","isPrimary":false},
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

@@ -1,0 +1,33 @@
+{
+  "billId": 2011473,
+  "billNumber": "H470",
+  "title": "The Second Amendment Protection Act",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "fe00df0e438487dc5c8a5462926ea5fd",
+  "lastAction": "Ref To Com On Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-03-24",
+  "url": "https://legiscan.com/NC/bill/H470/2025",
+  "aiSummary": "This bill prohibits North Carolina state and local law enforcement officers from enforcing federal firearms laws, regulations, or executive orders within the state's borders. It establishes that violations could result in $50,000 civil penalties and allows citizens to sue for injunctive relief, with limited exceptions for certain serious criminal investigations and interstate cases.",
+  "aiProArguments": "Supporters argue this bill protects Second Amendment rights by preventing federal overreach and asserting state sovereignty under the Tenth Amendment. They contend that firearm regulations should be determined by North Carolina, not federal authorities, and that this law prevents what they view as unconstitutional federal restrictions on gun ownership and use from being enforced in the state.",
+  "aiConArguments": "Opponents argue this bill may violate the Supremacy Clause of the U.S. Constitution, which makes federal law the supreme law of the land, and could expose the state to legal challenges. They also raise concerns that restricting law enforcement cooperation with federal authorities could hamper investigations into serious crimes, interstate trafficking, and violent offenses that have legitimate federal jurisdiction.",
+  "topic": "Criminal Justice & Public Safety",
+  "textLength": 13075,
+  "createdAt": "2026-06-23T02:52:27.099Z",
+  "sponsors": [
+    {"peopleId":25843,"name":"Brian Echevarria","party":"R","isPrimary":true},
+    {"peopleId":20519,"name":"Keith Kidwell","party":"R","isPrimary":true},
+    {"peopleId":24197,"name":"Brian Biggs","party":"R","isPrimary":true},
+    {"peopleId":25848,"name":"Cody Huneycutt","party":"R","isPrimary":true},
+    {"peopleId":17678,"name":"James Adams","party":"R","isPrimary":false},
+    {"peopleId":25841,"name":"Jonathan Almond","party":"R","isPrimary":false},
+    {"peopleId":2034,"name":"John Blust","party":"R","isPrimary":false},
+    {"peopleId":25197,"name":"Jerry Branson","party":"R","isPrimary":false},
+    {"peopleId":14606,"name":"Mark Brody","party":"R","isPrimary":false},
+    {"peopleId":25222,"name":"Blair Eddins","party":"R","isPrimary":false},
+    {"peopleId":22613,"name":"Ben Moss","party":"R","isPrimary":false},
+    {"peopleId":25856,"name":"Paul Scott","party":"R","isPrimary":false},
+    {"peopleId":24219,"name":"Bill Ward","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

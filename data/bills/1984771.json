@@ -1,0 +1,22 @@
+{
+  "billId": 1984771,
+  "billNumber": "S191",
+  "title": "CFSS Gun Prsnt. for Grade 7 and 9 Students",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "0d791370d35d45230a7306dfcf6e494a",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2025-02-27",
+  "url": "https://legiscan.com/NC/bill/S191/2025",
+  "aiSummary": "This bill requires North Carolina's Center for Safer Schools to develop an educational presentation about the legal, medical, and emotional consequences of gun use, substance abuse, gun violence, and gun safety for students in grades 7 and 9. Local school districts must provide this presentation to all students in those grades, with parents receiving at least 14 days' notice and the option to have their child opt out. The bill allocates $900,000 to fund the development and training for this program.",
+  "aiProArguments": "Supporters argue this bill addresses youth gun violence and safety by educating young people about the serious consequences of gun misuse during formative years. They contend that early education on gun safety, legal consequences, and emotional impacts can help prevent accidents, illegal possession, and violence. Proponents believe this presentation provides factual information that empowers students to make safer choices regarding firearms.",
+  "aiConArguments": "Opponents may argue concerns about government-mandated curriculum content and parental authority over what values and information their children receive. Some may question whether the presentation content remains factually balanced or promotes particular viewpoints on gun policy. Critics might also raise concerns about program costs, implementation timelines, or whether classroom time devoted to this presentation could be used for other educational priorities.",
+  "topic": "Education",
+  "textLength": 2455,
+  "createdAt": "2026-06-23T03:05:41.150Z",
+  "sponsors": [
+    {"peopleId":20216,"name":"Jim Burgin","party":"R","isPrimary":true},
+    {"peopleId":18454,"name":"Kevin Corbin","party":"R","isPrimary":true}
+  ],
+  "rollCalls": []
+}

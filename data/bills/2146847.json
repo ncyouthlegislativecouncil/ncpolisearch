@@ -1,0 +1,23 @@
+{
+  "billId": 2146847,
+  "billNumber": "S970",
+  "title": "E-Bike Definition and Local Regulation",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "39d569c726a0760d8135be4f698d8780",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2026-05-04",
+  "url": "https://legiscan.com/NC/bill/S970/2025",
+  "aiSummary": "This bill updates North Carolina's definition of electric-assisted bicycles by creating three classes (Class 1, 2, and 3) based on motor assistance and speed capabilities, ranging up to 28 mph for Class 3. It permits e-bikes on roadways and paths statewide while allowing cities and counties to impose local restrictions, helmet requirements, and speed limits.",
+  "aiProArguments": "Supporters argue this bill brings North Carolina into alignment with federal e-bike standards, creating clarity for manufacturers, retailers, and riders. They contend that allowing e-bikes on more pathways increases transportation options, promotes cleaner commuting, and benefits older or less physically capable riders. Additionally, authorizing local governments to regulate e-bikes allows communities to address safety concerns specific to their areas.",
+  "aiConArguments": "Opponents may worry that permitting faster Class 3 e-bikes (up to 28 mph) on shared paths creates safety hazards for pedestrians and traditional cyclists. They could argue that giving cities and counties authority to regulate e-bikes inconsistently across the state creates confusion for riders traveling between jurisdictions. Some may also question whether helmet requirements for minors on Classes 1 and 2 are adequate given their capabilities.",
+  "topic": "Transportation & Infrastructure",
+  "textLength": 3911,
+  "createdAt": "2026-06-23T03:12:16.800Z",
+  "sponsors": [
+    {"peopleId":17504,"name":"Michael Lee","party":"R","isPrimary":true},
+    {"peopleId":22424,"name":"Michael Lazzara","party":"R","isPrimary":true},
+    {"peopleId":17936,"name":"Jay Chaudhuri","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

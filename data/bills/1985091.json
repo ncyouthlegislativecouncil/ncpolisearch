@@ -1,0 +1,24 @@
+{
+  "billId": 1985091,
+  "billNumber": "S181",
+  "title": "Increase Funding for Mobile Crisis Units",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "0396aad0d040d4bc6cafc9b0a19b22b4",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2025-03-06",
+  "url": "https://legiscan.com/NC/bill/S181/2025",
+  "aiSummary": "This bill appropriates $2 million annually for the 2025-2027 fiscal years to the Department of Health and Human Services to establish five new mobile crisis units that provide mental health and substance use response services, with priority given to areas with the greatest need.",
+  "aiProArguments": "Supporters argue that mobile crisis units provide early intervention for mental health and substance use emergencies, potentially reducing unnecessary emergency room visits and police involvement in mental health situations. They contend that expanding these services to underserved areas improves access to care for vulnerable populations and can prevent crises from escalating.",
+  "aiConArguments": "Opponents may question whether $2 million annually is sufficient to sustain five new teams long-term, express concerns about whether mobile units effectively address root causes of mental health crises, or argue that funds should prioritize other mental health infrastructure like permanent treatment facilities. Some may also debate whether this spending is the best use of state resources given other budget priorities.",
+  "topic": "Healthcare",
+  "textLength": 920,
+  "createdAt": "2026-06-23T03:05:37.030Z",
+  "sponsors": [
+    {"peopleId":24222,"name":"Lisa Grafstein","party":"D","isPrimary":true},
+    {"peopleId":17147,"name":"Gale Adcock","party":"D","isPrimary":false},
+    {"peopleId":24220,"name":"Val Applewhite","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

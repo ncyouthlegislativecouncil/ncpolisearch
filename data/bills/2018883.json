@@ -1,0 +1,25 @@
+{
+  "billId": 2018883,
+  "billNumber": "H750",
+  "title": "Community Health Center Grants for LARCs",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "dfdb4bf4c644244d07096f800e9bb183",
+  "lastAction": "Re-ref Com On Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-04-03",
+  "url": "https://legiscan.com/NC/bill/H750/2025",
+  "aiSummary": "This bill appropriates $2.5 million per year for fiscal years 2025-2027 to the North Carolina Department of Health and Human Services to award grants to nonprofit community health centers. The grant funds must be used to purchase and provide long-acting reversible contraceptives (such as IUDs and implants) to uninsured, underinsured, or low-income patients.",
+  "aiProArguments": "Supporters argue this bill expands access to effective birth control for vulnerable populations who may lack insurance or financial resources. They contend that long-acting reversible contraceptives are highly effective at preventing unintended pregnancies and reducing maternal and infant health risks, particularly benefiting underserved communities. Proponents note this represents a preventive health investment that could reduce healthcare costs over time.",
+  "aiConArguments": "Opponents may argue about the appropriate use of state general funds and whether this spending priority competes with other health needs. Some may raise concerns about government involvement in reproductive decisions or question whether nonprofit health centers are the most efficient mechanism for distribution. Others might question the funding level or whether such programs should be federally funded rather than state-funded.",
+  "topic": "Healthcare",
+  "textLength": 2033,
+  "createdAt": "2026-06-23T02:57:13.910Z",
+  "sponsors": [
+    {"peopleId":25849,"name":"Monika Johnson-Hostler","party":"D","isPrimary":true},
+    {"peopleId":25213,"name":"Tracy Clark","party":"D","isPrimary":true},
+    {"peopleId":24202,"name":"Maria Cervania","party":"D","isPrimary":false},
+    {"peopleId":25851,"name":"Aisha Dew","party":"D","isPrimary":false},
+    {"peopleId":25847,"name":"Beth Helfrich","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

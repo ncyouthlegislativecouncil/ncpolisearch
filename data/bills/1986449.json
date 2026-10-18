@@ -1,0 +1,21 @@
+{
+  "billId": 1986449,
+  "billNumber": "S197",
+  "title": "Funds for Smith Reynolds Airport MRO Hangar",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "38ab1a981474f22bfe5ca34f56c452bd",
+  "lastAction": "Ref To Com On Appropriations/Base Budget",
+  "lastActionDate": "2025-03-03",
+  "url": "https://legiscan.com/NC/bill/S197/2025",
+  "aiSummary": "This bill appropriates $3.5 million in state funding to Forsyth County for renovating the Smith Reynolds Airport's maintenance, repair, and overhaul (MRO) hangar. The funds will be used for structural repairs, modernization, HVAC upgrades, and infrastructure improvements, with quarterly reporting required to legislative committees.",
+  "aiProArguments": "Supporters argue that upgrading the MRO hangar improves airport infrastructure and operational capacity, which can attract aviation businesses and maintenance operations to the region. They contend that modernizing the facility benefits the local economy in Forsyth County and strengthens Winston-Salem's competitiveness as an aviation hub.",
+  "aiConArguments": "Opponents may question whether $3.5 million in state General Fund dollars is the best use of limited public resources, especially if local or federal funding alternatives exist. They might argue that the state should prioritize statewide infrastructure needs over individual airport projects, or that Forsyth County should contribute more local funding to match state investment.",
+  "topic": "Transportation & Infrastructure",
+  "textLength": 1195,
+  "createdAt": "2026-06-23T03:05:43.886Z",
+  "sponsors": [
+    {"peopleId":17457,"name":"Paul Lowe","party":"D","isPrimary":true}
+  ],
+  "rollCalls": []
+}

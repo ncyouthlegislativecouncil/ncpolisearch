@@ -1,0 +1,30 @@
+{
+  "billId": 1947851,
+  "billNumber": "S31",
+  "title": "The Wells Act",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "0af68c3dfcf1b180ff6488854e3b9906",
+  "lastAction": "Re-ref to Regulatory Reform. If fav, re-ref to Rules and Operations of the Senate",
+  "lastActionDate": "2025-02-11",
+  "url": "https://legiscan.com/NC/bill/S31/2025",
+  "aiSummary": "The Wells Act directs the Legislative Library to request documentation and activity updates from all state boards, committees, and commissions. Any that don't respond within 120 days or haven't met in the past 12 months will be added to a list submitted to the Joint Legislative Administrative Procedure Oversight Committee, which will then recommend legislation to repeal these inactive entities.",
+  "aiProArguments": "Supporters argue this bill eliminates wasteful government by identifying and removing inactive boards and commissions that no longer serve a purpose. By streamlining state government and reducing unnecessary entities, the state can save resources and reduce bureaucratic overhead. The process also provides an opportunity for outdated or redundant boards to be formally eliminated rather than remaining on the books indefinitely.",
+  "aiConArguments": "Opponents may argue that some boards serve important functions even if they meet infrequently, and that requiring repeal legislation creates an additional burden on the legislature. There is also concern that a 120-day response deadline may be too short for some boards with limited administrative capacity, and that inactive boards might exist for legitimate reasons—such as serving an advisory function that is only needed periodically or during specific circumstances.",
+  "topic": "Local Government",
+  "textLength": 1742,
+  "createdAt": "2026-06-23T03:04:18.889Z",
+  "sponsors": [
+    {"peopleId":20216,"name":"Jim Burgin","party":"R","isPrimary":true},
+    {"peopleId":25212,"name":"Bob Brinson","party":"R","isPrimary":true},
+    {"peopleId":25250,"name":"Dana Jones","party":"R","isPrimary":true},
+    {"peopleId":14615,"name":"Carl Ford","party":"R","isPrimary":false},
+    {"peopleId":20513,"name":"Bobby Hanig","party":"R","isPrimary":false},
+    {"peopleId":17437,"name":"Thomas McInnis","party":"R","isPrimary":false},
+    {"peopleId":11858,"name":"Timothy Moffitt","party":"R","isPrimary":false},
+    {"peopleId":18497,"name":"Paul Newton","party":"R","isPrimary":false},
+    {"peopleId":24225,"name":"Benton Sawrey","party":"R","isPrimary":false},
+    {"peopleId":19669,"name":"Vickie Sawyer","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

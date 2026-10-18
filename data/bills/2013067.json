@@ -1,0 +1,27 @@
+{
+  "billId": 2013067,
+  "billNumber": "S414",
+  "title": "Pharmacists/Test and Treat",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "7739491563d12dc60f2af394526e4a92",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-25",
+  "url": "https://legiscan.com/NC/bill/S414/2025",
+  "aiSummary": "This bill expands pharmacists' authority to test for and treat certain illnesses (like flu, COVID-19, and strep throat) using FDA-approved tests, and requires health insurance plans to reimburse pharmacists for clinical services at the same rate as other healthcare providers when those services are performed within the pharmacist's scope of practice.",
+  "aiProArguments": "Supporters argue this bill increases access to healthcare by allowing pharmacists—who are often more available and have shorter wait times than doctors—to diagnose and treat common illnesses. They contend pharmacists are well-trained clinical professionals and should be reimbursed fairly when providing equivalent services, which could reduce pressure on overtaxed primary care doctors and urgent care facilities.",
+  "aiConArguments": "Opponents may worry this expands pharmacist scope of practice beyond appropriate limits and could compromise patient safety if pharmacists lack sufficient training for clinical decision-making in complex cases. Some may also be concerned about potential costs to insurance companies and whether pharmacists will properly refer patients to physicians when needed, or about reduced oversight compared to traditional medical practitioners.",
+  "topic": "Healthcare",
+  "textLength": 7723,
+  "createdAt": "2026-06-23T03:07:36.621Z",
+  "sponsors": [
+    {"peopleId":25250,"name":"Dana Jones","party":"R","isPrimary":true},
+    {"peopleId":14615,"name":"Carl Ford","party":"R","isPrimary":true},
+    {"peopleId":11858,"name":"Timothy Moffitt","party":"R","isPrimary":true},
+    {"peopleId":17147,"name":"Gale Adcock","party":"D","isPrimary":false},
+    {"peopleId":20216,"name":"Jim Burgin","party":"R","isPrimary":false},
+    {"peopleId":20513,"name":"Bobby Hanig","party":"R","isPrimary":false},
+    {"peopleId":11937,"name":"Ralph Hise","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

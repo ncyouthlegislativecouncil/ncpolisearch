@@ -1,0 +1,22 @@
+{
+  "billId": 2146994,
+  "billNumber": "H1185",
+  "title": "Mandate Mowing in May for Major Events",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "e96435664107d4f573d199bdc135b53b",
+  "lastAction": "Ref To Com On Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2026-05-05",
+  "url": "https://legiscan.com/NC/bill/H1185/2025",
+  "aiSummary": "This bill allows the North Carolina Department of Transportation to mow highway roadsides within a 5-mile radius of major sporting events during May, which is normally prohibited. Local governments can request this mowing if the event expects at least 5,000 attendees, with mowing occurring 2-7 days before the event. The bill appropriates $10,000 to cover administrative and operational costs.",
+  "aiProArguments": "Supporters argue that well-maintained roadsides create a positive first impression for visitors attending major sporting events in North Carolina, potentially benefiting local businesses and tourism. They contend that the May mowing restriction, while designed to protect wildlife habitats, should have limited exceptions for significant community events that draw thousands of visitors and generate economic activity.",
+  "aiConArguments": "Opponents argue that May is a critical nesting and breeding season for birds and other wildlife, and the restriction exists for important ecological reasons that should not be compromised. They contend that mowing exceptions, even in limited areas, undermine environmental protections and that $10,000 may be insufficient to cover actual costs, potentially creating ongoing budget pressures.",
+  "topic": "Transportation & Infrastructure",
+  "textLength": 2883,
+  "createdAt": "2026-06-23T03:03:06.037Z",
+  "sponsors": [
+    {"peopleId":25841,"name":"Jonathan Almond","party":"R","isPrimary":true},
+    {"peopleId":22613,"name":"Ben Moss","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

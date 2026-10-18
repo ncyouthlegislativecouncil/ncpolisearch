@@ -1,0 +1,21 @@
+{
+  "billId": 2146527,
+  "billNumber": "H1103",
+  "title": "Allow Implementation of Chatham Co. UDO",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "1889a26f4fd380bdbab9356aa5c920e1",
+  "lastAction": "Re-ref Com On Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2026-06-16",
+  "url": "https://legiscan.com/NC/bill/H1103/2025",
+  "aiSummary": "This bill allows Chatham County to implement and enforce a Unified Development Ordinance (UDO) that was adopted on November 18, 2024, along with an accompanying zoning map. The bill removes legal barriers that prevented the county from putting this ordinance into effect, with a deadline of June 1, 2027 for the zoning map to be adopted.",
+  "aiProArguments": "Supporters argue this bill enables Chatham County to move forward with modern land-use planning that the county commissioners already approved. The UDO and zoning map are intended to provide clearer development rules, protect community character, and guide growth in an organized way that benefits both residents and local government decision-making.",
+  "aiConArguments": "Opponents may argue that the bill bypasses normal state law requirements (referenced in G.S. 160D-601) that exist for other counties, raising concerns about whether removing these safeguards sets an unequal precedent. Some may also worry about the impact of new zoning rules on property owners, developers, or specific communities within Chatham County who did not support the ordinance.",
+  "topic": "Local Government",
+  "textLength": 1380,
+  "createdAt": "2026-06-23T03:01:50.850Z",
+  "sponsors": [
+    {"peopleId":16252,"name":"Robert Reives","party":"D","isPrimary":true}
+  ],
+  "rollCalls": []
+}

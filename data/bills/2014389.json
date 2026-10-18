@@ -1,0 +1,24 @@
+{
+  "billId": 2014389,
+  "billNumber": "S721",
+  "title": "Modify Public-Initiated Criminal Processes",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "b95ca7a283ac743d61bcb5718a46848a",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-26",
+  "url": "https://legiscan.com/NC/bill/S721/2025",
+  "aiSummary": "This bill changes how courts handle criminal charges filed by private citizens (non-law enforcement). When a citizen files a charge, courts must issue a summons instead of an arrest warrant, unless the case involves domestic violence or meets certain exceptions like corroborating witness testimony or substantial burden on the complainant.",
+  "aiProArguments": "Supporters argue this protects citizens from wrongful arrest based solely on unverified private complaints, ensuring law enforcement investigation occurs before someone is arrested. They contend it prevents misuse of the criminal system by requiring independent verification or investigation, and balances citizens' right to file charges with protections for those accused.",
+  "aiConArguments": "Opponents worry this delays justice and makes it harder for victims to protect themselves, particularly those without easy access to police or in situations where law enforcement is slow to respond. They argue that requiring a summons instead of arrest for non-domestic crimes gives accused individuals time to flee, destroy evidence, or harm witnesses, and that the exceptions may be difficult to prove quickly.",
+  "topic": "Criminal Justice & Public Safety",
+  "textLength": 1659,
+  "createdAt": "2026-06-23T03:10:18.673Z",
+  "sponsors": [
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":true},
+    {"peopleId":25860,"name":"Woodson Bradley","party":"D","isPrimary":true},
+    {"peopleId":21633,"name":"Natalie Murdock","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

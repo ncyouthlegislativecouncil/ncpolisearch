@@ -1,0 +1,21 @@
+{
+  "billId": 2144416,
+  "billNumber": "S803",
+  "title": "Beaufort Dist. B Occupancy Tax",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "20bfde8e41b6da96f9996e5a20feeed5",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2026-04-22",
+  "url": "https://legiscan.com/NC/bill/S803/2025",
+  "aiSummary": "This bill creates a special taxing district in Beaufort County (outside the City of Washington) that can levy a room occupancy tax of up to 6% on hotel and rental accommodations. Revenue from this tax would be managed by a Tourism Development Authority, with at least two-thirds used for travel and tourism promotion and the remainder for tourism-related expenditures within the district.",
+  "aiProArguments": "Supporters argue this bill allows rural areas of Beaufort County to fund tourism development and marketing that can attract visitors and boost the local economy. The revenue generated stays within the district and benefits local tourism businesses, hotels, and related industries. It provides a dedicated funding source for tourism infrastructure and promotion without relying on general county funds or property taxes.",
+  "aiConArguments": "Opponents may be concerned that the tax could discourage visitors from staying in accommodations within the district, potentially harming hotel owners and tourism businesses subject to the tax. There are also questions about whether a 6% occupancy tax is competitive compared to surrounding areas, and whether the tax could shift business to the incorporated City of Washington or neighboring counties with lower rates.",
+  "topic": "Taxes & Budget",
+  "textLength": 7147,
+  "createdAt": "2026-06-23T03:10:52.583Z",
+  "sponsors": [
+    {"peopleId":25212,"name":"Bob Brinson","party":"R","isPrimary":true}
+  ],
+  "rollCalls": []
+}

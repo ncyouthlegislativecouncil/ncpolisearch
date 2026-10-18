@@ -1,0 +1,21 @@
+{
+  "billId": 2146479,
+  "billNumber": "S920",
+  "title": "SNAP Administrative Funding/Forsyth County",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "37c8da7d21593630dec98639c8b88414",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2026-04-30",
+  "url": "https://legiscan.com/NC/bill/S920/2025",
+  "aiSummary": "This bill appropriates $3,888,010 in state funds to Forsyth County for the 2026-2027 fiscal year to compensate for lost federal funding that previously covered administrative costs for the SNAP (food assistance) program. The loss of federal funding resulted from changes made by federal law (Public Law 119-21).",
+  "aiProArguments": "Supporters argue this bill ensures Forsyth County can continue administering SNAP benefits to eligible residents without service disruptions or increased local burden. By replacing lost federal funds, the state helps maintain a critical safety-net program that serves low-income families, while preventing counties from having to cut staff or reduce program efficiency.",
+  "aiConArguments": "Opponents may argue that using state general funds to replace federal funding sets a concerning precedent of the state subsidizing federal program costs, potentially encouraging future federal funding reductions. Some may also question why only Forsyth County receives this appropriation when other counties likely experienced similar federal funding losses under the same federal law.",
+  "topic": "Social Services & Welfare",
+  "textLength": 1403,
+  "createdAt": "2026-06-23T03:11:53.309Z",
+  "sponsors": [
+    {"peopleId":17457,"name":"Paul Lowe","party":"D","isPrimary":true}
+  ],
+  "rollCalls": []
+}

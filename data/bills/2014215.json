@@ -1,0 +1,23 @@
+{
+  "billId": 2014215,
+  "billNumber": "S591",
+  "title": "Revise Animal Fighting Laws",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "6c60a948628197f9ce4e999c6f7006fc",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-26",
+  "url": "https://legiscan.com/NC/bill/S591/2025",
+  "aiSummary": "This bill strengthens North Carolina's animal fighting laws by increasing penalties for cockfighting and dog fighting from Class I to Class H felonies, explicitly prohibiting minors from attending animal fighting events, and creating a new crime for possessing animal fighting equipment (like fighting pits, gaffs, or springpoles) with intent to facilitate fighting. The bill takes effect December 1, 2025.",
+  "aiProArguments": "Supporters argue this bill protects animals from cruel treatment and abuse by increasing penalties and closing legal gaps in existing law. They contend that prohibiting minors' attendance protects children from witnessing animal cruelty and normalizing violence, while criminalizing animal fighting paraphernalia makes it easier to prosecute those engaged in illegal fighting operations. Animal welfare advocates view these stronger penalties as necessary deterrents to stop animal fighting rings.",
+  "aiConArguments": "Opponents may argue that the law could be difficult to enforce fairly because determining 'intent' to use equipment for fighting could be subjective—for example, a breaking stick might have legitimate uses in dog training. Some may be concerned that the language around animal fighting paraphernalia is broad enough to potentially affect innocent people possessing similar tools for lawful purposes, and that increased felony charges could result in disproportionately harsh sentences compared to the severity of some offenses.",
+  "topic": "Criminal Justice & Public Safety",
+  "textLength": 5100,
+  "createdAt": "2026-06-23T03:09:09.194Z",
+  "sponsors": [
+    {"peopleId":17457,"name":"Paul Lowe","party":"D","isPrimary":true},
+    {"peopleId":22425,"name":"Julie Mayfield","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

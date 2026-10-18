@@ -1,0 +1,32 @@
+{
+  "billId": 1983942,
+  "billNumber": "H229",
+  "title": "Medicaid Rates/Ambulatory Surgical Centers",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "30e60b40deed3929363031c5311d0dc7",
+  "lastAction": "Ref to the Com on Appropriations, if favorable, Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-02-27",
+  "url": "https://legiscan.com/NC/bill/H229/2025",
+  "aiSummary": "This bill requires North Carolina's Medicaid program to reimburse ambulatory surgical centers (outpatient surgery facilities) at rates of at least 95% of what Medicare pays for the same services. The state will spend $10.5 million annually to fund this increase, which will draw down $19.1 million in federal matching funds.",
+  "aiProArguments": "Supporters argue that higher Medicaid reimbursement rates will ensure ambulatory surgical centers remain financially viable and can continue providing surgical services to Medicaid patients. They contend that competitive payment rates are necessary to maintain access to outpatient surgery options and prevent these facilities from closing or limiting Medicaid patient capacity.",
+  "aiConArguments": "Opponents may argue that the state is committing significant recurring spending ($10.5 million annually) during a time of budget constraints, and question whether increasing reimbursement rates is the most efficient use of taxpayer dollars. Some may also contend that there is insufficient evidence that current payment rates are causing access problems or facility closures.",
+  "topic": "Healthcare",
+  "textLength": 1865,
+  "createdAt": "2026-06-23T02:45:30.278Z",
+  "sponsors": [
+    {"peopleId":18461,"name":"Larry Potts","party":"R","isPrimary":true},
+    {"peopleId":18495,"name":"Donna White","party":"R","isPrimary":true},
+    {"peopleId":24215,"name":"Timothy Reeder","party":"R","isPrimary":true},
+    {"peopleId":25845,"name":"Grant Campbell","party":"R","isPrimary":true},
+    {"peopleId":25841,"name":"Jonathan Almond","party":"R","isPrimary":false},
+    {"peopleId":2038,"name":"William Brisson","party":"R","isPrimary":false},
+    {"peopleId":25848,"name":"Cody Huneycutt","party":"R","isPrimary":false},
+    {"peopleId":24207,"name":"Neal Jackson","party":"R","isPrimary":false},
+    {"peopleId":22965,"name":"Donnie Loftis","party":"R","isPrimary":false},
+    {"peopleId":21375,"name":"Jeffrey McNeely","party":"R","isPrimary":false},
+    {"peopleId":25214,"name":"Heather Rhyne","party":"R","isPrimary":false},
+    {"peopleId":24219,"name":"Bill Ward","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

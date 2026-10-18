@@ -1,0 +1,21 @@
+{
+  "billId": 2145818,
+  "billNumber": "S837",
+  "title": "Ride Safe, Insure Smart Act",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "37bb0ce578dcc1d5431bc4bfd1bd2371",
+  "lastAction": "Re-ref to Appropriations/Base Budget. If fav, re-ref to Rules and Operations of the Senate",
+  "lastActionDate": "2026-04-28",
+  "url": "https://legiscan.com/NC/bill/S837/2025",
+  "aiSummary": "This bill requires owners and operators of public motocross facilities in North Carolina to carry liability insurance of at least $1 million per occurrence and $2 million in aggregate. The bill exempts private facilities not open to the public and facilities operated by government entities, and includes $50,000 in state funding for a safety awareness campaign targeting young riders.",
+  "aiProArguments": "Supporters argue this bill protects injured riders and their families by ensuring motocross facilities have sufficient insurance to cover medical expenses and damages from accidents. They contend that liability requirements encourage facility operators to maintain safer conditions and hold operators accountable for negligence, while private facilities and government operations remain exempt from the requirement.",
+  "aiConArguments": "Opponents may argue the insurance mandate increases operational costs for motocross facility owners, potentially leading to higher fees for riders or facility closures, particularly for smaller businesses. They may also question whether $1-2 million in coverage is appropriate for all facilities regardless of size or risk level, and whether the state should regulate private recreational activities in this manner.",
+  "topic": "Business & Labor",
+  "textLength": 3800,
+  "createdAt": "2026-06-23T03:11:07.919Z",
+  "sponsors": [
+    {"peopleId":25860,"name":"Woodson Bradley","party":"D","isPrimary":true}
+  ],
+  "rollCalls": []
+}

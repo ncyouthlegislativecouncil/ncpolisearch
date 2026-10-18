@@ -1,0 +1,27 @@
+{
+  "billId": 1986799,
+  "billNumber": "H252",
+  "title": "Steele Creek Investment and Improvement Act",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "ddd99197acb51d5030fdd615244409a0",
+  "lastAction": "Ref to the Com on Appropriations, if favorable, Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-03-03",
+  "url": "https://legiscan.com/NC/bill/H252/2025",
+  "aiSummary": "This bill appropriates $1.25 million in state funding for three projects in Steele Creek, a rapidly growing community in southwest Mecklenburg County. The funds support community wellness programs ($250,000), fire and rescue equipment and facilities ($500,000), and a traffic study on Shopton Road West ($500,000).",
+  "aiProArguments": "Supporters argue that Steele Creek's 70% population growth over 15 years and status as a regional commercial hub justify targeted state investment. The bill addresses real infrastructure gaps by funding fire department equipment critical for public safety, wellness programs for a diverse population, and studying traffic congestion on an increasingly busy road. These investments support both residents and the broader regional economy that extends into multiple counties.",
+  "aiConArguments": "Opponents may question whether state general funds should support localized projects that primarily benefit one community, especially through directed grants to specific nonprofits rather than competitive processes. Some may argue that Mecklenburg County or the city of Charlotte should fund local infrastructure improvements, or that the $1.25 million could address statewide priorities. Questions may also arise about whether a traffic study alone without approved solutions justifies the expense.",
+  "topic": "Taxes & Budget",
+  "textLength": 3086,
+  "createdAt": "2026-06-23T02:46:04.984Z",
+  "sponsors": [
+    {"peopleId":22600,"name":"Terry Brown","party":"D","isPrimary":true},
+    {"peopleId":16252,"name":"Robert Reives","party":"D","isPrimary":true},
+    {"peopleId":21631,"name":"Vernetta Alston","party":"D","isPrimary":false},
+    {"peopleId":18451,"name":"Mary Belk","party":"D","isPrimary":false},
+    {"peopleId":20521,"name":"Carolyn Logan","party":"D","isPrimary":false},
+    {"peopleId":25850,"name":"Jordan Lopez","party":"D","isPrimary":false},
+    {"peopleId":20522,"name":"Nasif Majeed","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

@@ -1,0 +1,25 @@
+{
+  "billId": 2014236,
+  "billNumber": "S564",
+  "title": "Public Safety Through Food Access Act",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "5f184e83af964bafaee9ca3b3bb88d31",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-26",
+  "url": "https://legiscan.com/NC/bill/S564/2025",
+  "aiSummary": "This bill expands North Carolina's eligibility for food and nutrition benefits and temporary assistance programs to include individuals convicted of drug-related felonies, removing a federal ban that previously disqualified them. Individuals must complete or participate in substance abuse treatment and meet a six-month crime-free period to qualify.",
+  "aiProArguments": "Supporters argue this bill helps formerly incarcerated individuals reintegrate into society by providing essential food and financial assistance, reducing barriers to successful reentry. They contend that access to basic needs like food improves public safety by reducing recidivism and helping people become self-sufficient and productive members of their communities.",
+  "aiConArguments": "Opponents may argue that the bill removes an incentive for people convicted of drug felonies to avoid future criminal activity, potentially reducing deterrent effects. Some may be concerned about the cost of expanding benefit programs and question whether substance abuse treatment requirements are adequately funded or enforced to ensure program integrity.",
+  "topic": "Social Services & Welfare",
+  "textLength": 2668,
+  "createdAt": "2026-06-23T03:08:55.296Z",
+  "sponsors": [
+    {"peopleId":20216,"name":"Jim Burgin","party":"R","isPrimary":true},
+    {"peopleId":22425,"name":"Julie Mayfield","party":"D","isPrimary":true},
+    {"peopleId":20223,"name":"Mujtaba Mohammed","party":"D","isPrimary":true},
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

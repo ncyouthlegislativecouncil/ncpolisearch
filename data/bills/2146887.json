@@ -1,0 +1,26 @@
+{
+  "billId": 2146887,
+  "billNumber": "S959",
+  "title": "Study Student Loan Forgiveness Program/SEAA",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "eeb2e706783331b03138e0816816c1b5",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2026-05-04",
+  "url": "https://legiscan.com/NC/bill/S959/2025",
+  "aiSummary": "This bill directs the State Education Assistance Authority to study whether North Carolina should create a student loan forgiveness program for graduates of public universities and community colleges in the state. The study must examine program structure, costs, eligibility requirements, and how it might help retain graduates in North Carolina, with a report due by October 1, 2027. The bill appropriates $150,000 to conduct this study.",
+  "aiProArguments": "Supporters argue that student loan forgiveness could help retain college graduates in North Carolina, strengthening the state's workforce and economy. They contend that high student debt burdens discourage graduates from staying in the state and that a forgiveness program could make North Carolina more competitive in attracting and keeping educated workers who might otherwise relocate to other states.",
+  "aiConArguments": "Opponents may argue that a loan forgiveness program would be costly to taxpayers and that state funds might be better spent on other priorities like education or infrastructure. They could also question whether loan forgiveness is an effective use of public money, noting that it benefits those who already received higher education while potentially leaving out workers who chose other career paths.",
+  "topic": "Education",
+  "textLength": 5275,
+  "createdAt": "2026-06-23T03:12:12.359Z",
+  "sponsors": [
+    {"peopleId":25859,"name":"Caleb Theodros","party":"D","isPrimary":true},
+    {"peopleId":20220,"name":"Michael Garrett","party":"D","isPrimary":true},
+    {"peopleId":25858,"name":"Sophia Chitlik","party":"D","isPrimary":false},
+    {"peopleId":21633,"name":"Natalie Murdock","party":"D","isPrimary":false},
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

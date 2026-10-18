@@ -1,0 +1,32 @@
+{
+  "billId": 2011562,
+  "billNumber": "S358",
+  "title": "Hate Crimes Prevention Act",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "669d7daf2351e79686545cce518c7f74",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-24",
+  "url": "https://legiscan.com/NC/bill/S358/2025",
+  "aiSummary": "This bill expands North Carolina's hate crimes laws by broadening the characteristics that qualify a crime as a hate crime (adding gender identity, gender expression, and disability to existing protections), increasing criminal penalties for hate crimes, creating a state database to track hate crime statistics, and requiring law enforcement and prosecutors to receive training on identifying and prosecuting hate crimes.",
+  "aiProArguments": "Supporters argue this bill protects vulnerable communities from violence and discrimination motivated by bias. They contend that enhanced penalties deter hate crimes, the statistics database provides needed data on these crimes, and training ensures law enforcement properly identifies and responds to hate incidents. Supporters also point out that the civil remedies and restorative justice options offer victims additional avenues for justice and healing.",
+  "aiConArguments": "Opponents may argue that expanding hate crime definitions raises concerns about how subjective motivations are proven in court and whether the law could criminalize speech or beliefs. Some question whether enhanced penalties are necessary, noting existing assault and property damage laws already address the conduct. Concerns may also include implementation costs (the bill appropriates $2.42 million) and whether the new training requirements place additional burdens on law enforcement agencies.",
+  "topic": "Criminal Justice & Public Safety",
+  "textLength": 18307,
+  "createdAt": "2026-06-23T03:07:05.366Z",
+  "sponsors": [
+    {"peopleId":17936,"name":"Jay Chaudhuri","party":"D","isPrimary":true},
+    {"peopleId":20223,"name":"Mujtaba Mohammed","party":"D","isPrimary":true},
+    {"peopleId":25858,"name":"Sophia Chitlik","party":"D","isPrimary":true},
+    {"peopleId":24220,"name":"Val Applewhite","party":"D","isPrimary":false},
+    {"peopleId":24222,"name":"Lisa Grafstein","party":"D","isPrimary":false},
+    {"peopleId":17457,"name":"Paul Lowe","party":"D","isPrimary":false},
+    {"peopleId":21633,"name":"Natalie Murdock","party":"D","isPrimary":false},
+    {"peopleId":12032,"name":"Gladys Robinson","party":"D","isPrimary":false},
+    {"peopleId":22426,"name":"DeAndrea Salvador","party":"D","isPrimary":false},
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":false},
+    {"peopleId":25859,"name":"Caleb Theodros","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

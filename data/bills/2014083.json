@@ -1,0 +1,29 @@
+{
+  "billId": 2014083,
+  "billNumber": "S588",
+  "title": "Pregnant Workers Protection Act",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "5c620bed7ec25a85313f7451386d1c53",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-26",
+  "url": "https://legiscan.com/NC/bill/S588/2025",
+  "aiSummary": "This bill expands workplace protections for pregnant employees in North Carolina by classifying pregnancy and pregnancy-related conditions as a physical impairment under state discrimination law. It requires employers to provide reasonable accommodations for pregnant workers—such as frequent bathroom breaks, modified schedules, seating, and assistance with heavy labor—unless doing so would create undue hardship for the business. The bill also clarifies that pregnancy discrimination protections apply to state employment and housing discrimination cases.",
+  "aiProArguments": "Supporters argue this bill protects pregnant workers from discrimination and ensures they receive necessary accommodations to maintain safe, healthy pregnancies while working. They contend that pregnancy-related needs like frequent bathroom breaks and rest periods are reasonable workplace adjustments that allow pregnant employees to continue working without jeopardizing their health or their jobs. Proponents point out that many other states have similar protections, and this aligns North Carolina with federal guidance on pregnancy accommodations.",
+  "aiConArguments": "Opponents may argue that the bill's broad definition of reasonable accommodations could create significant compliance burdens and costs for small businesses, particularly regarding job restructuring and temporary position transfers. Some business groups might contend that the 'undue hardship' exception is unclear and could lead to litigation disputes, and that the bill could incentivize employers to avoid hiring women of childbearing age to prevent potential accommodation conflicts.",
+  "topic": "Business & Labor",
+  "textLength": 4691,
+  "createdAt": "2026-06-23T03:09:07.905Z",
+  "sponsors": [
+    {"peopleId":21633,"name":"Natalie Murdock","party":"D","isPrimary":true},
+    {"peopleId":25858,"name":"Sophia Chitlik","party":"D","isPrimary":true},
+    {"peopleId":20505,"name":"Sydney Batch","party":"D","isPrimary":false},
+    {"peopleId":25860,"name":"Woodson Bradley","party":"D","isPrimary":false},
+    {"peopleId":20220,"name":"Michael Garrett","party":"D","isPrimary":false},
+    {"peopleId":24222,"name":"Lisa Grafstein","party":"D","isPrimary":false},
+    {"peopleId":22426,"name":"DeAndrea Salvador","party":"D","isPrimary":false},
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

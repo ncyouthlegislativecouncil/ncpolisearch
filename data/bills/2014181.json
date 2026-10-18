@@ -1,0 +1,30 @@
+{
+  "billId": 2014181,
+  "billNumber": "S641",
+  "title": "Reenact Child Tax Credit",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "1cc8c48848a9b78e2ab13e113bc58078",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-26",
+  "url": "https://legiscan.com/NC/bill/S641/2025",
+  "aiSummary": "This bill reenacts North Carolina's child tax credit, which allows taxpayers to claim a credit on their state income taxes for each dependent child. The credit amounts vary by child's age and family income level, with credits ranging from $1,600 to $1,900 per child for lower-income families, and the credit is refundable, meaning families can receive money back if the credit exceeds their tax liability.",
+  "aiProArguments": "Supporters argue that a child tax credit helps low- and moderate-income families afford the high costs of raising children and childcare, addressing child poverty and improving children's health and educational outcomes. They also contend that the credit encourages families to have children and supports North Carolina's economic future by increasing birth rates, pointing to data showing the federal expansion of this credit during COVID-19 significantly reduced child poverty.",
+  "aiConArguments": "Opponents may be concerned about the fiscal cost of the refundable credit to the state budget, particularly whether North Carolina can sustainably fund this benefit. They might also question whether a tax credit is the most efficient way to address poverty compared to other targeted assistance programs, or argue that the credit's income phase-out limits may not effectively help the lowest-income families who need support most.",
+  "topic": "Taxes & Budget",
+  "textLength": 4457,
+  "createdAt": "2026-06-23T03:09:35.946Z",
+  "sponsors": [
+    {"peopleId":25858,"name":"Sophia Chitlik","party":"D","isPrimary":true},
+    {"peopleId":25860,"name":"Woodson Bradley","party":"D","isPrimary":true},
+    {"peopleId":20510,"name":"Terence Everitt","party":"D","isPrimary":true},
+    {"peopleId":20220,"name":"Michael Garrett","party":"D","isPrimary":false},
+    {"peopleId":24222,"name":"Lisa Grafstein","party":"D","isPrimary":false},
+    {"peopleId":22425,"name":"Julie Mayfield","party":"D","isPrimary":false},
+    {"peopleId":20223,"name":"Mujtaba Mohammed","party":"D","isPrimary":false},
+    {"peopleId":21633,"name":"Natalie Murdock","party":"D","isPrimary":false},
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

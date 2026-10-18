@@ -1,0 +1,22 @@
+{
+  "billId": 2018906,
+  "billNumber": "H739",
+  "title": "Funds for Wilson & Nash Counties",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "9db3755f5fefa5ec659f50ce58e3bea4",
+  "lastAction": "Ref to the Com on Appropriations, if favorable, Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-04-03",
+  "url": "https://legiscan.com/NC/bill/H739/2025",
+  "aiSummary": "This bill appropriates $61.3 million in state funds for the 2025-2026 fiscal year to support various public projects in Wilson and Nash Counties, including water infrastructure, school construction, a new courthouse, fire departments, housing, and other local services.",
+  "aiProArguments": "Supporters argue this funding addresses critical infrastructure needs in Wilson and Nash Counties, including aging water systems, overcrowded schools, and outdated public facilities. They contend these investments will improve public safety, support economic development, and enhance quality of life for residents in these communities.",
+  "aiConArguments": "Opponents may question whether directing $61.3 million to specific counties is the most equitable use of state resources, arguing other regions have similar infrastructure needs. They might also raise concerns about whether one-time nonrecurring funds create sustainable solutions or leave communities facing budget challenges when the funding ends.",
+  "topic": "Taxes & Budget",
+  "textLength": 1968,
+  "createdAt": "2026-06-23T02:57:06.082Z",
+  "sponsors": [
+    {"peopleId":25854,"name":"Dante Pittman","party":"D","isPrimary":true},
+    {"peopleId":25853,"name":"Rodney Pierce","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

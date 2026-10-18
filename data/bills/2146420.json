@@ -1,0 +1,30 @@
+{
+  "billId": 2146420,
+  "billNumber": "H1108",
+  "title": "Const. Amend./Permitless Carry",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "aa3b1287b0f1040b931925c0c3349975",
+  "lastAction": "Ref To Com On Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2026-04-30",
+  "url": "https://legiscan.com/NC/bill/H1108/2025",
+  "aiSummary": "This bill proposes a constitutional amendment to allow North Carolina citizens to carry firearms openly or concealed without a permit, provided they have not been convicted of violent crimes or drug offenses and have not been adjudicated mentally incompetent. The amendment would be submitted to voters in the November 2026 general election, and if approved, would remove the current legal prohibition on concealed carry without a permit while maintaining an optional permit system for interstate reciprocity.",
+  "aiProArguments": "Supporters argue this bill protects Second Amendment rights by treating open and concealed carry equally and removing government barriers to self-defense. They contend that law-abiding citizens should not need government permission to exercise their constitutional right to bear arms for personal protection, and that the permit requirement creates unnecessary delays and costs that disproportionately affect citizens with fewer resources.",
+  "aiConArguments": "Opponents argue that permit requirements serve public safety by allowing background checks and helping law enforcement track who is carrying concealed weapons. They express concerns that permitless carry could make it harder to identify individuals with disqualifying histories and could increase gun violence, accidental shootings, or theft of firearms from unlicensed carriers who may lack proper training or secure storage.",
+  "topic": "Criminal Justice & Public Safety",
+  "textLength": 3675,
+  "createdAt": "2026-06-23T03:01:55.405Z",
+  "sponsors": [
+    {"peopleId":20519,"name":"Keith Kidwell","party":"R","isPrimary":true},
+    {"peopleId":22613,"name":"Ben Moss","party":"R","isPrimary":true},
+    {"peopleId":17678,"name":"James Adams","party":"R","isPrimary":true},
+    {"peopleId":24212,"name":"Joe Pike","party":"R","isPrimary":true},
+    {"peopleId":24197,"name":"Brian Biggs","party":"R","isPrimary":false},
+    {"peopleId":25222,"name":"Blair Eddins","party":"R","isPrimary":false},
+    {"peopleId":22965,"name":"Donnie Loftis","party":"R","isPrimary":false},
+    {"peopleId":21375,"name":"Jeffrey McNeely","party":"R","isPrimary":false},
+    {"peopleId":18461,"name":"Larry Potts","party":"R","isPrimary":false},
+    {"peopleId":24219,"name":"Bill Ward","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

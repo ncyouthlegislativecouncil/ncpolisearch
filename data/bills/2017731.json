@@ -1,0 +1,31 @@
+{
+  "billId": 2017731,
+  "billNumber": "H639",
+  "title": "Prioritize In-State Applicants/UNC Ed Schools",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "be3187b69d6b1ba07476196882d89dd9",
+  "lastAction": "Ref To Com On Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-04-02",
+  "url": "https://legiscan.com/NC/bill/H639/2025",
+  "aiSummary": "This bill requires the University of North Carolina Board of Governors to adopt a policy giving priority in admissions to educator preparation programs (teacher training programs) to in-state residents over out-of-state applicants. The policy would apply to all UNC constituent institutions starting with the 2025-2026 academic year.",
+  "aiProArguments": "Supporters argue this bill helps develop North Carolina's own teacher workforce by prioritizing residents who are more likely to remain and teach in the state after graduation. They contend this addresses potential teacher shortages and keeps public investment in education within the state, as tuition dollars and training costs fund residents who may leave after graduation.",
+  "aiConArguments": "Opponents argue prioritizing in-state applicants may reduce the overall quality of teacher preparation programs by limiting access to the most qualified candidates regardless of residency. They also express concern that this could disadvantage out-of-state applicants and reduce diversity in educator preparation programs, potentially affecting the quality of education North Carolina students receive.",
+  "topic": "Education",
+  "textLength": 1348,
+  "createdAt": "2026-06-23T02:55:48.979Z",
+  "sponsors": [
+    {"peopleId":24208,"name":"Ray Jeffers","party":"D","isPrimary":true},
+    {"peopleId":20515,"name":"Zack Forde-Hawkins","party":"D","isPrimary":true},
+    {"peopleId":22606,"name":"James Roberson","party":"D","isPrimary":true},
+    {"peopleId":22599,"name":"Amber Baker","party":"D","isPrimary":true},
+    {"peopleId":24890,"name":"Eric Ager","party":"D","isPrimary":false},
+    {"peopleId":22600,"name":"Terry Brown","party":"D","isPrimary":false},
+    {"peopleId":20509,"name":"Allison Dahle","party":"D","isPrimary":false},
+    {"peopleId":2077,"name":"Mary Harrison","party":"D","isPrimary":false},
+    {"peopleId":24206,"name":"Frances Jackson","party":"D","isPrimary":false},
+    {"peopleId":20521,"name":"Carolyn Logan","party":"D","isPrimary":false},
+    {"peopleId":25853,"name":"Rodney Pierce","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

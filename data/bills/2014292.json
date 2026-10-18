@@ -1,0 +1,29 @@
+{
+  "billId": 2014292,
+  "billNumber": "S704",
+  "title": "The Ronnie Long No Cap Act",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "a3206429dde50c526bc0a47eb80909bd",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-26",
+  "url": "https://legiscan.com/NC/bill/S704/2025",
+  "aiSummary": "The Ronnie Long No Cap Act removes the $750,000 cap on compensation awarded to people exonerated of felonies in North Carolina, allowing them to receive $50,000 per year of wrongful imprisonment. The bill also directs the state to provide Medicaid coverage to exonerees and requires the Department of Adult Correction to offer transition services (housing, employment, sustenance) up to $25,000 per person upon release.",
+  "aiProArguments": "Supporters argue that people wrongfully imprisoned for decades lose irreplaceable years, including life milestones and opportunities to build skills and savings, and that justice demands full compensation for all years lost rather than limiting payments to roughly 15 years. They contend that removing the cap, providing healthcare access, and offering transition services help exonerees rebuild their lives and reflects North Carolina's commitment to correcting grave injustices, as exemplified by cases like Ronnie Long's 44-year wrongful incarceration.",
+  "aiConArguments": "Opponents may argue that removing the compensation cap creates significant and unpredictable state budget obligations, particularly for cases involving decades-long incarcerations. They might also question whether unlimited compensation is the most effective use of state resources compared to other priorities, and express concern about the precedent this sets for other claims against the state, though they would likely acknowledge the moral weight of compensating the wrongfully convicted.",
+  "topic": "Criminal Justice & Public Safety",
+  "textLength": 8314,
+  "createdAt": "2026-06-23T03:10:08.782Z",
+  "sponsors": [
+    {"peopleId":20216,"name":"Jim Burgin","party":"R","isPrimary":true},
+    {"peopleId":18465,"name":"Danny Britt","party":"R","isPrimary":true},
+    {"peopleId":16251,"name":"Graig Meyer","party":"D","isPrimary":true},
+    {"peopleId":24220,"name":"Val Applewhite","party":"D","isPrimary":false},
+    {"peopleId":20505,"name":"Sydney Batch","party":"D","isPrimary":false},
+    {"peopleId":25858,"name":"Sophia Chitlik","party":"D","isPrimary":false},
+    {"peopleId":22425,"name":"Julie Mayfield","party":"D","isPrimary":false},
+    {"peopleId":21633,"name":"Natalie Murdock","party":"D","isPrimary":false},
+    {"peopleId":22426,"name":"DeAndrea Salvador","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

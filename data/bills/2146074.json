@@ -1,0 +1,25 @@
+{
+  "billId": 2146074,
+  "billNumber": "S864",
+  "title": "Safe and Responsible AI in Schools Act",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "e1c372cdc8543626ec697f85506fa919",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2026-04-29",
+  "url": "https://legiscan.com/NC/bill/S864/2025",
+  "aiSummary": "This bill requires North Carolina schools to teach artificial intelligence literacy to students in grades K-12, establish AI use policies across all public school systems, create a framework for evaluating AI educational tools, and provide $500,000 in funding for educator training on responsible AI use through NC State University's Friday Institute.",
+  "aiProArguments": "Supporters argue this bill prepares students for a technology-driven workforce by teaching them how AI works, its limitations, and ethical considerations. They contend that establishing clear policies and educator training ensures AI tools are used safely and responsibly in schools, protecting student data and academic integrity while enabling teachers to leverage AI to improve instruction and personalize learning.",
+  "aiConArguments": "Opponents may argue the bill creates implementation burdens and costs for schools already facing budget constraints, requires significant educator retraining, and mandates curriculum updates on a rapidly evolving technology where best practices aren't yet established. Some may also be concerned about the mandated adoption timelines, data privacy risks despite safeguards, or whether AI literacy standards should be prioritized over other academic subjects.",
+  "topic": "Education",
+  "textLength": 12741,
+  "createdAt": "2026-06-23T03:11:23.969Z",
+  "sponsors": [
+    {"peopleId":25250,"name":"Dana Jones","party":"R","isPrimary":true},
+    {"peopleId":25860,"name":"Woodson Bradley","party":"D","isPrimary":false},
+    {"peopleId":20216,"name":"Jim Burgin","party":"R","isPrimary":false},
+    {"peopleId":11862,"name":"Norman Sanderson","party":"R","isPrimary":false},
+    {"peopleId":19669,"name":"Vickie Sawyer","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

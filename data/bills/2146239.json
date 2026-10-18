@@ -1,0 +1,32 @@
+{
+  "billId": 2146239,
+  "billNumber": "S868",
+  "title": "Medicaid Innovations Waiver Slot Expansion",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "14fef2606a35ea85ff6a4b02c5c64a30",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2026-04-29",
+  "url": "https://legiscan.com/NC/bill/S868/2025",
+  "aiSummary": "This bill increases the number of available slots in North Carolina's Innovations waiver program by 1,000 slots, starting July 1, 2026. The bill appropriates $36.2 million in recurring funds to pay for these additional waiver slots.",
+  "aiProArguments": "Supporters argue this expansion helps people with intellectual and developmental disabilities access home and community-based services rather than institutional care. The additional slots address a waiting list of individuals needing these services, allowing more North Carolinians to receive support in their communities and potentially reducing costs associated with institutional placements.",
+  "aiConArguments": "Opponents may raise concerns about the $36.2 million in recurring state spending and whether these funds could be used for other priorities. Some may question whether the state budget can sustainably support this ongoing expenditure, or whether alternative funding mechanisms should be considered.",
+  "topic": "Healthcare",
+  "textLength": 1146,
+  "createdAt": "2026-06-23T03:11:26.106Z",
+  "sponsors": [
+    {"peopleId":17457,"name":"Paul Lowe","party":"D","isPrimary":true},
+    {"peopleId":17147,"name":"Gale Adcock","party":"D","isPrimary":false},
+    {"peopleId":24220,"name":"Val Applewhite","party":"D","isPrimary":false},
+    {"peopleId":25858,"name":"Sophia Chitlik","party":"D","isPrimary":false},
+    {"peopleId":26664,"name":"Jonah Garson","party":"D","isPrimary":false},
+    {"peopleId":24222,"name":"Lisa Grafstein","party":"D","isPrimary":false},
+    {"peopleId":20223,"name":"Mujtaba Mohammed","party":"D","isPrimary":false},
+    {"peopleId":21633,"name":"Natalie Murdock","party":"D","isPrimary":false},
+    {"peopleId":12032,"name":"Gladys Robinson","party":"D","isPrimary":false},
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":false},
+    {"peopleId":25859,"name":"Caleb Theodros","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

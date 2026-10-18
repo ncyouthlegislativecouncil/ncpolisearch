@@ -1,0 +1,21 @@
+{
+  "billId": 2146944,
+  "billNumber": "S1049",
+  "title": "Licensing Certain Fire Systems",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "d298ec87957282e71556e168ccc0c8d4",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2026-05-04",
+  "url": "https://legiscan.com/NC/bill/S1049/2025",
+  "aiSummary": "This bill creates a new licensing and permitting system for individuals and firms that install and service portable fire extinguishers and fire suppression systems in North Carolina. It requires digital reporting of all inspections and maintenance activities through a system using location verification, and mandates digital tagging (QR codes) on fire sprinklers and fire alarm systems to track inspection history.",
+  "aiProArguments": "Supporters argue this bill improves public safety by ensuring only qualified, trained professionals service critical fire safety equipment. The digital reporting system creates accountability and allows fire marshals and building owners to verify that required inspections are actually completed and done properly. The QR code tagging makes inspection records easily accessible, helping prevent gaps in maintenance that could leave buildings and occupants unprotected in emergencies.",
+  "aiConArguments": "Opponents may argue the licensing fees ($250 for firms, $100 for individuals) and permitting requirements create barriers for small businesses and independent contractors. The mandatory digital reporting system requires investment in new technology and ongoing compliance costs. Some may contend that existing inspection and maintenance standards are adequate, and that this adds regulatory burden without clear evidence of widespread safety problems with current practices.",
+  "topic": "Business & Labor",
+  "textLength": 35963,
+  "createdAt": "2026-06-23T03:12:57.386Z",
+  "sponsors": [
+    {"peopleId":20222,"name":"Todd Johnson","party":"R","isPrimary":true}
+  ],
+  "rollCalls": []
+}

@@ -1,0 +1,24 @@
+{
+  "billId": 2022109,
+  "billNumber": "H876",
+  "title": "Development Application Review Time Lines",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "d883be73bf0401839c4629b3ea1e650b",
+  "lastAction": "Ref to the Com on Housing and Development, if favorable, State and Local Government, if favorable, Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-04-10",
+  "url": "https://legiscan.com/NC/bill/H876/2025",
+  "aiSummary": "This bill requires local governments to complete an administrative review of development applications within two business days and either approve them as complete or provide a detailed deficiency list. It also requires building inspections to be completed within two business days of request, and allows developers to hire third-party reviewers (engineers or architects) if local governments cannot meet these timelines; if a third-party reviewer certifies plans comply with codes, the local government must issue permits within two business days and waive review fees.",
+  "aiProArguments": "Supporters argue this bill reduces delays in the development approval process, which can lower housing costs and encourage construction by eliminating lengthy bureaucratic waiting periods. They contend that setting clear timelines creates predictability for developers and businesses, and that allowing third-party reviewers provides accountability when local governments cannot meet deadlines while ensuring qualified professionals still verify code compliance.",
+  "aiConArguments": "Opponents worry that two-business-day timelines are unrealistic for thorough reviews, especially in smaller communities with limited staff, potentially leading to safety issues if plans are inadequately examined. They also express concern that allowing developers to hire private reviewers and automatically waive fees could reduce local government revenue needed for inspections, create conflicts of interest, and shift the cost of ensuring code compliance away from applicants.",
+  "topic": "Local Government",
+  "textLength": 12112,
+  "createdAt": "2026-06-23T02:58:49.053Z",
+  "sponsors": [
+    {"peopleId":22602,"name":"Karl Gillespie","party":"R","isPrimary":true},
+    {"peopleId":22611,"name":"Jeff Zenger","party":"R","isPrimary":true},
+    {"peopleId":14606,"name":"Mark Brody","party":"R","isPrimary":true},
+    {"peopleId":22610,"name":"Matthew Winslow","party":"R","isPrimary":true}
+  ],
+  "rollCalls": []
+}

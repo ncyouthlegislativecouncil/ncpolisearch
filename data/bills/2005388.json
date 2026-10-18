@@ -1,0 +1,26 @@
+{
+  "billId": 2005388,
+  "billNumber": "S279",
+  "title": "Baby Bond Trust Fund",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "3dc0ae5582f5734d6023b039847a739a",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2025-03-13",
+  "url": "https://legiscan.com/NC/bill/S279/2025",
+  "aiSummary": "This bill creates the Baby Bond Program Trust Fund, which provides $2,000 initial deposits into individual savings accounts for infants born in North Carolina to parents earning up to 200% of the federal poverty level. Account holders can access funds at age 18 for education, home purchases, qualified business expenses, or long-term financial investments, with the program administered by a Board of Trustees and funded with $10 million in state appropriations.",
+  "aiProArguments": "Supporters argue this program helps reduce wealth inequality by giving low-income children a financial foundation for future success, similar to inheritance benefits wealthier families receive. The funds can support major life investments like education and homeownership, potentially breaking cycles of poverty. Additionally, supporters contend the program encourages financial literacy and savings habits among families receiving notification about the accounts and contribution options.",
+  "aiConArguments": "Opponents may question whether $2,000 per child significantly impacts long-term financial outcomes or whether the $10 million appropriation represents an effective use of limited state resources compared to other poverty-reduction strategies. Some may also raise concerns about program administration costs, whether means-testing creates implementation challenges, and whether the funds could be better directed to existing anti-poverty programs with proven track records.",
+  "topic": "Social Services & Welfare",
+  "textLength": 19632,
+  "createdAt": "2026-06-23T03:06:21.092Z",
+  "sponsors": [
+    {"peopleId":21633,"name":"Natalie Murdock","party":"D","isPrimary":true},
+    {"peopleId":16251,"name":"Graig Meyer","party":"D","isPrimary":true},
+    {"peopleId":22426,"name":"DeAndrea Salvador","party":"D","isPrimary":true},
+    {"peopleId":17936,"name":"Jay Chaudhuri","party":"D","isPrimary":false},
+    {"peopleId":25858,"name":"Sophia Chitlik","party":"D","isPrimary":false},
+    {"peopleId":20223,"name":"Mujtaba Mohammed","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

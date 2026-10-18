@@ -1,0 +1,21 @@
+{
+  "billId": 2013258,
+  "billNumber": "S461",
+  "title": "Modify Taxation of 1031 Exchanges",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "72f7ba5178c7fe40b1829d03f645a8e8",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-25",
+  "url": "https://legiscan.com/NC/bill/S461/2025",
+  "aiSummary": "This bill modifies how North Carolina taxes 1031 exchanges, which are real estate transactions where investors swap one property for another to defer federal taxes. The bill allows taxpayers to deduct from their North Carolina state income any gains from non-like-kind property (cash or other assets) received in a 1031 exchange, but only up to the amount of their original investment in the property sold.",
+  "aiProArguments": "Supporters argue this bill helps North Carolina real estate investors by providing tax relief at the state level that aligns with federal law. They contend that 1031 exchanges are important tools for business owners and investors to reinvest in property and economic growth, and that this deduction prevents double taxation where the same gain would be taxed by both the federal government and North Carolina.",
+  "aiConArguments": "Opponents may argue this bill reduces state tax revenue that could fund public services like education and infrastructure. They might contend that providing tax breaks for real estate investors benefits a narrow group of wealthy individuals rather than broader taxpayers, or that it creates complexity in tax administration without clear public benefit.",
+  "topic": "Taxes & Budget",
+  "textLength": 1392,
+  "createdAt": "2026-06-23T03:08:03.036Z",
+  "sponsors": [
+    {"peopleId":20216,"name":"Jim Burgin","party":"R","isPrimary":true}
+  ],
+  "rollCalls": []
+}

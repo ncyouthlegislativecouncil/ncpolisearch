@@ -1,0 +1,22 @@
+{
+  "billId": 1971930,
+  "billNumber": "S105",
+  "title": "Continuing Care Retirement Communities Act.-AB",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "241cd9cf19148e0f08a1d9a7de50e65b",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-02-18",
+  "url": "https://legiscan.com/NC/bill/S105/2025",
+  "aiSummary": "This bill enacts a new Continuing Care Retirement Communities Act that creates a licensing and regulatory framework for retirement communities offering long-term housing and healthcare services. The Department of Insurance will oversee providers, require financial disclosures, monitor solvency, and protect resident deposits through escrow accounts.",
+  "aiProArguments": "Supporters argue this bill protects older North Carolinians who invest significant savings in continuing care communities by preventing provider insolvency and ensuring accountability. The legislation establishes clear financial standards, requires actuarial studies, mandates escrow protections for deposits, and creates oversight mechanisms—addressing gaps in current regulation that have left residents vulnerable to facility closures and lost funds.",
+  "aiConArguments": "Opponents may contend the regulatory requirements increase operational costs for providers, potentially raising fees for residents and discouraging new community development. The extensive licensing process, financial reporting obligations, and examination costs could burden smaller operators and reduce market competition, and some may argue the state oversight duplicates existing healthcare facility regulations.",
+  "topic": "Healthcare",
+  "textLength": 58637,
+  "createdAt": "2026-06-23T03:04:57.226Z",
+  "sponsors": [
+    {"peopleId":20222,"name":"Todd Johnson","party":"R","isPrimary":true},
+    {"peopleId":11937,"name":"Ralph Hise","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

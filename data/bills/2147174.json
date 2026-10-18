@@ -1,0 +1,25 @@
+{
+  "billId": 2147174,
+  "billNumber": "H1210",
+  "title": "Firearm & Conflict De-escalation Training Act",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "5d045232b95932bfdb987656952dd630",
+  "lastAction": "Ref To Com On Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2026-05-05",
+  "url": "https://legiscan.com/NC/bill/H1210/2025",
+  "aiSummary": "This bill requires North Carolina public schools to teach firearm safety and conflict de-escalation instruction annually starting in kindergarten, allows parents to opt out of either or both programs, and creates a statewide system for courts to search mental health records during concealed handgun permit applications. It also expands judicial authority to issue involuntary commitment orders and funds a pilot program to pair mental health professionals with law enforcement.",
+  "aiProArguments": "Supporters argue this bill enhances public safety by teaching children how to safely handle found firearms and avoid injury, while de-escalation training helps students manage conflicts peacefully. They contend that requiring mental health record searches for gun permits prevents individuals in crisis from obtaining firearms, and that co-responder programs improve mental health crisis response by pairing trained professionals with police. The opt-out provision respects parental choice in their children's education.",
+  "aiConArguments": "Opponents worry the firearm safety instruction could normalize guns in schools and conflict with some families' values, despite the opt-out option. They raise concerns about privacy and due process regarding automatic mental health record searches for permit applicants, questioning whether past involuntary commitments should permanently restrict gun rights. Some also question whether co-responder programs adequately address root causes of mental health crises or if funding should prioritize mental health services over enforcement partnerships.",
+  "topic": "Education",
+  "textLength": 14222,
+  "createdAt": "2026-06-23T03:03:30.611Z",
+  "sponsors": [
+    {"peopleId":24200,"name":"Laura Budd","party":"D","isPrimary":true},
+    {"peopleId":25213,"name":"Tracy Clark","party":"D","isPrimary":false},
+    {"peopleId":25844,"name":"Julia Greenfield","party":"D","isPrimary":false},
+    {"peopleId":2077,"name":"Mary Harrison","party":"D","isPrimary":false},
+    {"peopleId":25850,"name":"Jordan Lopez","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

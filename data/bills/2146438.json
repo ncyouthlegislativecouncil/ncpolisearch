@@ -1,0 +1,22 @@
+{
+  "billId": 2146438,
+  "billNumber": "S919",
+  "title": "Funds for Smart Start of Forsyth County",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "8b648d5a8f36d0909a962d5dd5517a60",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2026-04-30",
+  "url": "https://legiscan.com/NC/bill/S919/2025",
+  "aiSummary": "This bill appropriates $250,000 in nonrecurring state funds to Smart Start of Forsyth County for the 2026-2027 fiscal year to expand early childhood education and family support services in Forsyth County.",
+  "aiProArguments": "Supporters argue this funding strengthens early childhood development programs and family support services in Forsyth County, which research shows improve child outcomes and school readiness. The money helps expand access to quality early education for families who might otherwise lack affordable options, benefiting both children and working families in the county.",
+  "aiConArguments": "Opponents may argue that nonrecurring funds create programs that cannot be sustained long-term once the appropriation ends, potentially leaving services stranded. Some may question whether targeted local funding is the most efficient use of state resources compared to statewide programs, or whether the amount is sufficient to create meaningful expansion.",
+  "topic": "Education",
+  "textLength": 850,
+  "createdAt": "2026-06-23T03:11:52.874Z",
+  "sponsors": [
+    {"peopleId":17457,"name":"Paul Lowe","party":"D","isPrimary":true},
+    {"peopleId":20223,"name":"Mujtaba Mohammed","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

@@ -1,0 +1,27 @@
+{
+  "billId": 2013982,
+  "billNumber": "S511",
+  "title": "Informational Literacy in Schools",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "af9eda096d1ffa82f4a205fbb2f0bd73",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-26",
+  "url": "https://legiscan.com/NC/bill/S511/2025",
+  "aiSummary": "This bill requires North Carolina public schools to teach informational literacy—skills for finding, evaluating, and using information effectively—from kindergarten through grade 12. The State Board of Education must develop age-appropriate standards covering topics like research methods, distinguishing facts from opinions, and evaluating sources, with implementation beginning in the 2025-2026 school year.",
+  "aiProArguments": "Supporters argue that informational literacy is essential for students to navigate an increasingly complex information landscape filled with misinformation and digital media. They contend the skills taught—critical thinking, source evaluation, and understanding how information is created—prepare students to be informed citizens and responsible consumers of news and online content. Additionally, advocates note that librarians and media specialists should be involved in curriculum development, leveraging their expertise.",
+  "aiConArguments": "Opponents may argue that adding new mandatory instruction could strain already-full school curricula and require additional teacher training or resources without corresponding funding increases. Some may question whether these standards are too vague or could be interpreted differently across districts, and others might express concerns about how subjective topics like distinguishing opinion from fact are taught, particularly regarding politically sensitive or controversial information.",
+  "topic": "Education",
+  "textLength": 3013,
+  "createdAt": "2026-06-23T03:08:29.062Z",
+  "sponsors": [
+    {"peopleId":21633,"name":"Natalie Murdock","party":"D","isPrimary":true},
+    {"peopleId":22426,"name":"DeAndrea Salvador","party":"D","isPrimary":true},
+    {"peopleId":25860,"name":"Woodson Bradley","party":"D","isPrimary":false},
+    {"peopleId":24222,"name":"Lisa Grafstein","party":"D","isPrimary":false},
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":false},
+    {"peopleId":25859,"name":"Caleb Theodros","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

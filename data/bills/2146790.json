@@ -1,0 +1,23 @@
+{
+  "billId": 2146790,
+  "billNumber": "S976",
+  "title": "Reduce Healthcare Costs & Protect Patients",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "b0be6f79c7f65872b18b3c51eba05aa7",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2026-05-05",
+  "url": "https://legiscan.com/NC/bill/S976/2025",
+  "aiSummary": "This bill aims to reduce healthcare costs and protect patients through four main changes: capping annual prescription drug cost-sharing at $2,000 per person, preventing surprise bills when using in-network facilities, requiring hospitals to publish pricing information for common procedures, and establishing protections against medical debt including limits on collections practices and good-faith price estimates for scheduled procedures.",
+  "aiProArguments": "Supporters argue this bill addresses North Carolina's high healthcare costs by increasing price transparency, allowing patients to comparison shop and make informed decisions. The bill protects patients from surprise medical bills and debt collection practices while capping prescription drug expenses, which they say will reduce financial hardship for families and help employers control healthcare costs. Proponents contend these measures align with federal efforts to increase healthcare transparency and fairness.",
+  "aiConArguments": "Opponents may argue the bill could increase insurance premiums or reduce coverage options as insurers pass costs along to consumers. Some may contend that price regulation and transparency mandates create administrative burdens on hospitals and facilities, potentially requiring significant new staffing and systems. Critics might also question whether the $2,000 prescription drug cap and 5% price estimate limits are sustainable for providers or whether they adequately address underlying cost drivers in the healthcare system.",
+  "topic": "Healthcare",
+  "textLength": 20811,
+  "createdAt": "2026-06-23T03:12:19.589Z",
+  "sponsors": [
+    {"peopleId":24222,"name":"Lisa Grafstein","party":"D","isPrimary":true},
+    {"peopleId":21633,"name":"Natalie Murdock","party":"D","isPrimary":false},
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

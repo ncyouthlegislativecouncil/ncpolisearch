@@ -1,0 +1,21 @@
+{
+  "billId": 2146375,
+  "billNumber": "S928",
+  "title": "Funds for Goodwill Industries",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "fd762d34afc6f30e9d9bbe511f8cc318",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2026-04-30",
+  "url": "https://legiscan.com/NC/bill/S928/2025",
+  "aiSummary": "This bill appropriates $200,000 in state funds to Goodwill Industries for workforce development and job training programs in Forsyth County during the 2026-2027 fiscal year. The funding is nonrecurring, meaning it is a one-time allocation rather than ongoing.",
+  "aiProArguments": "Supporters argue this investment helps Goodwill Industries expand job training and workforce development services, which can help unemployed and underemployed individuals gain skills and employment in Forsyth County. Goodwill programs traditionally serve vulnerable populations including people with disabilities, individuals facing barriers to employment, and those seeking career transitions, so this funding could increase access to these services.",
+  "aiConArguments": "Opponents may question whether directing state general fund dollars to a private nonprofit organization is the best use of limited public resources, or argue that ongoing workforce needs should be addressed through sustainable, recurring funding rather than one-time grants. Some may also ask why this funding is directed specifically to Forsyth County and whether similar needs exist in other parts of North Carolina.",
+  "topic": "Business & Labor",
+  "textLength": 778,
+  "createdAt": "2026-06-23T03:11:57.207Z",
+  "sponsors": [
+    {"peopleId":17457,"name":"Paul Lowe","party":"D","isPrimary":true}
+  ],
+  "rollCalls": []
+}

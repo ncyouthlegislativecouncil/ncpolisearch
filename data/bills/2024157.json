@@ -1,0 +1,22 @@
+{
+  "billId": 2024157,
+  "billNumber": "H1008",
+  "title": "Stalking/Enhanced Penalties",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "d88acd136431824ac4040a0ce2c38d45",
+  "lastAction": "Ref To Com On Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-04-16",
+  "url": "https://legiscan.com/NC/bill/H1008/2025",
+  "aiSummary": "This bill increases criminal penalties for sexual battery and stalking when the perpetrator is a local government elected official and the victim is a fellow board member or subordinate employee. Sexual battery in these circumstances would be elevated from a Class A1 misdemeanor to a Class H felony, and stalking would be elevated to a Class H felony under these specific conditions.",
+  "aiProArguments": "Supporters argue that elected officials have positions of power and trust that they can abuse, making enhanced penalties necessary to protect vulnerable board members and employees from harassment. They contend that stronger consequences deter abuse of authority and send a clear message that misconduct by public officials will face serious consequences. Advocates view this as protecting the integrity of local government and ensuring safe workplaces for public servants.",
+  "aiConArguments": "Opponents may argue that the bill creates different penalty standards for the same conduct based on the defendant's employment status, raising questions about equal protection under the law. They might express concern that felony charges for stalking or sexual battery only in government contexts could be seen as targeting a specific class of people rather than addressing the underlying offenses uniformly. Some may also question whether existing penalties are already adequate without additional enhancements.",
+  "topic": "Criminal Justice & Public Safety",
+  "textLength": 6304,
+  "createdAt": "2026-06-23T03:00:18.899Z",
+  "sponsors": [
+    {"peopleId":22599,"name":"Amber Baker","party":"D","isPrimary":true},
+    {"peopleId":20522,"name":"Nasif Majeed","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

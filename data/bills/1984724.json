@@ -1,0 +1,22 @@
+{
+  "billId": 1984724,
+  "billNumber": "H232",
+  "title": "Funds/Short-Line Railroad Disaster Assistance",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "e3bdeb6b30fc856ee9e1f9c0570650d3",
+  "lastAction": "Ref to the Com on Appropriations, if favorable, Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-02-27",
+  "url": "https://legiscan.com/NC/bill/H232/2025",
+  "aiSummary": "This bill appropriates $16.39 million in state emergency funds to repair short-line railroads damaged by Hurricane Helene. The money comes from the State Emergency Response and Disaster Relief Reserve and will be distributed through the Department of Transportation's Rail Division, with $14 million going to Blue Ridge Southern Railroad for line restoration and $2.39 million going to Great Smoky Mountains Railroad for track repair, facility fixes, and revenue recovery.",
+  "aiProArguments": "Supporters argue that short-line railroads are critical infrastructure that serve rural communities and the tourism economy, particularly in western North Carolina. They contend that Hurricane Helene caused significant damage to these railroads, and state disaster relief funds are appropriately used to help these businesses recover, restore service to affected communities, and protect jobs in the rail industry.",
+  "aiConArguments": "Opponents may question whether directing disaster relief funds to specific private railroad companies is the best use of limited state resources, or argue that private businesses should secure their own insurance and recovery funding. Some may also raise concerns about whether this sets a precedent for similar requests from other hurricane-damaged businesses, or question whether these particular railroads were the most critical infrastructure needing repair assistance.",
+  "topic": "Taxes & Budget",
+  "textLength": 1784,
+  "createdAt": "2026-06-23T02:45:34.781Z",
+  "sponsors": [
+    {"peopleId":22617,"name":"Mark Pless","party":"R","isPrimary":true},
+    {"peopleId":18453,"name":"Mike Clampitt","party":"R","isPrimary":true}
+  ],
+  "rollCalls": []
+}

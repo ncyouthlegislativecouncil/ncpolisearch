@@ -1,0 +1,25 @@
+{
+  "billId": 2022226,
+  "billNumber": "H878",
+  "title": "Increased Academic Transparency",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "e49f7d4a3090bfecff430a70cdb8c2fa",
+  "lastAction": "Ref to the Com on Education - K-12, if favorable, Judiciary 2, if favorable, Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-04-10",
+  "url": "https://legiscan.com/NC/bill/H878/2025",
+  "aiSummary": "This bill requires North Carolina public schools to post lesson plans and course materials online within 10 days of instruction, organized by subject and grade level. Schools must list all instructional and supplemental materials used, provide links where available, and offer procedures for in-person review of materials not available online, with some exemptions for very small schools.",
+  "aiProArguments": "Supporters argue this increases accountability and transparency in public education, allowing parents and community members to understand what is being taught and review instructional materials. They contend this empowers families to be more involved in their children's education and ensures schools are using appropriate, curriculum-aligned materials in the classroom.",
+  "aiConArguments": "Opponents worry this creates significant administrative burden and costs for schools to compile and post extensive materials within tight timelines. They also argue it may expose teachers to harassment based on curriculum choices, could discourage use of innovative materials due to public scrutiny concerns, and that it invades professional judgment about instructional methods without improving educational outcomes.",
+  "topic": "Education",
+  "textLength": 9026,
+  "createdAt": "2026-06-23T02:58:50.425Z",
+  "sponsors": [
+    {"peopleId":21377,"name":"Jake Johnson","party":"R","isPrimary":true},
+    {"peopleId":2031,"name":"Hugh Blackwell","party":"R","isPrimary":true},
+    {"peopleId":25852,"name":"Wyatt Gable","party":"R","isPrimary":true},
+    {"peopleId":22609,"name":"David Willis","party":"R","isPrimary":true},
+    {"peopleId":24219,"name":"Bill Ward","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

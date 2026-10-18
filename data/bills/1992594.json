@@ -1,0 +1,26 @@
+{
+  "billId": 1992594,
+  "billNumber": "S246",
+  "title": "Create 13,000 Jobs Serving People With I/DD",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "c6752c391008feaa786c541c539a5b6d",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2025-03-06",
+  "url": "https://legiscan.com/NC/bill/S246/2025",
+  "aiSummary": "This bill appropriates $134 million in state funds for fiscal year 2025-2026 and $357.3 million for 2026-2027 to add 10,000 new slots to North Carolina's Medicaid Innovations Waiver program, which serves people with intellectual and developmental disabilities. The new slots would be distributed to local managed care organizations based on existing formulas, prioritizing people who have waited longest on the current 19,000-person waiting list, with a requirement that direct care workers be paid at least $20 per hour.",
+  "aiProArguments": "Supporters argue this addresses a critical unmet need: approximately 19,000 North Carolinians with intellectual and developmental disabilities are waiting for services, some for over a decade. They contend the bill generates economic benefits—federal funds match state dollars at a 2-to-1 ratio, and UNC-Greensboro research cited in the bill indicates each waiver slot creates approximately 1.3 jobs and generates $5 in local economic activity for every state dollar spent. The bill also enables family caregivers to return to work, benefiting both individuals and their communities.",
+  "aiConArguments": "Opponents may argue that the state is making a long-term recurring fiscal commitment of over $491 million across two years that will continue beyond the biennium, which could constrain future budgets during economic downturns. They might question whether the $20-per-hour minimum wage requirement for direct care workers is sufficient or sustainable for providers, and whether the state can adequately monitor quality of care as the program expands significantly. Some may also be concerned about whether local capacity exists to implement 10,000 new slots effectively across all regions of the state.",
+  "topic": "Social Services & Welfare",
+  "textLength": 6615,
+  "createdAt": "2026-06-23T03:06:06.131Z",
+  "sponsors": [
+    {"peopleId":24222,"name":"Lisa Grafstein","party":"D","isPrimary":true},
+    {"peopleId":11858,"name":"Timothy Moffitt","party":"R","isPrimary":true},
+    {"peopleId":17147,"name":"Gale Adcock","party":"D","isPrimary":false},
+    {"peopleId":24220,"name":"Val Applewhite","party":"D","isPrimary":false},
+    {"peopleId":25858,"name":"Sophia Chitlik","party":"D","isPrimary":false},
+    {"peopleId":22425,"name":"Julie Mayfield","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

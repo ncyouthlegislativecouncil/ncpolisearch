@@ -1,0 +1,21 @@
+{
+  "billId": 1978914,
+  "billNumber": "S127",
+  "title": "Lower Taxes for Scotland County",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "513ee861844eca59e1065a98f57126ac",
+  "lastAction": "Re-ref Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-20",
+  "url": "https://legiscan.com/NC/bill/S127/2025",
+  "aiSummary": "This bill modifies Scotland County's school funding rules by eliminating a mandatory minimum funding requirement for fiscal year 2025-2026. Instead of being required to fund schools at the state average per-student level, the Scotland County Board of Commissioners gains discretion to determine school funding amounts based on various factors. After 2025-2026, standard state budget procedures will apply again.",
+  "aiProArguments": "Supporters argue this gives Scotland County greater local control and flexibility to manage its budget according to local priorities and fiscal constraints. They contend that county commissioners are better positioned to balance school funding with other county needs and that the discretionary approach recognizes the county's specific financial situation without being bound by a state-level average metric.",
+  "aiConArguments": "Opponents contend that removing the funding floor could reduce school resources at a time when education funding is critical. They argue the mandatory minimum ensures Scotland County students receive equitable funding comparable to state averages and that local discretion could lead to inconsistent or inadequate school budgets that disadvantage students. Critics also note the provision prevents either board from challenging funding decisions legally.",
+  "topic": "Taxes & Budget",
+  "textLength": 31828,
+  "createdAt": "2026-06-23T03:05:09.001Z",
+  "sponsors": [
+    {"peopleId":18465,"name":"Danny Britt","party":"R","isPrimary":true}
+  ],
+  "rollCalls": []
+}

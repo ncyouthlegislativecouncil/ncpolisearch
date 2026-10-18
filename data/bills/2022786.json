@@ -1,0 +1,31 @@
+{
+  "billId": 2022786,
+  "billNumber": "H984",
+  "title": "Regulate Research of Medical Cannabis",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "b91b197ce4a26c3cc1c6d3f3a977fd60",
+  "lastAction": "Ref To Com On Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-04-14",
+  "url": "https://legiscan.com/NC/bill/H984/2025",
+  "aiSummary": "This bill creates a regulated research program allowing patients to legally possess and use cannabis as part of registered medical research studies in North Carolina. It establishes a database to track research institutions, physicians, caregivers, and patients, and provides legal protections for researchers and participants.",
+  "aiProArguments": "Supporters argue this bill enables scientific study of cannabis's medical benefits in a controlled setting, which could advance treatment options for patients with various medical conditions. They contend the registration database ensures safety and accountability while protecting researchers and caregivers from prosecution, potentially attracting quality research institutions and allowing physicians to participate in objective clinical research.",
+  "aiConArguments": "Opponents may worry that this could be a gateway to broader cannabis legalization or that it creates regulatory gaps by allowing cannabis imported from other jurisdictions without clear quality controls. They may also raise concerns about whether research safeguards are sufficient, law enforcement coordination challenges, or whether the program could undermine existing drug policies before the long-term effects are fully understood.",
+  "topic": "Healthcare",
+  "textLength": 8980,
+  "createdAt": "2026-06-23T03:00:03.087Z",
+  "sponsors": [
+    {"peopleId":18451,"name":"Mary Belk","party":"D","isPrimary":true},
+    {"peopleId":16252,"name":"Robert Reives","party":"D","isPrimary":true},
+    {"peopleId":24202,"name":"Maria Cervania","party":"D","isPrimary":true},
+    {"peopleId":25844,"name":"Julia Greenfield","party":"D","isPrimary":true},
+    {"peopleId":18449,"name":"Cynthia Ball","party":"D","isPrimary":false},
+    {"peopleId":19238,"name":"Deb Butler","party":"D","isPrimary":false},
+    {"peopleId":25846,"name":"Mike Colvin","party":"D","isPrimary":false},
+    {"peopleId":2077,"name":"Mary Harrison","party":"D","isPrimary":false},
+    {"peopleId":24206,"name":"Frances Jackson","party":"D","isPrimary":false},
+    {"peopleId":19360,"name":"Marcia Morey","party":"D","isPrimary":false},
+    {"peopleId":26396,"name":"Phil Rubin","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

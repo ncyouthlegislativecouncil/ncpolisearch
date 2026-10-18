@@ -1,0 +1,30 @@
+{
+  "billId": 2022614,
+  "billNumber": "H895",
+  "title": "Emergency Citizen Pilot Training Program",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "5e3009c61f6c3a1e6871d317d5267b8d",
+  "lastAction": "Ref to the Com on Emergency Management and Disaster Recovery, if favorable, Finance, if favorable, Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-04-14",
+  "url": "https://legiscan.com/NC/bill/H895/2025",
+  "aiSummary": "This bill establishes the Emergency Citizen Pilot Training Program within North Carolina's Division of Emergency Management to train and certify private pilots to assist with disaster response and recovery operations. The program will set standards, maintain a registry of certified pilots, require continuing training, and provide job protection for certified pilots called to emergency service.",
+  "aiProArguments": "Supporters argue this program leverages private aviation resources to enhance disaster response capabilities, filling gaps in emergency operations when state and federal resources are stretched thin. The bill protects volunteer pilots from losing their jobs or vacation time when called to assist, and the training ensures coordinated, safe airspace use during emergencies—preventing interference with official response efforts.",
+  "aiConArguments": "Opponents may be concerned about the costs of establishing and maintaining the program, potential liability issues if private pilots cause accidents during emergency operations, and questions about whether this duplicates existing Civil Air Patrol functions. There may also be concerns about oversight, safety standards enforcement, and whether volunteers have adequate training compared to professional emergency responders.",
+  "topic": "Criminal Justice & Public Safety",
+  "textLength": 8696,
+  "createdAt": "2026-06-23T02:59:03.929Z",
+  "sponsors": [
+    {"peopleId":22610,"name":"Matthew Winslow","party":"R","isPrimary":true},
+    {"peopleId":24196,"name":"Jennifer Balkcom","party":"R","isPrimary":true},
+    {"peopleId":14604,"name":"John Bell","party":"R","isPrimary":true},
+    {"peopleId":22602,"name":"Karl Gillespie","party":"R","isPrimary":true},
+    {"peopleId":19238,"name":"Deb Butler","party":"D","isPrimary":false},
+    {"peopleId":11848,"name":"James Dixon","party":"R","isPrimary":false},
+    {"peopleId":2077,"name":"Mary Harrison","party":"D","isPrimary":false},
+    {"peopleId":18464,"name":"Larry Strickland","party":"R","isPrimary":false},
+    {"peopleId":24219,"name":"Bill Ward","party":"R","isPrimary":false},
+    {"peopleId":18495,"name":"Donna White","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

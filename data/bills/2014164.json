@@ -1,0 +1,24 @@
+{
+  "billId": 2014164,
+  "billNumber": "S670",
+  "title": "Drones/Certain Vendor Purchases Prohibited",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "f17c2948576251918c43ae9a8a722a1b",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-26",
+  "url": "https://legiscan.com/NC/bill/S670/2025",
+  "aiSummary": "This bill prohibits North Carolina state government and local governments from purchasing small unmanned aircraft systems (drones weighing under 55 pounds) that are manufactured or assembled by certain foreign entities, specifically those from China or Russia, those on U.S. screening lists, or those controlled by those governments. The ban takes effect July 1, 2027.",
+  "aiProArguments": "Supporters argue this bill protects national security by preventing potential surveillance or data collection through drones made by adversarial nations. They contend that Chinese and Russian-manufactured drones could contain vulnerabilities or backdoors that compromise sensitive government operations, and that purchasing from these sources supports economies of countries with interests contrary to U.S. security.",
+  "aiConArguments": "Opponents may argue the bill limits procurement flexibility and could increase costs by restricting government purchases to fewer, potentially more expensive domestic or allied vendors. Some may contend the security risks are overstated for small commercial drones used in routine government operations, and that the bill's broad definitions could inadvertently capture products without direct foreign government involvement.",
+  "topic": "Technology & Privacy",
+  "textLength": 2333,
+  "createdAt": "2026-06-23T03:09:51.931Z",
+  "sponsors": [
+    {"peopleId":24224,"name":"Buck Newton","party":"R","isPrimary":true},
+    {"peopleId":25212,"name":"Bob Brinson","party":"R","isPrimary":true},
+    {"peopleId":12033,"name":"Warren Daniel","party":"R","isPrimary":true},
+    {"peopleId":11858,"name":"Timothy Moffitt","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

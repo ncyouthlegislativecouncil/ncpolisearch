@@ -1,0 +1,30 @@
+{
+  "billId": 2014461,
+  "billNumber": "S744",
+  "title": "Voucher School Accountability Act",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "011c9a8dba8c0c8736e50e1b500f73c3",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-26",
+  "url": "https://legiscan.com/NC/bill/S744/2025",
+  "aiSummary": "This bill increases accountability requirements for private schools that accept North Carolina's Opportunity Scholarship grants. It requires these schools to comply with state academic standards, administer standardized tests, undergo financial audits, limit tuition increases to 5% annually, maintain racial/ethnic diversity, and report detailed performance data to the state. The bill also modifies scholarship funding levels for fiscal years 2025-2032.",
+  "aiProArguments": "Supporters argue this bill ensures taxpayer money spent on scholarships is used responsibly and that private schools meet quality standards comparable to public schools. The increased transparency through testing, audits, and performance reporting allows families and lawmakers to evaluate whether scholarship students are receiving quality education. Supporters also contend that requirements like racial/ethnic composition reporting and anti-discrimination rules promote equity and prevent scholarship programs from enabling segregation.",
+  "aiConArguments": "Opponents contend that extensive regulatory requirements burden private schools and reduce their operational flexibility, potentially making them less willing to accept scholarship students. They argue that additional oversight costs (audits, compliance, testing) reduce funds available for actual education. Some also view requirements like racial/ethnic composition mandates as government overreach into private school autonomy and argue that accountability measures appropriate for government-funded public schools may be excessive for private institutions.",
+  "topic": "Education",
+  "textLength": 22627,
+  "createdAt": "2026-06-23T03:10:28.818Z",
+  "sponsors": [
+    {"peopleId":16251,"name":"Graig Meyer","party":"D","isPrimary":true},
+    {"peopleId":17936,"name":"Jay Chaudhuri","party":"D","isPrimary":true},
+    {"peopleId":24220,"name":"Val Applewhite","party":"D","isPrimary":false},
+    {"peopleId":2033,"name":"Daniel Blue","party":"D","isPrimary":false},
+    {"peopleId":25860,"name":"Woodson Bradley","party":"D","isPrimary":false},
+    {"peopleId":25858,"name":"Sophia Chitlik","party":"D","isPrimary":false},
+    {"peopleId":20220,"name":"Michael Garrett","party":"D","isPrimary":false},
+    {"peopleId":22425,"name":"Julie Mayfield","party":"D","isPrimary":false},
+    {"peopleId":21633,"name":"Natalie Murdock","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

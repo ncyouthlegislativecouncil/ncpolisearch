@@ -1,0 +1,21 @@
+{
+  "billId": 2019532,
+  "billNumber": "H770",
+  "title": "Est. Procedure/Complex Family Financial Cases",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "7f94ece0612c3e0300089db5da2dfa23",
+  "lastAction": "Ref to the Com on Judiciary 2, if favorable, Appropriations, if favorable, Finance, if favorable, Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-04-07",
+  "url": "https://legiscan.com/NC/bill/H770/2025",
+  "aiSummary": "This bill establishes a new system for handling complex family financial cases in North Carolina by creating specialized hearing officers appointed by the Chief Justice. These hearing officers would handle cases involving equitable distribution, alimony, post-separation support, and child support that meet complexity criteria such as business valuations, trust issues, or significant asset complications. The bill sets qualifications for hearing officers, establishes a process for designating cases as complex, and adds a $1,100 filing fee split equally among parties.",
+  "aiProArguments": "Supporters argue this system would provide specialized expertise for complicated divorce and family financial matters, potentially reducing court delays and improving case outcomes. Dedicated hearing officers with specific family law experience could more efficiently handle cases involving business valuations, tax issues, and complex assets. The requirement for reporting data on case outcomes would help assess program effectiveness and improvements.",
+  "aiConArguments": "Opponents may argue the $1,100 additional filing fee creates barriers to justice for lower-income families, potentially preventing access to the specialized process. Concerns exist about whether three hearing officers statewide could handle caseload demands, potentially creating delays. Some may question whether creating a parallel system adds administrative complexity rather than improving efficiency, and whether regular judges can adequately handle non-designated cases.",
+  "topic": "Local Government",
+  "textLength": 29474,
+  "createdAt": "2026-06-23T02:57:27.134Z",
+  "sponsors": [
+    {"peopleId":2127,"name":"Sarah Stevens","party":"R","isPrimary":true}
+  ],
+  "rollCalls": []
+}

@@ -1,0 +1,23 @@
+{
+  "billId": 2014397,
+  "billNumber": "S741",
+  "title": "Funds for Charlotte-Mecklenburg Library",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "854431e5c8cb2b73cfee304e1cdf5ab2",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2025-03-26",
+  "url": "https://legiscan.com/NC/bill/S741/2025",
+  "aiSummary": "This bill appropriates $5 million in state funds to the Charlotte Mecklenburg Library Foundation for construction of a new main library building. The funds are one-time nonrecurring appropriations that become available starting July 1, 2025.",
+  "aiProArguments": "Supporters argue this investment improves public library infrastructure in a major North Carolina city, enhancing access to educational resources, digital services, and community spaces for Charlotte-Mecklenburg residents. They contend that a new main library facility would serve as an economic and cultural asset that benefits both the local community and the region.",
+  "aiConArguments": "Opponents may question whether state funds should support a single local library project when other statewide needs exist, or argue that local governments and private fundraising should bear primary responsibility for such facilities. They might also express concern about the use of nonrecurring funds for ongoing infrastructure that requires long-term maintenance costs.",
+  "topic": "Taxes & Budget",
+  "textLength": 871,
+  "createdAt": "2026-06-23T03:10:27.676Z",
+  "sponsors": [
+    {"peopleId":20223,"name":"Mujtaba Mohammed","party":"D","isPrimary":true},
+    {"peopleId":22426,"name":"DeAndrea Salvador","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

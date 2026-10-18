@@ -1,0 +1,26 @@
+{
+  "billId": 1986637,
+  "billNumber": "S200",
+  "title": "Housing Support for Hurricane Impacted Areas",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "072c2e8c9823d1873f4161f826d8ec36",
+  "lastAction": "Ref To Com On Appropriations/Base Budget",
+  "lastActionDate": "2025-03-03",
+  "url": "https://legiscan.com/NC/bill/S200/2025",
+  "aiSummary": "This bill appropriates $150 million in state funds to the North Carolina Housing Trust Fund for the 2025-2026 fiscal year to help residents in counties affected by Hurricane Helene rebuild and repair their homes. The money will be distributed according to existing state housing trust fund rules in federally-declared disaster areas.",
+  "aiProArguments": "Supporters argue this funding provides critical assistance to North Carolinians who lost homes or suffered significant damage from Hurricane Helene, helping them rebuild and stabilize their housing situations. They contend that state investment in housing recovery complements federal disaster relief and helps ensure vulnerable populations—including low-income families—can afford to stay in or return to their communities.",
+  "aiConArguments": "Opponents may argue about the size of the appropriation and whether $150 million is the most efficient use of state General Fund dollars, particularly if other priorities are underfunded. Some may question whether this one-time funding is sufficient for long-term recovery or whether ongoing commitments should be clarified, and they might prefer directing recovery efforts primarily through federal disaster programs rather than state funds.",
+  "topic": "Housing",
+  "textLength": 1077,
+  "createdAt": "2026-06-23T03:05:45.122Z",
+  "sponsors": [
+    {"peopleId":12033,"name":"Warren Daniel","party":"R","isPrimary":true},
+    {"peopleId":11858,"name":"Timothy Moffitt","party":"R","isPrimary":true},
+    {"peopleId":22425,"name":"Julie Mayfield","party":"D","isPrimary":true},
+    {"peopleId":17147,"name":"Gale Adcock","party":"D","isPrimary":false},
+    {"peopleId":24220,"name":"Val Applewhite","party":"D","isPrimary":false},
+    {"peopleId":25859,"name":"Caleb Theodros","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

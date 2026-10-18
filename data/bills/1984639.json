@@ -1,0 +1,25 @@
+{
+  "billId": 1984639,
+  "billNumber": "H235",
+  "title": "Fraudulent Deeds",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "8b6021bc0d912c0b6fdc4bbec3e5311e",
+  "lastAction": "Ref to the Com on Judiciary 2, if favorable, Housing and Development, if favorable, Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-02-27",
+  "url": "https://legiscan.com/NC/bill/H235/2025",
+  "aiSummary": "This bill creates criminal penalties for filing fraudulent property deeds, establishes a court process for property owners to remove fraudulent recordings from public records, and allows county commissioners to require tax certification before deeds are recorded.",
+  "aiProArguments": "Supporters argue this bill protects homeowners from deed fraud, which is a growing crime where criminals file false documents claiming ownership of someone else's property. The bill provides victims a faster civil court process to remove fraudulent recordings and mark them in the public record, while also increasing criminal penalties to deter fraud. It also gives counties tools to prevent tax evasion by requiring proof that property taxes are current before deed transfers are recorded.",
+  "aiConArguments": "Opponents may be concerned that the ex parte (one-sided) court process for emergency relief could potentially allow property owners to remove legitimate recordings without the other party present, though the bill does require a full hearing within 10 days where both sides can be heard. Some may also worry that tax certification requirements could slow down legitimate real estate transactions or create burdens for closing attorneys and registers of deeds.",
+  "topic": "Criminal Justice & Public Safety",
+  "textLength": 9437,
+  "createdAt": "2026-06-23T02:45:37.159Z",
+  "sponsors": [
+    {"peopleId":11866,"name":"John Torbett","party":"R","isPrimary":true},
+    {"peopleId":2034,"name":"John Blust","party":"R","isPrimary":false},
+    {"peopleId":24209,"name":"Ya Liu","party":"D","isPrimary":false},
+    {"peopleId":20521,"name":"Carolyn Logan","party":"D","isPrimary":false},
+    {"peopleId":18495,"name":"Donna White","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

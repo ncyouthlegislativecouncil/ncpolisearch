@@ -1,0 +1,21 @@
+{
+  "billId": 2014400,
+  "billNumber": "S669",
+  "title": "Physical Therapy Practice Act Mods",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "bb998b4b03c47a56bf57a213a6ba49cc",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-26",
+  "url": "https://legiscan.com/NC/bill/S669/2025",
+  "aiSummary": "This bill modernizes North Carolina's physical therapy licensing laws by updating educational accreditation standards, clarifying board composition and disciplinary procedures, adjusting renewal timelines, and refining definitions of physical therapy practice and unlicensed violations.",
+  "aiProArguments": "Supporters argue these changes improve regulatory clarity and public protection by updating outdated accreditation references to current national standards, strengthening the board's ability to investigate and discipline practitioners for unprofessional conduct, and establishing clearer procedures for foreign-trained therapists. The bill also allows the board to charge investigation costs to disciplined practitioners and creates mechanisms for assessing continuing competence.",
+  "aiConArguments": "Opponents may be concerned that expanded disciplinary authority and investigation powers could increase regulatory burden on practitioners, that changing renewal deadlines from January to November-January creates administrative confusion, and that allowing cost-shifting for investigations could disproportionately impact practitioners facing allegations. Some may also question whether the board's increased authority requires more specific legislative oversight.",
+  "topic": "Healthcare",
+  "textLength": 24354,
+  "createdAt": "2026-06-23T03:09:51.145Z",
+  "sponsors": [
+    {"peopleId":24225,"name":"Benton Sawrey","party":"R","isPrimary":true}
+  ],
+  "rollCalls": []
+}

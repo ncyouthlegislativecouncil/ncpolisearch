@@ -1,0 +1,30 @@
+{
+  "billId": 1981586,
+  "billNumber": "S154",
+  "title": "NC CROWN Act",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "66a90566760f9a4f09ab27712148951d",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-02-25",
+  "url": "https://legiscan.com/NC/bill/S154/2025",
+  "aiSummary": "The NC CROWN Act prohibits employers in North Carolina from discriminating against employees or job applicants based on natural hairstyles and hair characteristics associated with race, such as braids, locks, twists, and bantu knots. The bill expands the definition of race-based discrimination to explicitly include hair texture, hair type, and protective hairstyles as protected characteristics under state employment law.",
+  "aiProArguments": "Supporters argue this bill protects workers from unfair treatment based on natural hair choices, which disproportionately affects Black employees and those of African descent. They contend that hair discrimination in hiring and workplace policies is a form of racial discrimination that should be illegal, and that the bill ensures equal employment opportunities while allowing employees to maintain their natural hair without fear of job loss or denial of employment.",
+  "aiConArguments": "Opponents may argue that employers should retain discretion in setting professional appearance standards and workplace dress codes. Some contend that the bill could create ambiguity about what constitutes a protected hairstyle versus a dress code violation, potentially leading to litigation, and that existing discrimination laws already provide adequate protections without needing to specifically enumerate hairstyle protections.",
+  "topic": "Business & Labor",
+  "textLength": 3002,
+  "createdAt": "2026-06-23T03:05:23.054Z",
+  "sponsors": [
+    {"peopleId":21633,"name":"Natalie Murdock","party":"D","isPrimary":true},
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":true},
+    {"peopleId":22426,"name":"DeAndrea Salvador","party":"D","isPrimary":true},
+    {"peopleId":24220,"name":"Val Applewhite","party":"D","isPrimary":false},
+    {"peopleId":25858,"name":"Sophia Chitlik","party":"D","isPrimary":false},
+    {"peopleId":20220,"name":"Michael Garrett","party":"D","isPrimary":false},
+    {"peopleId":24222,"name":"Lisa Grafstein","party":"D","isPrimary":false},
+    {"peopleId":17457,"name":"Paul Lowe","party":"D","isPrimary":false},
+    {"peopleId":20223,"name":"Mujtaba Mohammed","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

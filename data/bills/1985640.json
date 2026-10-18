@@ -1,0 +1,27 @@
+{
+  "billId": 1985640,
+  "billNumber": "H243",
+  "title": "Durham/Electronic Notices for Public Hearings",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "ddcb2782889b36c6218c6a00e3ade349",
+  "lastAction": "Ref To Com On Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-03-03",
+  "url": "https://legiscan.com/NC/bill/H243/2025",
+  "aiSummary": "This bill allows the City of Durham and Durham County to send public hearing notices through electronic means, such as websites, instead of only using traditional methods. The bill specifies that electronic notices cannot replace required mailed notices to specific groups or property sign postings, and publication schedules remain unchanged.",
+  "aiProArguments": "Supporters argue this bill modernizes government communication by using digital channels that many residents already check regularly, making it easier for people to stay informed about public hearings. Proponents contend it reduces printing and mailing costs for local government while still maintaining required notices to specific populations and property owners.",
+  "aiConArguments": "Opponents may worry that relying on electronic notices could exclude residents without internet access or those who don't regularly visit government websites, potentially limiting public participation. Critics might also express concerns that electronic notices are easier to miss compared to physical mail or posted signs, even if the bill requires traditional methods to continue for certain notices.",
+  "topic": "Local Government",
+  "textLength": 1334,
+  "createdAt": "2026-06-23T02:45:47.403Z",
+  "sponsors": [
+    {"peopleId":24208,"name":"Ray Jeffers","party":"D","isPrimary":true},
+    {"peopleId":21631,"name":"Vernetta Alston","party":"D","isPrimary":false},
+    {"peopleId":24200,"name":"Laura Budd","party":"D","isPrimary":false},
+    {"peopleId":25842,"name":"Bryan Cohn","party":"D","isPrimary":false},
+    {"peopleId":20509,"name":"Allison Dahle","party":"D","isPrimary":false},
+    {"peopleId":20515,"name":"Zack Forde-Hawkins","party":"D","isPrimary":false},
+    {"peopleId":19360,"name":"Marcia Morey","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

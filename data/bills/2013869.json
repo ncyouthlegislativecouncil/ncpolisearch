@@ -1,0 +1,23 @@
+{
+  "billId": 2013869,
+  "billNumber": "S509",
+  "title": "Health Information Exchange Act Revisions",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "a049f507ab0ff72b408940758a98dbd8",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2025-04-01",
+  "url": "https://legiscan.com/NC/bill/S509/2025",
+  "aiSummary": "This bill revises North Carolina's Statewide Health Information Exchange (HIE) Act by requiring certain health care providers and entities that receive state funding to connect to and submit patient data through a state health information network. The bill also establishes new civil penalties for violations and creates an annual assessment fee for providers and entities that fail to comply with connection and data submission requirements.",
+  "aiProArguments": "Supporters argue this bill improves health care quality and reduces costs by giving the state and health care providers electronic access to patient information for care coordination, outcome measurement, and population health management. Proponents contend the mandatory participation requirement for state-funded providers ensures comprehensive data sharing that benefits Medicaid recipients and other state-funded health care beneficiaries through better care coordination and reduced medical service duplication. The assessment fees on non-compliant providers create financial incentives for participation while funding the system's operations.",
+  "aiConArguments": "Opponents may be concerned that mandatory data sharing, even with privacy protections, raises privacy concerns for patients whose information is automatically included unless they actively opt out. Critics might argue the assessment fees (ranging from $3,000-$15,000 annually based on state funding levels) could burden smaller health care providers and practices, potentially increasing health care costs. Some may worry that making participation a condition of receiving state funds limits provider autonomy and could create compliance challenges for providers with older technology systems or limited IT resources.",
+  "topic": "Healthcare",
+  "textLength": 68513,
+  "createdAt": "2026-06-23T03:08:28.395Z",
+  "sponsors": [
+    {"peopleId":11937,"name":"Ralph Hise","party":"R","isPrimary":true},
+    {"peopleId":20216,"name":"Jim Burgin","party":"R","isPrimary":true},
+    {"peopleId":17147,"name":"Gale Adcock","party":"D","isPrimary":true}
+  ],
+  "rollCalls": []
+}

@@ -1,0 +1,27 @@
+{
+  "billId": 2017022,
+  "billNumber": "H593",
+  "title": "Local Government Audits",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "4b4a71ba9f3aba015d37cb9773b78a0d",
+  "lastAction": "Re-ref to the Com on State and Local Government, if favorable, Appropriations, if favorable, Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-04-16",
+  "url": "https://legiscan.com/NC/bill/H593/2025",
+  "aiSummary": "This bill changes how local governments, school districts, and public authorities select auditors by requiring sealed-bid processes and giving the State Auditor authority to certify auditors. It also appropriates $3.52 million to the State Auditor to hire 32 finance professionals to help small local governments maintain compliant financial records.",
+  "aiProArguments": "Supporters argue this bill improves financial accountability and transparency by establishing uniform auditor certification standards under the State Auditor rather than local commissions. The funding for finance professionals helps struggling small governments avoid compliance failures and costly audit delays, while the sealed-bid process promotes fair competition and potentially lowers audit costs for local governments.",
+  "aiConArguments": "Opponents may argue that shifting auditor certification authority to the State Auditor reduces local control over selecting qualified professionals who understand their specific community needs. The bill also creates financial penalties through sales tax withholding for governments that miss audit deadlines, which critics contend could harm services to residents in already struggling communities rather than solving underlying compliance problems.",
+  "topic": "Local Government",
+  "textLength": 22683,
+  "createdAt": "2026-06-23T02:55:08.414Z",
+  "sponsors": [
+    {"peopleId":22610,"name":"Matthew Winslow","party":"R","isPrimary":true},
+    {"peopleId":11850,"name":"Harry Warren","party":"R","isPrimary":true},
+    {"peopleId":24196,"name":"Jennifer Balkcom","party":"R","isPrimary":true},
+    {"peopleId":14634,"name":"Stephen Ross","party":"R","isPrimary":true},
+    {"peopleId":21375,"name":"Jeffrey McNeely","party":"R","isPrimary":false},
+    {"peopleId":24219,"name":"Bill Ward","party":"R","isPrimary":false},
+    {"peopleId":22611,"name":"Jeff Zenger","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

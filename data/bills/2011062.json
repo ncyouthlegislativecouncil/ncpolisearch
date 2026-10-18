@@ -1,0 +1,28 @@
+{
+  "billId": 2011062,
+  "billNumber": "S352",
+  "title": "Community Health Center Grants for LARCs",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "372bf595d2dbb8aeb87ca6e3e4af6dc8",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-20",
+  "url": "https://legiscan.com/NC/bill/S352/2025",
+  "aiSummary": "This bill appropriates $2.5 million per year for fiscal years 2025-2027 to the Department of Health and Human Services to provide grants to nonprofit community health centers. These centers would use the funds to purchase and distribute long-acting reversible contraceptives (LARCs) to uninsured and low-income patients.",
+  "aiProArguments": "Supporters argue this bill expands access to effective birth control for underserved populations who may lack resources or insurance coverage for contraception. They contend that LARCs are highly effective at preventing unintended pregnancies and can reduce overall healthcare costs by decreasing the need for pregnancy-related care and other services. Proponents also note that community health centers are well-positioned to deliver these services to vulnerable populations.",
+  "aiConArguments": "Opponents may argue about the appropriate use of state tax dollars and whether this represents the best allocation of limited public health resources. Some may have concerns about government involvement in reproductive healthcare decisions or question whether nonprofit health centers need additional state funding for this purpose. Others might argue the funds could be directed toward different healthcare priorities or that existing programs already address contraceptive access.",
+  "topic": "Healthcare",
+  "textLength": 1904,
+  "createdAt": "2026-06-23T03:07:01.805Z",
+  "sponsors": [
+    {"peopleId":25858,"name":"Sophia Chitlik","party":"D","isPrimary":true},
+    {"peopleId":21633,"name":"Natalie Murdock","party":"D","isPrimary":true},
+    {"peopleId":25860,"name":"Woodson Bradley","party":"D","isPrimary":true},
+    {"peopleId":17147,"name":"Gale Adcock","party":"D","isPrimary":false},
+    {"peopleId":24222,"name":"Lisa Grafstein","party":"D","isPrimary":false},
+    {"peopleId":12032,"name":"Gladys Robinson","party":"D","isPrimary":false},
+    {"peopleId":22426,"name":"DeAndrea Salvador","party":"D","isPrimary":false},
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

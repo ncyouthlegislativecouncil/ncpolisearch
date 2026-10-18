@@ -1,0 +1,28 @@
+{
+  "billId": 1991844,
+  "billNumber": "H293",
+  "title": "Marine Life Stewardship Act",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "a4e5d7d8f2dc7882f6801d3924e99404",
+  "lastAction": "Ref to the Com on Agriculture and Environment, if favorable, Commerce and Economic Development, if favorable, Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-03-06",
+  "url": "https://legiscan.com/NC/bill/H293/2025",
+  "aiSummary": "This bill prohibits the farming (aquaculture) of octopus species in North Carolina for human consumption. It allows exceptions for wild-caught octopuses and octopuses used only for research purposes. Violations would result in civil penalties up to $1,000 per day.",
+  "aiProArguments": "Supporters argue that octopuses are highly intelligent animals with complex nervous systems and therefore deserve special ethical protections against farming. They contend that octopus aquaculture raises animal welfare concerns that justify a preventive ban before the industry develops in North Carolina, similar to bans adopted in other regions.",
+  "aiConArguments": "Opponents may argue that the bill restricts economic opportunity and agricultural innovation in the state by banning a potential new food production industry. They may also contend that octopus farming could be regulated rather than prohibited, and that the ban may be unnecessary if proper welfare standards and oversight are established.",
+  "topic": "Environment & Energy",
+  "textLength": 1947,
+  "createdAt": "2026-06-23T02:47:35.383Z",
+  "sponsors": [
+    {"peopleId":2077,"name":"Mary Harrison","party":"D","isPrimary":true},
+    {"peopleId":18449,"name":"Cynthia Ball","party":"D","isPrimary":true},
+    {"peopleId":18451,"name":"Mary Belk","party":"D","isPrimary":true},
+    {"peopleId":19360,"name":"Marcia Morey","party":"D","isPrimary":true},
+    {"peopleId":19238,"name":"Deb Butler","party":"D","isPrimary":false},
+    {"peopleId":24202,"name":"Maria Cervania","party":"D","isPrimary":false},
+    {"peopleId":22422,"name":"Sarah Crawford","party":"D","isPrimary":false},
+    {"peopleId":24208,"name":"Ray Jeffers","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

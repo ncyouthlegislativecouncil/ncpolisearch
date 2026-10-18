@@ -1,0 +1,24 @@
+{
+  "billId": 2146834,
+  "billNumber": "S981",
+  "title": "AI in Ed Task Force and Standards",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "d236233a351609f5e46ceefb95b020d7",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2026-05-05",
+  "url": "https://legiscan.com/NC/bill/S981/2025",
+  "aiSummary": "This bill creates a task force to study how artificial intelligence should be used and regulated in North Carolina schools, and requires the State Board of Education to develop standards for teaching students about AI in kindergarten through 12th grade. The bill also provides $250,000 in funding for teacher training on AI instruction.",
+  "aiProArguments": "Supporters argue that this bill prepares North Carolina students for a future where AI is increasingly important in the workforce and daily life. Proponents say establishing clear standards and guidelines helps schools use AI responsibly while protecting student data and privacy, and that teacher professional development ensures educators can effectively teach about this emerging technology.",
+  "aiConArguments": "Opponents may be concerned about the cost of implementation and ongoing teacher training in an already tight education budget. Some may question whether AI instruction should be prioritized over other core subjects, or worry that regulations developed by the task force could be either too restrictive for innovation or insufficient to protect student privacy and prevent misuse of AI in schools.",
+  "topic": "Education",
+  "textLength": 6604,
+  "createdAt": "2026-06-23T03:12:21.519Z",
+  "sponsors": [
+    {"peopleId":21633,"name":"Natalie Murdock","party":"D","isPrimary":true},
+    {"peopleId":22426,"name":"DeAndrea Salvador","party":"D","isPrimary":true},
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

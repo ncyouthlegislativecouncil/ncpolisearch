@@ -1,0 +1,28 @@
+{
+  "billId": 2010151,
+  "billNumber": "H440",
+  "title": "Healthy Food Healthy Bodies",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "a21746d88fe228b5ec0076ed5491d2b3",
+  "lastAction": "Re-ref to the Com on Health, if favorable, Agriculture and Environment, if favorable, Judiciary 1, if favorable, Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-03-27",
+  "url": "https://legiscan.com/NC/bill/H440/2025",
+  "aiSummary": "This bill would require foods containing vaccines to be labeled and regulated as drugs, and would prohibit the sale of foods containing nine specific artificial additives (certain food dyes and preservatives) starting January 1, 2027, with civil penalties up to $5,000 for first violations and $10,000 for subsequent violations.",
+  "aiProArguments": "Supporters argue that consumers have a right to know what is in their food and that labeling vaccine-containing foods would provide transparency. They also contend that removing artificial dyes and certain additives would improve public health, citing concerns that some of these additives have been banned or restricted in other countries and may pose health risks, particularly for children.",
+  "aiConArguments": "Opponents argue that the vaccine provision is based on a false premise—foods do not currently contain vaccines, making this portion unnecessary and potentially spreading misinformation. They also contend that the banned additives have been deemed safe by the FDA and that removing them would increase food costs and limit consumer choice, while the evidence of harm from these specific dyes and preservatives at approved levels is disputed by scientific consensus.",
+  "topic": "Healthcare",
+  "textLength": 3619,
+  "createdAt": "2026-06-23T02:51:41.479Z",
+  "sponsors": [
+    {"peopleId":22610,"name":"Matthew Winslow","party":"R","isPrimary":true},
+    {"peopleId":25841,"name":"Jonathan Almond","party":"R","isPrimary":true},
+    {"peopleId":14624,"name":"Donny Lambeth","party":"R","isPrimary":true},
+    {"peopleId":22965,"name":"Donnie Loftis","party":"R","isPrimary":true},
+    {"peopleId":24201,"name":"Celeste Cairns","party":"R","isPrimary":false},
+    {"peopleId":25843,"name":"Brian Echevarria","party":"R","isPrimary":false},
+    {"peopleId":21375,"name":"Jeffrey McNeely","party":"R","isPrimary":false},
+    {"peopleId":22611,"name":"Jeff Zenger","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

@@ -1,0 +1,31 @@
+{
+  "billId": 1993157,
+  "billNumber": "H321",
+  "title": "SchCalFlex/Guilford/Open Cal",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "7916c916b6c09b357612415ff67251a8",
+  "lastAction": "Ref to the Com on Education - K-12, if favorable, Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-03-10",
+  "url": "https://legiscan.com/NC/bill/H321/2025",
+  "aiSummary": "This bill gives Guilford County Schools flexibility to start the school year earlier than the current state requirement. Currently, North Carolina schools cannot start before the Monday closest to August 26, but this bill allows Guilford County Schools to start as early as the Monday closest to August 19 if the State Board of Education approves their request.",
+  "aiProArguments": "Supporters argue this gives Guilford County Schools more control over their calendar to better manage weather-related closures and other disruptions. An earlier start date could allow schools to complete the academic year before late spring disruptions and potentially avoid excessive makeup days, providing more scheduling flexibility for families and staff.",
+  "aiConArguments": "Opponents may argue that earlier start dates push students back to school during summer, reducing summer break and potentially affecting family vacation plans, summer employment for students, and businesses that rely on summer tourism. Some may also question whether this flexibility is necessary or if the current August 26 requirement works adequately for most districts.",
+  "topic": "Education",
+  "textLength": 2465,
+  "createdAt": "2026-06-23T02:48:20.172Z",
+  "sponsors": [
+    {"peopleId":18462,"name":"Amos Quick","party":"D","isPrimary":true},
+    {"peopleId":25213,"name":"Tracy Clark","party":"D","isPrimary":true},
+    {"peopleId":18451,"name":"Mary Belk","party":"D","isPrimary":false},
+    {"peopleId":17151,"name":"Cecil Brockman","party":"D","isPrimary":false},
+    {"peopleId":24198,"name":"Gloristine Brown","party":"D","isPrimary":false},
+    {"peopleId":19238,"name":"Deb Butler","party":"D","isPrimary":false},
+    {"peopleId":2044,"name":"Becky Carney","party":"D","isPrimary":false},
+    {"peopleId":2077,"name":"Mary Harrison","party":"D","isPrimary":false},
+    {"peopleId":20515,"name":"Zack Forde-Hawkins","party":"D","isPrimary":false},
+    {"peopleId":24206,"name":"Frances Jackson","party":"D","isPrimary":false},
+    {"peopleId":25853,"name":"Rodney Pierce","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

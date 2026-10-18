@@ -1,0 +1,26 @@
+{
+  "billId": 1991124,
+  "billNumber": "H284",
+  "title": "Addtnl Time for School Cal Good Cause Waiver",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "f4cb7d227409047601c8c9ab376dc947",
+  "lastAction": "Ref to the Com on Education - K-12, if favorable, Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-03-06",
+  "url": "https://legiscan.com/NC/bill/H284/2025",
+  "aiSummary": "This bill allows the State Board of Education to waive the requirement that school years begin no earlier than the Monday closest to August 26, permitting schools in Ashe, Allegheny, and Watauga counties to start as early as August 12 if they meet 'good cause' criteria. Good cause is defined as schools in a county being closed at least 8 days per year due to severe weather, energy shortages, power failures, or other emergencies during any 4 of the last 10 years.",
+  "aiProArguments": "Supporters argue this bill helps schools in mountain counties that experience frequent weather-related closures recover instructional time by starting earlier in the school year. By allowing earlier start dates, students can complete more instruction before anticipated snow and ice disruptions, reducing the need to extend the school year into early summer when families have vacation plans.",
+  "aiConArguments": "Opponents may contend that earlier start dates disrupt summer break for students and families, potentially affecting summer employment and activities. Some may also question whether moving the start date actually solves the problem, since the bill's own language notes schools still need sufficient buffer days to accommodate closures, and the waiver only applies to three specific mountain counties rather than addressing the broader issue statewide.",
+  "topic": "Education",
+  "textLength": 2565,
+  "createdAt": "2026-06-23T02:47:23.628Z",
+  "sponsors": [
+    {"peopleId":22616,"name":"Ray Pickett","party":"R","isPrimary":true},
+    {"peopleId":18451,"name":"Mary Belk","party":"D","isPrimary":false},
+    {"peopleId":2044,"name":"Becky Carney","party":"D","isPrimary":false},
+    {"peopleId":2077,"name":"Mary Harrison","party":"D","isPrimary":false},
+    {"peopleId":20515,"name":"Zack Forde-Hawkins","party":"D","isPrimary":false},
+    {"peopleId":14633,"name":"Dennis Riddell","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

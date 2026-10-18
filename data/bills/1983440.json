@@ -1,0 +1,29 @@
+{
+  "billId": 1983440,
+  "billNumber": "H205",
+  "title": "SchCalFlex/Cabarrus/Open Cal",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "414a3e034eed1ca4773493d71cb6dfbf",
+  "lastAction": "Ref to the Com on Education - K-12, if favorable, Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-02-26",
+  "url": "https://legiscan.com/NC/bill/H205/2025",
+  "aiSummary": "This bill gives Cabarrus County Schools flexibility to start the school year earlier than the current state rule allows. Currently, North Carolina requires schools to open no earlier than the Monday closest to August 26, but this bill would allow Cabarrus County to open as early as the Monday closest to August 19 if they can show they need extra days for weather-related closures.",
+  "aiProArguments": "Supporters argue this gives local school districts needed flexibility to manage their calendars when weather emergencies require multiple closures. They contend that Cabarrus County schools have experienced frequent weather-related closures and need the option to start earlier to ensure they meet minimum instructional day requirements without extending the school year into summer.",
+  "aiConArguments": "Opponents may argue that early school starts conflict with summer tourism and family vacation plans that depend on schools remaining closed through mid-August. They might also express concern that this creates inconsistent rules across the state and could lead to other counties requesting similar exemptions, undermining statewide calendar coordination.",
+  "topic": "Education",
+  "textLength": 2485,
+  "createdAt": "2026-06-23T02:44:55.760Z",
+  "sponsors": [
+    {"peopleId":25841,"name":"Jonathan Almond","party":"R","isPrimary":true},
+    {"peopleId":25845,"name":"Grant Campbell","party":"R","isPrimary":true},
+    {"peopleId":25843,"name":"Brian Echevarria","party":"R","isPrimary":true},
+    {"peopleId":18451,"name":"Mary Belk","party":"D","isPrimary":false},
+    {"peopleId":2044,"name":"Becky Carney","party":"D","isPrimary":false},
+    {"peopleId":2049,"name":"Patricia Cotham","party":"R","isPrimary":false},
+    {"peopleId":2077,"name":"Mary Harrison","party":"D","isPrimary":false},
+    {"peopleId":25853,"name":"Rodney Pierce","party":"D","isPrimary":false},
+    {"peopleId":14633,"name":"Dennis Riddell","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

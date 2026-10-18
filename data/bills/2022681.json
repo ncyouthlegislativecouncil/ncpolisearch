@@ -1,0 +1,27 @@
+{
+  "billId": 2022681,
+  "billNumber": "H982",
+  "title": "NC Highway Safety Act of 2025",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "dcea646d12ce316513eef72945058b63",
+  "lastAction": "Ref To Com On Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-04-14",
+  "url": "https://legiscan.com/NC/bill/H982/2025",
+  "aiSummary": "This bill creates a 5-year pilot program allowing the North Carolina Department of Transportation to use automated speed cameras in up to 25 highway work zones to detect speeding violations. Drivers caught speeding in these zones face a $250 civil penalty (with an additional $125 penalty if they don't respond within 30 days), and 75% of collected fines go to a school technology fund while 25% goes to public schools.",
+  "aiProArguments": "Supporters argue this bill improves safety in highway work zones where workers are present and vulnerable, and the automated enforcement provides consistent, objective speed detection. They point out that the $250 penalty is civil rather than criminal (with no insurance points), the program is limited to a pilot of 25 zones, advance warning signs are required, and 75% of revenue funds school technology needs while addressing a 2008 court judgment about education funding.",
+  "aiConArguments": "Opponents may worry that automated speed cameras constitute a revenue-generating tool that penalizes drivers without a law enforcement officer's judgment, and that the system holds registered vehicle owners responsible even if someone else was driving. Concerns also exist about due process implications, the 30-day deadline to contest citations creating pressure to pay, and whether a pilot program will truly be limited or could expand statewide after 2025.",
+  "topic": "Transportation & Infrastructure",
+  "textLength": 12573,
+  "createdAt": "2026-06-23T03:00:01.903Z",
+  "sponsors": [
+    {"peopleId":24202,"name":"Maria Cervania","party":"D","isPrimary":true},
+    {"peopleId":24200,"name":"Laura Budd","party":"D","isPrimary":true},
+    {"peopleId":18451,"name":"Mary Belk","party":"D","isPrimary":false},
+    {"peopleId":19238,"name":"Deb Butler","party":"D","isPrimary":false},
+    {"peopleId":2077,"name":"Mary Harrison","party":"D","isPrimary":false},
+    {"peopleId":24206,"name":"Frances Jackson","party":"D","isPrimary":false},
+    {"peopleId":20521,"name":"Carolyn Logan","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

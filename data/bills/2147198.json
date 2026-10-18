@@ -1,0 +1,24 @@
+{
+  "billId": 2147198,
+  "billNumber": "S1068",
+  "title": "Supporting Small Farmers for NC's Future Act",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "7872ec6f42f042244db8e50384e6473f",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2026-05-05",
+  "url": "https://legiscan.com/NC/bill/S1068/2025",
+  "aiSummary": "This bill establishes a grant program within the North Carolina Department of Agriculture to provide financial assistance to small farmers, defined as those with gross cash farm income of $1 million or less. The program would receive $15 million in state funding for fiscal year 2026-2027 and distribute grants to eligible farmers for equipment, inputs, and operational improvements, with the Commissioner setting priorities based on farm size, income levels, and economic hardship.",
+  "aiProArguments": "Supporters argue this bill addresses the decline of family farms in North Carolina by providing direct financial support to help small farmers remain viable and competitive. They contend that grants for equipment and operational improvements can help farmers access capital they might otherwise struggle to obtain, supporting rural communities and preserving agricultural heritage while keeping farming accessible to those with limited initial resources.",
+  "aiConArguments": "Opponents may argue that $15 million in state funding represents a significant public expense that could be used elsewhere, and question whether grant programs effectively solve underlying economic challenges facing small farms. They may also raise concerns about how eligibility is determined, whether the program fairly distributes resources, and whether government grants are the most efficient way to support agricultural viability compared to market-based solutions.",
+  "topic": "Agriculture",
+  "textLength": 4372,
+  "createdAt": "2026-06-23T03:13:05.987Z",
+  "sponsors": [
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":true},
+    {"peopleId":20505,"name":"Sydney Batch","party":"D","isPrimary":false},
+    {"peopleId":25858,"name":"Sophia Chitlik","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

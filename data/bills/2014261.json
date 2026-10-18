@@ -1,0 +1,31 @@
+{
+  "billId": 2014261,
+  "billNumber": "S607",
+  "title": "Equal Pay Act",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "3241186d2754be6f64c8cbf9f606c264",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-26",
+  "url": "https://legiscan.com/NC/bill/S607/2025",
+  "aiSummary": "This bill prohibits North Carolina employers from paying employees different wages based on gender when they perform comparable work, unless pay differences are based on seniority, merit, production, location, relevant education/training, or travel requirements. It also prohibits employers from asking about job applicants' salary histories, requiring employees to keep wages confidential, or retaliating against employees who discuss pay.",
+  "aiProArguments": "Supporters argue this bill addresses gender-based wage discrimination by requiring equal pay for substantially similar work, which data shows disproportionately affects women. The bill's protections for wage transparency and discussions help employees identify unfair pay practices, and the restrictions on salary history inquiries prevent past discrimination from following workers to new jobs. Proponents contend these measures close loopholes that allow persistent pay gaps to continue.",
+  "aiConArguments": "Opponents worry the bill's definition of 'comparable work' could lead to excessive litigation and disputes about whether jobs are truly similar enough to require equal pay, potentially increasing legal costs for employers. Some business groups argue the restrictions on considering salary history limit their ability to make competitive offers and manage labor costs efficiently. Critics also express concern that the broad retaliation provisions could expose employers to lawsuits for ordinary employment decisions if employees claim they were motivated by the employee's pay discussions.",
+  "topic": "Business & Labor",
+  "textLength": 5753,
+  "createdAt": "2026-06-23T03:09:17.685Z",
+  "sponsors": [
+    {"peopleId":22426,"name":"DeAndrea Salvador","party":"D","isPrimary":true},
+    {"peopleId":20220,"name":"Michael Garrett","party":"D","isPrimary":true},
+    {"peopleId":25858,"name":"Sophia Chitlik","party":"D","isPrimary":true},
+    {"peopleId":24220,"name":"Val Applewhite","party":"D","isPrimary":false},
+    {"peopleId":25860,"name":"Woodson Bradley","party":"D","isPrimary":false},
+    {"peopleId":24222,"name":"Lisa Grafstein","party":"D","isPrimary":false},
+    {"peopleId":22425,"name":"Julie Mayfield","party":"D","isPrimary":false},
+    {"peopleId":20223,"name":"Mujtaba Mohammed","party":"D","isPrimary":false},
+    {"peopleId":21633,"name":"Natalie Murdock","party":"D","isPrimary":false},
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

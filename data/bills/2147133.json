@@ -1,0 +1,22 @@
+{
+  "billId": 2147133,
+  "billNumber": "S1031",
+  "title": "Returning Citizens Ready to Work",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "ce669cd569ecbaea33210d777f105766",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2026-05-05",
+  "url": "https://legiscan.com/NC/bill/S1031/2025",
+  "aiSummary": "This bill appropriates $7.118 million in recurring state funds to expand reentry services for formerly incarcerated individuals across North Carolina's 17 local reentry councils. The funding supports new staff positions (housing and support specialists), rental assistance, transportation vouchers for those on post-release supervision, education navigators at community colleges, and professional development training for agencies serving people with criminal records.",
+  "aiProArguments": "Supporters argue this bill helps reduce recidivism by removing barriers to successful reentry, such as lack of housing, transportation, and employment support. They contend that investing in returning citizens reduces crime, stabilizes communities, and improves public safety by enabling formerly incarcerated individuals to become self-sufficient and productive members of society. Proponents also note the bill creates permanent jobs for support staff and provides educational pathways through community colleges.",
+  "aiConArguments": "Opponents may argue the bill represents a significant state spending commitment during a time when fiscal resources are limited and other needs compete for funding. Some may question whether the investment will achieve measurable outcomes or whether these services could be more efficiently delivered through existing programs. Others might express concerns about prioritizing resources for justice-involved individuals when other vulnerable populations also face housing and transportation challenges.",
+  "topic": "Criminal Justice & Public Safety",
+  "textLength": 3358,
+  "createdAt": "2026-06-23T03:12:48.780Z",
+  "sponsors": [
+    {"peopleId":20223,"name":"Mujtaba Mohammed","party":"D","isPrimary":true},
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

@@ -1,0 +1,23 @@
+{
+  "billId": 1982330,
+  "billNumber": "S159",
+  "title": "Elderly Prop. Tax Appreciation Exclusion",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "79250fe3d508a309b726b2a7578362b7",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-02-26",
+  "url": "https://legiscan.com/NC/bill/S159/2025",
+  "aiSummary": "This bill creates a new property tax benefit for North Carolina residents age 65 and older who have owned and lived in their home for at least five consecutive years. Eligible homeowners can defer paying taxes on the portion of their property tax bill that results from increases in their home's value above the value when they first applied for the benefit.",
+  "aiProArguments": "Supporters argue this bill provides meaningful relief to seniors on fixed incomes who may struggle with rising property taxes as their home values increase. The deferral allows elderly homeowners to remain in their homes without facing escalating tax burdens, and deferred taxes become due only when the property is sold or transferred, spreading the financial impact over time rather than annually.",
+  "aiConArguments": "Opponents may contend that deferring taxes reduces revenue for schools, counties, and local services that depend on property tax income. Critics could also argue the benefit primarily helps homeowners whose properties are appreciating significantly, potentially benefiting wealthier seniors more than those with modest home values, and that it creates administrative complexity in tracking deferred taxes across multiple years.",
+  "topic": "Taxes & Budget",
+  "textLength": 6998,
+  "createdAt": "2026-06-23T03:05:26.069Z",
+  "sponsors": [
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":true},
+    {"peopleId":25858,"name":"Sophia Chitlik","party":"D","isPrimary":true},
+    {"peopleId":25859,"name":"Caleb Theodros","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

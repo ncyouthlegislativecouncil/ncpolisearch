@@ -1,0 +1,27 @@
+{
+  "billId": 2146482,
+  "billNumber": "H1100",
+  "title": "Construction Support Act",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "7f7d969abe9e94bb9c31accca777f7e2",
+  "lastAction": "Ref to the Com on Appropriations, if favorable, Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2026-04-30",
+  "url": "https://legiscan.com/NC/bill/H1100/2025",
+  "aiSummary": "This bill addresses housing affordability by targeting labor and material bottlenecks in construction. It establishes a $200 million Community College Construction Workforce Program for trade credentialing, a $100 million Construction Materials Producer Incentive Grant Program, updates building codes to allow alternative cement types, and provides $20 million in grants to local governments for e-permitting systems.",
+  "aiProArguments": "Supporters argue this bill directly addresses housing cost increases by expanding the skilled construction workforce through community college training programs and incentivizing domestic production of construction materials. They contend that modernizing permitting systems and allowing alternative cement materials will reduce construction timelines and costs while creating jobs and economic development opportunities across North Carolina.",
+  "aiConArguments": "Opponents may question whether $420 million in state spending is the most efficient use of tax dollars, whether grant programs effectively incentivize production, and if community colleges can quickly scale training programs to meet demand. Some may also raise concerns about accountability mechanisms, whether alternative cement materials meet long-term durability standards, and whether these measures sufficiently address the root causes of housing affordability without addressing zoning or regulatory barriers.",
+  "topic": "Housing",
+  "textLength": 10236,
+  "createdAt": "2026-06-23T03:01:48.910Z",
+  "sponsors": [
+    {"peopleId":16252,"name":"Robert Reives","party":"D","isPrimary":true},
+    {"peopleId":24890,"name":"Eric Ager","party":"D","isPrimary":false},
+    {"peopleId":24198,"name":"Gloristine Brown","party":"D","isPrimary":false},
+    {"peopleId":24199,"name":"Kanika Brown","party":"D","isPrimary":false},
+    {"peopleId":24200,"name":"Laura Budd","party":"D","isPrimary":false},
+    {"peopleId":24206,"name":"Frances Jackson","party":"D","isPrimary":false},
+    {"peopleId":22606,"name":"James Roberson","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

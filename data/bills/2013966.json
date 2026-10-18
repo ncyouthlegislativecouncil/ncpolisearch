@@ -1,0 +1,27 @@
+{
+  "billId": 2013966,
+  "billNumber": "S497",
+  "title": "Expand Middle Housing",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "6f1bb1378f82fab033c91909c629df98",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-26",
+  "url": "https://legiscan.com/NC/bill/S497/2025",
+  "aiSummary": "This bill requires North Carolina local governments to allow middle housing types (duplexes, triplexes, fourplexes, fiveplexes, sixplexes, and townhouses) in all residential zones served by water or sewer systems. Local governments must use the same permitting process for middle housing as for single-family homes and cannot impose unreasonable restrictions that discourage their development.",
+  "aiProArguments": "Supporters argue this bill addresses North Carolina's housing shortage and affordability crisis by allowing more diverse housing options on existing residential land. They contend it increases housing supply without requiring new development, reduces costs for builders and residents, and provides more choices for people seeking alternatives to single-family homes while maintaining neighborhood character through design standards.",
+  "aiConArguments": "Opponents worry this bill removes local control over zoning decisions and neighborhood character by mandating housing types without community input. They express concerns about parking, infrastructure capacity, property values, and the burden on existing utilities and roads, particularly in areas not designed for denser development.",
+  "topic": "Housing",
+  "textLength": 6402,
+  "createdAt": "2026-06-23T03:08:22.083Z",
+  "sponsors": [
+    {"peopleId":11858,"name":"Timothy Moffitt","party":"R","isPrimary":true},
+    {"peopleId":22425,"name":"Julie Mayfield","party":"D","isPrimary":true},
+    {"peopleId":17147,"name":"Gale Adcock","party":"D","isPrimary":false},
+    {"peopleId":25860,"name":"Woodson Bradley","party":"D","isPrimary":false},
+    {"peopleId":25858,"name":"Sophia Chitlik","party":"D","isPrimary":false},
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":false},
+    {"peopleId":25859,"name":"Caleb Theodros","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

@@ -1,0 +1,29 @@
+{
+  "billId": 2013039,
+  "billNumber": "S432",
+  "title": "Home Ownership Market Manipulation",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "e2e3ecd6dff1a97d15355fe36e750d07",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-25",
+  "url": "https://legiscan.com/NC/bill/S432/2025",
+  "aiSummary": "This bill prohibits business entities and corporations from purchasing single-family homes for rental purposes in North Carolina counties with populations over 150,000 if they already own 100 or more rental homes in such counties. The bill allows the Attorney General, county commissioners, and affected individuals to enforce the restriction through civil lawsuits with penalties up to $100 per day per home and potential damages up to $50,000 or triple damages.",
+  "aiProArguments": "Supporters argue this bill addresses housing affordability by limiting corporate investment firms from buying up large numbers of single-family homes, which they contend reduces the supply available for owner-occupants and drives up prices. They believe protecting homeownership opportunities helps North Carolina residents build wealth through equity and property appreciation, benefiting individuals and local economies more than absentee corporate landlords.",
+  "aiConArguments": "Opponents contend this bill may reduce the rental housing supply at a time when many North Carolinians need affordable rentals, potentially raising rents. They also argue the restriction could discourage legitimate real estate investment and property management companies from operating in high-growth counties, and that the enforcement mechanism allowing private lawsuits with large damage awards could be subject to abuse or frivolous litigation.",
+  "topic": "Housing",
+  "textLength": 6661,
+  "createdAt": "2026-06-23T03:07:45.441Z",
+  "sponsors": [
+    {"peopleId":24222,"name":"Lisa Grafstein","party":"D","isPrimary":true},
+    {"peopleId":20510,"name":"Terence Everitt","party":"D","isPrimary":true},
+    {"peopleId":25860,"name":"Woodson Bradley","party":"D","isPrimary":true},
+    {"peopleId":24220,"name":"Val Applewhite","party":"D","isPrimary":false},
+    {"peopleId":20220,"name":"Michael Garrett","party":"D","isPrimary":false},
+    {"peopleId":20223,"name":"Mujtaba Mohammed","party":"D","isPrimary":false},
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":false},
+    {"peopleId":25859,"name":"Caleb Theodros","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

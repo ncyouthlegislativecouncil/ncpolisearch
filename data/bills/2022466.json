@@ -1,0 +1,26 @@
+{
+  "billId": 2022466,
+  "billNumber": "H905",
+  "title": "Public School Part-Time Enrollment",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "331fb13d46913f77c7d3deb18ff60f4f",
+  "lastAction": "Ref to the Com on Education - K-12, if favorable, Appropriations, if favorable, Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-04-14",
+  "url": "https://legiscan.com/NC/bill/H905/2025",
+  "aiSummary": "This bill requires public schools and charter schools in North Carolina to allow students who attend private schools to enroll part-time in public school courses, programs, or services. Schools would receive state funding based on the amount of instructional time each part-time student attends, with full per-pupil funding for students attending one-third or more of a full school day and half funding for those attending less.",
+  "aiProArguments": "Supporters argue this expands educational access and allows families to customize their children's education by combining private and public school offerings. It could provide students access to specialized programs, sports, arts, or advanced courses their private schools don't offer, while allowing families to maintain private school enrollment. Proponents contend the funding formula appropriately compensates schools for the instructional costs incurred.",
+  "aiConArguments": "Opponents raise concerns about administrative burden and complexity in scheduling and tracking part-time students across different school systems. They worry about the $270 million annual cost and whether this diverts resources from full-time public school students, particularly in under-resourced districts. Critics also question whether this policy primarily benefits families who can already afford private school, potentially increasing inequity in the public system.",
+  "topic": "Education",
+  "textLength": 3896,
+  "createdAt": "2026-06-23T02:59:08.302Z",
+  "sponsors": [
+    {"peopleId":2049,"name":"Patricia Cotham","party":"R","isPrimary":true},
+    {"peopleId":24203,"name":"Allen Chesser","party":"R","isPrimary":true},
+    {"peopleId":14633,"name":"Dennis Riddell","party":"R","isPrimary":true},
+    {"peopleId":2077,"name":"Mary Harrison","party":"D","isPrimary":false},
+    {"peopleId":24219,"name":"Bill Ward","party":"R","isPrimary":false},
+    {"peopleId":22608,"name":"Diane Wheatley","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

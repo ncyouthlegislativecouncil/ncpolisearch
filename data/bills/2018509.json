@@ -1,0 +1,25 @@
+{
+  "billId": 2018509,
+  "billNumber": "H687",
+  "title": "Clarify Laws Regulating Public Swimming Pools",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "9b9d9217a33b35d3ab971fc8e82610e5",
+  "lastAction": "Ref To Com On Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-04-03",
+  "url": "https://legiscan.com/NC/bill/H687/2025",
+  "aiSummary": "This bill clarifies North Carolina's public swimming pool regulations by reorganizing definitions and adding new exemptions. It exempts floatation or sensory deprivation systems that meet National Sanitation Foundation safety standards from public pool regulations, and it adds safety requirements for private residential pools shared through online platforms.",
+  "aiProArguments": "Supporters argue this bill reduces unnecessary regulatory burden on wellness businesses like floatation tank facilities that operate differently from traditional pools and already meet national safety standards. The bill also enables homeowners to share their pools through sharing economy platforms while still requiring important safety measures like fencing, signage, lifesaving equipment, and proper maintenance to protect users.",
+  "aiConArguments": "Opponents may be concerned that exempting floatation systems from public pool regulations could reduce health and safety oversight of facilities where people immerse themselves in water, even if they meet one national standard. Some may also worry that private pool-sharing arrangements, despite listed safety requirements, could pose liability risks or create enforcement challenges for local health departments monitoring compliance with the new standards.",
+  "topic": "Other / General Government",
+  "textLength": 4320,
+  "createdAt": "2026-06-23T02:56:26.168Z",
+  "sponsors": [
+    {"peopleId":24890,"name":"Eric Ager","party":"D","isPrimary":true},
+    {"peopleId":20509,"name":"Allison Dahle","party":"D","isPrimary":false},
+    {"peopleId":20515,"name":"Zack Forde-Hawkins","party":"D","isPrimary":false},
+    {"peopleId":24206,"name":"Frances Jackson","party":"D","isPrimary":false},
+    {"peopleId":24210,"name":"Tim Longest","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

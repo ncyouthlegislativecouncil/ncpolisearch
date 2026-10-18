@@ -1,0 +1,22 @@
+{
+  "billId": 2014270,
+  "billNumber": "S705",
+  "title": "Limit Rules With Substantial Financial Costs",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "85ddc5278531638b52134b3e9083f9e2",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-26",
+  "url": "https://legiscan.com/NC/bill/S705/2025",
+  "aiSummary": "This bill requires state agency boards and commissions to obtain special approval votes before adopting expensive regulations. Rules projected to cost $1 million or more over five years require a two-thirds vote, while rules costing $10 million or more require unanimous approval (unless required by federal law, which only needs two-thirds approval). The bill also updates fiscal note requirements for agencies proposing rules with substantial economic impact.",
+  "aiProArguments": "Supporters argue this bill prevents agencies from imposing costly regulations without careful consideration and broad agreement. They contend it ensures major financial burdens on businesses and individuals receive proper oversight, makes regulatory processes more transparent, and gives decision-makers time to weigh costs against benefits before implementing expensive rules.",
+  "aiConArguments": "Opponents argue this bill could slow necessary public health, safety, and environmental protections by making it harder to adopt regulations that benefit the public even if they cost businesses money. They contend unanimous or two-thirds vote requirements could allow a minority to block rules most members support, and that focusing only on costs ignores benefits (like pollution reduction or worker safety) that regulations provide.",
+  "topic": "Taxes & Budget",
+  "textLength": 6152,
+  "createdAt": "2026-06-23T03:10:09.181Z",
+  "sponsors": [
+    {"peopleId":20518,"name":"Steve Jarvis","party":"R","isPrimary":true},
+    {"peopleId":11858,"name":"Timothy Moffitt","party":"R","isPrimary":true}
+  ],
+  "rollCalls": []
+}

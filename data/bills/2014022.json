@@ -1,0 +1,23 @@
+{
+  "billId": 2014022,
+  "billNumber": "S739",
+  "title": "Funds for Oyster Farming",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "785ecd14f43a8b6c9a9c7ef8921f7319",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2025-03-26",
+  "url": "https://legiscan.com/NC/bill/S739/2025",
+  "aiSummary": "This bill appropriates $6 million in state funds to Hyde County for a one-time grant to purchase property for oyster farming operations. The county would work with the North Carolina Marine Industrial Park Authority on the project, and the funding would be available starting July 1, 2025.",
+  "aiProArguments": "Supporters argue this investment supports economic development and job creation in Hyde County through a growing aquaculture industry. Oyster farming can provide sustainable seafood production, support local marine businesses, and generate revenue for a rural coastal community.",
+  "aiConArguments": "Opponents may question whether $6 million in state funds is the best use of limited taxpayer resources, or whether this represents an appropriate regional investment given other statewide needs. Some may be concerned about accountability measures, long-term viability of the project, or whether private investment should play a larger role in commercial farming ventures.",
+  "topic": "Taxes & Budget",
+  "textLength": 861,
+  "createdAt": "2026-06-23T03:10:26.814Z",
+  "sponsors": [
+    {"peopleId":11862,"name":"Norman Sanderson","party":"R","isPrimary":true},
+    {"peopleId":21663,"name":"David Craven","party":"R","isPrimary":false},
+    {"peopleId":20513,"name":"Bobby Hanig","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

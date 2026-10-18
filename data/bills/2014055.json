@@ -1,0 +1,24 @@
+{
+  "billId": 2014055,
+  "billNumber": "S716",
+  "title": "Fair Competition Study Act",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "b37e66dfbf55bac284bb8a709d8fc6c8",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2025-03-26",
+  "url": "https://legiscan.com/NC/bill/S716/2025",
+  "aiSummary": "This bill directs the North Carolina Public Utilities Commission to study potential reforms to the state's energy market, including the costs and benefits of establishing an energy imbalance market or regional transmission organization in North Carolina and the Southeast. The study must be completed within one year and submitted to the legislature, with $350,000 in funding allocated for the research.",
+  "aiProArguments": "Supporters argue this study is necessary to explore ways to improve competition and efficiency in North Carolina's electricity market, potentially lowering costs for consumers and enabling better integration of renewable energy sources. They point out that the state has committed to significant greenhouse gas reductions by 2030 and carbon neutrality by 2050, and that market reforms could help achieve these goals while providing economic benefits and ensuring reliable electricity service.",
+  "aiConArguments": "Opponents may contend that the study represents a step toward deregulation or significant market restructuring that could disrupt the current system and increase uncertainty for utilities and ratepayers. They could argue that the $350,000 cost and one-year timeline may be insufficient for a comprehensive analysis, and that major wholesale market changes could have unintended consequences for grid stability, rates, and service quality, particularly in rural areas.",
+  "topic": "Environment & Energy",
+  "textLength": 7124,
+  "createdAt": "2026-06-23T03:10:16.246Z",
+  "sponsors": [
+    {"peopleId":16251,"name":"Graig Meyer","party":"D","isPrimary":true},
+    {"peopleId":21633,"name":"Natalie Murdock","party":"D","isPrimary":true},
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

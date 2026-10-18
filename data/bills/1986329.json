@@ -1,0 +1,22 @@
+{
+  "billId": 1986329,
+  "billNumber": "S203",
+  "title": "City of Wilmington/Property Conveyances",
+  "status": "2",
+  "chamber": "S",
+  "changeHash": "89b638e3b0ccda440f12cd1b4d6c0783",
+  "lastAction": "Re-ref Com On Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-06-17",
+  "url": "https://legiscan.com/NC/bill/S203/2025",
+  "aiSummary": "This bill amends the City of Wilmington's charter to authorize the city to sell, exchange, or transfer real property with covenants, conditions, and restrictions attached. The bill allows the city to conduct these transfers either through public sale or private negotiated sale, provided the city council approves the transaction by resolution and gives at least 10 days' public notice of the proposed terms.",
+  "aiProArguments": "Supporters argue this bill gives Wilmington greater flexibility in managing and disposing of city-owned property to advance community development goals. By allowing restrictions to be attached to property transfers, the city can ensure land is developed according to adopted policies and plans, and the bill allows the city to receive fair value for property even when use restrictions lower its market value. This enables more creative partnerships with developers and organizations that align with the city's long-term vision.",
+  "aiConArguments": "Opponents may be concerned that this bill grants city council broad discretion to impose restrictions on property sales with minimal public oversight, as 10 days' notice may not provide adequate opportunity for community input. Critics could argue that private negotiated sales—as opposed to competitive public bidding—might not ensure taxpayers receive the best price for city assets, and that restrictions could limit the property's future utility or transferability in ways that burden future owners.",
+  "topic": "Local Government",
+  "textLength": 3140,
+  "createdAt": "2026-06-23T03:05:46.407Z",
+  "sponsors": [
+    {"peopleId":17504,"name":"Michael Lee","party":"R","isPrimary":true},
+    {"peopleId":12031,"name":"William Rabon","party":"R","isPrimary":true}
+  ],
+  "rollCalls": []
+}

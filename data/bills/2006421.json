@@ -1,0 +1,26 @@
+{
+  "billId": 2006421,
+  "billNumber": "S294",
+  "title": "Budgeting Accountability and Transparency",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "e536630307d91067b3bf6a78b49b0f73",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-17",
+  "url": "https://legiscan.com/NC/bill/S294/2025",
+  "aiSummary": "This bill requires the North Carolina General Assembly to provide greater public access to the budget process by mandating at least one week of public comment, holding public hearings and committee meetings before budget votes, and making public the documents showing which legislators and agencies requested specific budget provisions or funding once the budget becomes law.",
+  "aiProArguments": "Supporters argue this bill increases government transparency and allows citizens to see how their tax dollars are allocated and which legislators are requesting specific funding. They contend that requiring public hearings, comment periods, and access to budget request documents strengthens democratic accountability and helps voters make informed decisions about their representatives' budget priorities.",
+  "aiConArguments": "Opponents may argue that the bill could slow down the budget process by adding mandatory waiting periods and multiple meetings, potentially delaying necessary government spending. They may also express concerns that making budget requests public could discourage candid internal discussions between legislators and limit their ability to negotiate freely, or that the transparency could enable special interest groups to target specific legislators based on their funding requests.",
+  "topic": "Taxes & Budget",
+  "textLength": 3669,
+  "createdAt": "2026-06-23T03:06:29.124Z",
+  "sponsors": [
+    {"peopleId":16251,"name":"Graig Meyer","party":"D","isPrimary":true},
+    {"peopleId":24220,"name":"Val Applewhite","party":"D","isPrimary":true},
+    {"peopleId":24222,"name":"Lisa Grafstein","party":"D","isPrimary":true},
+    {"peopleId":21633,"name":"Natalie Murdock","party":"D","isPrimary":false},
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":false},
+    {"peopleId":25859,"name":"Caleb Theodros","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

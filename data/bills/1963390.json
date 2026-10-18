@@ -1,0 +1,25 @@
+{
+  "billId": 1963390,
+  "billNumber": "H85",
+  "title": "Removal of Precinct Officials",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "0f5e4af279eda10347670687195c8844",
+  "lastAction": "Re-ref Com On Judiciary 1",
+  "lastActionDate": "2025-04-08",
+  "url": "https://legiscan.com/NC/bill/H85/2025",
+  "aiSummary": "This bill clarifies the process for removing precinct election officials who fail to perform their duties, allows county election boards to prohibit removed officials from serving in future elections, establishes a minimum of six emergency election-day assistants per county, and requires specific training topics for all precinct officials.",
+  "aiProArguments": "Supporters argue this bill strengthens election integrity by making it easier to remove incompetent or negligent poll workers and preventing repeat offenders from future service. The training requirements ensure precinct officials understand their duties regarding voter registration, ballot procedures, and accessibility. The emergency assistant provision guarantees counties have adequate staffing to handle unexpected absences or issues on election day.",
+  "aiConArguments": "Opponents may contend that the removal provisions could be misused for political purposes without sufficient due process protections, and that the vague standard of 'failure to discharge duties' is subject to interpretation. Some may argue the mandatory training requirements add administrative burden to counties with limited resources, and that six emergency assistants per county may be insufficient for larger, more complex counties.",
+  "topic": "Elections & Voting",
+  "textLength": 8606,
+  "createdAt": "2026-06-23T02:40:36.256Z",
+  "sponsors": [
+    {"peopleId":20519,"name":"Keith Kidwell","party":"R","isPrimary":true},
+    {"peopleId":22613,"name":"Ben Moss","party":"R","isPrimary":true},
+    {"peopleId":24219,"name":"Bill Ward","party":"R","isPrimary":true},
+    {"peopleId":22608,"name":"Diane Wheatley","party":"R","isPrimary":true},
+    {"peopleId":2077,"name":"Mary Harrison","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

@@ -1,0 +1,21 @@
+{
+  "billId": 1985135,
+  "billNumber": "S189",
+  "title": "Winston-Salem Civil Service Board",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "f8a93b1d57276f46361f4960c73d7387",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-02-27",
+  "url": "https://legiscan.com/NC/bill/S189/2025",
+  "aiSummary": "This bill amends Winston-Salem's city charter to add a requirement that former city employees appointed to the Civil Service Board must have left city employment in good standing without any sustained conduct violations or disciplinary actions that would make them ineligible for rehire. The change applies to board appointments made on or after August 1, 2025.",
+  "aiProArguments": "Supporters argue this requirement ensures the Civil Service Board maintains integrity and credibility by excluding individuals with disciplinary histories who might have conflicts of interest or grudges against the city. They contend that board members overseeing employee conduct and discipline should themselves have demonstrated exemplary conduct and compliance with city policies, making decisions more impartial and trustworthy.",
+  "aiConArguments": "Opponents may argue this restriction limits the pool of qualified candidates who could bring valuable experience as former city employees, potentially excluding individuals whose disciplinary issues were minor or disputed. They might also contend that the seven-year separation requirement already provides sufficient distance from past employment, and adding conduct restrictions could be seen as preventing rehabilitation or unfairly permanent consequences for employees.",
+  "topic": "Local Government",
+  "textLength": 2299,
+  "createdAt": "2026-06-23T03:05:40.435Z",
+  "sponsors": [
+    {"peopleId":17457,"name":"Paul Lowe","party":"D","isPrimary":true}
+  ],
+  "rollCalls": []
+}

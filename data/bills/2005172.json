@@ -1,0 +1,25 @@
+{
+  "billId": 2005172,
+  "billNumber": "S278",
+  "title": "The Smart Heart Act",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "d825718ca40552a154ec9f8980686793",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2025-03-13",
+  "url": "https://legiscan.com/NC/bill/S278/2025",
+  "aiSummary": "This bill requires all North Carolina public schools to develop cardiac emergency response plans and install at least one automatic external defibrillator (AED) in each school. Schools must train staff in CPR and AED use, conduct annual practice drills, and coordinate with local emergency services. The state provides $2 million in funding to help schools purchase AEDs and develop these plans.",
+  "aiProArguments": "Supporters argue that sudden cardiac arrest can strike anyone, including students and staff, and that quick access to AEDs and trained responders significantly increases survival rates. They point out that the American Heart Association recommends AEDs in schools and that having organized emergency response plans with trained personnel can save lives during critical minutes before paramedics arrive. Advocates also note that the state funding helps offset the costs for schools to implement these potentially lifesaving measures.",
+  "aiConArguments": "Opponents may raise concerns about the ongoing costs to schools beyond the initial $2 million, including AED maintenance, battery replacement, and staff training updates year after year. Some question whether the funding amount is sufficient for all schools statewide and worry about the administrative burden of developing and annually updating plans. Others may argue that resources could be spent on other pressing school needs or that liability concerns for schools using AEDs need clearer protection.",
+  "topic": "Education",
+  "textLength": 5313,
+  "createdAt": "2026-06-23T03:06:20.404Z",
+  "sponsors": [
+    {"peopleId":18454,"name":"Kevin Corbin","party":"R","isPrimary":true},
+    {"peopleId":20513,"name":"Bobby Hanig","party":"R","isPrimary":true},
+    {"peopleId":25212,"name":"Bob Brinson","party":"R","isPrimary":false},
+    {"peopleId":11858,"name":"Timothy Moffitt","party":"R","isPrimary":false},
+    {"peopleId":20223,"name":"Mujtaba Mohammed","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

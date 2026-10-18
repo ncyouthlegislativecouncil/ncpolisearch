@@ -1,0 +1,21 @@
+{
+  "billId": 2013868,
+  "billNumber": "S530",
+  "title": "Ag Manufacturing Economic Development",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "29f1fcbf538aec460be2cbbe9d68139f",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-26",
+  "url": "https://legiscan.com/NC/bill/S530/2025",
+  "aiSummary": "This bill creates a new Agricultural Manufacturing Investment Grant Account within North Carolina's One North Carolina Fund, allocating up to $5 million to provide competitive grants to agricultural manufacturers. Eligible companies can receive grants up to $100,000 annually (capped at $500,000 total over five years) if they meet requirements including a minimum $5 million private investment, at least 25 full-time employees, and above-average wages.",
+  "aiProArguments": "Supporters argue this bill stimulates economic development in North Carolina's agricultural sector by providing financial incentives for manufacturing companies to invest, expand, or locate in the state. The program prioritizes rural and economically disadvantaged areas (development tier one and two) and encourages advanced agricultural practices like precision farming and automation, potentially creating quality jobs with above-average wages while diversifying the state's economy.",
+  "aiConArguments": "Opponents may argue that using public funds for private company grants raises questions about government spending efficiency and whether such incentives are necessary for companies that would invest anyway. Concerns include the $5 million cap potentially limiting program reach, the requirement for substantial private investment ($5 million) possibly excluding smaller agricultural manufacturers, and whether performance requirements and repayment provisions adequately protect taxpayer interests if companies fail to meet goals.",
+  "topic": "Agriculture",
+  "textLength": 5789,
+  "createdAt": "2026-06-23T03:08:38.066Z",
+  "sponsors": [
+    {"peopleId":20216,"name":"Jim Burgin","party":"R","isPrimary":true}
+  ],
+  "rollCalls": []
+}

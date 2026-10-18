@@ -1,0 +1,21 @@
+{
+  "billId": 2013933,
+  "billNumber": "S500",
+  "title": "New Health and DSS Building",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "9235dae0a4e6d1cbab4c8b02e9da108d",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2025-03-26",
+  "url": "https://legiscan.com/NC/bill/S500/2025",
+  "aiSummary": "This bill appropriates $14 million in state funds to Pamlico County for engineering and constructing a new Department of Health and Social Services building. The current facility has been abandoned due to moisture and mold problems, and this grant would help the county build a replacement on county-owned property.",
+  "aiProArguments": "Supporters argue that the current facility is unusable due to serious structural problems (moisture and mold), making a new building necessary to ensure the county can continue providing essential health and social services to residents. They contend that state funding helps a smaller county afford critical infrastructure that serves vulnerable populations including children, elderly residents, and those needing social assistance.",
+  "aiConArguments": "Opponents may argue about the appropriate level of state versus local funding responsibility, questioning whether state General Fund dollars should cover county infrastructure when counties have other revenue options. Some may express concerns about the precedent of directed grants to specific counties and whether $14 million represents the most cost-effective solution or if alternatives were adequately evaluated.",
+  "topic": "Taxes & Budget",
+  "textLength": 971,
+  "createdAt": "2026-06-23T03:08:23.802Z",
+  "sponsors": [
+    {"peopleId":11862,"name":"Norman Sanderson","party":"R","isPrimary":true}
+  ],
+  "rollCalls": []
+}

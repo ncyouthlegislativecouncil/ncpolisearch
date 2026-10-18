@@ -1,0 +1,25 @@
+{
+  "billId": 2147086,
+  "billNumber": "S1033",
+  "title": "NC Children's Safe Screens Act/Funds",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "a621ee630619297a2bccd9730c0176c2",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2026-05-05",
+  "url": "https://legiscan.com/NC/bill/S1033/2025",
+  "aiSummary": "This bill creates new state protections for children online by establishing an Online Safety Division in the Attorney General's office and a North Carolina Online Child Safety Commission. It requires large social media and tech platforms (those with over 5 million North Carolina users and $25+ million annual revenue) to implement safety features like parental controls, restrict manipulative design practices called \"dark patterns,\" protect children's data, and submit annual safety assessments. The bill appropriates $18 million total for enforcement and education.",
+  "aiProArguments": "Supporters argue this bill protects vulnerable children from documented online harms including cyberbullying, addictive platform features, exposure to harmful content, and data exploitation. They point out that tech platforms have prioritized engagement over safety, and that children lack the developmental maturity to resist manipulative design. Proponents contend that strong parental controls, data privacy protections, and restrictions on deceptive practices will improve children's digital wellbeing while the dedicated Commission will adapt regulations as technology evolves.",
+  "aiConArguments": "Opponents worry the bill grants broad regulatory power to a new government agency that could restrict free speech or limit platform innovation, and note that the vague definition of \"dark patterns\" and \"harmful content\" may lead to inconsistent enforcement. They argue the requirements impose significant compliance costs on platforms, which could disadvantage smaller companies and potentially limit services available to North Carolina residents. Some also contend that parental involvement and digital literacy education are more effective than government regulation, and that First Amendment protections should limit content moderation mandates.",
+  "topic": "Technology & Privacy",
+  "textLength": 24155,
+  "createdAt": "2026-06-23T03:12:49.642Z",
+  "sponsors": [
+    {"peopleId":20220,"name":"Michael Garrett","party":"D","isPrimary":true},
+    {"peopleId":22426,"name":"DeAndrea Salvador","party":"D","isPrimary":true},
+    {"peopleId":20505,"name":"Sydney Batch","party":"D","isPrimary":true},
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

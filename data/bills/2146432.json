@@ -1,0 +1,29 @@
+{
+  "billId": 2146432,
+  "billNumber": "S899",
+  "title": "School Mental Health Support Act",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "c9f3f66bdd766a833b120c2c71c38e05",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2026-04-30",
+  "url": "https://legiscan.com/NC/bill/S899/2025",
+  "aiSummary": "This bill establishes two programs to increase mental health support in North Carolina schools and recruit mental health workers to underserved areas. It appropriates $50 million for school mental health grants to public school units and $50 million for a loan repayment program for mental health professionals working in high-need areas.",
+  "aiProArguments": "Supporters argue this bill addresses a critical shortage of mental health services in schools, particularly for students without insurance or with disabilities. They contend that loan repayment incentives will attract qualified mental health professionals to rural and economically disadvantaged areas where these services are most needed, improving student mental health outcomes and closing access gaps.",
+  "aiConArguments": "Opponents may argue that $100 million in new spending raises fiscal concerns, particularly regarding long-term budget sustainability for recurring programs. Some may question whether loan repayment is the most cost-effective approach compared to direct salary increases, or whether the programs adequately ensure accountability for how grant funds are spent and what measurable improvements result.",
+  "topic": "Education",
+  "textLength": 8576,
+  "createdAt": "2026-06-23T03:11:41.735Z",
+  "sponsors": [
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":true},
+    {"peopleId":21633,"name":"Natalie Murdock","party":"D","isPrimary":true},
+    {"peopleId":17147,"name":"Gale Adcock","party":"D","isPrimary":false},
+    {"peopleId":25858,"name":"Sophia Chitlik","party":"D","isPrimary":false},
+    {"peopleId":24222,"name":"Lisa Grafstein","party":"D","isPrimary":false},
+    {"peopleId":12032,"name":"Gladys Robinson","party":"D","isPrimary":false},
+    {"peopleId":22426,"name":"DeAndrea Salvador","party":"D","isPrimary":false},
+    {"peopleId":25859,"name":"Caleb Theodros","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

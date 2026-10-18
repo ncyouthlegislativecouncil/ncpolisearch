@@ -1,0 +1,21 @@
+{
+  "billId": 1996036,
+  "billNumber": "S253",
+  "title": "Funds for Pitt-Greenville Airport",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "e8c93781f02b18af350192ee3f215e79",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2025-03-11",
+  "url": "https://legiscan.com/NC/bill/S253/2025",
+  "aiSummary": "This bill appropriates $10 million in state highway funds to the Pitt-Greenville Airport for constructing a new general aviation terminal designed to address flood mitigation concerns. The funds would be made available starting July 1, 2025.",
+  "aiProArguments": "Supporters argue this investment improves critical infrastructure for regional aviation and economic development in Eastern North Carolina. The flood mitigation component addresses safety concerns and protects airport operations from weather-related disruptions, potentially reducing future disaster recovery costs.",
+  "aiConArguments": "Opponents may question whether highway funds should be diverted to airport projects, argue the $10 million allocation is excessive for a general aviation terminal, or contend that local/federal resources should bear more of the cost. Some may also question whether flood mitigation justifies the expense or if alternative solutions would be more cost-effective.",
+  "topic": "Transportation & Infrastructure",
+  "textLength": 850,
+  "createdAt": "2026-06-23T03:06:09.193Z",
+  "sponsors": [
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":true}
+  ],
+  "rollCalls": []
+}

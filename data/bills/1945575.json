@@ -1,0 +1,23 @@
+{
+  "billId": 1945575,
+  "billNumber": "S20",
+  "title": "Prohibiting Certain Mass Balloon Releases",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "866898fbf8c683bc8101b1cbeefc0fd5",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-01-30",
+  "url": "https://legiscan.com/NC/bill/S20/2025",
+  "aiSummary": "This bill makes it illegal in North Carolina for people to organize or participate in mass balloon releases into the atmosphere. Violators would face a $250 fine as an infraction. The bill exempts balloons released for scientific or meteorological purposes by government agencies and hot air balloons that are recovered after launching.",
+  "aiProArguments": "Supporters argue that balloon releases harm wildlife and marine animals that may ingest balloon debris or become entangled in it, and that released balloons damage the state's scenic beauty. They contend that the $250 fine is a reasonable penalty to discourage a practice that has documented negative environmental and ecological impacts without significant public benefit.",
+  "aiConArguments": "Opponents may argue that the bill restricts personal freedom for symbolic or ceremonial balloon releases, such as memorials, and that enforcement could be difficult and costly. Some may also contend that the penalty is harsh for what they view as a minor offense, or that education about environmental impacts would be more effective than criminalization.",
+  "topic": "Environment & Energy",
+  "textLength": 1793,
+  "createdAt": "2026-06-23T03:04:13.259Z",
+  "sponsors": [
+    {"peopleId":20513,"name":"Bobby Hanig","party":"R","isPrimary":true},
+    {"peopleId":17147,"name":"Gale Adcock","party":"D","isPrimary":false},
+    {"peopleId":25860,"name":"Woodson Bradley","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

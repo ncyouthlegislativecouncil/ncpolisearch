@@ -1,0 +1,21 @@
+{
+  "billId": 1968665,
+  "billNumber": "S100",
+  "title": "SchCalFlex/Moore/CC",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "d1fa2a6b77a931bc25f006ccb6836d49",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-02-17",
+  "url": "https://legiscan.com/NC/bill/S100/2025",
+  "aiSummary": "This bill allows Moore County Schools to align its school calendar with Sandhills Community College's calendar, rather than following the standard state requirements for opening and closing dates. The change applies only to Moore County Schools beginning in the 2025-2026 school year.",
+  "aiProArguments": "Supporters argue that aligning K-12 and community college calendars improves coordination and efficiency for students who attend both institutions, reduces scheduling conflicts for dual enrollment programs, and allows families with children at both school levels to have coordinated breaks. This alignment could make it easier for high school students to take college courses and support workforce development initiatives.",
+  "aiConArguments": "Opponents may be concerned that allowing individual counties to deviate from state calendar requirements creates inconsistency across North Carolina schools, potentially complicating student transfers between districts. Some may worry that calendar flexibility could disadvantage students who move or that it sets a precedent for other counties to request similar exemptions, fragmenting the statewide school calendar system.",
+  "topic": "Education",
+  "textLength": 2613,
+  "createdAt": "2026-06-23T03:04:55.639Z",
+  "sponsors": [
+    {"peopleId":17437,"name":"Thomas McInnis","party":"R","isPrimary":true}
+  ],
+  "rollCalls": []
+}

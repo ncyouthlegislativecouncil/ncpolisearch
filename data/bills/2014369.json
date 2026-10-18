@@ -1,0 +1,26 @@
+{
+  "billId": 2014369,
+  "billNumber": "S631",
+  "title": "Juvenile Justice Workforce Fix/Funds",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "7ce743b6b8455a8d0502edd6e5f212d3",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2025-03-26",
+  "url": "https://legiscan.com/NC/bill/S631/2025",
+  "aiSummary": "This bill appropriates $10.4 million for fiscal year 2025-2026 and $14.1 million for fiscal year 2026-2027 to increase salaries for juvenile justice staff in North Carolina, including Youth Counselor Technicians, Youth Services Behavioral Specialists, Youth Counselors, and Juvenile Court Counselors. The bill also allocates $3.9 million to address salary compression among these employees.",
+  "aiProArguments": "Supporters argue that this bill addresses critical workforce shortages in juvenile justice by making these positions more competitive and attractive to qualified candidates. They contend that higher salaries will improve staff retention, reduce turnover costs, and ultimately enhance the quality of care and services provided to youth in the state's juvenile justice system.",
+  "aiConArguments": "Opponents may argue that the bill represents a significant state spending commitment during a time when other budget priorities exist, and they may question whether salary increases alone will solve workforce challenges without broader systemic reforms. Some may also raise concerns about whether the appropriated amounts are sufficient to meaningfully address retention issues or whether funds could be allocated more efficiently elsewhere.",
+  "topic": "Criminal Justice & Public Safety",
+  "textLength": 2857,
+  "createdAt": "2026-06-23T03:09:29.365Z",
+  "sponsors": [
+    {"peopleId":25860,"name":"Woodson Bradley","party":"D","isPrimary":true},
+    {"peopleId":25859,"name":"Caleb Theodros","party":"D","isPrimary":true},
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":true},
+    {"peopleId":25858,"name":"Sophia Chitlik","party":"D","isPrimary":false},
+    {"peopleId":20220,"name":"Michael Garrett","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

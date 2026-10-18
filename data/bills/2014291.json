@@ -1,0 +1,29 @@
+{
+  "billId": 2014291,
+  "billNumber": "S638",
+  "title": "Fair Maps Act",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "056900106befba111faceb3c23c8003e",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-26",
+  "url": "https://legiscan.com/NC/bill/S638/2025",
+  "aiSummary": "This bill proposes a constitutional amendment to remove the General Assembly and Governor from redistricting decisions and instead create an independent North Carolina Citizens Redistricting Commission to draw state legislative and congressional district maps after each census. The commission would be composed of 15 citizens selected through a process designed to ensure political balance and diversity, and would follow strict criteria prioritizing equal population, constitutional compliance, contiguous districts, and community preservation.",
+  "aiProArguments": "Supporters argue this eliminates partisan gerrymandering by removing politicians' control over their own district boundaries, which they contend unfairly advantages the party in power. They point out that independent commissions in other states have produced fairer maps that better reflect voter preferences. Proponents also highlight the bill's safeguards: balanced commission membership, transparent public hearings, strict timelines, and eligibility requirements that exclude political operatives and major donors.",
+  "aiConArguments": "Opponents raise concerns that the commission process is complex and potentially difficult to implement, particularly the requirement for cross-partisan consensus votes. Some argue the criteria for evaluating plans, especially provisions about 'equal opportunity to elect representatives of their choice,' remain subjective and could lead to litigation. Critics also question whether a citizen commission truly insulates redistricting from politics, and note that the amendment requires voter approval in 2026 before taking effect.",
+  "topic": "Elections & Voting",
+  "textLength": 39514,
+  "createdAt": "2026-06-23T03:09:34.048Z",
+  "sponsors": [
+    {"peopleId":25860,"name":"Woodson Bradley","party":"D","isPrimary":true},
+    {"peopleId":20510,"name":"Terence Everitt","party":"D","isPrimary":true},
+    {"peopleId":25858,"name":"Sophia Chitlik","party":"D","isPrimary":false},
+    {"peopleId":20220,"name":"Michael Garrett","party":"D","isPrimary":false},
+    {"peopleId":24222,"name":"Lisa Grafstein","party":"D","isPrimary":false},
+    {"peopleId":22425,"name":"Julie Mayfield","party":"D","isPrimary":false},
+    {"peopleId":16251,"name":"Graig Meyer","party":"D","isPrimary":false},
+    {"peopleId":21633,"name":"Natalie Murdock","party":"D","isPrimary":false},
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

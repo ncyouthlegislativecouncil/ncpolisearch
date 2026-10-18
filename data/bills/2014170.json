@@ -1,0 +1,24 @@
+{
+  "billId": 2014170,
+  "billNumber": "S582",
+  "title": "Wellness Break Act",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "6fced7f7729ff9d59115de3b02306ec2",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2025-03-26",
+  "url": "https://legiscan.com/NC/bill/S582/2025",
+  "aiSummary": "The Wellness Break Act establishes a paid sabbatical leave program for long-term employees in North Carolina's public and private sectors. State, local, and county employees who have worked continuously in the same position for three years can take 4-6 weeks of paid leave (at 70% salary) for health, wellness, or skill development, while private businesses receive tax credits and grants to help offset sabbatical costs.",
+  "aiProArguments": "Supporters argue that sabbatical leave improves employee health, reduces burnout, and increases retention of experienced workers—addressing workforce challenges in both public and private sectors. The program provides financial incentives through tax credits (up to $5,000 per employee) and grants for small businesses, making sabbaticals affordable while boosting productivity and employee well-being. Public employees and schools benefit from $10 million in state funding, while private employers gain recognition as 'Workforce Wellness Leaders' and access to research on sabbatical benefits.",
+  "aiConArguments": "Opponents may worry about the $20 million in state appropriations needed to fund the program during budget constraints, and concerns about service disruptions if multiple employees take sabbaticals simultaneously. Critics could argue that requiring employees to repay half their sabbatical costs if they leave within one year creates financial barriers, and that the program may primarily benefit higher-income employees or sectors with easier coverage. Some may question whether temporary leave addresses underlying workplace issues or if resources would be better spent on salary increases and staffing improvements.",
+  "topic": "Business & Labor",
+  "textLength": 10816,
+  "createdAt": "2026-06-23T03:09:04.771Z",
+  "sponsors": [
+    {"peopleId":25859,"name":"Caleb Theodros","party":"D","isPrimary":true},
+    {"peopleId":25858,"name":"Sophia Chitlik","party":"D","isPrimary":true},
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

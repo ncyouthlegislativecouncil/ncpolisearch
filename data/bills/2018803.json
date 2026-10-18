@@ -1,0 +1,27 @@
+{
+  "billId": 2018803,
+  "billNumber": "H702",
+  "title": "Chiropractic Education Changes",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "a7b5af3045e455d38e48d1532cf589c4",
+  "lastAction": "Ref to the Com on Health, if favorable, Regulatory Reform, if favorable, Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-04-03",
+  "url": "https://legiscan.com/NC/bill/H702/2025",
+  "aiSummary": "This bill modifies North Carolina's chiropractic licensing requirements by changing the education standard from a specific 4,200-hour requirement to requiring a Doctor of Chiropractic degree from an accredited program, adds acupuncture certification authority for chiropractors, and makes updates to board composition and supervision standards for chiropractic students.",
+  "aiProArguments": "Supporters argue this bill modernizes chiropractic education standards by aligning them with nationally recognized accreditation bodies, potentially making licensing clearer and more consistent. They contend that allowing chiropractors to become certified in acupuncture expands patient care options and gives practitioners additional tools to serve their communities. The changes to board composition and public member definitions are intended to ensure more balanced oversight of the profession.",
+  "aiConArguments": "Opponents may be concerned that removing the specific 4,200-hour requirement could lower educational standards if accredited programs require fewer hours than previously mandated. Some may worry that expanding chiropractor scope to include acupuncture certification could dilute specialized training requirements or create gaps in patient safety oversight. Critics might also question whether changes to board member selection could affect the profession's self-regulation or public representation on licensing boards.",
+  "topic": "Healthcare",
+  "textLength": 8123,
+  "createdAt": "2026-06-23T02:56:37.092Z",
+  "sponsors": [
+    {"peopleId":2122,"name":"Mitchell Setzer","party":"R","isPrimary":true},
+    {"peopleId":2083,"name":"Julia Howard","party":"R","isPrimary":true},
+    {"peopleId":25841,"name":"Jonathan Almond","party":"R","isPrimary":true},
+    {"peopleId":25848,"name":"Cody Huneycutt","party":"R","isPrimary":true},
+    {"peopleId":21375,"name":"Jeffrey McNeely","party":"R","isPrimary":false},
+    {"peopleId":22613,"name":"Ben Moss","party":"R","isPrimary":false},
+    {"peopleId":24219,"name":"Bill Ward","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

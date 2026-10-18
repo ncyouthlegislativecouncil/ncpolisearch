@@ -1,0 +1,27 @@
+{
+  "billId": 2013860,
+  "billNumber": "S499",
+  "title": "Allow Housing Near Jobs",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "828e3801702e80305ca8f53b8f971e8a",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-26",
+  "url": "https://legiscan.com/NC/bill/S499/2025",
+  "aiSummary": "This bill would require local governments in North Carolina to allow residential housing in areas zoned for commercial, office, or retail use without requiring special zoning amendments or permits. It would also permit the conversion of existing commercial buildings to residential use in these zones. Building codes and safety regulations would still apply.",
+  "aiProArguments": "Supporters argue this bill addresses housing shortages by allowing more homes to be built in accessible locations near jobs and services, potentially reducing housing costs through increased supply. They contend it promotes walkable communities, reduces commute times, and makes efficient use of commercial spaces that may be underutilized, while updating zoning rules that were designed for an earlier era.",
+  "aiConArguments": "Opponents worry this bill could undermine local land-use planning by removing local government authority over zoning decisions without community input. They raise concerns about potential conflicts between residential and commercial uses, parking challenges, impacts on neighborhood character, and whether it adequately addresses infrastructure needs like schools and utilities in affected areas.",
+  "topic": "Housing",
+  "textLength": 1302,
+  "createdAt": "2026-06-23T03:08:23.088Z",
+  "sponsors": [
+    {"peopleId":11858,"name":"Timothy Moffitt","party":"R","isPrimary":true},
+    {"peopleId":22425,"name":"Julie Mayfield","party":"D","isPrimary":true},
+    {"peopleId":24220,"name":"Val Applewhite","party":"D","isPrimary":false},
+    {"peopleId":25860,"name":"Woodson Bradley","party":"D","isPrimary":false},
+    {"peopleId":25858,"name":"Sophia Chitlik","party":"D","isPrimary":false},
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":false},
+    {"peopleId":25859,"name":"Caleb Theodros","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

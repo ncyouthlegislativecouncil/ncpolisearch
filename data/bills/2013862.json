@@ -1,0 +1,22 @@
+{
+  "billId": 2013862,
+  "billNumber": "S496",
+  "title": "Funds For Coastal Federation",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "54bb8781b497d1eb03fb81c91c476290",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2025-03-26",
+  "url": "https://legiscan.com/NC/bill/S496/2025",
+  "aiSummary": "This bill appropriates $6.25 million in one-time state funding and $1 million annually for two years to the North Carolina Coastal Federation for four specific projects: an education and event center in Carteret County, a living shoreline protection program, an oyster shell recycling program, and an abandoned vessel removal program.",
+  "aiProArguments": "Supporters argue this bill addresses important coastal conservation and environmental protection needs in North Carolina. The funding leverages $8 million in private donations for the education center, protects shorelines from erosion through the living shoreline program, supports marine ecosystem restoration through oyster shell recycling, and removes derelict vessels that pose safety and environmental hazards to coastal communities.",
+  "aiConArguments": "Opponents may question whether directing state funds to a specific nonprofit organization is the most efficient use of taxpayer money, and whether these projects should compete through standard grant processes instead. Some may be concerned about the nonrecurring nature of most funding, which could leave programs unsustainable after 2026, or question whether these environmental priorities should take precedence over other state needs.",
+  "topic": "Taxes & Budget",
+  "textLength": 1589,
+  "createdAt": "2026-06-23T03:08:21.546Z",
+  "sponsors": [
+    {"peopleId":11862,"name":"Norman Sanderson","party":"R","isPrimary":true},
+    {"peopleId":20513,"name":"Bobby Hanig","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

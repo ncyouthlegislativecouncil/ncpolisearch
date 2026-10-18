@@ -1,0 +1,23 @@
+{
+  "billId": 1984682,
+  "billNumber": "S188",
+  "title": "Financial Support to NC4ME",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "dcf9604c6a42993e16fb70fe9029b581",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2025-02-27",
+  "url": "https://legiscan.com/NC/bill/S188/2025",
+  "aiSummary": "This bill appropriates $450,000 per year to the Department of Commerce for the 2025-2027 fiscal biennium to support North Carolina for Military Employment (NC4ME), a workforce development organization that helps transitioning service members, veterans, and military spouses find jobs. The bill requires NC4ME to submit annual reports detailing how funds were spent and employment outcomes achieved.",
+  "aiProArguments": "Supporters argue that this funding addresses a critical need to help veterans and transitioning service members successfully enter the civilian workforce, reducing unemployment and underemployment in this population. Proponents contend that the investment benefits employers by connecting them with trained, disciplined talent while supporting military families—including spouses—during career transitions, and the required reporting ensures accountability for public funds.",
+  "aiConArguments": "Opponents may question whether $450,000 annually is a cost-effective use of general funds compared to other workforce or veteran programs, or whether existing resources could be redirected rather than creating new appropriations. Some might also express concern about the organization's track record and whether annual reporting requirements provide sufficient oversight to guarantee meaningful employment outcomes and efficient spending.",
+  "topic": "Business & Labor",
+  "textLength": 1684,
+  "createdAt": "2026-06-23T03:05:39.951Z",
+  "sponsors": [
+    {"peopleId":22424,"name":"Michael Lazzara","party":"R","isPrimary":true},
+    {"peopleId":25212,"name":"Bob Brinson","party":"R","isPrimary":false},
+    {"peopleId":17504,"name":"Michael Lee","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

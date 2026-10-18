@@ -1,0 +1,21 @@
+{
+  "billId": 2014016,
+  "billNumber": "S609",
+  "title": "Steele Creek Investment and Improvement Act",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "b47c0ec98f6c76feea50d1823f83f8a0",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-26",
+  "url": "https://legiscan.com/NC/bill/S609/2025",
+  "aiSummary": "This bill appropriates $1.25 million in state funds for three projects in Mecklenburg County's Steele Creek community: $250,000 to a nonprofit for community health and wellness programs, $500,000 to the local fire and rescue service for equipment and facilities, and $500,000 to the Department of Transportation for a traffic study on Shopton Road West.",
+  "aiProArguments": "Supporters argue that Steele Creek has experienced rapid population growth of over 70% in 15 years and serves as a major commercial and manufacturing hub for the region, making infrastructure and service investments necessary and justified. They contend that many Steele Creek residents in unincorporated Mecklenburg County lack access to municipal services, and these funds address critical gaps in fire and rescue capabilities, community health resources, and traffic management that affect residents and regional commerce.",
+  "aiConArguments": "Opponents may argue that directing state General Fund dollars to a specific community sets a precedent that could lead to similar funding requests from other growing areas across North Carolina. They might also question whether nonrecurring state funds are the appropriate source for ongoing community services and infrastructure that could potentially be addressed through local funding, public-private partnerships, or regional solutions.",
+  "topic": "Taxes & Budget",
+  "textLength": 2940,
+  "createdAt": "2026-06-23T03:09:18.657Z",
+  "sponsors": [
+    {"peopleId":22426,"name":"DeAndrea Salvador","party":"D","isPrimary":true}
+  ],
+  "rollCalls": []
+}

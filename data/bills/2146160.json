@@ -1,0 +1,21 @@
+{
+  "billId": 2146160,
+  "billNumber": "S892",
+  "title": "Funds for Pitt-Greenville Airport",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "5b949ae9f920ef3365de3639b3bfa75f",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2026-04-29",
+  "url": "https://legiscan.com/NC/bill/S892/2025",
+  "aiSummary": "This bill appropriates $10 million in state Highway Fund money to the Pitt-Greenville Airport for construction of a new general aviation terminal. The funds are classified as nonrecurring and become available July 1, 2025.",
+  "aiProArguments": "Supporters argue this investment improves regional airport infrastructure, which can attract business development and economic growth to Eastern North Carolina. They contend a new terminal facility enhances the airport's capacity to serve general aviation users and supports job creation in the construction and aviation industries.",
+  "aiConArguments": "Opponents may question whether Highway Fund dollars should be diverted from road and bridge maintenance to airport construction, or whether $10 million represents the most efficient use of limited state resources. They might also ask whether the airport should secure private funding or federal grants for terminal expansion rather than relying on state general funds.",
+  "topic": "Taxes & Budget",
+  "textLength": 814,
+  "createdAt": "2026-06-23T03:11:37.950Z",
+  "sponsors": [
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":true}
+  ],
+  "rollCalls": []
+}

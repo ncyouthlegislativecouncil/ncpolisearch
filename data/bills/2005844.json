@@ -1,0 +1,30 @@
+{
+  "billId": 2005844,
+  "billNumber": "H399",
+  "title": "NC Board of Nursing Licensure Fees",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "0e710f2a3cfc25b1264e633c913d37b3",
+  "lastAction": "Re-ref Com On Finance",
+  "lastActionDate": "2025-04-15",
+  "url": "https://legiscan.com/NC/bill/H399/2025",
+  "aiSummary": "This bill doubles most licensing fees charged by the North Carolina Board of Nursing for registered nurses, licensed practical nurses, and related services. The fee increases will take effect October 1, 2025, and apply to new applications, renewals, and reinstatements, with a cap preventing year-to-year increases of more than 20%.",
+  "aiProArguments": "Supporters argue that nursing license fees have not been updated in many years and no longer cover the Board's operational costs, forcing it to rely on outdated revenue. The fee increases would ensure the Board can fully fund its licensing, examination, and disciplinary functions without state taxpayer support, while the 20% annual cap prevents sudden, excessive increases.",
+  "aiConArguments": "Opponents contend that doubling fees places financial burden on nurses already facing rising education and credentialing costs, potentially making entry into the profession more expensive. Critics argue the increases may disproportionately impact lower-income nurses and could discourage licensure renewals or reinstatements, affecting healthcare workforce availability.",
+  "topic": "Business & Labor",
+  "textLength": 4307,
+  "createdAt": "2026-06-23T02:50:17.976Z",
+  "sponsors": [
+    {"peopleId":18495,"name":"Donna White","party":"R","isPrimary":true},
+    {"peopleId":22608,"name":"Diane Wheatley","party":"R","isPrimary":true},
+    {"peopleId":14612,"name":"Carla Cunningham","party":"D","isPrimary":true},
+    {"peopleId":22599,"name":"Amber Baker","party":"D","isPrimary":false},
+    {"peopleId":18451,"name":"Mary Belk","party":"D","isPrimary":false},
+    {"peopleId":25842,"name":"Bryan Cohn","party":"D","isPrimary":false},
+    {"peopleId":2077,"name":"Mary Harrison","party":"D","isPrimary":false},
+    {"peopleId":20521,"name":"Carolyn Logan","party":"D","isPrimary":false},
+    {"peopleId":20522,"name":"Nasif Majeed","party":"D","isPrimary":false},
+    {"peopleId":17158,"name":"Shelly Willingham","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

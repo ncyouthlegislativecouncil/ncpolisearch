@@ -1,0 +1,22 @@
+{
+  "billId": 2022355,
+  "billNumber": "H889",
+  "title": "Lumber River State Park Directives",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "995c30b6c77f0a2cfe5a467f227618b2",
+  "lastAction": "Ref to the Com on State and Local Government, if favorable, Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-04-14",
+  "url": "https://legiscan.com/NC/bill/H889/2025",
+  "aiSummary": "This bill directs the Department of Natural and Cultural Resources to negotiate an agreement with the Town of Fair Bluff by March 1, 2026, to take over management of the River Walk, park, and parking areas as part of Lumber River State Park, and to relocate the park headquarters to Fair Bluff's Lumber River Visitors Center. The agreement must address shared management responsibilities, user fees, rules, and transfer of necessary assets between the town and state.",
+  "aiProArguments": "Supporters argue this bill improves park management by bringing recreational facilities under state oversight, which may enhance coordination and maintenance standards. Moving the headquarters to Fair Bluff could increase state investment in the town's tourism infrastructure, boost the local economy, and make park services more accessible to visitors at a centralized location.",
+  "aiConArguments": "Opponents may worry that state management could reduce local control and the town's ability to make decisions about its own facilities. There are also concerns about the division of costs and revenues between the town and state, and questions about whether state management will prioritize the town's interests or broader state park priorities.",
+  "topic": "Local Government",
+  "textLength": 3008,
+  "createdAt": "2026-06-23T02:58:59.939Z",
+  "sponsors": [
+    {"peopleId":18460,"name":"Brenden Jones","party":"R","isPrimary":true},
+    {"peopleId":2038,"name":"William Brisson","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

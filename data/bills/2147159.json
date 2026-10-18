@@ -1,0 +1,22 @@
+{
+  "billId": 2147159,
+  "billNumber": "H1205",
+  "title": "Orthodontic Treatment In-Person Exam Req",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "a3c2f8b3d3ecec1b9ad68b0b0f9df333",
+  "lastAction": "Ref to the Com on Appropriations, if favorable, Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2026-05-05",
+  "url": "https://legiscan.com/NC/bill/H1205/2025",
+  "aiSummary": "This bill requires that patients receive an in-person examination by a licensed dentist before receiving orthodontic devices or services in North Carolina. The dentist must examine the patient's teeth and mouth, review diagnostic imaging, and issue a prescription after counseling the patient about treatment options and risks. All relevant records must be kept for at least seven years.",
+  "aiProArguments": "Supporters argue this bill protects patient safety by ensuring orthodontic treatment only happens after proper medical evaluation, preventing treatment of patients with untreated cavities, gum disease, or other oral conditions that could be harmed by orthodontic devices. They contend it addresses concerns about direct-to-consumer or remote orthodontic services that bypass necessary professional oversight and diagnostic imaging.",
+  "aiConArguments": "Opponents may argue this bill could increase costs and barriers to orthodontic care by requiring in-person visits, potentially limiting access for patients in rural areas or those with transportation challenges. They might also contend that the requirement could slow treatment timelines and that some patients seeking remote orthodontic services already have established dental care and don't need the additional examination.",
+  "topic": "Healthcare",
+  "textLength": 5522,
+  "createdAt": "2026-06-23T03:03:26.917Z",
+  "sponsors": [
+    {"peopleId":2115,"name":"Garland Pierce","party":"D","isPrimary":true},
+    {"peopleId":20522,"name":"Nasif Majeed","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

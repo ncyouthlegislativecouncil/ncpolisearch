@@ -1,0 +1,21 @@
+{
+  "billId": 1971863,
+  "billNumber": "S106",
+  "title": "Funds/Onslow Water and Sewer Authority",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "3e10fe1271cecf167df5e63aeb57a80a",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2025-02-21",
+  "url": "https://legiscan.com/NC/bill/S106/2025",
+  "aiSummary": "This bill appropriates $3 million in state funding to the Onslow Water and Sewer Authority to construct a water tower that will serve North Topsail Beach. The funds come from the state's General Fund and are designated for the 2025-2026 fiscal year.",
+  "aiProArguments": "Supporters argue that this water tower is necessary infrastructure that will improve water service reliability and capacity for North Topsail Beach residents and businesses. The investment addresses a specific regional need and may support economic development, public health, and emergency preparedness in the area.",
+  "aiConArguments": "Opponents may question whether state General Fund dollars should be used for local infrastructure projects, arguing that the Onslow Water and Sewer Authority or local governments should fund their own water systems. Some may also raise concerns about whether this represents the best use of limited state funds compared to other statewide priorities.",
+  "topic": "Taxes & Budget",
+  "textLength": 759,
+  "createdAt": "2026-06-23T03:04:57.799Z",
+  "sponsors": [
+    {"peopleId":22424,"name":"Michael Lazzara","party":"R","isPrimary":true}
+  ],
+  "rollCalls": []
+}

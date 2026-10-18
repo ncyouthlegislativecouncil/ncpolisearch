@@ -1,0 +1,27 @@
+{
+  "billId": 2008820,
+  "billNumber": "S302",
+  "title": "The Sergeant Mickey Hutchens Act",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "d1e93200a5ed7c4246efe99a37e95cd3",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-18",
+  "url": "https://legiscan.com/NC/bill/S302/2025",
+  "aiSummary": "This bill allows law enforcement, probation/parole, and correctional officers with advanced certifications to purchase up to four years of additional service credit in North Carolina's retirement systems by paying a lump sum equal to the full cost to the retirement fund. The officers must have at least five years of service and obtain the applicable advanced certificate before purchasing the additional service credit.",
+  "aiProArguments": "Supporters argue this bill recognizes the advanced training and expertise of law enforcement and correctional officers by allowing them to credit additional service toward retirement benefits. Proponents contend that officers pay the full actuarial cost, meaning the retirement system does not subsidize the purchase, and that employers may contribute to the cost. This incentivizes professional development and certification while allowing dedicated public safety officers to potentially retire earlier or with enhanced benefits.",
+  "aiConArguments": "Opponents may argue that allowing officers to purchase service credit increases their retirement payouts, which could strain state and local government budgets over time as these enhanced benefits compound. Critics might also question whether this benefit should be extended to other public service professions, raising concerns about fairness and setting precedents for similar requests from other employee groups.",
+  "topic": "Criminal Justice & Public Safety",
+  "textLength": 7008,
+  "createdAt": "2026-06-23T03:06:33.025Z",
+  "sponsors": [
+    {"peopleId":20513,"name":"Bobby Hanig","party":"R","isPrimary":true},
+    {"peopleId":25250,"name":"Dana Jones","party":"R","isPrimary":true},
+    {"peopleId":11937,"name":"Ralph Hise","party":"R","isPrimary":true},
+    {"peopleId":22423,"name":"Amy Galey","party":"R","isPrimary":false},
+    {"peopleId":11858,"name":"Timothy Moffitt","party":"R","isPrimary":false},
+    {"peopleId":24224,"name":"Buck Newton","party":"R","isPrimary":false},
+    {"peopleId":11862,"name":"Norman Sanderson","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

@@ -1,0 +1,23 @@
+{
+  "billId": 2013803,
+  "billNumber": "S513",
+  "title": "Modify Rqmts. for Wind Energy Facilities",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "8c94368d2dfa17ee6602f5fda128791d",
+  "lastAction": "Re-ref Com On Finance",
+  "lastActionDate": "2025-05-07",
+  "url": "https://legiscan.com/NC/bill/S513/2025",
+  "aiSummary": "This bill requires wind energy facilities to install light-mitigating technology systems (such as aircraft detection lighting) approved by the Federal Aviation Administration and expands public notice requirements by requiring notifications to property owners within 1 mile and counties/municipalities within 20 miles of proposed facilities.",
+  "aiProArguments": "Supporters argue the bill enhances safety by reducing aviation hazards through required light-mitigating technology on wind turbines, which can detect aircraft and adjust lighting accordingly. They contend expanded public notification requirements give more community members and local officials meaningful opportunity to learn about and comment on proposed wind projects before approval.",
+  "aiConArguments": "Opponents may argue the bill creates additional regulatory burdens and delays for wind energy development by requiring FAA approval of light-mitigating technology before permit decisions, potentially slowing clean energy projects. They may also contend that expanded notification areas (20 miles for some notices) could enable more opposition to projects and increase administrative costs for applicants.",
+  "topic": "Environment & Energy",
+  "textLength": 12344,
+  "createdAt": "2026-06-23T03:08:30.084Z",
+  "sponsors": [
+    {"peopleId":20513,"name":"Bobby Hanig","party":"R","isPrimary":true},
+    {"peopleId":25212,"name":"Bob Brinson","party":"R","isPrimary":false},
+    {"peopleId":11862,"name":"Norman Sanderson","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

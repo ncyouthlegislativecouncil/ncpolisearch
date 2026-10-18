@@ -1,0 +1,25 @@
+{
+  "billId": 2147092,
+  "billNumber": "S1052",
+  "title": "Amend Child Care Definitions/FFN Providers",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "67d5d031a06f8f344ef495dabcc09785",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2026-05-05",
+  "url": "https://legiscan.com/NC/bill/S1052/2025",
+  "aiSummary": "This bill adds a legal definition for license-exempt family, friend, and neighbor (FFN) child care providers in North Carolina law. The definition clarifies the status of informal caregivers like relatives and close family friends who provide child care outside the licensed system, and allocates $30,000 to update state materials and data collection systems to reflect this definition.",
+  "aiProArguments": "Supporters argue this bill provides needed clarity about the legal status of FFN providers, who currently operate in an ambiguous regulatory environment. By formally defining FFN providers in statute, the bill enables better data collection, helps these providers access support services and food programs they may be eligible for, and creates a foundation for future policies to support informal child care arrangements that many families rely on.",
+  "aiConArguments": "Opponents may be concerned that even a definitional bill could lead to increased regulation or requirements for FFN providers in the future, despite the bill's stated intent not to impose new obligations. Some may also question whether spending $30,000 on administrative updates and data collection is the most efficient use of state resources, or whether the bill adequately protects child safety in informal care arrangements.",
+  "topic": "Social Services & Welfare",
+  "textLength": 5142,
+  "createdAt": "2026-06-23T03:12:58.496Z",
+  "sponsors": [
+    {"peopleId":17936,"name":"Jay Chaudhuri","party":"D","isPrimary":true},
+    {"peopleId":20216,"name":"Jim Burgin","party":"R","isPrimary":true},
+    {"peopleId":25858,"name":"Sophia Chitlik","party":"D","isPrimary":false},
+    {"peopleId":12032,"name":"Gladys Robinson","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

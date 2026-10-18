@@ -1,0 +1,30 @@
+{
+  "billId": 2022183,
+  "billNumber": "H887",
+  "title": "Address Abandoned and Derelict Vessels",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "3fba1fb9b0f7319504d05db0fef25cdd",
+  "lastAction": "Ref to the Com on State and Local Government, if favorable, Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-04-14",
+  "url": "https://legiscan.com/NC/bill/H887/2025",
+  "aiSummary": "This bill creates new state authority and procedures to identify, notify owners of, and remove abandoned and derelict vessels from North Carolina waters and public/private lands. It defines 'abandoned vessels' as those left for more than 30 days without permission, and 'derelict vessels' as those in poor condition that pose safety or environmental risks. The bill establishes timelines for owner notification and removal, allows the state to recover removal costs, and limits liability for agencies conducting removals.",
+  "aiProArguments": "Supporters argue this bill protects North Carolina's waterways, public safety, and property values by establishing clear procedures to remove eyesores and environmental hazards. They contend abandoned and derelict vessels can sink, leak pollutants, create navigation hazards, damage adjacent properties, and harm wildlife habitats. The bill provides vessel owners a fair 30-day notice period to remove their vessels before state action and allows the state to recover removal costs from owners, ensuring taxpayers aren't burdened.",
+  "aiConArguments": "Opponents may worry the bill gives government broad removal authority with limited liability protection, potentially affecting vessel owners' property rights if notification fails or ownership is unclear. Some may question whether 10-day anchoring limits in state waters are too restrictive for legitimate recreational boating or emergency situations. Concerns could also include whether private contractors hired for removals will act appropriately and whether costs recovered from owners are fairly calculated, particularly for vessels whose owners cannot be located.",
+  "topic": "Environment & Energy",
+  "textLength": 13873,
+  "createdAt": "2026-06-23T02:58:58.037Z",
+  "sponsors": [
+    {"peopleId":22612,"name":"Charles Miller","party":"R","isPrimary":true},
+    {"peopleId":24201,"name":"Celeste Cairns","party":"R","isPrimary":true},
+    {"peopleId":18451,"name":"Mary Belk","party":"D","isPrimary":false},
+    {"peopleId":19238,"name":"Deb Butler","party":"D","isPrimary":false},
+    {"peopleId":2077,"name":"Mary Harrison","party":"D","isPrimary":false},
+    {"peopleId":20515,"name":"Zack Forde-Hawkins","party":"D","isPrimary":false},
+    {"peopleId":20521,"name":"Carolyn Logan","party":"D","isPrimary":false},
+    {"peopleId":19360,"name":"Marcia Morey","party":"D","isPrimary":false},
+    {"peopleId":22946,"name":"Reece Pyrtle","party":"R","isPrimary":false},
+    {"peopleId":24219,"name":"Bill Ward","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

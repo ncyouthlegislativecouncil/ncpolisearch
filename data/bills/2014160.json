@@ -1,0 +1,22 @@
+{
+  "billId": 2014160,
+  "billNumber": "S654",
+  "title": "End Dual Licensure for Audiologists",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "ccdef5f602b43b94a42d7cfe860a6d97",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-26",
+  "url": "https://legiscan.com/NC/bill/S654/2025",
+  "aiSummary": "This bill eliminates the requirement that audiologists, audiology technicians, and audiology assistants hold dual licenses (both an audiology license and a hearing aid dealer license) to fit or sell hearing aids in North Carolina. It also requires hearing aid sellers and audiologists to disclose to customers in writing that locked hearing aids can only be serviced at specific facilities, and establishes record-keeping requirements for these sales.",
+  "aiProArguments": "Supporters argue this bill reduces regulatory burden on audiologists by eliminating unnecessary dual licensing requirements, allowing them to practice more efficiently under a single license. They also contend that the disclosure requirements for locked hearing aids increase consumer transparency, ensuring purchasers understand service limitations before buying, which protects patients from discovering restrictions after their purchase.",
+  "aiConArguments": "Opponents may argue that eliminating dual licensure could reduce oversight of hearing aid fitting and sales, potentially weakening consumer protections if audiology and hearing aid dealer regulations differ in important ways. They might also express concern that disclosure requirements alone do not address the underlying issue of locked hearing aids limiting consumer choice and access to independent service providers.",
+  "topic": "Business & Labor",
+  "textLength": 10851,
+  "createdAt": "2026-06-23T03:09:42.776Z",
+  "sponsors": [
+    {"peopleId":24225,"name":"Benton Sawrey","party":"R","isPrimary":true},
+    {"peopleId":11858,"name":"Timothy Moffitt","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

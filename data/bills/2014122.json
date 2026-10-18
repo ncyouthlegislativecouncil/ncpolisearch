@@ -1,0 +1,25 @@
+{
+  "billId": 2014122,
+  "billNumber": "S679",
+  "title": "The Women's Care Act",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "1ee49e1d3d43e9b45f6400034fe87b06",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-26",
+  "url": "https://legiscan.com/NC/bill/S679/2025",
+  "aiSummary": "This bill requires North Carolina courts to delay imprisonment for pregnant people sentenced to prison terms if they are determined to pose no significant threat to the community. During the deferment period of at least 12 weeks after delivery, the pregnant person must maintain prenatal care, participate in available education programs, and report monthly to the court, before eventually serving their sentence.",
+  "aiProArguments": "Supporters argue this bill protects the health and development of unborn children and newborns by allowing pregnant people to carry pregnancies to term and recover postpartum outside of prison. They contend that for non-dangerous offenders, community supervision during pregnancy and early motherhood is safer for infants, reduces trauma, and allows people to access better healthcare and support services than available in correctional facilities.",
+  "aiConArguments": "Opponents may argue this creates unequal treatment in the criminal justice system by providing sentence deferrals based on pregnancy status that other defendants do not receive. They may also express concerns about public safety and enforcement, questioning whether monthly reporting and electronic supervision adequately protect communities, and worry about compliance if individuals fail to surrender for their deferred sentences.",
+  "topic": "Criminal Justice & Public Safety",
+  "textLength": 4697,
+  "createdAt": "2026-06-23T03:09:57.376Z",
+  "sponsors": [
+    {"peopleId":24222,"name":"Lisa Grafstein","party":"D","isPrimary":true},
+    {"peopleId":25858,"name":"Sophia Chitlik","party":"D","isPrimary":false},
+    {"peopleId":20220,"name":"Michael Garrett","party":"D","isPrimary":false},
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

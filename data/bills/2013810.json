@@ -1,0 +1,31 @@
+{
+  "billId": 2013810,
+  "billNumber": "S486",
+  "title": "Funds for NC Senior Tar Heel Legislature",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "b508d4c74d353292769b595a456934c8",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2025-03-26",
+  "url": "https://legiscan.com/NC/bill/S486/2025",
+  "aiSummary": "This bill appropriates $30,000 per year for the 2025-2027 fiscal period to the Department of Health and Human Services' Division of Aging to support the North Carolina Senior Tar Heel Legislature. The funding becomes available starting July 1, 2025.",
+  "aiProArguments": "Supporters argue that the Senior Tar Heel Legislature provides an important civic engagement opportunity for older North Carolinians, allowing them to participate in the legislative process and have their voices heard on issues affecting seniors. They contend that the $30,000 annual investment is a modest cost to support democratic participation and address the needs and concerns of an important demographic group.",
+  "aiConArguments": "Opponents may argue that the state should prioritize existing budget pressures and essential services before funding additional programs. They might question whether $30,000 in recurring annual funding represents the best use of limited state resources, or whether the Senior Tar Heel Legislature's impact justifies the recurring expense during periods of tight budgets.",
+  "topic": "Taxes & Budget",
+  "textLength": 796,
+  "createdAt": "2026-06-23T03:08:16.879Z",
+  "sponsors": [
+    {"peopleId":21633,"name":"Natalie Murdock","party":"D","isPrimary":true},
+    {"peopleId":17147,"name":"Gale Adcock","party":"D","isPrimary":false},
+    {"peopleId":20225,"name":"Ted Alexander","party":"R","isPrimary":false},
+    {"peopleId":25858,"name":"Sophia Chitlik","party":"D","isPrimary":false},
+    {"peopleId":20513,"name":"Bobby Hanig","party":"R","isPrimary":false},
+    {"peopleId":17457,"name":"Paul Lowe","party":"D","isPrimary":false},
+    {"peopleId":20223,"name":"Mujtaba Mohammed","party":"D","isPrimary":false},
+    {"peopleId":22426,"name":"DeAndrea Salvador","party":"D","isPrimary":false},
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":false},
+    {"peopleId":25859,"name":"Caleb Theodros","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

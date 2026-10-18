@@ -1,0 +1,23 @@
+{
+  "billId": 2014104,
+  "billNumber": "S711",
+  "title": "ROD Removal/Gov. Security Breach Notice Costs",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "fb724f59a4e730b134521e8e657c4caf",
+  "lastAction": "Re-ref Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-04-30",
+  "url": "https://legiscan.com/NC/bill/S711/2025",
+  "aiSummary": "This bill creates a formal legal process for removing Registers of Deeds from office through superior court proceedings for causes such as neglect, misconduct, corruption, or felony conviction. It also requires third-party vendors or contractors whose security breaches affect North Carolina government entities to pay for or reimburse the costs of notifying affected individuals and associated legal fees.",
+  "aiProArguments": "Supporters argue this bill strengthens accountability by establishing clear procedures to remove underperforming or corrupt county officials, with safeguards like requiring citizens or prosecutors to file complaints and allowing judges to dismiss frivolous cases. They contend the security breach provision protects taxpayers by making private contractors financially responsible for the notification costs they cause, rather than shifting those expenses to government budgets.",
+  "aiConArguments": "Opponents may worry that the removal process could be weaponized against officials through complaints based on political motivation, though the bill does include protections against frivolous filings. Some may argue the security breach liability provision could discourage vendors from contracting with government entities or increase costs passed to taxpayers through higher vendor fees, and questions may arise about how liability is determined when multiple parties share responsibility for a breach.",
+  "topic": "Local Government",
+  "textLength": 5557,
+  "createdAt": "2026-06-23T03:10:13.169Z",
+  "sponsors": [
+    {"peopleId":12033,"name":"Warren Daniel","party":"R","isPrimary":true},
+    {"peopleId":24224,"name":"Buck Newton","party":"R","isPrimary":true},
+    {"peopleId":18465,"name":"Danny Britt","party":"R","isPrimary":true}
+  ],
+  "rollCalls": []
+}

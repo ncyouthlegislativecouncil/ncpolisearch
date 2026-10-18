@@ -1,0 +1,21 @@
+{
+  "billId": 2146915,
+  "billNumber": "S978",
+  "title": "Healthcare Competition Reforms",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "e53cf97eeb046b4b4e3a1e030bf5f29c",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2026-06-16",
+  "url": "https://legiscan.com/NC/bill/S978/2025",
+  "aiSummary": "This bill provides whistleblower protections for healthcare workers reporting safety concerns or violations, prohibits non-compete clauses for hospital employees, limits nondisclosure agreements in healthcare, caps CEO compensation at nonprofit hospitals receiving state funds at 400 times the minimum wage, and exempts certain Department of State Treasurer partnerships from health service review requirements.",
+  "aiProArguments": "Supporters argue this bill protects patient safety by allowing healthcare workers to report concerns without fear of retaliation, prevents hospitals from silencing workers through restrictive agreements, and promotes fairness by limiting executive compensation at taxpayer-funded nonprofits. They contend these reforms increase healthcare transparency, retain experienced medical staff by removing non-compete restrictions, and ensure nonprofit hospitals use resources appropriately rather than excessive executive pay.",
+  "aiConArguments": "Opponents worry the bill may increase compliance costs for hospitals, potentially affecting patient care budgets and service availability. They argue the 400-to-1 compensation ratio may make it difficult to recruit experienced executives and that nondisclosure limitations could reveal proprietary medical practices. Some also express concern that the State Treasurer exemption from review in Part III lacks clear justification and may bypass necessary oversight of health services.",
+  "topic": "Healthcare",
+  "textLength": 11301,
+  "createdAt": "2026-06-23T03:12:20.281Z",
+  "sponsors": [
+    {"peopleId":20216,"name":"Jim Burgin","party":"R","isPrimary":true}
+  ],
+  "rollCalls": []
+}

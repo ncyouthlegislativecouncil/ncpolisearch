@@ -1,0 +1,31 @@
+{
+  "billId": 1963428,
+  "billNumber": "H73",
+  "title": "Energy Security Act of 2025",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "2acb08e5b98e117cdebc94ee20472628",
+  "lastAction": "Ref to the Com on Energy and Public Utilities, if favorable, Commerce and Economic Development, if favorable, Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-02-11",
+  "url": "https://legiscan.com/NC/bill/H73/2025",
+  "aiSummary": "This bill requires North Carolina public utilities to install and continuously operate security systems at electrical substations 24 hours a day to protect against vandalism and other security threats. The law takes effect July 1, 2025.",
+  "aiProArguments": "Supporters argue that securing substations protects critical infrastructure that powers homes and businesses across North Carolina. They contend that security systems prevent vandalism and sabotage that could cause widespread power outages, protect public safety, and reduce costs associated with repairs and service disruptions.",
+  "aiConArguments": "Opponents may argue that the mandate increases operational costs for utilities, which could result in higher rates for consumers. They may also question whether the requirement is specific enough about what security systems are acceptable, potentially leading to inefficient spending, and note that utilities may already have security measures in place that the bill doesn't account for.",
+  "topic": "Environment & Energy",
+  "textLength": 1083,
+  "createdAt": "2026-06-23T02:40:14.764Z",
+  "sponsors": [
+    {"peopleId":22613,"name":"Ben Moss","party":"R","isPrimary":true},
+    {"peopleId":20519,"name":"Keith Kidwell","party":"R","isPrimary":true},
+    {"peopleId":24219,"name":"Bill Ward","party":"R","isPrimary":true},
+    {"peopleId":14612,"name":"Carla Cunningham","party":"D","isPrimary":false},
+    {"peopleId":2077,"name":"Mary Harrison","party":"D","isPrimary":false},
+    {"peopleId":24206,"name":"Frances Jackson","party":"D","isPrimary":false},
+    {"peopleId":21377,"name":"Jake Johnson","party":"R","isPrimary":false},
+    {"peopleId":22965,"name":"Donnie Loftis","party":"R","isPrimary":false},
+    {"peopleId":20521,"name":"Carolyn Logan","party":"D","isPrimary":false},
+    {"peopleId":21375,"name":"Jeffrey McNeely","party":"R","isPrimary":false},
+    {"peopleId":17158,"name":"Shelly Willingham","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

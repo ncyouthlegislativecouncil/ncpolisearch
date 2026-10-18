@@ -1,0 +1,23 @@
+{
+  "billId": 2012890,
+  "billNumber": "S444",
+  "title": "Controlled Substances Act - Updates",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "7e6db755fe72f5f2c2d11be9011bff02",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-25",
+  "url": "https://legiscan.com/NC/bill/S444/2025",
+  "aiSummary": "This bill updates North Carolina's Controlled Substances Act by adding numerous synthetic drugs to the state's list of Schedule I controlled substances, including new opioid derivatives (such as AP-237 variants and U-47700 analogs), nitazene derivatives, fentanyl derivatives, synthetic cannabinoids, and other designer drugs. The bill also makes technical corrections to existing drug classifications.",
+  "aiProArguments": "Supporters argue this bill protects public health by keeping pace with chemists who create new synthetic drugs designed to evade existing laws. By adding these emerging substances to the controlled list, law enforcement gains tools to prosecute dealers and manufacturers of these dangerous drugs before they cause widespread harm. The bill targets compounds that mimic the effects of dangerous drugs like fentanyl and heroin but are chemically modified to exploit legal loopholes.",
+  "aiConArguments": "Opponents may raise concerns that the broad, chemical-structure-based definitions in the bill could inadvertently criminalize legitimate pharmaceutical research or medical uses of similar compounds. Additionally, some argue that updating drug schedules through legislation is slower than administrative processes and may always lag behind chemists creating new variants, making this approach somewhat reactive rather than preventative to the drug problem.",
+  "topic": "Criminal Justice & Public Safety",
+  "textLength": 15482,
+  "createdAt": "2026-06-23T03:07:53.509Z",
+  "sponsors": [
+    {"peopleId":20513,"name":"Bobby Hanig","party":"R","isPrimary":true},
+    {"peopleId":17437,"name":"Thomas McInnis","party":"R","isPrimary":false},
+    {"peopleId":11858,"name":"Timothy Moffitt","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

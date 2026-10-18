@@ -1,0 +1,21 @@
+{
+  "billId": 1972428,
+  "billNumber": "S114",
+  "title": "Funds for Pitt Co. Boys & Girls Clubs",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "02cc74cf40fb5f6ea9d6980aebba5cf8",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2025-02-21",
+  "url": "https://legiscan.com/NC/bill/S114/2025",
+  "aiSummary": "This bill appropriates $500,000 in state funds for the 2025-2026 fiscal year to the Boys & Girls Clubs of the Coastal Plain Foundation, specifically for operational expenses and program expansion at clubs located in Pitt County. The funds are classified as nonrecurring, meaning they are a one-time appropriation rather than ongoing funding.",
+  "aiProArguments": "Supporters argue that this funding supports youth development and community services in Pitt County by helping Boys & Girls Clubs maintain operations and expand programs that serve young people. They contend that these clubs provide valuable after-school activities, mentorship, and safe spaces for youth, particularly those from low-income families, contributing to improved academic outcomes and reduced youth crime.",
+  "aiConArguments": "Opponents may question whether directing state general fund dollars to a specific county and organization represents the best use of taxpayer money, especially if similar youth organizations in other regions lack comparable state support. Some may also note that the funds are nonrecurring, raising concerns about sustainability and whether a one-time appropriation creates expectations for future ongoing funding.",
+  "topic": "Taxes & Budget",
+  "textLength": 884,
+  "createdAt": "2026-06-23T03:05:02.110Z",
+  "sponsors": [
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":true}
+  ],
+  "rollCalls": []
+}

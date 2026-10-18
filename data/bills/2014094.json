@@ -1,0 +1,27 @@
+{
+  "billId": 2014094,
+  "billNumber": "S663",
+  "title": "End Menstrual Poverty Act",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "66748b50c86073357de5ae5c57e873df",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2025-03-26",
+  "url": "https://legiscan.com/NC/bill/S663/2025",
+  "aiSummary": "This bill allocates $350,000 in nonrecurring funds to the Diaper Bank of North Carolina to increase access to feminine hygiene products through local diaper banks, and $1,000,000 in recurring funds to the Department of Public Instruction to support a Feminine Hygiene Products Grant Program. The funding becomes available starting July 1, 2025.",
+  "aiProArguments": "Supporters argue that menstrual poverty—when people cannot afford feminine hygiene products—forces individuals to miss school or work and creates health and dignity issues. This bill addresses that problem by increasing availability of these essential products through existing nonprofit networks and school programs, helping low-income students and families access necessary hygiene products.",
+  "aiConArguments": "Opponents may question whether government funding for this specific purpose is the best use of limited state resources, particularly given that $1,000,000 in recurring funds represents an ongoing budget commitment. Some may argue that product donations from private businesses or nonprofit fundraising could address this issue without government spending, or that existing assistance programs should be evaluated first.",
+  "topic": "Social Services & Welfare",
+  "textLength": 1323,
+  "createdAt": "2026-06-23T03:09:48.078Z",
+  "sponsors": [
+    {"peopleId":21633,"name":"Natalie Murdock","party":"D","isPrimary":true},
+    {"peopleId":25858,"name":"Sophia Chitlik","party":"D","isPrimary":true},
+    {"peopleId":24220,"name":"Val Applewhite","party":"D","isPrimary":false},
+    {"peopleId":25860,"name":"Woodson Bradley","party":"D","isPrimary":false},
+    {"peopleId":22425,"name":"Julie Mayfield","party":"D","isPrimary":false},
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

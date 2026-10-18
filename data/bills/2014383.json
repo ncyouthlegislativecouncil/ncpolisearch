@@ -1,0 +1,24 @@
+{
+  "billId": 2014383,
+  "billNumber": "S581",
+  "title": "Revise Neglected Juvenile Definition",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "4bdf62913b1b7a0c2feed7ca1b1d658c",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-26",
+  "url": "https://legiscan.com/NC/bill/S581/2025",
+  "aiSummary": "This bill modifies North Carolina's definition of 'neglected juvenile' to clarify that parents allowing children to engage in independent activities without constant adult supervision is not considered neglect. The bill specifies that activities like walking to school, visiting nearby stores or parks, staying home alone for reasonable periods, and playing outdoors are acceptable if a reasonable parent would consider them safe based on the child's age, maturity, and abilities.",
+  "aiProArguments": "Supporters argue this bill protects parents from unfounded neglect charges for allowing age-appropriate independence and outdoor play. They contend the change gives parents clear guidance about reasonable parenting decisions, reduces unnecessary government intervention in family life, and encourages children's development of independence and resilience by allowing supervised freedom.",
+  "aiConArguments": "Opponents may argue the bill's language is too vague and subjective, leaving uncertainty about what constitutes a 'reasonable and prudent parent' or 'appropriate' activities across different communities and circumstances. They could express concern that the exemption might inadvertently shield genuine cases of neglect by making it harder for child protective services to intervene when children are left unsupervised in unsafe situations.",
+  "topic": "Social Services & Welfare",
+  "textLength": 2556,
+  "createdAt": "2026-06-23T03:09:04.259Z",
+  "sponsors": [
+    {"peopleId":17504,"name":"Michael Lee","party":"R","isPrimary":true},
+    {"peopleId":17936,"name":"Jay Chaudhuri","party":"D","isPrimary":true},
+    {"peopleId":20216,"name":"Jim Burgin","party":"R","isPrimary":true},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

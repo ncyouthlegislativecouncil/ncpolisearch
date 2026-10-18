@@ -1,0 +1,21 @@
+{
+  "billId": 2004280,
+  "billNumber": "H386",
+  "title": "Increase Vehicle Registration Fee/SHP Pay",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "a53da169c9bc9d60a41d200df3bc1172",
+  "lastAction": "Ref to the Com on Transportation, if favorable, Appropriations, if favorable, Finance, if favorable, Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-03-13",
+  "url": "https://legiscan.com/NC/bill/H386/2025",
+  "aiSummary": "This bill increases the vehicle registration fee for private passenger vehicles by $6.25 per year, effective July 1, 2025. The revenue from this fee increase would be transferred to the Department of Public Safety to fund salary increases for State Highway Patrol officers, with the bill also appropriating $40.4 million annually from the General Fund for SHP pay raises based on experience and rank.",
+  "aiProArguments": "Supporters argue this bill addresses recruitment and retention challenges for State Highway Patrol officers by providing competitive salaries, which they contend improves highway safety and public protection. Proponents may note that the $6.25 annual fee is a modest cost spread across all vehicle owners that directly funds a public safety service benefiting all drivers, and that law enforcement pay increases help reduce officer turnover and maintain professional staffing levels.",
+  "aiConArguments": "Opponents argue the bill increases costs for vehicle owners and may disproportionately affect lower-income North Carolinians who rely on vehicles for work and daily needs. Critics may also question whether a vehicle registration fee is the appropriate funding mechanism for SHP salaries, or whether general tax revenues should cover law enforcement costs; some may debate whether the salary increases are justified given other state budget priorities.",
+  "topic": "Taxes & Budget",
+  "textLength": 4825,
+  "createdAt": "2026-06-23T02:50:00.750Z",
+  "sponsors": [
+    {"peopleId":18453,"name":"Mike Clampitt","party":"R","isPrimary":true}
+  ],
+  "rollCalls": []
+}

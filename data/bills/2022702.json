@@ -1,0 +1,23 @@
+{
+  "billId": 2022702,
+  "billNumber": "H946",
+  "title": "Montessori Teaching License",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "9c6cb12ef3c629fe156db7553304391f",
+  "lastAction": "Serial Referral To Rules, Calendar, and Operations of the House Added",
+  "lastActionDate": "2025-04-28",
+  "url": "https://legiscan.com/NC/bill/H946/2025",
+  "aiSummary": "This bill creates a new teaching license in North Carolina specifically for educators who want to teach in Montessori schools. Teachers with this license can only teach in schools using Montessori instruction as their primary method, unless they also hold a standard public school teaching license. To qualify, applicants must hold a bachelor's degree, obtain credentials from recognized Montessori organizations, and pass any required state exams.",
+  "aiProArguments": "Supporters argue this license removes barriers for qualified Montessori educators who may not meet traditional public school teacher certification requirements, allowing more flexibility in staffing Montessori schools. They contend that recognizing Montessori-specific credentials from established organizations ensures teachers have appropriate training for this distinct educational approach. This could expand educational options and give parents more school choices in North Carolina.",
+  "aiConArguments": "Opponents may worry this creates a separate licensing track with potentially different standards than traditional teaching licenses, raising questions about consistency and accountability. They could argue this may dilute teacher quality standards or create confusion about which credentials are equivalent across different school types. Some may also question whether a bachelor's degree alone without traditional teacher preparation is sufficient preparation for classroom management and state curriculum requirements.",
+  "topic": "Education",
+  "textLength": 1707,
+  "createdAt": "2026-06-23T02:59:37.889Z",
+  "sponsors": [
+    {"peopleId":2049,"name":"Patricia Cotham","party":"R","isPrimary":true},
+    {"peopleId":24197,"name":"Brian Biggs","party":"R","isPrimary":true},
+    {"peopleId":17151,"name":"Cecil Brockman","party":"D","isPrimary":true}
+  ],
+  "rollCalls": []
+}

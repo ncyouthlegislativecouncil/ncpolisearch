@@ -1,0 +1,25 @@
+{
+  "billId": 2018841,
+  "billNumber": "H719",
+  "title": "Continuing Care Retirement Communities Act.-AB",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "df0e5525a9bc4268d6a858b5a02f2137",
+  "lastAction": "Ref to the Com on Insurance, if favorable, Finance, if favorable, Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-04-03",
+  "url": "https://legiscan.com/NC/bill/H719/2025",
+  "aiSummary": "This bill creates a new regulatory framework for continuing care retirement communities (CCRCs) in North Carolina by requiring providers to obtain licenses from the Department of Insurance and meet specific financial, actuarial, and disclosure requirements. The law applies to both for-profit and nonprofit communities that offer housing combined with long-term care services like assisted living or nursing care, and replaces the previous regulatory structure with updated standards.",
+  "aiProArguments": "Supporters argue this bill protects vulnerable seniors who often invest substantial life savings into continuing care contracts by establishing rigorous oversight standards, financial monitoring, and escrow protections for deposits. The law requires providers to demonstrate financial stability through actuarial studies and feasibility analysis before accepting resident money, and creates clear disclosure requirements so seniors can make informed decisions. Providers that meet standards gain regulatory clarity and consumer confidence.",
+  "aiConArguments": "Opponents may contend that the extensive licensing requirements, actuarial studies, feasibility analyses, and regulatory compliance create significant administrative costs and paperwork burdens that could increase operating expenses for providers—potentially raising costs for residents. The strict financial requirements and escrow mandates could also make it harder for smaller or newer providers to enter the market, and the detailed disclosure and reporting obligations represent substantial regulatory compliance overhead.",
+  "topic": "Healthcare",
+  "textLength": 58808,
+  "createdAt": "2026-06-23T02:56:50.886Z",
+  "sponsors": [
+    {"peopleId":20516,"name":"Chris Humphrey","party":"R","isPrimary":true},
+    {"peopleId":2122,"name":"Mitchell Setzer","party":"R","isPrimary":true},
+    {"peopleId":25841,"name":"Jonathan Almond","party":"R","isPrimary":true},
+    {"peopleId":14602,"name":"Dean Arp","party":"R","isPrimary":true},
+    {"peopleId":2115,"name":"Garland Pierce","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

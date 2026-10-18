@@ -1,0 +1,21 @@
+{
+  "billId": 1951650,
+  "billNumber": "S44",
+  "title": "20th Senatorial District Local Act-1",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "4ba63ff024b76ed75bf0993f0c699626",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-02-04",
+  "url": "https://legiscan.com/NC/bill/S44/2025",
+  "aiSummary": "This is a local bill that applies only to North Carolina's 20th Senatorial District. The bill text does not specify what changes or actions it implements—it only states that the act relates to the district and becomes effective when signed into law.",
+  "aiProArguments": "Supporters of local bills argue they allow the General Assembly to address specific, localized needs that affect particular districts or communities. Local legislation can be tailored to solve problems unique to that area without requiring statewide changes that may not apply elsewhere.",
+  "aiConArguments": "Critics of local bills note that the vague language in this bill makes it impossible to assess its actual impact or necessity. Without knowing what specific changes are being made to the 20th Senatorial District, there is concern about whether proper public notice and debate occurred, and whether the bill represents fair treatment of that district's constituents.",
+  "topic": "Local Government",
+  "textLength": 507,
+  "createdAt": "2026-06-23T03:04:24.498Z",
+  "sponsors": [
+    {"peopleId":21633,"name":"Natalie Murdock","party":"D","isPrimary":true}
+  ],
+  "rollCalls": []
+}

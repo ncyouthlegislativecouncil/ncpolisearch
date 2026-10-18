@@ -1,0 +1,22 @@
+{
+  "billId": 2014645,
+  "billNumber": "S756",
+  "title": "Right of Entry for Professional Surveyors",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "f7d73420d5daaef97e128a34f6a4153e",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-26",
+  "url": "https://legiscan.com/NC/bill/S756/2025",
+  "aiSummary": "This bill gives licensed professional land surveyors the legal right to enter private property to conduct surveys for locating property corners, boundary lines, rights-of-way, and easements, without this entry being considered trespass. The surveyors must make reasonable efforts to notify landowners and cannot damage property or enter critical infrastructure facilities or railroad property.",
+  "aiProArguments": "Supporters argue this bill solves practical problems for surveyors who need property access to complete necessary work for real estate transactions, property disputes, and development projects. They contend that surveyors should have a limited right of entry similar to other professionals, and that proper notice requirements and liability protections for landowners balance the surveyors' need to access land with property owners' rights.",
+  "aiConArguments": "Opponents may argue the bill could infringe on property owners' rights to control access to their land and could lead to disputes over whether proper notice was given or whether entry was truly necessary. Some may worry that surveyors could access private property without explicit permission, creating security or privacy concerns, though the bill does restrict entry to critical infrastructure and railroad properties.",
+  "topic": "Local Government",
+  "textLength": 5622,
+  "createdAt": "2026-06-23T03:10:35.772Z",
+  "sponsors": [
+    {"peopleId":20518,"name":"Steve Jarvis","party":"R","isPrimary":true},
+    {"peopleId":17437,"name":"Thomas McInnis","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

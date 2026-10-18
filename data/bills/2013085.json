@@ -1,0 +1,21 @@
+{
+  "billId": 2013085,
+  "billNumber": "S424",
+  "title": "T/C: Megasites Funding Uses",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "74a3f661cbcb76e13901d3b07908a908",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-25",
+  "url": "https://legiscan.com/NC/bill/S424/2025",
+  "aiSummary": "This bill changes how North Carolina can use megasite funding by broadening the eligible uses beyond just acquiring megasites. Instead of limiting funds to local government grants for purchasing megasites, the bill allows funds to be used for purposes described elsewhere in the law, giving the state more flexibility in how megasite development money is spent.",
+  "aiProArguments": "Supporters argue that broadening the uses for megasite funding allows the state to invest in complementary infrastructure and development needs that make megasites more attractive to major employers. This flexibility could enable funding for utilities, road improvements, environmental remediation, or other site preparation work that increases the likelihood of successful advanced manufacturing recruitment and economic development.",
+  "aiConArguments": "Opponents may be concerned that broadening the uses dilutes the original intent of megasite funding, which was specifically to help local governments acquire and control strategic sites for industrial recruitment. They might worry that expanding eligible uses could reduce actual land acquisition funding or lead to money being spent on projects less directly tied to securing megasites, potentially weakening North Carolina's competitive advantage in site selection.",
+  "topic": "Business & Labor",
+  "textLength": 2066,
+  "createdAt": "2026-06-23T03:07:41.325Z",
+  "sponsors": [
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":true}
+  ],
+  "rollCalls": []
+}

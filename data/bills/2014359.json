@@ -1,0 +1,23 @@
+{
+  "billId": 2014359,
+  "billNumber": "S676",
+  "title": "The North Carolina Survivors' Act",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "0f0757c6db144a902f2ddff0caf02d86",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-26",
+  "url": "https://legiscan.com/NC/bill/S676/2025",
+  "aiSummary": "The North Carolina Survivors' Act allows courts to reduce sentences for people convicted of crimes if they were victims of domestic violence or abuse, and that abuse was a substantial factor in causing them to commit the offense. The law applies to new sentencing hearings and allows people already imprisoned to request resentencing, with specific sentence reductions based on the original sentence length (for example, life sentences reduced to 30 years or less). The law excludes certain serious crimes including sex offenses and crimes against children or people with mental disabilities.",
+  "aiProArguments": "Supporters argue this law recognizes that abuse survivors may commit crimes while under the control, fear, or trauma of their abusers, and that their actions should be understood in that context. They contend the law provides a fair opportunity for courts to consider abuse as a mitigating factor during sentencing, allows people already incarcerated to seek relief, and aligns North Carolina with other states that have similar laws. Supporters also note the law includes protections by excluding certain serious offenses and requiring clear documentation of abuse before sentences can be reduced.",
+  "aiConArguments": "Opponents argue the law may reduce accountability for serious crimes and could allow dangerous offenders to receive lighter sentences based on their own claims of abuse that may be difficult to verify. They express concerns about the substantial sentence reductions allowed (such as life sentences reduced to 30 years), question whether abuse history should override victims' need for justice, and worry about the burden on courts and prosecutors to investigate and challenge abuse claims. Some also question whether the law adequately protects public safety or provides sufficient closure for crime victims.",
+  "topic": "Criminal Justice & Public Safety",
+  "textLength": 15764,
+  "createdAt": "2026-06-23T03:09:55.578Z",
+  "sponsors": [
+    {"peopleId":24222,"name":"Lisa Grafstein","party":"D","isPrimary":true},
+    {"peopleId":25860,"name":"Woodson Bradley","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

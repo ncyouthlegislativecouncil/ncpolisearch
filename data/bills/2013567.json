@@ -1,0 +1,23 @@
+{
+  "billId": 2013567,
+  "billNumber": "S475",
+  "title": "Wendy Williams's Law",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "46b8aea1b94014cf262641f9a4cea4d8",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-25",
+  "url": "https://legiscan.com/NC/bill/S475/2025",
+  "aiSummary": "This bill, named after Wendy Williams, establishes mandatory training requirements for guardians and guardians ad litem appointed to care for incompetent persons in North Carolina. Guardians must complete training within six months of appointment covering legal duties, the ward's rights, available resources, medical terminology, and financial reporting. Clerks retain discretion to waive or expand these requirements based on the guardian's experience and the ward's specific needs.",
+  "aiProArguments": "Supporters argue this bill protects vulnerable adults by ensuring guardians understand their legal obligations and the rights of those under their care. The training requirements address a documented problem where inadequately trained guardians may mismanage finances, fail to access available benefits, or overlook the ward's rights. By establishing baseline competency standards, the bill aims to prevent neglect and abuse of incompetent persons.",
+  "aiConArguments": "Opponents may argue the training requirements create administrative burden and cost for courts and guardians, potentially discouraging people from serving as guardians. Some contend that the six-month timeline is tight and the clerk's discretion to waive requirements may be inconsistent. Others question whether mandatory training alone addresses systemic oversight issues, or whether the resources exist to ensure quality training programs across all counties.",
+  "topic": "Local Government",
+  "textLength": 5707,
+  "createdAt": "2026-06-23T03:08:09.707Z",
+  "sponsors": [
+    {"peopleId":21633,"name":"Natalie Murdock","party":"D","isPrimary":true},
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

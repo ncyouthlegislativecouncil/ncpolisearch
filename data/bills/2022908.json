@@ -1,0 +1,28 @@
+{
+  "billId": 2022908,
+  "billNumber": "H998",
+  "title": "Funds for Charlotte Mecklenburg Library",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "914f9751022f01790506e46165a903da",
+  "lastAction": "Ref to the Com on Appropriations, if favorable, Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-04-14",
+  "url": "https://legiscan.com/NC/bill/H998/2025",
+  "aiSummary": "This bill appropriates $5 million in state funding to the Charlotte Mecklenburg Library Foundation for construction of a new main library building. The funds are one-time, nonrecurring appropriations for the 2025-2026 fiscal year and take effect July 1, 2025.",
+  "aiProArguments": "Supporters argue that a new main library facility would improve public access to library services, technology, and educational resources for Charlotte-Mecklenburg residents. They contend that state investment in library infrastructure strengthens communities, supports literacy and learning, and can leverage additional local or private funding for the project.",
+  "aiConArguments": "Opponents may argue that $5 million in state funds directed to a single local library project raises questions about whether this is the best use of limited state resources compared to statewide needs. Some might question whether this should be a local government responsibility rather than a state-funded initiative, or whether the nonprofit foundation should seek private donations instead.",
+  "topic": "Taxes & Budget",
+  "textLength": 1022,
+  "createdAt": "2026-06-23T03:00:12.933Z",
+  "sponsors": [
+    {"peopleId":2044,"name":"Becky Carney","party":"D","isPrimary":true},
+    {"peopleId":18451,"name":"Mary Belk","party":"D","isPrimary":true},
+    {"peopleId":25850,"name":"Jordan Lopez","party":"D","isPrimary":true},
+    {"peopleId":22600,"name":"Terry Brown","party":"D","isPrimary":false},
+    {"peopleId":24200,"name":"Laura Budd","party":"D","isPrimary":false},
+    {"peopleId":25847,"name":"Beth Helfrich","party":"D","isPrimary":false},
+    {"peopleId":20521,"name":"Carolyn Logan","party":"D","isPrimary":false},
+    {"peopleId":20522,"name":"Nasif Majeed","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

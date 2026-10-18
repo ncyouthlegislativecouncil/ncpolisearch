@@ -1,0 +1,28 @@
+{
+  "billId": 2144430,
+  "billNumber": "S802",
+  "title": "Agency Vacant Property",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "206e0eefd74218c231deb84cb894e113",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2026-04-23",
+  "url": "https://legiscan.com/NC/bill/S802/2025",
+  "aiSummary": "This bill requires the Department of Administration to create a system for identifying, cataloging, and disposing of vacant and surplus state-owned properties. The bill establishes criteria for determining which properties are surplus, mandates that surplus properties be sold within six months or auctioned/transferred to local governments, and directs that sale proceeds be split between the state General Fund and property repair projects.",
+  "aiProArguments": "Supporters argue this bill reduces state spending by eliminating costs associated with maintaining vacant and underutilized properties, and generates revenue through property sales that can fund repairs and improvements. They contend that a systematic approach to identifying surplus property will improve government efficiency, ensure better use of public resources, and allow the state to reinvest sale proceeds in maintaining remaining facilities.",
+  "aiConArguments": "Opponents may worry that forced disposal timelines could result in properties being sold at lower prices than their true value, reducing state revenue. Some may also be concerned that transferring properties to local governments without adequate compensation could shift costs to municipalities, or that selling properties hastily could limit the state's future flexibility if needs change or properties become valuable for future government use.",
+  "topic": "Local Government",
+  "textLength": 11177,
+  "createdAt": "2026-06-23T03:10:52.218Z",
+  "sponsors": [
+    {"peopleId":20216,"name":"Jim Burgin","party":"R","isPrimary":true},
+    {"peopleId":17936,"name":"Jay Chaudhuri","party":"D","isPrimary":true},
+    {"peopleId":17147,"name":"Gale Adcock","party":"D","isPrimary":false},
+    {"peopleId":24220,"name":"Val Applewhite","party":"D","isPrimary":false},
+    {"peopleId":25858,"name":"Sophia Chitlik","party":"D","isPrimary":false},
+    {"peopleId":26664,"name":"Jonah Garson","party":"D","isPrimary":false},
+    {"peopleId":20223,"name":"Mujtaba Mohammed","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

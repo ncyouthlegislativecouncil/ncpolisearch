@@ -1,0 +1,23 @@
+{
+  "billId": 1982913,
+  "billNumber": "S170",
+  "title": "Foster Parents Rights/Notice",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "5a89bb6ac8b9414c067511e127774020",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-02-26",
+  "url": "https://legiscan.com/NC/bill/S170/2025",
+  "aiSummary": "This bill requires that foster parents receive at least 48 hours verbal notice before a child in their care is returned to their parent following a court decision, and that foster parents be included in transition planning when it serves the child's best interest. The bill also clarifies existing notice requirements for court hearings.",
+  "aiProArguments": "Supporters argue this bill protects children's welfare by ensuring foster parents—who know the child best—can prepare them emotionally and practically for reunification with their parent. They contend that foster parents deserve adequate notice and input in transition planning since they provide daily care, and that this preparation time helps make reunification smoother and less traumatic for children.",
+  "aiConArguments": "Opponents may argue the bill could create delays in reunification with parents or complicate decision-making by adding procedural requirements. Some may also contend that extensive foster parent involvement in transition planning could undermine parental rights or that the 48-hour notice requirement could be administratively burdensome for social services departments already managing complex cases.",
+  "topic": "Social Services & Welfare",
+  "textLength": 2292,
+  "createdAt": "2026-06-23T03:05:31.602Z",
+  "sponsors": [
+    {"peopleId":20216,"name":"Jim Burgin","party":"R","isPrimary":true},
+    {"peopleId":17437,"name":"Thomas McInnis","party":"R","isPrimary":false},
+    {"peopleId":11862,"name":"Norman Sanderson","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

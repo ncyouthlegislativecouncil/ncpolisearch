@@ -1,0 +1,23 @@
+{
+  "billId": 2146952,
+  "billNumber": "S1058",
+  "title": "Critical Funds for Mecklenburg County",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "426bd64a090612bec9570a535f0b1d95",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2026-05-05",
+  "url": "https://legiscan.com/NC/bill/S1058/2025",
+  "aiSummary": "This bill appropriates $29 million in one-time state funding for the 2026-2027 fiscal year to support various projects and organizations in Mecklenburg County, including a new library, community health center, road interchange planning, affordable housing, a community services center, and a nature museum.",
+  "aiProArguments": "Supporters argue this bill addresses critical community needs in Mecklenburg County by funding essential infrastructure and services including library expansion, healthcare access, affordable housing, and cultural institutions. They contend these investments improve quality of life, support vulnerable populations, and strengthen the county's economic and social foundations.",
+  "aiConArguments": "Opponents may argue that directing $29 million to one county raises fairness concerns about whether other regions receive equitable state funding, and question whether one-time nonrecurring funds are the best use of limited state resources given ongoing operational needs across North Carolina. Some may also question whether these projects should be funded through local revenue sources or public bonds rather than state general funds.",
+  "topic": "Taxes & Budget",
+  "textLength": 2642,
+  "createdAt": "2026-06-23T03:13:01.310Z",
+  "sponsors": [
+    {"peopleId":20223,"name":"Mujtaba Mohammed","party":"D","isPrimary":true},
+    {"peopleId":22426,"name":"DeAndrea Salvador","party":"D","isPrimary":true},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

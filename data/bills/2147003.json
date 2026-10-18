@@ -1,0 +1,23 @@
+{
+  "billId": 2147003,
+  "billNumber": "H1194",
+  "title": "Winston-Salem/Forsyth Joint EOC Funds",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "a1e7f6ed7203bdb974407bf1c3d73569",
+  "lastAction": "Ref to the Com on Appropriations, if favorable, Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2026-05-05",
+  "url": "https://legiscan.com/NC/bill/H1194/2025",
+  "aiSummary": "This bill appropriates $1 million in state funds to Forsyth County for the 2026-2027 fiscal year to help create a joint emergency operations center between Winston-Salem and Forsyth County. The center is intended to improve coordination and emergency response capabilities for the city and county.",
+  "aiProArguments": "Supporters argue that a joint emergency operations center improves efficiency and coordination during disasters and emergencies by bringing city and county officials together in one location. They contend that better-coordinated emergency response can save lives and reduce response times, and that state funding helps local governments share infrastructure costs that would be difficult to manage individually.",
+  "aiConArguments": "Opponents may question whether $1 million is sufficient for the project or if local governments should fund emergency infrastructure themselves rather than seeking state support. Some may express concerns about whether the center will be cost-effective long-term or whether state funds could be better spent on other pressing needs across North Carolina.",
+  "topic": "Taxes & Budget",
+  "textLength": 1089,
+  "createdAt": "2026-06-23T03:03:16.606Z",
+  "sponsors": [
+    {"peopleId":24199,"name":"Kanika Brown","party":"D","isPrimary":true},
+    {"peopleId":22599,"name":"Amber Baker","party":"D","isPrimary":true},
+    {"peopleId":22606,"name":"James Roberson","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

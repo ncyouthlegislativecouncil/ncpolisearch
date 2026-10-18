@@ -1,0 +1,21 @@
+{
+  "billId": 1963508,
+  "billNumber": "S66",
+  "title": "SchCalFlex/Cumberland/CC",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "8c12d572dc8296f99fd299dbdda2d601",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-02-11",
+  "url": "https://legiscan.com/NC/bill/S66/2025",
+  "aiSummary": "This bill allows Cumberland County Schools to align their school calendar with Fayetteville Technical Community College's calendar, modifying state law that normally restricts when local school districts can start and end their academic year. The change applies only to Cumberland County Schools beginning in the 2025-2026 school year.",
+  "aiProArguments": "Supporters argue that aligning school calendars with the community college's calendar improves coordination between K-12 schools and higher education, making it easier for students to transition between institutions and reducing scheduling conflicts. This alignment may also benefit families with students attending both schools and allow for better resource sharing and dual enrollment opportunities between Cumberland County Schools and Fayetteville Technical Community College.",
+  "aiConArguments": "Opponents may be concerned that allowing calendar flexibility for one county creates inconsistency across the state and could disadvantage other counties seeking similar exceptions. Some may worry that early school starts could conflict with summer employment or family plans, or that calendar misalignment with neighboring districts could complicate regional coordination for activities, sports, and student transfers.",
+  "topic": "Education",
+  "textLength": 2639,
+  "createdAt": "2026-06-23T03:04:37.393Z",
+  "sponsors": [
+    {"peopleId":17437,"name":"Thomas McInnis","party":"R","isPrimary":true}
+  ],
+  "rollCalls": []
+}

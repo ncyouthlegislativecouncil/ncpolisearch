@@ -1,0 +1,23 @@
+{
+  "billId": 2011676,
+  "billNumber": "S380",
+  "title": "Expand Certain APA Standing Provisions",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "ea32ac9b7a9b63425c7442eb528b9dfa",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-24",
+  "url": "https://legiscan.com/NC/bill/S380/2025",
+  "aiSummary": "This bill amends North Carolina's Administrative Procedure Act to create a rebuttable presumption that trade and business associations, organizations, and similar groups have legal standing to request declaratory rulings from state agencies on behalf of their members. An agency can only overcome this presumption by providing specific written findings that the group's interests are not substantially similar to the individuals they represent.",
+  "aiProArguments": "Supporters argue this bill removes barriers for business and trade associations to challenge regulations that affect their members, making it easier for groups to seek clarity on how laws and rules apply to them. They contend this streamlines the judicial process by establishing a presumption rather than forcing associations to repeatedly prove their members are affected, ultimately protecting business interests and promoting regulatory certainty.",
+  "aiConArguments": "Opponents may argue this bill lowers the threshold for who can challenge agency actions, potentially allowing groups with broader or less direct interests to bring legal challenges that should be brought by directly affected individuals. They could also express concern that the rebuttable presumption shifts the burden to agencies to disprove standing rather than requiring organizations to affirmatively demonstrate their members have a concrete stake in the outcome.",
+  "topic": "Business & Labor",
+  "textLength": 2599,
+  "createdAt": "2026-06-23T03:07:19.319Z",
+  "sponsors": [
+    {"peopleId":11858,"name":"Timothy Moffitt","party":"R","isPrimary":true},
+    {"peopleId":24223,"name":"Brad Overcash","party":"R","isPrimary":true},
+    {"peopleId":24225,"name":"Benton Sawrey","party":"R","isPrimary":true}
+  ],
+  "rollCalls": []
+}

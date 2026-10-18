@@ -1,0 +1,25 @@
+{
+  "billId": 1956814,
+  "billNumber": "S57",
+  "title": "Workers' Comp/Pay for Hearing Aids & Glasses",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "a3ff5471d9bda3cc7ae5a2d48587f506",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-02-06",
+  "url": "https://legiscan.com/NC/bill/S57/2025",
+  "aiSummary": "This bill amends North Carolina's workers' compensation law to clarify that damage to eyeglasses and hearing aids can be covered if the damage occurs as a side effect of a compensable work injury. Previously, the law required damage to these devices to be directly caused by a work accident; this change allows coverage when the damage is 'incidental to' rather than the direct result of a workplace injury.",
+  "aiProArguments": "Supporters argue this change ensures workers are fairly compensated for necessary medical devices damaged during work-related accidents. Since eyeglasses and hearing aids are essential for workers to perform their jobs and function in daily life, covering accidental damage to them removes a financial burden on injured workers and encourages them to report workplace injuries without fear of personal expense.",
+  "aiConArguments": "Opponents may argue the change broadens workers' compensation liability in ways that increase costs for employers and insurers, potentially raising premiums. They may contend that the phrase 'incidental to' is vague and could lead to disputes over what qualifies for coverage, and that workers should maintain their own personal property insurance for these items rather than relying on workers' compensation.",
+  "topic": "Business & Labor",
+  "textLength": 1642,
+  "createdAt": "2026-06-23T03:04:32.276Z",
+  "sponsors": [
+    {"peopleId":20513,"name":"Bobby Hanig","party":"R","isPrimary":true},
+    {"peopleId":17147,"name":"Gale Adcock","party":"D","isPrimary":false},
+    {"peopleId":20225,"name":"Ted Alexander","party":"R","isPrimary":false},
+    {"peopleId":17457,"name":"Paul Lowe","party":"D","isPrimary":false},
+    {"peopleId":20223,"name":"Mujtaba Mohammed","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

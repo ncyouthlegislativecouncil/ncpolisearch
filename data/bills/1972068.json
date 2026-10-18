@@ -1,0 +1,21 @@
+{
+  "billId": 1972068,
+  "billNumber": "S108",
+  "title": "Johnston County/Johnston CC Construction",
+  "status": "2",
+  "chamber": "S",
+  "changeHash": "fce5409c7c875e678d334a340f07bf6e",
+  "lastAction": "Re-ref to the Com on Judiciary 1, if favorable, Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-06-30",
+  "url": "https://legiscan.com/NC/bill/S108/2025",
+  "aiSummary": "This bill authorizes Johnston County to construct, renovate, or repair buildings on Johnston Community College campuses and to finance these projects using county funds, loans, or state appropriations. The county would then lease the completed buildings to the college. The bill exempts the county from certain state building code requirements while requiring compliance with other standards and consultation with the college's board of trustees.",
+  "aiProArguments": "Supporters argue this bill gives Johnston County more flexibility and control to efficiently address the community college's facility needs without bureaucratic delays. By allowing the county to finance and construct buildings, it may enable faster project completion and cost savings through local oversight. The bill still requires coordination with the college's board of trustees to ensure projects meet educational needs.",
+  "aiConArguments": "Opponents may be concerned that exempting Johnston County from certain state building requirements could compromise safety or quality standards that exist statewide. Some may worry about accountability issues when local government controls college construction rather than the state oversight system, or question whether county financing creates financial risks. There could also be concerns about the long-term lease arrangement and whether it adequately protects the college's interests.",
+  "topic": "Education",
+  "textLength": 3082,
+  "createdAt": "2026-06-23T03:04:59.101Z",
+  "sponsors": [
+    {"peopleId":24225,"name":"Benton Sawrey","party":"R","isPrimary":true}
+  ],
+  "rollCalls": []
+}

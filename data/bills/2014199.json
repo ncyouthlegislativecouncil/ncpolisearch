@@ -1,0 +1,24 @@
+{
+  "billId": 2014199,
+  "billNumber": "S720",
+  "title": "North Carolina Consumer Protection Act",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "60282287d52dc1de83e65ad90c2636a4",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-26",
+  "url": "https://legiscan.com/NC/bill/S720/2025",
+  "aiSummary": "This bill revises North Carolina utility law to prohibit public utilities from recovering certain costs through customer rates, including advertising, lobbying, political activities, and executive travel expenses. It requires utilities to file annual reports disclosing these activities and establishes penalties for violations, with collected funds directed to an Energy Equity Fund for low-income assistance and disaster relief.",
+  "aiProArguments": "Supporters argue this bill protects ratepayers from subsidizing utility company political activities and advertising that benefit shareholders rather than customers. They contend that utilities should only recover costs directly related to providing reliable service, and that transparency through annual reporting will prevent utilities from using customer bills to influence legislation or public opinion that may not align with ratepayer interests.",
+  "aiConArguments": "Opponents contend that the bill's broad restrictions on advertising and political activities may limit utilities' ability to communicate important safety messages and engage in legitimate industry advocacy. They argue the extensive reporting requirements impose significant administrative burdens and compliance costs, and that the steep penalties ($50,000-$150,000 per violation, with each day being a separate violation) may be disproportionate and ultimately increase customer costs rather than reduce them.",
+  "topic": "Business & Labor",
+  "textLength": 20929,
+  "createdAt": "2026-06-23T03:10:18.341Z",
+  "sponsors": [
+    {"peopleId":16251,"name":"Graig Meyer","party":"D","isPrimary":true},
+    {"peopleId":21633,"name":"Natalie Murdock","party":"D","isPrimary":true},
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

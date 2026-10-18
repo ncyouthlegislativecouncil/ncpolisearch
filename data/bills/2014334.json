@@ -1,0 +1,29 @@
+{
+  "billId": 2014334,
+  "billNumber": "S649",
+  "title": "Restore Master's Pay for Teachers & ISP",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "ab0bbec574ad86a5b53a80a7c05657b1",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-26",
+  "url": "https://legiscan.com/NC/bill/S649/2025",
+  "aiSummary": "This bill restores salary supplements for teachers and instructional support personnel who hold master's degrees or doctorates, using the pay policy that was in effect on June 30, 2013. The bill appropriates $8 million in state funding for the 2025-2026 fiscal year to implement these education-based salary increases.",
+  "aiProArguments": "Supporters argue that this bill helps recruit and retain qualified educators by rewarding those who pursue advanced degrees, which may improve student outcomes. They contend that removing these supplements in the past was unfair to teachers who invested time and money in graduate education, and restoring them acknowledges the value of higher qualifications in the classroom.",
+  "aiConArguments": "Opponents may argue that the state has limited budget resources and that $8 million could be used for other education priorities like classroom materials or support for struggling schools. Some may also question whether master's degrees directly improve student achievement enough to justify targeted pay increases compared to raising base salaries for all teachers.",
+  "topic": "Education",
+  "textLength": 1287,
+  "createdAt": "2026-06-23T03:09:40.727Z",
+  "sponsors": [
+    {"peopleId":20223,"name":"Mujtaba Mohammed","party":"D","isPrimary":true},
+    {"peopleId":25860,"name":"Woodson Bradley","party":"D","isPrimary":false},
+    {"peopleId":20220,"name":"Michael Garrett","party":"D","isPrimary":false},
+    {"peopleId":17457,"name":"Paul Lowe","party":"D","isPrimary":false},
+    {"peopleId":22425,"name":"Julie Mayfield","party":"D","isPrimary":false},
+    {"peopleId":12032,"name":"Gladys Robinson","party":"D","isPrimary":false},
+    {"peopleId":22426,"name":"DeAndrea Salvador","party":"D","isPrimary":false},
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

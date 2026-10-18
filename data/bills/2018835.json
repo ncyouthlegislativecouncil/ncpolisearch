@@ -1,0 +1,22 @@
+{
+  "billId": 2018835,
+  "billNumber": "H700",
+  "title": "The Patients' Restoration of Rights Act",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "673123d3c2144b5fdac7a57cc6a678be",
+  "lastAction": "Ref To Com On Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-04-03",
+  "url": "https://legiscan.com/NC/bill/H700/2025",
+  "aiSummary": "This bill creates a one-year window allowing patients or their representatives to file medical malpractice lawsuits against healthcare providers for injuries or deaths occurring after March 1, 2020, even if the normal time limit to file has expired. The bill specifically excludes cases where COVID-19 was the direct cause of injury or death.",
+  "aiProArguments": "Supporters argue this bill restores patients' rights to seek justice for medical negligence by removing the statute of limitations barrier for a limited time. They contend that pandemic-related disruptions may have prevented some patients from filing timely claims, and this window provides an opportunity for legitimate cases to be heard that would otherwise be permanently barred.",
+  "aiConArguments": "Opponents argue this bill creates uncertainty for healthcare providers by reopening cases long thought to be resolved and could expose providers to lawsuits years after incidents occurred. They worry this could increase healthcare costs, insurance premiums, and defensive medicine practices, while also potentially overwhelming courts with old cases and making it difficult for providers to obtain evidence or testimony from years prior.",
+  "topic": "Healthcare",
+  "textLength": 2294,
+  "createdAt": "2026-06-23T02:56:35.431Z",
+  "sponsors": [
+    {"peopleId":22605,"name":"Abraham Jones","party":"D","isPrimary":true},
+    {"peopleId":20522,"name":"Nasif Majeed","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

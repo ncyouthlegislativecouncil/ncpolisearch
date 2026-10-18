@@ -1,0 +1,28 @@
+{
+  "billId": 2022775,
+  "billNumber": "H950",
+  "title": "Elderly/Disabled Prop. Tax Mods",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "43f7a0a9dd0f8346b75b19eb00a0fe85",
+  "lastAction": "Ref to the Com on Finance, if favorable, Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-04-14",
+  "url": "https://legiscan.com/NC/bill/H950/2025",
+  "aiSummary": "This bill modifies North Carolina's property tax break for elderly and disabled homeowners by raising the age requirement from 65 to 70 years old, removing the income limit requirement, and changing the tax exclusion from 50% of the home's value to 100% of the home's value. The changes would take effect for tax years beginning July 1, 2026.",
+  "aiProArguments": "Supporters argue this bill provides greater financial relief to vulnerable populations—elderly and disabled North Carolinians on fixed incomes—by eliminating the income cap that currently prevents some qualifying seniors from receiving help and by excluding their entire home value from taxation rather than just half. They contend this expanded relief helps seniors stay in their homes longer by reducing the tax burden that might otherwise force them to sell due to rising property values.",
+  "aiConArguments": "Opponents may argue the bill reduces county tax revenue significantly, which could impact funding for schools, emergency services, and infrastructure without identifying alternative revenue sources. They may also question whether removing income limits directs tax relief to those who need it most, and express concern that a 100% exclusion is more generous than comparable programs in other states.",
+  "topic": "Taxes & Budget",
+  "textLength": 4642,
+  "createdAt": "2026-06-23T02:59:40.283Z",
+  "sponsors": [
+    {"peopleId":22608,"name":"Diane Wheatley","party":"R","isPrimary":true},
+    {"peopleId":24202,"name":"Maria Cervania","party":"D","isPrimary":false},
+    {"peopleId":25846,"name":"Mike Colvin","party":"D","isPrimary":false},
+    {"peopleId":14612,"name":"Carla Cunningham","party":"D","isPrimary":false},
+    {"peopleId":2077,"name":"Mary Harrison","party":"D","isPrimary":false},
+    {"peopleId":24206,"name":"Frances Jackson","party":"D","isPrimary":false},
+    {"peopleId":20521,"name":"Carolyn Logan","party":"D","isPrimary":false},
+    {"peopleId":22610,"name":"Matthew Winslow","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

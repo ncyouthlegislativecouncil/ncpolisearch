@@ -1,0 +1,27 @@
+{
+  "billId": 1984249,
+  "billNumber": "H228",
+  "title": "City of Asheville/Funds for Study",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "c85e1278d573a4d96778e27d661ebf1a",
+  "lastAction": "Ref to the Com on Appropriations, if favorable, Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-02-27",
+  "url": "https://legiscan.com/NC/bill/H228/2025",
+  "aiSummary": "This bill appropriates $25,000 in state funds to the City of Asheville to study whether and how the city's water system could be extended to serve the new Pisgah View State Park. The study would examine the feasibility and costs of this water system extension.",
+  "aiProArguments": "Supporters argue that this study is a necessary first step to understand whether extending water service to Pisgah View State Park is practical and affordable. The study could help the state park operate more effectively and identify potential infrastructure improvements that serve both the park and the surrounding area.",
+  "aiConArguments": "Opponents may question whether $25,000 in state funds should be used for a local infrastructure study when the city could potentially fund it itself, or argue that the state should prioritize other spending needs. Some may also be concerned about committing to future water system expansion costs without knowing upfront what the feasibility study will reveal.",
+  "topic": "Taxes & Budget",
+  "textLength": 1088,
+  "createdAt": "2026-06-23T02:45:29.284Z",
+  "sponsors": [
+    {"peopleId":24213,"name":"Lindsey Prather","party":"D","isPrimary":true},
+    {"peopleId":24890,"name":"Eric Ager","party":"D","isPrimary":true},
+    {"peopleId":17149,"name":"Brian Turner","party":"D","isPrimary":true},
+    {"peopleId":2077,"name":"Mary Harrison","party":"D","isPrimary":false},
+    {"peopleId":20515,"name":"Zack Forde-Hawkins","party":"D","isPrimary":false},
+    {"peopleId":24208,"name":"Ray Jeffers","party":"D","isPrimary":false},
+    {"peopleId":20521,"name":"Carolyn Logan","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

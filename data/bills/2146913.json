@@ -1,0 +1,21 @@
+{
+  "billId": 2146913,
+  "billNumber": "S961",
+  "title": "Hospital Authority Commissioner Reforms",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "bbd1653a024e1a3000ce2e1baf58266d",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2026-05-04",
+  "url": "https://legiscan.com/NC/bill/S961/2025",
+  "aiSummary": "This bill reforms North Carolina hospital authority boards by increasing the minimum number of commissioners from six to eight and the maximum from 30 to 38, requiring at least four public members (who cannot be healthcare providers or their spouses) and at least four elected officials from counties or municipalities within the hospital's service area. The bill also allocates $50,000 to help hospital authorities comply with these new requirements by December 1, 2026.",
+  "aiProArguments": "Supporters argue this bill increases community representation and accountability by requiring public members and local elected officials on hospital boards, reducing potential conflicts of interest by excluding healthcare providers. They contend that broader board composition with elected officials brings democratic oversight and ensures hospital authorities better serve their communities' needs rather than just medical industry interests.",
+  "aiConArguments": "Opponents may argue that the restrictions on healthcare provider participation could limit valuable medical expertise on boards that make healthcare decisions. They could also contend that mandating specific board composition reduces local flexibility, increases administrative burden on hospitals, and that the $50,000 appropriation may be insufficient for compliance costs across all hospital authorities.",
+  "topic": "Healthcare",
+  "textLength": 3408,
+  "createdAt": "2026-06-23T03:12:13.284Z",
+  "sponsors": [
+    {"peopleId":20216,"name":"Jim Burgin","party":"R","isPrimary":true}
+  ],
+  "rollCalls": []
+}

@@ -1,0 +1,24 @@
+{
+  "billId": 2011974,
+  "billNumber": "S374",
+  "title": "Licensing Certain Fire Safety Equip. Work",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "8e521f5a1dea194ca34043e8b90efa07",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-24",
+  "url": "https://legiscan.com/NC/bill/S374/2025",
+  "aiSummary": "This bill requires individuals and businesses to obtain state licenses and permits from the North Carolina State Fire Marshal before installing, servicing, or inspecting portable fire extinguishers and fire suppression systems. The bill establishes fees ($250 for business licenses, $100 for individual permits), insurance requirements, examination standards, and enforcement penalties for violations.",
+  "aiProArguments": "Supporters argue this bill protects public safety by ensuring that only trained and qualified professionals service critical fire safety equipment. Licensing creates accountability through inspections, proper documentation with service tags, and enforcement mechanisms. Proponents contend this standardizes practices across the state, reduces risks of improperly maintained equipment that could fail during emergencies, and establishes baseline competency requirements similar to other licensed trades.",
+  "aiConArguments": "Opponents may contend that new licensing requirements create regulatory burdens and costs for small businesses and contractors, potentially reducing competition and increasing service costs for consumers. Some argue existing liability insurance requirements and industry standards already ensure quality without additional state licensing. Concerns include whether the State Fire Marshal has adequate resources to administer the program and whether compliance costs could discourage some businesses from serving rural or less profitable areas.",
+  "topic": "Criminal Justice & Public Safety",
+  "textLength": 27791,
+  "createdAt": "2026-06-23T03:07:15.444Z",
+  "sponsors": [
+    {"peopleId":22424,"name":"Michael Lazzara","party":"R","isPrimary":true},
+    {"peopleId":20504,"name":"Lisa Barnes","party":"R","isPrimary":true},
+    {"peopleId":20216,"name":"Jim Burgin","party":"R","isPrimary":false},
+    {"peopleId":11858,"name":"Timothy Moffitt","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

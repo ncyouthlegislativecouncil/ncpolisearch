@@ -1,0 +1,27 @@
+{
+  "billId": 2014372,
+  "billNumber": "S729",
+  "title": "Opt-In to Student Health",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "21b8d1c74416cacdeba8d26cbe9d62d3",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-26",
+  "url": "https://legiscan.com/NC/bill/S729/2025",
+  "aiSummary": "This bill clarifies which health screenings schools can conduct without parental consent and requires schools to notify parents about screenings at the beginning of the school year and when results are available. The bill defines health care screenings as limited to vision, hearing, dental, and developmental screenings, and requires schools to provide parents with notice and access to their child's results.",
+  "aiProArguments": "Supporters argue this bill protects parental rights by requiring clear notification about health screenings and establishing transparent procedures. They contend that vision, hearing, dental, and developmental screenings are standard preventive health measures that benefit students by catching health issues early, and that parental notification ensures families are informed while allowing schools to continue these routine screenings efficiently.",
+  "aiConArguments": "Opponents may argue that requiring notification for every screening could create administrative burdens and might discourage participation in beneficial health screenings if parents must opt-in. Some may also raise concerns about whether the distinction between screenings that require parental consent versus those that don't adequately protects parental rights, or whether the definition of 'health care screening' is narrow enough to address other wellness activities schools may conduct.",
+  "topic": "Education",
+  "textLength": 2836,
+  "createdAt": "2026-06-23T03:10:22.265Z",
+  "sponsors": [
+    {"peopleId":25860,"name":"Woodson Bradley","party":"D","isPrimary":true},
+    {"peopleId":17147,"name":"Gale Adcock","party":"D","isPrimary":true},
+    {"peopleId":20510,"name":"Terence Everitt","party":"D","isPrimary":true},
+    {"peopleId":25858,"name":"Sophia Chitlik","party":"D","isPrimary":false},
+    {"peopleId":20220,"name":"Michael Garrett","party":"D","isPrimary":false},
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

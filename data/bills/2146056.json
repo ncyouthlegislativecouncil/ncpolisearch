@@ -1,0 +1,24 @@
+{
+  "billId": 2146056,
+  "billNumber": "H1068",
+  "title": "King Sat. Annex./Rural Hall Fire Dist",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "43ea8d52a97206b5db1bba94f1930804",
+  "lastAction": "Re-ref Com On Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2026-06-02",
+  "url": "https://legiscan.com/NC/bill/H1068/2025",
+  "aiSummary": "This bill removes the satellite annexation cap for the City of King, allowing it to annex noncontiguous areas without the 10% size limit that normally applies to other cities. It also removes the Town of Rural Hall from the Forsyth County Countywide Fire Service District, ending Rural Hall's obligation to pay fire service taxes to the county effective July 1, 2026.",
+  "aiProArguments": "Supporters argue that removing King's annexation cap allows the city to grow and expand its tax base to fund services and development. For Rural Hall, proponents contend that removing the town from the county fire district allows it greater autonomy and the potential to establish or control its own fire services, while reducing costs if the town can provide services more efficiently than the county.",
+  "aiConArguments": "Opponents may argue that removing King's annexation cap could lead to sprawling, fragmented development patterns that are difficult to manage and serve. Regarding Rural Hall's removal from the county fire district, critics might worry about disruptions to fire service continuity, the financial impact on remaining county residents who subsidize fire services, or concerns that Rural Hall cannot adequately fund fire protection independently.",
+  "topic": "Local Government",
+  "textLength": 3209,
+  "createdAt": "2026-06-23T03:01:11.475Z",
+  "sponsors": [
+    {"peopleId":17876,"name":"Kyle Hall","party":"R","isPrimary":true},
+    {"peopleId":20516,"name":"Chris Humphrey","party":"R","isPrimary":false},
+    {"peopleId":21375,"name":"Jeffrey McNeely","party":"R","isPrimary":false},
+    {"peopleId":22615,"name":"Howard Penny","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

@@ -1,0 +1,29 @@
+{
+  "billId": 1992966,
+  "billNumber": "H317",
+  "title": "Restore Down-Zoning Auth./City of High Point",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "bd1e2b406910584b0a94cab69ce6e529",
+  "lastAction": "Ref to the Com on Judiciary 3, if favorable, Housing and Development, if favorable, Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-03-10",
+  "url": "https://legiscan.com/NC/bill/H317/2025",
+  "aiSummary": "This bill restores the City of High Point's authority to initiate down-zoning (reducing allowed development density or permitted uses on property) without needing written consent from all affected property owners. The change applies retroactively to December 11, 2024, and reverses a restriction that was added in a previous 2024 law.",
+  "aiProArguments": "Supporters argue this bill gives local government the flexibility needed for comprehensive land-use planning and community development goals. They contend that requiring unanimous property owner consent can block important municipal initiatives like neighborhood revitalization, infrastructure improvements, or protecting community character, and that local elected officials should have authority to make zoning decisions they believe serve the public interest.",
+  "aiConArguments": "Opponents argue that down-zoning without property owner consent reduces property values and individual landowner rights to develop their own property as previously allowed. They contend that property owners should have a say when government actions restrict how their land can be used, and that the 2024 restriction existed to protect property rights and prevent government overreach in zoning decisions.",
+  "topic": "Local Government",
+  "textLength": 2055,
+  "createdAt": "2026-06-23T02:48:14.316Z",
+  "sponsors": [
+    {"peopleId":18462,"name":"Amos Quick","party":"D","isPrimary":true},
+    {"peopleId":17151,"name":"Cecil Brockman","party":"D","isPrimary":true},
+    {"peopleId":18451,"name":"Mary Belk","party":"D","isPrimary":false},
+    {"peopleId":2044,"name":"Becky Carney","party":"D","isPrimary":false},
+    {"peopleId":25213,"name":"Tracy Clark","party":"D","isPrimary":false},
+    {"peopleId":20509,"name":"Allison Dahle","party":"D","isPrimary":false},
+    {"peopleId":2077,"name":"Mary Harrison","party":"D","isPrimary":false},
+    {"peopleId":20515,"name":"Zack Forde-Hawkins","party":"D","isPrimary":false},
+    {"peopleId":24206,"name":"Frances Jackson","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

@@ -1,0 +1,27 @@
+{
+  "billId": 2014368,
+  "billNumber": "S707",
+  "title": "25-Year LEO Retirement With Full Benefits",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "b97499770df348dad33df97bd95c2217",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-26",
+  "url": "https://legiscan.com/NC/bill/S707/2025",
+  "aiSummary": "This bill allows law enforcement officers in North Carolina to retire with full, unreduced benefits after completing 25 years of service, rather than having to wait until age 50 or 55. It applies to officers in the state and local government retirement systems, with changes taking effect January 1, 2026.",
+  "aiProArguments": "Supporters argue this change recognizes the physically and mentally demanding nature of law enforcement work, allowing officers to retire earlier while still receiving full benefits. They contend it improves officer recruitment and retention by offering a clearer retirement pathway and rewards career-long service to public safety.",
+  "aiConArguments": "Opponents may argue the change increases long-term pension obligations and costs for state and local government budgets, requiring higher contributions or potentially reducing funds available for other services. They might also note that the benefit applies regardless of officer age at retirement, which could be more costly than age-restricted retirement options.",
+  "topic": "Criminal Justice & Public Safety",
+  "textLength": 28594,
+  "createdAt": "2026-06-23T03:10:10.040Z",
+  "sponsors": [
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":true},
+    {"peopleId":20220,"name":"Michael Garrett","party":"D","isPrimary":true},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":true},
+    {"peopleId":20505,"name":"Sydney Batch","party":"D","isPrimary":false},
+    {"peopleId":25860,"name":"Woodson Bradley","party":"D","isPrimary":false},
+    {"peopleId":24222,"name":"Lisa Grafstein","party":"D","isPrimary":false},
+    {"peopleId":20223,"name":"Mujtaba Mohammed","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

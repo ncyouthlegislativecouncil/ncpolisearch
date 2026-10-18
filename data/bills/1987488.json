@@ -1,0 +1,22 @@
+{
+  "billId": 1987488,
+  "billNumber": "S217",
+  "title": "Funds to Repair Orphan Roads in Durham County",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "86b561fb9fbf7c177b05e85abe4fef4f",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-03",
+  "url": "https://legiscan.com/NC/bill/S217/2025",
+  "aiSummary": "This bill appropriates $500,000 in state funds to Durham County to repair and improve orphan roads—roads in unincorporated areas that are not currently maintained by the state or local government. The goal is to bring these roads up to standards so the North Carolina Department of Transportation can take over their maintenance.",
+  "aiProArguments": "Supporters argue that orphan roads create safety hazards and limit access to essential services for rural residents who currently have no entity responsible for maintaining them. This funding would fix deteriorating roads and ensure they receive consistent state maintenance going forward, benefiting Durham County residents and reducing the county's burden of road maintenance costs.",
+  "aiConArguments": "Opponents may argue that directing state funds to one county sets a precedent for similar requests from other counties across North Carolina, raising equity concerns about which communities receive infrastructure investment. Some may also question whether the $500,000 is sufficient and whether this is the most efficient use of limited state transportation dollars compared to other statewide infrastructure priorities.",
+  "topic": "Transportation & Infrastructure",
+  "textLength": 980,
+  "createdAt": "2026-06-23T03:05:52.878Z",
+  "sponsors": [
+    {"peopleId":25858,"name":"Sophia Chitlik","party":"D","isPrimary":true},
+    {"peopleId":21633,"name":"Natalie Murdock","party":"D","isPrimary":true}
+  ],
+  "rollCalls": []
+}

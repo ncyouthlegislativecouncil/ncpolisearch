@@ -1,0 +1,26 @@
+{
+  "billId": 2014351,
+  "billNumber": "S696",
+  "title": "Limit No-Knock Warrant/Quick-Knock Entry",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "88d13323762cb465f52986ac065c276e",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-26",
+  "url": "https://legiscan.com/NC/bill/S696/2025",
+  "aiSummary": "This bill requires judges to find probable cause that giving notice of a search warrant would endanger someone's life or safety before approving no-knock warrants. It also requires officers to wait a reasonable amount of time after announcing themselves for occupants to respond before using force to enter a property.",
+  "aiProArguments": "Supporters argue this bill protects citizens from dangerous surprise entries and reduces the risk of accidental harm during warrant execution. They contend that requiring judicial approval for no-knock warrants ensures a neutral decision-maker reviews whether such tactics are truly necessary, and that waiting for a reasonable response time gives innocent occupants a chance to comply peacefully.",
+  "aiConArguments": "Opponents worry this bill could hamper law enforcement's ability to execute time-sensitive warrants safely, particularly in cases involving violent suspects or evidence that could be quickly destroyed. They argue that strict requirements and mandatory wait times might delay entries in emergency situations and could endanger officers by giving suspects more opportunity to arm themselves or dispose of evidence.",
+  "topic": "Criminal Justice & Public Safety",
+  "textLength": 7276,
+  "createdAt": "2026-06-23T03:10:05.289Z",
+  "sponsors": [
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":true},
+    {"peopleId":25859,"name":"Caleb Theodros","party":"D","isPrimary":true},
+    {"peopleId":24220,"name":"Val Applewhite","party":"D","isPrimary":false},
+    {"peopleId":25858,"name":"Sophia Chitlik","party":"D","isPrimary":false},
+    {"peopleId":21633,"name":"Natalie Murdock","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

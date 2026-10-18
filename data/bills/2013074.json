@@ -1,0 +1,28 @@
+{
+  "billId": 2013074,
+  "billNumber": "S395",
+  "title": "Disaster Relief Eviction Moratorium Act",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "9d6550ab65bf1b228c1a51210ff42931",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-25",
+  "url": "https://legiscan.com/NC/bill/S395/2025",
+  "aiSummary": "This bill allows the Governor to issue an executive order that temporarily prevents residential evictions during a declared state of emergency, if the disaster has caused widespread displacement, job loss, or economic hardship. The moratorium can last up to 90 days initially, with possible extensions up to 180 days total, and the Governor can direct state and federal funds toward rental assistance programs to help both landlords and tenants.",
+  "aiProArguments": "Supporters argue this bill protects vulnerable people from losing their homes during disasters when job losses and economic disruption make rent payments difficult. They contend that preventing mass homelessness during emergencies serves a compelling state interest and that pairing the moratorium with rental assistance programs helps landlords recover lost income while keeping families housed during recovery periods.",
+  "aiConArguments": "Opponents argue that eviction moratoriums may burden landlords financially by preventing them from collecting rent or finding new tenants, potentially threatening small property owners' ability to maintain buildings. They also contend that the bill grants the Governor broad emergency powers that are difficult for the General Assembly or courts to challenge, and question whether rental assistance funding will be sufficient to compensate landlords for extended income losses.",
+  "topic": "Housing",
+  "textLength": 5468,
+  "createdAt": "2026-06-23T03:07:26.650Z",
+  "sponsors": [
+    {"peopleId":24220,"name":"Val Applewhite","party":"D","isPrimary":true},
+    {"peopleId":20220,"name":"Michael Garrett","party":"D","isPrimary":false},
+    {"peopleId":20223,"name":"Mujtaba Mohammed","party":"D","isPrimary":false},
+    {"peopleId":21633,"name":"Natalie Murdock","party":"D","isPrimary":false},
+    {"peopleId":22426,"name":"DeAndrea Salvador","party":"D","isPrimary":false},
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":false},
+    {"peopleId":25859,"name":"Caleb Theodros","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

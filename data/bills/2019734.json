@@ -1,0 +1,30 @@
+{
+  "billId": 2019734,
+  "billNumber": "H785",
+  "title": "School Funding Flexibility Study",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "749997448ca80cd885ebf845aef9acf5",
+  "lastAction": "Ref to the Com on Appropriations, if favorable, Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-04-07",
+  "url": "https://legiscan.com/NC/bill/H785/2025",
+  "aiSummary": "This bill directs the North Carolina Department of Public Instruction to study how local school boards could be given more flexibility in managing their budgets, such as combining or transferring funds between different budget categories. The department will report its findings and recommendations to the legislature by April 1, 2026, with $50,000 allocated to conduct the study.",
+  "aiProArguments": "Supporters argue that giving local school boards more budget flexibility allows them to respond quickly to their specific community needs and student populations without waiting for state approval. They contend that schools closer to their students and teachers understand where resources are needed most, and flexibility could improve efficiency and allow districts to reallocate funds to their highest priorities.",
+  "aiConArguments": "Opponents may worry that reducing budget controls could lead to inconsistent spending across districts or allow funds designated for specific purposes (like special education or disadvantaged students) to be redirected elsewhere. They may also express concern that wealthier districts could better exploit flexibility than poorer districts, potentially increasing educational inequities across the state.",
+  "topic": "Education",
+  "textLength": 1553,
+  "createdAt": "2026-06-23T02:57:37.381Z",
+  "sponsors": [
+    {"peopleId":20520,"name":"Brandon Lofton","party":"D","isPrimary":true},
+    {"peopleId":22609,"name":"David Willis","party":"R","isPrimary":true},
+    {"peopleId":2044,"name":"Becky Carney","party":"D","isPrimary":false},
+    {"peopleId":25857,"name":"Richard Carver","party":"R","isPrimary":false},
+    {"peopleId":24202,"name":"Maria Cervania","party":"D","isPrimary":false},
+    {"peopleId":25851,"name":"Aisha Dew","party":"D","isPrimary":false},
+    {"peopleId":2077,"name":"Mary Harrison","party":"D","isPrimary":false},
+    {"peopleId":20515,"name":"Zack Forde-Hawkins","party":"D","isPrimary":false},
+    {"peopleId":24206,"name":"Frances Jackson","party":"D","isPrimary":false},
+    {"peopleId":25214,"name":"Heather Rhyne","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

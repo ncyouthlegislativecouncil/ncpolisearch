@@ -1,0 +1,22 @@
+{
+  "billId": 2145839,
+  "billNumber": "S839",
+  "title": "Price Transparency Act",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "94fc799f162cc3ea1bc7e70c7a0dfae2",
+  "lastAction": "Re-ref to Appropriations/Base Budget. If fav, re-ref to Rules and Operations of the Senate",
+  "lastActionDate": "2026-04-28",
+  "url": "https://legiscan.com/NC/bill/S839/2025",
+  "aiSummary": "This bill bans food retailers from using dynamic pricing (varying prices within the same day based on demand or personal data) and prevents anti-competitive mergers in the food industry. It also caps credit card surcharges at 2% and creates a Price Transparency Team in the Department of Justice to track and publicly report prices of groceries and utilities quarterly.",
+  "aiProArguments": "Supporters argue this bill protects consumers from unfair pricing practices where companies charge different prices to different people based on personal data, which disproportionately harms low-income shoppers. They contend that banning anti-competitive mergers preserves competition in grocery markets, keeping prices lower and giving consumers more choices, while the price transparency reports help the public monitor inflation and hold businesses accountable.",
+  "aiConArguments": "Opponents argue the dynamic pricing ban may reduce efficiency and innovation in how businesses set prices, potentially leading to higher overall prices or reduced service quality for all customers. They also contend that blocking mergers could harm consumers by preventing cost-saving consolidations and that the bill creates significant compliance burdens on retailers, with a $5 million enforcement cost to taxpayers that could be better spent elsewhere.",
+  "topic": "Business & Labor",
+  "textLength": 4439,
+  "createdAt": "2026-06-23T03:11:08.646Z",
+  "sponsors": [
+    {"peopleId":25860,"name":"Woodson Bradley","party":"D","isPrimary":true},
+    {"peopleId":22426,"name":"DeAndrea Salvador","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

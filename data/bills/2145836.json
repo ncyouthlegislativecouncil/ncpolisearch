@@ -1,0 +1,31 @@
+{
+  "billId": 2145836,
+  "billNumber": "H1052",
+  "title": "Cure Violence Program Grant",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "6a14e7cbebcff7fca391666eaca97a38",
+  "lastAction": "Ref to the Com on Appropriations, if favorable, Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2026-04-28",
+  "url": "https://legiscan.com/NC/bill/H1052/2025",
+  "aiSummary": "This bill appropriates $1 million in one-time funding from the state's General Fund to Forsyth County for a Cure Violence Program aimed at addressing violence in the Triad region. The funds become available starting July 1, 2026.",
+  "aiProArguments": "Supporters argue that violence prevention programs like Cure Violence have shown success in reducing gun violence and homicides in other communities by using data-driven strategies and community intervention. They contend that investing in violence prevention saves lives, reduces healthcare costs, and improves public safety in the Triad region, and that directing funds to Forsyth County addresses a specific area of need.",
+  "aiConArguments": "Opponents may argue that the bill provides only one-time, nonrecurring funding that may not sustain long-term violence prevention efforts, or that the $1 million could be better spent on other state priorities. Some may question whether a directed grant to one county is the most equitable approach compared to competitive grant processes, or whether the Cure Violence Program's effectiveness justifies this specific funding allocation.",
+  "topic": "Criminal Justice & Public Safety",
+  "textLength": 915,
+  "createdAt": "2026-06-23T03:00:53.272Z",
+  "sponsors": [
+    {"peopleId":24199,"name":"Kanika Brown","party":"D","isPrimary":true},
+    {"peopleId":22599,"name":"Amber Baker","party":"D","isPrimary":false},
+    {"peopleId":18451,"name":"Mary Belk","party":"D","isPrimary":false},
+    {"peopleId":2044,"name":"Becky Carney","party":"D","isPrimary":false},
+    {"peopleId":25213,"name":"Tracy Clark","party":"D","isPrimary":false},
+    {"peopleId":25842,"name":"Bryan Cohn","party":"D","isPrimary":false},
+    {"peopleId":26662,"name":"Amanda Cook","party":"D","isPrimary":false},
+    {"peopleId":20509,"name":"Allison Dahle","party":"D","isPrimary":false},
+    {"peopleId":25844,"name":"Julia Greenfield","party":"D","isPrimary":false},
+    {"peopleId":20521,"name":"Carolyn Logan","party":"D","isPrimary":false},
+    {"peopleId":24214,"name":"Renee Price","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

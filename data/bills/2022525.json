@@ -1,0 +1,21 @@
+{
+  "billId": 2022525,
+  "billNumber": "H898",
+  "title": "Broadband Equipment Sales Tax Exemption",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "2408bdd8ed74ee72d4cc0ef84a806586",
+  "lastAction": "Ref to the Com on Finance, if favorable, Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-04-14",
+  "url": "https://legiscan.com/NC/bill/H898/2025",
+  "aiSummary": "This bill exempts internet service providers and their contractors from paying sales tax on equipment, parts, and accessories used to provide internet service, including equipment for transmitting data, related infrastructure, electricity to power the equipment, and services to install and maintain it. The exemption takes effect July 1, 2025.",
+  "aiProArguments": "Supporters argue this exemption reduces costs for internet service providers, allowing them to invest more in broadband infrastructure expansion and upgrades, particularly in underserved rural areas. They contend lower equipment costs help ISPs improve internet access and speeds for North Carolinians while stimulating economic growth in the broadband industry.",
+  "aiConArguments": "Opponents argue the exemption reduces state tax revenue that could fund schools, roads, and other public services without guaranteeing ISPs will pass savings to consumers or expand service to underserved areas. They question whether tax incentives are the most effective way to improve broadband access compared to direct investment or regulation requiring service expansion.",
+  "topic": "Taxes & Budget",
+  "textLength": 1329,
+  "createdAt": "2026-06-23T02:59:05.123Z",
+  "sponsors": [
+    {"peopleId":22616,"name":"Ray Pickett","party":"R","isPrimary":true}
+  ],
+  "rollCalls": []
+}

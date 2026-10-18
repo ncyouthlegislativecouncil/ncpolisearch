@@ -1,0 +1,23 @@
+{
+  "billId": 2014156,
+  "billNumber": "S682",
+  "title": "Funds for Charlotte Nature Museum",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "86e7b7e499cd7278db70402d8942cde9",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2025-03-26",
+  "url": "https://legiscan.com/NC/bill/S682/2025",
+  "aiSummary": "This bill appropriates $6.5 million in state funds to Discovery Place, Inc. for capital improvements at the Charlotte Nature Museum. The money will be used for $1.5 million in infrastructure projects (sidewalks, parking, EV charging stations) and $5 million for the Tree Canopy Walk project, which includes construction, safety features, accessibility improvements, and educational exhibits.",
+  "aiProArguments": "Supporters argue this funding enhances a major educational and recreational resource for the Charlotte region and western North Carolina. The investment improves public accessibility through parking and sidewalk improvements, supports environmental education through the Tree Canopy Walk, and includes modern amenities like EV charging stations that align with sustainability goals.",
+  "aiConArguments": "Opponents may question whether a $6.5 million state appropriation to a single private museum is the best use of public funds, especially during budget constraints. Some may argue the state should prioritize funding for public institutions or programs with broader statewide benefit, or that Discovery Place should secure funding through private donations, grants, or user fees rather than state tax dollars.",
+  "topic": "Taxes & Budget",
+  "textLength": 1317,
+  "createdAt": "2026-06-23T03:09:58.996Z",
+  "sponsors": [
+    {"peopleId":22426,"name":"DeAndrea Salvador","party":"D","isPrimary":true},
+    {"peopleId":25860,"name":"Woodson Bradley","party":"D","isPrimary":true},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":true}
+  ],
+  "rollCalls": []
+}

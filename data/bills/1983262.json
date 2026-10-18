@@ -1,0 +1,30 @@
+{
+  "billId": 1983262,
+  "billNumber": "H200",
+  "title": "SchCalFlex/Pender/CC",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "fbd03c740fd0e9f5bdb4bbe62d71655c",
+  "lastAction": "Ref to the Com on Education - K-12, if favorable, Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-02-26",
+  "url": "https://legiscan.com/NC/bill/H200/2025",
+  "aiSummary": "This bill allows Pender County Schools to align their school calendar with Cape Fear Community College's calendar. Currently, state law restricts when public schools can start and end their academic year, but this bill adds an exception for Pender County to match their schedule with the community college serving their area.",
+  "aiProArguments": "Supporters argue that aligning school and community college calendars creates practical benefits for families and students who attend both institutions, reducing scheduling conflicts and simplifying coordination. They contend this flexibility helps students transition more smoothly between high school and community college and may improve access to dual enrollment programs and college preparation opportunities.",
+  "aiConArguments": "Opponents may be concerned that allowing individual counties to set their own calendars independent of state guidelines could create inconsistencies across North Carolina, potentially complicating student transfers between districts. They might also worry that this precedent could lead to other counties requesting similar exemptions, fragmenting the state's educational calendar system.",
+  "topic": "Education",
+  "textLength": 2763,
+  "createdAt": "2026-06-23T02:44:50.492Z",
+  "sponsors": [
+    {"peopleId":20523,"name":"Carson Smith","party":"R","isPrimary":true},
+    {"peopleId":22599,"name":"Amber Baker","party":"D","isPrimary":false},
+    {"peopleId":18451,"name":"Mary Belk","party":"D","isPrimary":false},
+    {"peopleId":24200,"name":"Laura Budd","party":"D","isPrimary":false},
+    {"peopleId":2044,"name":"Becky Carney","party":"D","isPrimary":false},
+    {"peopleId":2049,"name":"Patricia Cotham","party":"R","isPrimary":false},
+    {"peopleId":2077,"name":"Mary Harrison","party":"D","isPrimary":false},
+    {"peopleId":20515,"name":"Zack Forde-Hawkins","party":"D","isPrimary":false},
+    {"peopleId":25853,"name":"Rodney Pierce","party":"D","isPrimary":false},
+    {"peopleId":14633,"name":"Dennis Riddell","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

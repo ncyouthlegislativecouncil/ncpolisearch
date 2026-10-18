@@ -1,0 +1,26 @@
+{
+  "billId": 2012900,
+  "billNumber": "S446",
+  "title": "Expand Workforce Housing",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "b8180330bb34c0314240957136403851",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-25",
+  "url": "https://legiscan.com/NC/bill/S446/2025",
+  "aiSummary": "This bill provides $30 million in one-time funding to the North Carolina Housing Trust Fund and establishes two new ongoing revenue sources for the fund: 1.5% of register of deeds fees and 33% of real property transfer excise tax proceeds. These funds would support affordable housing programs including home ownership, rentals, supportive housing, and emergency repairs.",
+  "aiProArguments": "Supporters argue that North Carolina has a critical affordable housing shortage with over 815,000 residents lacking access to affordable housing and 930,000 cost-burdened by housing expenses. They contend the Housing Trust Fund is a highly effective investment that generates significant returns—for every $1 million spent, the fund creates $5.17 million in housing real estate value and supports 110 jobs. Proponents note that the fund's budget has declined 68% over the past decade, leaving it unable to address current housing needs.",
+  "aiConArguments": "Opponents may argue that the recurring revenue sources redirect funds that could go to the General Fund or other state priorities, potentially impacting other programs. They might question whether new taxes on property transfers could increase housing costs for buyers, potentially counteracting affordability goals. Some may also contend that the state should address housing affordability through zoning reform or reduced regulations rather than ongoing government spending.",
+  "topic": "Housing",
+  "textLength": 6668,
+  "createdAt": "2026-06-23T03:07:54.372Z",
+  "sponsors": [
+    {"peopleId":24222,"name":"Lisa Grafstein","party":"D","isPrimary":true},
+    {"peopleId":20220,"name":"Michael Garrett","party":"D","isPrimary":false},
+    {"peopleId":22425,"name":"Julie Mayfield","party":"D","isPrimary":false},
+    {"peopleId":20223,"name":"Mujtaba Mohammed","party":"D","isPrimary":false},
+    {"peopleId":21633,"name":"Natalie Murdock","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

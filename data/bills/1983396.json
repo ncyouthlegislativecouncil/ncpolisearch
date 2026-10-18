@@ -1,0 +1,31 @@
+{
+  "billId": 1983396,
+  "billNumber": "H209",
+  "title": "Employee Housing/Durham County",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "f3ffea27c745edc9cfb611d448b00003",
+  "lastAction": "Ref to the Com on Judiciary 2, if favorable, Education - K-12, if favorable, State and Local Government, if favorable, Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-02-27",
+  "url": "https://legiscan.com/NC/bill/H209/2025",
+  "aiSummary": "This bill authorizes the Durham Public Schools Board of Education and Durham County to partner together to build and operate affordable rental housing for teachers, police officers, first responders, and other county employees on publicly owned land. The housing can be offered at below-market rental rates, with at least 75% of units reserved for teachers.",
+  "aiProArguments": "Supporters argue this bill addresses critical workforce shortages by making it more affordable for teachers and first responders to live in Durham County, where housing costs have risen significantly. They contend that affordable employee housing can improve recruitment and retention of essential public servants, reducing turnover and improving service quality in schools and public safety.",
+  "aiConArguments": "Opponents may be concerned that using public property for housing diverts land from other community needs, that below-market housing could strain local budgets, or that government should focus on addressing broader housing affordability rather than employer-specific solutions. Some may also question whether this is the most efficient use of public resources compared to other affordable housing strategies.",
+  "topic": "Housing",
+  "textLength": 4472,
+  "createdAt": "2026-06-23T02:45:01.444Z",
+  "sponsors": [
+    {"peopleId":21631,"name":"Vernetta Alston","party":"D","isPrimary":true},
+    {"peopleId":20515,"name":"Zack Forde-Hawkins","party":"D","isPrimary":true},
+    {"peopleId":24208,"name":"Ray Jeffers","party":"D","isPrimary":true},
+    {"peopleId":19360,"name":"Marcia Morey","party":"D","isPrimary":true},
+    {"peopleId":24198,"name":"Gloristine Brown","party":"D","isPrimary":false},
+    {"peopleId":23148,"name":"Allen Buansi","party":"D","isPrimary":false},
+    {"peopleId":19238,"name":"Deb Butler","party":"D","isPrimary":false},
+    {"peopleId":22422,"name":"Sarah Crawford","party":"D","isPrimary":false},
+    {"peopleId":20509,"name":"Allison Dahle","party":"D","isPrimary":false},
+    {"peopleId":24206,"name":"Frances Jackson","party":"D","isPrimary":false},
+    {"peopleId":24214,"name":"Renee Price","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

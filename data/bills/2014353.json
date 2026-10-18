@@ -1,0 +1,22 @@
+{
+  "billId": 2014353,
+  "billNumber": "S672",
+  "title": "Protect North Carolinians from Medical Debt",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "8eaa86e4b45f5493aed490f28afa6979",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-26",
+  "url": "https://legiscan.com/NC/bill/S672/2025",
+  "aiSummary": "This bill requires large medical facilities in North Carolina to adopt financial assistance policies for patients and restricts aggressive debt collection practices. It limits interest rates on medical debt to 2% annually, prohibits certain collection actions like wage garnishment and property liens, requires facilities to post pricing information online, and establishes eligibility requirements for free or discounted care based on household income levels.",
+  "aiProArguments": "Supporters argue this bill protects vulnerable North Carolinians from crushing medical debt by ensuring hospitals offer affordable payment plans and financial assistance to low-income patients. They contend that the restrictions on collection tactics (like wage garnishment and property seizure) prevent predatory practices that can devastate families already struggling with healthcare costs. Supporters also point out that the pricing transparency requirements help patients make informed decisions and that the 2% interest cap prevents medical debt from snowballing into unmanageable amounts.",
+  "aiConArguments": "Opponents worry this bill may increase healthcare costs for insured patients and taxpayers if hospitals shift the burden of unpaid medical debt to other revenue sources. They argue the extensive reporting requirements and compliance obligations create significant administrative costs for hospitals, particularly smaller facilities. Some also contend that limiting interest rates and restricting debt collection methods may make hospitals less willing to extend credit to patients, potentially reducing access to care for those without upfront payment ability.",
+  "topic": "Healthcare",
+  "textLength": 51877,
+  "createdAt": "2026-06-23T03:09:53.555Z",
+  "sponsors": [
+    {"peopleId":20216,"name":"Jim Burgin","party":"R","isPrimary":true},
+    {"peopleId":22425,"name":"Julie Mayfield","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

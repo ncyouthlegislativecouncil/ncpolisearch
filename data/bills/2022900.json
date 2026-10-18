@@ -1,0 +1,33 @@
+{
+  "billId": 2022900,
+  "billNumber": "H942",
+  "title": "Funds to Support Survivors",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "d291a9453ce48585f7320e7d5b20f82a",
+  "lastAction": "Ref to the Com on Appropriations, if favorable, Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-04-14",
+  "url": "https://legiscan.com/NC/bill/H942/2025",
+  "aiSummary": "This bill appropriates $10 million in state funding for the 2025-2026 fiscal year to the North Carolina Coalition Against Sexual Assault, which will distribute the money to partner organizations like domestic violence centers, rape crisis centers, and child advocacy centers to support victim advocacy services.",
+  "aiProArguments": "Supporters argue that this funding addresses critical gaps in services for survivors of sexual assault and domestic violence. The money would help victim advocacy organizations expand counseling, legal support, emergency services, and other resources that help survivors recover and access justice.",
+  "aiConArguments": "Opponents may question whether $10 million is the most efficient use of state funds, whether existing programs could achieve similar goals with less funding, or whether the state budget can sustain this recurring expenditure long-term. Some may also ask whether additional accountability measures or performance metrics should be included to track how the funds are used.",
+  "topic": "Social Services & Welfare",
+  "textLength": 1169,
+  "createdAt": "2026-06-23T02:59:35.123Z",
+  "sponsors": [
+    {"peopleId":23148,"name":"Allen Buansi","party":"D","isPrimary":true},
+    {"peopleId":17149,"name":"Brian Turner","party":"D","isPrimary":true},
+    {"peopleId":22599,"name":"Amber Baker","party":"D","isPrimary":false},
+    {"peopleId":18451,"name":"Mary Belk","party":"D","isPrimary":false},
+    {"peopleId":24198,"name":"Gloristine Brown","party":"D","isPrimary":false},
+    {"peopleId":24202,"name":"Maria Cervania","party":"D","isPrimary":false},
+    {"peopleId":25844,"name":"Julia Greenfield","party":"D","isPrimary":false},
+    {"peopleId":2077,"name":"Mary Harrison","party":"D","isPrimary":false},
+    {"peopleId":24206,"name":"Frances Jackson","party":"D","isPrimary":false},
+    {"peopleId":20521,"name":"Carolyn Logan","party":"D","isPrimary":false},
+    {"peopleId":19360,"name":"Marcia Morey","party":"D","isPrimary":false},
+    {"peopleId":2115,"name":"Garland Pierce","party":"D","isPrimary":false},
+    {"peopleId":24213,"name":"Lindsey Prather","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

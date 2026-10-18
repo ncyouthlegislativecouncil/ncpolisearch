@@ -1,0 +1,21 @@
+{
+  "billId": 1996603,
+  "billNumber": "H359",
+  "title": "Jacksonville Infrastructure Fund",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "bd03363fa24b655105011f3f285da7db",
+  "lastAction": "Ref to the Com on Appropriations, if favorable, Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-03-12",
+  "url": "https://legiscan.com/NC/bill/H359/2025",
+  "aiSummary": "This bill appropriates $2,000,000 in state funding to the City of Jacksonville for water and wastewater infrastructure projects during the 2025-2026 fiscal year. The funds are nonrecurring, meaning they are a one-time allocation rather than ongoing annual funding.",
+  "aiProArguments": "Supporters argue this funding addresses critical infrastructure needs in Jacksonville, improving public health and water system reliability. They contend that state investment in local water systems benefits residents and can support economic development by ensuring adequate utilities for the community.",
+  "aiConArguments": "Opponents may question why Jacksonville receives this specific allocation when other municipalities also have infrastructure needs, and argue the state should prioritize a statewide funding approach rather than single-city appropriations. They may also note that nonrecurring funds don't provide sustainable, long-term solutions to ongoing infrastructure maintenance and replacement costs.",
+  "topic": "Transportation & Infrastructure",
+  "textLength": 872,
+  "createdAt": "2026-06-23T02:49:18.939Z",
+  "sponsors": [
+    {"peopleId":25852,"name":"Wyatt Gable","party":"R","isPrimary":true}
+  ],
+  "rollCalls": []
+}

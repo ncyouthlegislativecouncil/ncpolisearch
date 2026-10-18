@@ -1,0 +1,26 @@
+{
+  "billId": 2018961,
+  "billNumber": "H746",
+  "title": "Limited Immunity/Nurses",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "5d6686476c40ff68303cb37205b92538",
+  "lastAction": "Re-ref Com On Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-05-06",
+  "url": "https://legiscan.com/NC/bill/H746/2025",
+  "aiSummary": "This bill provides limited immunity from malpractice lawsuits for registered nurses in North Carolina when they act within their scope of practice and follow a supervising health care provider's directions. The immunity does not apply if a nurse acts with gross negligence, recklessness, or intentional misconduct, and nurses are protected when they raise safety concerns about a provider's orders in good faith.",
+  "aiProArguments": "Supporters argue this bill restores protections for nurses that existed under North Carolina law for 90 years until a 2022 court ruling eliminated them. They contend that nurses following proper medical orders should not face personal liability, which helps protect healthcare professionals from excessive litigation and allows them to focus on patient care without fear of lawsuits for actions taken under physician supervision.",
+  "aiConArguments": "Opponents may argue that removing liability protections for nurses could reduce accountability and incentives for careful practice, potentially harming patient safety by removing individual consequences for negligent care. They may also contend that patients injured by nurse malpractice deserve the ability to seek damages, and that immunity shifts the burden entirely to employers and insurance rather than holding individual healthcare workers responsible.",
+  "topic": "Healthcare",
+  "textLength": 2407,
+  "createdAt": "2026-06-23T02:57:11.268Z",
+  "sponsors": [
+    {"peopleId":20523,"name":"Carson Smith","party":"R","isPrimary":true},
+    {"peopleId":18495,"name":"Donna White","party":"R","isPrimary":true},
+    {"peopleId":14624,"name":"Donny Lambeth","party":"R","isPrimary":true},
+    {"peopleId":22965,"name":"Donnie Loftis","party":"R","isPrimary":false},
+    {"peopleId":22615,"name":"Howard Penny","party":"R","isPrimary":false},
+    {"peopleId":24219,"name":"Bill Ward","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

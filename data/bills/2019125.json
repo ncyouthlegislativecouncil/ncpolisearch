@@ -1,0 +1,22 @@
+{
+  "billId": 2019125,
+  "billNumber": "H736",
+  "title": "Pharmacists/Test and Treat",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "a026565d5f0894385d6144caedbd1c15",
+  "lastAction": "Ref to the Com on Health, if favorable, Appropriations, if favorable, Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-04-03",
+  "url": "https://legiscan.com/NC/bill/H736/2025",
+  "aiSummary": "This bill expands pharmacists' authority to test for and treat certain illnesses (like flu, COVID-19, and strep throat) using FDA-approved simple tests, and requires health insurance plans to reimburse pharmacists for these services the same way they reimburse other healthcare providers for equivalent services.",
+  "aiProArguments": "Supporters argue this bill improves patient access to healthcare by allowing pharmacists—who are already in many communities—to provide quick testing and treatment for common illnesses, reducing burden on doctors and urgent care facilities. They contend that pharmacists are qualified healthcare professionals and should be reimbursed fairly when providing services within their scope of practice, which can help make healthcare more convenient and affordable for patients.",
+  "aiConArguments": "Opponents may worry that expanding pharmacist authority without sufficient oversight could lead to inappropriate treatment or missed diagnoses of serious conditions, and that statewide protocols may not be developed quickly enough or comprehensively enough. Some may also be concerned about the insurance reimbursement requirements increasing healthcare costs, or worry that this expands pharmacist scope of practice beyond what some believe is appropriate without adequate physician coordination.",
+  "topic": "Healthcare",
+  "textLength": 7707,
+  "createdAt": "2026-06-23T02:57:03.966Z",
+  "sponsors": [
+    {"peopleId":25848,"name":"Cody Huneycutt","party":"R","isPrimary":true},
+    {"peopleId":20522,"name":"Nasif Majeed","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

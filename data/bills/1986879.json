@@ -1,0 +1,23 @@
+{
+  "billId": 1986879,
+  "billNumber": "S209",
+  "title": "Data Privacy for Minors",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "6e0c48b946811b63480cc8f311e6dd75",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-03",
+  "url": "https://legiscan.com/NC/bill/S209/2025",
+  "aiSummary": "This bill expands privacy protections for minors' identifying information in local government programs and programs funded by the North Carolina Partnership for Children. It removes the requirement that these privacy rules apply only to certain localities and makes them apply statewide to any county, municipality, or local government program instead.",
+  "aiProArguments": "Supporters argue this bill protects children's privacy by preventing sensitive personal information like names, addresses, phone numbers, and parent contact details from being publicly accessible when minors participate in local government youth programs. They contend that uniform privacy standards across all North Carolina localities ensure consistent protection for all children, regardless of where they live, reducing risks of identity theft, stalking, or other harms.",
+  "aiConArguments": "Opponents may argue that blanket privacy restrictions could limit government transparency and the public's ability to monitor how public funds are used in youth programs. They might also contend that the current system allowing some localities to determine their own privacy rules is more flexible, and that removing all identifying information could make it harder to verify program participation or address concerns about program effectiveness and accountability.",
+  "topic": "Technology & Privacy",
+  "textLength": 2379,
+  "createdAt": "2026-06-23T03:05:49.073Z",
+  "sponsors": [
+    {"peopleId":25858,"name":"Sophia Chitlik","party":"D","isPrimary":true},
+    {"peopleId":21633,"name":"Natalie Murdock","party":"D","isPrimary":true},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

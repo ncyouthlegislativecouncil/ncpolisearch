@@ -1,0 +1,24 @@
+{
+  "billId": 2014178,
+  "billNumber": "S712",
+  "title": "Caring for Our Caregivers Act",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "f62d8b6e0c6f90d828a2d100001c565e",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2025-03-26",
+  "url": "https://legiscan.com/NC/bill/S712/2025",
+  "aiSummary": "This bill reduces North Carolina income tax rates for most taxpayers starting in 2025, with an additional income tax exemption for certain essential workers including firefighters, police officers, teachers, child care workers, and emergency personnel. It also appropriates $165 million annually to provide subsidized child care for families where at least one member works in these qualifying professions.",
+  "aiProArguments": "Supporters argue this bill recognizes and rewards essential workers who serve their communities by providing tax relief and affordable child care support, which can help with recruitment and retention in these critical professions. They contend that lower tax rates across the board stimulate economic growth and increase take-home pay for all North Carolinians, while the child care subsidies directly address affordability challenges that may prevent qualified workers from staying in these vital roles.",
+  "aiConArguments": "Opponents may argue that the tax cuts reduce state revenue needed for education, infrastructure, and social services, particularly as the exemption applies broadly rather than targeting only the caregiving workforce. Critics could also question whether $165 million in child care subsidies is sufficient to meaningfully address the problem, or whether the bill's approach of combining broad tax cuts with targeted spending creates budget sustainability concerns, especially if general fund revenues fall short of projected triggers.",
+  "topic": "Taxes & Budget",
+  "textLength": 5854,
+  "createdAt": "2026-06-23T03:10:13.806Z",
+  "sponsors": [
+    {"peopleId":25858,"name":"Sophia Chitlik","party":"D","isPrimary":true},
+    {"peopleId":25860,"name":"Woodson Bradley","party":"D","isPrimary":true},
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

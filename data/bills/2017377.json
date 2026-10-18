@@ -1,0 +1,27 @@
+{
+  "billId": 2017377,
+  "billNumber": "H625",
+  "title": "The Prison Resources Repurposing Act",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "4d83bcc513ee970090e861765516c4ec",
+  "lastAction": "Ref To Com On Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-04-02",
+  "url": "https://legiscan.com/NC/bill/H625/2025",
+  "aiSummary": "This bill creates a new parole program that allows inmates serving life sentences without parole to become eligible for release after serving at least 20 years if they complete educational, vocational, and work requirements through a 15-year Mutual Agreement Parole Program contract. The bill applies to both current and future inmates, with those already imprisoned for 20+ years eligible for shorter contracts of 1-3 years.",
+  "aiProArguments": "Supporters argue this bill provides rehabilitation pathways and incentives for long-term inmates to improve themselves through education and work, potentially reducing incarceration costs while allowing those who demonstrate reform to rejoin society. They contend that mandatory education and employment requirements ensure accountability, and that a 5-year parole period with supervision protects public safety while giving deserving inmates a second chance after decades of imprisonment.",
+  "aiConArguments": "Opponents worry this bill undermines the original sentences given by courts and may be too lenient on serious crimes, as inmates serving life without parole typically committed severe offenses. They express concerns about public safety risks if dangerous individuals are released after 20 years, and question whether the educational and work requirements are sufficient safeguards to ensure released inmates won't reoffend.",
+  "topic": "Criminal Justice & Public Safety",
+  "textLength": 5165,
+  "createdAt": "2026-06-23T02:55:37.438Z",
+  "sponsors": [
+    {"peopleId":25851,"name":"Aisha Dew","party":"D","isPrimary":true},
+    {"peopleId":20521,"name":"Carolyn Logan","party":"D","isPrimary":true},
+    {"peopleId":18451,"name":"Mary Belk","party":"D","isPrimary":false},
+    {"peopleId":20509,"name":"Allison Dahle","party":"D","isPrimary":false},
+    {"peopleId":25844,"name":"Julia Greenfield","party":"D","isPrimary":false},
+    {"peopleId":2077,"name":"Mary Harrison","party":"D","isPrimary":false},
+    {"peopleId":22606,"name":"James Roberson","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

@@ -1,0 +1,29 @@
+{
+  "billId": 1951451,
+  "billNumber": "H33",
+  "title": "SchCalFlex/Yadkin, Davie/CC",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "5f45ad5cacb8af5d70ff71f9cb515b5a",
+  "lastAction": "Re-ref to the Com on Education - K-12, if favorable, Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-02-24",
+  "url": "https://legiscan.com/NC/bill/H33/2025",
+  "aiSummary": "This bill allows Yadkin County Schools and Davie County Schools to align their school calendars with the calendars of Surry County Community College or Davidson-Davie Community College. It modifies state law to permit these two school districts to coordinate their opening and closing dates with their respective community college partners.",
+  "aiProArguments": "Supporters argue that aligning school calendars with community college calendars creates logistical benefits for families with students attending both institutions, reduces transportation costs, and improves coordination for dual enrollment programs where high school students take college courses. This flexibility allows the school districts to better serve students pursuing early college opportunities and helps parents manage schedules more efficiently.",
+  "aiConArguments": "Opponents may be concerned that calendar alignment limits school districts' flexibility to set schedules based on local needs such as weather-related closures, community events, or instructional planning. They might also worry that coordinating with community college calendars could conflict with the educational needs of K-12 students or create challenges for families with children in multiple school systems that don't share the same calendar.",
+  "topic": "Education",
+  "textLength": 2812,
+  "createdAt": "2026-06-23T02:38:24.527Z",
+  "sponsors": [
+    {"peopleId":2083,"name":"Julia Howard","party":"R","isPrimary":true},
+    {"peopleId":18451,"name":"Mary Belk","party":"D","isPrimary":false},
+    {"peopleId":2044,"name":"Becky Carney","party":"D","isPrimary":false},
+    {"peopleId":2077,"name":"Mary Harrison","party":"D","isPrimary":false},
+    {"peopleId":24206,"name":"Frances Jackson","party":"D","isPrimary":false},
+    {"peopleId":20520,"name":"Brandon Lofton","party":"D","isPrimary":false},
+    {"peopleId":24214,"name":"Renee Price","party":"D","isPrimary":false},
+    {"peopleId":14633,"name":"Dennis Riddell","party":"R","isPrimary":false},
+    {"peopleId":24219,"name":"Bill Ward","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

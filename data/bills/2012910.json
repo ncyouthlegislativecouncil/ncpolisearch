@@ -1,0 +1,25 @@
+{
+  "billId": 2012910,
+  "billNumber": "S396",
+  "title": "Medical Board Licensing Efficiency Act",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "b3b2e969ae949a133feee5563ca8ed72",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-25",
+  "url": "https://legiscan.com/NC/bill/S396/2025",
+  "aiSummary": "This bill creates a new 'licensure by endorsement' pathway that allows physicians, physician assistants, and anesthesiologist assistants licensed in other states to obtain North Carolina licenses more quickly if they meet certain requirements, including 5 years of active licensure elsewhere, a job offer in North Carolina, and a clean disciplinary record. The bill also adjusts various medical licensing fees.",
+  "aiProArguments": "Supporters argue this bill addresses healthcare workforce shortages in North Carolina by streamlining the licensing process for qualified medical professionals already licensed elsewhere, reducing barriers to practice and allowing faster recruitment of experienced providers. They contend the endorsement pathway recognizes the standards of other states and professional accrediting bodies, saving time and resources while maintaining safety through background checks and employment verification requirements.",
+  "aiConArguments": "Opponents may argue that streamlined endorsement could lower vetting standards compared to traditional licensing processes, potentially allowing practitioners with concerning histories in other states to practice if those issues weren't formally disciplined. Some may also question whether reduced licensing requirements adequately protect North Carolina patients or could create a two-tiered system where endorsement applicants face less scrutiny than those completing standard licensure pathways.",
+  "topic": "Healthcare",
+  "textLength": 11030,
+  "createdAt": "2026-06-23T03:07:27.080Z",
+  "sponsors": [
+    {"peopleId":18465,"name":"Danny Britt","party":"R","isPrimary":true},
+    {"peopleId":24225,"name":"Benton Sawrey","party":"R","isPrimary":true},
+    {"peopleId":22423,"name":"Amy Galey","party":"R","isPrimary":true},
+    {"peopleId":20216,"name":"Jim Burgin","party":"R","isPrimary":false},
+    {"peopleId":11858,"name":"Timothy Moffitt","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

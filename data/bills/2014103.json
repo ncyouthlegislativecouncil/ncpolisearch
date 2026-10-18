@@ -1,0 +1,24 @@
+{
+  "billId": 2014103,
+  "billNumber": "S702",
+  "title": "Bail Bond Omnibus",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "7e76947f3cd34d39f0d00aa86b280e38",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-26",
+  "url": "https://legiscan.com/NC/bill/S702/2025",
+  "aiSummary": "This bill modifies North Carolina's bail bond laws by clarifying procedures for bail bond forfeiture and set-aside, establishing a three-year validity period for bail bonds, requiring district attorneys to report defendant failures to appear to a national database within 10 days, and prohibiting electronic systems from operating as bondsmen or runners.",
+  "aiProArguments": "Supporters argue this bill improves court efficiency and accountability by standardizing bail bond procedures, ensuring consistent notification requirements, and creating clearer pathways for defendants and sureties to demonstrate why forfeitures should be set aside. The requirement that district attorneys report failures to appear nationally helps track defendants across state lines and may reduce flight risks.",
+  "aiConArguments": "Opponents may argue that stricter forfeiture procedures and expanded address-tracking provisions could disproportionately affect low-income defendants and their sureties, potentially making it harder to overturn forfeitures even in legitimate circumstances. The prohibition on electronic bonding systems could also limit innovation in the bail industry and reduce alternatives to traditional bondsmen.",
+  "topic": "Criminal Justice & Public Safety",
+  "textLength": 12492,
+  "createdAt": "2026-06-23T03:10:08.007Z",
+  "sponsors": [
+    {"peopleId":21663,"name":"David Craven","party":"R","isPrimary":true},
+    {"peopleId":18465,"name":"Danny Britt","party":"R","isPrimary":true},
+    {"peopleId":12033,"name":"Warren Daniel","party":"R","isPrimary":true},
+    {"peopleId":22423,"name":"Amy Galey","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

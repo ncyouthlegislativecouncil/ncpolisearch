@@ -1,0 +1,21 @@
+{
+  "billId": 2146455,
+  "billNumber": "S927",
+  "title": "Funds for YMCA REACH and Robinhood",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "825b2a677e0930eaf6c99e66d4835d16",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2026-04-30",
+  "url": "https://legiscan.com/NC/bill/S927/2025",
+  "aiSummary": "This bill appropriates $500,000 in state funds for the 2026-2027 fiscal year to two YMCA locations in Winston-Salem: the YMCA REACH Center at Winston Lake and the Robinhood Road Family YMCA. The funds are designated as nonrecurring grants to support operations and community programming at these facilities.",
+  "aiProArguments": "Supporters argue that this funding helps support community health, education, and economic development programs offered by these YMCAs, particularly serving residents in Winston-Salem. The grants enable these nonprofit organizations to expand or maintain services like youth academics, fitness programs, and workforce development initiatives that might otherwise be reduced due to budget constraints.",
+  "aiConArguments": "Opponents may question whether this targeted spending is the best use of limited state funds, arguing that such grants should go through competitive grant processes rather than directed appropriations to specific organizations. They may also raise concerns about government funding going to organizations that operate independently and could potentially seek private funding or endowment support instead.",
+  "topic": "Taxes & Budget",
+  "textLength": 1030,
+  "createdAt": "2026-06-23T03:11:56.680Z",
+  "sponsors": [
+    {"peopleId":17457,"name":"Paul Lowe","party":"D","isPrimary":true}
+  ],
+  "rollCalls": []
+}

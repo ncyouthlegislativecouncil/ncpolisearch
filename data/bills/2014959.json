@@ -1,0 +1,21 @@
+{
+  "billId": 2014959,
+  "billNumber": "H527",
+  "title": "Funds for Swansboro Rd Maintenance",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "33795df9c4009548ca87e14593f743bc",
+  "lastAction": "Ref to the Com on Appropriations, if favorable, Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-03-27",
+  "url": "https://legiscan.com/NC/bill/H527/2025",
+  "aiSummary": "This bill appropriates $2 million from the state's General Fund to the Town of Swansboro specifically for road maintenance. The funds become available starting July 1, 2025.",
+  "aiProArguments": "Supporters argue this funding addresses critical infrastructure needs in Swansboro, allowing the town to repair and maintain roads that may be deteriorating or unsafe. They contend that state assistance helps smaller municipalities that may lack sufficient local revenue to adequately maintain their transportation infrastructure.",
+  "aiConArguments": "Opponents may question why this specific town receives a directed grant when other municipalities across North Carolina also need road funding, and they may argue the money should be distributed through a competitive or formula-based process. They might also raise concerns about the General Fund being available for this purpose rather than using dedicated transportation funding sources.",
+  "topic": "Taxes & Budget",
+  "textLength": 803,
+  "createdAt": "2026-06-23T02:54:13.777Z",
+  "sponsors": [
+    {"peopleId":25852,"name":"Wyatt Gable","party":"R","isPrimary":true}
+  ],
+  "rollCalls": []
+}

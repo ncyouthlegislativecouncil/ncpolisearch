@@ -1,0 +1,29 @@
+{
+  "billId": 1990746,
+  "billNumber": "S228",
+  "title": "Disabled Veterans Tax Relief Bill",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "c7599de26c2635824b6ddaf9fc11f11d",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-05",
+  "url": "https://legiscan.com/NC/bill/S228/2025",
+  "aiSummary": "This bill modifies North Carolina's property tax exemption for disabled veterans by changing how much of their home's value is excluded from taxation. Instead of a fixed $45,000 exclusion, disabled veterans would exclude a percentage of their home's appraised value equal to their disability rating (as determined by the U.S. Department of Veterans Affairs). For example, a veteran with a 50% disability rating would exclude 50% of their home's appraised value from property taxes.",
+  "aiProArguments": "Supporters argue this bill provides more equitable tax relief that reflects the severity of a veteran's service-connected disability. Veterans with higher disability ratings would receive greater tax benefits, recognizing their greater sacrifices. Proponents contend this approach better honors disabled veterans' contributions by scaling relief to their actual disability level rather than applying a one-size-fits-all amount.",
+  "aiConArguments": "Opponents may argue this change creates unpredictability in local property tax revenue, which funds schools and services, since exemptions would vary widely based on individual disability ratings. Some may also express concern about whether the bill adequately protects veterans with lower disability ratings, who would receive smaller exemptions under this system compared to the current fixed $45,000 amount.",
+  "topic": "Taxes & Budget",
+  "textLength": 5755,
+  "createdAt": "2026-06-23T03:05:57.723Z",
+  "sponsors": [
+    {"peopleId":25212,"name":"Bob Brinson","party":"R","isPrimary":true},
+    {"peopleId":24224,"name":"Buck Newton","party":"R","isPrimary":true},
+    {"peopleId":18465,"name":"Danny Britt","party":"R","isPrimary":false},
+    {"peopleId":20216,"name":"Jim Burgin","party":"R","isPrimary":false},
+    {"peopleId":12033,"name":"Warren Daniel","party":"R","isPrimary":false},
+    {"peopleId":20513,"name":"Bobby Hanig","party":"R","isPrimary":false},
+    {"peopleId":20222,"name":"Todd Johnson","party":"R","isPrimary":false},
+    {"peopleId":17457,"name":"Paul Lowe","party":"D","isPrimary":false},
+    {"peopleId":11862,"name":"Norman Sanderson","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

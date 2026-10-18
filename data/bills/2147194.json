@@ -1,0 +1,21 @@
+{
+  "billId": 2147194,
+  "billNumber": "S1069",
+  "title": "Inclusionary Zoning/Workforce Housing Funds",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "6dcbb05d65609e5a4c2d0b87418add93",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2026-05-05",
+  "url": "https://legiscan.com/NC/bill/S1069/2025",
+  "aiSummary": "This bill authorizes North Carolina local governments to use inclusionary zoning policies to increase affordable housing availability and appropriates $10 million annually to the state Housing Finance Agency's Workforce Housing Loan Program starting in fiscal year 2026-2027. Inclusionary zoning allows municipalities to require or encourage affordable units in new residential developments.",
+  "aiProArguments": "Supporters argue this bill addresses North Carolina's affordable housing shortage by giving local governments a tool to ensure new developments include units for lower-income workers and families. They point out that the $10 million annual funding provides concrete support for workforce housing loans, helping people in essential occupations like teachers and healthcare workers afford homes in their communities. Proponents contend inclusionary zoning encourages mixed-income neighborhoods and reduces segregation by economic status.",
+  "aiConArguments": "Opponents worry that inclusionary zoning requirements may increase housing construction costs, potentially reducing overall housing supply or making market-rate units more expensive for buyers and renters. They argue the policy could discourage developers from building in certain areas, and question whether $10 million annually is sufficient to meaningfully address statewide housing needs. Some also raise concerns about whether local governments will use this power consistently or whether it represents appropriate regulation of private development decisions.",
+  "topic": "Housing",
+  "textLength": 2280,
+  "createdAt": "2026-06-23T03:13:06.542Z",
+  "sponsors": [
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":true}
+  ],
+  "rollCalls": []
+}

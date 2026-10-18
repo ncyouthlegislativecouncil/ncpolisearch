@@ -1,0 +1,21 @@
+{
+  "billId": 2146427,
+  "billNumber": "S933",
+  "title": "Funds for Forsyth Tech Boost",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "2a694579bb5f7ff20c0570fa5658167f",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2026-04-30",
+  "url": "https://legiscan.com/NC/bill/S933/2025",
+  "aiSummary": "This bill appropriates $1 million in recurring annual funding from the state's General Fund to Forsyth Technical Community College to support the Boost program, which helps students transition from college to careers. The funding begins in fiscal year 2026-2027.",
+  "aiProArguments": "Supporters argue that Boost is an important college-to-career program that helps students gain employment skills and secure jobs after graduation. They contend that dedicated state funding strengthens workforce development in the Forsyth area and helps community college students transition successfully into the job market, benefiting both individual students and local employers.",
+  "aiConArguments": "Opponents may argue that $1 million in recurring annual funding represents a significant ongoing state expense during a time of competing budget priorities. They might question whether the program could be funded through other means, whether this funding level is justified compared to other community colleges' needs, or whether the General Fund should be used for other state priorities.",
+  "topic": "Education",
+  "textLength": 842,
+  "createdAt": "2026-06-23T03:11:59.230Z",
+  "sponsors": [
+    {"peopleId":17457,"name":"Paul Lowe","party":"D","isPrimary":true}
+  ],
+  "rollCalls": []
+}

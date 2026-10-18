@@ -1,0 +1,23 @@
+{
+  "billId": 2014347,
+  "billNumber": "S742",
+  "title": "Funds for CW Williams Comm. Health Center",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "c160ac955be8e51a8970608f232a4750",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2025-03-26",
+  "url": "https://legiscan.com/NC/bill/S742/2025",
+  "aiSummary": "This bill appropriates $500,000 in one-time state funding to the C.W. Williams Community Health Center, a nonprofit organization in Mecklenburg County, to help complete construction or development of a full-service community health center. The funds become available on July 1, 2025.",
+  "aiProArguments": "Supporters argue this funding helps expand healthcare access in Mecklenburg County by completing a community health center facility that serves residents who may lack adequate medical services. Proponents contend that investing in community health infrastructure improves public health outcomes, provides primary care services to underserved populations, and supports a nonprofit organization working to address local healthcare needs.",
+  "aiConArguments": "Opponents may question whether $500,000 in one-time state funding is the most efficient use of limited General Fund resources, or whether the state should prioritize other healthcare or budget priorities. Critics might also ask for more detail about the project's total cost, timeline for completion, long-term operational funding, and how this directed grant aligns with broader state healthcare strategies.",
+  "topic": "Healthcare",
+  "textLength": 897,
+  "createdAt": "2026-06-23T03:10:28.091Z",
+  "sponsors": [
+    {"peopleId":20223,"name":"Mujtaba Mohammed","party":"D","isPrimary":true},
+    {"peopleId":22426,"name":"DeAndrea Salvador","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

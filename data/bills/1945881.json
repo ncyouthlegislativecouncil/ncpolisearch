@@ -1,0 +1,21 @@
+{
+  "billId": 1945881,
+  "billNumber": "S11",
+  "title": "Restore Down-Zoning Auth./Multiple Counties",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "cb32eeb6f139113173a7132b9444ca4f",
+  "lastAction": "Held As Filed",
+  "lastActionDate": "2025-01-29",
+  "url": "https://legiscan.com/NC/bill/S11/2025",
+  "aiSummary": "This bill restores the authority of local governments in ten rural North Carolina counties to initiate down-zoning (reducing the permitted density or uses of land) without requiring written consent from all affected property owners. The bill makes an exception to a recently enacted state law that prohibited down-zoning unless all property owners agreed, and applies retroactively to ordinances affected by that December 2024 law.",
+  "aiProArguments": "Supporters argue that local governments need the ability to initiate down-zoning to manage community development, protect neighborhoods from unwanted changes, and plan for the future without being blocked by individual property owners. They contend that the previous state restriction tied the hands of elected local officials and planning boards who are best positioned to understand their communities' needs and should have tools to preserve character and manage growth.",
+  "aiConArguments": "Opponents argue that property owners have a legitimate interest in protecting the development rights and economic value of their land, and that down-zoning without consent unfairly diminishes property owners' use and enjoyment of their property. They contend that local governments should not have unilateral power to reduce a property's permitted uses or density, and that this creates an imbalance favoring government authority over private property rights.",
+  "topic": "Local Government",
+  "textLength": 2007,
+  "createdAt": "2026-06-23T03:04:09.269Z",
+  "sponsors": [
+    {"peopleId":20513,"name":"Bobby Hanig","party":"R","isPrimary":true}
+  ],
+  "rollCalls": []
+}

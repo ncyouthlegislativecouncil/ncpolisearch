@@ -1,0 +1,22 @@
+{
+  "billId": 2014286,
+  "billNumber": "S561",
+  "title": "The Working Hearts, Empowered Homes Act",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "cad126a781c4ad2fa6df5a4b20ef2296",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-26",
+  "url": "https://legiscan.com/NC/bill/S561/2025",
+  "aiSummary": "This bill creates several new pilot programs and services designed to help working families in North Carolina access child care, nutrition assistance, healthcare, and preventive care. It appropriates approximately $27 million over two years to fund regional support hubs, child care grants, food access programs, year-round school meals, telehealth services, and establishes an advisory board to oversee these integrated family support services.",
+  "aiProArguments": "Supporters argue this bill addresses real gaps in support for working families by streamlining access to multiple services through regional hubs and reducing duplicative bureaucracy. They contend the pilot programs will improve outcomes in child care access (especially for nontraditional work hours), food security, and preventive healthcare, while the focus on rural and underserved areas helps reduce inequality. Proponents also note the bill attempts to leverage federal matching funds to stretch state dollars further.",
+  "aiConArguments": "Opponents may question whether $27 million in mostly temporary (nonrecurring) funding is sufficient for meaningful impact, and express concern about creating new bureaucratic layers rather than simplifying existing systems. Some may worry about fiscal sustainability if pilots are deemed successful but ongoing funding isn't secured, or question whether competitive grant processes fairly distribute resources. Others might argue the bill doesn't address root causes of family economic instability or whether pilot evaluations will actually drive future policy changes.",
+  "topic": "Social Services & Welfare",
+  "textLength": 19044,
+  "createdAt": "2026-06-23T03:08:53.867Z",
+  "sponsors": [
+    {"peopleId":25859,"name":"Caleb Theodros","party":"D","isPrimary":true},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

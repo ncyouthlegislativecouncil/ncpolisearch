@@ -1,0 +1,23 @@
+{
+  "billId": 2013814,
+  "billNumber": "S551",
+  "title": "Broadband Affordability Program",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "63b1be0c0747018d56718e155231097e",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-26",
+  "url": "https://legiscan.com/NC/bill/S551/2025",
+  "aiSummary": "This bill establishes the North Carolina Broadband Assistance Program, which provides free broadband service to low-income families at or below the federal poverty level, and monthly credits of at least $15 to families between 100-135% of poverty level who participate in certain assistance programs. The bill appropriates $250 million in state funds for the 2025-2026 fiscal year to operate this program.",
+  "aiProArguments": "Supporters argue this bill addresses the digital divide by ensuring low-income families can access broadband, which is essential for education, employment, and healthcare. Proponents contend that removing cost barriers to internet access will help disadvantaged North Carolinians participate fully in the modern economy and improve educational outcomes for their children.",
+  "aiConArguments": "Opponents may question whether $250 million is a sustainable long-term funding level and whether the state should prioritize this spending over other budget needs. Critics might also raise concerns about program administration costs, potential fraud or misuse, and whether subsidies should instead encourage broadband providers to lower prices or expand service to underserved areas.",
+  "topic": "Technology & Privacy",
+  "textLength": 4346,
+  "createdAt": "2026-06-23T03:08:49.038Z",
+  "sponsors": [
+    {"peopleId":21633,"name":"Natalie Murdock","party":"D","isPrimary":true},
+    {"peopleId":20220,"name":"Michael Garrett","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

@@ -1,0 +1,24 @@
+{
+  "billId": 2013866,
+  "billNumber": "S518",
+  "title": "Mobile Home Park Act",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "1e61261907b041710d1c36ee11aaab0a",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-26",
+  "url": "https://legiscan.com/NC/bill/S518/2025",
+  "aiSummary": "This bill creates the Mobile Home Park Act, a comprehensive set of protections for mobile homeowners in North Carolina. It establishes rules governing evictions, rent increases, park rules, security deposits, and homeowner rights to organize and potentially purchase their parks. The bill also creates a registration system and dispute resolution process administered by the North Carolina Human Rights Commission.",
+  "aiProArguments": "Supporters argue this bill protects vulnerable homeowners from unfair eviction practices, excessive fees, and arbitrary rule enforcement by park management. The bill includes right-to-cure periods before eviction, requires clear notice of rent increases, prevents retaliatory action against homeowners who organize or complain, and gives homeowners a chance to purchase their parks if owners try to sell. Proponents say these protections are needed because mobile homeowners often have limited housing alternatives and significant equity in homes they don't own the land under.",
+  "aiConArguments": "Opponents contend the bill imposes substantial regulatory burdens and costs on park owners through registration requirements, record-keeping obligations, and administrative proceedings. They argue the extensive notice periods (60-90 days for non-payment evictions) and right-to-cure provisions could make it difficult to remove problem residents, potentially affecting park operations and safety. Critics also express concerns about the right of first refusal for homeowners in park sales and worry these regulations could reduce park availability or increase costs passed to residents.",
+  "topic": "Housing",
+  "textLength": 113791,
+  "createdAt": "2026-06-23T03:08:32.639Z",
+  "sponsors": [
+    {"peopleId":16251,"name":"Graig Meyer","party":"D","isPrimary":true},
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":true},
+    {"peopleId":22425,"name":"Julie Mayfield","party":"D","isPrimary":true},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

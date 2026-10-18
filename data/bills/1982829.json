@@ -1,0 +1,25 @@
+{
+  "billId": 1982829,
+  "billNumber": "S167",
+  "title": "Revise, Study, and Fund LEP Allotment",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "3cd5484c54b5aa03f61dadc013e8c6b6",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2025-03-06",
+  "url": "https://legiscan.com/NC/bill/S167/2025",
+  "aiSummary": "This bill revises how North Carolina allocates state funding to help students with limited English proficiency (LEP) by establishing new distribution guidelines based on the percentage of LEP students in each school district, requiring the State Board of Education to study whether current funding is adequate, and appropriating $16.2 million in new recurring funds for the 2025-2026 fiscal year.",
+  "aiProArguments": "Supporters argue this bill addresses the needs of English language learners by increasing dedicated funding and removing caps on the number of students districts can serve, allowing more flexibility to help all students who need support. The bill's requirement for a comprehensive study aims to identify whether additional resources are needed and how to better support bilingual education and close achievement gaps between English learners and native speakers.",
+  "aiConArguments": "Opponents may question whether $16.2 million is sufficient to meaningfully address LEP student needs across the state, or express concerns about how removing student caps might strain district budgets if enrollment of LEP students is higher than anticipated. Some may also worry that the study requirements add bureaucratic complexity or that funding directed to LEP programs could divert resources from other student needs.",
+  "topic": "Education",
+  "textLength": 4555,
+  "createdAt": "2026-06-23T03:05:29.918Z",
+  "sponsors": [
+    {"peopleId":16251,"name":"Graig Meyer","party":"D","isPrimary":true},
+    {"peopleId":21633,"name":"Natalie Murdock","party":"D","isPrimary":true},
+    {"peopleId":12032,"name":"Gladys Robinson","party":"D","isPrimary":true},
+    {"peopleId":24220,"name":"Val Applewhite","party":"D","isPrimary":false},
+    {"peopleId":25859,"name":"Caleb Theodros","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

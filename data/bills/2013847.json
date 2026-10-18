@@ -1,0 +1,21 @@
+{
+  "billId": 2013847,
+  "billNumber": "S520",
+  "title": "Funds for Pineville Pedestrian Beacon",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "ecf4aa5ddf78b0b0b3f6bbff52091eab",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2025-03-26",
+  "url": "https://legiscan.com/NC/bill/S520/2025",
+  "aiSummary": "This bill appropriates $545,588 in state funds to the Town of Pineville to construct a pedestrian hybrid beacon and crosswalk at Highway 51 and Main Street near Town Hall. The goal is to improve pedestrian safety and walkability in the town.",
+  "aiProArguments": "Supporters argue that this project addresses a genuine public safety need by providing safer crossing infrastructure for pedestrians in Pineville. They contend that improved pedestrian infrastructure increases walkability, encourages community activity, and can reduce vehicle-pedestrian accidents at this intersection.",
+  "aiConArguments": "Opponents may question whether this localized infrastructure project is the best use of limited state general fund resources, particularly if other regions have competing needs. Some may argue that local governments should fund such projects through local revenue sources or that the state should prioritize more broadly-used transportation improvements.",
+  "topic": "Transportation & Infrastructure",
+  "textLength": 974,
+  "createdAt": "2026-06-23T03:08:33.626Z",
+  "sponsors": [
+    {"peopleId":22426,"name":"DeAndrea Salvador","party":"D","isPrimary":true}
+  ],
+  "rollCalls": []
+}

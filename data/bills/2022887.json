@@ -1,0 +1,33 @@
+{
+  "billId": 2022887,
+  "billNumber": "H986",
+  "title": "Support Our Teachers",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "438ae3a72e58598fb2b54c270dcc548b",
+  "lastAction": "Ref to the Com on Education - K-12, if favorable, Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-04-14",
+  "url": "https://legiscan.com/NC/bill/H986/2025",
+  "aiSummary": "This bill prohibits schools from requiring teachers to post lesson plans or objectives, guarantees teachers have duty-free lunch periods without assigned responsibilities, and requires schools to compensate teachers who lead professional development training for their peers.",
+  "aiProArguments": "Supporters argue this bill improves teacher working conditions and job satisfaction by reducing administrative burdens, protecting personal time during lunch, and fairly compensating teachers for extra work. They contend these changes help recruit and retain quality educators, reduce teacher burnout, and recognize that professional development led by teachers is valuable labor that should be paid.",
+  "aiConArguments": "Opponents may argue that posting lesson plans helps ensure instructional quality and accountability to parents and administrators, that lunch duty coverage is necessary for school operations and student safety, and that requiring compensation for professional development increases school budget costs without clear evidence of improved student outcomes. They may also contend these are matters best decided locally rather than mandated by the state.",
+  "topic": "Education",
+  "textLength": 2042,
+  "createdAt": "2026-06-23T03:00:05.411Z",
+  "sponsors": [
+    {"peopleId":2049,"name":"Patricia Cotham","party":"R","isPrimary":true},
+    {"peopleId":24197,"name":"Brian Biggs","party":"R","isPrimary":true},
+    {"peopleId":18451,"name":"Mary Belk","party":"D","isPrimary":false},
+    {"peopleId":2034,"name":"John Blust","party":"R","isPrimary":false},
+    {"peopleId":11848,"name":"James Dixon","party":"R","isPrimary":false},
+    {"peopleId":2077,"name":"Mary Harrison","party":"D","isPrimary":false},
+    {"peopleId":24206,"name":"Frances Jackson","party":"D","isPrimary":false},
+    {"peopleId":22615,"name":"Howard Penny","party":"R","isPrimary":false},
+    {"peopleId":22616,"name":"Ray Pickett","party":"R","isPrimary":false},
+    {"peopleId":25853,"name":"Rodney Pierce","party":"D","isPrimary":false},
+    {"peopleId":24212,"name":"Joe Pike","party":"R","isPrimary":false},
+    {"peopleId":25854,"name":"Dante Pittman","party":"D","isPrimary":false},
+    {"peopleId":25214,"name":"Heather Rhyne","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

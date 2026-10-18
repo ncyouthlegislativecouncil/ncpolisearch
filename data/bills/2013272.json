@@ -1,0 +1,31 @@
+{
+  "billId": 2013272,
+  "billNumber": "S448",
+  "title": "Remove Employment Barriers/Ppl w Disabilities",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "7c8f70e12739e1133366977dc2e29346",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-25",
+  "url": "https://legiscan.com/NC/bill/S448/2025",
+  "aiSummary": "This bill removes income and resource limits from North Carolina's Medicaid buy-in program for workers with disabilities, allowing people with disabilities to earn more money and accumulate savings while maintaining health coverage. The bill requests federal approval for these changes and appropriates $165,000 in state funding to support the program.",
+  "aiProArguments": "Supporters argue this bill removes unnecessary barriers that discourage people with disabilities from working and saving money. By eliminating strict income and resource caps, individuals can pursue employment and financial stability without fear of losing health coverage, which advocates say promotes independence and reduces reliance on public benefits.",
+  "aiConArguments": "Opponents may express concerns about the fiscal impact of extending Medicaid coverage to individuals with higher incomes and resources, potentially increasing state and federal spending. Some might question whether removing all limits targets resources effectively or whether the $165,000 state appropriation adequately covers the program's costs.",
+  "topic": "Healthcare",
+  "textLength": 7472,
+  "createdAt": "2026-06-23T03:07:55.783Z",
+  "sponsors": [
+    {"peopleId":17504,"name":"Michael Lee","party":"R","isPrimary":true},
+    {"peopleId":24222,"name":"Lisa Grafstein","party":"D","isPrimary":true},
+    {"peopleId":20216,"name":"Jim Burgin","party":"R","isPrimary":false},
+    {"peopleId":25858,"name":"Sophia Chitlik","party":"D","isPrimary":false},
+    {"peopleId":20220,"name":"Michael Garrett","party":"D","isPrimary":false},
+    {"peopleId":25250,"name":"Dana Jones","party":"R","isPrimary":false},
+    {"peopleId":11858,"name":"Timothy Moffitt","party":"R","isPrimary":false},
+    {"peopleId":20223,"name":"Mujtaba Mohammed","party":"D","isPrimary":false},
+    {"peopleId":22426,"name":"DeAndrea Salvador","party":"D","isPrimary":false},
+    {"peopleId":25859,"name":"Caleb Theodros","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

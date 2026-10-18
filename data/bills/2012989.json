@@ -1,0 +1,32 @@
+{
+  "billId": 2012989,
+  "billNumber": "S413",
+  "title": "Right to Use Contraception",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "d11d312ffc2d438e53e618ad69aa9263",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-25",
+  "url": "https://legiscan.com/NC/bill/S413/2025",
+  "aiSummary": "This bill adds a new law to North Carolina's General Statutes declaring that individuals have the right to use contraception to prevent pregnancy and that the state has no legitimate governmental interest in limiting access to contraception. The law becomes effective immediately upon passage.",
+  "aiProArguments": "Supporters argue this bill protects reproductive freedom and personal privacy by legally establishing contraception access as a fundamental right in North Carolina. They contend that contraception is widely supported across political and religious lines, and that codifying this protection prevents potential future restrictions on contraceptive use and access.",
+  "aiConArguments": "Opponents may argue the bill is unnecessary since contraception access is already protected under federal law and is not currently restricted in North Carolina. Some may also contend that the legislation's broad language could have unintended legal consequences or that such matters are better addressed through federal rather than state law.",
+  "topic": "Healthcare",
+  "textLength": 1041,
+  "createdAt": "2026-06-23T03:07:36.196Z",
+  "sponsors": [
+    {"peopleId":25858,"name":"Sophia Chitlik","party":"D","isPrimary":true},
+    {"peopleId":21633,"name":"Natalie Murdock","party":"D","isPrimary":true},
+    {"peopleId":25860,"name":"Woodson Bradley","party":"D","isPrimary":true},
+    {"peopleId":17936,"name":"Jay Chaudhuri","party":"D","isPrimary":false},
+    {"peopleId":20220,"name":"Michael Garrett","party":"D","isPrimary":false},
+    {"peopleId":24222,"name":"Lisa Grafstein","party":"D","isPrimary":false},
+    {"peopleId":22425,"name":"Julie Mayfield","party":"D","isPrimary":false},
+    {"peopleId":20223,"name":"Mujtaba Mohammed","party":"D","isPrimary":false},
+    {"peopleId":22426,"name":"DeAndrea Salvador","party":"D","isPrimary":false},
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":false},
+    {"peopleId":25859,"name":"Caleb Theodros","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

@@ -1,0 +1,32 @@
+{
+  "billId": 2011912,
+  "billNumber": "H475",
+  "title": "State ID Cards for High School Students",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "1008e6e6d7c1cac89af0237a57bdaf80",
+  "lastAction": "Ref to the Com on Transportation, if favorable, State and Local Government, if favorable, Finance, if favorable, Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-03-24",
+  "url": "https://legiscan.com/NC/bill/H475/2025",
+  "aiSummary": "This bill lowers the age requirement for obtaining a North Carolina special identification card from 17 to 16 years old and establishes a pilot program in four counties (Mecklenburg, Randolph, Union, and Watauga) to issue these cards to high school students on school grounds during scheduled times. The pilot program runs through December 31, 2027.",
+  "aiProArguments": "Supporters argue that this bill makes it easier for 16-year-olds to obtain valid identification, which can be useful for age verification, banking, travel, and other everyday needs. By bringing the ID application process to high schools during the pilot program, the bill reduces barriers to getting identification by eliminating the need for students to travel to DMV offices during business hours.",
+  "aiConArguments": "Opponents may express concerns about the cost and logistics of implementing the pilot program across multiple counties and schools. Some may worry about privacy issues related to schools having access to birth certificate information or the DMV collecting data on high school students, or question whether a pilot program in only four counties provides meaningful representation for statewide policy decisions.",
+  "topic": "Other / General Government",
+  "textLength": 4600,
+  "createdAt": "2026-06-23T02:52:39.215Z",
+  "sponsors": [
+    {"peopleId":22616,"name":"Ray Pickett","party":"R","isPrimary":true},
+    {"peopleId":24200,"name":"Laura Budd","party":"D","isPrimary":true},
+    {"peopleId":24197,"name":"Brian Biggs","party":"R","isPrimary":true},
+    {"peopleId":24890,"name":"Eric Ager","party":"D","isPrimary":false},
+    {"peopleId":24202,"name":"Maria Cervania","party":"D","isPrimary":false},
+    {"peopleId":2049,"name":"Patricia Cotham","party":"R","isPrimary":false},
+    {"peopleId":2077,"name":"Mary Harrison","party":"D","isPrimary":false},
+    {"peopleId":20515,"name":"Zack Forde-Hawkins","party":"D","isPrimary":false},
+    {"peopleId":22615,"name":"Howard Penny","party":"R","isPrimary":false},
+    {"peopleId":24213,"name":"Lindsey Prather","party":"D","isPrimary":false},
+    {"peopleId":24214,"name":"Renee Price","party":"D","isPrimary":false},
+    {"peopleId":20528,"name":"Julie von Haefen","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

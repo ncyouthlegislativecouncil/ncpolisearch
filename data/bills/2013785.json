@@ -1,0 +1,23 @@
+{
+  "billId": 2013785,
+  "billNumber": "S515",
+  "title": "Sign Manufacturing License Exemption",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "f6b5440c51b51f41e492b4ae5edebcb7",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-26",
+  "url": "https://legiscan.com/NC/bill/S515/2025",
+  "aiSummary": "This bill exempts sign manufacturers who are UL (Underwriters Laboratories) certified from needing a general contractor license in North Carolina. It also requires applicants claiming this exemption to submit documentation proving their UL certification and a verified affidavit to local building inspectors, who must verify the exemption claim with the state licensing board.",
+  "aiProArguments": "Supporters argue this bill reduces unnecessary regulatory burden on specialized sign manufacturers who already meet safety standards through UL certification. They contend that UL certification demonstrates competency and safety compliance, making a separate general contractor license redundant and allowing sign manufacturers to operate more efficiently without additional licensing costs and administrative requirements.",
+  "aiConArguments": "Opponents may argue that general contractor licensing exists to protect consumers and ensure accountability for construction work, and that removing this requirement could weaken oversight. They may also be concerned that UL certification, while valuable for product safety, does not necessarily validate all aspects of construction management that general contractor licensing requires, potentially creating accountability gaps in building projects.",
+  "topic": "Business & Labor",
+  "textLength": 7535,
+  "createdAt": "2026-06-23T03:08:31.361Z",
+  "sponsors": [
+    {"peopleId":22424,"name":"Michael Lazzara","party":"R","isPrimary":true},
+    {"peopleId":20222,"name":"Todd Johnson","party":"R","isPrimary":true},
+    {"peopleId":11858,"name":"Timothy Moffitt","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

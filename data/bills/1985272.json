@@ -1,0 +1,23 @@
+{
+  "billId": 1985272,
+  "billNumber": "S183",
+  "title": "Funds for VSO in Jones County",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "e45c683c8038f108e5f902be1916261d",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2025-02-27",
+  "url": "https://legiscan.com/NC/bill/S183/2025",
+  "aiSummary": "This bill appropriates $30,000 per year from the state General Fund to the Department of Military and Veterans Affairs to pay for a part-time Veteran Services Officer position in Jones County. The position would be funded for the 2025-2027 fiscal biennium, starting July 1, 2025.",
+  "aiProArguments": "Supporters argue that Jones County veterans need local access to services and benefits they have earned, such as disability compensation, healthcare, housing assistance, and education benefits. A dedicated Veteran Services Officer can help veterans navigate complex federal and state programs and connect them with available resources, improving outcomes for an underserved population in the county.",
+  "aiConArguments": "Opponents may question whether general state funds should be used for a position serving one county when other counties lack similar services, raising concerns about equity and precedent. Others might argue the funds could be better spent on statewide veteran programs or that the position's workload and cost-effectiveness should be clarified before approval.",
+  "topic": "Taxes & Budget",
+  "textLength": 783,
+  "createdAt": "2026-06-23T03:05:37.830Z",
+  "sponsors": [
+    {"peopleId":12009,"name":"William Jackson","party":"R","isPrimary":true},
+    {"peopleId":22424,"name":"Michael Lazzara","party":"R","isPrimary":true},
+    {"peopleId":25212,"name":"Bob Brinson","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

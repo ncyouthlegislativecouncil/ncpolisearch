@@ -1,0 +1,22 @@
+{
+  "billId": 2146046,
+  "billNumber": "S859",
+  "title": "Home Dialysis Accessibility Act",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "0a70e94d893b0fb71e5b382a13d6f996",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2026-04-29",
+  "url": "https://legiscan.com/NC/bill/S859/2025",
+  "aiSummary": "This bill requires health insurance plans in North Carolina to cover home dialysis services for all patients who need dialysis treatment. It specifically mandates coverage of staff-assisted home dialysis for people who are blind, visually impaired, cognitively impaired, neurologically impaired, or have mobility limitations. The bill allocates $100,000 to implement these coverage requirements starting in 2026.",
+  "aiProArguments": "Supporters argue that home dialysis improves quality of life by allowing patients to receive treatment in their own homes rather than traveling to dialysis centers multiple times per week. They contend that patients with disabilities or mobility issues particularly benefit from home-based care, which reduces burden on patients and caregivers while potentially improving health outcomes. Proponents also note that home dialysis can reduce strain on dialysis facility capacity and may lower overall healthcare costs.",
+  "aiConArguments": "Opponents may argue that mandating home dialysis coverage increases insurance costs, which could lead to higher premiums for all consumers. They may express concerns that home dialysis requires significant patient education and commitment, and that not all patients are suitable candidates regardless of their disability status. Some may question whether the $100,000 appropriation is sufficient to cover implementation costs, potentially creating unfunded mandates on insurers and the state health plan.",
+  "topic": "Healthcare",
+  "textLength": 2071,
+  "createdAt": "2026-06-23T03:11:21.324Z",
+  "sponsors": [
+    {"peopleId":20216,"name":"Jim Burgin","party":"R","isPrimary":true},
+    {"peopleId":11862,"name":"Norman Sanderson","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

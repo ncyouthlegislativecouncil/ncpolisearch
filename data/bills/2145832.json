@@ -1,0 +1,25 @@
+{
+  "billId": 2145832,
+  "billNumber": "S842",
+  "title": "CARDINAL Act",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "3c5bc0c8c3f1a7c76c1d57c66083564d",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2026-05-07",
+  "url": "https://legiscan.com/NC/bill/S842/2025",
+  "aiSummary": "This bill creates a state program to contribute $1,000 to Trump Accounts (a new federal retirement savings account) for eligible North Carolina children born between January 1, 2025 and December 31, 2028 whose families earn up to 300% of the federal poverty line. It also redirects $192 million from the Opportunity Scholarship Grant Fund Reserve to finance this program and changes the priority order for awarding remaining opportunity scholarships in 2026-2027.",
+  "aiProArguments": "Supporters argue this bill helps low- and moderate-income families build long-term savings and financial security for children by providing an immediate $1,000 contribution to retirement accounts that grow tax-free over decades. They contend this creates wealth-building opportunities for disadvantaged youth and complements federal efforts to expand financial inclusion through the new Trump Account program.",
+  "aiConArguments": "Opponents argue that redirecting $192 million from the Opportunity Scholarship program reduces funding available for immediate college tuition assistance for current students in need. They contend that prioritizing a new long-term savings program over existing education scholarships disadvantages students seeking to attend college in the 2026-2027 school year and may disproportionately affect those who need financial aid soon.",
+  "topic": "Taxes & Budget",
+  "textLength": 6908,
+  "createdAt": "2026-06-23T03:11:10.321Z",
+  "sponsors": [
+    {"peopleId":17936,"name":"Jay Chaudhuri","party":"D","isPrimary":true},
+    {"peopleId":25860,"name":"Woodson Bradley","party":"D","isPrimary":true},
+    {"peopleId":21633,"name":"Natalie Murdock","party":"D","isPrimary":false},
+    {"peopleId":25859,"name":"Caleb Theodros","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

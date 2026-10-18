@@ -1,0 +1,25 @@
+{
+  "billId": 2021783,
+  "billNumber": "H836",
+  "title": "North Carolina Sound Money Act",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "dd9768a607c2beaf90b4474a2ecce8f4",
+  "lastAction": "Re-ref Com On Finance",
+  "lastActionDate": "2025-04-29",
+  "url": "https://legiscan.com/NC/bill/H836/2025",
+  "aiSummary": "This bill allows North Carolina taxpayers to deduct gains or losses from selling investment coins and precious metal bullion when calculating state income taxes. It also recognizes certain gold and silver coins and bullion as legal tender in North Carolina, though it specifies that no one is required to accept them in transactions.",
+  "aiProArguments": "Supporters argue this bill protects investors in precious metals from unfavorable tax treatment and recognizes alternative forms of wealth preservation. Proponents believe it affirms state sovereignty over currency matters and provides tax relief for people who invest in tangible assets like gold and silver as a hedge against inflation or economic uncertainty.",
+  "aiConArguments": "Opponents may question whether the tax deduction creates an unfair advantage for wealthy investors who can afford precious metals while other investments remain taxed normally. Critics might also argue that designating non-traditional items as legal tender creates practical complications for commerce without meaningful benefit, since the bill explicitly allows businesses to refuse accepting them anyway.",
+  "topic": "Taxes & Budget",
+  "textLength": 2976,
+  "createdAt": "2026-06-23T02:58:22.673Z",
+  "sponsors": [
+    {"peopleId":14606,"name":"Mark Brody","party":"R","isPrimary":true},
+    {"peopleId":11850,"name":"Harry Warren","party":"R","isPrimary":true},
+    {"peopleId":17678,"name":"James Adams","party":"R","isPrimary":false},
+    {"peopleId":20519,"name":"Keith Kidwell","party":"R","isPrimary":false},
+    {"peopleId":24219,"name":"Bill Ward","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

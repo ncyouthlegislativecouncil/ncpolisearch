@@ -1,0 +1,25 @@
+{
+  "billId": 2147098,
+  "billNumber": "S990",
+  "title": "Students First Act",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "cac3022071934a670c1836edddac4ef6",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2026-05-13",
+  "url": "https://legiscan.com/NC/bill/S990/2025",
+  "aiSummary": "This bill contains three main parts: (1) the Protect Campus Survivors Act, which keeps student disciplinary records at public universities and community colleges confidential by exempting them from public records requests if they contain personally identifiable information; (2) a $300,000 appropriation to study transitioning K-12 school funding from an allotment-based model to a weighted student funding formula; and (3) a $445,000 pilot program allowing one high school to provide students up to $395 each to use toward approved educational activities like career training, arts, STEM programs, and civic engagement through individual electronic accounts.",
+  "aiProArguments": "Supporters argue the bill protects sexual assault and misconduct survivors on college campuses by keeping disciplinary proceedings confidential, encouraging victims to report crimes without fear of public exposure. They contend the weighted funding study could make K-12 education more equitable by directing resources based on student needs rather than fixed positions. Proponents see the educational wallet pilot as empowering students with choice in how to pursue personalized learning pathways through vetted outside providers, potentially expanding opportunities beyond traditional classrooms.",
+  "aiConArguments": "Opponents worry that exempting student disciplinary records from public disclosure reduces transparency and accountability at public universities, potentially preventing the public from knowing about repeat offenders or systemic misconduct. Critics question whether a weighted funding formula might reduce overall education spending or create winners and losers among schools. Some are concerned the educational wallet pilot lacks clear accountability measures, could reduce equity if students lack equal access to approved providers, or might allow funds to support activities not aligned with traditional academic credit standards.",
+  "topic": "Education",
+  "textLength": 17560,
+  "createdAt": "2026-06-23T03:12:25.753Z",
+  "sponsors": [
+    {"peopleId":17504,"name":"Michael Lee","party":"R","isPrimary":true},
+    {"peopleId":22423,"name":"Amy Galey","party":"R","isPrimary":true},
+    {"peopleId":24223,"name":"Brad Overcash","party":"R","isPrimary":true},
+    {"peopleId":11858,"name":"Timothy Moffitt","party":"R","isPrimary":false},
+    {"peopleId":11862,"name":"Norman Sanderson","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

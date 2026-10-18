@@ -1,0 +1,32 @@
+{
+  "billId": 1981074,
+  "billNumber": "S135",
+  "title": "Expand Homestead Exclusion Inc. Elig. Limit",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "76ccb75082e46423e15c49e0834a092a",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-02-25",
+  "url": "https://legiscan.com/NC/bill/S135/2025",
+  "aiSummary": "This bill increases the income eligibility limit for North Carolina's elderly or disabled property tax homestead exclusion from $25,000 to $48,000, effective July 1, 2025. After 2026, the limit will adjust annually based on Social Security cost-of-living adjustments.",
+  "aiProArguments": "Supporters argue this expansion helps more elderly and disabled North Carolinians afford to stay in their homes by reducing property tax burdens. With the previous $25,000 income limit unchanged since 2008, supporters contend the new $48,000 threshold better reflects current living costs and allows more eligible seniors and disabled residents to benefit from property tax relief they qualify for.",
+  "aiConArguments": "Opponents may argue this reduces property tax revenue for counties and municipalities that rely on these taxes for schools, roads, and services. They may also question whether increasing the income threshold is the most efficient use of tax relief, or whether other approaches better target assistance to those with the greatest financial need.",
+  "topic": "Taxes & Budget",
+  "textLength": 1518,
+  "createdAt": "2026-06-23T03:05:12.954Z",
+  "sponsors": [
+    {"peopleId":14615,"name":"Carl Ford","party":"R","isPrimary":true},
+    {"peopleId":20513,"name":"Bobby Hanig","party":"R","isPrimary":true},
+    {"peopleId":20225,"name":"Ted Alexander","party":"R","isPrimary":true},
+    {"peopleId":17147,"name":"Gale Adcock","party":"D","isPrimary":false},
+    {"peopleId":2033,"name":"Daniel Blue","party":"D","isPrimary":false},
+    {"peopleId":25212,"name":"Bob Brinson","party":"R","isPrimary":false},
+    {"peopleId":17457,"name":"Paul Lowe","party":"D","isPrimary":false},
+    {"peopleId":22425,"name":"Julie Mayfield","party":"D","isPrimary":false},
+    {"peopleId":17437,"name":"Thomas McInnis","party":"R","isPrimary":false},
+    {"peopleId":22426,"name":"DeAndrea Salvador","party":"D","isPrimary":false},
+    {"peopleId":25859,"name":"Caleb Theodros","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

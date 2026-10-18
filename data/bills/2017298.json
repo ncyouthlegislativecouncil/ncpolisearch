@@ -1,0 +1,32 @@
+{
+  "billId": 2017298,
+  "billNumber": "H621",
+  "title": "Funds for the Umbrella Center",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "0bf19c6ad1151917c6c3edc73a90ef7c",
+  "lastAction": "Ref to the Com on Appropriations, if favorable, Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-04-01",
+  "url": "https://legiscan.com/NC/bill/H621/2025",
+  "aiSummary": "This bill appropriates $1.5 million in state funds for the 2025-2026 fiscal year to Safe Alliance, Inc. for its Umbrella Center (Family Justice Center) in Charlotte. The money will be used for land acquisition and a deceleration lane to support services for people affected by domestic violence, sexual assault, child abuse, elder abuse, and human trafficking.",
+  "aiProArguments": "Supporters argue this funding expands critical services for vulnerable populations experiencing abuse and trafficking. The Umbrella Center provides coordinated support in one location, making it easier for survivors to access help. Advocates contend that improving the facility's physical infrastructure through land acquisition and a deceleration lane will enhance operations and safety for clients and staff.",
+  "aiConArguments": "Opponents may question whether $1.5 million in nonrecurring state funds is the most efficient use of limited public resources, or whether the money could address more immediate service needs rather than infrastructure. Some may argue that such facility improvements should be funded through private donations or local resources, or that the state should prioritize other areas of need across North Carolina.",
+  "topic": "Taxes & Budget",
+  "textLength": 1224,
+  "createdAt": "2026-06-23T02:55:33.457Z",
+  "sponsors": [
+    {"peopleId":25844,"name":"Julia Greenfield","party":"D","isPrimary":true},
+    {"peopleId":2077,"name":"Mary Harrison","party":"D","isPrimary":true},
+    {"peopleId":24199,"name":"Kanika Brown","party":"D","isPrimary":true},
+    {"peopleId":25850,"name":"Jordan Lopez","party":"D","isPrimary":true},
+    {"peopleId":22599,"name":"Amber Baker","party":"D","isPrimary":false},
+    {"peopleId":18451,"name":"Mary Belk","party":"D","isPrimary":false},
+    {"peopleId":19238,"name":"Deb Butler","party":"D","isPrimary":false},
+    {"peopleId":2044,"name":"Becky Carney","party":"D","isPrimary":false},
+    {"peopleId":24202,"name":"Maria Cervania","party":"D","isPrimary":false},
+    {"peopleId":2049,"name":"Patricia Cotham","party":"R","isPrimary":false},
+    {"peopleId":20521,"name":"Carolyn Logan","party":"D","isPrimary":false},
+    {"peopleId":19360,"name":"Marcia Morey","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

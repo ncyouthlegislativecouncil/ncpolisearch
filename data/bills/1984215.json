@@ -1,0 +1,22 @@
+{
+  "billId": 1984215,
+  "billNumber": "S175",
+  "title": "Flexibility in Filling Vacancies/Durham",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "20de0400585c67a4aa4d5dfee58068a9",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-02-27",
+  "url": "https://legiscan.com/NC/bill/S175/2025",
+  "aiSummary": "This bill modifies Durham's city charter to extend the deadline for the City Council to fill vacancies in the Mayor or Council member positions from 60 days to 120 days. If the Council fails to appoint someone within 120 days, a special election must be held instead. The bill applies only to the City of Durham.",
+  "aiProArguments": "Supporters argue that extending the deadline from 60 to 120 days gives the City Council more time to carefully consider qualified candidates and conduct a thorough vetting process for important leadership positions. The extra time allows for better deliberation on who would best serve the city and ensures vacancies are filled thoughtfully rather than rushed.",
+  "aiConArguments": "Opponents may argue that the longer 120-day deadline delays filling critical leadership positions when the city needs representation, potentially leaving important decisions unmade for extended periods. Some may also contend that special elections are the most democratic way to fill vacant seats and that extending the appointment window unnecessarily postpones giving voters a direct say in who represents them.",
+  "topic": "Local Government",
+  "textLength": 3196,
+  "createdAt": "2026-06-23T03:05:34.202Z",
+  "sponsors": [
+    {"peopleId":21633,"name":"Natalie Murdock","party":"D","isPrimary":true},
+    {"peopleId":25858,"name":"Sophia Chitlik","party":"D","isPrimary":true}
+  ],
+  "rollCalls": []
+}

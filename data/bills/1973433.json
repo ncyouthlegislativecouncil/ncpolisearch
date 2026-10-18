@@ -1,0 +1,27 @@
+{
+  "billId": 1973433,
+  "billNumber": "S120",
+  "title": "Remove Barriers to Labor Organizing",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "b1ff95ce749c7a8a142c835dba20989e",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-02-21",
+  "url": "https://legiscan.com/NC/bill/S120/2025",
+  "aiSummary": "This bill modifies North Carolina labor law by adding language affirming labor organizations' right to enter into labor agreements, while maintaining existing 'right-to-work' protections that prohibit requiring workers to join unions or pay union dues as a condition of employment. It also repeals Article 12 of Chapter 95, which previously contained additional labor restrictions.",
+  "aiProArguments": "Supporters argue this bill protects workers' freedom by ensuring no one can be forced to join a union or pay union dues to keep their job, which they contend preserves individual choice and protects lower-wage workers from financial burdens. They also argue the bill clarifies that labor organizations have legitimate rights to negotiate agreements, creating a more balanced legal framework that respects both worker freedom and labor's organizing capacity.",
+  "aiConArguments": "Opponents argue that right-to-work laws weaken unions' negotiating power and financial stability by allowing workers to benefit from union contracts without paying dues, potentially undermining workplace protections and wages for all workers. They contend that restricting unions' ability to require membership fees makes it harder for workers to collectively bargain effectively and may disproportionately harm lower-wage and minority workers who rely on union protections.",
+  "topic": "Business & Labor",
+  "textLength": 5097,
+  "createdAt": "2026-06-23T03:05:05.138Z",
+  "sponsors": [
+    {"peopleId":24222,"name":"Lisa Grafstein","party":"D","isPrimary":true},
+    {"peopleId":16251,"name":"Graig Meyer","party":"D","isPrimary":true},
+    {"peopleId":21633,"name":"Natalie Murdock","party":"D","isPrimary":true},
+    {"peopleId":24220,"name":"Val Applewhite","party":"D","isPrimary":false},
+    {"peopleId":25858,"name":"Sophia Chitlik","party":"D","isPrimary":false},
+    {"peopleId":20510,"name":"Terence Everitt","party":"D","isPrimary":false},
+    {"peopleId":25859,"name":"Caleb Theodros","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

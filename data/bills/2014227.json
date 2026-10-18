@@ -1,0 +1,29 @@
+{
+  "billId": 2014227,
+  "billNumber": "S643",
+  "title": "Expand & Enhance the Teaching Fellows Program",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "b8a7f0e17fe12ba52bdfc0aa433c7565",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-26",
+  "url": "https://legiscan.com/NC/bill/S643/2025",
+  "aiSummary": "This bill expands and enhances the North Carolina Teaching Fellows Program by increasing forgivable loan amounts from $5,000 to $6,000 per semester, adding $10 million in state funding, and restructuring loan forgiveness to require teachers to work in public schools for a period matching their years of support (with credit toward faster forgiveness for working in low-performing schools). The bill also emphasizes recruitment in high-need areas and adds new support services for program participants.",
+  "aiProArguments": "Supporters argue this bill addresses North Carolina's critical teacher shortage, particularly in rural areas and high-need subject areas like special education and STEM, by making teaching more financially attractive. The increased loan amounts and dedicated funding help recruit and retain talented educators, while the mentoring and support services improve teacher effectiveness and retention. By offering faster loan forgiveness for service in low-performing schools, the bill incentivizes teachers to work where they are most needed.",
+  "aiConArguments": "Opponents may contend that the $10 million appropriation represents a significant state expense during budget constraints, and question whether forgivable loans are the most cost-effective teacher recruitment strategy compared to direct salary increases. Some may also argue that the loan forgiveness structure—requiring 6 months in low-performing schools to count as a full year of service—could be seen as complicated and may not meaningfully address underlying compensation issues that drive teachers to leave the profession.",
+  "topic": "Education",
+  "textLength": 18378,
+  "createdAt": "2026-06-23T03:09:37.401Z",
+  "sponsors": [
+    {"peopleId":17457,"name":"Paul Lowe","party":"D","isPrimary":true},
+    {"peopleId":22426,"name":"DeAndrea Salvador","party":"D","isPrimary":true},
+    {"peopleId":25860,"name":"Woodson Bradley","party":"D","isPrimary":false},
+    {"peopleId":17936,"name":"Jay Chaudhuri","party":"D","isPrimary":false},
+    {"peopleId":20223,"name":"Mujtaba Mohammed","party":"D","isPrimary":false},
+    {"peopleId":21633,"name":"Natalie Murdock","party":"D","isPrimary":false},
+    {"peopleId":12032,"name":"Gladys Robinson","party":"D","isPrimary":false},
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

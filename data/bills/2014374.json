@@ -1,0 +1,28 @@
+{
+  "billId": 2014374,
+  "billNumber": "S715",
+  "title": "Student Voter ID Grant Program/CCs",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "dcde821be35a33005ded57c1e14a98f1",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2025-03-26",
+  "url": "https://legiscan.com/NC/bill/S715/2025",
+  "aiSummary": "This bill appropriates $500,000 to establish a grant program that provides up to $20,000 per community college to upgrade equipment and facilities for producing student ID cards that can be used as valid photo identification for voting. The State Board of Elections must approve applications from participating community colleges by September 1, 2025.",
+  "aiProArguments": "Supporters argue this bill removes financial barriers that prevent some community colleges from offering student IDs acceptable for voting, thereby expanding voting access for students who may lack other forms of photo identification. They contend that student IDs are a practical and legitimate form of identification that can increase voter participation among young adults while maintaining election security through the State Board of Elections' approval process.",
+  "aiConArguments": "Opponents may argue that the bill's necessity depends on whether current barriers to student ID acceptance are actually preventing voter participation, and they may question whether $500,000 is efficiently spent on this specific solution. Some may raise concerns about the costs to implement new equipment and systems at community colleges, or debate whether student IDs provide sufficient security features compared to other accepted forms of voter identification.",
+  "topic": "Elections & Voting",
+  "textLength": 2903,
+  "createdAt": "2026-06-23T03:10:15.666Z",
+  "sponsors": [
+    {"peopleId":16251,"name":"Graig Meyer","party":"D","isPrimary":true},
+    {"peopleId":21633,"name":"Natalie Murdock","party":"D","isPrimary":true},
+    {"peopleId":24220,"name":"Val Applewhite","party":"D","isPrimary":false},
+    {"peopleId":25858,"name":"Sophia Chitlik","party":"D","isPrimary":false},
+    {"peopleId":20223,"name":"Mujtaba Mohammed","party":"D","isPrimary":false},
+    {"peopleId":12032,"name":"Gladys Robinson","party":"D","isPrimary":false},
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

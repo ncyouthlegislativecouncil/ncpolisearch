@@ -1,0 +1,25 @@
+{
+  "billId": 2011504,
+  "billNumber": "S365",
+  "title": "Theft of Temporary Housing During Emergency",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "f63e417d1ed8c91c7aa4ea2de17ac883",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-24",
+  "url": "https://legiscan.com/NC/bill/S365/2025",
+  "aiSummary": "This bill creates a new Class F felony offense for entering someone's premises without permission and damaging, taking, or destroying their temporary housing (such as tents, trailers, or mobile homes) during a declared state of emergency in a county designated as an emergency area. It also allows victims to sue offenders for three times the actual damages plus court costs and attorney fees.",
+  "aiProArguments": "Supporters argue this bill protects vulnerable people during emergencies when they may be living in temporary shelters after disasters like hurricanes or floods. They contend that temporary housing and equipment are easy targets for theft and vandalism when communities are in crisis, and this enhanced felony penalty deters criminals and provides stronger protection for displaced residents who have already lost much.",
+  "aiConArguments": "Opponents may argue the bill creates a separate, potentially harsher felony crime that overlaps with existing theft and property damage laws, raising questions about whether additional legislation is necessary. They might also express concern that a Class F felony (the highest regular felony level) could result in excessive punishment compared to similar property crimes, or that the definition of 'temporary housing' is broad enough to capture borderline cases.",
+  "topic": "Criminal Justice & Public Safety",
+  "textLength": 3112,
+  "createdAt": "2026-06-23T03:07:10.016Z",
+  "sponsors": [
+    {"peopleId":20225,"name":"Ted Alexander","party":"R","isPrimary":true},
+    {"peopleId":20513,"name":"Bobby Hanig","party":"R","isPrimary":false},
+    {"peopleId":11858,"name":"Timothy Moffitt","party":"R","isPrimary":false},
+    {"peopleId":11862,"name":"Norman Sanderson","party":"R","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

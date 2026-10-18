@@ -1,0 +1,26 @@
+{
+  "billId": 2013859,
+  "billNumber": "S541",
+  "title": "Train Infrastructure Acceleration Act",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "7a2bf2dc06d06ffa2c61a60245224b78",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2025-03-26",
+  "url": "https://legiscan.com/NC/bill/S541/2025",
+  "aiSummary": "This bill allocates $7 million in state funding to advance train infrastructure development in North Carolina by providing $1 million to each of seven proposed rail corridors for engineering studies and feasibility assessments. The funds support routes like Asheville to Salisbury, Charlotte to Washington D.C., and Raleigh to Wilmington, with annual reporting requirements to the legislature.",
+  "aiProArguments": "Supporters argue this bill addresses transportation needs by investing in rail infrastructure that could reduce highway congestion, improve connectivity between major North Carolina cities, and position the state to compete for federal railroad funding. Proponents contend that feasibility studies are necessary first steps to determine project viability and that early state investment demonstrates commitment to federal agencies, potentially leveraging additional federal grants for construction.",
+  "aiConArguments": "Opponents may question whether $1 million per corridor is sufficient for meaningful development and express concern about committing state funds to projects whose ultimate feasibility and funding remain uncertain. Critics might argue the state should prioritize existing transportation needs or ensure these projects have clear timelines and concrete federal funding commitments before investing public dollars in preliminary studies.",
+  "topic": "Transportation & Infrastructure",
+  "textLength": 2489,
+  "createdAt": "2026-06-23T03:08:43.655Z",
+  "sponsors": [
+    {"peopleId":20510,"name":"Terence Everitt","party":"D","isPrimary":true},
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":true},
+    {"peopleId":25860,"name":"Woodson Bradley","party":"D","isPrimary":false},
+    {"peopleId":20220,"name":"Michael Garrett","party":"D","isPrimary":false},
+    {"peopleId":24222,"name":"Lisa Grafstein","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

@@ -1,0 +1,21 @@
+{
+  "billId": 2144888,
+  "billNumber": "S823",
+  "title": "Safe Steps for Greenville Act",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "49cd8f89fcbf3ece6831a6b2854355d2",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2026-04-23",
+  "url": "https://legiscan.com/NC/bill/S823/2025",
+  "aiSummary": "This bill appropriates $5 million in one-time funding from the Highway Fund to the North Carolina Department of Transportation for the City of Greenville to use on pedestrian safety improvements. The funds become available starting July 1, 2026.",
+  "aiProArguments": "Supporters argue that dedicated pedestrian safety funding addresses traffic hazards and can reduce injuries and fatalities in Greenville's streets. Proponents contend that targeted improvements like sidewalks, crosswalks, and traffic signals benefit residents, especially vulnerable populations like children and elderly residents, while potentially lowering long-term public health and emergency response costs.",
+  "aiConArguments": "Opponents may question why one city receives a substantial allocation while other North Carolina municipalities with similar safety needs do not, raising fairness concerns about how state resources are distributed. Critics might also argue that nonrecurring one-time funding does not provide sustainable long-term support for maintaining improvements and that the $5 million could address statewide transportation priorities.",
+  "topic": "Transportation & Infrastructure",
+  "textLength": 739,
+  "createdAt": "2026-06-23T03:11:01.359Z",
+  "sponsors": [
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":true}
+  ],
+  "rollCalls": []
+}

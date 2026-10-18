@@ -1,0 +1,28 @@
+{
+  "billId": 2022914,
+  "billNumber": "H967",
+  "title": "Disorderly Conduct at Voting Places",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "302708fb07d2d449ba0f34224e751306",
+  "lastAction": "Ref to the Com on Election Law, if favorable, Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-04-14",
+  "url": "https://legiscan.com/NC/bill/H967/2025",
+  "aiSummary": "This bill clarifies that voting places are included in North Carolina's disorderly conduct law that applies to public buildings. It adds voting places to the definition of 'public building or facility' so that disruptions at polling locations during voting hours can be prosecuted as disorderly conduct misdemeanors.",
+  "aiProArguments": "Supporters argue this bill protects the voting process by ensuring that disruptive behavior at polling places is clearly prohibited and enforceable. They contend that voting places deserve the same legal protections against disorderly conduct as other public buildings, helping ensure that voters can cast ballots without intimidation or interference.",
+  "aiConArguments": "Opponents may argue that existing disorderly conduct laws already provide adequate protections and that this bill could be used to suppress legitimate political speech or peaceful protest near voting locations. They may also express concern about how 'disorderly conduct' is defined and enforced, particularly around the buffer zones that already exist for campaign activity near polling places.",
+  "topic": "Elections & Voting",
+  "textLength": 3698,
+  "createdAt": "2026-06-23T02:59:52.300Z",
+  "sponsors": [
+    {"peopleId":2049,"name":"Patricia Cotham","party":"R","isPrimary":true},
+    {"peopleId":2034,"name":"John Blust","party":"R","isPrimary":false},
+    {"peopleId":24201,"name":"Celeste Cairns","party":"R","isPrimary":false},
+    {"peopleId":2077,"name":"Mary Harrison","party":"D","isPrimary":false},
+    {"peopleId":20519,"name":"Keith Kidwell","party":"R","isPrimary":false},
+    {"peopleId":22965,"name":"Donnie Loftis","party":"R","isPrimary":false},
+    {"peopleId":22615,"name":"Howard Penny","party":"R","isPrimary":false},
+    {"peopleId":24219,"name":"Bill Ward","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

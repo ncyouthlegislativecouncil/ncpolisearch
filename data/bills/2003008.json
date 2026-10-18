@@ -1,0 +1,25 @@
+{
+  "billId": 2003008,
+  "billNumber": "S268",
+  "title": "Amend NC PEO Act.-AB",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "38456b19bf1f62b9660edde9e44264d5",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-13",
+  "url": "https://legiscan.com/NC/bill/S268/2025",
+  "aiSummary": "This bill updates North Carolina's Professional Employer Organization (PEO) law by clarifying financial definitions, adjusting financial requirements for PEO licensing, allowing more flexibility in financial documentation, and modifying reporting requirements. It implements recommendations from the Department of Insurance to streamline the regulatory process.",
+  "aiProArguments": "Supporters argue this bill reduces unnecessary regulatory burden on PEOs while maintaining consumer protection by allowing parent company financial statements and reviewed (rather than only audited) statements for newer businesses. The changes make the licensing process more flexible and efficient, potentially encouraging qualified PEOs to operate in North Carolina while still requiring them to meet financial responsibility standards and surety bond requirements.",
+  "aiConArguments": "Opponents may argue the bill weakens financial safeguards by allowing parent company financial statements instead of direct company financials, potentially making it harder to assess individual PEO financial stability. They could contend that accepting reviewed (unaudited) statements for newer companies provides less rigorous financial verification, which could increase risk to employees whose payroll and benefits depend on PEO solvency and compliance.",
+  "topic": "Business & Labor",
+  "textLength": 19705,
+  "createdAt": "2026-06-23T03:06:16.323Z",
+  "sponsors": [
+    {"peopleId":20222,"name":"Todd Johnson","party":"R","isPrimary":true},
+    {"peopleId":18465,"name":"Danny Britt","party":"R","isPrimary":true},
+    {"peopleId":24226,"name":"Eddie Settle","party":"R","isPrimary":true},
+    {"peopleId":18454,"name":"Kevin Corbin","party":"R","isPrimary":false},
+    {"peopleId":11858,"name":"Timothy Moffitt","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

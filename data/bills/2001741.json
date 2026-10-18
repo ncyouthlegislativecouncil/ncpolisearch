@@ -1,0 +1,22 @@
+{
+  "billId": 2001741,
+  "billNumber": "S272",
+  "title": "Insurance Producers/Exchange of Business",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "cce0fa2a6b1fad1a8a4a1d8cea985646",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-13",
+  "url": "https://legiscan.com/NC/bill/S272/2025",
+  "aiSummary": "This bill clarifies North Carolina's laws about how insurance producers (agents/brokers) can exchange and share insurance business with each other. It defines what counts as a proper exchange of business, allows producers to split commissions when exchanging business, and sets requirements both producers must meet including being properly licensed and disclosed to the insurer and customer.",
+  "aiProArguments": "Supporters argue this bill provides needed clarity and flexibility for insurance professionals to collaborate and serve customers better. By allowing commission-sharing on exchanged business, it enables producers to refer customers to colleagues with specialized expertise or better rates, potentially improving service quality and giving insureds access to more favorable terms. The bill also protects consumers by requiring both producers to be licensed and properly disclosed.",
+  "aiConArguments": "Opponents may worry that allowing commission-splitting could incentivize producers to exchange business for financial reasons rather than what's best for the customer. Some might argue the bill's broad language around 'good-faith belief' in compliance (Section 3(a)(4)) could be difficult to enforce and leave room for improper exchanges. Others could contend that commission arrangements between producers might create conflicts of interest or reduce transparency for consumers about why their business is being transferred.",
+  "topic": "Business & Labor",
+  "textLength": 3006,
+  "createdAt": "2026-06-23T03:06:17.905Z",
+  "sponsors": [
+    {"peopleId":18454,"name":"Kevin Corbin","party":"R","isPrimary":true},
+    {"peopleId":20222,"name":"Todd Johnson","party":"R","isPrimary":true}
+  ],
+  "rollCalls": []
+}

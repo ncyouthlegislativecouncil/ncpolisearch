@@ -1,0 +1,21 @@
+{
+  "billId": 2147084,
+  "billNumber": "S1035",
+  "title": "Revise Math Graduation Requirements",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "b7c2f73342a76903aea709fe9ffaf6ad",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2026-05-05",
+  "url": "https://legiscan.com/NC/bill/S1035/2025",
+  "aiSummary": "This bill changes North Carolina's high school math graduation requirements by allowing students to follow one of four different math pathways (college prep, career and technical education, quantitative reasoning/statistics, or STEM) after completing NC Math 1 and NC Math 2. It requires the State Board of Education to establish rules for these pathways by July 2027, mandates that career development plans include pathway information, and provides $1 million in funding for implementation beginning with students entering 9th grade in 2028-2029.",
+  "aiProArguments": "Supporters argue this bill allows students to follow math courses tailored to their career goals rather than a one-size-fits-all approach, making math education more relevant and practical. They contend that offering CTE and statistics pathways alongside college-prep and STEM options helps more students graduate by meeting them where they are, while still preparing them for post-secondary success in universities, community colleges, or the workforce.",
+  "aiConArguments": "Opponents worry that creating separate pathways could lead to inequitable tracking where disadvantaged students are steered toward lower-level pathways, limiting future opportunities. They also express concerns about whether all pathways will truly be equally rigorous and accepted by colleges and employers, and whether schools have adequate resources and teacher training to implement four distinct sequences by 2028-2029.",
+  "topic": "Education",
+  "textLength": 6478,
+  "createdAt": "2026-06-23T03:12:50.694Z",
+  "sponsors": [
+    {"peopleId":26664,"name":"Jonah Garson","party":"D","isPrimary":true}
+  ],
+  "rollCalls": []
+}

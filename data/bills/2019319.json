@@ -1,0 +1,22 @@
+{
+  "billId": 2019319,
+  "billNumber": "H759",
+  "title": "Family and Community Wellness Act/Funds",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "c5a71a87fa795f55df611dfb82ce9990",
+  "lastAction": "Ref to the Com on Appropriations, if favorable, Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-04-07",
+  "url": "https://legiscan.com/NC/bill/H759/2025",
+  "aiSummary": "This bill appropriates $100,000 in state funds to Forsyth County for the 2025-2026 fiscal year to support two initiatives: mobile units providing health, social services, and nutritional support across seven counties, and a work-based learning program for adults focused on community engagement and economic mobility.",
+  "aiProArguments": "Supporters argue this bill addresses gaps in health and social services access by funding mobile units that bring services directly to underserved residents across a multi-county region. They contend the work-based learning program helps adults gain employment skills and economic stability while strengthening community engagement and family support systems.",
+  "aiConArguments": "Opponents may question whether $100,000 is sufficient to effectively operate two mobile units across seven counties, or whether this represents an appropriate use of limited state general fund resources. Some may argue the bill lacks details about program outcomes, accountability measures, or whether one-time nonrecurring funding creates unsustainable commitments.",
+  "topic": "Social Services & Welfare",
+  "textLength": 1422,
+  "createdAt": "2026-06-23T02:57:20.067Z",
+  "sponsors": [
+    {"peopleId":24199,"name":"Kanika Brown","party":"D","isPrimary":true},
+    {"peopleId":22599,"name":"Amber Baker","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

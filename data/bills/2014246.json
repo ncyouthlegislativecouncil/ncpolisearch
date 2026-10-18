@@ -1,0 +1,25 @@
+{
+  "billId": 2014246,
+  "billNumber": "S689",
+  "title": "2025 Charter Schools Review Board Omnibus",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "65ee0d1c1dc0be093dc1d738ddeb466b",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-26",
+  "url": "https://legiscan.com/NC/bill/S689/2025",
+  "aiSummary": "This bill increases the authority of the North Carolina Charter Schools Review Board by requiring it to approve all state rules related to charter schools, allowing it to hire its own legal counsel, and giving it oversight of federal funding decisions for charter schools. It also provides regulatory flexibility for charter schools regarding teacher evaluations and class rank reporting, streamlines approval processes for remote charter academies, and grades remote academies separately from their parent schools.",
+  "aiProArguments": "Supporters argue this bill empowers charter schools by reducing regulatory burdens and giving them more operational flexibility, such as allowing alternative teacher evaluations and eliminating class rank requirements. They contend that the Charter Schools Review Board, composed of charter school stakeholders, is better positioned than the State Board of Education to develop sensible rules for charter schools, and that expedited approval for remote academies will expand educational options for North Carolina families.",
+  "aiConArguments": "Opponents worry this bill weakens state oversight by shifting rulemaking authority away from the State Board of Education to the Review Board, potentially reducing accountability standards across the charter sector. They raise concerns that separate grading for remote academies and exemptions from certain reporting requirements could mask performance problems, and that charter schools' independence from local school administrative units may disadvantage traditional public schools in funding and resources.",
+  "topic": "Education",
+  "textLength": 9696,
+  "createdAt": "2026-06-23T03:10:02.070Z",
+  "sponsors": [
+    {"peopleId":24223,"name":"Brad Overcash","party":"R","isPrimary":true},
+    {"peopleId":18454,"name":"Kevin Corbin","party":"R","isPrimary":true},
+    {"peopleId":20225,"name":"Ted Alexander","party":"R","isPrimary":true},
+    {"peopleId":25250,"name":"Dana Jones","party":"R","isPrimary":false},
+    {"peopleId":24225,"name":"Benton Sawrey","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

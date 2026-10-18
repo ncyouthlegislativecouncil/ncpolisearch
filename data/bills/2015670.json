@@ -1,0 +1,26 @@
+{
+  "billId": 2015670,
+  "billNumber": "H558",
+  "title": "Criteria for PHP Contract Procurement",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "7c3c69c23b8ca85277b85577bf92896d",
+  "lastAction": "Serial Referral To Finance Stricken",
+  "lastActionDate": "2025-04-15",
+  "url": "https://legiscan.com/NC/bill/H558/2025",
+  "aiSummary": "This bill updates how North Carolina's Medicaid program selects health insurance companies to serve Medicaid recipients. For future contract renewals, it limits statewide contracts to no more than four companies and gives preference to certain types of bidders—particularly Provider-Led Entities (PLEs) and companies with higher provider satisfaction ratings.",
+  "aiProArguments": "Supporters argue this bill improves Medicaid administration by prioritizing companies with proven track records of good relationships with doctors and healthcare providers. By favoring PLEs (organizations led by healthcare providers themselves) and providers with higher satisfaction scores, the state may get better quality care coordination and patient outcomes. This approach could also reduce administrative turnover and disruption in coverage.",
+  "aiConArguments": "Opponents may contend that giving preference to specific bidder types could limit competition and raise costs for the state's Medicaid program. They might argue that the preference criteria could exclude potentially qualified companies and that open competitive bidding based purely on cost and capability would better serve taxpayers and beneficiaries. There are also questions about whether provider satisfaction scores are the best measure of plan quality and patient care outcomes.",
+  "topic": "Healthcare",
+  "textLength": 3016,
+  "createdAt": "2026-06-23T02:54:37.008Z",
+  "sponsors": [
+    {"peopleId":24215,"name":"Timothy Reeder","party":"R","isPrimary":true},
+    {"peopleId":18461,"name":"Larry Potts","party":"R","isPrimary":true},
+    {"peopleId":14624,"name":"Donny Lambeth","party":"R","isPrimary":true},
+    {"peopleId":14612,"name":"Carla Cunningham","party":"D","isPrimary":false},
+    {"peopleId":24219,"name":"Bill Ward","party":"R","isPrimary":false},
+    {"peopleId":17158,"name":"Shelly Willingham","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

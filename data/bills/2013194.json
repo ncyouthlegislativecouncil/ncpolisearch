@@ -1,0 +1,24 @@
+{
+  "billId": 2013194,
+  "billNumber": "S460",
+  "title": "Fetal Alcohol Spectrum Disorders Program",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "0ad8045ef3d1d6b849227344ba7f95c2",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-25",
+  "url": "https://legiscan.com/NC/bill/S460/2025",
+  "aiSummary": "This bill directs the North Carolina Department of Health and Human Services to create a statewide Fetal Alcohol Spectrum Disorders (FASD) program and an advisory committee to prevent prenatal alcohol exposure, increase FASD awareness and screening, and provide evidence-based interventions for affected individuals. The bill appropriates $2 million in recurring funds for the 2025-2027 fiscal period to establish and operate these initiatives.",
+  "aiProArguments": "Supporters argue that prenatal alcohol exposure is the leading preventable cause of developmental disabilities in North Carolina, affecting multiple body systems and creating significant long-term health and social costs. Establishing a coordinated statewide program with dedicated funding would improve early identification, provide better support services for affected individuals and families, and reduce future cases through education and prevention efforts across state agencies.",
+  "aiConArguments": "Opponents may argue about the $2 million appropriation during a time of competing budget priorities and question whether existing state resources could accomplish these goals more efficiently. Some may also express concerns about government oversight in healthcare decisions or debate whether prevention efforts should focus on different public health priorities.",
+  "topic": "Healthcare",
+  "textLength": 7024,
+  "createdAt": "2026-06-23T03:08:02.640Z",
+  "sponsors": [
+    {"peopleId":21633,"name":"Natalie Murdock","party":"D","isPrimary":true},
+    {"peopleId":24222,"name":"Lisa Grafstein","party":"D","isPrimary":true},
+    {"peopleId":25859,"name":"Caleb Theodros","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

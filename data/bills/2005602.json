@@ -1,0 +1,23 @@
+{
+  "billId": 2005602,
+  "billNumber": "S286",
+  "title": "NC Board of Nursing Licensure Fees",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "c7220814a0c6fa100794c160c438ed1e",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-17",
+  "url": "https://legiscan.com/NC/bill/S286/2025",
+  "aiSummary": "This bill increases the fees that nurses must pay to the North Carolina Board of Nursing for various licensing services, roughly doubling most fees. For example, the application fee for registered nurse examination increases from $75 to $150, and the two-year license renewal fee increases from $100 to $200. The bill specifies that the Board's operations must be funded entirely through these collected fees rather than state tax dollars.",
+  "aiProArguments": "Supporters argue that these fee increases are necessary to ensure the Board of Nursing has adequate funding to process applications, conduct examinations, maintain records, and handle disciplinary actions without relying on state taxpayer money. They contend that the current fees have not kept pace with rising operational costs, and that nurses benefit from efficient licensing services that protect the profession's integrity and public safety.",
+  "aiConArguments": "Opponents may argue that doubling licensing fees places a significant financial burden on nurses, particularly those early in their careers or those seeking to return to practice after breaks. They may also contend that these increases could discourage people from entering the nursing profession or remaining licensed in North Carolina, potentially worsening nurse shortages in the state.",
+  "topic": "Healthcare",
+  "textLength": 4153,
+  "createdAt": "2026-06-23T03:06:24.890Z",
+  "sponsors": [
+    {"peopleId":17147,"name":"Gale Adcock","party":"D","isPrimary":true},
+    {"peopleId":20513,"name":"Bobby Hanig","party":"R","isPrimary":true},
+    {"peopleId":18454,"name":"Kevin Corbin","party":"R","isPrimary":true}
+  ],
+  "rollCalls": []
+}

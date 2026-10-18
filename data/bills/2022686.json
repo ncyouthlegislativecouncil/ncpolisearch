@@ -1,0 +1,26 @@
+{
+  "billId": 2022686,
+  "billNumber": "H1000",
+  "title": "Detransitioners Bill of Rights",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "90d47bd9b32f0df69c00866d090668a2",
+  "lastAction": "Ref To Com On Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-04-14",
+  "url": "https://legiscan.com/NC/bill/H1000/2025",
+  "aiSummary": "This bill prohibits medical professionals from performing gender transition procedures (including surgeries and hormone treatments) on minors in North Carolina, with limited exceptions only when parents consent to detransition procedures. It establishes civil liability for providers who violate the ban, requires gender clinics to report detailed patient statistics to the state, mandates insurance coverage for detransition treatments, and allows parents access to minors' medical records except in abuse cases.",
+  "aiProArguments": "Supporters argue this bill protects minors from potentially irreversible medical decisions they may later regret, noting that some individuals do detransition. They contend that parents should have the right to know about and guide their children's medical care, and that the reporting requirements will create transparency about these procedures. Proponents believe the strict liability provisions and license revocation penalties will deter premature medical interventions and ensure careful consideration before treatment.",
+  "aiConArguments": "Opponents argue this bill prevents access to evidence-based medical care for transgender minors whose gender dysphoria causes significant distress, noting that major medical organizations support some gender-affirming treatments under appropriate conditions. They contend the bill's broad restrictions could harm vulnerable youth, that required parental consent may be dangerous for minors with unsupportive families, and that the civil liability provisions could create excessive litigation risk and deter healthcare providers from serving this population. Critics also worry the reporting requirements and birth certificate provisions compromise medical privacy.",
+  "topic": "Healthcare",
+  "textLength": 19806,
+  "createdAt": "2026-06-23T03:00:14.216Z",
+  "sponsors": [
+    {"peopleId":21377,"name":"Jake Johnson","party":"R","isPrimary":true},
+    {"peopleId":24207,"name":"Neal Jackson","party":"R","isPrimary":true},
+    {"peopleId":25841,"name":"Jonathan Almond","party":"R","isPrimary":true},
+    {"peopleId":24196,"name":"Jennifer Balkcom","party":"R","isPrimary":false},
+    {"peopleId":24201,"name":"Celeste Cairns","party":"R","isPrimary":false},
+    {"peopleId":24219,"name":"Bill Ward","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

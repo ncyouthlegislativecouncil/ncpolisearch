@@ -1,0 +1,33 @@
+{
+  "billId": 1992656,
+  "billNumber": "H310",
+  "title": "Eminent Domain",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "ffcf3cf8e59cde82b0eb3057e732c5fc",
+  "lastAction": "Ref to the Com on Judiciary 2, if favorable, Housing and Development, if favorable, Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-03-06",
+  "url": "https://legiscan.com/NC/bill/H310/2025",
+  "aiSummary": "This bill proposes a constitutional amendment to restrict eminent domain (government power to take private property) to only situations of genuine public use, and to guarantee that property owners can request a jury to determine fair compensation. The bill also updates state law to align with this stricter standard.",
+  "aiProArguments": "Supporters argue this protects property owners from government overreach, particularly preventing takings that primarily benefit private developers or corporations rather than the public. They contend that requiring jury determination of compensation ensures fair market value and gives citizens a voice in whether takings are truly justified for legitimate public purposes.",
+  "aiConArguments": "Opponents worry this could slow or prevent important public infrastructure projects like roads, utilities, and economic development by making condemnation more difficult and expensive. They argue that stricter 'public use' requirements and jury trials could delay critical projects, increase legal costs, and potentially allow individual property owners to block developments that serve broader community interests.",
+  "topic": "Other / General Government",
+  "textLength": 5101,
+  "createdAt": "2026-06-23T02:48:01.968Z",
+  "sponsors": [
+    {"peopleId":14633,"name":"Dennis Riddell","party":"R","isPrimary":true},
+    {"peopleId":18457,"name":"Destin Hall","party":"R","isPrimary":true},
+    {"peopleId":14602,"name":"Dean Arp","party":"R","isPrimary":true},
+    {"peopleId":2034,"name":"John Blust","party":"R","isPrimary":true},
+    {"peopleId":25841,"name":"Jonathan Almond","party":"R","isPrimary":false},
+    {"peopleId":24197,"name":"Brian Biggs","party":"R","isPrimary":false},
+    {"peopleId":25197,"name":"Jerry Branson","party":"R","isPrimary":false},
+    {"peopleId":25845,"name":"Grant Campbell","party":"R","isPrimary":false},
+    {"peopleId":22615,"name":"Howard Penny","party":"R","isPrimary":false},
+    {"peopleId":25856,"name":"Paul Scott","party":"R","isPrimary":false},
+    {"peopleId":24219,"name":"Bill Ward","party":"R","isPrimary":false},
+    {"peopleId":11850,"name":"Harry Warren","party":"R","isPrimary":false},
+    {"peopleId":18495,"name":"Donna White","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

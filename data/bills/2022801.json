@@ -1,0 +1,25 @@
+{
+  "billId": 2022801,
+  "billNumber": "H987",
+  "title": "Create Police Leadership Fellows Program",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "92abf2c2bb9b4ab6d63dd037dd3a57c6",
+  "lastAction": "Ref to the Com on Appropriations, if favorable, Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-04-14",
+  "url": "https://legiscan.com/NC/bill/H987/2025",
+  "aiSummary": "This bill establishes the North Carolina Police Leadership Fellows Program, which provides forgivable loans up to $20,000 to eligible individuals pursuing Bachelor's Degrees in criminal justice and related fields at UNC System universities. Loan recipients must commit to working in law enforcement or corrections for at least eight years after graduation, at which point the loan is forgiven; if they don't fulfill this service requirement, they must repay the loan with interest.",
+  "aiProArguments": "Supporters argue this program addresses workforce shortages in law enforcement and criminal justice by making higher education more affordable for economically disadvantaged individuals interested in these careers. The forgivable loan structure incentivizes people to enter public safety professions while ensuring taxpayer investment is tied to actual service in these fields, potentially improving recruitment and retention in critical roles across North Carolina.",
+  "aiConArguments": "Opponents may express concerns about the program's cost to taxpayers, particularly if loan forgiveness rates are high or if recipients leave the field before completing their eight-year service obligation. Others might question whether forgivable loans are the most effective use of education funding compared to other approaches, or raise concerns about the eligibility restrictions based on criminal history, which could limit opportunities for individuals with past offenses seeking career changes.",
+  "topic": "Criminal Justice & Public Safety",
+  "textLength": 15359,
+  "createdAt": "2026-06-23T03:00:06.335Z",
+  "sponsors": [
+    {"peopleId":24210,"name":"Tim Longest","party":"D","isPrimary":true},
+    {"peopleId":18451,"name":"Mary Belk","party":"D","isPrimary":false},
+    {"peopleId":2077,"name":"Mary Harrison","party":"D","isPrimary":false},
+    {"peopleId":24206,"name":"Frances Jackson","party":"D","isPrimary":false},
+    {"peopleId":20521,"name":"Carolyn Logan","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

@@ -1,0 +1,24 @@
+{
+  "billId": 1981056,
+  "billNumber": "S138",
+  "title": "Restore Down-Zoning Auth./Mecklenburg Co",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "0d127e90555a2e09cdd0b1ff51ceba7d",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-02-25",
+  "url": "https://legiscan.com/NC/bill/S138/2025",
+  "aiSummary": "This bill restores the ability of local governments in Mecklenburg County and its municipalities to initiate down-zoning (reducing allowed building density or uses on land) without needing written consent from all affected property owners. It reverses a restriction imposed in December 2024 and applies retroactively to restore previously adopted ordinances.",
+  "aiProArguments": "Supporters argue that local governments need flexibility to manage growth, protect neighborhoods, and respond to community needs without being blocked by individual property owners. They contend that down-zoning can preserve community character, manage density, and address environmental or infrastructure concerns that benefit the broader public interest.",
+  "aiConArguments": "Opponents argue that property owners should have a say when regulations reduce the value or development potential of their land, as this affects their property rights and financial interests. They contend that requiring local government initiative rather than owner consent could lead to decisions that unfairly burden certain landowners for community-wide goals.",
+  "topic": "Local Government",
+  "textLength": 1956,
+  "createdAt": "2026-06-23T03:05:14.341Z",
+  "sponsors": [
+    {"peopleId":25860,"name":"Woodson Bradley","party":"D","isPrimary":true},
+    {"peopleId":20223,"name":"Mujtaba Mohammed","party":"D","isPrimary":false},
+    {"peopleId":22426,"name":"DeAndrea Salvador","party":"D","isPrimary":false},
+    {"peopleId":25859,"name":"Caleb Theodros","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

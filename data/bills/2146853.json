@@ -1,0 +1,26 @@
+{
+  "billId": 2146853,
+  "billNumber": "S966",
+  "title": "The SAVE Act",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "b2eab41b316698497719d9b9fbd9a4f5",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2026-05-04",
+  "url": "https://legiscan.com/NC/bill/S966/2025",
+  "aiSummary": "The SAVE Act defines the practice of advanced practice registered nurses (APRNs)—which include nurse practitioners, certified nurse midwives, certified registered nurse anesthetists, and clinical nurse specialists—and allows them to practice independently without physician supervision. The bill removes a prior requirement for joint oversight between medical and nursing boards and eliminates restrictions on APRN prescribing authority.",
+  "aiProArguments": "Supporters argue this bill expands access to healthcare in North Carolina by allowing over 20,000 trained APRNs to work to their full capability, addressing healthcare shortages as the state's population grows. They cite research showing APRNs provide safe, high-quality care and note that 36 other states have already made similar changes with no documented safety problems. A Duke University economist's estimate suggests the reform could save North Carolina at least $700 million annually in healthcare costs.",
+  "aiConArguments": "Opponents may argue that removing physician oversight could compromise patient safety, particularly for complex cases requiring medical expertise. Some physicians and medical organizations traditionally contend that physician supervision ensures quality control and protects patients. Additionally, concerns exist about whether the bill adequately defines collaboration standards between APRNs and physicians and whether current APRN training is equivalent to physician training for all clinical situations.",
+  "topic": "Healthcare",
+  "textLength": 27617,
+  "createdAt": "2026-06-23T03:12:15.159Z",
+  "sponsors": [
+    {"peopleId":20216,"name":"Jim Burgin","party":"R","isPrimary":true},
+    {"peopleId":11937,"name":"Ralph Hise","party":"R","isPrimary":true},
+    {"peopleId":17147,"name":"Gale Adcock","party":"D","isPrimary":false},
+    {"peopleId":14615,"name":"Carl Ford","party":"R","isPrimary":false},
+    {"peopleId":22423,"name":"Amy Galey","party":"R","isPrimary":false},
+    {"peopleId":11862,"name":"Norman Sanderson","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

@@ -1,0 +1,33 @@
+{
+  "billId": 2018934,
+  "billNumber": "H730",
+  "title": "Comprehensive State Communications",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "6a052d86b8bbaef87158a40f46f46e43",
+  "lastAction": "Ref To Com On Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-04-03",
+  "url": "https://legiscan.com/NC/bill/H730/2025",
+  "aiSummary": "This bill requires North Carolina state departments to translate information about state services into the five most common non-English languages spoken at home by residents, as determined by U.S. Census data. The Department of Administration will contract with translation services to provide these translations in the same format (electronic or print) as the English versions, with implementation beginning January 1, 2027, and $5.4 million in funding allocated for the 2025-2026 fiscal year.",
+  "aiProArguments": "Supporters argue this bill improves access to critical state services for North Carolina residents who are more comfortable communicating in languages other than English, helping ensure no one is excluded from important health, education, housing, or benefit information due to language barriers. They contend that providing multilingual information is both a matter of equity and practical efficiency, as it reduces miscommunication and helps people navigate state programs more effectively.",
+  "aiConArguments": "Opponents may argue the bill creates significant ongoing costs to state government ($5.4 million annually) during a time of budget constraints, and question whether resources might be better spent elsewhere. Some may contend that translation requirements could delay the publication of time-sensitive information or that the state should prioritize English proficiency rather than maintaining services in multiple languages.",
+  "topic": "Taxes & Budget",
+  "textLength": 3891,
+  "createdAt": "2026-06-23T02:56:59.160Z",
+  "sponsors": [
+    {"peopleId":25850,"name":"Jordan Lopez","party":"D","isPrimary":true},
+    {"peopleId":24202,"name":"Maria Cervania","party":"D","isPrimary":true},
+    {"peopleId":24209,"name":"Ya Liu","party":"D","isPrimary":true},
+    {"peopleId":17149,"name":"Brian Turner","party":"D","isPrimary":true},
+    {"peopleId":22599,"name":"Amber Baker","party":"D","isPrimary":false},
+    {"peopleId":19238,"name":"Deb Butler","party":"D","isPrimary":false},
+    {"peopleId":25851,"name":"Aisha Dew","party":"D","isPrimary":false},
+    {"peopleId":25844,"name":"Julia Greenfield","party":"D","isPrimary":false},
+    {"peopleId":2077,"name":"Mary Harrison","party":"D","isPrimary":false},
+    {"peopleId":20515,"name":"Zack Forde-Hawkins","party":"D","isPrimary":false},
+    {"peopleId":25847,"name":"Beth Helfrich","party":"D","isPrimary":false},
+    {"peopleId":20522,"name":"Nasif Majeed","party":"D","isPrimary":false},
+    {"peopleId":20528,"name":"Julie von Haefen","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

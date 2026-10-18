@@ -1,0 +1,24 @@
+{
+  "billId": 1992117,
+  "billNumber": "S244",
+  "title": "January 6 Riot/Attempt Overthrow of Gov't",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "702804eddd9788af1107d24cb4b6ec0c",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-06",
+  "url": "https://legiscan.com/NC/bill/S244/2025",
+  "aiSummary": "This bill creates a new Class F felony charge in North Carolina for participating in or inciting a riot that includes an attempt to overthrow the U.S. government, the State of North Carolina, or any local government. The law applies to offenses committed on or after December 1, 2025.",
+  "aiProArguments": "Supporters argue this bill provides necessary legal tools to prosecute and deter violent attempts to overthrow government authority. They contend that creating a specific felony charge for this conduct addresses a serious threat to democratic institutions and public safety, and sends a clear message that such actions carry severe criminal consequences.",
+  "aiConArguments": "Opponents may raise concerns about how terms like 'attempt to overthrow' and 'incites' are defined and applied, worrying the law could be interpreted broadly and chill protected speech or political assembly. They may also question whether existing riot and conspiracy laws already adequately address such conduct, or argue that the law's scope regarding 'any political subdivision' could lead to inconsistent enforcement.",
+  "topic": "Criminal Justice & Public Safety",
+  "textLength": 1396,
+  "createdAt": "2026-06-23T03:06:05.360Z",
+  "sponsors": [
+    {"peopleId":20510,"name":"Terence Everitt","party":"D","isPrimary":true},
+    {"peopleId":20220,"name":"Michael Garrett","party":"D","isPrimary":true},
+    {"peopleId":24220,"name":"Val Applewhite","party":"D","isPrimary":false},
+    {"peopleId":25860,"name":"Woodson Bradley","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

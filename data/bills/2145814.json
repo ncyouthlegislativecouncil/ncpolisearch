@@ -1,0 +1,21 @@
+{
+  "billId": 2145814,
+  "billNumber": "S843",
+  "title": "12th Senatorial District Local Act-1",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "2fa75437b5743fa659e02b2147fa947d",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2026-04-28",
+  "url": "https://legiscan.com/NC/bill/S843/2025",
+  "aiSummary": "This is a local bill that applies only to North Carolina's 12th Senatorial District. The bill text does not specify what changes it makes to the district, stating only that it relates to the 12th Senatorial District and becomes effective upon passage.",
+  "aiProArguments": "Supporters of local bills argue they allow the General Assembly to address specific, localized needs of particular districts without applying statewide rules. This targeted approach can solve problems unique to a district's circumstances more efficiently than broad legislation.",
+  "aiConArguments": "Opponents of local bills raise concerns about transparency and fairness, noting that the bill text provided does not specify what substantive changes it actually makes. Without clear details about its purpose and effects, it is difficult for constituents and legislators to evaluate whether the bill serves the public interest fairly.",
+  "topic": "Local Government",
+  "textLength": 506,
+  "createdAt": "2026-06-23T03:11:10.753Z",
+  "sponsors": [
+    {"peopleId":20216,"name":"Jim Burgin","party":"R","isPrimary":true}
+  ],
+  "rollCalls": []
+}

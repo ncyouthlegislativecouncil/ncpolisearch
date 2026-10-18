@@ -1,0 +1,29 @@
+{
+  "billId": 2145386,
+  "billNumber": "S831",
+  "title": "25-Year Retirement for First Responders",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "980633cfe0c9f12aef86a9c6ff33109c",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2026-04-27",
+  "url": "https://legiscan.com/NC/bill/S831/2025",
+  "aiSummary": "This bill allows law enforcement officers, firefighters, and emergency medical services personnel in North Carolina to retire with full, unreduced benefits after 25 years of service instead of the current requirement of 30 years or age 55 with 5 years of service. The change applies to both state employees and local government employees and takes effect January 1, 2027.",
+  "aiProArguments": "Supporters argue that first responders face physically and mentally demanding work with higher injury and health risks than many other professions, justifying earlier retirement eligibility. They contend that allowing retirement after 25 years recognizes the sacrifice and service of these workers and may help with recruitment and retention by offering a clearer career pathway. Supporters also note this change brings North Carolina more in line with retirement benefits offered in other states.",
+  "aiConArguments": "Opponents raise concerns about the fiscal impact on state and local government budgets, as paying retirement benefits to more people earlier will increase pension system costs. They question whether the 25-year threshold is necessary for retention and recruitment, and suggest alternative approaches like improved pay or benefits might be more cost-effective. Some also argue the change creates equity issues by treating these workers differently from other public employees.",
+  "topic": "Criminal Justice & Public Safety",
+  "textLength": 15819,
+  "createdAt": "2026-06-23T03:11:04.827Z",
+  "sponsors": [
+    {"peopleId":24222,"name":"Lisa Grafstein","party":"D","isPrimary":true},
+    {"peopleId":17147,"name":"Gale Adcock","party":"D","isPrimary":false},
+    {"peopleId":25860,"name":"Woodson Bradley","party":"D","isPrimary":false},
+    {"peopleId":20220,"name":"Michael Garrett","party":"D","isPrimary":false},
+    {"peopleId":20223,"name":"Mujtaba Mohammed","party":"D","isPrimary":false},
+    {"peopleId":21633,"name":"Natalie Murdock","party":"D","isPrimary":false},
+    {"peopleId":22426,"name":"DeAndrea Salvador","party":"D","isPrimary":false},
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":false},
+    {"peopleId":25859,"name":"Caleb Theodros","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

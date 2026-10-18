@@ -1,0 +1,22 @@
+{
+  "billId": 1945588,
+  "billNumber": "S5",
+  "title": "29th Senatorial District Local Act-1",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "b5b0ecb321dbc2c70f788dd864e7ba65",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-01-30",
+  "url": "https://legiscan.com/NC/bill/S5/2025",
+  "aiSummary": "This is a local bill that applies only to the 29th Senatorial District in North Carolina. The bill text does not specify what changes or provisions it contains—it only establishes that whatever follows applies to that district and becomes effective upon passage.",
+  "aiProArguments": "Supporters of local bills argue they allow the General Assembly to address specific regional needs and circumstances that may not apply statewide. Local legislation can be tailored to solve particular problems in a district without affecting other areas of North Carolina.",
+  "aiConArguments": "Opponents of local bills raise concerns about transparency and equal treatment, noting that the bill text provided contains no substantive details about what is actually being changed. Without knowing the specific provisions, citizens and legislators cannot fully evaluate whether the bill serves the public interest or creates unequal rules across the state.",
+  "topic": "Local Government",
+  "textLength": 504,
+  "createdAt": "2026-06-23T03:04:06.598Z",
+  "sponsors": [
+    {"peopleId":21663,"name":"David Craven","party":"R","isPrimary":true},
+    {"peopleId":18465,"name":"Danny Britt","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

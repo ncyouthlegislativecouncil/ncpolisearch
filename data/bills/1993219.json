@@ -1,0 +1,27 @@
+{
+  "billId": 1993219,
+  "billNumber": "S250",
+  "title": "Celebrate America's 250th-Let Freedom Ring!",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "2ddcbd12631c5f7bc83c934bcdf943f0",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-10",
+  "url": "https://legiscan.com/NC/bill/S250/2025",
+  "aiSummary": "This bill legalizes the sale and use of certain consumer fireworks in North Carolina starting January 1, 2026. It establishes a permitting system for fireworks retailers, sets safety requirements and restrictions on where and when fireworks can be used, and imposes a 5% excise tax on consumer fireworks sales, with 25% of proceeds funding firefighter education and training.",
+  "aiProArguments": "Supporters argue this bill allows North Carolinians to celebrate holidays like Independence Day with legal consumer fireworks, generating tax revenue for firefighter education and training. They contend that a regulated permitting system with safety requirements (fire extinguishers, employee training, setback distances from hazardous facilities) creates a safer framework than the current prohibition, and that reasonable use restrictions (daytime hours, age limits, distance from schools and hospitals) protect public safety while preserving personal freedom.",
+  "aiConArguments": "Opponents may worry that legalizing fireworks increases risks of accidental injuries, fires, and property damage despite safety regulations, particularly during high-use periods like July 4th. They may also be concerned that enforcement of restrictions on when and where fireworks are used will be difficult, and that the $5,000 permit fee and regulatory burden could limit legitimate businesses while the 5% excise tax increases consumer costs.",
+  "topic": "Other / General Government",
+  "textLength": 30309,
+  "createdAt": "2026-06-23T03:06:07.788Z",
+  "sponsors": [
+    {"peopleId":22423,"name":"Amy Galey","party":"R","isPrimary":true},
+    {"peopleId":18465,"name":"Danny Britt","party":"R","isPrimary":true},
+    {"peopleId":19669,"name":"Vickie Sawyer","party":"R","isPrimary":true},
+    {"peopleId":14615,"name":"Carl Ford","party":"R","isPrimary":false},
+    {"peopleId":11937,"name":"Ralph Hise","party":"R","isPrimary":false},
+    {"peopleId":11862,"name":"Norman Sanderson","party":"R","isPrimary":false},
+    {"peopleId":24225,"name":"Benton Sawrey","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

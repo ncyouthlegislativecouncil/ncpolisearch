@@ -1,0 +1,27 @@
+{
+  "billId": 2146383,
+  "billNumber": "S922",
+  "title": "Fund International Black Theatre Festival",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "45aa7f55c6d35b307f5d18d29f53f9a1",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2026-04-30",
+  "url": "https://legiscan.com/NC/bill/S922/2025",
+  "aiSummary": "This bill appropriates $200,000 in state funds to the City of Winston-Salem to support the planning and operations of the International Black Theatre Festival scheduled for July and August 2026. The money comes from the General Fund and is designated as a one-time grant for that specific fiscal year.",
+  "aiProArguments": "Supporters argue this funding supports cultural programming and tourism in North Carolina, bringing economic activity and national attention to Winston-Salem. They contend that arts and cultural festivals enhance community vitality, create jobs, and attract visitors who spend money in local businesses while celebrating African American cultural contributions.",
+  "aiConArguments": "Opponents may argue that state funds should prioritize essential services like education, healthcare, and infrastructure rather than festivals. They contend that cities or cultural organizations should seek private funding or rely on existing budgets for such events, and question whether a $200,000 state appropriation for a single festival is the best use of limited public resources.",
+  "topic": "Taxes & Budget",
+  "textLength": 926,
+  "createdAt": "2026-06-23T03:11:54.085Z",
+  "sponsors": [
+    {"peopleId":17457,"name":"Paul Lowe","party":"D","isPrimary":true},
+    {"peopleId":24220,"name":"Val Applewhite","party":"D","isPrimary":false},
+    {"peopleId":20223,"name":"Mujtaba Mohammed","party":"D","isPrimary":false},
+    {"peopleId":12032,"name":"Gladys Robinson","party":"D","isPrimary":false},
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":false},
+    {"peopleId":25859,"name":"Caleb Theodros","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

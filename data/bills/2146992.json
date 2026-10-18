@@ -1,0 +1,26 @@
+{
+  "billId": 2146992,
+  "billNumber": "S1020",
+  "title": "Affordable Housing Efficiency Grant Program",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "118737907659dbcc38b489b7998c07ba",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2026-05-05",
+  "url": "https://legiscan.com/NC/bill/S1020/2025",
+  "aiSummary": "This bill establishes the Affordable Housing Efficiency Grant Program, which provides grants to affordable multifamily housing buildings to fund energy efficiency upgrades (like insulation and efficient HVAC systems) and electric building upgrades (like heat pumps and electric vehicle charging). The program allocates $5 million annually and is administered by the State Energy Office within the Department of Environmental Quality.",
+  "aiProArguments": "Supporters argue this program helps low-income residents by reducing their energy costs through efficiency improvements while supporting North Carolina's clean energy goals. The grants also improve building quality, indoor air quality, and health outcomes for residents living in affordable housing, while potentially creating jobs in the energy efficiency and construction sectors.",
+  "aiConArguments": "Opponents may argue that $5 million in annual state funding is a significant taxpayer expense for a targeted program, and question whether grant money could be better spent on other housing affordability needs like construction or rental assistance. Some may also be concerned about ongoing affordability requirements placed on property owners and whether the grant amounts ($0.75 per square foot maximum) are sufficient to meaningfully offset upgrade costs.",
+  "topic": "Housing",
+  "textLength": 5357,
+  "createdAt": "2026-06-23T03:12:43.142Z",
+  "sponsors": [
+    {"peopleId":22426,"name":"DeAndrea Salvador","party":"D","isPrimary":true},
+    {"peopleId":25859,"name":"Caleb Theodros","party":"D","isPrimary":true},
+    {"peopleId":20505,"name":"Sydney Batch","party":"D","isPrimary":false},
+    {"peopleId":21633,"name":"Natalie Murdock","party":"D","isPrimary":false},
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

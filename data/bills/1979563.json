@@ -1,0 +1,23 @@
+{
+  "billId": 1979563,
+  "billNumber": "S132",
+  "title": "Swannanoa Valley TDA",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "5f6b9b7263064fdd87900aba160042db",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-02-24",
+  "url": "https://legiscan.com/NC/bill/S132/2025",
+  "aiSummary": "This bill creates the Swannanoa Valley Tourism Development Authority, a new local organization in Buncombe County that would receive a portion of hotel occupancy taxes collected from three townships (Broad River, Black Mountain, and Swannanoa). The Authority would use these funds to promote tourism and support tourism-related projects in the Swannanoa Valley area.",
+  "aiProArguments": "Supporters argue this bill allows the Swannanoa Valley region to directly benefit from tourism tax revenue generated within its three townships rather than having all funds go to countywide tourism efforts. The dedicated Authority could tailor marketing and development projects to the specific needs and opportunities of the Swannanoa Valley, potentially attracting more visitors, creating jobs, and boosting local economic development in that region.",
+  "aiConArguments": "Opponents may argue that splitting occupancy tax revenue between multiple authorities could reduce efficiency and duplicate administrative costs compared to a unified countywide approach. Some may also be concerned that directing funds away from the broader Buncombe County Tourism Development Authority could limit tourism promotion efforts in other parts of the county that also generate visitor revenue.",
+  "topic": "Local Government",
+  "textLength": 19489,
+  "createdAt": "2026-06-23T03:05:11.101Z",
+  "sponsors": [
+    {"peopleId":12033,"name":"Warren Daniel","party":"R","isPrimary":true},
+    {"peopleId":22425,"name":"Julie Mayfield","party":"D","isPrimary":true},
+    {"peopleId":11858,"name":"Timothy Moffitt","party":"R","isPrimary":true}
+  ],
+  "rollCalls": []
+}

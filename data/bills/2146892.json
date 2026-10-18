@@ -1,0 +1,22 @@
+{
+  "billId": 2146892,
+  "billNumber": "S972",
+  "title": "Cut State Agency Costs By 10%",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "f96e3ed6d5893b9dca4cb00a4c2d02a7",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2026-05-05",
+  "url": "https://legiscan.com/NC/bill/S972/2025",
+  "aiSummary": "This bill requires North Carolina state agencies to reduce their budgets by at least 10% by June 30, 2028. Agencies must submit detailed plans by January 2027 explaining how they will achieve these cuts, with the Director of the Budget office having flexibility to adjust cuts across agencies while maintaining the overall 10% reduction target.",
+  "aiProArguments": "Supporters argue this bill promotes government efficiency by encouraging agencies to eliminate waste and adopt cost-saving technologies and practices. They contend that a structured budget reduction forces agencies to prioritize spending, reduces overall government costs, and frees up state resources that could be used for tax relief or other priorities.",
+  "aiConArguments": "Opponents worry that across-the-board budget cuts may harm essential public services like education, healthcare, and infrastructure regardless of agency efficiency. They argue that a 10% reduction could force agencies to cut programs or staff rather than merely eliminate waste, potentially reducing service quality for North Carolinians who depend on state services.",
+  "topic": "Taxes & Budget",
+  "textLength": 2165,
+  "createdAt": "2026-06-23T03:12:17.877Z",
+  "sponsors": [
+    {"peopleId":20216,"name":"Jim Burgin","party":"R","isPrimary":true},
+    {"peopleId":18454,"name":"Kevin Corbin","party":"R","isPrimary":true}
+  ],
+  "rollCalls": []
+}

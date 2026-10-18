@@ -1,0 +1,33 @@
+{
+  "billId": 2022266,
+  "billNumber": "H885",
+  "title": "Revise Suspension & Parental Notice Policies",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "7e0e03a779b2ea4d3c7eb66aff7ec0e3",
+  "lastAction": "Ref To Com On Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-04-14",
+  "url": "https://legiscan.com/NC/bill/H885/2025",
+  "aiSummary": "This bill revises North Carolina public school discipline policies by defining suspension lengths, limiting their use, creating appeal rights for certain suspensions, requiring clear parental notification, and prohibiting corporal punishment statewide. It also establishes new rules for in-school suspensions, restricts discipline for younger students, and requires early child care settings to report disciplinary data.",
+  "aiProArguments": "Supporters argue this bill protects students by reducing exclusionary discipline, particularly for young children and vulnerable students. It creates clearer procedures and appeal rights that ensure fairness, requires schools to use alternative behavior strategies before suspending students, and mandates transparent reporting so districts can identify and address racial or other disparities in discipline. Supporters also note that prohibiting corporal punishment aligns with modern child development research and that the $2 million in funding helps schools implement these changes.",
+  "aiConArguments": "Opponents worry that limiting suspension lengths and restricting discipline for younger students may reduce school administrators' flexibility to handle serious behavior problems and maintain classroom safety. They argue the bill creates additional procedural requirements and appeals processes that could delay discipline decisions and add administrative burden to schools. Some concern also exists that reducing consequences could be seen as permissive and may not adequately deter serious misconduct or address students' underlying behavioral needs.",
+  "topic": "Education",
+  "textLength": 32240,
+  "createdAt": "2026-06-23T02:58:55.984Z",
+  "sponsors": [
+    {"peopleId":19360,"name":"Marcia Morey","party":"D","isPrimary":true},
+    {"peopleId":24202,"name":"Maria Cervania","party":"D","isPrimary":true},
+    {"peopleId":24214,"name":"Renee Price","party":"D","isPrimary":true},
+    {"peopleId":24199,"name":"Kanika Brown","party":"D","isPrimary":true},
+    {"peopleId":18451,"name":"Mary Belk","party":"D","isPrimary":false},
+    {"peopleId":19238,"name":"Deb Butler","party":"D","isPrimary":false},
+    {"peopleId":25213,"name":"Tracy Clark","party":"D","isPrimary":false},
+    {"peopleId":25851,"name":"Aisha Dew","party":"D","isPrimary":false},
+    {"peopleId":25844,"name":"Julia Greenfield","party":"D","isPrimary":false},
+    {"peopleId":2077,"name":"Mary Harrison","party":"D","isPrimary":false},
+    {"peopleId":25850,"name":"Jordan Lopez","party":"D","isPrimary":false},
+    {"peopleId":24213,"name":"Lindsey Prather","party":"D","isPrimary":false},
+    {"peopleId":26396,"name":"Phil Rubin","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

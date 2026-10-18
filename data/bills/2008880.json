@@ -1,0 +1,28 @@
+{
+  "billId": 2008880,
+  "billNumber": "S304",
+  "title": "Reenact EITC",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "5bd334953d108658666ad204cd506102",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-18",
+  "url": "https://legiscan.com/NC/bill/S304/2025",
+  "aiSummary": "This bill restores North Carolina's state Earned Income Tax Credit (EITC), which provides a tax credit to low- and moderate-income working individuals and families based on the federal EITC. The credit would be set at 10% of the federal credit amount for tax years beginning in 2025 and beyond.",
+  "aiProArguments": "Supporters argue that reinstating the EITC helps working families with limited incomes by reducing their tax burden and putting money back in their pockets. They contend this provides targeted tax relief to those who need it most, supports local economies when families spend this money, and mirrors the federal government's policy recognizing work and reducing poverty.",
+  "aiConArguments": "Opponents may argue that reinstating the EITC reduces state tax revenue that could be used for other priorities like education or infrastructure. They may also contend that the credit's benefits flow primarily to lower-income workers and question whether this is the most efficient use of state resources compared to other potential tax policies or spending.",
+  "topic": "Taxes & Budget",
+  "textLength": 2108,
+  "createdAt": "2026-06-23T03:06:34.202Z",
+  "sponsors": [
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":true},
+    {"peopleId":24222,"name":"Lisa Grafstein","party":"D","isPrimary":true},
+    {"peopleId":25860,"name":"Woodson Bradley","party":"D","isPrimary":true},
+    {"peopleId":17936,"name":"Jay Chaudhuri","party":"D","isPrimary":false},
+    {"peopleId":25858,"name":"Sophia Chitlik","party":"D","isPrimary":false},
+    {"peopleId":21633,"name":"Natalie Murdock","party":"D","isPrimary":false},
+    {"peopleId":22426,"name":"DeAndrea Salvador","party":"D","isPrimary":false},
+    {"peopleId":25859,"name":"Caleb Theodros","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

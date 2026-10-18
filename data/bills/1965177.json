@@ -1,0 +1,26 @@
+{
+  "billId": 1965177,
+  "billNumber": "S83",
+  "title": "Extend Primary Care Task Force",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "ae20a13a9a2fbc6340d869c83dcde9d6",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-02-12",
+  "url": "https://legiscan.com/NC/bill/S83/2025",
+  "aiSummary": "This bill extends the Primary Care Payment Reform Task Force deadline from May 1, 2024 to December 31, 2026, giving the group additional time to study primary care spending and delivery in North Carolina. It also adds requirements for data security protections and clarifies that the task force can collect healthcare spending data from insurance companies and Medicaid programs to inform recommendations about primary care payment reform.",
+  "aiProArguments": "Supporters argue that extending the task force deadline provides necessary time to thoroughly analyze primary care spending patterns and develop evidence-based recommendations for improving healthcare delivery and provider supply in North Carolina. The added data security requirements protect patient privacy while allowing the task force to gather critical information from Medicaid, state health plans, and commercial insurers to create a comprehensive picture of primary care payment systems.",
+  "aiConArguments": "Opponents may argue that extending the task force deadline delays action on primary care payment reform and that indefinite study periods can lead to inaction without concrete results. Some may also have concerns about the expanded data collection requirements from private insurers, viewing mandatory compliance within 30 days as burdensome to commercial entities, even with privacy protections in place.",
+  "topic": "Healthcare",
+  "textLength": 4234,
+  "createdAt": "2026-06-23T03:04:45.344Z",
+  "sponsors": [
+    {"peopleId":11937,"name":"Ralph Hise","party":"R","isPrimary":true},
+    {"peopleId":17147,"name":"Gale Adcock","party":"D","isPrimary":false},
+    {"peopleId":20216,"name":"Jim Burgin","party":"R","isPrimary":false},
+    {"peopleId":17457,"name":"Paul Lowe","party":"D","isPrimary":false},
+    {"peopleId":22425,"name":"Julie Mayfield","party":"D","isPrimary":false},
+    {"peopleId":20223,"name":"Mujtaba Mohammed","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

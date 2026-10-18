@@ -1,0 +1,24 @@
+{
+  "billId": 2018789,
+  "billNumber": "H718",
+  "title": "Bail Bondsmen Revisions.-AB",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "4e0c343a593faf603bc7b0cad4800641",
+  "lastAction": "Ref to the Com on Insurance, if favorable, Finance, if favorable, Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-04-03",
+  "url": "https://legiscan.com/NC/bill/H718/2025",
+  "aiSummary": "This bill revises North Carolina's bail bondsman licensing and regulation laws. Key changes include: requiring out-of-state sureties to hire licensed North Carolina bondsmen to arrest defendants in the state, extending the initial supervision period for new bondsmen from 12 to 24 months, establishing new requirements for supervising bondsmen, and moving licensing renewal deadlines from June 30 to May 15.",
+  "aiProArguments": "Supporters argue this bill strengthens oversight of the bail bonding industry by requiring more experienced supervision of new licensees and establishing clearer qualifications for supervising bondsmen. The longer supervision period and stricter requirements help protect the public by ensuring new bondsmen receive adequate training and oversight. Additionally, requiring out-of-state sureties to use licensed local bondsmen keeps activities under state regulatory control and creates more accountability.",
+  "aiConArguments": "Opponents may argue that extending supervision from 12 to 24 months creates barriers for new entrants to the bail bonding profession and could reduce competition in the industry. The requirement that supervising bondsmen cannot charge fees while supervising up to two new licensees without compensation could discourage experienced bondsmen from taking on supervising roles. Earlier renewal deadlines (May 15 instead of June 30) may create administrative burdens for licensees managing compliance timelines.",
+  "topic": "Criminal Justice & Public Safety",
+  "textLength": 14393,
+  "createdAt": "2026-06-23T02:56:50.361Z",
+  "sponsors": [
+    {"peopleId":20516,"name":"Chris Humphrey","party":"R","isPrimary":true},
+    {"peopleId":24196,"name":"Jennifer Balkcom","party":"R","isPrimary":true},
+    {"peopleId":20522,"name":"Nasif Majeed","party":"D","isPrimary":false},
+    {"peopleId":21375,"name":"Jeffrey McNeely","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

@@ -1,0 +1,25 @@
+{
+  "billId": 1957373,
+  "billNumber": "S61",
+  "title": "I-95 Toll Prohibition",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "656eefb6249e65fce1dbd2b589e968c4",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-02-06",
+  "url": "https://legiscan.com/NC/bill/S61/2025",
+  "aiSummary": "This bill prohibits tolls on Interstate 95 in North Carolina for ten years (until July 1, 2035). After that date, any tolling of I-95 would require explicit approval from the North Carolina General Assembly rather than being allowed through current state transportation authority.",
+  "aiProArguments": "Supporters argue this protects I-95 users from new tolls that would increase travel costs for commuters and businesses relying on this major corridor. They contend that I-95 is essential infrastructure for North Carolina's economy and that toll-free access ensures equitable passage for residents who cannot afford additional fees. Proponents also believe this provides certainty and prevents surprise toll implementation during the ten-year period.",
+  "aiConArguments": "Opponents worry that prohibiting tolls limits funding options for maintaining and improving I-95, potentially leading to deferred maintenance or reduced road quality. They argue that tolls are a standard revenue mechanism used nationwide to keep highways in good condition and that this restriction could force the state to use general tax revenue instead. Critics also note that after 2035, requiring legislative approval for any tolls adds political uncertainty to future transportation planning and maintenance needs.",
+  "topic": "Transportation & Infrastructure",
+  "textLength": 4037,
+  "createdAt": "2026-06-23T03:04:34.186Z",
+  "sponsors": [
+    {"peopleId":24224,"name":"Buck Newton","party":"R","isPrimary":true},
+    {"peopleId":20504,"name":"Lisa Barnes","party":"R","isPrimary":true},
+    {"peopleId":24225,"name":"Benton Sawrey","party":"R","isPrimary":true},
+    {"peopleId":20216,"name":"Jim Burgin","party":"R","isPrimary":false},
+    {"peopleId":11858,"name":"Timothy Moffitt","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

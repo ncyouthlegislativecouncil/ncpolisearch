@@ -1,0 +1,25 @@
+{
+  "billId": 2012958,
+  "billNumber": "S411",
+  "title": "School Bus Cameras/Evidence & Contract Length",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "41765e11b96609f53f234c9cbf88dbdb",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-25",
+  "url": "https://legiscan.com/NC/bill/S411/2025",
+  "aiSummary": "This bill makes video evidence from school bus safety cameras admissible as legal proof that a vehicle failed to stop for a school bus, and extends the maximum contract length for private vendors operating these camera systems from three years to five years.",
+  "aiProArguments": "Supporters argue this bill improves school bus safety by making it easier to prosecute drivers who illegally pass stopped school buses, which endanger children. They contend that longer vendor contracts (up to five years instead of three) reduce administrative costs and provide continuity in camera system management, allowing schools to focus resources on safety rather than frequent contract renegotiations.",
+  "aiConArguments": "Opponents may be concerned that making camera footage prima facie evidence could lead to wrongful convictions if cameras malfunction or misidentify vehicles, and that defendants lose the opportunity to contest the evidence's reliability. They may also worry that longer five-year contracts reduce competitive bidding opportunities and could lock schools into unfavorable terms with vendors for extended periods.",
+  "topic": "Education",
+  "textLength": 3125,
+  "createdAt": "2026-06-23T03:07:35.140Z",
+  "sponsors": [
+    {"peopleId":11937,"name":"Ralph Hise","party":"R","isPrimary":true},
+    {"peopleId":20220,"name":"Michael Garrett","party":"D","isPrimary":false},
+    {"peopleId":17437,"name":"Thomas McInnis","party":"R","isPrimary":false},
+    {"peopleId":11862,"name":"Norman Sanderson","party":"R","isPrimary":false},
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

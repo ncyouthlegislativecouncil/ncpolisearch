@@ -1,0 +1,25 @@
+{
+  "billId": 2011019,
+  "billNumber": "S347",
+  "title": "Supporting Parents Who Serve",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "e4128decd217f4703983c0039f3c9b39",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-20",
+  "url": "https://legiscan.com/NC/bill/S347/2025",
+  "aiSummary": "This bill allows North Carolina legislators to vote through an appointed proxy for up to 16 weeks following childbirth, adoption, stillbirth, or miscarriage. The legislator must watch the session remotely via audio or video stream, file a voting designation form, and a party leader casts the vote on their behalf after other chamber members have voted.",
+  "aiProArguments": "Supporters argue this accommodates legislators during significant family events without requiring them to choose between parenting responsibilities and their legislative duties. They contend that modern technology enables meaningful participation even when physically absent, allowing the legislature to retain experienced members' voting power during temporary absences and ensuring constituents' representation continues uninterrupted.",
+  "aiConArguments": "Opponents may argue that proxy voting weakens the constitutional requirement for legislators to be physically present and accountable for votes, potentially compromising the deliberative process. They may also express concerns about establishing precedent for remote voting or question whether 16 weeks is an appropriate timeframe, and note that proxy voters cannot participate in debate or fully engage with legislative proceedings.",
+  "topic": "Local Government",
+  "textLength": 3659,
+  "createdAt": "2026-06-23T03:06:59.632Z",
+  "sponsors": [
+    {"peopleId":25858,"name":"Sophia Chitlik","party":"D","isPrimary":true},
+    {"peopleId":20223,"name":"Mujtaba Mohammed","party":"D","isPrimary":true},
+    {"peopleId":21633,"name":"Natalie Murdock","party":"D","isPrimary":false},
+    {"peopleId":22426,"name":"DeAndrea Salvador","party":"D","isPrimary":false},
+    {"peopleId":25859,"name":"Caleb Theodros","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

@@ -1,0 +1,27 @@
+{
+  "billId": 2013904,
+  "billNumber": "S555",
+  "title": "Wetlands Protection and Restoration Act",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "27c5d82559f7ba0a757db056501c5109",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-26",
+  "url": "https://legiscan.com/NC/bill/S555/2025",
+  "aiSummary": "This bill appropriates $15 million to the Department of Environmental Quality to establish a Wetlands Restoration and Protection Fund that supports wetland restoration projects, conservation easements, public education, and enforcement of wetland protection laws. The bill also expands North Carolina's definition of protected wetlands to include \"isolated wetlands\" that lost federal protection under a 2023 U.S. Supreme Court decision, bringing them back under state-level protection.",
+  "aiProArguments": "Supporters argue this bill protects important wetlands that were previously left unprotected after the Supreme Court's Sackett decision, which removed federal oversight of isolated wetlands. They contend wetlands provide critical ecosystem services including water filtration, flood control, and wildlife habitat, and that state-level protection fills a gap left by federal action. Proponents also note the bill funds monitoring, research, and public education to improve wetland conservation statewide.",
+  "aiConArguments": "Opponents may argue the $15 million appropriation represents a significant state expenditure during budget constraints and that isolated wetlands regulations could burden property owners and developers with additional permitting requirements and restrictions on land use. Some may contend that the federal court decision should be respected as the proper legal framework, and that states should not unilaterally expand protections that federal courts have limited.",
+  "topic": "Environment & Energy",
+  "textLength": 5554,
+  "createdAt": "2026-06-23T03:08:51.224Z",
+  "sponsors": [
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":true},
+    {"peopleId":22425,"name":"Julie Mayfield","party":"D","isPrimary":true},
+    {"peopleId":20220,"name":"Michael Garrett","party":"D","isPrimary":false},
+    {"peopleId":24222,"name":"Lisa Grafstein","party":"D","isPrimary":false},
+    {"peopleId":20223,"name":"Mujtaba Mohammed","party":"D","isPrimary":false},
+    {"peopleId":21633,"name":"Natalie Murdock","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

@@ -1,0 +1,22 @@
+{
+  "billId": 1991941,
+  "billNumber": "S232",
+  "title": "Central Carolina CC/Chatham Campus MCC Status",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "25edb7e6f86739f0467f1993750feff1",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-06",
+  "url": "https://legiscan.com/NC/bill/S232/2025",
+  "aiSummary": "This bill directs the State Board of Community Colleges to count students from health sciences centers together with main campuses when determining if Central Carolina Community College's Harnett and Chatham campuses meet the enrollment requirements to maintain their multicampus center status. Previously, health sciences center enrollment may have been counted separately, which could have caused campuses to fall below the threshold needed for multicampus center designation.",
+  "aiProArguments": "Supporters argue this bill protects important community college campuses and the health sciences programs they offer by ensuring they can maintain multicampus center status. They contend that health sciences students are part of the same college system and should be counted together with main campus enrollment to reflect the true size and reach of these educational facilities. This helps preserve educational access and funding for communities served by these campuses.",
+  "aiConArguments": "Opponents may argue that combining enrollment figures obscures the true enrollment numbers at individual locations and could mask declining attendance at specific campuses. They might contend that separate counting requirements exist for valid accountability reasons, and that combining numbers prevents accurate assessment of whether individual facilities are meeting sustainability benchmarks. There could also be concerns about whether this change sets a precedent for other accounting adjustments in the community college system.",
+  "topic": "Education",
+  "textLength": 1471,
+  "createdAt": "2026-06-23T03:06:00.130Z",
+  "sponsors": [
+    {"peopleId":20216,"name":"Jim Burgin","party":"R","isPrimary":true},
+    {"peopleId":21633,"name":"Natalie Murdock","party":"D","isPrimary":true}
+  ],
+  "rollCalls": []
+}

@@ -1,0 +1,29 @@
+{
+  "billId": 2146126,
+  "billNumber": "S875",
+  "title": "No Firearm Possession After DV Misdemeanors",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "23413892be26ab5e19e394fea185e920",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2026-04-29",
+  "url": "https://legiscan.com/NC/bill/S875/2025",
+  "aiSummary": "This bill prohibits people convicted of misdemeanor domestic violence offenses from purchasing or possessing firearms. It expands the definition of domestic violence relationships to include intimate partners, and appropriates $1 million for a domestic violence education program.",
+  "aiProArguments": "Supporters argue this bill protects victims by removing firearms from individuals with a history of domestic violence, since research shows domestic violence situations with firearms present have higher fatality rates. They contend that expanding the definition of 'intimate partner' closes a gap in existing law and that the education program helps prevent domestic violence before it occurs.",
+  "aiConArguments": "Opponents may argue this restricts Second Amendment rights for individuals convicted of misdemeanors rather than felonies, and that a single misdemeanor conviction—even with a suspended sentence or prayer for judgment continued—results in permanent firearm loss. They might also question whether the education funding is the most cost-effective use of $1 million or express concerns about enforcement and due process issues.",
+  "topic": "Criminal Justice & Public Safety",
+  "textLength": 3104,
+  "createdAt": "2026-06-23T03:11:29.774Z",
+  "sponsors": [
+    {"peopleId":21633,"name":"Natalie Murdock","party":"D","isPrimary":true},
+    {"peopleId":25859,"name":"Caleb Theodros","party":"D","isPrimary":true},
+    {"peopleId":25860,"name":"Woodson Bradley","party":"D","isPrimary":true},
+    {"peopleId":17147,"name":"Gale Adcock","party":"D","isPrimary":false},
+    {"peopleId":17936,"name":"Jay Chaudhuri","party":"D","isPrimary":false},
+    {"peopleId":25858,"name":"Sophia Chitlik","party":"D","isPrimary":false},
+    {"peopleId":22426,"name":"DeAndrea Salvador","party":"D","isPrimary":false},
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

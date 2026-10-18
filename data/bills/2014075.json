@@ -1,0 +1,23 @@
+{
+  "billId": 2014075,
+  "billNumber": "S576",
+  "title": "E-Bike Definition and Local Regulation",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "ba72484a6ce0c4f938eeefe2ec724bbd",
+  "lastAction": "Re-ref Com On Transportation",
+  "lastActionDate": "2025-05-06",
+  "url": "https://legiscan.com/NC/bill/S576/2025",
+  "aiSummary": "This bill clarifies North Carolina's definition of electric-assisted bicycles by establishing three classes based on motor power and speed capabilities, and authorizes cities and counties to regulate where e-bikes can be used and set safety requirements like helmet rules. The bill also requires the Department of Transportation to create educational materials about e-bike safety.",
+  "aiProArguments": "Supporters argue this bill provides much-needed clarity by establishing a clear, standardized definition of e-bikes that aligns with federal standards, reducing confusion among riders and law enforcement. They contend that giving local governments regulatory authority allows communities to balance e-bike use with public safety and protection of shared spaces like sidewalks and trails, while still permitting e-bikes on most roadways.",
+  "aiConArguments": "Opponents worry that the bill creates a patchwork of local regulations where e-bike rules vary by city and county, potentially confusing riders who travel between jurisdictions and creating inconsistent enforcement. Some also express concern that local restrictions could limit e-bike adoption and accessibility by making it difficult to use them in certain areas, contradicting efforts to promote alternative transportation.",
+  "topic": "Transportation & Infrastructure",
+  "textLength": 3648,
+  "createdAt": "2026-06-23T03:09:01.451Z",
+  "sponsors": [
+    {"peopleId":17504,"name":"Michael Lee","party":"R","isPrimary":true},
+    {"peopleId":22424,"name":"Michael Lazzara","party":"R","isPrimary":true},
+    {"peopleId":11858,"name":"Timothy Moffitt","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

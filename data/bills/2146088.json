@@ -1,0 +1,22 @@
+{
+  "billId": 2146088,
+  "billNumber": "S854",
+  "title": "Tier One County Assistance",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "5752eb545eeb7ffcad375235b6afa3f6",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2026-04-29",
+  "url": "https://legiscan.com/NC/bill/S854/2025",
+  "aiSummary": "This bill appropriates $400 million in state funds to provide grants to North Carolina's economically disadvantaged \"Tier One\" counties for projects supporting self-sufficiency, infrastructure, education, and workforce development. Counties can receive up to $10 million each and must submit proposals to the Department of Commerce for approval, with annual reporting required to track how funds are used.",
+  "aiProArguments": "Supporters argue this bill addresses genuine economic disparities in struggling rural and economically distressed counties by providing direct resources for local economic development. Proponents contend that empowering Tier One counties to design their own projects promotes effective, locally-tailored solutions to infrastructure and employment gaps while supporting long-term community self-reliance and competitiveness.",
+  "aiConArguments": "Opponents may question whether $400 million in nonrecurring state funds is the most efficient use of resources, noting the funds don't continue beyond their expenditure. Critics might also be concerned about oversight mechanisms, the vagueness of approval criteria, or whether grants truly ensure measurable economic outcomes rather than potentially ineffective spending.",
+  "topic": "Taxes & Budget",
+  "textLength": 5148,
+  "createdAt": "2026-06-23T03:11:18.724Z",
+  "sponsors": [
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":true},
+    {"peopleId":20223,"name":"Mujtaba Mohammed","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

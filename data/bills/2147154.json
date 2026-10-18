@@ -1,0 +1,28 @@
+{
+  "billId": 2147154,
+  "billNumber": "H1211",
+  "title": "Home Equity Investment Loan Act",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "40a11f9acc0cc03a3216b9e7b8ce327d",
+  "lastAction": "Ref To Com On Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2026-05-05",
+  "url": "https://legiscan.com/NC/bill/H1211/2025",
+  "aiSummary": "This bill creates a new regulatory framework for home equity investment loans in North Carolina, classifying them as residential mortgage loans and imposing consumer protections including mandatory legal counsel, housing counseling, required disclosures, and limits on the amounts companies can charge. It also prohibits mandatory arbitration clauses in covered mortgage transactions and applies to companies making, brokering, purchasing, or servicing these loans.",
+  "aiProArguments": "Supporters argue this bill protects homeowners from predatory lending practices by requiring independent legal representation, third-party housing counseling, and clear disclosure of all terms before closing. The law caps the amounts companies can charge (limiting shared appreciation to 10% of home value increases), requires companies to offer refinancing options if the loan comes due, and prevents deficiency judgments. Supporters contend these protections prevent homeowners from losing their homes to unfair deals they don't fully understand.",
+  "aiConArguments": "Opponents may argue the extensive requirements—mandatory attorney fees, housing counseling, detailed appraisals, and regulatory licensing—increase operational costs and could reduce the availability of this alternative financing option for homeowners. Some may contend that requiring companies to pay all closing costs and attorney fees makes the product less competitive, and that the strict payment caps and restrictions limit legitimate investment products that willing parties should be able to negotiate freely.",
+  "topic": "Housing",
+  "textLength": 35538,
+  "createdAt": "2026-06-23T03:03:31.431Z",
+  "sponsors": [
+    {"peopleId":24210,"name":"Tim Longest","party":"D","isPrimary":true},
+    {"peopleId":24209,"name":"Ya Liu","party":"D","isPrimary":true},
+    {"peopleId":24890,"name":"Eric Ager","party":"D","isPrimary":false},
+    {"peopleId":19238,"name":"Deb Butler","party":"D","isPrimary":false},
+    {"peopleId":25213,"name":"Tracy Clark","party":"D","isPrimary":false},
+    {"peopleId":25844,"name":"Julia Greenfield","party":"D","isPrimary":false},
+    {"peopleId":2077,"name":"Mary Harrison","party":"D","isPrimary":false},
+    {"peopleId":22606,"name":"James Roberson","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

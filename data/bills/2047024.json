@@ -1,0 +1,21 @@
+{
+  "billId": 2047024,
+  "billNumber": "S778",
+  "title": "Amend Adjournment Resolution",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "1e7e89e48d597ca58d26618cef64e8e8",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-10-21",
+  "url": "https://legiscan.com/NC/bill/S778/2025",
+  "aiSummary": "This joint resolution amends the legislature's adjournment schedule by changing when the North Carolina General Assembly will reconvene after its October recess. Instead of reconvening on an earlier date, lawmakers will now return on Monday, November 17, 2025, at 10:00 A.M.",
+  "aiProArguments": "Supporters of this amendment may argue that extending the recess period gives legislators more time to conduct constituent work in their districts, prepare for upcoming legislative priorities, and allows for more thoughtful deliberation on pending issues before returning to session.",
+  "aiConArguments": "Opponents may contend that delaying the reconvening date postpones legislative business and decision-making, potentially pushing important bills and votes further into the year and reducing the time available to complete the session's remaining work.",
+  "topic": "Other / General Government",
+  "textLength": 717,
+  "createdAt": "2026-06-23T03:13:29.633Z",
+  "sponsors": [
+    {"peopleId":12033,"name":"Warren Daniel","party":"R","isPrimary":true}
+  ],
+  "rollCalls": []
+}

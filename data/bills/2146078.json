@@ -1,0 +1,30 @@
+{
+  "billId": 2146078,
+  "billNumber": "S850",
+  "title": "Pay Teachers What They're Worth Act",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "09dd1e14c235c9f3c52a51939ca304a2",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2026-04-29",
+  "url": "https://legiscan.com/NC/bill/S850/2025",
+  "aiSummary": "This bill increases teacher salaries across North Carolina using a new monthly salary schedule for the 2026-2027 school year, reinstates education-based salary supplements for teachers with advanced degrees, establishes a $5,000 student teaching grant program to help future teachers during their training, and requires a study on long-term educator compensation strategies. The bill appropriates $1.693 billion in state funding for these initiatives.",
+  "aiProArguments": "Supporters argue this bill addresses North Carolina's teacher shortage by making educator salaries more competitive with other states and regions, which helps recruit and retain qualified teachers. They contend that supporting student teachers financially removes barriers to entering the profession and strengthens the pipeline of future educators. Additionally, reinstating education-based supplements rewards teachers who pursue advanced degrees, encouraging professional development and improving classroom instruction.",
+  "aiConArguments": "Opponents may argue that the $1.693 billion annual cost represents a significant state budget commitment that could limit funding for other priorities or require tax increases. Some may question whether salary increases alone will solve teacher shortages without addressing other workplace concerns like classroom conditions or administrative burdens. Others might express concern about the sustainability of recurring appropriations and whether the state can maintain this funding level long-term.",
+  "topic": "Education",
+  "textLength": 13158,
+  "createdAt": "2026-06-23T03:11:15.419Z",
+  "sponsors": [
+    {"peopleId":25860,"name":"Woodson Bradley","party":"D","isPrimary":true},
+    {"peopleId":17147,"name":"Gale Adcock","party":"D","isPrimary":false},
+    {"peopleId":25858,"name":"Sophia Chitlik","party":"D","isPrimary":false},
+    {"peopleId":20220,"name":"Michael Garrett","party":"D","isPrimary":false},
+    {"peopleId":20223,"name":"Mujtaba Mohammed","party":"D","isPrimary":false},
+    {"peopleId":21633,"name":"Natalie Murdock","party":"D","isPrimary":false},
+    {"peopleId":22426,"name":"DeAndrea Salvador","party":"D","isPrimary":false},
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":false},
+    {"peopleId":25859,"name":"Caleb Theodros","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

@@ -1,0 +1,27 @@
+{
+  "billId": 2144953,
+  "billNumber": "S829",
+  "title": "Drivers License Reciprocity/Taiwan",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "7b2c19fcdb21312de627406875affc99",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2026-04-23",
+  "url": "https://legiscan.com/NC/bill/S829/2025",
+  "aiSummary": "This bill clarifies that North Carolina's Commissioner of Motor Vehicles can enter into reciprocity agreements with foreign nations and directs the commissioner to negotiate an agreement with Taiwan to recognize each other's non-commercial driver's licenses. The bill requires the commissioner to first verify that Taiwan and North Carolina have comparable driver testing standards, and appropriates $5,000 for a public awareness campaign.",
+  "aiProArguments": "Supporters argue this bill facilitates trade and tourism by allowing visitors and business travelers from Taiwan to drive legally in North Carolina without obtaining a separate license, while reciprocally allowing North Carolinians to drive in Taiwan. Proponents suggest this streamlines cross-border commerce and strengthens economic ties with Taiwan, and that comparable testing standards ensure public safety is maintained.",
+  "aiConArguments": "Opponents may worry about verifying that Taiwan's driver testing standards are truly comparable to North Carolina's and question whether accepting foreign licenses adequately protects public safety. Some may also raise concerns about the administrative burden on the DMV, the appropriateness of bilateral agreements with Taiwan given complex U.S.-China relations, or whether reciprocity agreements should require legislative approval rather than just commissioner negotiation.",
+  "topic": "Transportation & Infrastructure",
+  "textLength": 3534,
+  "createdAt": "2026-06-23T03:11:03.735Z",
+  "sponsors": [
+    {"peopleId":20225,"name":"Ted Alexander","party":"R","isPrimary":true},
+    {"peopleId":17504,"name":"Michael Lee","party":"R","isPrimary":true},
+    {"peopleId":12033,"name":"Warren Daniel","party":"R","isPrimary":true},
+    {"peopleId":17936,"name":"Jay Chaudhuri","party":"D","isPrimary":false},
+    {"peopleId":25250,"name":"Dana Jones","party":"R","isPrimary":false},
+    {"peopleId":11858,"name":"Timothy Moffitt","party":"R","isPrimary":false},
+    {"peopleId":19669,"name":"Vickie Sawyer","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

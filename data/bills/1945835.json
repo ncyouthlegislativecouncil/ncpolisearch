@@ -1,0 +1,21 @@
+{
+  "billId": 1945835,
+  "billNumber": "S9",
+  "title": "1st Senatorial District Local Act-1",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "bb16609c1eec925ace51709629464c32",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-01-30",
+  "url": "https://legiscan.com/NC/bill/S9/2025",
+  "aiSummary": "This is a local bill that applies only to North Carolina's 1st Senatorial District. The bill text does not specify what changes or policies it implements—it only establishes that whatever provisions follow would apply exclusively to that district and would take effect immediately upon becoming law.",
+  "aiProArguments": "Supporters of local bills argue they allow the General Assembly to address unique needs specific to individual districts without affecting the entire state. This targeted approach enables solutions tailored to local conditions, demographics, or concerns that may not apply statewide.",
+  "aiConArguments": "Opponents of local bills raise concerns about transparency and fairness, as local acts may receive less public scrutiny than statewide legislation. Critics also question whether creating district-specific laws could lead to inconsistent policies across the state or create precedents for other districts to request similar local carve-outs.",
+  "topic": "Local Government",
+  "textLength": 500,
+  "createdAt": "2026-06-23T03:04:08.226Z",
+  "sponsors": [
+    {"peopleId":20513,"name":"Bobby Hanig","party":"R","isPrimary":true}
+  ],
+  "rollCalls": []
+}

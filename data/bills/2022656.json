@@ -1,0 +1,31 @@
+{
+  "billId": 2022656,
+  "billNumber": "H947",
+  "title": "Every Child Reads",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "bf0df430824612a0857cdc2539e158ca",
+  "lastAction": "Ref to the Com on Education - K-12, if favorable, Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-04-14",
+  "url": "https://legiscan.com/NC/bill/H947/2025",
+  "aiSummary": "This bill requires North Carolina schools to screen students for dyslexia in kindergarten through 3rd grade and grades 6 and 9, provide dyslexia training for teachers, and align middle school literacy instruction with the science of reading. It also transfers the NC Pre-K program from the Department of Health and Human Services to the Department of Public Instruction.",
+  "aiProArguments": "Supporters argue that dyslexia screening and intervention catch reading difficulties early when they are most treatable, potentially improving long-term literacy outcomes for affected students. They contend that training teachers in science-based reading methods and dyslexia identification helps all students learn to read more effectively, and that moving Pre-K to the Department of Public Instruction better aligns early education with K-12 literacy standards and accountability.",
+  "aiConArguments": "Opponents may be concerned about the costs and implementation challenges of screening all students at multiple grade levels and providing specialized teacher training across the state. Some may question whether moving Pre-K programs will maintain the quality of early childhood services, and others may worry that emphasizing science-of-reading approaches limits instructional flexibility or that additional reporting requirements create administrative burden on schools.",
+  "topic": "Education",
+  "textLength": 22002,
+  "createdAt": "2026-06-23T02:59:38.530Z",
+  "sponsors": [
+    {"peopleId":2049,"name":"Patricia Cotham","party":"R","isPrimary":true},
+    {"peopleId":24197,"name":"Brian Biggs","party":"R","isPrimary":true},
+    {"peopleId":17151,"name":"Cecil Brockman","party":"D","isPrimary":true},
+    {"peopleId":24890,"name":"Eric Ager","party":"D","isPrimary":false},
+    {"peopleId":18451,"name":"Mary Belk","party":"D","isPrimary":false},
+    {"peopleId":24198,"name":"Gloristine Brown","party":"D","isPrimary":false},
+    {"peopleId":14612,"name":"Carla Cunningham","party":"D","isPrimary":false},
+    {"peopleId":2077,"name":"Mary Harrison","party":"D","isPrimary":false},
+    {"peopleId":24206,"name":"Frances Jackson","party":"D","isPrimary":false},
+    {"peopleId":25850,"name":"Jordan Lopez","party":"D","isPrimary":false},
+    {"peopleId":17149,"name":"Brian Turner","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

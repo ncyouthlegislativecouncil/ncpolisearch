@@ -1,0 +1,24 @@
+{
+  "billId": 1993313,
+  "billNumber": "H320",
+  "title": "Town of Pineville/Reserve Police",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "c8164bf63f4355473e04509191e8fa11",
+  "lastAction": "Ref to the Com on State and Local Government, if favorable, Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-03-10",
+  "url": "https://legiscan.com/NC/bill/H320/2025",
+  "aiSummary": "This bill allows the Town of Pineville to establish a reserve police division and compensate reserve officers when they are called to work active duty shifts. Previously, the town could only have auxiliary police under state law, but this amendment creates a separate reserve division with the ability to pay these officers for their service.",
+  "aiProArguments": "Supporters argue that compensating reserve police officers makes recruitment and retention easier, allowing small towns like Pineville to maintain adequate police staffing during peak times or emergencies without relying solely on unpaid volunteers. Paid reserve officers may be more reliable and available, improving public safety response capabilities and reducing the burden on full-time officers.",
+  "aiConArguments": "Opponents may be concerned about the financial cost to the town budget, as compensation for additional officers represents a new recurring expense with no specified limit on pay rates or hours. Some argue that this could create complications regarding benefits, liability, or employment status for reserve officers compared to full-time staff.",
+  "topic": "Local Government",
+  "textLength": 1186,
+  "createdAt": "2026-06-23T02:48:19.445Z",
+  "sponsors": [
+    {"peopleId":24200,"name":"Laura Budd","party":"D","isPrimary":true},
+    {"peopleId":2049,"name":"Patricia Cotham","party":"R","isPrimary":false},
+    {"peopleId":25844,"name":"Julia Greenfield","party":"D","isPrimary":false},
+    {"peopleId":20521,"name":"Carolyn Logan","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

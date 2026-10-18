@@ -1,0 +1,23 @@
+{
+  "billId": 2011512,
+  "billNumber": "S356",
+  "title": "Global Transpark Authority Sales Tax Mods",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "8c463c064d30aa528551b05f82e2db97",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-24",
+  "url": "https://legiscan.com/NC/bill/S356/2025",
+  "aiSummary": "This bill modifies North Carolina law to require the state to refund local sales and use taxes that the Global Transpark Authority pays indirectly. The refunds would be credited back to the Authority on a quarterly basis, starting with the first full quarter after the bill becomes law.",
+  "aiProArguments": "Supporters argue that the Global Transpark Authority, as a state entity focused on economic development and transportation infrastructure, should not bear the burden of local sales taxes on its indirect purchases. They contend that refunding these taxes allows the Authority to use more of its resources for its core mission of supporting commerce and development in eastern North Carolina, benefiting the region's economy.",
+  "aiConArguments": "Opponents may argue that this refund reduces tax revenue to local governments that depend on sales tax for essential services like schools, roads, and emergency services. They contend that providing special tax treatment to one state authority could set a precedent for similar exemptions for other entities and raises questions about fairness in how public resources are distributed across the state.",
+  "topic": "Taxes & Budget",
+  "textLength": 1145,
+  "createdAt": "2026-06-23T03:07:04.642Z",
+  "sponsors": [
+    {"peopleId":25212,"name":"Bob Brinson","party":"R","isPrimary":true},
+    {"peopleId":20223,"name":"Mujtaba Mohammed","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

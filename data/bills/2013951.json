@@ -1,0 +1,23 @@
+{
+  "billId": 2013951,
+  "billNumber": "H508",
+  "title": "Lower Cap on Credit Card Interest",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "aa6fdfe68be3e43481214e3f1761e20c",
+  "lastAction": "Serial Referral To Rules, Calendar, and Operations of the House Added",
+  "lastActionDate": "2025-04-17",
+  "url": "https://legiscan.com/NC/bill/H508/2025",
+  "aiSummary": "This bill lowers the maximum interest rate that lenders can charge on credit card and revolving credit accounts in North Carolina from 1.5% per month to 1.17% per month. It also includes minor technical updates to credit card regulations regarding annual fees, late payment charges, and consumer notices.",
+  "aiProArguments": "Supporters argue this bill protects consumers by reducing the cost of credit card debt, which can accumulate quickly at high interest rates. They contend that lower interest rate caps make credit more affordable for North Carolinians struggling with consumer debt and help prevent people from falling into cycles of unmanageable debt.",
+  "aiConArguments": "Opponents argue that lowering interest rate caps may reduce credit availability, as lenders might offer fewer credit products or tighten lending standards to maintain profitability. They contend that consumers with riskier credit profiles could face higher denial rates or be pushed toward less regulated lending alternatives, and that market competition—not rate caps—better protects consumers.",
+  "topic": "Business & Labor",
+  "textLength": 6391,
+  "createdAt": "2026-06-23T02:53:54.094Z",
+  "sponsors": [
+    {"peopleId":24211,"name":"Jarrod Lowery","party":"R","isPrimary":true},
+    {"peopleId":2077,"name":"Mary Harrison","party":"D","isPrimary":false},
+    {"peopleId":24206,"name":"Frances Jackson","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

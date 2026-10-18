@@ -1,0 +1,29 @@
+{
+  "billId": 2013489,
+  "billNumber": "S454",
+  "title": "Community Safety Act",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "16ad315bc9ebf737c374c4340040fe51",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-25",
+  "url": "https://legiscan.com/NC/bill/S454/2025",
+  "aiSummary": "The Community Safety Act appropriates $7.5 million to support law enforcement agencies through grant programs, establishes minimum hiring and training standards for officers, revises use of force policies to classify certain neck restraints as deadly force and require de-escalation tactics, and creates funding for community policing initiatives and detective positions.",
+  "aiProArguments": "Supporters argue this bill strengthens public safety by improving law enforcement capacity (hiring detectives for serious crimes), promoting community-oriented policing that builds trust between officers and residents, and establishing clear professional standards for officer hiring and conduct. The use of force revisions provide clarity on prohibited tactics and emphasize de-escalation, which supporters contend protects both public safety and officer safety by reducing dangerous confrontations.",
+  "aiConArguments": "Opponents may argue the $7.5 million appropriation represents significant state spending during budgetary constraints, and that restrictions on hiring officers with expunged misdemeanors could limit the applicant pool and make recruitment harder. Some may also contend that detailed use of force regulations could complicate split-second decision-making by officers or expose agencies to litigation, while others believe the policy changes don't adequately address underlying concerns about police accountability.",
+  "topic": "Criminal Justice & Public Safety",
+  "textLength": 9327,
+  "createdAt": "2026-06-23T03:07:59.130Z",
+  "sponsors": [
+    {"peopleId":20510,"name":"Terence Everitt","party":"D","isPrimary":true},
+    {"peopleId":24222,"name":"Lisa Grafstein","party":"D","isPrimary":true},
+    {"peopleId":25860,"name":"Woodson Bradley","party":"D","isPrimary":true},
+    {"peopleId":20220,"name":"Michael Garrett","party":"D","isPrimary":false},
+    {"peopleId":20223,"name":"Mujtaba Mohammed","party":"D","isPrimary":false},
+    {"peopleId":21633,"name":"Natalie Murdock","party":"D","isPrimary":false},
+    {"peopleId":22426,"name":"DeAndrea Salvador","party":"D","isPrimary":false},
+    {"peopleId":25859,"name":"Caleb Theodros","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

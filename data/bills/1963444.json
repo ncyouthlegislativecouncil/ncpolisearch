@@ -1,0 +1,30 @@
+{
+  "billId": 1963444,
+  "billNumber": "H88",
+  "title": "SchCalFlex/Wilson/Open Cal",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "8438e7f5277d72fd6ab04f0aaaa66632",
+  "lastAction": "Ref To Com On Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-02-11",
+  "url": "https://legiscan.com/NC/bill/H88/2025",
+  "aiSummary": "This bill gives Wilson County Schools additional flexibility in setting their school calendar by allowing the State Board of Education to waive the requirement that schools open no earlier than the Monday closest to August 26, and instead permit an opening date as early as the Monday closest to August 19, if the county has experienced eight or more school closure days per year due to weather or emergencies during any four of the last ten years.",
+  "aiProArguments": "Supporters argue this bill helps Wilson County Schools better manage weather-related closures by starting the school year earlier, giving them more buffer days to accommodate unexpected closures without extending the school year. This flexibility allows the district to maintain instructional time requirements while accounting for the realities of weather disruptions in their specific region, and applies a reasonable standard based on the county's actual closure history.",
+  "aiConArguments": "Opponents may contend that allowing earlier school starts could negatively impact summer employment and activities for students and teachers, and that the bill creates unequal standards by giving Wilson County special treatment that other counties do not receive. Some may also question whether the eight-day threshold adequately reflects actual weather patterns or if the earlier opening date truly solves scheduling problems versus simply shifting them earlier in the year.",
+  "topic": "Education",
+  "textLength": 2411,
+  "createdAt": "2026-06-23T02:40:41.389Z",
+  "sponsors": [
+    {"peopleId":25854,"name":"Dante Pittman","party":"D","isPrimary":true},
+    {"peopleId":18449,"name":"Cynthia Ball","party":"D","isPrimary":false},
+    {"peopleId":18451,"name":"Mary Belk","party":"D","isPrimary":false},
+    {"peopleId":24198,"name":"Gloristine Brown","party":"D","isPrimary":false},
+    {"peopleId":2077,"name":"Mary Harrison","party":"D","isPrimary":false},
+    {"peopleId":24206,"name":"Frances Jackson","party":"D","isPrimary":false},
+    {"peopleId":19360,"name":"Marcia Morey","party":"D","isPrimary":false},
+    {"peopleId":25853,"name":"Rodney Pierce","party":"D","isPrimary":false},
+    {"peopleId":24214,"name":"Renee Price","party":"D","isPrimary":false},
+    {"peopleId":14633,"name":"Dennis Riddell","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

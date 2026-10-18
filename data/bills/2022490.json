@@ -1,0 +1,32 @@
+{
+  "billId": 2022490,
+  "billNumber": "H903",
+  "title": "Highway and Road Safety Act",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "7c85e0d86761363bd9fd3ed219fde658",
+  "lastAction": "Ref to the Com on Appropriations, if favorable, Finance, if favorable, Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-04-14",
+  "url": "https://legiscan.com/NC/bill/H903/2025",
+  "aiSummary": "This bill increases law enforcement and court resources in Mecklenburg County by adding 12 State Troopers and 5 magistrates, increases penalties for failing to stop for school buses, establishes rules for accessing highway camera videos, and funds 24-hour operation of a transportation management center in Charlotte.",
+  "aiProArguments": "Supporters argue this bill enhances public safety by increasing police presence and judicial capacity in a growing county, deters dangerous school bus violations through stricter penalties, provides accountability through vehicle registration evidence in traffic cases, protects privacy while allowing necessary access to highway camera footage, and improves traffic management through expanded center operations.",
+  "aiConArguments": "Opponents may argue the bill represents significant state spending ($3-35 million) that could be allocated elsewhere, that doubling school bus violation fines disproportionately affects lower-income drivers, that using vehicle registration as prima facie evidence may punish vehicle owners rather than actual drivers, and that highway camera policies could raise privacy concerns despite the restrictions included in the bill.",
+  "topic": "Transportation & Infrastructure",
+  "textLength": 17128,
+  "createdAt": "2026-06-23T02:59:07.716Z",
+  "sponsors": [
+    {"peopleId":20521,"name":"Carolyn Logan","party":"D","isPrimary":true},
+    {"peopleId":24200,"name":"Laura Budd","party":"D","isPrimary":true},
+    {"peopleId":14612,"name":"Carla Cunningham","party":"D","isPrimary":true},
+    {"peopleId":20522,"name":"Nasif Majeed","party":"D","isPrimary":true},
+    {"peopleId":22599,"name":"Amber Baker","party":"D","isPrimary":false},
+    {"peopleId":18451,"name":"Mary Belk","party":"D","isPrimary":false},
+    {"peopleId":24198,"name":"Gloristine Brown","party":"D","isPrimary":false},
+    {"peopleId":25844,"name":"Julia Greenfield","party":"D","isPrimary":false},
+    {"peopleId":2077,"name":"Mary Harrison","party":"D","isPrimary":false},
+    {"peopleId":20515,"name":"Zack Forde-Hawkins","party":"D","isPrimary":false},
+    {"peopleId":24206,"name":"Frances Jackson","party":"D","isPrimary":false},
+    {"peopleId":24214,"name":"Renee Price","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

@@ -1,0 +1,21 @@
+{
+  "billId": 1996434,
+  "billNumber": "S262",
+  "title": "Rescind Old Calls/Constitutional Convention",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "6f0919257d741c6265b48566b1b70466",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-11",
+  "url": "https://legiscan.com/NC/bill/S262/2025",
+  "aiSummary": "This bill rescinds all previous applications that North Carolina's General Assembly has made to Congress calling for a constitutional convention under Article V of the U.S. Constitution. Article V allows states to petition Congress for a convention to propose amendments to the U.S. Constitution, and this bill cancels any such requests North Carolina previously made before December 1, 2024.",
+  "aiProArguments": "Supporters argue that rescinding old convention calls prevents unintended consequences from outdated requests that may no longer reflect the state's priorities. They contend that allowing decades-old applications to remain active could contribute to reaching the two-thirds state threshold needed to trigger a constitutional convention, which supporters worry could open the entire Constitution to unpredictable changes. By rescinding these calls, the state maintains control over its position on constitutional amendments.",
+  "aiConArguments": "Opponents argue that rescinding these applications removes North Carolina's voice from legitimate efforts to amend the Constitution on specific issues that states may have previously agreed upon. They contend that citizens and lawmakers may have supported those original applications for important reasons, and rescinding them without demonstrating what problem this solves may undermine the democratic will expressed in earlier legislative sessions. Some may also view this as unnecessarily restricting the state's options for constitutional reform.",
+  "topic": "Other / General Government",
+  "textLength": 1311,
+  "createdAt": "2026-06-23T03:06:13.076Z",
+  "sponsors": [
+    {"peopleId":11937,"name":"Ralph Hise","party":"R","isPrimary":true}
+  ],
+  "rollCalls": []
+}

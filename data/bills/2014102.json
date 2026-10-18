@@ -1,0 +1,23 @@
+{
+  "billId": 2014102,
+  "billNumber": "S666",
+  "title": "2025 Water Safety Act",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "866be85d6af51e18ab1ba849e2941433",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-26",
+  "url": "https://legiscan.com/NC/bill/S666/2025",
+  "aiSummary": "This bill establishes a $56 million fund to help local water systems detect and remove PFAS (harmful chemicals) from drinking water and wastewater, allocates $14 million for research on PFAS treatment at UNC, sets state drinking water standards for six types of PFAS, and requires industrial facilities and treatment plants that discharge PFAS into surface waters to monitor and reduce those discharges by January 2026.",
+  "aiProArguments": "Supporters argue that PFAS contamination poses serious public health risks and that North Carolina needs state standards and funding to address this problem. They contend the bill protects drinking water and helps communities, especially poorer areas designated as 'distressed units,' afford costly treatment upgrades. Supporters also note that research funding will develop better detection and removal technologies for this emerging threat.",
+  "aiConArguments": "Opponents may argue that the $70 million total cost represents a significant state spending commitment that could affect the budget or require tax increases. Some businesses and industrial users may contend that the compliance requirements and treatment costs are expensive and burdensome, particularly for smaller facilities, though the bill provides up to 36 months to comply and allows exemptions for entities already meeting standards. Critics might also question whether state standards stricter than federal standards are necessary.",
+  "topic": "Environment & Energy",
+  "textLength": 11473,
+  "createdAt": "2026-06-23T03:09:49.569Z",
+  "sponsors": [
+    {"peopleId":17504,"name":"Michael Lee","party":"R","isPrimary":true},
+    {"peopleId":24220,"name":"Val Applewhite","party":"D","isPrimary":false},
+    {"peopleId":18465,"name":"Danny Britt","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

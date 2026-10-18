@@ -1,0 +1,21 @@
+{
+  "billId": 1991746,
+  "billNumber": "S230",
+  "title": "Expand Homestead Exclusion Inc. Elig. Limit",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "4b9a3962092b4fdd179c92f81c2f2df0",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-06",
+  "url": "https://legiscan.com/NC/bill/S230/2025",
+  "aiSummary": "This bill increases the income eligibility limit for North Carolina's elderly and disabled property tax homestead exclusion from $25,000 to $48,000, effective July 1, 2025. After 2026, the limit will adjust annually based on Social Security cost-of-living adjustments.",
+  "aiProArguments": "Supporters argue this expansion helps more low-income and fixed-income seniors and disabled residents afford to stay in their homes by reducing property tax burden. The increase reflects inflation and wage growth since the $25,000 limit was set in 2008, making the benefit relevant to current economic conditions and helping more eligible North Carolinians access tax relief.",
+  "aiConArguments": "Opponents may argue the expansion reduces county tax revenues that fund schools, roads, and local services, potentially requiring tax increases elsewhere or cuts to public services. Critics might also question whether raising the income threshold to $48,000 is the best use of public resources compared to other priorities, and whether the benefit should be means-tested differently.",
+  "topic": "Taxes & Budget",
+  "textLength": 1490,
+  "createdAt": "2026-06-23T03:05:58.986Z",
+  "sponsors": [
+    {"peopleId":14615,"name":"Carl Ford","party":"R","isPrimary":true}
+  ],
+  "rollCalls": []
+}

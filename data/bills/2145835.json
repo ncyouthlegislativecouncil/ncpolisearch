@@ -1,0 +1,24 @@
+{
+  "billId": 2145835,
+  "billNumber": "S841",
+  "title": "Garner/Town Manager Auth. Settle Claims",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "158eb55cd0f7945cc4d448ea41be1fa8",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2026-04-28",
+  "url": "https://legiscan.com/NC/bill/S841/2025",
+  "aiSummary": "This bill increases the authority of Garner's town manager to settle certain claims against the town without town council approval. It raises the limit for personal injury and property damage claims from $100 to $10,000, adds authority to settle eminent domain claims up to budgeted amounts, and adds authority to settle claims for debts owed to the town up to $10,000.",
+  "aiProArguments": "Supporters argue this bill streamlines local government by allowing the town manager to handle smaller claims more efficiently without requiring full town council meetings for routine settlements. This saves time and administrative costs while the town attorney still reviews all settlements for legal compliance, maintaining proper oversight.",
+  "aiConArguments": "Opponents may argue that increasing the town manager's settlement authority to $10,000 reduces the town council's direct oversight of how town funds are used and could lead to inconsistent settlement practices. They might contend that council members represent constituents and should maintain involvement in financial decisions, even for smaller amounts.",
+  "topic": "Local Government",
+  "textLength": 1887,
+  "createdAt": "2026-06-23T03:11:09.965Z",
+  "sponsors": [
+    {"peopleId":24222,"name":"Lisa Grafstein","party":"D","isPrimary":true},
+    {"peopleId":2033,"name":"Daniel Blue","party":"D","isPrimary":true},
+    {"peopleId":17147,"name":"Gale Adcock","party":"D","isPrimary":false},
+    {"peopleId":17936,"name":"Jay Chaudhuri","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

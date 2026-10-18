@@ -1,0 +1,21 @@
+{
+  "billId": 2146983,
+  "billNumber": "S1032",
+  "title": "Modify Emergency Judge Provisions",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "2993abd3f03a777756e081b5a22e3a62",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2026-05-05",
+  "url": "https://legiscan.com/NC/bill/S1032/2025",
+  "aiSummary": "This bill expands the reasons for which retired judges can be called back to serve as emergency judges in North Carolina courts. It adds 'court coverage need' as a new reason for assignment, including needs created by holdover sessions, administrative duties, judicial education, or as determined by the chief district court judge. The bill also appropriates $500,000 in funding for fiscal year 2026-2027 to cover costs related to emergency judges.",
+  "aiProArguments": "Supporters argue this bill helps address judicial staffing shortages and case backlogs by giving courts more flexibility to call upon qualified retired judges when needed. The expanded reasons for assignment allow courts to maintain operations during busy periods, handle administrative responsibilities, and ensure judges can attend educational programs without disrupting court schedules. The $500,000 appropriation provides necessary funding to implement these provisions.",
+  "aiConArguments": "Opponents may argue that the broader language in the bill—particularly allowing assignment 'as determined by the chief district court judge'—could lead to inconsistent or excessive use of emergency judges without clear standards. Some may be concerned about relying on retired judges rather than hiring permanent judicial staff to address systemic understaffing, or worry about whether $500,000 is sufficient funding for the expanded program. Others might question whether this approach adequately protects judicial independence if emergency assignments become too frequent.",
+  "topic": "Criminal Justice & Public Safety",
+  "textLength": 3345,
+  "createdAt": "2026-06-23T03:12:49.171Z",
+  "sponsors": [
+    {"peopleId":20223,"name":"Mujtaba Mohammed","party":"D","isPrimary":true}
+  ],
+  "rollCalls": []
+}

@@ -1,0 +1,31 @@
+{
+  "billId": 2018356,
+  "billNumber": "H655",
+  "title": "Ending Offensive Indian Mascots",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "221a801cef42c503faac9e91cc490359",
+  "lastAction": "Ref To Com On Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-04-02",
+  "url": "https://legiscan.com/NC/bill/H655/2025",
+  "aiSummary": "This bill prohibits North Carolina public schools from using American Indian mascots. It requires the State Board of Education to monitor school mascots based on definitions from the State Advisory Council on Indian Education, gives schools two years to change their mascots after receiving notice, and establishes penalties for superintendents and charter schools that fail to comply.",
+  "aiProArguments": "Supporters argue that American Indian mascots can be offensive and disrespectful to Native American communities and students. They contend that such mascots perpetuate stereotypes and create a hostile educational environment for Native American children. Proponents believe this bill protects the dignity of Indigenous peoples while ensuring all students feel welcomed and respected in public schools.",
+  "aiConArguments": "Opponents argue that the bill infringes on local control and community decision-making regarding school traditions and identity. They contend that many schools with American Indian mascots adopted them respectfully and in consultation with tribes, and that removing them may erase meaningful cultural symbols without community input. Some also question the financial costs and disruption associated with rebranding school identities, logos, and merchandise within the two-year timeline.",
+  "topic": "Education",
+  "textLength": 4303,
+  "createdAt": "2026-06-23T02:55:59.819Z",
+  "sponsors": [
+    {"peopleId":24211,"name":"Jarrod Lowery","party":"R","isPrimary":true},
+    {"peopleId":22600,"name":"Terry Brown","party":"D","isPrimary":false},
+    {"peopleId":23148,"name":"Allen Buansi","party":"D","isPrimary":false},
+    {"peopleId":24202,"name":"Maria Cervania","party":"D","isPrimary":false},
+    {"peopleId":25846,"name":"Mike Colvin","party":"D","isPrimary":false},
+    {"peopleId":2077,"name":"Mary Harrison","party":"D","isPrimary":false},
+    {"peopleId":20515,"name":"Zack Forde-Hawkins","party":"D","isPrimary":false},
+    {"peopleId":24206,"name":"Frances Jackson","party":"D","isPrimary":false},
+    {"peopleId":20521,"name":"Carolyn Logan","party":"D","isPrimary":false},
+    {"peopleId":2115,"name":"Garland Pierce","party":"D","isPrimary":false},
+    {"peopleId":25853,"name":"Rodney Pierce","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

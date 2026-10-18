@@ -1,0 +1,30 @@
+{
+  "billId": 2012905,
+  "billNumber": "S412",
+  "title": "Childcare Subsidy Rate Increase & West Pilot",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "6554a82866735351ffe10e30cbaf5b9e",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2025-03-25",
+  "url": "https://legiscan.com/NC/bill/S412/2025",
+  "aiSummary": "This bill increases child care subsidy payment rates to the 75th percentile starting July 1, 2025, and allocates $123.5 million annually for two years to fund these increases. It also creates an $8 million pilot program in western North Carolina counties affected by Hurricane Helene to help build new child care capacity through recruitment and mentoring of new providers.",
+  "aiProArguments": "Supporters argue this bill addresses critical child care shortages and affordability challenges by paying providers more competitive rates, which could help recruit and retain quality providers and reduce parent costs. The bill particularly supports rural counties and infant/toddler care with additional funding, and the Hurricane Helene pilot program helps rebuild child care infrastructure in devastated communities while supporting economic recovery.",
+  "aiConArguments": "Opponents may question the substantial cost of $123.5 million annually and whether this is the most efficient use of limited state resources compared to other priorities. Some may also be concerned about whether rate increases alone will create sufficient child care supply without addressing other barriers like licensing requirements or facilities, and whether the pilot program's nonrecurring funding creates sustainability challenges for providers beyond the two-year period.",
+  "topic": "Social Services & Welfare",
+  "textLength": 5473,
+  "createdAt": "2026-06-23T03:07:35.711Z",
+  "sponsors": [
+    {"peopleId":11937,"name":"Ralph Hise","party":"R","isPrimary":true},
+    {"peopleId":20216,"name":"Jim Burgin","party":"R","isPrimary":false},
+    {"peopleId":17936,"name":"Jay Chaudhuri","party":"D","isPrimary":false},
+    {"peopleId":25858,"name":"Sophia Chitlik","party":"D","isPrimary":false},
+    {"peopleId":18454,"name":"Kevin Corbin","party":"R","isPrimary":false},
+    {"peopleId":24222,"name":"Lisa Grafstein","party":"D","isPrimary":false},
+    {"peopleId":22425,"name":"Julie Mayfield","party":"D","isPrimary":false},
+    {"peopleId":20223,"name":"Mujtaba Mohammed","party":"D","isPrimary":false},
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

@@ -1,0 +1,22 @@
+{
+  "billId": 1993545,
+  "billNumber": "H333",
+  "title": "Jacksonville/ETJ Prohibited",
+  "status": "2",
+  "chamber": "H",
+  "changeHash": "a98e622ff870fc7fded8b977d2eaf57b",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-04-16",
+  "url": "https://legiscan.com/NC/bill/H333/2025",
+  "aiSummary": "This bill prevents the City of Jacksonville from exercising planning and development authority in its extraterritorial jurisdiction (ETJ)—the area just outside city limits where cities normally have some regulatory power. The city would only have planning authority within its actual city boundaries, though existing development regulations would remain in effect temporarily under state law.",
+  "aiProArguments": "Supporters argue this bill returns local control to unincorporated areas and residents who currently live outside Jacksonville's boundaries but are subject to its rules. They contend that people in the ETJ should not be regulated by a city they cannot vote in, and that removing Jacksonville's extraterritorial authority respects property owners' rights and local preferences in those areas.",
+  "aiConArguments": "Opponents may argue that extraterritorial jurisdiction exists to ensure coordinated planning and prevent urban sprawl at a city's edge. They contend that removing Jacksonville's planning authority over adjacent areas could lead to inconsistent development, infrastructure problems, and complications for future annexation or growth management, potentially harming both the city and surrounding communities.",
+  "topic": "Local Government",
+  "textLength": 1360,
+  "createdAt": "2026-06-23T02:48:40.114Z",
+  "sponsors": [
+    {"peopleId":11863,"name":"Phillip Shepard","party":"R","isPrimary":true},
+    {"peopleId":25852,"name":"Wyatt Gable","party":"R","isPrimary":true}
+  ],
+  "rollCalls": []
+}

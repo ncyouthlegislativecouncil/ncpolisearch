@@ -1,0 +1,27 @@
+{
+  "billId": 1986656,
+  "billNumber": "S195",
+  "title": "Protect Campus Survivors Act",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "a0b60b56aa6567417d02348c219cc7f2",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-03",
+  "url": "https://legiscan.com/NC/bill/S195/2025",
+  "aiSummary": "This bill exempts student disciplinary records containing personally identifiable information from North Carolina's public records law at public universities and community colleges. The records would remain confidential even if federal law (FERPA) would otherwise permit their release.",
+  "aiProArguments": "Supporters argue this protects student privacy and safety by preventing public access to sensitive disciplinary information that could expose survivors of sexual assault or other crimes to additional harm, harassment, or retaliation. They contend that keeping these records confidential encourages students to report misconduct and participate in institutional proceedings without fear their identities will be disclosed publicly.",
+  "aiConArguments": "Opponents may argue that exempting disciplinary records from public disclosure limits transparency and accountability at public institutions, making it harder for the public and media to monitor how universities handle serious misconduct cases. They may also express concern that broad confidentiality protections could shield institutions from public scrutiny regarding patterns of misconduct or inadequate disciplinary responses.",
+  "topic": "Education",
+  "textLength": 4964,
+  "createdAt": "2026-06-23T03:05:43.001Z",
+  "sponsors": [
+    {"peopleId":17504,"name":"Michael Lee","party":"R","isPrimary":true},
+    {"peopleId":22423,"name":"Amy Galey","party":"R","isPrimary":true},
+    {"peopleId":24223,"name":"Brad Overcash","party":"R","isPrimary":true},
+    {"peopleId":21663,"name":"David Craven","party":"R","isPrimary":false},
+    {"peopleId":11937,"name":"Ralph Hise","party":"R","isPrimary":false},
+    {"peopleId":17437,"name":"Thomas McInnis","party":"R","isPrimary":false},
+    {"peopleId":11858,"name":"Timothy Moffitt","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

@@ -1,0 +1,30 @@
+{
+  "billId": 2146488,
+  "billNumber": "S915",
+  "title": "2026 Governor's Budget",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "2cdb7b990324a127e19d0fa24519098e",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2026-04-30",
+  "url": "https://legiscan.com/NC/bill/S915/2025",
+  "aiSummary": "This is North Carolina's budget bill for the 2026-2027 fiscal year. It appropriates approximately $35.4 billion in General Fund spending for state operations, includes tax policy changes, sets employee salaries and compensation, funds K-12 and higher education, and authorizes capital improvement projects. The bill also modifies existing tax rates and creates new tax credits.",
+  "aiProArguments": "Supporters argue this budget directs resources toward education funding improvements, including teacher salary increases, literacy programs, and school resource officers. It provides funding for disaster recovery and community health initiatives, establishes new tax credits for working families and education expenses, and includes strategic workforce development investments through community colleges. The budget also maintains accountability measures and creates new programs aimed at improving student outcomes.",
+  "aiConArguments": "Critics may contend the budget relies on negative reserves (special funding mechanisms requiring asset sales and procurement savings) to balance spending, which raises questions about sustainability. Some object to specific tax policy changes or their impact on different income groups. Others may question whether education funding increases adequately address all school needs, or debate the priorities reflected in capital project allocations and agency spending levels. The bill's complexity and length (161 pages) also makes comprehensive fiscal impact analysis challenging.",
+  "topic": "Taxes & Budget",
+  "textLength": 141536,
+  "createdAt": "2026-06-23T03:11:50.846Z",
+  "sponsors": [
+    {"peopleId":12009,"name":"William Jackson","party":"R","isPrimary":true},
+    {"peopleId":11937,"name":"Ralph Hise","party":"R","isPrimary":true},
+    {"peopleId":17504,"name":"Michael Lee","party":"R","isPrimary":true},
+    {"peopleId":17147,"name":"Gale Adcock","party":"D","isPrimary":false},
+    {"peopleId":24220,"name":"Val Applewhite","party":"D","isPrimary":false},
+    {"peopleId":20223,"name":"Mujtaba Mohammed","party":"D","isPrimary":false},
+    {"peopleId":21633,"name":"Natalie Murdock","party":"D","isPrimary":false},
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":false},
+    {"peopleId":25859,"name":"Caleb Theodros","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

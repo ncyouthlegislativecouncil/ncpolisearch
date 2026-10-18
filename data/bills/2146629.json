@@ -1,0 +1,29 @@
+{
+  "billId": 2146629,
+  "billNumber": "S945",
+  "title": "Safe Camps Act",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "53293d558757842469f9cbabf4701c4c",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2026-04-30",
+  "url": "https://legiscan.com/NC/bill/S945/2025",
+  "aiSummary": "The Safe Camps Act establishes a statewide permitting and safety program for youth camps in North Carolina. It creates minimum health and safety requirements for youth camps, generally prohibits cabins in floodplains with limited exceptions, requires comprehensive emergency planning and warning systems, and mandates regular inspections. The bill also applies similar floodplain and emergency planning requirements to campgrounds.",
+  "aiProArguments": "Supporters argue this bill protects children by establishing uniform safety standards across all youth camps, including emergency preparedness for severe weather and floods. The bill ensures camps have proper communication systems, trained staff, and evacuation procedures. Floodplain restrictions reduce risks from flooding and other water-related disasters. The permitting system creates accountability and allows the public to identify licensed camps. Parents receive emergency plans and floodplain notices to make informed decisions.",
+  "aiConArguments": "Opponents may contend the bill creates significant regulatory burdens and costs for camp operators through permitting fees (up to $1,000 annually), emergency planning requirements, and compliance documentation. Floodplain restrictions could eliminate some long-established camps, particularly those on lakefront properties, limiting recreational opportunities. The rules and inspections could reduce flexibility in camp operations. Religious-sponsored facilities express concerns about government oversight, though the bill includes exemptions protecting religious doctrine. Implementation timelines and complex floodplain determinations may create operational challenges.",
+  "topic": "Criminal Justice & Public Safety",
+  "textLength": 51777,
+  "createdAt": "2026-06-23T03:12:05.192Z",
+  "sponsors": [
+    {"peopleId":19669,"name":"Vickie Sawyer","party":"R","isPrimary":true},
+    {"peopleId":25858,"name":"Sophia Chitlik","party":"D","isPrimary":true},
+    {"peopleId":17147,"name":"Gale Adcock","party":"D","isPrimary":false},
+    {"peopleId":20223,"name":"Mujtaba Mohammed","party":"D","isPrimary":false},
+    {"peopleId":21633,"name":"Natalie Murdock","party":"D","isPrimary":false},
+    {"peopleId":22426,"name":"DeAndrea Salvador","party":"D","isPrimary":false},
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":false},
+    {"peopleId":25859,"name":"Caleb Theodros","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

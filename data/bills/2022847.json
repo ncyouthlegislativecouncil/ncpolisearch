@@ -1,0 +1,28 @@
+{
+  "billId": 2022847,
+  "billNumber": "H1001",
+  "title": "Reports Related to Sexual Assault Exams",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "36b514adccb6f1baf779f22c97e00ac7",
+  "lastAction": "Ref to the Com on Health, if favorable, Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-04-14",
+  "url": "https://legiscan.com/NC/bill/H1001/2025",
+  "aiSummary": "This bill requires programs that train sexual assault nurse examiners (SANEs) in North Carolina to submit annual reports to the Board of Nursing. These reports must include the total number of graduates and information about where each graduate is employed or plans to work by county.",
+  "aiProArguments": "Supporters argue this bill helps track the distribution of trained sexual assault nurse examiners across North Carolina counties, which can identify areas with shortages of these specialized medical professionals. Having this data allows the state to better understand workforce needs and ensure sexual assault survivors have access to trained examiners throughout the state.",
+  "aiConArguments": "Opponents may be concerned about the administrative burden this reporting requirement places on nursing programs, which would need to collect and track employment information annually. Some may also question whether this data collection is the most effective way to address SANE workforce distribution, or whether the resources spent on reporting could be better used directly supporting training programs.",
+  "topic": "Healthcare",
+  "textLength": 1390,
+  "createdAt": "2026-06-23T03:00:14.654Z",
+  "sponsors": [
+    {"peopleId":25849,"name":"Monika Johnson-Hostler","party":"D","isPrimary":true},
+    {"peopleId":25845,"name":"Grant Campbell","party":"R","isPrimary":true},
+    {"peopleId":18451,"name":"Mary Belk","party":"D","isPrimary":false},
+    {"peopleId":24202,"name":"Maria Cervania","party":"D","isPrimary":false},
+    {"peopleId":25846,"name":"Mike Colvin","party":"D","isPrimary":false},
+    {"peopleId":2077,"name":"Mary Harrison","party":"D","isPrimary":false},
+    {"peopleId":24206,"name":"Frances Jackson","party":"D","isPrimary":false},
+    {"peopleId":25853,"name":"Rodney Pierce","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

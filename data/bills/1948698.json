@@ -1,0 +1,22 @@
+{
+  "billId": 1948698,
+  "billNumber": "S35",
+  "title": "Modify Local Workforce Development Board",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "014e30cd53c4e8cc6abbf6ecf74a87b3",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-02-03",
+  "url": "https://legiscan.com/NC/bill/S35/2025",
+  "aiSummary": "This bill modifies the duties of the Northeastern Workforce Development Board, which serves 10 counties in northeastern North Carolina (Dare, Currituck, Camden, Pasquotank, Perquimans, Chowan, Gates, Hyde, Tyrrell, and Washington). The bill adds a new requirement that the board use a competitive selection process to designate providers of adult and dislocated worker services under federal workforce law, with selections due by July 1, 2014 and annually thereafter.",
+  "aiProArguments": "Supporters argue that requiring a competitive selection process ensures accountability and transparency in choosing workforce service providers. By opening the selection to competition, the bill aims to help the board identify the most qualified and effective providers, potentially improving job training and employment services for adults and workers facing job displacement in the northeastern region.",
+  "aiConArguments": "Opponents may argue that adding competitive selection requirements could increase administrative burden and costs for the workforce board. They may also contend that the competitive process could be time-consuming and might disrupt continuity of services if established providers lose contracts, potentially affecting the stability and quality of workforce development programs.",
+  "topic": "Business & Labor",
+  "textLength": 1138,
+  "createdAt": "2026-06-23T03:04:20.871Z",
+  "sponsors": [
+    {"peopleId":20513,"name":"Bobby Hanig","party":"R","isPrimary":true},
+    {"peopleId":11862,"name":"Norman Sanderson","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

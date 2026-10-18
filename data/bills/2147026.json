@@ -1,0 +1,24 @@
+{
+  "billId": 2147026,
+  "billNumber": "S1009",
+  "title": "Repeal Hardened Structure Ban",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "e64702607c46f70f31fd314688c227e4",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2026-06-17",
+  "url": "https://legiscan.com/NC/bill/S1009/2025",
+  "aiSummary": "This bill repeals North Carolina's ban on hardened erosion control structures (like seawalls and jetties) and instead allows them with state regulation to prevent significant harm to private property or public beaches. It also appropriates $850,000 to update the state's Beach and Inlet Management Plan.",
+  "aiProArguments": "Supporters argue that hardened structures can protect homes, roads, infrastructure, and beaches from erosion—a growing problem in coastal North Carolina. They contend that an outright ban prevents property owners from defending their land and that regulated structures with mitigation measures can achieve erosion control while minimizing negative impacts, giving communities more flexible options to address coastal challenges.",
+  "aiConArguments": "Opponents worry that hardened structures can damage public beaches, alter natural coastal processes, harm wildlife habitats, and shift erosion problems to neighboring properties. They argue the previous ban protected the public interest and that regulation alone may be insufficient to prevent significant environmental and recreational impacts, especially if enforcement is weak or permitting becomes too permissive.",
+  "topic": "Environment & Energy",
+  "textLength": 4063,
+  "createdAt": "2026-06-23T03:12:36.312Z",
+  "sponsors": [
+    {"peopleId":25212,"name":"Bob Brinson","party":"R","isPrimary":true},
+    {"peopleId":22424,"name":"Michael Lazzara","party":"R","isPrimary":true},
+    {"peopleId":20513,"name":"Bobby Hanig","party":"R","isPrimary":true},
+    {"peopleId":11858,"name":"Timothy Moffitt","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

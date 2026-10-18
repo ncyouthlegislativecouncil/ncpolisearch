@@ -1,0 +1,29 @@
+{
+  "billId": 2022630,
+  "billNumber": "H912",
+  "title": "The Hometown Opp. for Mentoring Educators Act",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "5410828c48c005146236b8f2ee57a05d",
+  "lastAction": "Re-ref to the Com on Education - K-12, if favorable, Appropriations, if favorable, Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-04-16",
+  "url": "https://legiscan.com/NC/bill/H912/2025",
+  "aiSummary": "This bill creates the Hometown Teacher Grant Program, which provides $500 monthly salary supplements to teachers who grew up and attended school in their current school district and agree to continue teaching there. The state would allocate $10 million per year to support this program through local school districts.",
+  "aiProArguments": "Supporters argue this program addresses teacher shortages by incentivizing educators to return to and remain in their home communities, potentially reducing recruitment costs for districts. They contend that teachers with deep roots in their communities may be more committed to staying, improving stability, and that local teachers already understand their communities' needs and cultures, which could benefit students.",
+  "aiConArguments": "Opponents may argue the $500 monthly supplement ($6,000 annually) is insufficient to meaningfully impact teacher retention or recruitment compared to broader salary increases. Critics could also question whether limiting the program to only teachers from that specific district reduces competition for talent, whether $10 million annually represents the best use of education funding, and whether the program adequately supports districts with high teacher turnover or difficulty attracting local candidates.",
+  "topic": "Education",
+  "textLength": 3909,
+  "createdAt": "2026-06-23T02:59:14.657Z",
+  "sponsors": [
+    {"peopleId":22610,"name":"Matthew Winslow","party":"R","isPrimary":true},
+    {"peopleId":22614,"name":"Erin Pare","party":"R","isPrimary":true},
+    {"peopleId":22609,"name":"David Willis","party":"R","isPrimary":true},
+    {"peopleId":24197,"name":"Brian Biggs","party":"R","isPrimary":true},
+    {"peopleId":11848,"name":"James Dixon","party":"R","isPrimary":false},
+    {"peopleId":2077,"name":"Mary Harrison","party":"D","isPrimary":false},
+    {"peopleId":22616,"name":"Ray Pickett","party":"R","isPrimary":false},
+    {"peopleId":25854,"name":"Dante Pittman","party":"D","isPrimary":false},
+    {"peopleId":24219,"name":"Bill Ward","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

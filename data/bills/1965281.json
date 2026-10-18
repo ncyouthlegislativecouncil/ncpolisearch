@@ -1,0 +1,22 @@
+{
+  "billId": 1965281,
+  "billNumber": "S80",
+  "title": "Broaden Electronic Notice Authorization",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "793d9fd711562daff7673e936cd3f97f",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-02-12",
+  "url": "https://legiscan.com/NC/bill/S80/2025",
+  "aiSummary": "This bill expands which North Carolina towns are allowed to send official public notices through electronic means (like websites) instead of only traditional methods like newspapers or mail. The bill adds six additional towns to an existing program that previously applied to only five towns in the Wake County area.",
+  "aiProArguments": "Supporters argue this bill modernizes government communication by allowing towns to use cost-effective electronic methods to reach residents who regularly access the internet. Expanding electronic notice authority to more towns could reduce printing and mailing costs while making notices more accessible and environmentally friendly, and the bill maintains that state law requirements for notifying specific people by mail or posting signs are still required.",
+  "aiConArguments": "Opponents may argue that relying on electronic notices could exclude residents without reliable internet access or digital literacy, potentially missing elderly or low-income populations. They might also express concern that shifting away from traditional publications like newspapers reduces public transparency and awareness, since fewer people may encounter notices posted only online compared to newspaper publications that reach broader audiences.",
+  "topic": "Local Government",
+  "textLength": 1387,
+  "createdAt": "2026-06-23T03:04:43.667Z",
+  "sponsors": [
+    {"peopleId":24222,"name":"Lisa Grafstein","party":"D","isPrimary":true},
+    {"peopleId":20510,"name":"Terence Everitt","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

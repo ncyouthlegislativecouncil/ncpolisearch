@@ -1,0 +1,29 @@
+{
+  "billId": 1991672,
+  "billNumber": "H292",
+  "title": "SchCalFlex/Gaston/Open Cal",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "5b7830deca3d1416a4bc89bf32ffff7d",
+  "lastAction": "Ref to the Com on Education - K-12, if favorable, Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-03-06",
+  "url": "https://legiscan.com/NC/bill/H292/2025",
+  "aiSummary": "This bill allows Gaston County Schools to start the school year earlier than the current state requirement of no earlier than the Monday closest to August 26. With State Board of Education approval for good cause, Gaston County Schools could begin as early as the Monday closest to August 19, provided the calendar includes enough days to accommodate potential weather-related closures.",
+  "aiProArguments": "Supporters argue this gives Gaston County Schools flexibility to better manage their calendar around frequent weather closures. The bill allows an earlier start date only when schools have documented a need (8+ closure days in 4 of the last 10 years due to weather or emergencies), which supporters say helps ensure adequate instructional time while accommodating the county's specific circumstances.",
+  "aiConArguments": "Opponents may be concerned that allowing earlier start dates, even with restrictions, could disadvantage students and families who rely on summer employment, childcare arrangements, or tourism-dependent businesses. Critics might also question whether a one-week earlier start date is the best solution compared to other calendar adjustments, and whether creating county-specific exceptions undermines statewide educational standards.",
+  "topic": "Education",
+  "textLength": 2461,
+  "createdAt": "2026-06-23T02:47:34.197Z",
+  "sponsors": [
+    {"peopleId":11866,"name":"John Torbett","party":"R","isPrimary":true},
+    {"peopleId":22965,"name":"Donnie Loftis","party":"R","isPrimary":true},
+    {"peopleId":18451,"name":"Mary Belk","party":"D","isPrimary":false},
+    {"peopleId":19238,"name":"Deb Butler","party":"D","isPrimary":false},
+    {"peopleId":2044,"name":"Becky Carney","party":"D","isPrimary":false},
+    {"peopleId":2077,"name":"Mary Harrison","party":"D","isPrimary":false},
+    {"peopleId":20515,"name":"Zack Forde-Hawkins","party":"D","isPrimary":false},
+    {"peopleId":24206,"name":"Frances Jackson","party":"D","isPrimary":false},
+    {"peopleId":25853,"name":"Rodney Pierce","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

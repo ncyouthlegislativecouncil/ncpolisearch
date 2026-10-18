@@ -1,0 +1,24 @@
+{
+  "billId": 2001104,
+  "billNumber": "S271",
+  "title": "Permitted Trade Practices/Insurance Rebates.-AB",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "a83639cf024bc352d99aa7fad5ba435d",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-13",
+  "url": "https://legiscan.com/NC/bill/S271/2025",
+  "aiSummary": "This bill clarifies what insurance companies and agents are allowed to offer customers without it being considered an illegal rebate. It permits insurers and producers to offer value-added products or services (like loss prevention education, financial wellness programs, or health incentives), non-cash gifts up to $250 per policy term, and drawings or raffles, provided these offerings meet specific criteria and are not unfairly discriminatory.",
+  "aiProArguments": "Supporters argue this bill modernizes insurance regulations to allow insurers to offer beneficial services that help customers manage risks and improve their financial and physical health without penalizing insurers. The bill enables insurance companies to remain competitive by offering innovative value-added services while maintaining consumer protections through cost limits, non-discrimination requirements, and Department of Insurance oversight. Proponents contend this clarification removes regulatory uncertainty and allows insurers to better serve customers.",
+  "aiConArguments": "Opponents may argue that permitting these practices, even with restrictions, could blur the line between legitimate services and improper inducements that effectively lower prices illegally. Critics might worry that the criteria for determining what qualifies as legitimate value-added services versus hidden discounts could be difficult to enforce consistently, or that allowing pilot programs for one year with only a 21-day Department review period provides insufficient consumer protection and regulatory oversight.",
+  "topic": "Business & Labor",
+  "textLength": 9392,
+  "createdAt": "2026-06-23T03:06:17.336Z",
+  "sponsors": [
+    {"peopleId":20222,"name":"Todd Johnson","party":"R","isPrimary":true},
+    {"peopleId":18465,"name":"Danny Britt","party":"R","isPrimary":true},
+    {"peopleId":24226,"name":"Eddie Settle","party":"R","isPrimary":true},
+    {"peopleId":18454,"name":"Kevin Corbin","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

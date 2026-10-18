@@ -1,0 +1,27 @@
+{
+  "billId": 2019939,
+  "billNumber": "H783",
+  "title": "Funds for Sidekicks Academy",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "fcf7047ea613f96cd07581d73063b577",
+  "lastAction": "Ref to the Com on Appropriations, if favorable, Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-04-07",
+  "url": "https://legiscan.com/NC/bill/H783/2025",
+  "aiSummary": "This bill appropriates $100,000 in state funds for the 2025-2026 fiscal year to Sidekicks Academy, Inc., a program serving students in Durham Public Schools through martial arts training and character development. The funds are designated for operating expenses including equipment, staff salaries, and educational field trips.",
+  "aiProArguments": "Supporters argue this bill funds a valuable program that helps marginalized and at-risk youth in Durham through martial arts training combined with character development and community support. They contend the program creates a safe, inclusive environment that empowers students to reach their potential, with funds directly supporting essential needs like equipment, staff compensation, and educational experiences that broaden students' horizons.",
+  "aiConArguments": "Opponents may question whether a one-time $100,000 appropriation to a specific private organization represents the best use of limited state education funds, and whether general education funding should be prioritized instead. Some may also raise concerns about the sustainability of the program after these nonrecurring funds end, or whether similar programs serving similar populations should be evaluated comparatively for state support.",
+  "topic": "Education",
+  "textLength": 1628,
+  "createdAt": "2026-06-23T02:57:36.245Z",
+  "sponsors": [
+    {"peopleId":21631,"name":"Vernetta Alston","party":"D","isPrimary":true},
+    {"peopleId":20515,"name":"Zack Forde-Hawkins","party":"D","isPrimary":true},
+    {"peopleId":24208,"name":"Ray Jeffers","party":"D","isPrimary":true},
+    {"peopleId":19360,"name":"Marcia Morey","party":"D","isPrimary":true},
+    {"peopleId":25844,"name":"Julia Greenfield","party":"D","isPrimary":false},
+    {"peopleId":24206,"name":"Frances Jackson","party":"D","isPrimary":false},
+    {"peopleId":25849,"name":"Monika Johnson-Hostler","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

@@ -1,0 +1,29 @@
+{
+  "billId": 2013181,
+  "billNumber": "S453",
+  "title": "Homebuyer Fairness & Protection Act",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "6263ac1598920168084f12b08e4043fc",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-25",
+  "url": "https://legiscan.com/NC/bill/S453/2025",
+  "aiSummary": "This bill limits the amount of 'due diligence funds' (nonrefundable money paid to sellers upon offer acceptance) to 1% of the purchase price in residential real estate transactions, making any higher amounts void and unenforceable. It also appropriates $10 million to the North Carolina Housing Coalition to support homebuyer education services.",
+  "aiProArguments": "Supporters argue this bill protects homebuyers from excessive upfront costs that can strain finances and limit access to homeownership. They contend that capping due diligence funds at 1% makes the home buying process more fair and affordable while the $10 million in homebuyer education funding helps consumers make informed decisions about one of the largest purchases of their lives.",
+  "aiConArguments": "Opponents may argue that due diligence funds are important to sellers as protection against buyer cancellations and losses, and that limiting these funds could reduce seller incentive to negotiate fairly. They may also contend that the market should determine these amounts rather than state government setting a cap, and question whether $10 million in education spending is the most efficient use of state funds.",
+  "topic": "Housing",
+  "textLength": 2442,
+  "createdAt": "2026-06-23T03:07:58.539Z",
+  "sponsors": [
+    {"peopleId":20510,"name":"Terence Everitt","party":"D","isPrimary":true},
+    {"peopleId":25860,"name":"Woodson Bradley","party":"D","isPrimary":true},
+    {"peopleId":24222,"name":"Lisa Grafstein","party":"D","isPrimary":true},
+    {"peopleId":20220,"name":"Michael Garrett","party":"D","isPrimary":false},
+    {"peopleId":20223,"name":"Mujtaba Mohammed","party":"D","isPrimary":false},
+    {"peopleId":21633,"name":"Natalie Murdock","party":"D","isPrimary":false},
+    {"peopleId":22426,"name":"DeAndrea Salvador","party":"D","isPrimary":false},
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

@@ -1,0 +1,27 @@
+{
+  "billId": 2014141,
+  "billNumber": "S661",
+  "title": "Protect Moms Who Serve",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "bcc82ac200e139314d4414314a248482",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-26",
+  "url": "https://legiscan.com/NC/bill/S661/2025",
+  "aiSummary": "This bill directs the North Carolina Department of Health and Human Services to study health issues affecting women who serve in the military, including maternity care coordination, access to support services, mental health during pregnancy and postpartum periods, and maternal mortality disparities. The bill appropriates $100,000 for the study and requires a report to legislative committees by April 1, 2026.",
+  "aiProArguments": "Supporters argue that military women face unique health challenges that deserve focused attention, including barriers to coordinated maternity care between military and civilian providers. They contend this study will identify gaps in services and provide evidence-based recommendations to improve outcomes for pregnant and postpartum veterans, particularly addressing racial and ethnic disparities in maternal health, which is a recognized national concern.",
+  "aiConArguments": "Opponents may question whether a $100,000 study is the most efficient use of state funds when existing veterans health services and state maternal health programs could potentially address these issues. Some might argue that targeted solutions based on existing data would be more effective than conducting a study, or that resources would be better directed to immediate implementation of known interventions rather than additional research.",
+  "topic": "Healthcare",
+  "textLength": 2766,
+  "createdAt": "2026-06-23T03:09:46.814Z",
+  "sponsors": [
+    {"peopleId":24220,"name":"Val Applewhite","party":"D","isPrimary":true},
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":true},
+    {"peopleId":25860,"name":"Woodson Bradley","party":"D","isPrimary":false},
+    {"peopleId":25858,"name":"Sophia Chitlik","party":"D","isPrimary":false},
+    {"peopleId":20223,"name":"Mujtaba Mohammed","party":"D","isPrimary":false},
+    {"peopleId":21633,"name":"Natalie Murdock","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

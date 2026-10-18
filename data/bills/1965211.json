@@ -1,0 +1,23 @@
+{
+  "billId": 1965211,
+  "billNumber": "S82",
+  "title": "Compact to Award Prizes for Curing Disease",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "9c24f1a3395d57480f39b9614c8db8f1",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-02-12",
+  "url": "https://legiscan.com/NC/bill/S82/2025",
+  "aiSummary": "This bill enacts North Carolina's participation in a multi-state compact that awards monetary prizes to individuals or entities who develop cures for major diseases. The compact creates an interstate commission funded by member states and non-member royalty fees, which evaluates disease treatments, awards prizes equal to estimated five-year public health savings, and ensures cures are made widely available by requiring prize winners to transfer intellectual property rights.",
+  "aiProArguments": "Supporters argue this creates a powerful financial incentive for breakthrough medical research by offering substantial prize money based on real public health savings from curing diseases. The compact pools resources across multiple states to generate larger prizes than any single state could offer, potentially accelerating development of cures for devastating illnesses like cancer. Prize money comes from actual health cost savings and royalties from non-member states, not general tax revenue, and participating states only pay based on their actual documented savings.",
+  "aiConArguments": "Opponents may worry about the administrative complexity and costs of establishing a new interstate commission with unclear operational expenses. Some question whether the prize amounts will truly be sufficient to incentivize drug development compared to traditional patent and market systems, and whether requiring intellectual property transfer might discourage innovation. Additionally, states remain financially liable for prize payments even after withdrawal, and the compact requires significant actuarial calculations to determine disease savings amounts, creating potential disputes over accuracy and fairness.",
+  "topic": "Healthcare",
+  "textLength": 41109,
+  "createdAt": "2026-06-23T03:04:44.858Z",
+  "sponsors": [
+    {"peopleId":20216,"name":"Jim Burgin","party":"R","isPrimary":true},
+    {"peopleId":17437,"name":"Thomas McInnis","party":"R","isPrimary":false},
+    {"peopleId":11858,"name":"Timothy Moffitt","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

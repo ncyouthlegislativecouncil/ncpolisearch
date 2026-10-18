@@ -1,0 +1,22 @@
+{
+  "billId": 1959024,
+  "billNumber": "S65",
+  "title": "Restore Down-Zoning/Buncombe Co",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "1d8be432424c1e03c619cf4aa609e48a",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-02-10",
+  "url": "https://legiscan.com/NC/bill/S65/2025",
+  "aiSummary": "This bill restores Buncombe County's ability to initiate down-zoning (reducing allowed development density or permitted uses on properties) without obtaining written consent from all affected property owners. It reverses a restriction that was added in December 2024, allowing the local government to enact down-zoning on its own authority while still requiring owner consent for down-zoning initiated by others.",
+  "aiProArguments": "Supporters argue this bill gives Buncombe County essential tools for land use planning and community development. They contend that requiring unanimous property owner consent for all down-zoning prevents local governments from implementing comprehensive zoning plans, protecting neighborhood character, managing growth, or addressing regional planning needs. Allowing local governments to initiate down-zoning enables elected officials to respond to constituent concerns and make decisions in the broader community interest.",
+  "aiConArguments": "Opponents argue that down-zoning reduces property values and development rights, and property owners should have strong protections against having their land's permitted uses restricted without their agreement. They contend that allowing local governments unilateral down-zoning authority creates an imbalance where property owners lose rights without compensation, potentially leading to arbitrary or politically motivated zoning decisions that burden individual landowners for community benefit.",
+  "topic": "Local Government",
+  "textLength": 1889,
+  "createdAt": "2026-06-23T03:04:36.953Z",
+  "sponsors": [
+    {"peopleId":22425,"name":"Julie Mayfield","party":"D","isPrimary":true},
+    {"peopleId":17457,"name":"Paul Lowe","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

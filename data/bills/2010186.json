@@ -1,0 +1,23 @@
+{
+  "billId": 2010186,
+  "billNumber": "S327",
+  "title": "NC Bitcoin Reserve and Investment Act",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "bebab9d7a7bae41b56b3e61b1092138c",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-19",
+  "url": "https://legiscan.com/NC/bill/S327/2025",
+  "aiSummary": "This bill would authorize North Carolina's State Treasurer to invest up to 10% of public funds into Bitcoin as a long-term strategic reserve. The Bitcoin would be held securely by the state, managed by a new department within the Treasurer's office, and could only be used for emergencies, approved investments, infrastructure projects, or research with approval from the General Assembly.",
+  "aiProArguments": "Supporters argue that Bitcoin represents a valuable long-term investment that could generate returns and diversify the state's financial portfolio. They contend that holding a Bitcoin reserve positions North Carolina as an innovative leader in cryptocurrency adoption, potentially attracting tech businesses and talent to the state while providing a hedge against inflation and currency devaluation.",
+  "aiConArguments": "Opponents raise concerns about the volatility and speculative nature of Bitcoin, arguing that public funds should be invested conservatively rather than in high-risk assets. Critics worry about cyber security threats to the reserve, the legitimacy and regulatory uncertainty of cryptocurrency investments, and question whether this diverts limited public resources away from traditional essential services like education, infrastructure, and healthcare.",
+  "topic": "Taxes & Budget",
+  "textLength": 4324,
+  "createdAt": "2026-06-23T03:06:49.419Z",
+  "sponsors": [
+    {"peopleId":20222,"name":"Todd Johnson","party":"R","isPrimary":true},
+    {"peopleId":24223,"name":"Brad Overcash","party":"R","isPrimary":true},
+    {"peopleId":11858,"name":"Timothy Moffitt","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

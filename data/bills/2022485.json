@@ -1,0 +1,26 @@
+{
+  "billId": 2022485,
+  "billNumber": "H899",
+  "title": "Return Oversight of OSFM to DOI Commissioner",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "92b188957cc724620b8221190ade8c1b",
+  "lastAction": "Ref To Com On Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-04-14",
+  "url": "https://legiscan.com/NC/bill/H899/2025",
+  "aiSummary": "This bill eliminates the independent Office of the State Fire Marshal and returns its oversight to the Commissioner of the Department of Insurance. Current employees and rules would continue under the Commissioner's authority, with the transition occurring October 1, 2025.",
+  "aiProArguments": "Supporters argue this consolidation streamlines state government by reducing administrative overhead and eliminating a separate bureaucratic layer. They contend that placing the State Fire Marshal under the Department of Insurance Commissioner improves coordination between fire safety and insurance regulation, since both involve risk management, and may reduce costs through eliminating redundant positions and operations.",
+  "aiConArguments": "Opponents argue that removing the State Fire Marshal's independence could compromise fire safety oversight by subordinating it to insurance-focused priorities rather than public safety. They worry the change reduces accountability and specialized focus on firefighting issues, and that consolidating fire marshal functions into a larger department may lead to neglect of fire safety programs and reduced responsiveness to the fire service community.",
+  "topic": "Local Government",
+  "textLength": 2555,
+  "createdAt": "2026-06-23T02:59:05.511Z",
+  "sponsors": [
+    {"peopleId":2034,"name":"John Blust","party":"R","isPrimary":true},
+    {"peopleId":2077,"name":"Mary Harrison","party":"D","isPrimary":false},
+    {"peopleId":20519,"name":"Keith Kidwell","party":"R","isPrimary":false},
+    {"peopleId":22613,"name":"Ben Moss","party":"R","isPrimary":false},
+    {"peopleId":24219,"name":"Bill Ward","party":"R","isPrimary":false},
+    {"peopleId":18495,"name":"Donna White","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

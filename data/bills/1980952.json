@@ -1,0 +1,26 @@
+{
+  "billId": 1980952,
+  "billNumber": "S143",
+  "title": "Disabled Veteran Property Tax Exemption",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "39302a86cbc586341914ad1c0f382773",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-02-25",
+  "url": "https://legiscan.com/NC/bill/S143/2025",
+  "aiSummary": "This bill expands the disabled veteran property tax homestead exclusion in North Carolina by increasing the excluded property value from an unspecified amount to $45,000. This means disabled veterans who own and occupy their primary residence can exclude the first $45,000 of their home's appraised value from property taxation, effective for tax years beginning July 1, 2025.",
+  "aiProArguments": "Supporters argue this expansion provides meaningful financial relief to disabled veterans who have sacrificed for the state, helping them afford to keep their homes and reducing their tax burden. The increased exclusion amount makes the benefit more substantial and better reflects current property values, potentially assisting veterans living on fixed military disability compensation or limited incomes.",
+  "aiConArguments": "Opponents may argue that expanding the exclusion reduces property tax revenue for local governments and schools that depend on this funding, potentially requiring tax increases elsewhere or cuts to services. They may also question whether the $45,000 exclusion is the appropriate level or whether other forms of veteran support would be more effective uses of public resources.",
+  "topic": "Taxes & Budget",
+  "textLength": 1118,
+  "createdAt": "2026-06-23T03:05:16.840Z",
+  "sponsors": [
+    {"peopleId":20513,"name":"Bobby Hanig","party":"R","isPrimary":true},
+    {"peopleId":20225,"name":"Ted Alexander","party":"R","isPrimary":false},
+    {"peopleId":24220,"name":"Val Applewhite","party":"D","isPrimary":false},
+    {"peopleId":25250,"name":"Dana Jones","party":"R","isPrimary":false},
+    {"peopleId":17457,"name":"Paul Lowe","party":"D","isPrimary":false},
+    {"peopleId":20223,"name":"Mujtaba Mohammed","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

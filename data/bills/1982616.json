@@ -1,0 +1,21 @@
+{
+  "billId": 1982616,
+  "billNumber": "S158",
+  "title": "Funds for McCrorey YMCA/Flying Classroom",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "5a732e263fdd48a71d7ffdc2e6a30321",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2025-02-26",
+  "url": "https://legiscan.com/NC/bill/S158/2025",
+  "aiSummary": "This bill appropriates $100,000 in state funds for the 2025-2026 fiscal year to the McCrorey YMCA of Charlotte to support its Flying Classroom program, which provides educational experiences in science, technology, mathematics, and literacy through expeditionary and immersive learning.",
+  "aiProArguments": "Supporters argue that the Flying Classroom program provides valuable hands-on, experiential learning that engages students in STEM and literacy education. They contend that this directed grant funds an innovative educational program that benefits Charlotte-area students and complements traditional classroom instruction with immersive learning opportunities.",
+  "aiConArguments": "Opponents may argue that directing state general funds to a specific private organization raises questions about government spending priorities and equity, since similar organizations in other regions might not receive equivalent funding. Some may also question whether this is the most effective use of limited education funding compared to other statewide initiatives.",
+  "topic": "Education",
+  "textLength": 1049,
+  "createdAt": "2026-06-23T03:05:25.687Z",
+  "sponsors": [
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":true}
+  ],
+  "rollCalls": []
+}

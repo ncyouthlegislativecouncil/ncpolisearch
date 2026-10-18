@@ -1,0 +1,23 @@
+{
+  "billId": 1983484,
+  "billNumber": "S166",
+  "title": "Repeal Limitations On Auxiliary Containers",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "db25112c5c3eb70775d65f871ef09848",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-02-26",
+  "url": "https://legiscan.com/NC/bill/S166/2025",
+  "aiSummary": "This bill repeals two North Carolina laws that currently limit the use of auxiliary containers in counties and municipalities. Auxiliary containers are additional waste or recycling receptacles beyond standard service. The bill would remove state-level restrictions on how many of these containers local governments can require residents to use or manage.",
+  "aiProArguments": "Supporters argue this bill gives local governments more flexibility to manage waste and recycling services based on community needs. By removing state limitations, counties and cities could expand recycling or waste management programs without being restricted by state law. This allows local decision-making to better address waste management challenges specific to each region.",
+  "aiConArguments": "Opponents may argue that removing these protections could increase costs for residents who would need to maintain additional containers. Without state-level limitations, some worry that local governments could impose excessive container requirements that burden households. Concerns also exist that repealing statewide standards could create inconsistent policies across different communities.",
+  "topic": "Local Government",
+  "textLength": 543,
+  "createdAt": "2026-06-23T03:05:29.377Z",
+  "sponsors": [
+    {"peopleId":22425,"name":"Julie Mayfield","party":"D","isPrimary":true},
+    {"peopleId":21633,"name":"Natalie Murdock","party":"D","isPrimary":true},
+    {"peopleId":25858,"name":"Sophia Chitlik","party":"D","isPrimary":true}
+  ],
+  "rollCalls": []
+}

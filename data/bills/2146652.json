@@ -1,0 +1,33 @@
+{
+  "billId": 2146652,
+  "billNumber": "H1135",
+  "title": "Modify Mileage and Per Diem",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "7e8675b681adadedacd1b34719fd8c97",
+  "lastAction": "Ref to the Com on Appropriations, if favorable, Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2026-05-04",
+  "url": "https://legiscan.com/NC/bill/H1135/2025",
+  "aiSummary": "This bill updates the mileage reimbursement rate and per diem (daily meal and lodging allowance) for North Carolina legislators starting in 2027 to match the 2025 federal rates set by the Internal Revenue Service. The bill appropriates $100,000 to cover implementation costs and the increased expenses from these updated rates.",
+  "aiProArguments": "Supporters argue that tying legislator reimbursements to federal rates ensures compensation keeps pace with actual travel costs and inflation, preventing outdated rates from disadvantaging legislators who represent distant districts. This approach aligns North Carolina with federal standards and may help recruit and retain legislators from rural areas who face higher travel expenses.",
+  "aiConArguments": "Opponents may argue that increasing legislator reimbursements raises state spending during a time when budget constraints exist, and question whether pay and benefits for elected officials should increase when many constituents face financial challenges. Some may also contend that the $100,000 appropriation underestimates the true cost of these increases or that legislator compensation should be determined through a separate, more transparent process rather than automatic adjustments.",
+  "topic": "Taxes & Budget",
+  "textLength": 3780,
+  "createdAt": "2026-06-23T03:02:17.572Z",
+  "sponsors": [
+    {"peopleId":20521,"name":"Carolyn Logan","party":"D","isPrimary":true},
+    {"peopleId":2077,"name":"Mary Harrison","party":"D","isPrimary":true},
+    {"peopleId":22606,"name":"James Roberson","party":"D","isPrimary":true},
+    {"peopleId":18451,"name":"Mary Belk","party":"D","isPrimary":false},
+    {"peopleId":19238,"name":"Deb Butler","party":"D","isPrimary":false},
+    {"peopleId":24202,"name":"Maria Cervania","party":"D","isPrimary":false},
+    {"peopleId":25213,"name":"Tracy Clark","party":"D","isPrimary":false},
+    {"peopleId":26662,"name":"Amanda Cook","party":"D","isPrimary":false},
+    {"peopleId":20509,"name":"Allison Dahle","party":"D","isPrimary":false},
+    {"peopleId":25844,"name":"Julia Greenfield","party":"D","isPrimary":false},
+    {"peopleId":25850,"name":"Jordan Lopez","party":"D","isPrimary":false},
+    {"peopleId":20522,"name":"Nasif Majeed","party":"D","isPrimary":false},
+    {"peopleId":24214,"name":"Renee Price","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

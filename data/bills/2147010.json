@@ -1,0 +1,28 @@
+{
+  "billId": 2147010,
+  "billNumber": "S1061",
+  "title": "Protect Moms Who Serve",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "32e5677fb9861034ce1e795c1aefc092",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2026-05-05",
+  "url": "https://legiscan.com/NC/bill/S1061/2025",
+  "aiSummary": "This bill directs the North Carolina Department of Health and Human Services to conduct a study on health issues affecting women who serve in the military, with a focus on maternity care, mental health, and reducing maternal mortality. The department will work with the Department of Military and Veterans Affairs, gather input from military mothers, and report findings and legislative recommendations by April 1, 2027. The bill appropriates $100,000 for this study.",
+  "aiProArguments": "Supporters argue that women military veterans face unique health challenges during pregnancy and postpartum periods that may not be adequately addressed by current health care systems. This study could identify gaps in coordination between military and civilian health care providers, improve access to maternity services and mental health support for veteran mothers, and help reduce maternal mortality rates—particularly among racial and ethnic minority women. The research may lead to targeted legislative solutions that improve outcomes for this underserved population.",
+  "aiConArguments": "Opponents may question whether a $100,000 study is the most efficient use of state funds, or argue that existing federal VA resources should be sufficient to address these issues without additional state-level research. Some may also be concerned about the timeline and whether the April 2027 deadline is realistic for completing a comprehensive study, or whether the recommendations will actually lead to meaningful policy changes or if the study represents duplication of efforts already underway at the federal level.",
+  "topic": "Healthcare",
+  "textLength": 3080,
+  "createdAt": "2026-06-23T03:13:02.880Z",
+  "sponsors": [
+    {"peopleId":24220,"name":"Val Applewhite","party":"D","isPrimary":true},
+    {"peopleId":21633,"name":"Natalie Murdock","party":"D","isPrimary":true},
+    {"peopleId":20505,"name":"Sydney Batch","party":"D","isPrimary":false},
+    {"peopleId":25858,"name":"Sophia Chitlik","party":"D","isPrimary":false},
+    {"peopleId":20223,"name":"Mujtaba Mohammed","party":"D","isPrimary":false},
+    {"peopleId":22426,"name":"DeAndrea Salvador","party":"D","isPrimary":false},
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

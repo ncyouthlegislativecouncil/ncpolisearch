@@ -1,0 +1,21 @@
+{
+  "billId": 2146251,
+  "billNumber": "S880",
+  "title": "Funds for Town of Macclesfield Equipment",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "f1fe18f2fbc5453e5248dcc7376ea5c4",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2026-04-29",
+  "url": "https://legiscan.com/NC/bill/S880/2025",
+  "aiSummary": "This bill allocates $100,000 in state funds to the Town of Macclesfield for purchasing equipment during the 2026-2027 fiscal year. The funds are designated as a one-time (nonrecurring) grant and take effect on July 1, 2026.",
+  "aiProArguments": "Supporters argue this funding helps a small town obtain necessary equipment it could not otherwise afford, potentially improving municipal services or operations. The grant may address specific local needs identified by town leadership and contribute to the town's infrastructure or service delivery capabilities.",
+  "aiConArguments": "Opponents may question whether directing state funds to a specific town is the best use of limited resources when many communities have similar needs, or whether the bill provides sufficient detail about what equipment will be purchased and how it benefits the broader public interest. Some may argue that one-time funding creates budget challenges if ongoing resources are later needed to maintain or support the equipment.",
+  "topic": "Taxes & Budget",
+  "textLength": 762,
+  "createdAt": "2026-06-23T03:11:32.165Z",
+  "sponsors": [
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":true}
+  ],
+  "rollCalls": []
+}

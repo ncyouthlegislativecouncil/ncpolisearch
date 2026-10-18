@@ -1,0 +1,28 @@
+{
+  "billId": 1999597,
+  "billNumber": "S265",
+  "title": "Protecting Our Community Act",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "4b0a56e066607e8ea719f8511577f9dd",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-12",
+  "url": "https://legiscan.com/NC/bill/S265/2025",
+  "aiSummary": "This bill creates a state regulatory system for hemp-derived consumable products (like delta-8 THC, CBD, and other cannabinoids) sold in North Carolina. It establishes licensing requirements for manufacturers, distributors, and sellers; sets testing and packaging standards; restricts sales to people under 21; and prohibits these products on school grounds.",
+  "aiProArguments": "Supporters argue this bill protects public health and safety by establishing clear rules for an unregulated market. It requires testing for contaminants, restricts potency and serving sizes, mandates child-resistant packaging, and prevents marketing to children. Supporters also note it generates tax revenue for enforcement and protects minors by criminalizing underage possession and restricting youth access, while providing a legal framework for businesses to operate responsibly.",
+  "aiConArguments": "Opponents contend the bill imposes significant regulatory burdens and licensing fees ($15,000 for manufacturers) that may disadvantage small businesses and farmers. Some argue the restrictions on product forms, serving sizes, and advertising are overly restrictive and infringe on business operations. Others question whether the regulatory approach is proportionate to the risks, or prefer a different regulatory model that treats these legal hemp products differently than the bill proposes.",
+  "topic": "Criminal Justice & Public Safety",
+  "textLength": 55212,
+  "createdAt": "2026-06-23T03:06:14.754Z",
+  "sponsors": [
+    {"peopleId":20222,"name":"Todd Johnson","party":"R","isPrimary":true},
+    {"peopleId":18465,"name":"Danny Britt","party":"R","isPrimary":true},
+    {"peopleId":22424,"name":"Michael Lazzara","party":"R","isPrimary":true},
+    {"peopleId":17147,"name":"Gale Adcock","party":"D","isPrimary":false},
+    {"peopleId":17936,"name":"Jay Chaudhuri","party":"D","isPrimary":false},
+    {"peopleId":12033,"name":"Warren Daniel","party":"R","isPrimary":false},
+    {"peopleId":22425,"name":"Julie Mayfield","party":"D","isPrimary":false},
+    {"peopleId":11858,"name":"Timothy Moffitt","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

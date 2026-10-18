@@ -1,0 +1,29 @@
+{
+  "billId": 2146419,
+  "billNumber": "S924",
+  "title": "Reenact the Earned Income Tax Credit",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "08857deaf8d50ae98a07443e02ea3867",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2026-04-30",
+  "url": "https://legiscan.com/NC/bill/S924/2025",
+  "aiSummary": "This bill restores North Carolina's state Earned Income Tax Credit, which expired in 2014. The credit would provide eligible low- to moderate-income working individuals a tax refund equal to 5% of the federal Earned Income Tax Credit they receive, with the credit becoming refundable starting in 2026.",
+  "aiProArguments": "Supporters argue this bill helps working families with modest incomes by putting more money back in their pockets through tax refunds. They contend the credit encourages employment, reduces poverty, and provides economic stimulus since low-income workers typically spend refunded money in their local communities. Proponents note that neighboring states and the federal government offer similar credits to support working families.",
+  "aiConArguments": "Opponents may argue the credit reduces state tax revenue at a time when the state has other funding priorities. They contend that the 5% state credit represents a relatively small benefit compared to the federal credit and question whether it is the most cost-effective way to assist low-income workers. Some may also be concerned about the fiscal impact of making the credit refundable, which means the state pays out money beyond what taxpayers owe in state income taxes.",
+  "topic": "Taxes & Budget",
+  "textLength": 2136,
+  "createdAt": "2026-06-23T03:11:55.142Z",
+  "sponsors": [
+    {"peopleId":17457,"name":"Paul Lowe","party":"D","isPrimary":true},
+    {"peopleId":17147,"name":"Gale Adcock","party":"D","isPrimary":false},
+    {"peopleId":24222,"name":"Lisa Grafstein","party":"D","isPrimary":false},
+    {"peopleId":20223,"name":"Mujtaba Mohammed","party":"D","isPrimary":false},
+    {"peopleId":21633,"name":"Natalie Murdock","party":"D","isPrimary":false},
+    {"peopleId":22426,"name":"DeAndrea Salvador","party":"D","isPrimary":false},
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":false},
+    {"peopleId":25859,"name":"Caleb Theodros","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

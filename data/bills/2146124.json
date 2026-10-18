@@ -1,0 +1,26 @@
+{
+  "billId": 2146124,
+  "billNumber": "S882",
+  "title": "Reenact EITC",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "f7c97a5e707f4de4d0d400fa13011630",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2026-04-29",
+  "url": "https://legiscan.com/NC/bill/S882/2025",
+  "aiSummary": "This bill reenacts North Carolina's Earned Income Tax Credit (EITC), which expired in 2014. The credit would provide eligible working individuals a refundable state tax credit equal to a percentage of the federal EITC they claimed, with the credit taking effect for tax years beginning January 1, 2026.",
+  "aiProArguments": "Supporters argue that reenacting the EITC helps low-income working families by supplementing their earnings through a tax credit, reducing their state tax burden and providing additional income. The credit is refundable, meaning families can receive money back even if they owe no taxes, providing targeted support to workers who need it most.",
+  "aiConArguments": "Opponents may argue that reenacting the EITC increases state spending and reduces tax revenue at a time when the state budget may have competing priorities. Some may question whether a state-level credit duplicates federal benefits or whether the 10% of federal EITC is an efficient use of state resources compared to other anti-poverty programs.",
+  "topic": "Taxes & Budget",
+  "textLength": 2082,
+  "createdAt": "2026-06-23T03:11:32.934Z",
+  "sponsors": [
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":true},
+    {"peopleId":17147,"name":"Gale Adcock","party":"D","isPrimary":false},
+    {"peopleId":20223,"name":"Mujtaba Mohammed","party":"D","isPrimary":false},
+    {"peopleId":21633,"name":"Natalie Murdock","party":"D","isPrimary":false},
+    {"peopleId":25859,"name":"Caleb Theodros","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

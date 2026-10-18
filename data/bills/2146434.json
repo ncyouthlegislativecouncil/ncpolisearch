@@ -1,0 +1,28 @@
+{
+  "billId": 2146434,
+  "billNumber": "S907",
+  "title": "The Ciji Graham Act",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "121ede05f359960dcbdfa0e235ea88e7",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2026-04-30",
+  "url": "https://legiscan.com/NC/bill/S907/2025",
+  "aiSummary": "The Ciji Graham Act establishes four interconnected programs to improve maternal health outcomes in North Carolina: a care navigation program using licensed nurses in six Medicaid regions, a statewide hotline providing clinical consultation to healthcare providers, a digital information hub with clinical guidelines and provider directories, and standardized referral pathways for high-risk pregnancies. The bill appropriates $10 million in recurring annual funding to the Department of Health and Human Services, Division of Public Health, beginning in fiscal year 2026-2027.",
+  "aiProArguments": "Supporters argue this bill addresses documented disparities in maternal health outcomes, particularly among Black women and rural populations in North Carolina. The program creates dedicated nursing positions and telehealth infrastructure to help pregnant patients access timely care, coordinate referrals to specialists, and navigate insurance and transportation barriers. Proponents contend that improved coordination and information access will reduce maternal mortality and morbidity by ensuring patients receive appropriate clinical guidance when minutes and days matter most.",
+  "aiConArguments": "Opponents may question the $10 million annual cost during budget constraints and whether these new state-run programs duplicate existing services or resources that could be enhanced instead. Some may raise concerns about the scope of referral services mentioned in the bill, including references to pregnancy termination services, which relates to abortion policy where North Carolina has specific legal restrictions. Additionally, critics might argue that the bill's effectiveness depends on adequate provider participation and could face implementation challenges in rural areas despite telehealth provisions.",
+  "topic": "Healthcare",
+  "textLength": 9586,
+  "createdAt": "2026-06-23T03:11:46.113Z",
+  "sponsors": [
+    {"peopleId":21633,"name":"Natalie Murdock","party":"D","isPrimary":true},
+    {"peopleId":24220,"name":"Val Applewhite","party":"D","isPrimary":true},
+    {"peopleId":12032,"name":"Gladys Robinson","party":"D","isPrimary":true},
+    {"peopleId":25858,"name":"Sophia Chitlik","party":"D","isPrimary":false},
+    {"peopleId":26664,"name":"Jonah Garson","party":"D","isPrimary":false},
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":false},
+    {"peopleId":25859,"name":"Caleb Theodros","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

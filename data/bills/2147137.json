@@ -1,0 +1,28 @@
+{
+  "billId": 2147137,
+  "billNumber": "S1026",
+  "title": "Power Bill Protection/Large Load Tariff",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "284167781c14bd7858886b44b0084b55",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2026-05-05",
+  "url": "https://legiscan.com/NC/bill/S1026/2025",
+  "aiSummary": "This bill creates a new regulatory framework for large electricity customers (those using 50+ megawatts) in North Carolina, requiring utilities to file special tariffs for these customers with long-term contracts, upfront infrastructure costs, and exit fees. It also establishes a surcharge on large customers to fund grid modernization projects that benefit other residents, requires utilities to report on grid planning, and mandates large customers report their energy and water usage annually.",
+  "aiProArguments": "Supporters argue this bill protects North Carolina residents by preventing large industrial customers (like data centers) from shifting infrastructure costs to residential and small business customers through higher rates. The surcharge on large customers funds grid improvements that reduce overall system costs. The bill also ensures utilities only build new power plants when customer demand is confirmed through contracts, preventing wasteful investments that would increase rates for everyone.",
+  "aiConArguments": "Opponents contend the bill makes North Carolina less competitive for attracting large industrial facilities and data centers by imposing higher costs and stricter terms compared to other states. The long-term contracts and exit fees may discourage companies from locating or expanding in the state. The surcharge and infrastructure cost requirements could make operations significantly more expensive for large customers, potentially causing them to choose other states for business investment.",
+  "topic": "Environment & Energy",
+  "textLength": 24099,
+  "createdAt": "2026-06-23T03:12:45.996Z",
+  "sponsors": [
+    {"peopleId":22426,"name":"DeAndrea Salvador","party":"D","isPrimary":true},
+    {"peopleId":24222,"name":"Lisa Grafstein","party":"D","isPrimary":true},
+    {"peopleId":17147,"name":"Gale Adcock","party":"D","isPrimary":false},
+    {"peopleId":20505,"name":"Sydney Batch","party":"D","isPrimary":false},
+    {"peopleId":26664,"name":"Jonah Garson","party":"D","isPrimary":false},
+    {"peopleId":20223,"name":"Mujtaba Mohammed","party":"D","isPrimary":false},
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":false},
+    {"peopleId":25859,"name":"Caleb Theodros","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

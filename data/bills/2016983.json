@@ -1,0 +1,25 @@
+{
+  "billId": 2016983,
+  "billNumber": "H594",
+  "title": "Funds/Kings Grant Connectivity",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "12c67e3f1b5766a87d3f829bc34e8ae3",
+  "lastAction": "Ref to the Com on Appropriations, if favorable, Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-04-01",
+  "url": "https://legiscan.com/NC/bill/H594/2025",
+  "aiSummary": "This bill appropriates $5 million in state funds to the City of Fayetteville to construct a second entrance into the Kings Grant neighborhood. The project would provide an additional entry and exit point for residents of that neighborhood.",
+  "aiProArguments": "Supporters argue that a second entrance improves traffic flow and emergency response times by reducing congestion on the single current entrance/exit route. They contend this infrastructure investment benefits public safety and quality of life for Kings Grant residents while supporting local economic development in Fayetteville.",
+  "aiConArguments": "Opponents may question whether $5 million in state General Fund money is the best use of limited resources, particularly if the neighborhood or city could fund the project locally. They might also ask why this specific neighborhood project receives state funding when other communities have similar infrastructure needs across North Carolina.",
+  "topic": "Transportation & Infrastructure",
+  "textLength": 1096,
+  "createdAt": "2026-06-23T02:55:09.079Z",
+  "sponsors": [
+    {"peopleId":22608,"name":"Diane Wheatley","party":"R","isPrimary":true},
+    {"peopleId":24216,"name":"Charles Smith","party":"D","isPrimary":true},
+    {"peopleId":22600,"name":"Terry Brown","party":"D","isPrimary":false},
+    {"peopleId":25846,"name":"Mike Colvin","party":"D","isPrimary":false},
+    {"peopleId":24206,"name":"Frances Jackson","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

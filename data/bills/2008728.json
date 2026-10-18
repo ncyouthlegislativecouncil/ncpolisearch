@@ -1,0 +1,24 @@
+{
+  "billId": 2008728,
+  "billNumber": "S299",
+  "title": "Government Transparency Act of 2025",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "2aeffb713fa1a2d2e2d54a3f5ac6bcc6",
+  "lastAction": "Re-ref to Judiciary. If fav, re-ref to Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-20",
+  "url": "https://legiscan.com/NC/bill/S299/2025",
+  "aiSummary": "This bill expands public access to government employee personnel records across state agencies, schools, community colleges, hospitals, counties, and cities. It requires these employers to maintain and disclose general descriptions of the reasons for employee promotions, demotions, transfers, suspensions, separations, and dismissals, along with written notices for disciplinary dismissals. The bill protects private health and disability information while making these records available after any administrative appeals are completed.",
+  "aiProArguments": "Supporters argue this bill increases government accountability and transparency by allowing citizens to see why public employees are disciplined or dismissed, helping identify patterns of misconduct or unfair treatment. They contend that public employees should have their work actions subject to public scrutiny since taxpayers fund their salaries, and this transparency builds confidence in government institutions and ensures fair enforcement of rules across all employees.",
+  "aiConArguments": "Opponents worry this bill may discourage employers from documenting disciplinary issues if those records become immediately public, potentially making it harder to manage problematic employees. They also express concerns that publishing detailed dismissal reasons could expose personal information despite privacy protections, create legal risks for employers facing appeals, and subject employees to harassment or retaliation based on publicly disclosed personnel actions.",
+  "topic": "Other / General Government",
+  "textLength": 22865,
+  "createdAt": "2026-06-23T03:06:31.759Z",
+  "sponsors": [
+    {"peopleId":11862,"name":"Norman Sanderson","party":"R","isPrimary":true},
+    {"peopleId":24224,"name":"Buck Newton","party":"R","isPrimary":true},
+    {"peopleId":20513,"name":"Bobby Hanig","party":"R","isPrimary":false},
+    {"peopleId":11937,"name":"Ralph Hise","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

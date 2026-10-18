@@ -1,0 +1,21 @@
+{
+  "billId": 1987136,
+  "billNumber": "S219",
+  "title": "Stallings/Marvin Satellite Annexations",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "69e95c751878c08a022f9785f8990ffe",
+  "lastAction": "Re-ref Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-26",
+  "url": "https://legiscan.com/NC/bill/S219/2025",
+  "aiSummary": "This bill removes the 10% cap on satellite annexations (noncontiguous land areas) for the Town of Stallings and the Village of Marvin. Currently, North Carolina law limits how much noncontiguous land a municipality can annex, but this bill exempts these two municipalities from that limitation, allowing them to annex larger noncontiguous areas.",
+  "aiProArguments": "Supporters argue this gives Stallings and Marvin flexibility to grow and expand their tax bases to fund services like schools, infrastructure, and emergency services. Proponents contend that many other North Carolina municipalities already have exemptions from this cap, and these towns deserve equal treatment to manage their own growth priorities and serve their residents more effectively.",
+  "aiConArguments": "Opponents worry this could allow sprawling development patterns that strain infrastructure and services in outlying areas without adequate planning. Critics also raise concerns that removing annexation caps may disadvantage unincorporated county residents who could be annexed without proportional input in municipal decision-making, and that it prioritizes municipal expansion over regional land-use coordination.",
+  "topic": "Local Government",
+  "textLength": 2649,
+  "createdAt": "2026-06-23T03:05:53.901Z",
+  "sponsors": [
+    {"peopleId":20222,"name":"Todd Johnson","party":"R","isPrimary":true}
+  ],
+  "rollCalls": []
+}

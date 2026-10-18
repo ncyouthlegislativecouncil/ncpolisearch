@@ -1,0 +1,23 @@
+{
+  "billId": 1993669,
+  "billNumber": "H334",
+  "title": "GSC Unif. Community Prop. Disp. at Death Act",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "7964cf3f5588bdd296b168bf3dde6756",
+  "lastAction": "Ref to the Com on Judiciary 2, if favorable, Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-03-10",
+  "url": "https://legiscan.com/NC/bill/H334/2025",
+  "aiSummary": "This bill enacts the Uniform Community Property Disposition at Death Act in North Carolina, which clarifies how community property acquired in other states is handled when a spouse dies. It establishes that the surviving spouse automatically receives half of community property without going through probate, while the deceased spouse's half can be distributed through their will or estate.",
+  "aiProArguments": "Supporters argue this bill provides clarity and fairness for families who acquired community property while living in other states (like California or Texas) but later moved to North Carolina. It simplifies estate administration by establishing clear rules about property ownership at death and protects surviving spouses' interests in property they helped acquire during marriage, reducing disputes and litigation costs.",
+  "aiConArguments": "Opponents may be concerned that the bill creates complexity in estate administration by requiring courts to trace property origins and determine community property status under other states' laws. They might also worry about potential conflicts with existing North Carolina property law, increased litigation over property claims within specified timeframes, and administrative burdens on personal representatives managing estates with community property questions.",
+  "topic": "Other / General Government",
+  "textLength": 18002,
+  "createdAt": "2026-06-23T02:48:40.690Z",
+  "sponsors": [
+    {"peopleId":2127,"name":"Sarah Stevens","party":"R","isPrimary":true},
+    {"peopleId":2038,"name":"William Brisson","party":"R","isPrimary":false},
+    {"peopleId":24219,"name":"Bill Ward","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

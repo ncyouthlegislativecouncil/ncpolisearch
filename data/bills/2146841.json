@@ -1,0 +1,31 @@
+{
+  "billId": 2146841,
+  "billNumber": "H1164",
+  "title": "NSF for Taxes Penalty Modification",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "b283f4e411789c68143e7513a48ef8f1",
+  "lastAction": "Ref To Com On Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2026-05-04",
+  "url": "https://legiscan.com/NC/bill/H1164/2025",
+  "aiSummary": "This bill modifies the penalty that North Carolina counties impose when taxpayers submit checks or electronic payments that are returned due to insufficient funds. Instead of the current penalty of $25 or 10% of the payment amount (whichever is greater, up to $1,000), the new penalty would be $25 plus 1% for the first two violations within five years, or $50 plus 2% for any additional violations, with the same $1,000 cap. The bill also provides $15,000 to the Department of Revenue for educational materials.",
+  "aiProArguments": "Supporters argue this bill creates a fairer penalty structure that better aligns with the actual administrative costs counties incur when processing returned payments, rather than imposing penalties that can be excessively high on large property tax bills. They contend the current 10% penalty can be disproportionately punitive and that the tiered approach rewards taxpayers who pay responsibly by lowering penalties for first-time and second-time violations within five years.",
+  "aiConArguments": "Opponents may argue that reducing penalties could discourage careful financial management and make it easier for people to have insufficient funds without facing meaningful consequences. Some counties might also be concerned that lower penalties reduce their ability to offset the administrative costs and inconvenience of processing returned payments, potentially shifting those costs to other taxpayers.",
+  "topic": "Taxes & Budget",
+  "textLength": 5865,
+  "createdAt": "2026-06-23T03:02:48.141Z",
+  "sponsors": [
+    {"peopleId":26396,"name":"Phil Rubin","party":"D","isPrimary":true},
+    {"peopleId":24200,"name":"Laura Budd","party":"D","isPrimary":true},
+    {"peopleId":20521,"name":"Carolyn Logan","party":"D","isPrimary":true},
+    {"peopleId":22606,"name":"James Roberson","party":"D","isPrimary":true},
+    {"peopleId":24199,"name":"Kanika Brown","party":"D","isPrimary":false},
+    {"peopleId":25213,"name":"Tracy Clark","party":"D","isPrimary":false},
+    {"peopleId":26662,"name":"Amanda Cook","party":"D","isPrimary":false},
+    {"peopleId":20509,"name":"Allison Dahle","party":"D","isPrimary":false},
+    {"peopleId":25844,"name":"Julia Greenfield","party":"D","isPrimary":false},
+    {"peopleId":2077,"name":"Mary Harrison","party":"D","isPrimary":false},
+    {"peopleId":24214,"name":"Renee Price","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

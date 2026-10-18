@@ -1,0 +1,25 @@
+{
+  "billId": 2015190,
+  "billNumber": "H544",
+  "title": "Tax Credit for Rehab. Corp. Campus",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "e0966b4876344860796e7b10e430612f",
+  "lastAction": "Ref to the Com on Finance, if favorable, Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-03-27",
+  "url": "https://legiscan.com/NC/bill/H544/2025",
+  "aiSummary": "This bill creates a state tax credit equal to 40% of qualified rehabilitation expenditures for companies that restore historic corporate campuses in North Carolina. To qualify, a project must involve at least $10 million in rehab spending on a historic structure that was formerly a corporate headquarters, sits on at least 20 acres, has been mostly vacant for two years, and is subject to a preservation agreement.",
+  "aiProArguments": "Supporters argue this credit incentivizes the restoration of abandoned historic buildings, which removes eyesores, preserves North Carolina's architectural heritage, and can spur economic development and job creation in communities. The 40% credit makes large rehabilitation projects financially feasible for developers and businesses that might otherwise leave these properties vacant or demolished.",
+  "aiConArguments": "Opponents may contend that the $10 million minimum expenditure threshold limits benefits to only large projects, potentially concentrating incentives among wealthy developers. They might also question whether public tax dollars should subsidize private corporate projects, and whether the 40% credit represents an appropriate use of state revenue compared to other priorities.",
+  "topic": "Taxes & Budget",
+  "textLength": 2626,
+  "createdAt": "2026-06-23T02:54:25.167Z",
+  "sponsors": [
+    {"peopleId":25197,"name":"Jerry Branson","party":"R","isPrimary":true},
+    {"peopleId":2034,"name":"John Blust","party":"R","isPrimary":true},
+    {"peopleId":2122,"name":"Mitchell Setzer","party":"R","isPrimary":true},
+    {"peopleId":14634,"name":"Stephen Ross","party":"R","isPrimary":false},
+    {"peopleId":24219,"name":"Bill Ward","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

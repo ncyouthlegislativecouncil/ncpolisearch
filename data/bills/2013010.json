@@ -1,0 +1,22 @@
+{
+  "billId": 2013010,
+  "billNumber": "S397",
+  "title": "Invest in Durham's Ed/Athletic Infrastructure",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "03420e4dfc977dce1155df82ae2d5983",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2025-03-25",
+  "url": "https://legiscan.com/NC/bill/S397/2025",
+  "aiSummary": "This bill appropriates $4.5 million in state funding to Durham County for one year (fiscal year 2025-2026) to be used for repairs, renovations, and improvements to public school buildings, athletic fields, and facilities, particularly addressing deferred maintenance needs.",
+  "aiProArguments": "Supporters argue that this funding addresses critical infrastructure needs in Durham County schools, including aging buildings and athletic facilities that have been neglected due to lack of resources. They contend that investing in school infrastructure improves educational environments, student safety, and athletic programs while supporting the local community's economic development and property values.",
+  "aiConArguments": "Opponents may argue that one-time appropriations do not solve long-term infrastructure problems and that Durham County should fund these needs through local revenue sources or bond initiatives. They may also question why this funding targets Durham specifically rather than addressing infrastructure needs statewide, or express concern about whether $4.5 million is sufficient to meaningfully address deferred maintenance across all school facilities.",
+  "topic": "Education",
+  "textLength": 894,
+  "createdAt": "2026-06-23T03:07:27.646Z",
+  "sponsors": [
+    {"peopleId":25858,"name":"Sophia Chitlik","party":"D","isPrimary":true},
+    {"peopleId":21633,"name":"Natalie Murdock","party":"D","isPrimary":true}
+  ],
+  "rollCalls": []
+}

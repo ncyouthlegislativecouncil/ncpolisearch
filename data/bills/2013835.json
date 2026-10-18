@@ -1,0 +1,22 @@
+{
+  "billId": 2013835,
+  "billNumber": "S498",
+  "title": "Funds for Beaufort's Boat Docks",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "454dec6138611f563067dec560cd184f",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2025-03-26",
+  "url": "https://legiscan.com/NC/bill/S498/2025",
+  "aiSummary": "This bill appropriates $12 million in state funds to the Town of Beaufort for upgrades and repairs to its boat docks. The funds would be available for the 2025-2026 fiscal year and become effective July 1, 2025.",
+  "aiProArguments": "Supporters argue that aging boat dock infrastructure needs modernization to support commercial fishing, tourism, and recreation in Beaufort. They contend that state investment in this project benefits the local economy, creates jobs during construction, and improves a critical public asset for the coastal community.",
+  "aiConArguments": "Opponents question whether a $12 million state appropriation to one town is the best use of limited public funds, especially if Beaufort could seek federal grants or local funding. They may argue that directing substantial state money to a specific municipality raises fairness concerns when other communities also have infrastructure needs.",
+  "topic": "Taxes & Budget",
+  "textLength": 802,
+  "createdAt": "2026-06-23T03:08:22.740Z",
+  "sponsors": [
+    {"peopleId":11862,"name":"Norman Sanderson","party":"R","isPrimary":true},
+    {"peopleId":21663,"name":"David Craven","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

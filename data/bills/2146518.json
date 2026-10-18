@@ -1,0 +1,26 @@
+{
+  "billId": 2146518,
+  "billNumber": "S914",
+  "title": "2026 Appropriations Act",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "cce2cf62a941d79d61562b77a0d260b1",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2026-04-30",
+  "url": "https://legiscan.com/NC/bill/S914/2025",
+  "aiSummary": "This bill authorizes the North Carolina state government to spend money from various funding sources—including the General Fund, Highway Fund, Highway Trust Fund, and federal block grants—to operate state agencies, departments, and institutions for the 2026-2027 fiscal year. The bill allows unused appropriated funds to be returned to their respective accounts at the end of the fiscal year.",
+  "aiProArguments": "Supporters argue that appropriations bills are necessary routine legislation that enables state government to function by funding essential services like transportation, health and human services, education, and public safety. This bill provides the legal authority and funding mechanisms for state agencies to continue their operations and fulfill their constitutional and statutory responsibilities to North Carolina residents.",
+  "aiConArguments": "Opponents may argue that without seeing the specific dollar amounts and detailed allocations within the bill, it is difficult to assess whether funding levels are appropriate or whether priorities align with their values. Some may raise concerns about the overall size of the budget, how tax dollars are distributed among agencies, or whether adequate oversight mechanisms exist to ensure efficient spending.",
+  "topic": "Taxes & Budget",
+  "textLength": 3883,
+  "createdAt": "2026-06-23T03:11:50.252Z",
+  "sponsors": [
+    {"peopleId":12009,"name":"William Jackson","party":"R","isPrimary":true},
+    {"peopleId":11937,"name":"Ralph Hise","party":"R","isPrimary":true},
+    {"peopleId":17504,"name":"Michael Lee","party":"R","isPrimary":true},
+    {"peopleId":22423,"name":"Amy Galey","party":"R","isPrimary":false},
+    {"peopleId":11858,"name":"Timothy Moffitt","party":"R","isPrimary":false},
+    {"peopleId":11862,"name":"Norman Sanderson","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

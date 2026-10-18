@@ -1,0 +1,22 @@
+{
+  "billId": 2013028,
+  "billNumber": "S385",
+  "title": "Amend Dangerous Dog Statutes",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "ebad452b198771571c70a8043ebcea27",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-25",
+  "url": "https://legiscan.com/NC/bill/S385/2025",
+  "aiSummary": "This bill creates a process for dog owners to request that their pet's 'potentially dangerous dog' designation be removed, but only 18 months or more after the original determination. The owner must submit an application with a professional assessment of the dog's behavior, and the local animal control authority will decide whether to revoke the designation based on the dog's current behavior and management.",
+  "aiProArguments": "Supporters argue this bill gives dog owners a fair opportunity to demonstrate their pets are no longer a threat after proper training and behavioral improvement. It provides a path for owners to clear their dog's record if the original dangerous behavior has been addressed, potentially reducing unnecessary restrictions and allowing responsible owners a second chance while still protecting public safety.",
+  "aiConArguments": "Opponents may argue that the procedure could allow potentially dangerous dogs back into communities without sufficient oversight, particularly since the authority's decision is final with no appeals process. Concerns include the cost of professional assessments may be prohibitive for some owners, and the 18-month waiting period might be too short to ensure behavioral change is truly permanent.",
+  "topic": "Criminal Justice & Public Safety",
+  "textLength": 3369,
+  "createdAt": "2026-06-23T03:07:21.656Z",
+  "sponsors": [
+    {"peopleId":16251,"name":"Graig Meyer","party":"D","isPrimary":true},
+    {"peopleId":11858,"name":"Timothy Moffitt","party":"R","isPrimary":true}
+  ],
+  "rollCalls": []
+}

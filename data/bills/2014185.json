@@ -1,0 +1,26 @@
+{
+  "billId": 2014185,
+  "billNumber": "S597",
+  "title": "Environmental Justice",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "c56ca54fe58b403ad500df3d361e21ed",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-26",
+  "url": "https://legiscan.com/NC/bill/S597/2025",
+  "aiSummary": "This bill requires state environmental agencies to consider the cumulative impact of pollution and development on low-income and minority communities when deciding whether to approve permits for mining, waste management, hazardous waste facilities, air pollution sources, and other industrial projects. It also requires agencies to hold public hearings in affected communities and consider community input before approving new or expanded facilities in areas already burdened by pollution.",
+  "aiProArguments": "Supporters argue this bill addresses environmental injustice by preventing low-income and minority communities from bearing a disproportionate burden of pollution and industrial facilities. They contend that these communities often have multiple polluting sources concentrated in one area, harming public health, and that the bill gives residents a meaningful voice in decisions affecting their neighborhoods. Supporters say the bill aligns with federal civil rights protections and the principle that all communities deserve equal environmental protection.",
+  "aiConArguments": "Opponents worry the bill could slow or block economic development, mining operations, and industrial projects needed for jobs and tax revenue in North Carolina. They argue the cumulative impact standard is vague and could lead to inconsistent permit decisions, litigation, and uncertainty for businesses. Critics also contend that the bill may impose administrative burdens on permitting agencies and that market-based or state-level solutions rather than permit denials are better ways to address environmental concerns.",
+  "topic": "Environment & Energy",
+  "textLength": 12218,
+  "createdAt": "2026-06-23T03:09:12.698Z",
+  "sponsors": [
+    {"peopleId":21633,"name":"Natalie Murdock","party":"D","isPrimary":true},
+    {"peopleId":16251,"name":"Graig Meyer","party":"D","isPrimary":true},
+    {"peopleId":22425,"name":"Julie Mayfield","party":"D","isPrimary":false},
+    {"peopleId":22426,"name":"DeAndrea Salvador","party":"D","isPrimary":false},
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

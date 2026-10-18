@@ -1,0 +1,22 @@
+{
+  "billId": 2147061,
+  "billNumber": "S1018",
+  "title": "The HEAL Act",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "1510ecd88e4061a65217db3539fcb3a4",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2026-05-05",
+  "url": "https://legiscan.com/NC/bill/S1018/2025",
+  "aiSummary": "The HEAL Act establishes a $5 million research grant program to fund studies on psychedelic drugs (psilocybin, MDMA, and ibogaine) as treatments for trauma-related mental health conditions in North Carolina. The bill creates a Breakthrough Therapies Task Force to oversee grant awards to eligible research institutions and monitor findings through 2031.",
+  "aiProArguments": "Supporters argue this bill addresses mental health challenges faced by trauma-exposed populations like veterans, first responders, and survivors of domestic violence by funding research into promising therapeutic approaches that may have limited traditional treatment options. They contend that controlled research on FDA-designated breakthrough therapies, conducted under federal protocols, could advance treatment options while maintaining safety standards and potentially reducing healthcare costs.",
+  "aiConArguments": "Opponents may express concerns about funding research on drugs that remain federally controlled substances, questioning whether state resources should support such research before federal legalization occurs. Others might worry about the precedent of state funding for psychedelic drug research, potential public perception issues, or whether the $5.4 million investment could be better directed to proven mental health interventions already available to these populations.",
+  "topic": "Healthcare",
+  "textLength": 11345,
+  "createdAt": "2026-06-23T03:12:41.417Z",
+  "sponsors": [
+    {"peopleId":25858,"name":"Sophia Chitlik","party":"D","isPrimary":true},
+    {"peopleId":25212,"name":"Bob Brinson","party":"R","isPrimary":true}
+  ],
+  "rollCalls": []
+}

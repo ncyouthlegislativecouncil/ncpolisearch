@@ -1,0 +1,28 @@
+{
+  "billId": 1990539,
+  "billNumber": "H277",
+  "title": "SchCalFlex/Johnston/Aug 10 & Assmnts",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "4b7a3f9f054391bad98c0171bea75504",
+  "lastAction": "Ref to the Com on Education - K-12, if favorable, Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-03-05",
+  "url": "https://legiscan.com/NC/bill/H277/2025",
+  "aiSummary": "This bill gives Johnston County Schools additional flexibility in setting their school calendar by allowing them to start school as early as the Monday closest to August 10 (instead of the standard August 26) and permits assessments to be given before the fall semester ends if the calendar concludes before December 31.",
+  "aiProArguments": "Supporters argue this gives Johnston County Schools needed flexibility to better manage their local circumstances, such as severe weather patterns or community needs. An earlier start date could allow schools to complete instruction before winter breaks and reduce the need for makeup days, while the assessment flexibility helps accommodate year-round or modified calendar schedules.",
+  "aiConArguments": "Opponents may worry that an earlier August 10 start date cuts into summer break for students and families, potentially affecting summer employment and activities. Some may also be concerned that allowing early assessments could disadvantage students or create inconsistency in testing timelines across the state.",
+  "topic": "Education",
+  "textLength": 3500,
+  "createdAt": "2026-06-23T02:47:08.185Z",
+  "sponsors": [
+    {"peopleId":18464,"name":"Larry Strickland","party":"R","isPrimary":true},
+    {"peopleId":18495,"name":"Donna White","party":"R","isPrimary":true},
+    {"peopleId":22615,"name":"Howard Penny","party":"R","isPrimary":true},
+    {"peopleId":18451,"name":"Mary Belk","party":"D","isPrimary":false},
+    {"peopleId":2044,"name":"Becky Carney","party":"D","isPrimary":false},
+    {"peopleId":2077,"name":"Mary Harrison","party":"D","isPrimary":false},
+    {"peopleId":25853,"name":"Rodney Pierce","party":"D","isPrimary":false},
+    {"peopleId":14633,"name":"Dennis Riddell","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

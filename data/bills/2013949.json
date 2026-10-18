@@ -1,0 +1,32 @@
+{
+  "billId": 2013949,
+  "billNumber": "S478",
+  "title": "Enhancing Ag. Opportunities in Rural NC",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "54a0d48cc7b17c6d6d7df8c6021bedb9",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-26",
+  "url": "https://legiscan.com/NC/bill/S478/2025",
+  "aiSummary": "This bill allows banks to deduct interest, fees, and penalties they receive from agricultural loans from their state income taxes. The deduction applies to loans that are secured by agricultural land, beginning in 2025.",
+  "aiProArguments": "Supporters argue this bill encourages banks to lend money to farmers by making agricultural lending more profitable for financial institutions. By reducing the tax burden on banks that provide agricultural loans, the bill may increase credit availability for farmers in rural North Carolina, helping them purchase equipment, land, or manage operations.",
+  "aiConArguments": "Opponents may argue this bill reduces state tax revenue without clear evidence it will increase agricultural lending or benefit farmers directly. Critics might contend that banks already have incentives to make profitable loans, and this tax break primarily benefits financial institutions rather than farmers themselves, and that the revenue loss could affect state services or require other tax increases.",
+  "topic": "Taxes & Budget",
+  "textLength": 808,
+  "createdAt": "2026-06-23T03:08:11.372Z",
+  "sponsors": [
+    {"peopleId":20504,"name":"Lisa Barnes","party":"R","isPrimary":true},
+    {"peopleId":11862,"name":"Norman Sanderson","party":"R","isPrimary":true},
+    {"peopleId":24224,"name":"Buck Newton","party":"R","isPrimary":true},
+    {"peopleId":25212,"name":"Bob Brinson","party":"R","isPrimary":false},
+    {"peopleId":20216,"name":"Jim Burgin","party":"R","isPrimary":false},
+    {"peopleId":18454,"name":"Kevin Corbin","party":"R","isPrimary":false},
+    {"peopleId":21663,"name":"David Craven","party":"R","isPrimary":false},
+    {"peopleId":14615,"name":"Carl Ford","party":"R","isPrimary":false},
+    {"peopleId":22423,"name":"Amy Galey","party":"R","isPrimary":false},
+    {"peopleId":20513,"name":"Bobby Hanig","party":"R","isPrimary":false},
+    {"peopleId":11858,"name":"Timothy Moffitt","party":"R","isPrimary":false},
+    {"peopleId":24226,"name":"Eddie Settle","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

@@ -1,0 +1,22 @@
+{
+  "billId": 1983790,
+  "billNumber": "H216",
+  "title": "CAM Accessibility & Sustainability Act",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "ee30b96ec59088908c250e6d3653d3a9",
+  "lastAction": "Ref to the Com on Judiciary 2, if favorable, Finance, if favorable, Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-02-27",
+  "url": "https://legiscan.com/NC/bill/H216/2025",
+  "aiSummary": "This bill creates a Continuous Alcohol Monitoring Fund to help people who cannot afford alcohol monitoring devices required by courts. The fund is financed by adding a 5-cent charge to each bottle of spirituous liquor sold in North Carolina, with proceeds going to the Department of Adult Correction to pay monitoring costs for eligible individuals.",
+  "aiProArguments": "Supporters argue this bill ensures that people cannot be denied a sentencing option simply because they lack financial resources, promoting fairness in the criminal justice system. They contend that a small per-bottle fee on alcohol sales is an appropriate and indirect way to fund alcohol monitoring programs, and that the fund helps reduce incarceration rates by making alternative sentencing options accessible to low-income defendants.",
+  "aiConArguments": "Opponents may argue that the 5-cent per-bottle tax increases costs for all alcohol consumers to fund a program that benefits only those under court-ordered monitoring. Some may question whether the revenue will be sufficient to meet demand for the program, and others may prefer that monitoring costs be covered through general state budgets rather than through a dedicated consumer tax on alcohol products.",
+  "topic": "Criminal Justice & Public Safety",
+  "textLength": 4782,
+  "createdAt": "2026-06-23T02:45:12.661Z",
+  "sponsors": [
+    {"peopleId":18453,"name":"Mike Clampitt","party":"R","isPrimary":true},
+    {"peopleId":24890,"name":"Eric Ager","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

@@ -1,0 +1,25 @@
+{
+  "billId": 1983752,
+  "billNumber": "H215",
+  "title": "Protect Charlotte Firefighters' Ret. System",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "1d266e925a1e4cc9c58b56d12027fc1b",
+  "lastAction": "Ref to the Com on Pensions and Retirement, if favorable, State and Local Government, if favorable, Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-02-27",
+  "url": "https://legiscan.com/NC/bill/H215/2025",
+  "aiSummary": "This bill strengthens protections for Charlotte firefighters' retirement system participants and beneficiaries by requiring the system to obtain data breach and cyber liability insurance, establish procedures for reporting and investigating cybersecurity incidents, provide resources to victims of breaches, and compensate participants harmed by data breaches occurring after the bill becomes law.",
+  "aiProArguments": "Supporters argue this bill protects vulnerable retirees and their families whose personal financial information could be exposed through cybersecurity incidents. The bill ensures the retirement system has adequate insurance coverage and creates accountability mechanisms so that if breaches occur, victims receive compensation and support. Proponents contend this is necessary security infrastructure for a system managing retirement benefits for public employees.",
+  "aiConArguments": "Opponents may argue the bill increases costs to the retirement system and ultimately Charlotte taxpayers by mandating insurance purchases and potential victim compensation. Some may question whether the \"make whole\" provision creates open-ended financial liability or could incentivize frivolous claims. Others might contend that existing state and federal data protection laws already provide adequate safeguards without additional local requirements.",
+  "topic": "Local Government",
+  "textLength": 13513,
+  "createdAt": "2026-06-23T02:45:11.859Z",
+  "sponsors": [
+    {"peopleId":18453,"name":"Mike Clampitt","party":"R","isPrimary":true},
+    {"peopleId":20515,"name":"Zack Forde-Hawkins","party":"D","isPrimary":false},
+    {"peopleId":24206,"name":"Frances Jackson","party":"D","isPrimary":false},
+    {"peopleId":20521,"name":"Carolyn Logan","party":"D","isPrimary":false},
+    {"peopleId":20522,"name":"Nasif Majeed","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

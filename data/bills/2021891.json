@@ -1,0 +1,31 @@
+{
+  "billId": 2021891,
+  "billNumber": "H855",
+  "title": "Residency Licenses for Nonpublic EC Teachers",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "5cdf2ef85fc2bab62be8889355b27943",
+  "lastAction": "Re-ref Com On Finance",
+  "lastActionDate": "2025-04-29",
+  "url": "https://legiscan.com/NC/bill/H855/2025",
+  "aiSummary": "This bill expands who can request residency licenses for teachers in North Carolina by allowing nonpublic schools to request them in addition to public school units. Residency licenses are one-year renewable licenses (up to three years total) for individuals enrolled in teacher preparation programs who meet basic educational and content knowledge requirements.",
+  "aiProArguments": "Supporters argue this bill helps nonpublic schools address teacher shortages by giving them access to the same residency license pathway available to public schools. This allows nonpublic schools to hire teachers who are still completing their formal teacher preparation while being supervised, potentially expanding educational options and helping schools fill critical staffing needs.",
+  "aiConArguments": "Opponents may be concerned that residency licenses for nonpublic schools could create different accountability standards between public and private school teachers, or that nonpublic schools may have less oversight in supervising unlicensed teachers compared to public school districts. There may also be concerns about whether this diverts teacher candidates away from public schools or whether nonpublic schools receiving public funds should follow the same rules as those without public funding.",
+  "topic": "Education",
+  "textLength": 2683,
+  "createdAt": "2026-06-23T02:58:37.032Z",
+  "sponsors": [
+    {"peopleId":2031,"name":"Hugh Blackwell","party":"R","isPrimary":true},
+    {"peopleId":24197,"name":"Brian Biggs","party":"R","isPrimary":true},
+    {"peopleId":20520,"name":"Brandon Lofton","party":"D","isPrimary":true},
+    {"peopleId":25856,"name":"Paul Scott","party":"R","isPrimary":true},
+    {"peopleId":24198,"name":"Gloristine Brown","party":"D","isPrimary":false},
+    {"peopleId":2077,"name":"Mary Harrison","party":"D","isPrimary":false},
+    {"peopleId":20515,"name":"Zack Forde-Hawkins","party":"D","isPrimary":false},
+    {"peopleId":24206,"name":"Frances Jackson","party":"D","isPrimary":false},
+    {"peopleId":20521,"name":"Carolyn Logan","party":"D","isPrimary":false},
+    {"peopleId":24210,"name":"Tim Longest","party":"D","isPrimary":false},
+    {"peopleId":24219,"name":"Bill Ward","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

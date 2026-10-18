@@ -1,0 +1,21 @@
+{
+  "billId": 1987366,
+  "billNumber": "S216",
+  "title": "Sharpsburg Satellite Annexation",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "4e747df4c6daafce93480380647d1844",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-03",
+  "url": "https://legiscan.com/NC/bill/S216/2025",
+  "aiSummary": "This bill removes the 10% satellite annexation cap for the Town of Sharpsburg, allowing it to annex noncontiguous areas of land without the size limitation that currently applies to most North Carolina municipalities. The bill adds Sharpsburg to a list of cities and towns already exempted from this annexation restriction.",
+  "aiProArguments": "Supporters argue this bill gives Sharpsburg flexibility to grow and develop strategically by allowing it to annex land parcels that may be important for economic development, infrastructure, or municipal services, regardless of size. Removing the cap allows the town to respond to local opportunities and community needs without state-imposed restrictions that other similarly-sized municipalities have already been granted.",
+  "aiConArguments": "Opponents may be concerned that removing annexation caps could allow municipalities to grow too rapidly or sprawl into rural areas in ways that burden surrounding unincorporated communities with reduced county services. Others might argue that special exemptions for individual towns create inconsistent rules across the state and could disadvantage communities not on the exemption list.",
+  "topic": "Local Government",
+  "textLength": 2458,
+  "createdAt": "2026-06-23T03:05:52.491Z",
+  "sponsors": [
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":true}
+  ],
+  "rollCalls": []
+}

@@ -1,0 +1,23 @@
+{
+  "billId": 2147081,
+  "billNumber": "S1037",
+  "title": "DIGITAL NC Act",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "f2c7e3c65cad13222a76434583a3e592",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2026-05-04",
+  "url": "https://legiscan.com/NC/bill/S1037/2025",
+  "aiSummary": "This bill establishes a nine-member Board of Governors for a North Carolina Digital Sovereignty Authority to develop a comprehensive plan for modernizing, consolidating, and securing the state's information technology systems. The board, composed of technology leaders and cybersecurity experts appointed by the governor and legislature, must submit recommendations to the General Assembly by March 1, 2027, but any actual reorganization or changes require separate legislative approval.",
+  "aiProArguments": "Supporters argue that North Carolina's IT infrastructure needs coordinated, long-term planning that transcends individual administrations and agency divisions. They contend that bringing in experienced technology leaders and cybersecurity experts will improve the state's digital competitiveness, operational efficiency, and cyber defense capabilities. The bill also aims to modernize aging systems, reduce costs through consolidation and cloud migration, and create a more unified IT workforce across state agencies.",
+  "aiConArguments": "Opponents may be concerned about centralizing significant IT power in a board with limited direct accountability, potentially conflicting with agency autonomy and Cabinet oversight. Some worry about the qualifications requiring billion-dollar company CEOs and specialized experts, which could limit the pool of qualified candidates or favor particular ideologies. Others question whether a board-driven approach could create bureaucratic complexity rather than solve IT problems, and whether the proposed National Guard cybersecurity integration raises operational or jurisdictional concerns.",
+  "topic": "Technology & Privacy",
+  "textLength": 11947,
+  "createdAt": "2026-06-23T03:12:51.648Z",
+  "sponsors": [
+    {"peopleId":17504,"name":"Michael Lee","party":"R","isPrimary":true},
+    {"peopleId":11937,"name":"Ralph Hise","party":"R","isPrimary":true},
+    {"peopleId":24223,"name":"Brad Overcash","party":"R","isPrimary":true}
+  ],
+  "rollCalls": []
+}

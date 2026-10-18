@@ -1,0 +1,21 @@
+{
+  "billId": 1992372,
+  "billNumber": "S237",
+  "title": "Funds for Transitional Housing in Pitt County",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "bf8d63633f722c759705e784a2dcad6a",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2025-03-06",
+  "url": "https://legiscan.com/NC/bill/S237/2025",
+  "aiSummary": "This bill appropriates $55,000 in one-time state funding for the 2025-2026 fiscal year to Citizens Advocating for Racial Equity and Equality (CAREE), a nonprofit organization, to support transitional housing programs in Pitt County. The funds come from the state's General Fund and become effective July 1, 2025.",
+  "aiProArguments": "Supporters argue that transitional housing addresses homelessness and housing instability in Pitt County by providing temporary shelter and support services to help individuals transition to permanent housing. They contend that investing in these efforts reduces costs associated with emergency services, improves public health outcomes, and helps vulnerable populations achieve housing stability.",
+  "aiConArguments": "Opponents may argue that the one-time $55,000 funding is insufficient for meaningful impact and doesn't address systemic housing issues long-term. Some may question whether state funds should support a specific organization or county rather than broader statewide initiatives, or whether such funding should come from local government or private sources instead.",
+  "topic": "Housing",
+  "textLength": 898,
+  "createdAt": "2026-06-23T03:06:02.145Z",
+  "sponsors": [
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":true}
+  ],
+  "rollCalls": []
+}

@@ -1,0 +1,22 @@
+{
+  "billId": 2144426,
+  "billNumber": "S794",
+  "title": "NC Victims of Crime Assistance Act",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "9ab484e527b7d7457bffaefe3dc5fd2d",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2026-04-22",
+  "url": "https://legiscan.com/NC/bill/S794/2025",
+  "aiSummary": "This bill creates the North Carolina Victims of Crime Assistance Fund and a competitive grant program administered by the Governor's Crime Commission to provide funding to public and nonprofit organizations that help crime victims. The bill funds this program by increasing criminal court costs by $3.50 per case and marriage license fees by $5.00, with these increases taking effect December 1, 2026.",
+  "aiProArguments": "Supporters argue this bill addresses a critical need by establishing dedicated funding to help crime victims access essential services like counseling, stabilization assistance, and guidance through the criminal justice system. Proponents contend that the funding mechanism is reasonable—court costs and marriage license fees are low-impact sources that spread the cost broadly, and the bill includes accountability measures requiring grantees to report on their progress and the number of victims served.",
+  "aiConArguments": "Opponents may argue that increasing court costs could place additional financial burden on people convicted of crimes who are already facing penalties, potentially affecting their ability to pay other restitution or fines. Critics might also question whether marriage license fees should be used for crime victim services, as this ties an unrelated life event to the funding mechanism, and some may prefer that victim services be funded through general tax revenue or state budget appropriations rather than these targeted fees.",
+  "topic": "Criminal Justice & Public Safety",
+  "textLength": 10447,
+  "createdAt": "2026-06-23T03:10:48.171Z",
+  "sponsors": [
+    {"peopleId":25860,"name":"Woodson Bradley","party":"D","isPrimary":true},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

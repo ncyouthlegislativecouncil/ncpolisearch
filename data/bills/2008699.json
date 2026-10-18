@@ -1,0 +1,24 @@
+{
+  "billId": 2008699,
+  "billNumber": "S309",
+  "title": "Changes to Estates and Trusts Statutes",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "a85cc5be25f877f540ec21126ca600e0",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-18",
+  "url": "https://legiscan.com/NC/bill/S309/2025",
+  "aiSummary": "This bill modernizes North Carolina's estate and trust laws by allowing electronic wills (wills created and signed digitally), updating rules for calculating spouse inheritance rights in trusts, clarifying procedures for challenging trusts after someone dies, and increasing the financial support amounts available to surviving spouses ($60,000) and minor children ($10,000) from a deceased person's estate. These changes take effect January 1, 2026.",
+  "aiProArguments": "Supporters argue that electronic wills make estate planning more accessible and convenient for modern families, reducing costs and allowing people to create legally valid wills online. The increased allowance amounts ($60,000 for spouses and $10,000 for children) provide better financial support for surviving family members during difficult periods. Updated trust rules clarify procedures and protect beneficiaries by preventing unfair distributions while allowing trustees reasonable time to administer estates fairly.",
+  "aiConArguments": "Opponents may worry that electronic wills could increase fraud or disputes since they lack the physical safeguards of traditional signed documents, potentially leading to more court challenges. The higher allowance amounts increase costs to estates and may reduce assets available to other heirs or creditors. Some may view stricter trust distribution rules as limiting trustees' flexibility or creating unnecessary litigation by allowing more grounds to contest trusts after someone's death.",
+  "topic": "Other / General Government",
+  "textLength": 40700,
+  "createdAt": "2026-06-23T03:06:36.619Z",
+  "sponsors": [
+    {"peopleId":22423,"name":"Amy Galey","party":"R","isPrimary":true},
+    {"peopleId":12033,"name":"Warren Daniel","party":"R","isPrimary":true},
+    {"peopleId":22424,"name":"Michael Lazzara","party":"R","isPrimary":true},
+    {"peopleId":11858,"name":"Timothy Moffitt","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

@@ -1,0 +1,23 @@
+{
+  "billId": 2011587,
+  "billNumber": "S363",
+  "title": "DST Technical Corrections/Admin. Changes 2025.-AB",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "e6a0f21905411afd6060e3ddf760ce3a",
+  "lastAction": "Sequential Referral To Judiciary Added After Pensions and Retirement and Aging",
+  "lastActionDate": "2025-04-01",
+  "url": "https://legiscan.com/NC/bill/S363/2025",
+  "aiSummary": "This bill makes technical corrections and administrative changes to laws administered by the Department of State Treasurer. Key changes include extending the provisional entry period for charter schools joining the teachers' retirement system, shifting responsibility for benefit reversals from the State Treasurer to the Board of Trustees, clarifying fee distribution for out-of-state attorney licenses, modifying ABLE accounts to not automatically claim medical assistance repayment, and correcting various statutory references and formatting issues across retirement system laws.",
+  "aiProArguments": "Supporters argue these changes improve administrative efficiency and clarity in retirement system management. Extending the charter school provisional entry period allows newer schools more time to demonstrate financial stability before full participation. Transferring benefit reversal authority to the Board of Trustees aligns decisions with retirement expertise rather than treasury operations. The ABLE account modification eliminates automatic estate claims unless required by federal law, potentially benefiting families managing disability savings accounts.",
+  "aiConArguments": "Opponents may contend that extending charter school provisional entry delays their full integration into retirement systems and creates uncertainty for their employees. Shifting reversal authority from the State Treasurer to the Board of Trustees could create delays in decisions affecting individuals with vacated convictions seeking benefit restoration. Some may view the ABLE account changes as reducing state recovery of medical assistance costs, potentially impacting Medicaid program finances.",
+  "topic": "Education",
+  "textLength": 31814,
+  "createdAt": "2026-06-23T03:07:08.921Z",
+  "sponsors": [
+    {"peopleId":20225,"name":"Ted Alexander","party":"R","isPrimary":true},
+    {"peopleId":14615,"name":"Carl Ford","party":"R","isPrimary":true},
+    {"peopleId":20513,"name":"Bobby Hanig","party":"R","isPrimary":true}
+  ],
+  "rollCalls": []
+}

@@ -1,0 +1,24 @@
+{
+  "billId": 2147134,
+  "billNumber": "S1024",
+  "title": "My Power Bill Is Too High",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "d10df75c8b6827596dd0a3d202995773",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2026-05-06",
+  "url": "https://legiscan.com/NC/bill/S1024/2025",
+  "aiSummary": "This bill eliminates multiyear rate plans (MYRPs) that allow electric utilities to raise rates automatically over multiple years without annual review, and instead requires all rate changes to go through individual general rate cases. It also directs the Utilities Commission to study whether current performance incentives (capped at 1% of utility revenue) are effective at controlling costs and aligning utility decisions with consumer interests.",
+  "aiProArguments": "Supporters argue that multiyear rate plans allow utilities to increase rates without adequate annual scrutiny, reducing consumer protections. They contend that current performance incentives (limited to 1% of utility earnings) are too weak to counteract utilities' financial incentive to build expensive infrastructure, and that requiring individual rate cases for each year provides better oversight of utility spending decisions and helps keep bills lower by forcing utilities to justify every rate increase.",
+  "aiConArguments": "Opponents may argue that multiyear rate plans provide regulatory certainty that helps utilities plan long-term investments in grid infrastructure and clean energy, which benefits consumers through reliability and modernization. They could contend that repealing MYRPs forces utilities to file more frequent rate cases, increasing regulatory costs that may ultimately be passed to customers, and that the study requirement delays potential improvements to the current performance-based system.",
+  "topic": "Environment & Energy",
+  "textLength": 14822,
+  "createdAt": "2026-06-23T03:12:45.079Z",
+  "sponsors": [
+    {"peopleId":21633,"name":"Natalie Murdock","party":"D","isPrimary":true},
+    {"peopleId":22426,"name":"DeAndrea Salvador","party":"D","isPrimary":true},
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":false},
+    {"peopleId":25859,"name":"Caleb Theodros","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

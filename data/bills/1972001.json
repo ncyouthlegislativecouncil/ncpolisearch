@@ -1,0 +1,32 @@
+{
+  "billId": 1972001,
+  "billNumber": "S107",
+  "title": "Judge Joe John Nonpartisan Jud. Elections Act",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "f8497132ea2b7edf4f6df547e78da997",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-02-18",
+  "url": "https://legiscan.com/NC/bill/S107/2025",
+  "aiSummary": "This bill changes how North Carolina elects judges by returning to nonpartisan elections (without party labels) for Supreme Court, Court of Appeals, superior court, and district court judges. It also reestablishes a public campaign financing system for judicial candidates who voluntarily accept spending limits and demonstrate public support through small donations.",
+  "aiProArguments": "Supporters argue that nonpartisan judicial elections protect judicial independence by removing party politics from the courts, ensuring judges focus on the law rather than party loyalty. They contend that public financing reduces the influence of large donors on judicial decisions and helps qualified candidates run without depending on wealthy backers, ultimately restoring public confidence in an impartial judiciary.",
+  "aiConArguments": "Opponents may argue that partisan elections allow voters to know candidates' political philosophies and that party labels provide useful information for voting decisions. Some contend that public financing diverts taxpayer money to campaigns and that the spending limits may disadvantage challengers trying to compete against sitting judges with name recognition.",
+  "topic": "Elections & Voting",
+  "textLength": 82282,
+  "createdAt": "2026-06-23T03:04:58.188Z",
+  "sponsors": [
+    {"peopleId":24222,"name":"Lisa Grafstein","party":"D","isPrimary":true},
+    {"peopleId":20505,"name":"Sydney Batch","party":"D","isPrimary":true},
+    {"peopleId":17936,"name":"Jay Chaudhuri","party":"D","isPrimary":true},
+    {"peopleId":17147,"name":"Gale Adcock","party":"D","isPrimary":false},
+    {"peopleId":24220,"name":"Val Applewhite","party":"D","isPrimary":false},
+    {"peopleId":25858,"name":"Sophia Chitlik","party":"D","isPrimary":false},
+    {"peopleId":17457,"name":"Paul Lowe","party":"D","isPrimary":false},
+    {"peopleId":22425,"name":"Julie Mayfield","party":"D","isPrimary":false},
+    {"peopleId":21633,"name":"Natalie Murdock","party":"D","isPrimary":false},
+    {"peopleId":22426,"name":"DeAndrea Salvador","party":"D","isPrimary":false},
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":false},
+    {"peopleId":25859,"name":"Caleb Theodros","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

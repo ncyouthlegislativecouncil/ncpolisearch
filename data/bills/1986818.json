@@ -1,0 +1,26 @@
+{
+  "billId": 1986818,
+  "billNumber": "S199",
+  "title": "Home Ownership Market Manipulation",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "034038d426cf6b9f0a96f6b763bad83d",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-03",
+  "url": "https://legiscan.com/NC/bill/S199/2025",
+  "aiSummary": "This bill prohibits business entities (including corporations, LLCs, and partnerships) from purchasing single-family homes for rental purposes in North Carolina counties with populations over 150,000 if that entity and its affiliates already own 100 or more single-family rental homes. The Attorney General, county commissioners, and affected individuals can enforce the law through civil actions with penalties up to $100 per day per home, plus potential damages and attorney fees.",
+  "aiProArguments": "Supporters argue this bill addresses housing affordability by limiting corporate rental companies from buying up large numbers of single-family homes, which they contend reduces the supply available for individual homeowners and drives up prices. They emphasize that homeownership builds personal wealth through equity and is economically beneficial to families and communities, and that the bill preserves this opportunity for individual North Carolinians while still allowing some corporate rental activity.",
+  "aiConArguments": "Opponents may argue the bill could reduce rental housing availability in growing counties, potentially raising rents for those who cannot or prefer not to buy. They may also contend that rental companies provide important housing options, that the 100-home threshold is arbitrary, that enforcement could be costly and complex (particularly regarding affiliate tracking), and that limiting property purchases could discourage investment in housing markets and economic development in growing areas.",
+  "topic": "Housing",
+  "textLength": 6636,
+  "createdAt": "2026-06-23T03:05:44.698Z",
+  "sponsors": [
+    {"peopleId":11858,"name":"Timothy Moffitt","party":"R","isPrimary":true},
+    {"peopleId":17147,"name":"Gale Adcock","party":"D","isPrimary":false},
+    {"peopleId":24222,"name":"Lisa Grafstein","party":"D","isPrimary":false},
+    {"peopleId":17437,"name":"Thomas McInnis","party":"R","isPrimary":false},
+    {"peopleId":20223,"name":"Mujtaba Mohammed","party":"D","isPrimary":false},
+    {"peopleId":25859,"name":"Caleb Theodros","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

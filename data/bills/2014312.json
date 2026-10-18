@@ -1,0 +1,27 @@
+{
+  "billId": 2014312,
+  "billNumber": "S579",
+  "title": "Transforming the High School Experience",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "00e62c3bb602a4825070c98928fabfc9",
+  "lastAction": "Re-ref Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-04-30",
+  "url": "https://legiscan.com/NC/bill/S579/2025",
+  "aiSummary": "This bill establishes a High School Redesign Commission to study ways to better prepare students for college and careers, and creates four pilot programs in North Carolina schools using competency-based education (learning measured by skills mastery rather than time spent in class). The bill also funds evaluations of these programs through 2030.",
+  "aiProArguments": "Supporters argue that competency-based learning allows students to progress at their own pace, better preparing them for work or college. The programs create pathways for students to earn college credits and industry credentials while still in high school, potentially saving time and money. The bill includes partnerships with businesses and community colleges, connecting classroom learning to real-world job skills in healthcare, technology, and other high-demand fields.",
+  "aiConArguments": "Opponents may worry about the cost of these programs—the bill requests over $6 million in state funding across multiple years. Some may question whether competency-based approaches have been sufficiently tested compared to traditional education models. Others might be concerned about the reliance on third-party vendors and technology companies, or whether rural districts outside the pilot programs will benefit from these reforms.",
+  "topic": "Education",
+  "textLength": 24240,
+  "createdAt": "2026-06-23T03:09:03.032Z",
+  "sponsors": [
+    {"peopleId":17504,"name":"Michael Lee","party":"R","isPrimary":true},
+    {"peopleId":19669,"name":"Vickie Sawyer","party":"R","isPrimary":true},
+    {"peopleId":24226,"name":"Eddie Settle","party":"R","isPrimary":true},
+    {"peopleId":24220,"name":"Val Applewhite","party":"D","isPrimary":false},
+    {"peopleId":25860,"name":"Woodson Bradley","party":"D","isPrimary":false},
+    {"peopleId":17936,"name":"Jay Chaudhuri","party":"D","isPrimary":false},
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

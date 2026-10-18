@@ -1,0 +1,33 @@
+{
+  "billId": 2017455,
+  "billNumber": "H631",
+  "title": "State Infrastructure Bank Study",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "72229f2a0a659b61d0ebd593a2d94006",
+  "lastAction": "Re-ref Com On Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-04-17",
+  "url": "https://legiscan.com/NC/bill/H631/2025",
+  "aiSummary": "This bill creates a study commission to examine whether North Carolina should establish a state-owned infrastructure bank that could provide financing for projects like roads, housing, schools, and utilities. The 17-member commission will study how such a bank could work, what it would finance, how it should be organized, and what regulations it would need before reporting back to the legislature by the end of 2026.",
+  "aiProArguments": "Supporters argue that a state infrastructure bank could increase access to capital for important projects that might otherwise struggle to get traditional financing, particularly in underserved communities. They contend it could leverage state resources with federal and private funding to accelerate economic development, job creation, and improvements to transportation, broadband, energy, and environmental infrastructure while potentially generating earnings to supplement other state resources.",
+  "aiConArguments": "Opponents may worry that a state-owned bank could compete unfairly with private banks and credit unions already operating in North Carolina, potentially harming their business. Critics might also raise concerns about whether the state has the expertise to safely manage a banking operation, the risks of political interference in lending decisions, and whether public funds could be better used through existing mechanisms rather than creating a new state agency.",
+  "topic": "Transportation & Infrastructure",
+  "textLength": 7251,
+  "createdAt": "2026-06-23T02:55:43.357Z",
+  "sponsors": [
+    {"peopleId":20520,"name":"Brandon Lofton","party":"D","isPrimary":true},
+    {"peopleId":2083,"name":"Julia Howard","party":"R","isPrimary":true},
+    {"peopleId":22599,"name":"Amber Baker","party":"D","isPrimary":false},
+    {"peopleId":24199,"name":"Kanika Brown","party":"D","isPrimary":false},
+    {"peopleId":24202,"name":"Maria Cervania","party":"D","isPrimary":false},
+    {"peopleId":20515,"name":"Zack Forde-Hawkins","party":"D","isPrimary":false},
+    {"peopleId":24206,"name":"Frances Jackson","party":"D","isPrimary":false},
+    {"peopleId":20521,"name":"Carolyn Logan","party":"D","isPrimary":false},
+    {"peopleId":24210,"name":"Tim Longest","party":"D","isPrimary":false},
+    {"peopleId":24211,"name":"Jarrod Lowery","party":"R","isPrimary":false},
+    {"peopleId":2115,"name":"Garland Pierce","party":"D","isPrimary":false},
+    {"peopleId":24214,"name":"Renee Price","party":"D","isPrimary":false},
+    {"peopleId":26396,"name":"Phil Rubin","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

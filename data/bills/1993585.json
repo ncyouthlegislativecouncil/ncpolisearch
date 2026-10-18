@@ -1,0 +1,21 @@
+{
+  "billId": 1993585,
+  "billNumber": "H338",
+  "title": "Town of Oak Island/Deannexations",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "531f1fe53b5d0e04e73d6b181c81399b",
+  "lastAction": "Re-ref Com On Finance",
+  "lastActionDate": "2025-03-18",
+  "url": "https://legiscan.com/NC/bill/H338/2025",
+  "aiSummary": "This bill removes 11 specific properties (identified by parcel numbers) from the Town of Oak Island's corporate limits, meaning those properties will no longer be part of the town as of June 30, 2025. The properties will no longer be subject to municipal taxes beginning July 1, 2025, though any outstanding tax liens from before the change can still be collected.",
+  "aiProArguments": "Supporters may argue that deannexation allows property owners to reduce their tax burden by removing themselves from municipal jurisdiction and its associated fees. They may contend that these specific properties are better served by county government rather than town government, or that the property owners have requested this change to better align their governance with their needs.",
+  "aiConArguments": "Opponents may argue that deannexation reduces the town's tax base and revenue, making it harder to fund municipal services like police, fire, water, and infrastructure that benefit the entire community. They may also contend that removing properties creates inefficiency in service delivery and sets a precedent that could lead to further fragmentation of the town's territorial integrity.",
+  "topic": "Local Government",
+  "textLength": 1315,
+  "createdAt": "2026-06-23T02:48:45.840Z",
+  "sponsors": [
+    {"peopleId":22612,"name":"Charles Miller","party":"R","isPrimary":true}
+  ],
+  "rollCalls": []
+}

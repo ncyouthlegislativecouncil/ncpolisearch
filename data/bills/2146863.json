@@ -1,0 +1,22 @@
+{
+  "billId": 2146863,
+  "billNumber": "S979",
+  "title": "Increase Insurance Rate Transparency",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "b820283dbf854167341a005c3256ebd7",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2026-05-05",
+  "url": "https://legiscan.com/NC/bill/S979/2025",
+  "aiSummary": "This bill increases transparency in how insurance companies set rates for home and car insurance in North Carolina. It prohibits insurers from using credit scores as the sole reason to deny or increase rates, requires clearer notices to customers when they're charged higher rates, and mandates that insurers publish detailed data about their rating practices online so the public can see how rates vary by location and demographics.",
+  "aiProArguments": "Supporters argue this bill helps consumers understand why they're paying higher insurance premiums and gives them tools to challenge unfair rates. The bill also allows policymakers and the public to identify potential discrimination in insurance pricing by requiring data broken down by race, ethnicity, income, and neighborhood. Banning credit scores as the sole basis for rate increases prevents people with financial difficulties from being unfairly penalized for insurance they may need.",
+  "aiConArguments": "Opponents may argue that restricting how insurers use credit scores and rate deviations could limit insurers' ability to accurately price risk, potentially leading to higher insurance costs for all customers to offset losses. The extensive data reporting requirements could increase administrative costs for insurance companies. Some may also contend that limiting rate flexibility could reduce competition and consumer choice in the insurance market.",
+  "topic": "Business & Labor",
+  "textLength": 18878,
+  "createdAt": "2026-06-23T03:12:20.665Z",
+  "sponsors": [
+    {"peopleId":21633,"name":"Natalie Murdock","party":"D","isPrimary":true},
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

@@ -1,0 +1,28 @@
+{
+  "billId": 2008677,
+  "billNumber": "H419",
+  "title": "School of the Arts Building Purchase",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "c144d5609258ce7fc6c669903eedbdc2",
+  "lastAction": "Ref to the Com on Appropriations, if favorable, Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-03-18",
+  "url": "https://legiscan.com/NC/bill/H419/2025",
+  "aiSummary": "This bill appropriates $4.5 million in state funds for the University of North Carolina School of the Arts to purchase a building adjacent to the Stevens Center in Winston-Salem. The funds would be used in fiscal year 2025-2026 to acquire the real property and any improvements on the site.",
+  "aiProArguments": "Supporters argue this investment allows the School of the Arts to expand its facilities and better serve its students and the Winston-Salem arts community. Proponents may contend that purchasing this adjacent property provides necessary space for program growth, student facilities, or administrative operations, strengthening a valued state institution and supporting the arts in North Carolina.",
+  "aiConArguments": "Opponents may question whether $4.5 million is the best use of state funds given other budget priorities, or whether the School of the Arts could meet its needs through alternative means such as leasing, renovating existing facilities, or seeking private donations. Critics might also ask for more details about the building's condition, long-term maintenance costs, and how this purchase aligns with broader university strategic plans.",
+  "topic": "Taxes & Budget",
+  "textLength": 1155,
+  "createdAt": "2026-06-23T02:50:55.967Z",
+  "sponsors": [
+    {"peopleId":17876,"name":"Kyle Hall","party":"R","isPrimary":true},
+    {"peopleId":14624,"name":"Donny Lambeth","party":"R","isPrimary":true},
+    {"peopleId":22599,"name":"Amber Baker","party":"D","isPrimary":false},
+    {"peopleId":24200,"name":"Laura Budd","party":"D","isPrimary":false},
+    {"peopleId":19238,"name":"Deb Butler","party":"D","isPrimary":false},
+    {"peopleId":20509,"name":"Allison Dahle","party":"D","isPrimary":false},
+    {"peopleId":2077,"name":"Mary Harrison","party":"D","isPrimary":false},
+    {"peopleId":22611,"name":"Jeff Zenger","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

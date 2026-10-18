@@ -1,0 +1,21 @@
+{
+  "billId": 2146591,
+  "billNumber": "H1113",
+  "title": "Shellfish Leasing Moratoria",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "8804d9f0bf9d63e7407767ad27b7963e",
+  "lastAction": "Re-ref Com On Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2026-06-18",
+  "url": "https://legiscan.com/NC/bill/H1113/2025",
+  "aiSummary": "This bill extends existing moratoria (temporary bans) on new shellfish cultivation leases in the New Hanover County area and Bogue Sound, and creates a new temporary moratorium on shellfish leases in parts of Pender and Onslow Counties. The New Hanover moratorium is extended from July 1, 2026 to July 1, 2031, the Bogue Sound moratorium is extended from July 1, 2026 to July 1, 2028, and the new Pender-Onslow moratorium runs until July 1, 2028. The bill also appropriates $10,000 for public education about these moratoria.",
+  "aiProArguments": "Supporters argue these moratoria protect sensitive coastal ecosystems and water quality in these regions by preventing expansion of shellfish aquaculture operations. They contend that temporary pauses allow time to study environmental impacts, assess sustainability, and gather community input before allowing new leasing. Proponents may also argue the moratoria protect existing water uses and recreational opportunities in these areas.",
+  "aiConArguments": "Opponents contend these moratoria limit economic development and business opportunities for shellfish farmers and aquaculture entrepreneurs who could benefit from expansion in these areas. They argue the repeated extensions (rather than permanent policy decisions) create uncertainty for potential investors and delay job creation. Critics may also question whether the moratoria are based on concrete environmental evidence or are primarily driven by political pressure from local opposition.",
+  "topic": "Agriculture",
+  "textLength": 6463,
+  "createdAt": "2026-06-23T03:01:59.631Z",
+  "sponsors": [
+    {"peopleId":14613,"name":"Robert Davis","party":"R","isPrimary":true}
+  ],
+  "rollCalls": []
+}

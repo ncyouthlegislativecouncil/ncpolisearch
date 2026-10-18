@@ -1,0 +1,21 @@
+{
+  "billId": 2013818,
+  "billNumber": "S527",
+  "title": "Modify Laws Applicable to LME/MCOs",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "4e7061b8cbba86377fa6c99dfc0b966c",
+  "lastAction": "Re-ref Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-04-17",
+  "url": "https://legiscan.com/NC/bill/S527/2025",
+  "aiSummary": "This bill modifies laws governing Local Management Entities/Managed Care Organizations (LME/MCOs) in North Carolina. It allows senior management employees at area authorities to receive salaries above normal state salary ranges with proper documentation and approval, and makes a technical change to allow LME/MCOs to contract with entities holding certain licenses for behavioral health and intellectual/developmental disability services.",
+  "aiProArguments": "Supporters argue this bill helps area authorities attract and retain qualified senior management talent by allowing competitive salaries based on regional market rates, which they contend is necessary to compete with private sector positions. They also note the change gives LME/MCOs more flexibility in contracting for behavioral health and developmental disability services, potentially improving service delivery options.",
+  "aiConArguments": "Opponents may be concerned that allowing salaries above state-established ranges could lead to inconsistent compensation practices and create equity issues across different area authorities. They might also worry about accountability and oversight, particularly if salary decisions are made without sufficient safeguards beyond documentation requirements, and question whether this represents efficient use of public healthcare funding.",
+  "topic": "Healthcare",
+  "textLength": 5717,
+  "createdAt": "2026-06-23T03:08:36.849Z",
+  "sponsors": [
+    {"peopleId":20216,"name":"Jim Burgin","party":"R","isPrimary":true}
+  ],
+  "rollCalls": []
+}

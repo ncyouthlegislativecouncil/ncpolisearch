@@ -1,0 +1,28 @@
+{
+  "billId": 2145843,
+  "billNumber": "S836",
+  "title": "Domestic Violence Divorce Reform Act",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "2a02cb0c87da5b3bfa3cefcac602ab84",
+  "lastAction": "Re-ref to Appropriations/Base Budget. If fav, re-ref to Rules and Operations of the Senate",
+  "lastActionDate": "2026-04-28",
+  "url": "https://legiscan.com/NC/bill/S836/2025",
+  "aiSummary": "This bill makes three main changes to North Carolina family law: it shortens the separation period required for divorce from one year to six months (with exceptions), allows domestic violence victims to divorce immediately without a separation period if they provide evidence, and eliminates the civil lawsuits for 'alienation of affection' and 'criminal conversation.' The bill also appropriates $3 million to expand family planning education programs.",
+  "aiProArguments": "Supporters argue this bill protects domestic violence victims by allowing them to exit abusive marriages quickly without waiting months for a divorce, potentially preventing further harm. They contend that eliminating alienation of affection and criminal conversation lawsuits removes outdated legal claims that can be weaponized in divorce disputes and that shorter separation periods for uncontested divorces reduce legal costs and delays for couples who mutually agree to end their marriage.",
+  "aiConArguments": "Opponents may argue that shortening standard separation periods could discourage reconciliation efforts and makes divorce too easily accessible. Some may contend that eliminating alienation of affection and criminal conversation lawsuits removes legal remedies available to spouses harmed by infidelity or interference in marriages. Critics might also question whether the $3 million appropriation for family planning programs is appropriately connected to divorce reform.",
+  "topic": "Criminal Justice & Public Safety",
+  "textLength": 6788,
+  "createdAt": "2026-06-23T03:11:07.201Z",
+  "sponsors": [
+    {"peopleId":25860,"name":"Woodson Bradley","party":"D","isPrimary":true},
+    {"peopleId":17147,"name":"Gale Adcock","party":"D","isPrimary":false},
+    {"peopleId":25858,"name":"Sophia Chitlik","party":"D","isPrimary":false},
+    {"peopleId":26664,"name":"Jonah Garson","party":"D","isPrimary":false},
+    {"peopleId":21633,"name":"Natalie Murdock","party":"D","isPrimary":false},
+    {"peopleId":22426,"name":"DeAndrea Salvador","party":"D","isPrimary":false},
+    {"peopleId":25859,"name":"Caleb Theodros","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

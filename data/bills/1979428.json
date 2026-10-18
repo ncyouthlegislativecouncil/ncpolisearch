@@ -1,0 +1,21 @@
+{
+  "billId": 1979428,
+  "billNumber": "S130",
+  "title": "Revise Filing Period/Elections/Hendersonville",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "0d9b9866eee6fbb99b32e7995bade983",
+  "lastAction": "Re-ref to Elections. If fav, re-ref to Rules and Operations of the Senate",
+  "lastActionDate": "2025-02-26",
+  "url": "https://legiscan.com/NC/bill/S130/2025",
+  "aiSummary": "This bill changes when candidates can file to run for Mayor and Council Members in Hendersonville by aligning the municipal filing period with the filing period for county officers elected on a partisan basis, rather than using a separate filing schedule.",
+  "aiProArguments": "Supporters argue this creates consistency and simplifies the election process by using the same filing deadline for both municipal and county races. This may reduce confusion for candidates and election officials in Hendersonville who currently must track different filing periods.",
+  "aiConArguments": "Opponents may be concerned that changing the filing period could disadvantage potential candidates who are unaware of the new timeline, or that aligning with county partisan elections' timing doesn't fit municipal nonpartisan elections. Some might argue the previous filing period better served local candidates or civic engagement in Hendersonville.",
+  "topic": "Elections & Voting",
+  "textLength": 1037,
+  "createdAt": "2026-06-23T03:05:10.384Z",
+  "sponsors": [
+    {"peopleId":11858,"name":"Timothy Moffitt","party":"R","isPrimary":true}
+  ],
+  "rollCalls": []
+}

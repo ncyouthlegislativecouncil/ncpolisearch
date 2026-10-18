@@ -1,0 +1,22 @@
+{
+  "billId": 2013792,
+  "billNumber": "S489",
+  "title": "Modify Nonprofit Corp. Act/Charitable Org",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "5236abfc8f4395c6a232c9552b0f44bd",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-26",
+  "url": "https://legiscan.com/NC/bill/S489/2025",
+  "aiSummary": "This bill makes several changes to North Carolina's nonprofit corporation laws, including: allowing charitable organizations to use federal tax acknowledgments to satisfy state disclosure requirements; requiring annual reports to the Secretary of State; allowing nonprofits to domesticate (change their governing state); reducing the minimum number of directors from three to one; and clarifying rules for mergers, conversions, and board committees.",
+  "aiProArguments": "Supporters argue this bill modernizes nonprofit governance by reducing regulatory burden through federal-state alignment on disclosures, streamlining annual reporting requirements, and allowing smaller organizations to operate with fewer directors. These changes make it easier for nonprofits to manage administrative compliance, allow flexibility for organizations of different sizes, and facilitate legitimate business restructuring like domestication and conversion.",
+  "aiConArguments": "Opponents may be concerned that reducing director requirements from three to one could weaken governance oversight and accountability in nonprofits, potentially allowing fewer people to make major decisions. Some may worry that aligning state disclosures with federal tax requirements could reduce transparency for state-level charitable solicitation oversight, and that allowing more organizational flexibility through domestication and conversion could complicate state regulation of nonprofit assets.",
+  "topic": "Other / General Government",
+  "textLength": 59975,
+  "createdAt": "2026-06-23T03:08:18.268Z",
+  "sponsors": [
+    {"peopleId":24225,"name":"Benton Sawrey","party":"R","isPrimary":true},
+    {"peopleId":22425,"name":"Julie Mayfield","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

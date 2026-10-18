@@ -1,0 +1,28 @@
+{
+  "billId": 1958831,
+  "billNumber": "H70",
+  "title": "SchCalFlex/Hertford/CC",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "f92363f89024b71eaece8e85249a6523",
+  "lastAction": "Re-ref to the Com on Education - K-12, if favorable, Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-02-24",
+  "url": "https://legiscan.com/NC/bill/H70/2025",
+  "aiSummary": "This bill allows Hertford County Schools to align their school calendar with the calendar of Roanoke-Chowan Community College. It adds an exception to state law that normally sets specific opening and closing dates for public schools, enabling local school boards to coordinate their schedules with community colleges in their area.",
+  "aiProArguments": "Supporters argue that aligning school calendars with community college calendars benefits students who attend both institutions by reducing scheduling conflicts and making it easier for high school students to take college courses. This coordination can improve access to dual enrollment programs and streamline operations for families and educators who work across both school systems.",
+  "aiConArguments": "Opponents may be concerned that allowing individual counties to deviate from statewide calendar requirements creates inconsistency across North Carolina and could complicate student transfers between districts. Some may worry that calendar flexibility could disadvantage schools that don't receive similar waivers or create complications for families with children in different school systems.",
+  "topic": "Education",
+  "textLength": 2806,
+  "createdAt": "2026-06-23T02:40:10.153Z",
+  "sponsors": [
+    {"peopleId":24219,"name":"Bill Ward","party":"R","isPrimary":true},
+    {"peopleId":18451,"name":"Mary Belk","party":"D","isPrimary":false},
+    {"peopleId":2077,"name":"Mary Harrison","party":"D","isPrimary":false},
+    {"peopleId":21377,"name":"Jake Johnson","party":"R","isPrimary":false},
+    {"peopleId":20520,"name":"Brandon Lofton","party":"D","isPrimary":false},
+    {"peopleId":25853,"name":"Rodney Pierce","party":"D","isPrimary":false},
+    {"peopleId":24214,"name":"Renee Price","party":"D","isPrimary":false},
+    {"peopleId":14633,"name":"Dennis Riddell","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

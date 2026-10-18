@@ -1,0 +1,32 @@
+{
+  "billId": 2011541,
+  "billNumber": "S366",
+  "title": "Increase Medicaid PCS and PDN Rates",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "6f09dc8d2bb9d7fc7e933963df5fbe41",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2025-03-24",
+  "url": "https://legiscan.com/NC/bill/S366/2025",
+  "aiSummary": "This bill increases Medicaid reimbursement rates for two types of in-home health services: personal care services (to $7.50 per 15-minute increment) and private duty nursing services (to $16.25 per 15-minute increment). The bill appropriates approximately $139 million in state funds over two years, which will also unlock approximately $254 million in federal matching funds, with these rate increases taking effect July 1, 2025.",
+  "aiProArguments": "Supporters argue that higher reimbursement rates are necessary to attract and retain healthcare workers in these low-wage fields, addressing workforce shortages that affect vulnerable populations who depend on these services. They contend that better pay improves service quality and continuity of care for Medicaid beneficiaries who need personal care assistance and nursing services to remain in their homes rather than institutional settings.",
+  "aiConArguments": "Opponents may express concerns about the substantial cost to the state budget ($139 million over two years) at a time when state resources are limited, and question whether rate increases will actually improve workforce recruitment or simply increase profits for agencies without reaching frontline workers. They might also argue that the state should evaluate whether funds would be better spent on other health priorities or ask whether alternative solutions exist to address workforce issues.",
+  "topic": "Healthcare",
+  "textLength": 2487,
+  "createdAt": "2026-06-23T03:07:10.468Z",
+  "sponsors": [
+    {"peopleId":20216,"name":"Jim Burgin","party":"R","isPrimary":true},
+    {"peopleId":11858,"name":"Timothy Moffitt","party":"R","isPrimary":true},
+    {"peopleId":17147,"name":"Gale Adcock","party":"D","isPrimary":true},
+    {"peopleId":24220,"name":"Val Applewhite","party":"D","isPrimary":false},
+    {"peopleId":24222,"name":"Lisa Grafstein","party":"D","isPrimary":false},
+    {"peopleId":17457,"name":"Paul Lowe","party":"D","isPrimary":false},
+    {"peopleId":20223,"name":"Mujtaba Mohammed","party":"D","isPrimary":false},
+    {"peopleId":12032,"name":"Gladys Robinson","party":"D","isPrimary":false},
+    {"peopleId":22426,"name":"DeAndrea Salvador","party":"D","isPrimary":false},
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":false},
+    {"peopleId":25859,"name":"Caleb Theodros","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

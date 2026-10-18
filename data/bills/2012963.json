@@ -1,0 +1,31 @@
+{
+  "billId": 2012963,
+  "billNumber": "S409",
+  "title": "Ban Ghost Guns & Undetectable Firearms",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "216b4da4ecd3879f79e57ccb4e043f55",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-25",
+  "url": "https://legiscan.com/NC/bill/S409/2025",
+  "aiSummary": "This bill would make it illegal for most people in North Carolina to manufacture, sell, give away, transfer, use, or possess ghost guns (firearms without serial numbers) or undetectable firearms (guns that don't show up on metal detectors or are made entirely of plastic/3D-printed materials). Licensed federal firearm manufacturers would be exempt from this prohibition. Violations would be charged as Class I felonies.",
+  "aiProArguments": "Supporters argue that ghost guns and undetectable firearms create public safety risks because they cannot be traced by law enforcement after crimes, lack safety oversight, and can bypass airport and building security screenings. They contend that these weapons are particularly dangerous because they evade both detection systems and regulatory tracking, making it harder to prevent violence and solve crimes.",
+  "aiConArguments": "Opponents argue that the bill may infringe on Second Amendment rights, particularly concerning lawful firearm ownership and repair. They also question enforcement challenges, such as how existing guns would be addressed, whether the definition of 3D-printed firearms is too broad, and whether this law would effectively reduce crime or simply burden law-abiding gun owners who build firearms for personal use.",
+  "topic": "Criminal Justice & Public Safety",
+  "textLength": 2450,
+  "createdAt": "2026-06-23T03:07:34.286Z",
+  "sponsors": [
+    {"peopleId":17936,"name":"Jay Chaudhuri","party":"D","isPrimary":true},
+    {"peopleId":24220,"name":"Val Applewhite","party":"D","isPrimary":true},
+    {"peopleId":20220,"name":"Michael Garrett","party":"D","isPrimary":false},
+    {"peopleId":24222,"name":"Lisa Grafstein","party":"D","isPrimary":false},
+    {"peopleId":22425,"name":"Julie Mayfield","party":"D","isPrimary":false},
+    {"peopleId":20223,"name":"Mujtaba Mohammed","party":"D","isPrimary":false},
+    {"peopleId":21633,"name":"Natalie Murdock","party":"D","isPrimary":false},
+    {"peopleId":22426,"name":"DeAndrea Salvador","party":"D","isPrimary":false},
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":false},
+    {"peopleId":25859,"name":"Caleb Theodros","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

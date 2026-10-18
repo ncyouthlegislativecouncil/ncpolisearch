@@ -1,0 +1,23 @@
+{
+  "billId": 2146795,
+  "billNumber": "S982",
+  "title": "Make Enf. Liable & Transparent (MELT) Act",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "ace2a0731e591e736cf2fc48fc3e0dd6",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2026-05-05",
+  "url": "https://legiscan.com/NC/bill/S982/2025",
+  "aiSummary": "The Make Enf. Liable & Transparent (MELT) Act would require judicial warrants (rather than administrative warrants) for federal immigration enforcement in North Carolina, repeal a 2025 law expanding jail cooperation with immigration authorities, provide $4 million in grants to immigrant legal services organizations, establish transparency requirements for law enforcement (facial coverings, identification, body cameras), prohibit immigration enforcement in courthouses, schools, hospitals, and places of worship, and create penalties for impersonating federal officers.",
+  "aiProArguments": "Supporters argue this bill protects constitutional rights by requiring probable cause determinations by judges before immigration arrests, restores community trust in law enforcement by limiting cooperation with federal immigration agencies, provides due process protections by ensuring immigrants have access to legal representation, and addresses concerns that prior immigration enforcement policies chilled trust between immigrant communities and local police, making residents less likely to report crimes or cooperate with law enforcement.",
+  "aiConArguments": "Opponents argue the bill may conflict with federal immigration law and create enforcement complications for state and local law enforcement, imposes significant costs ($4 million in grants plus administrative burdens), could limit law enforcement's ability to cooperate with federal partners on public safety matters, and that requirements like body cameras and identification rules for federal officers may be unenforceable or interfere with legitimate federal enforcement operations already authorized under federal law.",
+  "topic": "Criminal Justice & Public Safety",
+  "textLength": 19146,
+  "createdAt": "2026-06-23T03:12:21.976Z",
+  "sponsors": [
+    {"peopleId":25858,"name":"Sophia Chitlik","party":"D","isPrimary":true},
+    {"peopleId":25859,"name":"Caleb Theodros","party":"D","isPrimary":true},
+    {"peopleId":21633,"name":"Natalie Murdock","party":"D","isPrimary":true}
+  ],
+  "rollCalls": []
+}

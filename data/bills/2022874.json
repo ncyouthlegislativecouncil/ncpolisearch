@@ -1,0 +1,25 @@
+{
+  "billId": 2022874,
+  "billNumber": "H999",
+  "title": "Regulation of Video Gaming Terminals",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "3f01032bfa8155f38e917aa82ecbb58e",
+  "lastAction": "Ref To Com On Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-04-14",
+  "url": "https://legiscan.com/NC/bill/H999/2025",
+  "aiSummary": "This bill authorizes and creates a regulated system for video gaming terminals in North Carolina. It establishes licensing requirements for manufacturers, operators, and merchants; sets up a central monitoring system; allocates revenues between the state, operators, and merchants; and creates criminal penalties for unauthorized gaming machines.",
+  "aiProArguments": "Supporters argue this bill generates substantial state revenue—32% of net machine revenues go to a Video Gaming Fund and 8% covers enforcement and educational grants to historically Black universities. The bill includes strong consumer protections like age restrictions (21+), mandatory surveillance, distance requirements from schools and churches, and a voluntary exclusion program for problem gamblers. It creates jobs and tax revenue while establishing clear regulatory oversight through the Lottery Commission.",
+  "aiConArguments": "Opponents contend the bill expands gambling in the state, potentially increasing problem gambling and associated social harms despite the voluntary exclusion program and responsible gaming materials. Critics worry about the concentration of benefit to operators and merchants (60% of revenues combined), question whether regulatory oversight will be adequate given the bill's complexity, and note that advertising restrictions may limit consumer awareness of responsible gaming resources. Some also express concern about the $14 million initial borrowing needed to implement the system.",
+  "topic": "Business & Labor",
+  "textLength": 67135,
+  "createdAt": "2026-06-23T03:00:13.636Z",
+  "sponsors": [
+    {"peopleId":11850,"name":"Harry Warren","party":"R","isPrimary":true},
+    {"peopleId":22965,"name":"Donnie Loftis","party":"R","isPrimary":true},
+    {"peopleId":25197,"name":"Jerry Branson","party":"R","isPrimary":false},
+    {"peopleId":22612,"name":"Charles Miller","party":"R","isPrimary":false},
+    {"peopleId":22616,"name":"Ray Pickett","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

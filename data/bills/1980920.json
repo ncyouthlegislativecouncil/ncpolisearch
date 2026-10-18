@@ -1,0 +1,23 @@
+{
+  "billId": 1980920,
+  "billNumber": "S140",
+  "title": "Funds for My Brother's Keeper",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "120c5ac1567fc4117ff44ed0b19cfa9c",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2025-02-25",
+  "url": "https://legiscan.com/NC/bill/S140/2025",
+  "aiSummary": "This bill appropriates $75,000 in one-time state funding for the 2025-2026 fiscal year to My Brother's Keeper of Charlotte, a nonprofit organization that provides programs aimed at improving outcomes for boys and young men of color.",
+  "aiProArguments": "Supporters argue that boys and young men of color face significant disparities in education, employment, and other life outcomes, and that My Brother's Keeper's programs help address these gaps through mentorship and support services. They contend that targeted funding for evidence-based nonprofit programs is an effective way to invest in vulnerable youth populations and improve long-term community outcomes.",
+  "aiConArguments": "Opponents may question whether directed grants to specific organizations represent the best use of state funds, and whether such funding should be awarded through a competitive grant process instead. Some may also raise concerns about the one-time nature of the funding and whether it creates sustainable, ongoing support for the organization's programs.",
+  "topic": "Social Services & Welfare",
+  "textLength": 834,
+  "createdAt": "2026-06-23T03:05:15.300Z",
+  "sponsors": [
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":true},
+    {"peopleId":20223,"name":"Mujtaba Mohammed","party":"D","isPrimary":false},
+    {"peopleId":25859,"name":"Caleb Theodros","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

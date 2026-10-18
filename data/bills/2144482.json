@@ -1,0 +1,22 @@
+{
+  "billId": 2144482,
+  "billNumber": "S796",
+  "title": "Compact to Award Prizes for Curing Disease",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "d97b31998a7fd65536ba4718191d47b4",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2026-04-23",
+  "url": "https://legiscan.com/NC/bill/S796/2025",
+  "aiSummary": "This bill establishes a multi-state compact where participating states pool resources to award prizes for disease cures. States would contribute to prize funds based on their population and expected healthcare savings, and winners who develop approved cures must transfer patent rights to the commission so the cure can be manufactured and distributed affordably.",
+  "aiProArguments": "Supporters argue this creates powerful financial incentives for developing cures for major diseases by pooling multiple states' healthcare savings. The approach could accelerate medical innovation by guaranteeing large prizes to researchers and companies who develop qualifying treatments. Prize winners transfer patents to ensure cures become widely available and affordable rather than remaining expensive proprietary products.",
+  "aiConArguments": "Opponents may worry about significant state financial commitments and unpredictable costs, as states would pay based on actual healthcare savings over multiple years. There are concerns about how the commission would accurately determine what qualifies as a \"cure,\" potential challenges forcing companies to surrender valuable patents, and whether the prize amounts would be sufficient to actually incentivize cure development compared to traditional profit models.",
+  "topic": "Healthcare",
+  "textLength": 41872,
+  "createdAt": "2026-06-23T03:10:49.059Z",
+  "sponsors": [
+    {"peopleId":20216,"name":"Jim Burgin","party":"R","isPrimary":true},
+    {"peopleId":11858,"name":"Timothy Moffitt","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

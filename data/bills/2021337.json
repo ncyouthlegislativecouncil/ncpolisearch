@@ -1,0 +1,29 @@
+{
+  "billId": 2021337,
+  "billNumber": "H823",
+  "title": "County Service Districts/Research & URSD",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "9e3147e234c3a153d163de1e4a5d95df",
+  "lastAction": "Ref To Com On Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-04-09",
+  "url": "https://legiscan.com/NC/bill/H823/2025",
+  "aiSummary": "This bill modifies North Carolina's laws governing Research and Production Service Districts (RPSDs) and Urban Research Service Districts (URSDs), which are special taxing districts that allow counties to provide enhanced services to specific areas like research parks. The changes clarify procedures for multi-county districts, expand the authority of private developers to act as agents for service provision, increase the property tax rate limit in these districts from 10 cents to 20 cents per $100 of property value, and allow URSD tax revenues to support certain county debt service for capital projects benefiting the district.",
+  "aiProArguments": "Supporters argue these changes facilitate economic development by streamlining the creation and expansion of multi-county research and production districts, making it easier for regional projects to proceed without each county having to separately meet all criteria. They contend that allowing developers greater responsibility for service delivery reduces government bureaucracy and leverages private efficiency, while the increased tax rate authority (from 10¢ to 20¢ per $100) provides districts with additional revenue to invest in infrastructure and services that attract quality employers and support job creation.",
+  "aiConArguments": "Opponents may express concerns that delegating service provision authority to private developers could prioritize developer interests over broader public needs, and that the expanded tax rate authority could burden property owners in these districts with significantly higher taxes without guaranteed accountability. Some may also worry that allowing multi-county districts to proceed even when individual counties don't meet standards could result in uneven development and create privileged tax zones that advantage certain areas over others in the county.",
+  "topic": "Local Government",
+  "textLength": 15219,
+  "createdAt": "2026-06-23T02:58:12.142Z",
+  "sponsors": [
+    {"peopleId":20515,"name":"Zack Forde-Hawkins","party":"D","isPrimary":true},
+    {"peopleId":24210,"name":"Tim Longest","party":"D","isPrimary":true},
+    {"peopleId":21631,"name":"Vernetta Alston","party":"D","isPrimary":true},
+    {"peopleId":18449,"name":"Cynthia Ball","party":"D","isPrimary":true},
+    {"peopleId":18451,"name":"Mary Belk","party":"D","isPrimary":false},
+    {"peopleId":24202,"name":"Maria Cervania","party":"D","isPrimary":false},
+    {"peopleId":20509,"name":"Allison Dahle","party":"D","isPrimary":false},
+    {"peopleId":24206,"name":"Frances Jackson","party":"D","isPrimary":false},
+    {"peopleId":20521,"name":"Carolyn Logan","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

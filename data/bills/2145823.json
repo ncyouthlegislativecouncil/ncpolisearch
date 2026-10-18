@@ -1,0 +1,31 @@
+{
+  "billId": 2145823,
+  "billNumber": "S838",
+  "title": "The Frontline Mental Health Support Act",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "50608e11087b18d105537df328ad8e7e",
+  "lastAction": "Re-ref to Appropriations/Base Budget. If fav, re-ref to Rules and Operations of the Senate",
+  "lastActionDate": "2026-04-28",
+  "url": "https://legiscan.com/NC/bill/S838/2025",
+  "aiSummary": "This bill establishes the Frontline Mental Health Support Program to provide free, confidential mental health counseling services to teachers and first responders (including police officers, firefighters, paramedics, 911 dispatchers, and correctional officers) in North Carolina. The bill appropriates $10 million to run the program and $3 million in grants to expand the behavioral health workforce to support it.",
+  "aiProArguments": "Supporters argue that teachers and first responders experience significant occupational stress and trauma that can affect their mental health and job performance. The bill provides confidential access to care without employment consequences, helping reduce stigma and encouraging people to seek treatment. Additionally, the $3 million in grants expands the mental health workforce by hiring more counselors and therapists, which benefits the broader community while supporting these essential workers.",
+  "aiConArguments": "Opponents may question whether $13 million in annual state spending is the best use of limited budget resources, especially when other mental health needs exist statewide. Some may argue the program should be funded through employer or insurance contributions rather than general taxpayer funds, or that the 12 sessions per year may be insufficient for those with serious mental health crises. Others might note that similar confidential mental health benefits could be addressed through existing employee assistance programs or private insurance rather than creating a new state program.",
+  "topic": "Healthcare",
+  "textLength": 4824,
+  "createdAt": "2026-06-23T03:11:08.308Z",
+  "sponsors": [
+    {"peopleId":25859,"name":"Caleb Theodros","party":"D","isPrimary":true},
+    {"peopleId":22425,"name":"Julie Mayfield","party":"D","isPrimary":true},
+    {"peopleId":25860,"name":"Woodson Bradley","party":"D","isPrimary":true},
+    {"peopleId":17147,"name":"Gale Adcock","party":"D","isPrimary":false},
+    {"peopleId":25858,"name":"Sophia Chitlik","party":"D","isPrimary":false},
+    {"peopleId":20220,"name":"Michael Garrett","party":"D","isPrimary":false},
+    {"peopleId":26664,"name":"Jonah Garson","party":"D","isPrimary":false},
+    {"peopleId":21633,"name":"Natalie Murdock","party":"D","isPrimary":false},
+    {"peopleId":22426,"name":"DeAndrea Salvador","party":"D","isPrimary":false},
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

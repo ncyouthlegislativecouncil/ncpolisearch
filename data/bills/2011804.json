@@ -1,0 +1,31 @@
+{
+  "billId": 2011804,
+  "billNumber": "S381",
+  "title": "Equality for All",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "2525a33ec06a4f24d1cd375a280bfe09",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-24",
+  "url": "https://legiscan.com/NC/bill/S381/2025",
+  "aiSummary": "This bill expands North Carolina's nondiscrimination protections across housing, employment, public accommodations, credit, insurance, education, and jury service. It adds sexual orientation, gender identity, marital status, familial status, military/veteran status, and genetic information to the list of protected characteristics in state law, and establishes complaint procedures through the Human Relations Commission.",
+  "aiProArguments": "Supporters argue this bill ensures equal treatment for all North Carolinians by closing gaps in existing protections. They contend it prevents discrimination based on characteristics unrelated to job performance or service quality, protects vulnerable groups from unfair denial of housing, employment, credit, and services, and modernizes state law to reflect current understanding of civil rights. The bill creates consistent enforcement mechanisms across sectors.",
+  "aiConArguments": "Opponents raise concerns about potential conflicts with religious liberty and free speech, arguing that religious organizations and individuals may face legal challenges for following sincerely held beliefs. Some question whether adding protected categories creates excessive compliance burdens on small businesses and whether certain provisions, such as gender identity bathroom access rules, reflect community values. Others worry about the scope of enforcement authority given to the Human Relations Commission.",
+  "topic": "Other / General Government",
+  "textLength": 27057,
+  "createdAt": "2026-06-23T03:07:19.659Z",
+  "sponsors": [
+    {"peopleId":24222,"name":"Lisa Grafstein","party":"D","isPrimary":true},
+    {"peopleId":22425,"name":"Julie Mayfield","party":"D","isPrimary":true},
+    {"peopleId":16251,"name":"Graig Meyer","party":"D","isPrimary":true},
+    {"peopleId":24220,"name":"Val Applewhite","party":"D","isPrimary":false},
+    {"peopleId":17936,"name":"Jay Chaudhuri","party":"D","isPrimary":false},
+    {"peopleId":25858,"name":"Sophia Chitlik","party":"D","isPrimary":false},
+    {"peopleId":21633,"name":"Natalie Murdock","party":"D","isPrimary":false},
+    {"peopleId":22426,"name":"DeAndrea Salvador","party":"D","isPrimary":false},
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":false},
+    {"peopleId":25859,"name":"Caleb Theodros","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

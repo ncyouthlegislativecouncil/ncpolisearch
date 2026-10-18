@@ -1,0 +1,29 @@
+{
+  "billId": 2147071,
+  "billNumber": "S1045",
+  "title": "Utility Profit Oversight Act",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "bf3f6e8292835c28018616493251a887",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2026-05-05",
+  "url": "https://legiscan.com/NC/bill/S1045/2025",
+  "aiSummary": "This bill requires the North Carolina Utilities Commission to obtain approval from the General Assembly before allowing electric utility rate increases that would raise a utility's authorized rate of return on equity. The bill also directs the Utilities Commission to study the cost of equity capital for electric utilities and report findings by January 1, 2027.",
+  "aiProArguments": "Supporters argue this bill gives lawmakers direct oversight of utility profits and protects ratepayers from excessive rate increases. They contend that allowing the General Assembly to ratify major rate hikes ensures elected representatives—not just regulators—have a say in utility finances, and that studying equity costs will provide evidence about whether utilities' current authorized profit levels are reasonable compared to market returns and other investments.",
+  "aiConArguments": "Opponents argue this bill could slow utility rate decisions and create uncertainty that makes utilities less attractive to investors, potentially increasing their borrowing costs and ultimately raising rates for consumers. They also contend that the Utilities Commission already has adequate authority to prevent unjust rates, and that requiring legislative ratification politicizes technical regulatory decisions that are better handled by expert commissions with established procedures.",
+  "topic": "Taxes & Budget",
+  "textLength": 9400,
+  "createdAt": "2026-06-23T03:12:55.705Z",
+  "sponsors": [
+    {"peopleId":22426,"name":"DeAndrea Salvador","party":"D","isPrimary":true},
+    {"peopleId":20220,"name":"Michael Garrett","party":"D","isPrimary":true},
+    {"peopleId":24222,"name":"Lisa Grafstein","party":"D","isPrimary":true},
+    {"peopleId":17147,"name":"Gale Adcock","party":"D","isPrimary":false},
+    {"peopleId":24220,"name":"Val Applewhite","party":"D","isPrimary":false},
+    {"peopleId":20505,"name":"Sydney Batch","party":"D","isPrimary":false},
+    {"peopleId":26664,"name":"Jonah Garson","party":"D","isPrimary":false},
+    {"peopleId":20223,"name":"Mujtaba Mohammed","party":"D","isPrimary":false},
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

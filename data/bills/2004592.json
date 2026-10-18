@@ -1,0 +1,23 @@
+{
+  "billId": 2004592,
+  "billNumber": "S270",
+  "title": "Credit Property Insurance Restrictions.-AB",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "ca445a544b0ecb9842428503126f4818",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-13",
+  "url": "https://legiscan.com/NC/bill/S270/2025",
+  "aiSummary": "This bill modifies North Carolina insurance law to prohibit certain types of automobile physical damage coverage from being included in credit property insurance policies. Specifically, it bans coverage for repossession costs, skip/confiscation/conversion coverage, deductibles below $250, and coverage broader than minimum state requirements. Insurers can still offer these coverages separately, but cannot charge borrowers for them.",
+  "aiProArguments": "Supporters argue this bill protects borrowers by preventing unnecessary or duplicative insurance charges bundled into credit property insurance policies. By restricting what can be included and setting a minimum deductible of $250, the bill aims to reduce borrower costs and increase transparency about what insurance they are actually purchasing. The Department of Insurance recommended these restrictions, suggesting they align with consumer protection standards.",
+  "aiConArguments": "Opponents may argue that restricting insurance options reduces flexibility for lenders and borrowers to customize coverage based on their specific needs. The ban on lower deductibles could mean higher out-of-pocket costs for borrowers who want more comprehensive protection. Additionally, limiting coverage options could reduce competition among insurers or make it harder for borrowers with higher risk profiles to obtain affordable financing protection.",
+  "topic": "Business & Labor",
+  "textLength": 1791,
+  "createdAt": "2026-06-23T03:06:16.978Z",
+  "sponsors": [
+    {"peopleId":20222,"name":"Todd Johnson","party":"R","isPrimary":true},
+    {"peopleId":18465,"name":"Danny Britt","party":"R","isPrimary":true},
+    {"peopleId":24226,"name":"Eddie Settle","party":"R","isPrimary":true}
+  ],
+  "rollCalls": []
+}

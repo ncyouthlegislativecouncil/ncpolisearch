@@ -1,0 +1,22 @@
+{
+  "billId": 2014198,
+  "billNumber": "S603",
+  "title": "Funds for Trails and Greenways",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "e573f0e7a403919b3c5cfbc99fdc0335",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2025-03-26",
+  "url": "https://legiscan.com/NC/bill/S603/2025",
+  "aiSummary": "This bill appropriates $1.5 million in state funds for the 2025-2026 fiscal year to the Town of Davidson for two trail and greenway projects: $1 million for constructing portions of the Carolina Thread Trail connecting Davidson to trail segments in neighboring counties, and $500,000 for building segments of the West Branch Nature Preserve Greenway.",
+  "aiProArguments": "Supporters argue that this funding improves outdoor recreation access and public health by creating connected trail systems for walking, biking, and exercise. They contend that greenways and trails enhance community quality of life, increase property values, support local tourism, and provide environmental benefits by encouraging people to use alternative transportation and connecting people to natural areas.",
+  "aiConArguments": "Opponents may argue that appropriating $1.5 million in state general funds for local projects in three specific counties raises questions about whether this is the best use of limited state resources when many other communities also need infrastructure funding. They might also question whether local municipalities or regional partnerships should fund these projects rather than asking the state, or whether the money should address other state priorities.",
+  "topic": "Transportation & Infrastructure",
+  "textLength": 1222,
+  "createdAt": "2026-06-23T03:09:15.632Z",
+  "sponsors": [
+    {"peopleId":20223,"name":"Mujtaba Mohammed","party":"D","isPrimary":true},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

@@ -1,0 +1,23 @@
+{
+  "billId": 2016868,
+  "billNumber": "H596",
+  "title": "Standards Advisory Commission",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "4ec8558fa6cda9ad594d3fbe1ec753aa",
+  "lastAction": "Ref To Com On Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-04-01",
+  "url": "https://legiscan.com/NC/bill/H596/2025",
+  "aiSummary": "This bill creates the Standard Course of Study Advisory Commission, a 18-member committee of teachers, principals, parents, superintendents, and business representatives who will develop and recommend academic standards to the State Board of Education. The State Board must either adopt the Commission's recommendations without changes or reject them with detailed reasons, and the General Assembly gains the ability to disapprove curriculum changes through legislation.",
+  "aiProArguments": "Supporters argue this bill increases stakeholder input in curriculum decisions by including teachers, parents, principals, and business leaders in the standards-development process rather than leaving it solely to the State Board. They contend that the legislative oversight provision ensures accountability and allows elected representatives to weigh in on contentious curriculum matters before implementation, reflecting community values in education.",
+  "aiConArguments": "Opponents worry that requiring legislative approval of curriculum changes could slow educational improvements and create political gridlock over academic standards. They also express concern that the Commission's composition may not adequately represent all communities and that the legislative disapproval process could enable narrow groups to block standards changes based on ideology rather than educational merit.",
+  "topic": "Education",
+  "textLength": 19238,
+  "createdAt": "2026-06-23T02:55:10.361Z",
+  "sponsors": [
+    {"peopleId":11866,"name":"John Torbett","party":"R","isPrimary":true},
+    {"peopleId":2031,"name":"Hugh Blackwell","party":"R","isPrimary":true},
+    {"peopleId":24219,"name":"Bill Ward","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

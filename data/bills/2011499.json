@@ -1,0 +1,26 @@
+{
+  "billId": 2011499,
+  "billNumber": "S368",
+  "title": "Office of State Fire Marshal Omnibus Bill.-AB",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "1c460a477b54aed44545e61edad281ff",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-24",
+  "url": "https://legiscan.com/NC/bill/S368/2025",
+  "aiSummary": "This bill makes multiple changes to fire safety and building code enforcement in North Carolina. Key provisions include requiring public schools and state agencies to obtain additional insurance coverage, allowing the State Fire Marshal to contract for specialized services, making school participation in the state property insurance fund mandatory, waiving training course fees for firefighters and emergency responders, clarifying the State Fire and Rescue Commission's authority to conduct hearings, updating terminology and procedures for code officials, and expanding the State Fire Marshal's oversight of local building inspections.",
+  "aiProArguments": "Supporters argue this bill strengthens fire safety and emergency preparedness by ensuring comprehensive insurance coverage for schools and state property, reducing training barriers for volunteer firefighters and emergency personnel through fee waivers, and improving coordination between state and local building code enforcement. The bill modernizes regulations and administrative processes while expanding the State Fire Marshal's ability to maintain consistent standards across jurisdictions and respond effectively during emergencies.",
+  "aiConArguments": "Opponents may be concerned that mandatory insurance participation reduces local control and flexibility, that fee waivers for training courses shift costs to the state budget, and that expanded state oversight of local inspections could create conflicts with local governments and increase administrative burdens. Some may question whether the state should centralize more building code authority rather than preserving local decision-making, and whether fee structures on course sponsors and permit technicians adequately reflect actual costs.",
+  "topic": "Criminal Justice & Public Safety",
+  "textLength": 57132,
+  "createdAt": "2026-06-23T03:07:11.919Z",
+  "sponsors": [
+    {"peopleId":20222,"name":"Todd Johnson","party":"R","isPrimary":true},
+    {"peopleId":20504,"name":"Lisa Barnes","party":"R","isPrimary":true},
+    {"peopleId":22424,"name":"Michael Lazzara","party":"R","isPrimary":true},
+    {"peopleId":18465,"name":"Danny Britt","party":"R","isPrimary":false},
+    {"peopleId":20513,"name":"Bobby Hanig","party":"R","isPrimary":false},
+    {"peopleId":11858,"name":"Timothy Moffitt","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

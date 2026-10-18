@@ -1,0 +1,27 @@
+{
+  "billId": 2146411,
+  "billNumber": "S901",
+  "title": "CFSS Gun Prsnt. for Grade 7 and 9 Students",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "0e2c3a6b265cf38a333e70fe2694db5b",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2026-04-30",
+  "url": "https://legiscan.com/NC/bill/S901/2025",
+  "aiSummary": "This bill requires the Center for Safer Schools to develop an interactive presentation about the legal, medical, and emotional consequences of gun possession, gun violence, and gun safety for 7th and 9th grade students in North Carolina public schools. Local school districts must provide this presentation to all students in these grades, with parents given at least 14 days' notice and the option to opt their child out. The bill allocates $900,000 in state funding to support the program.",
+  "aiProArguments": "Supporters argue this bill addresses youth gun violence and safety by educating young people about the serious consequences of gun misuse before they reach high school age. They contend that evidence-based presentations on gun safety, legal consequences, and health impacts can help reduce accidental injuries, suicides, and youth involvement in gun violence. Supporters also note that parental opt-out provisions respect family choice while providing important public health education to those who participate.",
+  "aiConArguments": "Opponents may argue that this represents government overreach into parenting and family values, particularly regarding how to discuss firearms with children. Some contend that the $900,000 cost could be better spent on other school needs or that the effectiveness of such presentations is unproven. Others may question whether a state-mandated presentation on gun consequences is the appropriate role for schools rather than families, gun safety organizations, or healthcare providers.",
+  "topic": "Education",
+  "textLength": 2457,
+  "createdAt": "2026-06-23T03:11:42.511Z",
+  "sponsors": [
+    {"peopleId":20216,"name":"Jim Burgin","party":"R","isPrimary":true},
+    {"peopleId":18454,"name":"Kevin Corbin","party":"R","isPrimary":true},
+    {"peopleId":17936,"name":"Jay Chaudhuri","party":"D","isPrimary":true},
+    {"peopleId":17147,"name":"Gale Adcock","party":"D","isPrimary":false},
+    {"peopleId":24220,"name":"Val Applewhite","party":"D","isPrimary":false},
+    {"peopleId":24222,"name":"Lisa Grafstein","party":"D","isPrimary":false},
+    {"peopleId":20223,"name":"Mujtaba Mohammed","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

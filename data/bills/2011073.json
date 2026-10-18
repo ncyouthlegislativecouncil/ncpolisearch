@@ -1,0 +1,29 @@
+{
+  "billId": 2011073,
+  "billNumber": "S351",
+  "title": "Right to Start Act",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "5f368bc7cc8a0c655402004b2807786f",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-20",
+  "url": "https://legiscan.com/NC/bill/S351/2025",
+  "aiSummary": "This bill allows new corporations, S corporations, and business entities (like LLCs and partnerships) that are less than five years old and have net income under $5,000 to defer their state income taxes for one year. It also encourages state agencies to hire in-state contractors less than five years old and requires the Department of Administration to track and report data on contracts awarded to these newer contractors.",
+  "aiProArguments": "Supporters argue this bill helps new businesses and startups survive their early years by reducing immediate tax burdens when they are most vulnerable financially. They contend that encouraging state contracts for newer contractors stimulates local economic growth, creates jobs, and helps diverse entrepreneurs establish themselves in North Carolina's economy.",
+  "aiConArguments": "Opponents may argue that deferring taxes reduces state revenue needed for public services, potentially shifting the tax burden to other businesses and individuals. They may also question whether a one-year deferral significantly helps businesses with such low income, and whether preferring newer contractors in state procurement could result in higher costs or quality concerns compared to more established vendors.",
+  "topic": "Business & Labor",
+  "textLength": 9816,
+  "createdAt": "2026-06-23T03:07:01.443Z",
+  "sponsors": [
+    {"peopleId":17936,"name":"Jay Chaudhuri","party":"D","isPrimary":true},
+    {"peopleId":17147,"name":"Gale Adcock","party":"D","isPrimary":false},
+    {"peopleId":25860,"name":"Woodson Bradley","party":"D","isPrimary":false},
+    {"peopleId":24222,"name":"Lisa Grafstein","party":"D","isPrimary":false},
+    {"peopleId":20223,"name":"Mujtaba Mohammed","party":"D","isPrimary":false},
+    {"peopleId":21633,"name":"Natalie Murdock","party":"D","isPrimary":false},
+    {"peopleId":22426,"name":"DeAndrea Salvador","party":"D","isPrimary":false},
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":false},
+    {"peopleId":25859,"name":"Caleb Theodros","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

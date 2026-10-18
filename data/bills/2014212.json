@@ -1,0 +1,24 @@
+{
+  "billId": 2014212,
+  "billNumber": "S650",
+  "title": "Coerced Debt Relief Act",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "f80c1cbc9196833a3cd633ac6e0c5cda",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-26",
+  "url": "https://legiscan.com/NC/bill/S650/2025",
+  "aiSummary": "This bill creates a legal process for domestic violence survivors and certain foster youth to be relieved of debts incurred under coercion, duress, or fraud by an abuser. It allows debtors to provide documentation to creditors and requires creditors to stop collection efforts and review the claim, and permits debtors to sue for a court order declaring them not liable for coerced debts while enabling creditors to pursue the person who caused the coercion.",
+  "aiProArguments": "Supporters argue this bill protects vulnerable domestic violence survivors from economic abuse, a documented control tactic used by abusers. The law provides multiple pathways to document coerced debt and offers relief without requiring survivors to prove they are victims in criminal court. Supporters contend it addresses a gap where survivors remain liable for debts incurred without their consent, harming their financial recovery and credit scores long after leaving abusive relationships.",
+  "aiConArguments": "Opponents may argue the bill creates potential for abuse, as debtors could falsely claim coercion to escape legitimate debts, and creditors face costs reviewing claims and lost recovery opportunities. Concerns exist about the burden on creditors to investigate and the practical difficulty of distinguishing genuine coercion from buyer's remorse. Some may worry that the 30-day notice requirement and litigation process could complicate debt collection and increase litigation costs for all parties involved.",
+  "topic": "Social Services & Welfare",
+  "textLength": 18690,
+  "createdAt": "2026-06-23T03:09:41.063Z",
+  "sponsors": [
+    {"peopleId":20223,"name":"Mujtaba Mohammed","party":"D","isPrimary":true},
+    {"peopleId":25860,"name":"Woodson Bradley","party":"D","isPrimary":false},
+    {"peopleId":21633,"name":"Natalie Murdock","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

@@ -1,0 +1,25 @@
+{
+  "billId": 2019705,
+  "billNumber": "H779",
+  "title": "Designate Children's Day",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "04429c478d3f05a4dda4da79fc2c4a12",
+  "lastAction": "Ref To Com On Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-04-07",
+  "url": "https://legiscan.com/NC/bill/H779/2025",
+  "aiSummary": "This bill designates the first Sunday of June each year as Children's Day in North Carolina. The designation is ceremonial and does not create any new programs, funding, or legal requirements.",
+  "aiProArguments": "Supporters argue that designating Children's Day raises awareness about child welfare issues like education, healthcare, and safety. They contend that an official day encourages communities, families, and organizations to focus on supporting children's well-being and celebrating their achievements and potential.",
+  "aiConArguments": "Opponents may question whether a symbolic designation accomplishes meaningful change for children without accompanying policy or funding. Some might argue the state should focus legislative efforts on substantive initiatives that directly improve children's lives rather than ceremonial designations.",
+  "topic": "Other / General Government",
+  "textLength": 1852,
+  "createdAt": "2026-06-23T02:57:33.368Z",
+  "sponsors": [
+    {"peopleId":24202,"name":"Maria Cervania","party":"D","isPrimary":true},
+    {"peopleId":25855,"name":"Mike Schietzelt","party":"R","isPrimary":true},
+    {"peopleId":25851,"name":"Aisha Dew","party":"D","isPrimary":false},
+    {"peopleId":2077,"name":"Mary Harrison","party":"D","isPrimary":false},
+    {"peopleId":26396,"name":"Phil Rubin","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

@@ -1,0 +1,21 @@
+{
+  "billId": 2145817,
+  "billNumber": "S844",
+  "title": "Affordable Energy Omnibus",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "d5c287db7bab59cd21eccd79b5c73793",
+  "lastAction": "Re-ref to Appropriations/Base Budget. If fav, re-ref to Rules and Operations of the Senate",
+  "lastActionDate": "2026-04-28",
+  "url": "https://legiscan.com/NC/bill/S844/2025",
+  "aiSummary": "This bill creates new regulations for large electricity users (particularly data centers), requires fair cost allocation so they don't shift expenses to residential customers, adds protections against utility disconnections during extreme weather, and establishes grid modernization requirements for utility companies. The bill also requires clearer utility billing statements and allocates $5 million to the Utilities Commission for administration and enforcement.",
+  "aiProArguments": "Supporters argue this bill protects residential and small business customers from subsidizing the infrastructure costs of large data centers and industrial facilities that consume massive amounts of electricity. The bill also adds consumer protections by preventing utility disconnections during dangerous heat or cold and improves billing transparency so customers understand what they're paying for. Additionally, grid modernization requirements and encouragement for on-site renewable energy help reduce long-term energy costs and improve system reliability.",
+  "aiConArguments": "Opponents may argue that the certificate-of-operation requirements and local referendum provisions for data centers create regulatory barriers that could discourage job creation and economic investment in North Carolina. The cost-causation principle for large-load facilities could increase operating costs for these businesses, potentially making them less competitive or willing to locate here. The environmental review requirements and ongoing ecological monitoring add administrative costs and project timeline delays, which could ultimately increase energy prices for all consumers.",
+  "topic": "Environment & Energy",
+  "textLength": 20253,
+  "createdAt": "2026-06-23T03:11:11.181Z",
+  "sponsors": [
+    {"peopleId":25860,"name":"Woodson Bradley","party":"D","isPrimary":true}
+  ],
+  "rollCalls": []
+}

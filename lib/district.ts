@@ -1,17 +1,17 @@
-import { and, eq, inArray, sql } from "drizzle-orm";
-import { db, execRows } from "../db";
-import { legislators, bills, votes, voteDetail } from "../db/schema";
-import { getLegislatorBills } from "./legislators";
-import { getPartyUnity } from "./votes";
+import { allLegislators, legislatorById } from "./data/store";
+import type { Legislator } from "./data/types";
+import { compareByActivity, currentMembers, getLegislatorBills } from "./legislators";
+import { getPartyUnity, getRecentDecisiveVotes } from "./votes";
 
 // ---------------------------------------------------------------------------
 // District ↔ legislator plumbing
 //
 // GeoJSON features carry a bare district number ("DISTRICT": "42"). The
-// legislators table stores zero-padded codes ("HD-042" / "SD-042"). These
+// legislator data stores zero-padded codes ("HD-042" / "SD-042"). These
 // helpers translate between the two and resolve the *current* member of a
-// district (turnover means a handful of districts have more than one row, so we
-// pick whoever has the most recent legislative activity).
+// district (turnover means a handful of districts have more than one
+// legislator on file, so we pick whoever has the most recent legislative
+// activity).
 // ---------------------------------------------------------------------------
 
 export type Chamber = "house" | "senate";
@@ -41,30 +41,13 @@ export type DistrictPartyMap = {
 // One party letter ("R"/"D") per district, used to tint the map on load. When a
 // district has had multiple members, the most recently active one's party wins.
 export async function getDistrictPartyMap(): Promise<DistrictPartyMap> {
-  const rows = await execRows<{ role: string; district: string; party: string }>(sql`
-    SELECT role, district, party FROM (
-      SELECT l.role, l.district, l.party,
-        row_number() OVER (
-          PARTITION BY l.role, l.district
-          ORDER BY max(b.last_action_date) DESC NULLS LAST
-        ) AS rn
-      FROM legislators l
-      LEFT JOIN bill_sponsors bs ON bs.people_id = l.people_id
-      LEFT JOIN bills b ON b.bill_id = bs.bill_id
-      WHERE l.role IN ('Rep','Sen')
-        AND l.district IS NOT NULL AND l.district <> ''
-        AND l.party IS NOT NULL AND l.party <> ''
-      GROUP BY l.people_id, l.role, l.district, l.party
-    ) t
-    WHERE rn = 1
-  `);
-
+  const members = currentMembers((l) => l.party != null && l.party !== "", false);
   const map: DistrictPartyMap = { house: {}, senate: {} };
-  for (const r of rows) {
-    const n = districtNum(r.district);
-    if (n == null) continue;
-    if (r.role === "Rep") map.house[n] = r.party;
-    else if (r.role === "Sen") map.senate[n] = r.party;
+  for (const l of members) {
+    const n = districtNum(l.district);
+    if (n == null || l.party == null) continue;
+    if (l.role === "Rep") map.house[n] = l.party;
+    else if (l.role === "Sen") map.senate[n] = l.party;
   }
   return map;
 }
@@ -104,46 +87,11 @@ export type DistrictLegislator = {
 
 // Resolve which legislator currently represents a district. Among the (usually
 // one) candidates, pick whoever has the most recent bill activity.
-async function resolveCurrentMember(
-  chamber: Chamber,
-  district: number
-): Promise<number | null> {
+function resolveCurrentMember(chamber: Chamber, district: number): Legislator | null {
   const code = districtCode(chamber, district);
-  const ranked = await execRows<{ people_id: number }>(sql`
-    SELECT l.people_id AS people_id
-    FROM legislators l
-    LEFT JOIN bill_sponsors bs ON bs.people_id = l.people_id
-    LEFT JOIN bills b ON b.bill_id = bs.bill_id
-    WHERE l.role = ${roleFor(chamber)} AND l.district = ${code}
-    GROUP BY l.people_id
-    ORDER BY max(b.last_action_date) DESC NULLS LAST, count(bs.id) DESC
-    LIMIT 1
-  `);
-  return ranked[0]?.people_id ?? null;
-}
-
-// The last two decisive (Yea/Nay) votes this legislator cast, newest first.
-async function getRecentDecisiveVotes(peopleId: number): Promise<DistrictVote[]> {
-  return db
-    .select({
-      rollCallId: votes.rollCallId,
-      billId: votes.billId,
-      billNumber: bills.billNumber,
-      title: bills.title,
-      vote: voteDetail.vote,
-      date: votes.date,
-    })
-    .from(voteDetail)
-    .innerJoin(votes, eq(voteDetail.rollCallId, votes.rollCallId))
-    .leftJoin(bills, eq(votes.billId, bills.billId))
-    .where(
-      and(
-        eq(voteDetail.peopleId, peopleId),
-        inArray(voteDetail.vote, ["Yea", "Nay"])
-      )
-    )
-    .orderBy(sql`${votes.date} DESC NULLS LAST`)
-    .limit(2);
+  const candidates = allLegislators().filter((l) => l.role === roleFor(chamber) && l.district === code);
+  candidates.sort((a, b) => compareByActivity(a, b));
+  return candidates[0] ?? null;
 }
 
 // Full payload for the right-hand info panel, fetched on demand when a district
@@ -152,18 +100,15 @@ export async function getDistrictLegislator(
   chamber: Chamber,
   district: number
 ): Promise<DistrictLegislator | null> {
-  const peopleId = await resolveCurrentMember(chamber, district);
-  if (peopleId == null) return null;
-
-  const [leg, billGroups, partyUnity, recentVotes] = await Promise.all([
-    db.select().from(legislators).where(eq(legislators.peopleId, peopleId)).limit(1),
-    getLegislatorBills(peopleId),
-    getPartyUnity(peopleId),
-    getRecentDecisiveVotes(peopleId),
-  ]);
-
-  const l = leg[0];
+  const member = resolveCurrentMember(chamber, district);
+  if (!member) return null;
+  const l = legislatorById(member.peopleId);
   if (!l) return null;
+
+  const [billGroups, partyUnity] = await Promise.all([
+    getLegislatorBills(l.peopleId),
+    getPartyUnity(l.peopleId),
+  ]);
 
   const recentBills: DistrictBill[] = billGroups.sponsored.slice(0, 3).map((b) => ({
     billId: b.billId,
@@ -186,6 +131,6 @@ export async function getDistrictLegislator(
     cosponsoredCount: billGroups.cosponsored.length,
     partyUnity,
     recentBills,
-    recentVotes,
+    recentVotes: getRecentDecisiveVotes(l.peopleId),
   };
 }

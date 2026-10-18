@@ -1,0 +1,29 @@
+{
+  "billId": 2011105,
+  "billNumber": "S346",
+  "title": "Good Samaritan Law/Immunity",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "a0639b26d95220fc74e8439c937949a4",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-20",
+  "url": "https://legiscan.com/NC/bill/S346/2025",
+  "aiSummary": "This bill expands North Carolina's Good Samaritan law to provide legal immunity for people who seek emergency medical help during drug and alcohol overdoses. It protects both the person calling for help and the overdose victim from arrest and prosecution for certain drug possession and underage alcohol possession charges, provided they meet specific conditions like calling 911 in good faith and providing their name.",
+  "aiProArguments": "Supporters argue this law saves lives by removing the fear of criminal prosecution that might prevent someone from calling 911 during an overdose emergency. They contend that people facing charges for drug possession or underage drinking may hesitate to seek medical help, leading to preventable deaths, and that immunity encourages immediate action in life-threatening situations without legal consequences for minor related offenses.",
+  "aiConArguments": "Opponents may argue the law could be misused by people claiming immunity they don't qualify for, creating legal uncertainty for law enforcement and prosecutors. Some may also contend that immunity for drug possession, even in overdose situations, could undermine drug enforcement efforts or send mixed messages about the seriousness of substance use, and that it extends protections beyond what's necessary to encourage emergency help-seeking.",
+  "topic": "Criminal Justice & Public Safety",
+  "textLength": 8493,
+  "createdAt": "2026-06-23T03:06:59.148Z",
+  "sponsors": [
+    {"peopleId":24225,"name":"Benton Sawrey","party":"R","isPrimary":true},
+    {"peopleId":22424,"name":"Michael Lazzara","party":"R","isPrimary":true},
+    {"peopleId":25250,"name":"Dana Jones","party":"R","isPrimary":true},
+    {"peopleId":17147,"name":"Gale Adcock","party":"D","isPrimary":false},
+    {"peopleId":20216,"name":"Jim Burgin","party":"R","isPrimary":false},
+    {"peopleId":20513,"name":"Bobby Hanig","party":"R","isPrimary":false},
+    {"peopleId":11858,"name":"Timothy Moffitt","party":"R","isPrimary":false},
+    {"peopleId":20223,"name":"Mujtaba Mohammed","party":"D","isPrimary":false},
+    {"peopleId":11862,"name":"Norman Sanderson","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

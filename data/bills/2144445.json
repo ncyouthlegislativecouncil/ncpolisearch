@@ -1,0 +1,22 @@
+{
+  "billId": 2144445,
+  "billNumber": "S786",
+  "title": "Protect NC Prosperity & Health",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "a54a7a6bb03954d21d60a781a74ec212",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2026-04-23",
+  "url": "https://legiscan.com/NC/bill/S786/2025",
+  "aiSummary": "This bill establishes two statewide awareness initiatives: one through the Department of Justice to educate North Carolinians about consumer finance fraud risks, and another through the Department of Health and Human Services to provide information about reproductive, LGBTQIA+, gender, and racial health issues. Both initiatives include creating websites, toolkits for local communities, and outreach programs, with a combined appropriation of $7 million in recurring funds starting in fiscal year 2026-2027.",
+  "aiProArguments": "Supporters argue that public education about financial fraud protects vulnerable North Carolinians from scams like identity theft and phishing, reducing financial harm. They contend that health and civil rights awareness initiatives ensure all residents have access to accurate medical and legal information about healthcare options and civil rights protections, addressing health disparities and helping communities make informed decisions about their health and wellbeing.",
+  "aiConArguments": "Opponents may argue that $7 million in recurring state spending is substantial for awareness programs that could be addressed through existing resources or private sector initiatives. Some may also question whether the health and civil rights initiative scope—particularly topics identified as politically sensitive—appropriately represents all perspectives or risks state resources being used to promote particular viewpoints, despite the prohibition on advocacy in the bill.",
+  "topic": "Social Services & Welfare",
+  "textLength": 7413,
+  "createdAt": "2026-06-23T03:10:44.334Z",
+  "sponsors": [
+    {"peopleId":25860,"name":"Woodson Bradley","party":"D","isPrimary":true},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

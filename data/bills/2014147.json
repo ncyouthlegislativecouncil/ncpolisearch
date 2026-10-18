@@ -1,0 +1,24 @@
+{
+  "billId": 2014147,
+  "billNumber": "S724",
+  "title": "Safe Parks & Public Spaces Act",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "27e0904f60f8ecd86e17a14462600e52",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-26",
+  "url": "https://legiscan.com/NC/bill/S724/2025",
+  "aiSummary": "This bill prohibits unauthorized camping in North Carolina public spaces like parks and sidewalks, except in designated campsites or approved homeless encampments. First-time offenders are directed to emergency shelters rather than charged criminally, while repeat offenses become Class 3 misdemeanors. The bill also prevents local governments from blocking enforcement of these rules and allows residents, business owners, and the Attorney General to sue municipalities that don't enforce the prohibition.",
+  "aiProArguments": "Supporters argue this bill protects public health and safety by addressing visible homelessness and associated issues like drug use and unsanitary conditions in parks and walkways. They contend it maintains public spaces for all community members while still allowing designated camping areas and directing people to available shelter services, balancing compassion with order.",
+  "aiConArguments": "Opponents worry the bill may criminalize poverty and push homeless individuals away from visible areas without addressing underlying housing shortages or providing adequate shelter capacity. They also express concern that the enforcement mechanism—allowing any resident or business owner to sue municipalities—could override local government decisions about managing homelessness in ways suited to their communities' specific circumstances.",
+  "topic": "Criminal Justice & Public Safety",
+  "textLength": 5001,
+  "createdAt": "2026-06-23T03:10:19.993Z",
+  "sponsors": [
+    {"peopleId":20225,"name":"Ted Alexander","party":"R","isPrimary":true},
+    {"peopleId":24223,"name":"Brad Overcash","party":"R","isPrimary":true},
+    {"peopleId":22424,"name":"Michael Lazzara","party":"R","isPrimary":true},
+    {"peopleId":11858,"name":"Timothy Moffitt","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

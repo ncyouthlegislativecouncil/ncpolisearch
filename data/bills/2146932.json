@@ -1,0 +1,24 @@
+{
+  "billId": 2146932,
+  "billNumber": "S1022",
+  "title": "Consumer Privacy Act",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "d741e198488ca05df3091bfd51ba2050",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2026-05-05",
+  "url": "https://legiscan.com/NC/bill/S1022/2025",
+  "aiSummary": "This bill creates a Consumer Privacy Act for North Carolina that gives residents the right to access, delete, and control their personal data held by large companies. It applies to businesses with $25 million or more in annual revenue that process data on 100,000+ consumers, with various exemptions for healthcare providers, government entities, nonprofits, and financial institutions. The Attorney General enforces violations with a 45-day cure period before penalties up to $7,500 per violation can be imposed.",
+  "aiProArguments": "Supporters argue this law protects North Carolina residents' privacy by requiring transparency about data collection and giving consumers control over their personal information. It addresses concerns about companies selling consumer data for targeted advertising and provides meaningful enforcement through the Attorney General. The bill includes reasonable thresholds to avoid burdening small businesses while protecting the most vulnerable, including special protections for children and sensitive data like health and biometric information.",
+  "aiConArguments": "Opponents may contend the law creates significant compliance costs for businesses, particularly those near the $25 million revenue threshold, potentially reducing competitiveness and innovation. Some argue the broad definitions of personal data and processing activities could be burdensome to implement, and that the 45-day response deadline may be unrealistic for complex requests. Businesses might also be concerned about liability exposure and argue that federal privacy legislation would be more efficient than state-by-state requirements.",
+  "topic": "Technology & Privacy",
+  "textLength": 39963,
+  "createdAt": "2026-06-23T03:12:44.096Z",
+  "sponsors": [
+    {"peopleId":22426,"name":"DeAndrea Salvador","party":"D","isPrimary":true},
+    {"peopleId":20505,"name":"Sydney Batch","party":"D","isPrimary":false},
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":false},
+    {"peopleId":25859,"name":"Caleb Theodros","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

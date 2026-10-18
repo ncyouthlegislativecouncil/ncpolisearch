@@ -1,0 +1,27 @@
+{
+  "billId": 2146907,
+  "billNumber": "S987",
+  "title": "Lower Healthcare Costs",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "cbae8c1248857a5ba7a87a3faf8e9155",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2026-05-05",
+  "url": "https://legiscan.com/NC/bill/S987/2025",
+  "aiSummary": "This bill creates a special fund to help state employees and teachers maintain their take-home pay when health insurance premiums increase. It transfers $150 million from the Opportunity Scholarship Grant Fund Reserve to pay for premium supplements, ensuring employees' net income doesn't decline due to higher health plan costs.",
+  "aiProArguments": "Supporters argue this protects state employees' and teachers' purchasing power by preventing health insurance premium increases from reducing their actual paychecks. They contend this stabilizes compensation for public sector workers and helps with recruitment and retention in important state positions like education.",
+  "aiConArguments": "Opponents may argue that redirecting $150 million from the scholarship fund reduces educational opportunities for students who would have received grants. They may also contend that subsidizing premiums doesn't address underlying healthcare cost growth and could be unsustainable long-term without addressing root causes of rising insurance expenses.",
+  "topic": "Healthcare",
+  "textLength": 2338,
+  "createdAt": "2026-06-23T03:12:24.231Z",
+  "sponsors": [
+    {"peopleId":20505,"name":"Sydney Batch","party":"D","isPrimary":true},
+    {"peopleId":24222,"name":"Lisa Grafstein","party":"D","isPrimary":true},
+    {"peopleId":25860,"name":"Woodson Bradley","party":"D","isPrimary":true},
+    {"peopleId":21633,"name":"Natalie Murdock","party":"D","isPrimary":false},
+    {"peopleId":22426,"name":"DeAndrea Salvador","party":"D","isPrimary":false},
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

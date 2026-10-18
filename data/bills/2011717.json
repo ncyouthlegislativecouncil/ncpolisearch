@@ -1,0 +1,27 @@
+{
+  "billId": 2011717,
+  "billNumber": "S376",
+  "title": "Increase Funding to State Auditor",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "89e061d79496dd954b2015669d644b53",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2025-03-24",
+  "url": "https://legiscan.com/NC/bill/S376/2025",
+  "aiSummary": "This bill provides $16.195 million in new funding to the North Carolina State Auditor's office over the 2025-2027 fiscal period. The money will be used to hire 70 new staff members, increase employee compensation, upgrade technology systems, and support office infrastructure, with the goal of improving the auditor's ability to conduct financial audits and detect fraud and waste in state government.",
+  "aiProArguments": "Supporters argue that the State Auditor's office needs additional resources to effectively oversee state spending and protect taxpayer money. They contend that more staff and modern technology will enable faster, more thorough audits, improve fraud detection, and provide better accountability across state agencies. Proponents also point out that competitive salaries are necessary to recruit and retain skilled auditors in a competitive job market.",
+  "aiConArguments": "Opponents may argue that the state should prioritize existing budget constraints and question whether all this spending is necessary. They might express concern about the size of the appropriation or whether the auditor's current resources are being used efficiently before adding new ones. Some may also question whether technology upgrades and office expansion are justified or if these funds could be directed to other state priorities.",
+  "topic": "Taxes & Budget",
+  "textLength": 3512,
+  "createdAt": "2026-06-23T03:07:16.428Z",
+  "sponsors": [
+    {"peopleId":24225,"name":"Benton Sawrey","party":"R","isPrimary":true},
+    {"peopleId":24223,"name":"Brad Overcash","party":"R","isPrimary":true},
+    {"peopleId":20513,"name":"Bobby Hanig","party":"R","isPrimary":true},
+    {"peopleId":25212,"name":"Bob Brinson","party":"R","isPrimary":false},
+    {"peopleId":18465,"name":"Danny Britt","party":"R","isPrimary":false},
+    {"peopleId":22424,"name":"Michael Lazzara","party":"R","isPrimary":false},
+    {"peopleId":11858,"name":"Timothy Moffitt","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

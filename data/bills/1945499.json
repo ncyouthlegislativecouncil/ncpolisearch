@@ -1,0 +1,21 @@
+{
+  "billId": 1945499,
+  "billNumber": "S3",
+  "title": "4th Senatorial District Local Act-1",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "22ceac84b1b35bb2b4d6ee7dcc6b5d3a",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-01-30",
+  "url": "https://legiscan.com/NC/bill/S3/2025",
+  "aiSummary": "This is a local bill that applies only to North Carolina's 4th Senatorial District. The bill text provided does not specify what changes or provisions apply to the district, only that the legislation is limited to that geographic area and becomes effective upon passage.",
+  "aiProArguments": "Supporters of local bills argue they allow the General Assembly to address specific regional needs and circumstances that may not require statewide legislation. Local acts can provide targeted solutions for particular districts without imposing requirements on the rest of the state.",
+  "aiConArguments": "Opponents of local bills raise concerns about transparency and fairness, arguing that legislation affecting specific districts should be clearly detailed so constituents understand what is being changed. Without specific provisions listed in the bill text, it is difficult for the public to evaluate the actual impact of the legislation.",
+  "topic": "Local Government",
+  "textLength": 504,
+  "createdAt": "2026-06-23T03:04:05.690Z",
+  "sponsors": [
+    {"peopleId":24224,"name":"Buck Newton","party":"R","isPrimary":true}
+  ],
+  "rollCalls": []
+}

@@ -1,0 +1,28 @@
+{
+  "billId": 2020993,
+  "billNumber": "H799",
+  "title": "Ensure Nondiscrimination in Government",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "b1a8ac7a37a28e2ccdc4ba39354af9e8",
+  "lastAction": "Ref To Com On Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-04-08",
+  "url": "https://legiscan.com/NC/bill/H799/2025",
+  "aiSummary": "This bill prohibits state, city, and county government agencies from promoting or requiring employees to affirm certain ideological concepts related to race, sex, religion, and ethnicity in hiring, training, and promotion. It also prevents government agencies from using public funds for programs teaching these concepts and restricts requiring job applicants to express positions on contemporary political or social issues.",
+  "aiProArguments": "Supporters argue this bill protects employees from being compelled to adopt specific ideological viewpoints as a condition of employment, preserving free speech and association rights. They contend it ensures hiring and promotion decisions are based on merit rather than agreement with particular beliefs, and prevents government resources from funding programs they believe promote divisive concepts about race and gender.",
+  "aiConArguments": "Opponents argue the bill's language is overly broad and vague, potentially chilling legitimate discussions about historical injustices, systemic inequalities, and diversity in the workplace. They contend it may restrict diversity training and educational programs designed to address discrimination, and could limit the government's ability to comply with federal civil rights laws and create inclusive work environments.",
+  "topic": "Other / General Government",
+  "textLength": 24400,
+  "createdAt": "2026-06-23T02:57:50.969Z",
+  "sponsors": [
+    {"peopleId":25843,"name":"Brian Echevarria","party":"R","isPrimary":true},
+    {"peopleId":2122,"name":"Mitchell Setzer","party":"R","isPrimary":true},
+    {"peopleId":25852,"name":"Wyatt Gable","party":"R","isPrimary":true},
+    {"peopleId":2034,"name":"John Blust","party":"R","isPrimary":false},
+    {"peopleId":21377,"name":"Jake Johnson","party":"R","isPrimary":false},
+    {"peopleId":22965,"name":"Donnie Loftis","party":"R","isPrimary":false},
+    {"peopleId":24212,"name":"Joe Pike","party":"R","isPrimary":false},
+    {"peopleId":24219,"name":"Bill Ward","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

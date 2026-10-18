@@ -1,0 +1,22 @@
+{
+  "billId": 2014166,
+  "billNumber": "S668",
+  "title": "NC Genetic Counselors Workforce Act",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "c442fec54f7ccb1d45c7be1113e001b6",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-26",
+  "url": "https://legiscan.com/NC/bill/S668/2025",
+  "aiSummary": "This bill establishes a new Genetic Counselors Licensure Board in North Carolina and creates a licensing system for genetic counselors. The bill defines the qualifications for licensure, the board's powers and duties, the scope of genetic counseling practice, disciplinary procedures, and fees for licensure and renewal.",
+  "aiProArguments": "Supporters argue that licensing genetic counselors protects the public by ensuring practitioners meet established educational and ethical standards, similar to other regulated health professions. They contend that licensure creates accountability through oversight, disciplinary mechanisms, and continuing education requirements, while allowing patients to access a public registry of licensed counselors and their disciplinary records. This regulation may also improve professional recognition and enable genetic counselors to seek insurance reimbursement more easily.",
+  "aiConArguments": "Opponents may argue that licensure creates regulatory barriers that could limit access to genetic counseling services, particularly in rural areas where genetic counselors are already scarce. They may also contend that the certification requirements (ABGC certification) and supervision rules could increase costs for providers and patients, and that the licensing board adds government bureaucracy and expenses. Some may question whether regulation is necessary given existing professional certifications and standards maintained by organizations like the National Society of Genetic Counselors.",
+  "topic": "Healthcare",
+  "textLength": 38970,
+  "createdAt": "2026-06-23T03:09:50.485Z",
+  "sponsors": [
+    {"peopleId":24225,"name":"Benton Sawrey","party":"R","isPrimary":true},
+    {"peopleId":11858,"name":"Timothy Moffitt","party":"R","isPrimary":true}
+  ],
+  "rollCalls": []
+}

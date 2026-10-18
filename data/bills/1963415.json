@@ -1,0 +1,21 @@
+{
+  "billId": 1963415,
+  "billNumber": "S68",
+  "title": "SchCalFlex/Pitt,Edgecombe/Board Mtg & Report",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "f8459ff08c6637649632dc4d0705dd11",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-02-11",
+  "url": "https://legiscan.com/NC/bill/S68/2025",
+  "aiSummary": "This bill allows Pitt County Schools and Edgecombe County Schools to set their own school opening and closing dates for three years (2025-2028), instead of following state requirements. Before making changes, each school board must hold public hearings to get parent and community input on the proposed calendar dates.",
+  "aiProArguments": "Supporters argue that local school boards are best positioned to understand their communities' unique needs and should have flexibility to set calendars accordingly. The bill includes safeguards through required public hearings to ensure parent and community voices are heard. Additionally, the three-year pilot with mandatory reporting to the state allows for evaluation of whether this flexibility improves student achievement or benefits local communities.",
+  "aiConArguments": "Opponents may worry that allowing individual counties to set different school calendars could create inconsistencies across the state and complications for families, businesses, and coordination between school systems. Some may argue that state-level calendar requirements exist for important reasons and that removing them could negatively impact student achievement or educational equity across regions.",
+  "topic": "Education",
+  "textLength": 2001,
+  "createdAt": "2026-06-23T03:04:38.170Z",
+  "sponsors": [
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":true}
+  ],
+  "rollCalls": []
+}

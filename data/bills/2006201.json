@@ -1,0 +1,22 @@
+{
+  "billId": 2006201,
+  "billNumber": "H405",
+  "title": "Reestablish NC Coordinate System of 1983",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "014f5ca5ddda0d0a8bfa0503fd263d8f",
+  "lastAction": "Ref To Com On Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-03-17",
+  "url": "https://legiscan.com/NC/bill/H405/2025",
+  "aiSummary": "This bill repeals a change made in 2023 to restore the North Carolina Coordinate System of 1983 as the official state coordinate system. The bill effectively undoes a recent modification to state mapping and surveying standards.",
+  "aiProArguments": "Supporters argue that restoring the 1983 coordinate system provides consistency and stability for surveyors, engineers, and government agencies who rely on standardized mapping references. They contend that reverting to the established 1983 system reduces confusion and costs associated with updating systems and records that were changed by the 2023 law.",
+  "aiConArguments": "Opponents of this bill would likely argue that the 2023 change was made for valid reasons—such as updating to more accurate modern mapping standards or improving alignment with national coordinate systems. They may contend that reversing course creates inefficiency and wastes resources already spent implementing the 2023 update.",
+  "topic": "Local Government",
+  "textLength": 617,
+  "createdAt": "2026-06-23T02:50:32.857Z",
+  "sponsors": [
+    {"peopleId":22617,"name":"Mark Pless","party":"R","isPrimary":true},
+    {"peopleId":14602,"name":"Dean Arp","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

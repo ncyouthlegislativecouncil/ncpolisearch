@@ -1,0 +1,31 @@
+{
+  "billId": 2022116,
+  "billNumber": "H877",
+  "title": "Childcare Pilot",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "481c862b268dcf56d14ae65e13595b08",
+  "lastAction": "Ref to the Com on Appropriations, if favorable, Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-04-10",
+  "url": "https://legiscan.com/NC/bill/H877/2025",
+  "aiSummary": "This bill establishes a pilot program to create an affordable childcare facility through a public-private partnership. The state would provide land and a building shell on state or university property, while a private operator would run the facility and charge rates at least 25% below market rates. The state would invest $5 million to support the project.",
+  "aiProArguments": "Supporters argue this pilot addresses childcare affordability and availability, which are barriers preventing people from working. By having the state cover capital costs (land and building), the private operator can offer below-market rates while still operating sustainably. The bill also requires wage increases and health insurance for childcare workers, potentially improving workforce quality and retention in an industry with high turnover.",
+  "aiConArguments": "Opponents may question whether $5 million in public funds is the most efficient use of state resources, especially if the pilot only creates one facility. Some may be concerned about the state's long-term liability for maintaining facilities and whether the 10-year ground lease at $500/month provides adequate revenue. Others might argue the wage requirements and insurance mandates could make the program unsustainable or limit operator participation.",
+  "topic": "Social Services & Welfare",
+  "textLength": 7972,
+  "createdAt": "2026-06-23T02:58:49.582Z",
+  "sponsors": [
+    {"peopleId":14602,"name":"Dean Arp","party":"R","isPrimary":true},
+    {"peopleId":14624,"name":"Donny Lambeth","party":"R","isPrimary":true},
+    {"peopleId":22614,"name":"Erin Pare","party":"R","isPrimary":true},
+    {"peopleId":25214,"name":"Heather Rhyne","party":"R","isPrimary":true},
+    {"peopleId":14612,"name":"Carla Cunningham","party":"D","isPrimary":false},
+    {"peopleId":25222,"name":"Blair Eddins","party":"R","isPrimary":false},
+    {"peopleId":25850,"name":"Jordan Lopez","party":"D","isPrimary":false},
+    {"peopleId":22616,"name":"Ray Pickett","party":"R","isPrimary":false},
+    {"peopleId":25854,"name":"Dante Pittman","party":"D","isPrimary":false},
+    {"peopleId":26396,"name":"Phil Rubin","party":"D","isPrimary":false},
+    {"peopleId":18495,"name":"Donna White","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

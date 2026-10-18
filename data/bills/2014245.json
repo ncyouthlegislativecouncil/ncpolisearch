@@ -1,0 +1,25 @@
+{
+  "billId": 2014245,
+  "billNumber": "S569",
+  "title": "Eviction Record Expunction Act",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "8f208d99740b940858b5f5c03906b0e9",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-26",
+  "url": "https://legiscan.com/NC/bill/S569/2025",
+  "aiSummary": "This bill automatically seals eviction records from public access after three years, immediately seals dismissed cases or cases won by tenants, and seals cases involving minors. It also makes it illegal for landlords to deny rental applications based on sealed eviction records under fair housing law.",
+  "aiProArguments": "Supporters argue this bill helps people move forward after eviction by preventing sealed records from permanently damaging their ability to rent housing. They contend that sealed eviction records, especially for cases dismissed or won by tenants, should not be used against applicants since they don't reflect actual wrongdoing. Advocates say this addresses housing instability and gives renters a fair chance at housing opportunities.",
+  "aiConArguments": "Opponents worry that sealing records could prevent landlords from accessing important information about rental history needed to assess tenant reliability and risk. They argue that knowing about evictions—especially recent ones—is legitimate information for rental decisions and that automatic sealing may unfairly restrict landlords' ability to manage their properties. Some question whether this adequately protects property owners' interests in selecting tenants.",
+  "topic": "Housing",
+  "textLength": 2274,
+  "createdAt": "2026-06-23T03:08:57.774Z",
+  "sponsors": [
+    {"peopleId":21633,"name":"Natalie Murdock","party":"D","isPrimary":true},
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":true},
+    {"peopleId":25858,"name":"Sophia Chitlik","party":"D","isPrimary":true},
+    {"peopleId":22425,"name":"Julie Mayfield","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

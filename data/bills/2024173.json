@@ -1,0 +1,24 @@
+{
+  "billId": 2024173,
+  "billNumber": "H1011",
+  "title": "NC Compassionate Care Act",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "b84e23fd72ff81450fcbd7c169162dec",
+  "lastAction": "Ref To Com On Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-04-16",
+  "url": "https://legiscan.com/NC/bill/H1011/2025",
+  "aiSummary": "The NC Compassionate Care Act would allow doctors to certify patients with specific debilitating medical conditions to use cannabis under a regulated system. Patients and designated caregivers would receive registry cards to purchase cannabis from licensed medical cannabis centers, with oversight by state agencies and two advisory boards.",
+  "aiProArguments": "Supporters argue the bill allows patients with serious conditions like cancer, epilepsy, PTSD, and ALS to access cannabis as a treatment option when recommended by physicians. The regulatory structure with testing, tracking, and oversight aims to ensure product safety and prevent misuse. Multiple states have successfully implemented similar programs, and supporters cite medical research supporting cannabis's therapeutic benefits for pain and nausea relief.",
+  "aiConArguments": "Opponents express concerns about federal law conflicts, since cannabis remains a Schedule I controlled substance federally. Some worry about inadequate safeguards against diversion to non-medical users, potential gateway effects, or unintended health risks to vulnerable populations like minors and pregnant women. Others question whether establishing a new state bureaucracy is the most efficient approach, or whether certain restrictions on patient access and product forms are too limiting.",
+  "topic": "Healthcare",
+  "textLength": 103291,
+  "createdAt": "2026-06-23T03:00:20.083Z",
+  "sponsors": [
+    {"peopleId":25851,"name":"Aisha Dew","party":"D","isPrimary":true},
+    {"peopleId":2077,"name":"Mary Harrison","party":"D","isPrimary":true},
+    {"peopleId":20515,"name":"Zack Forde-Hawkins","party":"D","isPrimary":true},
+    {"peopleId":20522,"name":"Nasif Majeed","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

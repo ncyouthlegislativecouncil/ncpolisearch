@@ -1,0 +1,21 @@
+{
+  "billId": 1951502,
+  "billNumber": "S42",
+  "title": "21st Senatorial District Local Act-1",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "dfbaea1f92c746d12ebc2a23f9d6b8e8",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-02-04",
+  "url": "https://legiscan.com/NC/bill/S42/2025",
+  "aiSummary": "This is a local bill that applies only to North Carolina's 21st Senatorial District. The bill text provided does not specify what changes or policies it implements—it only establishes that any provisions will apply to that district and become effective upon passage.",
+  "aiProArguments": "Supporters of local bills argue they allow the General Assembly to address specific regional needs and circumstances that vary across different districts. This targeted approach can provide tailored solutions for particular communities without affecting the entire state.",
+  "aiConArguments": "Opponents of local bills may argue that the lack of specific details in the bill text makes it difficult for constituents to understand what is actually being changed or approved. Concerns about transparency and whether local bills receive adequate public scrutiny compared to statewide legislation have also been raised by transparency advocates.",
+  "topic": "Local Government",
+  "textLength": 507,
+  "createdAt": "2026-06-23T03:04:23.769Z",
+  "sponsors": [
+    {"peopleId":17437,"name":"Thomas McInnis","party":"R","isPrimary":true}
+  ],
+  "rollCalls": []
+}

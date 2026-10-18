@@ -1,0 +1,33 @@
+{
+  "billId": 1986555,
+  "billNumber": "H249",
+  "title": "Diversity in Pickleball Pilot Program",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "a19378f8a5c82cec8b5b17c9327200dc",
+  "lastAction": "Ref to the Com on Appropriations, if favorable, Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-03-03",
+  "url": "https://legiscan.com/NC/bill/H249/2025",
+  "aiSummary": "This bill appropriates $10,112 to North Carolina State University to run a pilot program in Wake County designed to increase participation in pickleball among people of color. The program will include focus groups, marketing materials, four-week instruction sessions at two Raleigh recreation centers in fall 2025 and spring 2026, and will create a toolkit for other communities to replicate the program.",
+  "aiProArguments": "Supporters argue that pickleball offers significant public health benefits including increased physical activity, social connection, and mental well-being, particularly for older adults. They contend that while pickleball is low-cost and accessible, it is currently underrepresented among people of color, and this pilot program addresses that disparity by using targeted outreach and instruction to make the sport more inclusive and available to all communities.",
+  "aiConArguments": "Opponents may question whether a $10,112 state appropriation for a single sport's diversity initiative in one county represents the best use of public funds, particularly when other public health or community programs may have broader impact. Some may also argue that creating specialized programs focused on race-based participation, rather than general community recreation programs open to all, raises questions about the appropriate role of government in promoting particular activities.",
+  "topic": "Education",
+  "textLength": 2804,
+  "createdAt": "2026-06-23T02:45:57.393Z",
+  "sponsors": [
+    {"peopleId":22606,"name":"James Roberson","party":"D","isPrimary":true},
+    {"peopleId":22599,"name":"Amber Baker","party":"D","isPrimary":true},
+    {"peopleId":20521,"name":"Carolyn Logan","party":"D","isPrimary":true},
+    {"peopleId":24890,"name":"Eric Ager","party":"D","isPrimary":false},
+    {"peopleId":24198,"name":"Gloristine Brown","party":"D","isPrimary":false},
+    {"peopleId":22600,"name":"Terry Brown","party":"D","isPrimary":false},
+    {"peopleId":19238,"name":"Deb Butler","party":"D","isPrimary":false},
+    {"peopleId":2044,"name":"Becky Carney","party":"D","isPrimary":false},
+    {"peopleId":24202,"name":"Maria Cervania","party":"D","isPrimary":false},
+    {"peopleId":20509,"name":"Allison Dahle","party":"D","isPrimary":false},
+    {"peopleId":20515,"name":"Zack Forde-Hawkins","party":"D","isPrimary":false},
+    {"peopleId":20522,"name":"Nasif Majeed","party":"D","isPrimary":false},
+    {"peopleId":19360,"name":"Marcia Morey","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

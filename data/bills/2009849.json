@@ -1,0 +1,23 @@
+{
+  "billId": 2009849,
+  "billNumber": "S323",
+  "title": "Student Health and Responsibility Act",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "58efe2e83a9e3004616f6622d77613be",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-19",
+  "url": "https://legiscan.com/NC/bill/S323/2025",
+  "aiSummary": "This bill establishes a three-year Safer Sex Supplies Grant Program that provides $9.6 million annually to UNC institutions, community colleges, and public high schools to distribute free condoms and lubricants to students. The program includes funding for health department coordination and requires participating schools to establish student health advisory committees and report on program outcomes through 2028.",
+  "aiProArguments": "Supporters argue the program reduces public health costs by preventing sexually transmitted infections, which decreases emergency room visits and Medicaid expenses. They contend that providing these supplies supports student success by keeping students healthy and in school, contributing to workforce development and economic growth. Proponents also emphasize that the program promotes personal responsibility by empowering students with resources to make informed health decisions without financial barriers.",
+  "aiConArguments": "Opponents may argue the program represents an inappropriate use of public funds for items related to student sexual activity, particularly in high schools where parental involvement concerns exist. They may contend that the state should focus on abstinence education and that providing supplies without parental permission violates parental rights. Critics might also question whether the projected health care savings justify the $9.6 million annual cost or whether schools should prioritize other health and educational needs.",
+  "topic": "Healthcare",
+  "textLength": 10712,
+  "createdAt": "2026-06-23T03:06:47.022Z",
+  "sponsors": [
+    {"peopleId":24220,"name":"Val Applewhite","party":"D","isPrimary":true},
+    {"peopleId":12032,"name":"Gladys Robinson","party":"D","isPrimary":true},
+    {"peopleId":22426,"name":"DeAndrea Salvador","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

@@ -1,0 +1,21 @@
+{
+  "billId": 2146163,
+  "billNumber": "S869",
+  "title": "Reduce County Share/SA In-Home Program",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "8e4637a7283d21100877cb39e86dbec7",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2026-04-29",
+  "url": "https://legiscan.com/NC/bill/S869/2025",
+  "aiSummary": "This bill appropriates $500,000 in state funding to the Department of Health and Human Services to reduce the financial burden that North Carolina counties bear for the State-County Special Assistance in-home program, beginning in fiscal year 2026-2027.",
+  "aiProArguments": "Supporters argue this bill helps counties manage their budgets by reducing their required contribution to in-home assistance programs for eligible individuals. By shifting more of the cost to the state, counties have more local resources available for other services, and the bill ensures that in-home care services can continue without placing excessive financial strain on county governments.",
+  "aiConArguments": "Opponents may argue that $500,000 may be insufficient to meaningfully reduce county costs across all 100 counties, potentially providing minimal relief. They might also question whether state funds should be redirected to this program when other state priorities exist, or whether the funding structure should be reconsidered more comprehensively rather than through incremental appropriations.",
+  "topic": "Taxes & Budget",
+  "textLength": 944,
+  "createdAt": "2026-06-23T03:11:26.444Z",
+  "sponsors": [
+    {"peopleId":17457,"name":"Paul Lowe","party":"D","isPrimary":true}
+  ],
+  "rollCalls": []
+}

@@ -1,0 +1,23 @@
+{
+  "billId": 2014150,
+  "billNumber": "S570",
+  "title": "Prohibit the Corporate Practice of Medicine",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "be8af7c12e6b00e48852927580151d29",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-26",
+  "url": "https://legiscan.com/NC/bill/S570/2025",
+  "aiSummary": "This bill restricts how physicians can practice medicine in North Carolina by prohibiting shared ownership between medical practices and management services organizations (companies that provide administrative support), and requires that physicians maintain control over medical decisions without interference from non-physicians or outside entities. It limits which types of employers can hire physicians and establishes enforcement mechanisms through the North Carolina Medical Board.",
+  "aiProArguments": "Supporters argue this bill protects physician independence and patient care quality by preventing corporate entities and non-medical business interests from controlling medical decisions. They contend that when business managers have financial stakes in medical practices, it can create conflicts of interest that prioritize profits over patient welfare. The bill aims to restore professional autonomy so doctors can make treatment decisions based solely on medical judgment and patient needs.",
+  "aiConArguments": "Opponents worry this bill could limit business flexibility and reduce efficiency in healthcare delivery by restricting common ownership structures used by many modern medical organizations. They argue that management services organizations often improve operations and reduce administrative burdens on physicians, and that preventing shared ownership could increase costs or reduce access to care. Critics also question whether the bill's restrictions on employer types could limit physician employment options or conflict with existing healthcare arrangements.",
+  "topic": "Business & Labor",
+  "textLength": 14171,
+  "createdAt": "2026-06-23T03:08:58.342Z",
+  "sponsors": [
+    {"peopleId":22425,"name":"Julie Mayfield","party":"D","isPrimary":true},
+    {"peopleId":24222,"name":"Lisa Grafstein","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

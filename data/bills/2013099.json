@@ -1,0 +1,32 @@
+{
+  "billId": 2013099,
+  "billNumber": "S436",
+  "title": "Age with Dignity Act (Caregiver Tax Credit)",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "c7029da3c88881b26e1fb3b22eb3305c",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-25",
+  "url": "https://legiscan.com/NC/bill/S436/2025",
+  "aiSummary": "This bill creates a state income tax credit for North Carolina taxpayers who claim adult dependents on their federal taxes. Taxpayers with qualifying adult relatives (such as elderly parents or disabled adults) can claim a credit of $12,000 per dependent, or $15,000 if the dependent is a military veteran, provided their adjusted gross income is below specified thresholds ($75,000-$150,000 depending on filing status).",
+  "aiProArguments": "Supporters argue this credit recognizes and financially assists families who provide home care for aging parents, disabled relatives, or other adult dependents, reducing the burden on state long-term care facilities and Medicaid. The credit helps middle-income families afford caregiving expenses while keeping loved ones in family homes, which many view as more dignified and cost-effective than institutional care.",
+  "aiConArguments": "Opponents may argue the credit reduces state tax revenue without clear evidence it increases caregiving or improves outcomes, potentially diverting resources from other priorities. Others question whether the income limits (up to $150,000) effectively target lower-income families, and note that the credit's value ($12,000-$15,000) may not meaningfully offset actual caregiving costs for families already struggling financially.",
+  "topic": "Taxes & Budget",
+  "textLength": 2011,
+  "createdAt": "2026-06-23T03:07:48.846Z",
+  "sponsors": [
+    {"peopleId":24222,"name":"Lisa Grafstein","party":"D","isPrimary":true},
+    {"peopleId":20510,"name":"Terence Everitt","party":"D","isPrimary":true},
+    {"peopleId":24220,"name":"Val Applewhite","party":"D","isPrimary":false},
+    {"peopleId":25858,"name":"Sophia Chitlik","party":"D","isPrimary":false},
+    {"peopleId":20220,"name":"Michael Garrett","party":"D","isPrimary":false},
+    {"peopleId":22425,"name":"Julie Mayfield","party":"D","isPrimary":false},
+    {"peopleId":20223,"name":"Mujtaba Mohammed","party":"D","isPrimary":false},
+    {"peopleId":12032,"name":"Gladys Robinson","party":"D","isPrimary":false},
+    {"peopleId":22426,"name":"DeAndrea Salvador","party":"D","isPrimary":false},
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":false},
+    {"peopleId":25859,"name":"Caleb Theodros","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

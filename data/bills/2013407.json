@@ -1,0 +1,27 @@
+{
+  "billId": 2013407,
+  "billNumber": "H502",
+  "title": "Gender-Affirming Rights Act",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "b988493b631f7fc4dd99ade25a868e4c",
+  "lastAction": "Ref To Com On Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-03-26",
+  "url": "https://legiscan.com/NC/bill/H502/2025",
+  "aiSummary": "This bill repeals North Carolina's current ban on gender-affirming medical procedures for minors and state funding restrictions for these procedures. It establishes a new Gender-Affirming Rights Act that declares gender identity decisions as fundamental rights, requires healthcare providers to complete training on LGBTQ cultural competency, and prevents local governments from imposing stricter regulations than state law allows.",
+  "aiProArguments": "Supporters argue that transgender and gender-diverse youth deserve access to evidence-based medical care to treat gender dysphoria under appropriate clinical supervision. They contend that this bill aligns North Carolina with medical guidance from organizations like the American Medical Association and protects young people from discrimination while requiring healthcare providers to receive proper training to deliver respectful, competent care.",
+  "aiConArguments": "Opponents argue that minors cannot fully consent to irreversible medical procedures and that the state has a responsibility to protect children from potentially harmful treatments. They express concern about the bill's broad language defining gender-affirming care, question whether all such procedures are medically necessary, and worry about limiting parental involvement in treatment decisions for minors.",
+  "topic": "Healthcare",
+  "textLength": 4419,
+  "createdAt": "2026-06-23T02:53:42.326Z",
+  "sponsors": [
+    {"peopleId":20509,"name":"Allison Dahle","party":"D","isPrimary":true},
+    {"peopleId":18451,"name":"Mary Belk","party":"D","isPrimary":false},
+    {"peopleId":24199,"name":"Kanika Brown","party":"D","isPrimary":false},
+    {"peopleId":19238,"name":"Deb Butler","party":"D","isPrimary":false},
+    {"peopleId":25844,"name":"Julia Greenfield","party":"D","isPrimary":false},
+    {"peopleId":2077,"name":"Mary Harrison","party":"D","isPrimary":false},
+    {"peopleId":20528,"name":"Julie von Haefen","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

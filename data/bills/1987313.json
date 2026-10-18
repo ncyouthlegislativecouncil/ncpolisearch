@@ -1,0 +1,29 @@
+{
+  "billId": 1987313,
+  "billNumber": "H255",
+  "title": "SchCalFlex/Granville,Vance/Open Cal",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "bb65033273089ffc361e96f086e00715",
+  "lastAction": "Ref to the Com on Education - K-12, if favorable, Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-03-03",
+  "url": "https://legiscan.com/NC/bill/H255/2025",
+  "aiSummary": "This bill gives Granville County Schools and Vance County Schools additional flexibility to set their school opening and closing dates without needing State Board of Education approval. Currently, these districts must follow state rules requiring schools to open no earlier than the Monday closest to August 26 and close no later than the Friday closest to June 11, but this bill removes those restrictions for these two counties specifically.",
+  "aiProArguments": "Supporters argue that local school boards are best positioned to understand their communities' needs and should have autonomy in setting school calendars. The bill allows these districts to potentially start earlier or end later to accommodate local weather patterns, tourism seasons, or other county-specific factors that affect student attendance and family planning.",
+  "aiConArguments": "Opponents may argue that uniform state calendar guidelines ensure consistency across North Carolina and protect students by maintaining minimum instructional time standards. They could also question why only two counties receive this special exemption when other districts with similar needs remain subject to the same state restrictions, potentially creating inequitable treatment.",
+  "topic": "Education",
+  "textLength": 2509,
+  "createdAt": "2026-06-23T02:46:12.342Z",
+  "sponsors": [
+    {"peopleId":25842,"name":"Bryan Cohn","party":"D","isPrimary":true},
+    {"peopleId":22599,"name":"Amber Baker","party":"D","isPrimary":false},
+    {"peopleId":18451,"name":"Mary Belk","party":"D","isPrimary":false},
+    {"peopleId":24198,"name":"Gloristine Brown","party":"D","isPrimary":false},
+    {"peopleId":2044,"name":"Becky Carney","party":"D","isPrimary":false},
+    {"peopleId":20509,"name":"Allison Dahle","party":"D","isPrimary":false},
+    {"peopleId":2077,"name":"Mary Harrison","party":"D","isPrimary":false},
+    {"peopleId":20515,"name":"Zack Forde-Hawkins","party":"D","isPrimary":false},
+    {"peopleId":25853,"name":"Rodney Pierce","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

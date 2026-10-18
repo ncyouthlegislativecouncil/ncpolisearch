@@ -1,0 +1,28 @@
+{
+  "billId": 2014293,
+  "billNumber": "S632",
+  "title": "Homes for Heroes",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "830e4ca7ab709ab68eef6de7e3c5fae1",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2025-03-26",
+  "url": "https://legiscan.com/NC/bill/S632/2025",
+  "aiSummary": "This bill creates two programs to support public servants in North Carolina. Part I establishes a homebuyers' assistance program through the NC Housing Finance Agency that provides up to $25,000 in down payment and mortgage insurance assistance to first-time homebuyers who work full-time as teachers, law enforcement officers, firefighters, emergency medical services personnel, active duty military members, or veterans. Part II creates an income tax credit of up to $5,000 for unpaid volunteer firefighters and rescue squad workers to cover unreimbursed work-related expenses.",
+  "aiProArguments": "Supporters argue this bill addresses the affordable housing crisis by helping public servants—who are often underpaid—afford homes in their communities. They contend that removing financial barriers to homeownership helps retain teachers, police officers, firefighters, and other essential workers in North Carolina. Additionally, the tax credit for volunteer rescue workers recognizes their sacrifice and reduces out-of-pocket costs for individuals who provide critical emergency services without pay.",
+  "aiConArguments": "Opponents may argue that the $200 million appropriation for down payment assistance is a significant state expense that could be allocated elsewhere or that the program may not effectively reach those most in need. Some may question whether down payment assistance is the most efficient way to address housing affordability compared to other approaches. Additionally, critics might note that the volunteer worker tax credit has a narrow applicability and could set a precedent for other professions to request similar credits.",
+  "topic": "Housing",
+  "textLength": 5288,
+  "createdAt": "2026-06-23T03:09:29.860Z",
+  "sponsors": [
+    {"peopleId":25860,"name":"Woodson Bradley","party":"D","isPrimary":true},
+    {"peopleId":24222,"name":"Lisa Grafstein","party":"D","isPrimary":true},
+    {"peopleId":20510,"name":"Terence Everitt","party":"D","isPrimary":true},
+    {"peopleId":24220,"name":"Val Applewhite","party":"D","isPrimary":false},
+    {"peopleId":20220,"name":"Michael Garrett","party":"D","isPrimary":false},
+    {"peopleId":20223,"name":"Mujtaba Mohammed","party":"D","isPrimary":false},
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

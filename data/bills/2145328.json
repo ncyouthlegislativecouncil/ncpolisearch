@@ -1,0 +1,28 @@
+{
+  "billId": 2145328,
+  "billNumber": "S830",
+  "title": "Government Modernization/Funds",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "6db9cb38e62e13c597628eb1ebab96ed",
+  "lastAction": "Re-ref to Appropriations/Base Budget. If fav, re-ref to Rules and Operations of the Senate",
+  "lastActionDate": "2026-04-28",
+  "url": "https://legiscan.com/NC/bill/S830/2025",
+  "aiSummary": "This bill directs the Department of Information Technology to study how blockchain technology could improve state government operations in areas like record security, license verification, and procurement transparency. It appropriates $50 million in nonrecurring funds for implementation and requires annual progress reports to the General Assembly, with the bill expiring in 2031.",
+  "aiProArguments": "Supporters argue that modernizing outdated government IT systems will improve efficiency, reduce costs, and enhance public services for North Carolinians. They contend that blockchain technology can increase transparency in government procurement, reduce fraud, strengthen cybersecurity protections for sensitive public data, and make it easier for residents and businesses to access government services online.",
+  "aiConArguments": "Opponents may question whether $50 million is an appropriate investment without clearer evidence that blockchain technology will deliver promised benefits in government operations. Some express concern about the unproven nature of blockchain applications in government and worry about potential implementation challenges, costs overruns, or whether these funds could be better spent on proven modernization approaches.",
+  "topic": "Technology & Privacy",
+  "textLength": 3276,
+  "createdAt": "2026-06-23T03:11:04.422Z",
+  "sponsors": [
+    {"peopleId":25859,"name":"Caleb Theodros","party":"D","isPrimary":true},
+    {"peopleId":17936,"name":"Jay Chaudhuri","party":"D","isPrimary":true},
+    {"peopleId":22426,"name":"DeAndrea Salvador","party":"D","isPrimary":true},
+    {"peopleId":25860,"name":"Woodson Bradley","party":"D","isPrimary":false},
+    {"peopleId":25858,"name":"Sophia Chitlik","party":"D","isPrimary":false},
+    {"peopleId":20223,"name":"Mujtaba Mohammed","party":"D","isPrimary":false},
+    {"peopleId":21633,"name":"Natalie Murdock","party":"D","isPrimary":false},
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

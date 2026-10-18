@@ -1,0 +1,25 @@
+{
+  "billId": 2014302,
+  "billNumber": "S567",
+  "title": "Medicaid SUD Services Rate Adjustment Act",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "41fa971dee3e8f771ffdf09678fc1513",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-26",
+  "url": "https://legiscan.com/NC/bill/S567/2025",
+  "aiSummary": "This bill increases North Carolina's Medicaid reimbursement rates for substance use disorder (SUD) treatment services and establishes coverage for three new treatment service levels. The state will spend $15 million annually (matched with $27.4 million in federal funds) to fund these rate increases and new services, effective July 1, 2025.",
+  "aiProArguments": "Supporters argue that higher reimbursement rates will allow SUD treatment providers to maintain and expand services, improve staff wages and retention, and better serve North Carolinians struggling with substance abuse. They contend that increasing coverage for residential treatment options fills gaps in the continuum of care and removes barriers for people needing these services through Medicaid.",
+  "aiConArguments": "Opponents may argue that the $15 million annual state spending commitment represents a significant budget obligation during fiscal constraints, and question whether rate increases will translate to improved access and outcomes or primarily increase provider profits. Some may also question whether new residential treatment levels are the most cost-effective use of limited state resources compared to other prevention or community-based approaches.",
+  "topic": "Healthcare",
+  "textLength": 2560,
+  "createdAt": "2026-06-23T03:08:56.705Z",
+  "sponsors": [
+    {"peopleId":16251,"name":"Graig Meyer","party":"D","isPrimary":true},
+    {"peopleId":17147,"name":"Gale Adcock","party":"D","isPrimary":true},
+    {"peopleId":20505,"name":"Sydney Batch","party":"D","isPrimary":true},
+    {"peopleId":20223,"name":"Mujtaba Mohammed","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

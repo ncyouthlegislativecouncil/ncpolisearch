@@ -1,0 +1,21 @@
+{
+  "billId": 2146936,
+  "billNumber": "S1042",
+  "title": "Child Welfare/Foster Care/Child Care Funding",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "a8b513fc3719804c4d2de4fcc92acb4f",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2026-05-06",
+  "url": "https://legiscan.com/NC/bill/S1042/2025",
+  "aiSummary": "This bill increases funding for child welfare, foster care, and child care services in North Carolina by redirecting $104 million annually from sports wagering and lottery revenues. It also establishes a $250,000 secure communication platform for child welfare cases and requires a study on implementing statewide child care subsidy rates.",
+  "aiProArguments": "Supporters argue this bill addresses critical needs in North Carolina's child welfare system by providing foster parents with reimbursement for home inspections, training, and initial placement items, while significantly expanding child care access through higher subsidy rates and extended programs. They contend that dedicating lottery and sports wagering revenues—rather than general tax dollars—to these services provides sustainable funding without burdening taxpayers, and that improved communication technology will reduce court delays and help achieve faster permanency for children in the system.",
+  "aiConArguments": "Opponents may argue that redirecting $104 million in lottery revenues away from education (the traditional lottery purpose) reduces funding for schools and educational programs. Some may also question whether lottery and gaming revenues are a reliable or appropriate funding source for social services, or express concerns about the adequacy of the proposed funding levels relative to the overall needs of foster care and child welfare systems in the state.",
+  "topic": "Social Services & Welfare",
+  "textLength": 6750,
+  "createdAt": "2026-06-23T03:12:53.976Z",
+  "sponsors": [
+    {"peopleId":20216,"name":"Jim Burgin","party":"R","isPrimary":true}
+  ],
+  "rollCalls": []
+}

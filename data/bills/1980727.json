@@ -1,0 +1,23 @@
+{
+  "billId": 1980727,
+  "billNumber": "S142",
+  "title": "Funds for Mecklenburg Council of Elders",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "8daf6299e3a7cd52cedbc4d9132966d6",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2025-02-25",
+  "url": "https://legiscan.com/NC/bill/S142/2025",
+  "aiSummary": "This bill appropriates $75,000 in state funding for the 2025-2026 fiscal year to the Mecklenburg Council of Elders, a nonprofit organization. The money will support seminars and events in Mecklenburg County that inform residents about their rights and options as citizens, and will assist the organization's Juvenile Court Intervention program.",
+  "aiProArguments": "Supporters argue this funding helps a nonprofit organization provide valuable services to Mecklenburg County residents, particularly those involved with the juvenile justice system. The bill funds educational seminars that inform citizens about their rights and options, and supports a juvenile court intervention program that may help reduce recidivism and support positive youth outcomes in the community.",
+  "aiConArguments": "Opponents may question whether $75,000 in state general fund money should go to a single local nonprofit when other statewide programs need funding, or whether this represents a precedent for similar local requests. Some may also ask whether the outcomes and effectiveness of the Juvenile Court Intervention program are documented, and whether other organizations in the county provide similar services.",
+  "topic": "Social Services & Welfare",
+  "textLength": 1078,
+  "createdAt": "2026-06-23T03:05:16.360Z",
+  "sponsors": [
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":true},
+    {"peopleId":20223,"name":"Mujtaba Mohammed","party":"D","isPrimary":false},
+    {"peopleId":25859,"name":"Caleb Theodros","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

@@ -1,0 +1,29 @@
+{
+  "billId": 1973614,
+  "billNumber": "H155",
+  "title": "SchCalFlex/Wilkes,Alexander/Open Cal",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "e32491480fb4ed439d1df8bb0b663874",
+  "lastAction": "Ref to the Com on Education - K-12, if favorable, Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-02-21",
+  "url": "https://legiscan.com/NC/bill/H155/2025",
+  "aiSummary": "This bill gives Wilkes County Schools and Alexander County Schools additional flexibility in setting their school calendar opening and closing dates. Specifically, it allows these two school systems to start the school year as early as the Monday closest to August 19 (instead of the standard August 26) if they meet certain conditions, such as having experienced frequent weather-related closures in recent years.",
+  "aiProArguments": "Supporters argue this bill helps school systems that face frequent weather-related closures build in extra instructional days to meet state requirements without extending the school year into summer. By allowing an earlier start date for districts with documented closure patterns, schools can maintain adequate instructional time while still accommodating unexpected closures. This flexibility is particularly beneficial for rural mountain counties like Wilkes and Alexander that experience more severe weather disruptions.",
+  "aiConArguments": "Opponents may contend that earlier school start dates disrupt summer activities, family plans, and the tourism industry that depends on students and families being available during summer months. Some argue that allowing exceptions to the statewide calendar rules creates inconsistency across North Carolina and may set a precedent for other counties to seek similar waivers. Additionally, concerns exist about whether an earlier start date actually solves weather closure problems or simply shifts the burden to spring closures instead.",
+  "topic": "Education",
+  "textLength": 2515,
+  "createdAt": "2026-06-23T02:43:17.389Z",
+  "sponsors": [
+    {"peopleId":25222,"name":"Blair Eddins","party":"R","isPrimary":true},
+    {"peopleId":18451,"name":"Mary Belk","party":"D","isPrimary":false},
+    {"peopleId":24198,"name":"Gloristine Brown","party":"D","isPrimary":false},
+    {"peopleId":24200,"name":"Laura Budd","party":"D","isPrimary":false},
+    {"peopleId":2044,"name":"Becky Carney","party":"D","isPrimary":false},
+    {"peopleId":2077,"name":"Mary Harrison","party":"D","isPrimary":false},
+    {"peopleId":20515,"name":"Zack Forde-Hawkins","party":"D","isPrimary":false},
+    {"peopleId":25853,"name":"Rodney Pierce","party":"D","isPrimary":false},
+    {"peopleId":14633,"name":"Dennis Riddell","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

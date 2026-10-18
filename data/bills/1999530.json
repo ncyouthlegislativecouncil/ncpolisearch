@@ -1,0 +1,31 @@
+{
+  "billId": 1999530,
+  "billNumber": "S264",
+  "title": "Flags at Every School",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "fe64da875b845de3aa072cf257b9e1ad",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-12",
+  "url": "https://legiscan.com/NC/bill/S264/2025",
+  "aiSummary": "This bill requires all public schools in North Carolina—including traditional public schools, charter schools, and university-operated schools—to display U.S. and North Carolina flags on school grounds and in every classroom. It also requires schools to schedule daily Pledge of Allegiance recitations and teach students about the flag's meaning and history. The bill provides $1 million in funding for the 2025-2026 school year and $100,000 annually after that to help schools purchase flags.",
+  "aiProArguments": "Supporters argue that displaying flags and reciting the Pledge of Allegiance promote patriotism, national unity, and civic engagement among students. They believe flags serve as visual reminders of shared American values and that age-appropriate instruction about the flag's significance helps students understand their country's history and symbols. Proponents point out the bill includes explicit protections—no student can be compelled to stand, salute, or recite the pledge—respecting individual conscience while still making these symbols and practices available.",
+  "aiConArguments": "Opponents may argue that the bill imposes a one-size-fits-all mandate that reduces local school flexibility and diverts limited education funding toward flag purchases rather than classrooms, teachers, or student services. Some express concern that daily pledge recitations could feel coercive to students despite legal protections, particularly for those from non-religious backgrounds or marginalized communities. Critics question whether flag displays in every classroom are necessary for civic education and whether schools should prioritize other uses for wall space and resources.",
+  "topic": "Education",
+  "textLength": 7024,
+  "createdAt": "2026-06-23T03:06:13.948Z",
+  "sponsors": [
+    {"peopleId":24226,"name":"Eddie Settle","party":"R","isPrimary":true},
+    {"peopleId":25860,"name":"Woodson Bradley","party":"D","isPrimary":false},
+    {"peopleId":20216,"name":"Jim Burgin","party":"R","isPrimary":false},
+    {"peopleId":17936,"name":"Jay Chaudhuri","party":"D","isPrimary":false},
+    {"peopleId":21663,"name":"David Craven","party":"R","isPrimary":false},
+    {"peopleId":14615,"name":"Carl Ford","party":"R","isPrimary":false},
+    {"peopleId":20513,"name":"Bobby Hanig","party":"R","isPrimary":false},
+    {"peopleId":11937,"name":"Ralph Hise","party":"R","isPrimary":false},
+    {"peopleId":11858,"name":"Timothy Moffitt","party":"R","isPrimary":false},
+    {"peopleId":24223,"name":"Brad Overcash","party":"R","isPrimary":false},
+    {"peopleId":11862,"name":"Norman Sanderson","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

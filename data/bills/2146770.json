@@ -1,0 +1,26 @@
+{
+  "billId": 2146770,
+  "billNumber": "S971",
+  "title": "Statewide Year-Round School Study",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "4315990b4101858594d3da789f289d53",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2026-05-05",
+  "url": "https://legiscan.com/NC/bill/S971/2025",
+  "aiSummary": "This bill directs the North Carolina Department of Public Instruction to conduct a study examining whether North Carolina should implement a year-round school calendar statewide. The department must analyze educational outcomes, summer learning loss, testing, community impacts, employment, and other relevant factors, then report findings and recommendations to the legislature by February 1, 2027. The bill appropriates $50,000 to fund this study.",
+  "aiProArguments": "Supporters argue that year-round schooling could reduce summer learning loss, where students forget academic material during long breaks, potentially improving overall educational outcomes. They also point out that the study could identify benefits for community resources—such as better building utilization, reduced facility strain, and opportunities for summer employment and tourism—while helping North Carolina make an informed decision about implementing such a significant change.",
+  "aiConArguments": "Opponents may contend that year-round calendars disrupt family vacation traditions and create scheduling challenges for families, especially those with children in multiple schools or relying on summer childcare arrangements. Critics might also argue that the study's scope is broad and expensive for exploratory research, and that existing evidence from other states' year-round programs may already provide sufficient information without spending state resources on North Carolina-specific analysis.",
+  "topic": "Education",
+  "textLength": 1844,
+  "createdAt": "2026-06-23T03:12:17.255Z",
+  "sponsors": [
+    {"peopleId":20216,"name":"Jim Burgin","party":"R","isPrimary":true},
+    {"peopleId":18454,"name":"Kevin Corbin","party":"R","isPrimary":true},
+    {"peopleId":17147,"name":"Gale Adcock","party":"D","isPrimary":false},
+    {"peopleId":17936,"name":"Jay Chaudhuri","party":"D","isPrimary":false},
+    {"peopleId":25858,"name":"Sophia Chitlik","party":"D","isPrimary":false},
+    {"peopleId":20223,"name":"Mujtaba Mohammed","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

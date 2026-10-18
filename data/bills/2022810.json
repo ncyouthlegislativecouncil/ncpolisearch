@@ -1,0 +1,21 @@
+{
+  "billId": 2022810,
+  "billNumber": "H963",
+  "title": "Code Enforcement Pathways & Procedures Act",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "1c40ad7661f4186e9ab0e3b24ecd9672",
+  "lastAction": "Ref to the Com on Appropriations, if favorable, Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-04-14",
+  "url": "https://legiscan.com/NC/bill/H963/2025",
+  "aiSummary": "This bill establishes pathways for more people to become building code inspectors in North Carolina, adds protections for inspectors in disciplinary actions, ensures that approved building inspections remain final, creates a fund to help economically disadvantaged counties hire inspectors after disasters, and allows Level I inspectors to inspect certain small nonresidential buildings.",
+  "aiProArguments": "Supporters argue this bill addresses North Carolina's shortage of qualified building inspectors by creating apprenticeship and contractor-transition programs that streamline entry into the profession. The inspector protections ensure fair treatment and prevent arbitrary dismissals. The Disaster Relief Fund helps rural and economically struggling counties recover faster after emergencies. The finality provision protects builders from repeatedly redoing approved work, reducing costs and delays.",
+  "aiConArguments": "Opponents may worry that expedited pathways to certification (particularly for contractors skipping Level I requirements) could compromise building safety if inspectors lack sufficient foundational training. The just-cause requirement for inspector discipline could make it harder for local governments to remove underperforming staff. The finality provision limits inspectors' ability to correct problems discovered later in construction, potentially creating liability issues.",
+  "topic": "Local Government",
+  "textLength": 39192,
+  "createdAt": "2026-06-23T02:59:50.283Z",
+  "sponsors": [
+    {"peopleId":17678,"name":"James Adams","party":"R","isPrimary":true}
+  ],
+  "rollCalls": []
+}

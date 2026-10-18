@@ -1,0 +1,21 @@
+{
+  "billId": 2005931,
+  "billNumber": "H395",
+  "title": "Funds/Jackson, Transylvania & Swain Counties",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "cf75ba48fd45a198a1d48fdb52eaa080",
+  "lastAction": "Ref to the Com on Appropriations, if favorable, Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-03-17",
+  "url": "https://legiscan.com/NC/bill/H395/2025",
+  "aiSummary": "This bill appropriates approximately $328.6 million in state funds for the 2025-2026 fiscal year to three western North Carolina counties (Jackson, Transylvania, and Swain) and related institutions. The funds support infrastructure projects like water/sewer systems and fire department facilities, higher education institutions including community colleges and Western Carolina University, and nonprofit organizations.",
+  "aiProArguments": "Supporters argue this bill addresses critical infrastructure needs in underserved rural areas, particularly water and sewer systems that affect public health and economic development. They contend the funding helps regional colleges and universities expand capacity in skilled trades and engineering to meet industry demands, while also supporting Hurricane Helene recovery efforts and essential services like fire and rescue departments that protect residents.",
+  "aiConArguments": "Opponents may question whether directing such large amounts to specific counties and institutions is the most equitable use of state funds, noting that other regions might have similar needs. They could argue that the bill includes many specialized projects that might be better prioritized through competitive grant processes rather than directed appropriations, and express concern about whether one-time nonrecurring funds create sustainable solutions or ongoing budget obligations.",
+  "topic": "Taxes & Budget",
+  "textLength": 12634,
+  "createdAt": "2026-06-23T02:50:11.198Z",
+  "sponsors": [
+    {"peopleId":18453,"name":"Mike Clampitt","party":"R","isPrimary":true}
+  ],
+  "rollCalls": []
+}

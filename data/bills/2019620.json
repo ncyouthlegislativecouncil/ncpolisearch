@@ -1,0 +1,30 @@
+{
+  "billId": 2019620,
+  "billNumber": "H769",
+  "title": "National Infrastructure Bank",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "430a97c900f5fbe26e82cdde49013784",
+  "lastAction": "Ref To Com On Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-04-07",
+  "url": "https://legiscan.com/NC/bill/H769/2025",
+  "aiSummary": "This is a House Resolution urging the U.S. Congress to pass legislation creating a National Infrastructure Bank that would invest $5 trillion in infrastructure projects nationwide. The resolution does not create law itself but expresses support for federal action to address what it describes as significant infrastructure needs in North Carolina and across the country.",
+  "aiProArguments": "Supporters argue that the United States has a major infrastructure funding crisis, with North Carolina facing billions in needed repairs for roads, bridges, water systems, and other critical infrastructure. They contend that a National Infrastructure Bank would fund these repairs without new federal taxes, create approximately 25 million high-wage jobs, include requirements to support minority-owned businesses and disadvantaged communities, and help rebuild hurricane-damaged areas while spurring economic growth.",
+  "aiConArguments": "Opponents may question whether a new bank capitalized by Treasury debt effectively avoids creating new federal obligations that taxpayers must ultimately service, and whether the projected economic growth and job creation numbers are realistic. They may also raise concerns about whether a centralized federal infrastructure bank is the most efficient use of funds compared to state and local control, or whether borrowing at the scale proposed could affect interest rates and inflation.",
+  "topic": "Transportation & Infrastructure",
+  "textLength": 4845,
+  "createdAt": "2026-06-23T03:03:55.588Z",
+  "sponsors": [
+    {"peopleId":17158,"name":"Shelly Willingham","party":"D","isPrimary":true},
+    {"peopleId":25846,"name":"Mike Colvin","party":"D","isPrimary":false},
+    {"peopleId":20515,"name":"Zack Forde-Hawkins","party":"D","isPrimary":false},
+    {"peopleId":24206,"name":"Frances Jackson","party":"D","isPrimary":false},
+    {"peopleId":20521,"name":"Carolyn Logan","party":"D","isPrimary":false},
+    {"peopleId":24210,"name":"Tim Longest","party":"D","isPrimary":false},
+    {"peopleId":20522,"name":"Nasif Majeed","party":"D","isPrimary":false},
+    {"peopleId":2115,"name":"Garland Pierce","party":"D","isPrimary":false},
+    {"peopleId":16252,"name":"Robert Reives","party":"D","isPrimary":false},
+    {"peopleId":26396,"name":"Phil Rubin","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

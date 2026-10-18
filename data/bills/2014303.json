@@ -1,0 +1,22 @@
+{
+  "billId": 2014303,
+  "billNumber": "S681",
+  "title": "The Prison Resources Repurposing Act",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "73f7f87dc1d63b9938a7b01fcfe08be2",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-26",
+  "url": "https://legiscan.com/NC/bill/S681/2025",
+  "aiSummary": "This bill creates a new parole pathway for inmates serving life sentences without parole in North Carolina. Eligible inmates must serve at least 20 years, complete education and vocational training, and maintain work requirements through a 15-year Mutual Agreement Parole Program contract. If successful, they can be released on parole for 5 years, though violation returns them to prison with a 5-year parole ineligibility period.",
+  "aiProArguments": "Supporters argue this bill provides incentives for rehabilitation and good behavior among long-term inmates, potentially reducing recidivism through education and work programs. They contend that inmates who demonstrate accountability through 20+ years of compliance and program completion deserve a second chance, and that successful parole would free up prison resources and reduce incarceration costs while maintaining public safety through supervision conditions.",
+  "aiConArguments": "Opponents worry that life sentences without parole were imposed to permanently incapacitate dangerous offenders, and this bill undermines that sentencing intent. They express concerns that even with program requirements, some violent offenders could be released back into communities, and that a 5-year parole term may be insufficient monitoring for someone previously deemed irredeemable by the courts.",
+  "topic": "Criminal Justice & Public Safety",
+  "textLength": 5054,
+  "createdAt": "2026-06-23T03:09:58.611Z",
+  "sponsors": [
+    {"peopleId":24222,"name":"Lisa Grafstein","party":"D","isPrimary":true},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

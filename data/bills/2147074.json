@@ -1,0 +1,24 @@
+{
+  "billId": 2147074,
+  "billNumber": "S1017",
+  "title": "Justice for Storm Chantal Survivors Act",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "a5c8d405568b4380a6070a87a213e61a",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2026-05-05",
+  "url": "https://legiscan.com/NC/bill/S1017/2025",
+  "aiSummary": "This bill establishes a $25 million Tropical Storm Chantal Mitigation Fund within the North Carolina Division of Emergency Management to help homeowners in seven counties (Alamance, Caswell, Chatham, Durham, Moore, Orange, and Person) with buyouts, relocations, and home repairs. Each eligible homeowner can receive up to $500,000 in assistance, with funds distributed fairly across the affected area.",
+  "aiProArguments": "Supporters argue this bill provides essential recovery assistance to homeowners devastated by Tropical Storm Chantal, helping them rebuild or relocate from disaster-prone areas. They contend that targeted state funding ensures equitable aid reaches all affected residents, reduces individual financial burden from disaster recovery, and may help prevent future losses by supporting mitigation measures and strategic relocations.",
+  "aiConArguments": "Opponents may argue that $25 million is insufficient for the affected population across seven counties, question whether state funds should cover private property losses that insurance should address, or worry about the fairness of aid distribution across different damage levels. They may also raise concerns about whether this sets a precedent for state disaster funding that could strain the budget in future storms.",
+  "topic": "Taxes & Budget",
+  "textLength": 1783,
+  "createdAt": "2026-06-23T03:12:40.724Z",
+  "sponsors": [
+    {"peopleId":25858,"name":"Sophia Chitlik","party":"D","isPrimary":true},
+    {"peopleId":21633,"name":"Natalie Murdock","party":"D","isPrimary":true},
+    {"peopleId":26664,"name":"Jonah Garson","party":"D","isPrimary":false},
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

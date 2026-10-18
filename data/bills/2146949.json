@@ -1,0 +1,23 @@
+{
+  "billId": 2146949,
+  "billNumber": "S1046",
+  "title": "A.I. in Environmental Permitting",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "2fb9357b27c53dc739a4e7cb2e098f11",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2026-05-04",
+  "url": "https://legiscan.com/NC/bill/S1046/2025",
+  "aiSummary": "This bill establishes a program allowing the Department of Environmental Quality and Environmental Management Commission to use artificial intelligence as a decision-support tool to help staff review and draft environmental permits. The bill requires that humans independently review all AI-generated work, prohibits permits from being approved based solely on AI output, and mandates transparency by informing applicants when AI was used and requiring annual performance reports.",
+  "aiProArguments": "Supporters argue that AI can accelerate routine permitting tasks, improve consistency in permit decisions, and reduce processing times, which benefits both permit applicants seeking faster approvals and the general public through more efficient government operations. Proponents contend that with proper human oversight, quality assurance standards, staff training, and safeguards against data misuse outlined in the bill, AI can enhance government efficiency without compromising environmental protection or public health standards.",
+  "aiConArguments": "Opponents may worry that AI systems could introduce errors or biases into environmental decisions that affect public health and the environment, and express concern about whether human reviewers will adequately catch and correct AI mistakes. Critics might also question data security and privacy protections when sensitive permit information and trade secrets are processed by AI systems, and whether the $1 million appropriation is sufficient to ensure robust oversight and quality control throughout the program.",
+  "topic": "Environment & Energy",
+  "textLength": 9767,
+  "createdAt": "2026-06-23T03:12:56.278Z",
+  "sponsors": [
+    {"peopleId":20518,"name":"Steve Jarvis","party":"R","isPrimary":true},
+    {"peopleId":17504,"name":"Michael Lee","party":"R","isPrimary":false},
+    {"peopleId":11858,"name":"Timothy Moffitt","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

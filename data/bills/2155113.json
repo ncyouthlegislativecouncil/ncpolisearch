@@ -1,0 +1,28 @@
+{
+  "billId": 2155113,
+  "billNumber": "H1242",
+  "title": "Modernize Law of the Land Clause",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "917719281b6ef4f13e6179546eb1a283",
+  "lastAction": "Ref To Com On Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2026-07-01",
+  "url": "https://legiscan.com/NC/bill/H1242/2025",
+  "aiSummary": "This bill proposes to amend North Carolina's Constitution by modernizing the language of Article I, Section 19, which protects due process and equal protection rights. The change would update outdated legal terminology (such as 'disseized of his freehold') to contemporary language while maintaining the same constitutional protections. The amendment would be submitted to North Carolina voters for approval in the November 2026 general election.",
+  "aiProArguments": "Supporters argue that modernizing the constitutional language makes it more accessible and understandable to contemporary citizens and legal professionals without changing the actual protections afforded. By replacing archaic legal terminology with plain language, the clause becomes clearer in meaning and easier for average North Carolinians to understand their constitutional rights. This modernization also maintains consistency with how courts currently interpret and apply these protections.",
+  "aiConArguments": "Opponents may argue that constitutional language should remain historically intact to preserve original intent and avoid unintended legal interpretations that could arise from rewording. Some contend that changing constitutional text, even for clarity purposes, sets a precedent for other modifications and could create ambiguity during legal disputes over what the updated language means. Additionally, critics might question whether modernization is necessary since courts already interpret the existing clause effectively.",
+  "topic": "Other / General Government",
+  "textLength": 2542,
+  "createdAt": "2026-07-01T11:36:50.367Z",
+  "sponsors": [
+    {"peopleId":26662,"name":"Amanda Cook","party":"D","isPrimary":true},
+    {"peopleId":25844,"name":"Julia Greenfield","party":"D","isPrimary":true},
+    {"peopleId":18451,"name":"Mary Belk","party":"D","isPrimary":false},
+    {"peopleId":19238,"name":"Deb Butler","party":"D","isPrimary":false},
+    {"peopleId":24202,"name":"Maria Cervania","party":"D","isPrimary":false},
+    {"peopleId":25213,"name":"Tracy Clark","party":"D","isPrimary":false},
+    {"peopleId":2077,"name":"Mary Harrison","party":"D","isPrimary":false},
+    {"peopleId":26396,"name":"Phil Rubin","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

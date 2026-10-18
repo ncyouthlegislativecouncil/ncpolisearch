@@ -1,0 +1,26 @@
+{
+  "billId": 2144501,
+  "billNumber": "S785",
+  "title": "Opt-In to Student Health",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "70da3408dfde27c0500771580437a381",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2026-04-23",
+  "url": "https://legiscan.com/NC/bill/S785/2025",
+  "aiSummary": "This bill clarifies which health screenings schools can conduct without parental consent and which require consent. Schools can perform vision, hearing, dental, and developmental screenings without advance consent but must notify parents at the beginning of the school year and share results. The bill also requires schools to obtain parental consent for other health care services and to notify parents before using student well-being questionnaires in grades K-3.",
+  "aiProArguments": "Supporters argue this bill protects parental rights by ensuring parents are informed about and can consent to health services affecting their children. They contend that requiring parental notification and consent for questionnaires and health-related service changes gives families greater control over their children's school health experiences. Supporters also note that basic screenings (vision, hearing, dental, developmental) can still proceed with notice, allowing important health needs to be identified early.",
+  "aiConArguments": "Opponents may argue that requiring parental consent for routine health screenings and questionnaires could delay or prevent identification of serious health issues in children whose parents are unreachable or unsupportive of screening. They contend that schools need flexibility to address student health and well-being concerns without extensive notification delays, and that some families may opt out of screenings that could detect treatable conditions affecting academic performance.",
+  "topic": "Education",
+  "textLength": 3158,
+  "createdAt": "2026-06-23T03:10:43.874Z",
+  "sponsors": [
+    {"peopleId":25860,"name":"Woodson Bradley","party":"D","isPrimary":true},
+    {"peopleId":20223,"name":"Mujtaba Mohammed","party":"D","isPrimary":false},
+    {"peopleId":22426,"name":"DeAndrea Salvador","party":"D","isPrimary":false},
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":false},
+    {"peopleId":25859,"name":"Caleb Theodros","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

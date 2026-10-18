@@ -1,0 +1,24 @@
+{
+  "billId": 2147109,
+  "billNumber": "S1012",
+  "title": "Ban Online For-Profit Charters",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "cf0ea392f1fc6dc09a76c4fd080a7183",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2026-05-04",
+  "url": "https://legiscan.com/NC/bill/S1012/2025",
+  "aiSummary": "This bill prohibits North Carolina charter schools from using for-profit management companies, requires online charter students to take state tests in person with a social worker present, limits online charter renewals to one year instead of five years, mandates yearly financial audits for online charters, and prevents low-performing online charters from renewing.",
+  "aiProArguments": "Supporters argue this bill protects students and taxpayer money by preventing for-profit companies from profiting off charter schools. They contend that requiring in-person testing ensures academic integrity, that shorter renewal terms allow better oversight of struggling programs, and that separate financial reporting increases transparency. Supporters also point out that online charters serve fewer students and have lower graduation rates compared to traditional public schools, making stricter accountability necessary.",
+  "aiConArguments": "Opponents argue this bill may discourage online charter schools that serve families needing flexible education options, such as students with health issues, working students, or those in rural areas. They contend that one-year renewals create instability for schools trying to plan long-term and may increase administrative costs. Critics also suggest that requiring in-person testing defeats the purpose of online education for families choosing remote learning, and that the bill's requirements may be costly to implement without sufficient funding.",
+  "topic": "Education",
+  "textLength": 5610,
+  "createdAt": "2026-06-23T03:12:37.910Z",
+  "sponsors": [
+    {"peopleId":25858,"name":"Sophia Chitlik","party":"D","isPrimary":true},
+    {"peopleId":24220,"name":"Val Applewhite","party":"D","isPrimary":true},
+    {"peopleId":21633,"name":"Natalie Murdock","party":"D","isPrimary":false},
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

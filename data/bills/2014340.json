@@ -1,0 +1,23 @@
+{
+  "billId": 2014340,
+  "billNumber": "S686",
+  "title": "The Fair Sentencing Act",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "e37f3ce48ee7ec5648baebf64043f147",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-26",
+  "url": "https://legiscan.com/NC/bill/S686/2025",
+  "aiSummary": "This bill removes or significantly reduces mandatory minimum sentences for firearm felonies, impaired driving convictions, and drug trafficking offenses. It allows judges more discretion in sentencing by creating exceptions to mandatory minimums, particularly for first-time offenders who meet specific criteria such as completing substance abuse treatment and not using violence.",
+  "aiProArguments": "Supporters argue that mandatory minimums can result in disproportionately harsh sentences that don't fit individual circumstances. They contend that judges need flexibility to consider factors like whether someone used violence, their prior criminal history, and substance abuse issues. The bill particularly benefits first-time, non-violent offenders by allowing judges to impose sentences based on rehabilitation potential rather than automatic long prison terms, which supporters say reduces mass incarceration and gives people better chances to recover from addiction.",
+  "aiConArguments": "Opponents worry that removing mandatory minimums for serious crimes like drug trafficking and firearm felonies could undermine public safety and consistency in the justice system. They argue that mandatory minimums exist to deter major crimes and ensure all offenders face comparable punishment regardless of which judge hears their case. Critics also express concern that judges may be too lenient on trafficking offenders or those involved with firearms, potentially putting communities at risk and undermining victims' sense of justice.",
+  "topic": "Criminal Justice & Public Safety",
+  "textLength": 30150,
+  "createdAt": "2026-06-23T03:10:00.798Z",
+  "sponsors": [
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":true},
+    {"peopleId":21633,"name":"Natalie Murdock","party":"D","isPrimary":true},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

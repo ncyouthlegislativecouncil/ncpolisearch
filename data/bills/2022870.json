@@ -1,0 +1,29 @@
+{
+  "billId": 2022870,
+  "billNumber": "H944",
+  "title": "Fund Community Health Svcs/Mecklenburg County",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "527862c23198bab89763cd2fd0a999dd",
+  "lastAction": "Ref to the Com on Appropriations, if favorable, Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-04-14",
+  "url": "https://legiscan.com/NC/bill/H944/2025",
+  "aiSummary": "This bill appropriates $1.5 million in state funding for fiscal year 2025-2026 to support Care Ring, Inc., a nonprofit community health clinic in Mecklenburg County that provides primary care services to medically vulnerable residents facing geographic, economic, or other barriers to healthcare access.",
+  "aiProArguments": "Supporters argue this funding addresses a critical healthcare gap by ensuring medically vulnerable residents in Mecklenburg County can access primary care services they might otherwise be unable to afford or reach. The grant helps a nonprofit organization continue serving low-income and underserved populations, reducing reliance on emergency room care and improving health outcomes in the community.",
+  "aiConArguments": "Opponents may argue that using state general funds for a single county-specific nonprofit sets a precedent for similar requests from other regions and counties, potentially straining the state budget. Some may also question whether this directed grant is the most efficient use of limited state resources compared to broader healthcare funding mechanisms or whether the nonprofit could pursue alternative funding sources.",
+  "topic": "Healthcare",
+  "textLength": 1411,
+  "createdAt": "2026-06-23T02:59:36.632Z",
+  "sponsors": [
+    {"peopleId":2044,"name":"Becky Carney","party":"D","isPrimary":true},
+    {"peopleId":2049,"name":"Patricia Cotham","party":"R","isPrimary":true},
+    {"peopleId":20520,"name":"Brandon Lofton","party":"D","isPrimary":true},
+    {"peopleId":18451,"name":"Mary Belk","party":"D","isPrimary":false},
+    {"peopleId":22600,"name":"Terry Brown","party":"D","isPrimary":false},
+    {"peopleId":14612,"name":"Carla Cunningham","party":"D","isPrimary":false},
+    {"peopleId":20521,"name":"Carolyn Logan","party":"D","isPrimary":false},
+    {"peopleId":25850,"name":"Jordan Lopez","party":"D","isPrimary":false},
+    {"peopleId":20522,"name":"Nasif Majeed","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

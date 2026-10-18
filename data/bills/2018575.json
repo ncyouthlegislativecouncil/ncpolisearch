@@ -1,0 +1,21 @@
+{
+  "billId": 2018575,
+  "billNumber": "H675",
+  "title": "EMT Personnel Credentialing Modifications",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "e36a3a35d15e5cdf9c4a277403d5371d",
+  "lastAction": "Re-ref Com On Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-04-29",
+  "url": "https://legiscan.com/NC/bill/H675/2025",
+  "aiSummary": "This bill requires North Carolina Emergency Medical Services (EMS) personnel seeking new credentials or renewals to pass the National Registry of Emergency Medical Technicians (NREMT) examination starting January 1, 2026. Current credentialed personnel have until January 1, 2030 to obtain NREMT certification. The bill also establishes requirements for criminal background checks and specialty certifications through the International Board of Specialty Certification.",
+  "aiProArguments": "Supporters argue that requiring the NREMT examination creates a standardized, nationally-recognized credential that ensures consistent quality and competency across EMS personnel in North Carolina. This single standard may improve patient safety, facilitate personnel mobility between states, and reduce confusion caused by varying state-level credentials. The bill also streamlines the credentialing process by establishing clear expectations and may help ensure that EMS providers meet high professional standards.",
+  "aiConArguments": "Opponents may argue that the transition period and examination costs could burden existing EMS personnel, particularly in rural or underserved areas where recruiting and retaining qualified personnel is already challenging. Some may contend that state-specific credentials that have worked adequately should not be eliminated, or that the four-year transition timeline (until 2030) is too aggressive for some providers to implement without operational disruption. There are also concerns about potential fee increases and administrative burdens associated with the new examination and background check requirements.",
+  "topic": "Healthcare",
+  "textLength": 10447,
+  "createdAt": "2026-06-23T02:56:15.825Z",
+  "sponsors": [
+    {"peopleId":22617,"name":"Mark Pless","party":"R","isPrimary":true}
+  ],
+  "rollCalls": []
+}

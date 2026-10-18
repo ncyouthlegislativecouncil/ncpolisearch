@@ -1,0 +1,23 @@
+{
+  "billId": 2147030,
+  "billNumber": "S1062",
+  "title": "Commuter Transportation Study/Piedmont Triad",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "9978996e521c18771d556f83b0f47505",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2026-05-06",
+  "url": "https://legiscan.com/NC/bill/S1062/2025",
+  "aiSummary": "This bill directs the North Carolina Department of Transportation to conduct a study on improving commuter transportation in the Piedmont Triad region (Greensboro, High Point, and Winston-Salem). The study will evaluate commuter rail, bus rapid transit, regional bus systems, and roadway expansion options, along with governance structures, funding mechanisms, and land use impacts, with results due by December 2026. The state will allocate $250,000 to fund this study.",
+  "aiProArguments": "Supporters argue that the Piedmont Triad region faces growing traffic congestion and that a comprehensive study of transportation options could identify cost-effective solutions to improve commuter mobility and economic connectivity between the three major cities. They contend that a regional transit system could reduce vehicle congestion, lower transportation costs for residents, and position the region for sustainable growth through 2050.",
+  "aiConArguments": "Opponents may argue that the study is an expensive precursor to costly infrastructure projects that would require significant ongoing public investment with uncertain ridership and returns. They may also express concern that rail and transit projects could face challenges in attracting sufficient ridership in a car-dependent region and that resources might be better spent on maintaining existing roadways or other priorities.",
+  "topic": "Transportation & Infrastructure",
+  "textLength": 3067,
+  "createdAt": "2026-06-23T03:13:03.292Z",
+  "sponsors": [
+    {"peopleId":17457,"name":"Paul Lowe","party":"D","isPrimary":true},
+    {"peopleId":21663,"name":"David Craven","party":"R","isPrimary":true},
+    {"peopleId":20223,"name":"Mujtaba Mohammed","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

@@ -1,0 +1,24 @@
+{
+  "billId": 1992562,
+  "billNumber": "S243",
+  "title": "Commuter Rail Study/Piedmont Triad",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "65c8e82fe6e9f48ee383f6bc88351894",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2025-03-06",
+  "url": "https://legiscan.com/NC/bill/S243/2025",
+  "aiSummary": "This bill directs the North Carolina Department of Transportation to study the feasibility and costs of building a commuter rail system connecting Greensboro, Winston-Salem, and High Point in the Piedmont Triad region. The study must examine ridership projections, operating costs, land acquisition costs, and provide recommendations by December 29, 2025, with $100,000 allocated for the research.",
+  "aiProArguments": "Supporters argue that commuter rail could reduce traffic congestion, air pollution, and transportation costs for residents in the fast-growing Piedmont Triad region. They point out that the study is a low-cost first step ($100,000) to understand whether rail service could boost economic development and improve quality of life by connecting three major population centers, with benefits potentially extending through 2050.",
+  "aiConArguments": "Opponents contend that commuter rail projects are typically very expensive to build and maintain, and question whether ridership in North Carolina would justify the costs compared to other transportation investments. They may also note that rail infrastructure requires ongoing state or federal subsidies, and argue the $100,000 study itself represents spending on planning rather than addressing immediate transportation needs.",
+  "topic": "Transportation & Infrastructure",
+  "textLength": 2013,
+  "createdAt": "2026-06-23T03:06:04.912Z",
+  "sponsors": [
+    {"peopleId":20220,"name":"Michael Garrett","party":"D","isPrimary":true},
+    {"peopleId":12032,"name":"Gladys Robinson","party":"D","isPrimary":true},
+    {"peopleId":17457,"name":"Paul Lowe","party":"D","isPrimary":true},
+    {"peopleId":20223,"name":"Mujtaba Mohammed","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

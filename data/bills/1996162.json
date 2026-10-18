@@ -1,0 +1,24 @@
+{
+  "billId": 1996162,
+  "billNumber": "S258",
+  "title": "2025 Appropriations Act",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "70a2f839b8e3ed98c32cc85bd703a69f",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2025-03-11",
+  "url": "https://legiscan.com/NC/bill/S258/2025",
+  "aiSummary": "This bill authorizes state budget spending for the 2025-2027 fiscal years across North Carolina state agencies, departments, and institutions. It appropriates funds from the General Fund, Highway Fund, Highway Trust Fund, and federal block grants for current operations and specified purposes.",
+  "aiProArguments": "Supporters argue this bill is necessary to fund essential state services including transportation, health and human services, education, and infrastructure. The appropriations ensure continuity of government operations and allow agencies to carry out their mandated responsibilities to North Carolina residents.",
+  "aiConArguments": "Opponents may express concerns about the overall size of the budget, whether all appropriated funds are necessary, or how specific state dollars are being allocated across programs. Some may debate whether funding levels adequately address priority areas or represent responsible fiscal management.",
+  "topic": "Taxes & Budget",
+  "textLength": 4020,
+  "createdAt": "2026-06-23T03:06:11.244Z",
+  "sponsors": [
+    {"peopleId":17504,"name":"Michael Lee","party":"R","isPrimary":true},
+    {"peopleId":11937,"name":"Ralph Hise","party":"R","isPrimary":true},
+    {"peopleId":12009,"name":"William Jackson","party":"R","isPrimary":true},
+    {"peopleId":11862,"name":"Norman Sanderson","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

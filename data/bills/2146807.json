@@ -1,0 +1,21 @@
+{
+  "billId": 2146807,
+  "billNumber": "S974",
+  "title": "Behavior Analysis Reforms",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "ba9f08a352740fe90c2f0bd99fa4baff",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2026-05-05",
+  "url": "https://legiscan.com/NC/bill/S974/2025",
+  "aiSummary": "This bill reforms North Carolina's behavior analysis practice by creating new oversight requirements for registered behavior technicians, including mandatory supervised hours before independent work and limits on telehealth services in certain areas. It also restricts the number of hours licensed behavior analysts can work with minors without a parent or guardian present and appropriates $50,000 for the Behavior Analysis Board to develop new regulations.",
+  "aiProArguments": "Supporters argue these reforms strengthen consumer protection by ensuring registered behavior technicians receive proper training and supervision before working independently, reducing risks to vulnerable patients. They contend that requiring parental presence during extended sessions with minors and limiting telehealth in densely populated areas where in-person services are available help protect children and ensure quality care standards.",
+  "aiConArguments": "Opponents may argue that the 80-hour supervised requirement and 10% ongoing observation mandate could increase service costs and reduce access to behavior analysis care, particularly for families with financial constraints. They may also contend that telehealth restrictions in densely populated areas are unnecessary barriers to care, and that parental presence requirements could interfere with therapeutic relationships and inhibit minors' independence during treatment.",
+  "topic": "Healthcare",
+  "textLength": 3429,
+  "createdAt": "2026-06-23T03:12:18.553Z",
+  "sponsors": [
+    {"peopleId":20216,"name":"Jim Burgin","party":"R","isPrimary":true}
+  ],
+  "rollCalls": []
+}

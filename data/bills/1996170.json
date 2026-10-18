@@ -1,0 +1,23 @@
+{
+  "billId": 1996170,
+  "billNumber": "H347",
+  "title": "Credit Property Insurance Restrictions.-AB",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "9b911951cfcb3bb44385e9b6ff49cd62",
+  "lastAction": "Serial Referral To Finance Stricken",
+  "lastActionDate": "2025-04-17",
+  "url": "https://legiscan.com/NC/bill/H347/2025",
+  "aiSummary": "This bill restricts what types of automobile physical damage insurance can be included in credit property insurance policies (insurance tied to car loans). Specifically, it prohibits coverage for repossession costs, skip/confiscation/conversion coverage, deductibles below $250, and coverage broader than state minimum requirements. Lenders can still offer these coverages separately, but cannot charge borrowers for them.",
+  "aiProArguments": "Supporters argue this bill protects borrowers from paying for unnecessary or expensive insurance add-ons bundled into their loans. By limiting what can be included in credit property insurance, the bill may reduce overall insurance costs for car loan borrowers and prevent lenders from profiting off coverages borrowers didn't specifically request. The Department of Insurance recommended this change, suggesting consumer protection concerns.",
+  "aiConArguments": "Opponents may argue the bill limits flexibility in insurance products and could make it harder for lenders to manage risk effectively when borrowers default or abandon vehicles. Restricting repossession and skip coverage might increase costs for lenders, which could be passed to consumers through higher loan rates. Some argue that allowing separate policies for these coverages doesn't truly protect borrowers if lenders still encourage or pressure them to purchase the separate policies.",
+  "topic": "Business & Labor",
+  "textLength": 1905,
+  "createdAt": "2026-06-23T02:49:00.033Z",
+  "sponsors": [
+    {"peopleId":20516,"name":"Chris Humphrey","party":"R","isPrimary":true},
+    {"peopleId":21375,"name":"Jeffrey McNeely","party":"R","isPrimary":false},
+    {"peopleId":17158,"name":"Shelly Willingham","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

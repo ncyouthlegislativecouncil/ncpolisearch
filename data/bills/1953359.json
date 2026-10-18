@@ -1,0 +1,21 @@
+{
+  "billId": 1953359,
+  "billNumber": "S49",
+  "title": "41st Senatorial District Local Act-1",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "b09a19e41ee2f987d3592ac673a13f54",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-02-05",
+  "url": "https://legiscan.com/NC/bill/S49/2025",
+  "aiSummary": "This is a local bill that applies only to North Carolina's 41st Senatorial District. The bill text does not specify what changes or provisions it contains, only that it relates to that district and becomes effective when signed into law.",
+  "aiProArguments": "Supporters of local bills argue they allow targeted solutions for specific districts' unique needs without affecting the entire state. This approach can address local concerns more efficiently and allow communities to have legislative matters tailored to their circumstances.",
+  "aiConArguments": "Opponents of local bills express concerns about lack of transparency and public input, since these bills may receive less scrutiny than statewide legislation. Critics also worry that local bills can create inconsistent policies across districts and may be difficult for constituents to track and understand.",
+  "topic": "Local Government",
+  "textLength": 508,
+  "createdAt": "2026-06-23T03:04:26.755Z",
+  "sponsors": [
+    {"peopleId":25859,"name":"Caleb Theodros","party":"D","isPrimary":true}
+  ],
+  "rollCalls": []
+}

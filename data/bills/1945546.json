@@ -1,0 +1,21 @@
+{
+  "billId": 1945546,
+  "billNumber": "S16",
+  "title": "25th Senatorial District Local Act-1",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "f24abb3a5195f05c017f05cbbffe51a4",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-01-30",
+  "url": "https://legiscan.com/NC/bill/S16/2025",
+  "aiSummary": "This is a local bill that applies only to North Carolina's 25th Senatorial District. The bill text provided does not specify what changes or actions it requires—it only establishes that the legislation applies to this district and becomes effective upon passage.",
+  "aiProArguments": "Supporters of local bills argue they allow the General Assembly to address specific regional needs and circumstances that may differ from statewide concerns. Local legislation can be tailored to particular communities' unique situations without affecting the entire state.",
+  "aiConArguments": "Opponents of local bills raise concerns about transparency and equal treatment, arguing that legislation affecting specific districts should be clearly detailed in the bill text so voters and residents understand exactly what is being changed. The vague language here makes it difficult for the public to evaluate the bill's actual impact.",
+  "topic": "Local Government",
+  "textLength": 505,
+  "createdAt": "2026-06-23T03:04:11.683Z",
+  "sponsors": [
+    {"peopleId":22423,"name":"Amy Galey","party":"R","isPrimary":true}
+  ],
+  "rollCalls": []
+}

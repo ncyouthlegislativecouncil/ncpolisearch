@@ -1,0 +1,22 @@
+{
+  "billId": 2012949,
+  "billNumber": "S390",
+  "title": "Project Newsletter",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "ac04b10ba15d43407a5cea4b84702c5d",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-25",
+  "url": "https://legiscan.com/NC/bill/S390/2025",
+  "aiSummary": "This bill requires North Carolina local governments and school systems to use a competitive bidding process when selecting newspapers to publish required legal notices. Instead of selecting newspapers based on local commercial rates, governments must solicit informal bids and award contracts to the lowest responsible, responsive bidder while considering quality, performance, circulation, and cost.",
+  "aiProArguments": "Supporters argue this bill increases competition among newspapers and reduces costs for local governments and schools by requiring competitive bidding rather than allowing governments to select any newspaper at its commercial rate. They contend that maximizing competition and selecting the lowest responsible bidder will save public funds while still ensuring notices reach the community through qualified newspapers.",
+  "aiConArguments": "Opponents may argue that competitive bidding could disadvantage smaller or local newspapers that cannot compete on price with larger publications, potentially reducing diversity in which newspapers publish government notices. They may also contend that the bidding process adds administrative complexity and costs, and that current practices already ensure reasonable rates without the need for formal competitive procedures.",
+  "topic": "Local Government",
+  "textLength": 3442,
+  "createdAt": "2026-06-23T03:07:24.145Z",
+  "sponsors": [
+    {"peopleId":20216,"name":"Jim Burgin","party":"R","isPrimary":true},
+    {"peopleId":18454,"name":"Kevin Corbin","party":"R","isPrimary":true}
+  ],
+  "rollCalls": []
+}

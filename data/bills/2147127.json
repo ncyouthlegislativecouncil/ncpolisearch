@@ -1,0 +1,29 @@
+{
+  "billId": 2147127,
+  "billNumber": "H1171",
+  "title": "Prohibit Gambling in Prediction Markets",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "07f01cfbf28da56047a03f7ee16ac2e8",
+  "lastAction": "Ref To Com On Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2026-05-04",
+  "url": "https://legiscan.com/NC/bill/H1171/2025",
+  "aiSummary": "This bill makes it illegal in North Carolina to operate or participate in prediction markets where people bet money on the outcomes of future events. The bill treats prediction markets like other prohibited gambling activities and provides $10,000 in funding for enforcement starting July 1, 2026, with the law taking effect December 1, 2026.",
+  "aiProArguments": "Supporters argue that prediction markets are a form of gambling that should be prohibited alongside other illegal betting activities in North Carolina. They contend that these markets can be addictive and harmful to individuals and families, and that allowing them creates opportunities for fraud and manipulation. Proponents believe regulating prediction markets like traditional gambling protects consumers and maintains consistent state gambling laws.",
+  "aiConArguments": "Opponents argue that prediction markets serve legitimate purposes by aggregating information and allowing people to hedge risks, distinct from traditional gambling. They contend the bill may restrict free speech and market activities that some view as financial tools rather than games of chance, and that enforcement costs may not justify the benefits. Critics also question whether a state-level ban is practical when prediction markets operate online across state lines.",
+  "topic": "Criminal Justice & Public Safety",
+  "textLength": 1903,
+  "createdAt": "2026-06-23T03:02:54.554Z",
+  "sponsors": [
+    {"peopleId":2077,"name":"Mary Harrison","party":"D","isPrimary":true},
+    {"peopleId":19360,"name":"Marcia Morey","party":"D","isPrimary":true},
+    {"peopleId":19238,"name":"Deb Butler","party":"D","isPrimary":true},
+    {"peopleId":18451,"name":"Mary Belk","party":"D","isPrimary":false},
+    {"peopleId":24202,"name":"Maria Cervania","party":"D","isPrimary":false},
+    {"peopleId":25842,"name":"Bryan Cohn","party":"D","isPrimary":false},
+    {"peopleId":26662,"name":"Amanda Cook","party":"D","isPrimary":false},
+    {"peopleId":20521,"name":"Carolyn Logan","party":"D","isPrimary":false},
+    {"peopleId":17149,"name":"Brian Turner","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

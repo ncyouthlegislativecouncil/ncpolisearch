@@ -1,0 +1,32 @@
+{
+  "billId": 2022836,
+  "billNumber": "H954",
+  "title": "Local Gov'ts Disaster Fund",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "4f0b1dac3be7920db5580d6ec78013c7",
+  "lastAction": "Ref To Com On Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-04-14",
+  "url": "https://legiscan.com/NC/bill/H954/2025",
+  "aiSummary": "This bill creates a State Critical Infrastructure and Construction Resiliency Fund administered by the Governor. The fund would be financed by diverting 5% of highway use tax revenue from counties that have experienced gubernatorial disaster declarations in the past three years, and the Governor could use these funds for disaster-related construction, infrastructure, and response activities in affected counties.",
+  "aiProArguments": "Supporters argue this bill helps communities prepare for and recover from disasters more quickly by creating dedicated funding for resilience projects and infrastructure improvements. Proponents contend that counties repeatedly affected by disasters need reliable resources to rebuild critical infrastructure and reduce future disaster impacts, and that this mechanism ensures disaster-prone areas contribute to their own preparedness.",
+  "aiConArguments": "Opponents worry that diverting 5% of highway tax revenue from disaster-affected counties reduces local funding for road maintenance and other essential services when those counties are already financially stressed. Critics also question whether the Governor should have sole discretion over fund use without local input, and whether taking tax revenue from struggling counties is the fairest way to fund disaster preparation, particularly if some counties are hit more frequently than others.",
+  "topic": "Taxes & Budget",
+  "textLength": 2168,
+  "createdAt": "2026-06-23T02:59:42.994Z",
+  "sponsors": [
+    {"peopleId":20515,"name":"Zack Forde-Hawkins","party":"D","isPrimary":true},
+    {"peopleId":24890,"name":"Eric Ager","party":"D","isPrimary":false},
+    {"peopleId":22599,"name":"Amber Baker","party":"D","isPrimary":false},
+    {"peopleId":18451,"name":"Mary Belk","party":"D","isPrimary":false},
+    {"peopleId":24198,"name":"Gloristine Brown","party":"D","isPrimary":false},
+    {"peopleId":24200,"name":"Laura Budd","party":"D","isPrimary":false},
+    {"peopleId":24202,"name":"Maria Cervania","party":"D","isPrimary":false},
+    {"peopleId":25846,"name":"Mike Colvin","party":"D","isPrimary":false},
+    {"peopleId":2077,"name":"Mary Harrison","party":"D","isPrimary":false},
+    {"peopleId":24206,"name":"Frances Jackson","party":"D","isPrimary":false},
+    {"peopleId":20521,"name":"Carolyn Logan","party":"D","isPrimary":false},
+    {"peopleId":24213,"name":"Lindsey Prather","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

@@ -1,0 +1,25 @@
+{
+  "billId": 2146315,
+  "billNumber": "H1087",
+  "title": "Smith Reynolds Airport Hangar Improvements",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "64b4cf6c28a4ce72f2401567094ff9cf",
+  "lastAction": "Ref to the Com on Appropriations, if favorable, Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2026-04-30",
+  "url": "https://legiscan.com/NC/bill/H1087/2025",
+  "aiSummary": "This bill appropriates $15.5 million in state funds to the Department of Transportation's Division of Aviation for renovations, structural repairs, modernization, and infrastructure improvements to two hangar facilities at Smith Reynolds Airport in Forsyth County during the 2026-2027 fiscal year.",
+  "aiProArguments": "Supporters argue that aging airport infrastructure requires investment to remain competitive and safe for aviation operations. Improved hangar facilities can attract businesses, support economic development in the region, and ensure the airport continues to serve its role in North Carolina's transportation network. The modernization may also create construction jobs and enhance the facility's long-term viability.",
+  "aiConArguments": "Opponents may question whether $15.5 million in state General Fund money is the best use of limited public resources, particularly if the airport or county could fund improvements themselves or through other means. Some may argue that the state should prioritize other transportation or infrastructure needs, or question whether these specific improvements represent an efficient investment compared to other regional priorities.",
+  "topic": "Transportation & Infrastructure",
+  "textLength": 1238,
+  "createdAt": "2026-06-23T03:01:37.757Z",
+  "sponsors": [
+    {"peopleId":24199,"name":"Kanika Brown","party":"D","isPrimary":true},
+    {"peopleId":22599,"name":"Amber Baker","party":"D","isPrimary":false},
+    {"peopleId":26662,"name":"Amanda Cook","party":"D","isPrimary":false},
+    {"peopleId":18462,"name":"Amos Quick","party":"D","isPrimary":false},
+    {"peopleId":16252,"name":"Robert Reives","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

@@ -1,0 +1,21 @@
+{
+  "billId": 2014881,
+  "billNumber": "H526",
+  "title": "Funds for Onslow Co. Sheriff's Office",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "f262545813c0706bd1ada0440e7c6977",
+  "lastAction": "Ref to the Com on Appropriations, if favorable, Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-03-27",
+  "url": "https://legiscan.com/NC/bill/H526/2025",
+  "aiSummary": "This bill appropriates $209,000 in state funding for the 2025-2026 fiscal year to establish a drug testing laboratory at the Onslow County Sheriff's Office. The funding is a one-time grant intended to enable the sheriff's office to conduct drug testing in-house for law enforcement purposes.",
+  "aiProArguments": "Supporters argue that an in-house drug testing lab would allow law enforcement to obtain faster and more reliable drug test results, reducing delays in criminal investigations and prosecutions. They contend this improves public safety by enabling quicker case resolution and that local lab capabilities reduce dependence on external testing facilities that may have backlogs.",
+  "aiConArguments": "Opponents may question whether $209,000 is sufficient for establishing and maintaining a functional lab, and whether one-time funding is adequate given that labs require ongoing operational costs, staff training, and equipment maintenance. Some may argue the funds could address other law enforcement or public safety priorities, or question whether this is an appropriate use of state General Fund dollars versus county-level funding responsibility.",
+  "topic": "Taxes & Budget",
+  "textLength": 1013,
+  "createdAt": "2026-06-23T02:54:13.391Z",
+  "sponsors": [
+    {"peopleId":25852,"name":"Wyatt Gable","party":"R","isPrimary":true}
+  ],
+  "rollCalls": []
+}

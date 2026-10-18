@@ -1,0 +1,23 @@
+{
+  "billId": 2153950,
+  "billNumber": "S1087",
+  "title": "Post-Election Audits by State Auditor",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "aa26df2c09fd95f42dd74d48a251dc5a",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2026-06-18",
+  "url": "https://legiscan.com/NC/bill/S1087/2025",
+  "aiSummary": "This bill requires North Carolina's State Auditor to conduct post-election audits of county election procedures and systems after each general election is certified. The audits would examine areas like voter roll accuracy, voting equipment testing, ballot records, chain of custody, absentee and provisional ballots, and voter assistance compliance. Audit findings cannot be used to challenge election results and would be reported to state officials and the public.",
+  "aiProArguments": "Supporters argue this bill strengthens election integrity and public confidence by having an independent auditor systematically review election procedures across all counties. Proponents contend that regular audits help identify and fix vulnerabilities, errors, and inefficiencies in election systems before they affect future elections, and that transparent reporting of audit findings helps ensure accountability and consistency in election administration statewide.",
+  "aiConArguments": "Opponents may argue this creates additional costs and burdens on already-stretched county election offices and the State Auditor's budget. Critics could also express concern that even though audit findings cannot challenge certified results, the auditing process and public reports might fuel unfounded doubts about election legitimacy or create unnecessary scrutiny of elections that have already been certified by election officials.",
+  "topic": "Elections & Voting",
+  "textLength": 5083,
+  "createdAt": "2026-06-23T03:13:16.285Z",
+  "sponsors": [
+    {"peopleId":24223,"name":"Brad Overcash","party":"R","isPrimary":true},
+    {"peopleId":12033,"name":"Warren Daniel","party":"R","isPrimary":true},
+    {"peopleId":11937,"name":"Ralph Hise","party":"R","isPrimary":true}
+  ],
+  "rollCalls": []
+}

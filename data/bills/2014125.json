@@ -1,0 +1,26 @@
+{
+  "billId": 2014125,
+  "billNumber": "S612",
+  "title": "Convert School Buses to Electric by 2050",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "e8ad91a2341b1824278051b177f1407a",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-26",
+  "url": "https://legiscan.com/NC/bill/S612/2025",
+  "aiSummary": "This bill requires all new school buses purchased starting in the 2026-2027 school year to be electric, with all school buses converted to electric by the end of the 2049-2050 school year. It also establishes a grant program to help small counties purchase electric activity buses, and appropriates $350 million for electric school bus purchases and $50 million for the grant program.",
+  "aiProArguments": "Supporters argue this bill reduces air pollution and improves public health by eliminating diesel emissions that children breathe daily on buses and in communities near schools. They contend that the long-term fuel and maintenance savings of electric buses will eventually offset higher upfront costs, and that setting a clear deadline encourages the electric bus industry to grow, making buses more affordable over time.",
+  "aiConArguments": "Opponents worry about the substantial upfront costs of electric buses and charging infrastructure, which may strain school budgets even with state funding. They raise concerns about whether the $350 million appropriation is sufficient given potential cost increases, whether charging infrastructure is available statewide, whether rural areas can support electric buses, and whether the 25-year timeline is realistic for complete fleet conversion.",
+  "topic": "Education",
+  "textLength": 3759,
+  "createdAt": "2026-06-23T03:09:19.927Z",
+  "sponsors": [
+    {"peopleId":20220,"name":"Michael Garrett","party":"D","isPrimary":true},
+    {"peopleId":16251,"name":"Graig Meyer","party":"D","isPrimary":true},
+    {"peopleId":12032,"name":"Gladys Robinson","party":"D","isPrimary":true},
+    {"peopleId":22425,"name":"Julie Mayfield","party":"D","isPrimary":false},
+    {"peopleId":21633,"name":"Natalie Murdock","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

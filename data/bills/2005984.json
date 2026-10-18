@@ -1,0 +1,22 @@
+{
+  "billId": 2005984,
+  "billNumber": "S288",
+  "title": "Funds for Pauli Murray Center",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "104da24695095fe03846c76a170f3da3",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2025-03-17",
+  "url": "https://legiscan.com/NC/bill/S288/2025",
+  "aiSummary": "This bill appropriates $150,000 in state funds to the Pauli Murray Center in Durham for fiscal year 2025-2026. The money is designated for developing the Pauli Murray Center Green, which will improve accessibility to the center and install drainage and stormwater management systems.",
+  "aiProArguments": "Supporters argue this funding supports an important cultural and educational institution that preserves the legacy of Pauli Murray, a notable civil rights figure and North Carolina native. The money addresses practical needs like accessibility and stormwater management, which benefit both the center's operations and the surrounding Durham community.",
+  "aiConArguments": "Opponents may question whether state funds should prioritize this specific project when other state needs exist, or whether the center should pursue private funding or grants instead. Some may also ask about the sustainability of the project, since the funds are nonrecurring, meaning they only cover one fiscal year.",
+  "topic": "Taxes & Budget",
+  "textLength": 972,
+  "createdAt": "2026-06-23T03:06:25.744Z",
+  "sponsors": [
+    {"peopleId":21633,"name":"Natalie Murdock","party":"D","isPrimary":true},
+    {"peopleId":25858,"name":"Sophia Chitlik","party":"D","isPrimary":true}
+  ],
+  "rollCalls": []
+}

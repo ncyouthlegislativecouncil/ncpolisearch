@@ -1,0 +1,23 @@
+{
+  "billId": 2014112,
+  "billNumber": "S574",
+  "title": "Soil Health Task Force",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "0ad21c0b66512fcfae849ea4ac3fd88a",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-26",
+  "url": "https://legiscan.com/NC/bill/S574/2025",
+  "aiSummary": "This bill creates the North Carolina Healthy Soils Task Force, a state advisory group within the Department of Agriculture tasked with developing a comprehensive plan to improve soil health through conservation practices. The task force will include agricultural leaders, university representatives, and farmers, and must submit recommendations to the Governor and General Assembly by January 31, 2027.",
+  "aiProArguments": "Supporters argue that healthier soils increase farm productivity and profitability while providing environmental benefits like improved water quality, carbon capture, drought resilience, and wildlife habitat protection. They contend that coordinating soil health efforts through this task force will help North Carolina farmers access research, technical assistance, and potential financial incentives to adopt conservation practices that benefit both agriculture and the environment.",
+  "aiConArguments": "Opponents may question whether another state task force is necessary given existing agricultural programs and federal conservation initiatives already available to farmers. They might also express concerns about potential costs of implementing recommendations, whether participation will truly be voluntary as stated, or whether new regulations could burden farmers rather than simply encouraging voluntary adoption of soil health practices.",
+  "topic": "Agriculture",
+  "textLength": 9668,
+  "createdAt": "2026-06-23T03:09:00.616Z",
+  "sponsors": [
+    {"peopleId":21633,"name":"Natalie Murdock","party":"D","isPrimary":true},
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

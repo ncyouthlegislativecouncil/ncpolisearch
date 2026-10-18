@@ -1,0 +1,27 @@
+{
+  "billId": 2022694,
+  "billNumber": "H961",
+  "title": "Criminal Intent Sentence Enhancement",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "c0db43e5703c59eef315b7f1dc44ab5b",
+  "lastAction": "Ref to the Com on Judiciary 2, if favorable, Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-04-14",
+  "url": "https://legiscan.com/NC/bill/H961/2025",
+  "aiSummary": "This bill establishes a sentence enhancement for felony crimes motivated by a victim's race, ethnicity, color, religion, nationality, country of origin, or gender. When such motivation is proven beyond a reasonable doubt, the convicted person's sentence would be increased by one felony class level. The bill also updates an existing aggravating sentencing factor to include gender as a protected characteristic.",
+  "aiProArguments": "Supporters argue this bill protects vulnerable groups by imposing stricter penalties for crimes driven by bias or prejudice against specific characteristics. They contend that hate-motivated crimes cause greater harm to victims and communities by targeting people based on identity, and that enhanced sentences serve as a deterrent and appropriately reflect the severity of such offenses.",
+  "aiConArguments": "Opponents raise concerns about defining and proving criminal motivation, arguing the requirement to prove bias beyond a reasonable doubt may be difficult and inconsistent across cases. Some also question whether sentence enhancements based on victim characteristics, rather than offense severity, raise constitutional concerns or create disparities in how similarly situated offenders are punished.",
+  "topic": "Criminal Justice & Public Safety",
+  "textLength": 2865,
+  "createdAt": "2026-06-23T02:59:49.097Z",
+  "sponsors": [
+    {"peopleId":24216,"name":"Charles Smith","party":"D","isPrimary":true},
+    {"peopleId":14613,"name":"Robert Davis","party":"R","isPrimary":true},
+    {"peopleId":24196,"name":"Jennifer Balkcom","party":"R","isPrimary":true},
+    {"peopleId":20522,"name":"Nasif Majeed","party":"D","isPrimary":true},
+    {"peopleId":2077,"name":"Mary Harrison","party":"D","isPrimary":false},
+    {"peopleId":19360,"name":"Marcia Morey","party":"D","isPrimary":false},
+    {"peopleId":26396,"name":"Phil Rubin","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

@@ -1,0 +1,29 @@
+{
+  "billId": 2146856,
+  "billNumber": "S956",
+  "title": "Omnibus Life Sciences Appropriations",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "bf4534195ea75bdce17128377d2d9c5f",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2026-05-04",
+  "url": "https://legiscan.com/NC/bill/S956/2025",
+  "aiSummary": "This bill appropriates $10 million for small business support and $2 million for the North Carolina Biotechnology Center. It transfers the Advisory Council on Rare Diseases from UNC Chapel Hill to the Department of Health and Human Services, expands council membership from 15 to 19 members, and allocates $250,000 for its operations. The bill also creates a water/sewer economic development program for large manufacturers investing $2 billion and a $20 million Life Science and Biomanufacturing Technologies Reserve Fund to match federal grants.",
+  "aiProArguments": "Supporters argue this bill strengthens North Carolina's life sciences and biotechnology sector by providing funding for research, workforce development, and infrastructure. They contend the expanded Rare Diseases Advisory Council better represents patients, caregivers, and industry stakeholders. The water/sewer program and reserve fund are designed to attract large manufacturing investments ($2 billion private commitment) that create high-wage jobs and economic growth in counties needing development.",
+  "aiConArguments": "Opponents may question whether $32 million in state appropriations is justified given existing budget constraints or competing priorities. Some may be concerned that the water/sewer program's $50 million commitment could obligate future state budgets through 10-year reimbursement agreements. Others might argue the rare disease council's expanded 19-member structure increases administrative costs while questioning whether all member categories are necessary to achieve the council's advisory goals.",
+  "topic": "Taxes & Budget",
+  "textLength": 17428,
+  "createdAt": "2026-06-23T03:12:11.073Z",
+  "sponsors": [
+    {"peopleId":24225,"name":"Benton Sawrey","party":"R","isPrimary":true},
+    {"peopleId":17936,"name":"Jay Chaudhuri","party":"D","isPrimary":true},
+    {"peopleId":17147,"name":"Gale Adcock","party":"D","isPrimary":false},
+    {"peopleId":25858,"name":"Sophia Chitlik","party":"D","isPrimary":false},
+    {"peopleId":24222,"name":"Lisa Grafstein","party":"D","isPrimary":false},
+    {"peopleId":20223,"name":"Mujtaba Mohammed","party":"D","isPrimary":false},
+    {"peopleId":21633,"name":"Natalie Murdock","party":"D","isPrimary":false},
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":false},
+    {"peopleId":25859,"name":"Caleb Theodros","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

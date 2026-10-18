@@ -1,0 +1,32 @@
+{
+  "billId": 2009280,
+  "billNumber": "H423",
+  "title": "Skip the Stuff Act",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "fa62b924e00950de049f4616dfd709ac",
+  "lastAction": "Ref To Com On Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-03-19",
+  "url": "https://legiscan.com/NC/bill/H423/2025",
+  "aiSummary": "The Skip the Stuff Act requires food establishments and third-party food delivery platforms in North Carolina to provide single-use foodware items (utensils, napkins, straws, condiments, etc.) only when customers specifically request them, rather than including them automatically with orders. The bill creates enforcement mechanisms through the Department of Environmental Quality with penalties up to $100 per day for violations, while allowing local governments to adopt stricter regulations.",
+  "aiProArguments": "Supporters argue this bill reduces unnecessary waste and saves money for both businesses and local governments. The bill cites that restaurants spend $24 billion annually on disposable foodware and local governments spend $6 billion managing the waste, while highlighting environmental concerns including ocean plastic pollution, forest destruction for chopsticks, and water waste in napkin manufacturing. Supporters contend that most single-use foodware is not recyclable or becomes contaminated, making reduction at the source more effective than recycling efforts.",
+  "aiConArguments": "Opponents may argue the bill creates compliance burdens for restaurants, particularly small businesses that must modify ordering systems and train staff on new procedures. Concerns could include increased operational complexity for food delivery platforms, potential customer inconvenience if they forget to request needed items, and questions about whether the penalties and enforcement mechanisms are proportionate to the environmental benefit. Some may also question whether consumer opt-in requirements adequately address food safety and hygiene concerns in delivery situations.",
+  "topic": "Environment & Energy",
+  "textLength": 11965,
+  "createdAt": "2026-06-23T02:51:05.117Z",
+  "sponsors": [
+    {"peopleId":20528,"name":"Julie von Haefen","party":"D","isPrimary":true},
+    {"peopleId":19238,"name":"Deb Butler","party":"D","isPrimary":true},
+    {"peopleId":22606,"name":"James Roberson","party":"D","isPrimary":true},
+    {"peopleId":2077,"name":"Mary Harrison","party":"D","isPrimary":true},
+    {"peopleId":18449,"name":"Cynthia Ball","party":"D","isPrimary":false},
+    {"peopleId":18451,"name":"Mary Belk","party":"D","isPrimary":false},
+    {"peopleId":24200,"name":"Laura Budd","party":"D","isPrimary":false},
+    {"peopleId":24202,"name":"Maria Cervania","party":"D","isPrimary":false},
+    {"peopleId":25213,"name":"Tracy Clark","party":"D","isPrimary":false},
+    {"peopleId":25844,"name":"Julia Greenfield","party":"D","isPrimary":false},
+    {"peopleId":20515,"name":"Zack Forde-Hawkins","party":"D","isPrimary":false},
+    {"peopleId":20522,"name":"Nasif Majeed","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

@@ -1,0 +1,25 @@
+{
+  "billId": 2013030,
+  "billNumber": "S447",
+  "title": "Reliable Water & Sewer Infrastructure Act",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "6664f9be8391e80c971e935078382076",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-25",
+  "url": "https://legiscan.com/NC/bill/S447/2025",
+  "aiSummary": "This bill establishes a 18-member Sewer Repair Task Force to study North Carolina's wastewater infrastructure needs, develop strategies for funding and implementing repairs, and recommend future legislation by December 2026. It also appropriates $50 million to the South Granville Water and Sewer Authority for facility expansion, PFAS treatment upgrades, water meter modernization, and lead pipe replacement.",
+  "aiProArguments": "Supporters argue that North Carolina has an estimated $11 billion in unmet wastewater infrastructure needs, particularly in rural and developing areas, and that this bill addresses a critical problem by funding immediate repairs while establishing a comprehensive statewide plan. They contend that modern wastewater infrastructure is essential for economic growth, environmental protection, and public health, and that the South Granville funding addresses urgent issues like lead pipes and emerging federal PFAS standards.",
+  "aiConArguments": "Opponents may argue that $50 million is a small fraction of the state's total infrastructure needs and that directing funds to one authority raises questions about equity across all counties. They might also question whether a task force study is necessary before allocating the funds, and express concerns about the state's ability to sustain ongoing infrastructure investment beyond this one-time appropriation, or whether private utilities should bear more of the financial burden.",
+  "topic": "Transportation & Infrastructure",
+  "textLength": 7652,
+  "createdAt": "2026-06-23T03:07:55.205Z",
+  "sponsors": [
+    {"peopleId":20510,"name":"Terence Everitt","party":"D","isPrimary":true},
+    {"peopleId":24222,"name":"Lisa Grafstein","party":"D","isPrimary":true},
+    {"peopleId":20220,"name":"Michael Garrett","party":"D","isPrimary":false},
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

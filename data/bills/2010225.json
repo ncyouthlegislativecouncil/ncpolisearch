@@ -1,0 +1,29 @@
+{
+  "billId": 2010225,
+  "billNumber": "H436",
+  "title": "Counties/Semiannual Assessments",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "5ee9df965a29ed3b701544115d90c435",
+  "lastAction": "Ref to the Com on Finance, if favorable, Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-03-19",
+  "url": "https://legiscan.com/NC/bill/H436/2025",
+  "aiSummary": "This bill allows North Carolina counties to give property owners the option to pay special assessments in semiannual (twice per year) installments in addition to the existing annual installment option. It increases the maximum number of semiannual installments allowed from 10 to 40 and annual installments from 10 to 20, giving counties and property owners more flexibility in how assessments are paid over time.",
+  "aiProArguments": "Supporters argue this bill provides financial relief to property owners by spreading assessment costs over smaller, more frequent payments rather than larger annual ones. Smaller semiannual payments may be easier to budget for households and could improve payment compliance. The increased flexibility allows counties to structure payment plans that work better for their communities' financial situations.",
+  "aiConArguments": "Opponents may be concerned that extending payment periods over many years (up to 20 annual or 40 semiannual installments) could significantly increase total costs due to accumulated interest charges on unpaid balances. Longer repayment timelines might create administrative burdens for counties managing more payment schedules, and some may worry this could incentivize property owners to delay payment obligations.",
+  "topic": "Local Government",
+  "textLength": 2743,
+  "createdAt": "2026-06-23T02:51:36.653Z",
+  "sponsors": [
+    {"peopleId":20522,"name":"Nasif Majeed","party":"D","isPrimary":true},
+    {"peopleId":18451,"name":"Mary Belk","party":"D","isPrimary":true},
+    {"peopleId":22599,"name":"Amber Baker","party":"D","isPrimary":false},
+    {"peopleId":24200,"name":"Laura Budd","party":"D","isPrimary":false},
+    {"peopleId":2044,"name":"Becky Carney","party":"D","isPrimary":false},
+    {"peopleId":24202,"name":"Maria Cervania","party":"D","isPrimary":false},
+    {"peopleId":25851,"name":"Aisha Dew","party":"D","isPrimary":false},
+    {"peopleId":25844,"name":"Julia Greenfield","party":"D","isPrimary":false},
+    {"peopleId":20521,"name":"Carolyn Logan","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

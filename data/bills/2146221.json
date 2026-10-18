@@ -1,0 +1,27 @@
+{
+  "billId": 2146221,
+  "billNumber": "S871",
+  "title": "Community Emergency Response Training",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "f1cdb9a6010baf6964bd8b5bba1fa688",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2026-04-29",
+  "url": "https://legiscan.com/NC/bill/S871/2025",
+  "aiSummary": "This bill appropriates $3 million in recurring state funds to the Department of Public Safety's Division of Emergency Management to expand the Community Emergency Response Team (CERT) program and training. The funds will support training sessions conducted through local community organizations and develop outreach strategies to increase community participation in emergency response training.",
+  "aiProArguments": "Supporters argue that this funding strengthens community resilience and preparedness by training ordinary citizens to respond effectively during emergencies and disasters. CERT training can reduce response times, save lives, and ease the burden on professional emergency responders while building stronger, more connected communities.",
+  "aiConArguments": "Opponents may question whether $3 million in recurring general fund spending is the best use of state resources, particularly if other pressing needs exist. Some may ask whether existing emergency management budgets could absorb this function or whether local governments should bear more responsibility for funding community preparedness programs in their own jurisdictions.",
+  "topic": "Criminal Justice & Public Safety",
+  "textLength": 1168,
+  "createdAt": "2026-06-23T03:11:27.580Z",
+  "sponsors": [
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":true},
+    {"peopleId":25860,"name":"Woodson Bradley","party":"D","isPrimary":true},
+    {"peopleId":24222,"name":"Lisa Grafstein","party":"D","isPrimary":true},
+    {"peopleId":26664,"name":"Jonah Garson","party":"D","isPrimary":false},
+    {"peopleId":21633,"name":"Natalie Murdock","party":"D","isPrimary":false},
+    {"peopleId":25859,"name":"Caleb Theodros","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

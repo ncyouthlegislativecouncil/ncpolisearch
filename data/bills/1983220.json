@@ -1,0 +1,31 @@
+{
+  "billId": 1983220,
+  "billNumber": "S172",
+  "title": "STIP Grant Anticipation Notes",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "4ef9182e08aa6a31ddfdb9459d2c0219",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-02-26",
+  "url": "https://legiscan.com/NC/bill/S172/2025",
+  "aiSummary": "This bill allows North Carolina local governments to borrow money through special 'grant anticipation notes' to speed up transportation projects that are scheduled for state funding under the State Transportation Improvement Program (STIP). The borrowed money would be repaid once the state provides the promised funding, with safeguards requiring an agreement with the Department of Transportation and approval from the Local Government Commission.",
+  "aiProArguments": "Supporters argue this bill enables communities to accelerate needed transportation projects rather than waiting for state funding to arrive, reducing project delays and improving infrastructure sooner. It provides a financing tool for local governments to meet community transportation needs more quickly while ensuring repayment through already-committed state funds, and includes protections like requiring detailed project agreements and limiting borrowing to the identified project funding amount.",
+  "aiConArguments": "Opponents may worry this increases local government debt and financial risk if state funding is delayed or reduced due to budget changes, natural disasters, or other unforeseen circumstances. They could also be concerned that the bill limits renewal options for STIP projects (unlike traditional grant anticipation notes that can be renewed) and places the borrowing risk on local governments, which would be responsible for finding alternative repayment sources if state funds don't materialize as expected.",
+  "topic": "Transportation & Infrastructure",
+  "textLength": 7724,
+  "createdAt": "2026-06-23T03:05:32.586Z",
+  "sponsors": [
+    {"peopleId":19669,"name":"Vickie Sawyer","party":"R","isPrimary":true},
+    {"peopleId":22424,"name":"Michael Lazzara","party":"R","isPrimary":true},
+    {"peopleId":24225,"name":"Benton Sawrey","party":"R","isPrimary":true},
+    {"peopleId":18465,"name":"Danny Britt","party":"R","isPrimary":false},
+    {"peopleId":20513,"name":"Bobby Hanig","party":"R","isPrimary":false},
+    {"peopleId":20222,"name":"Todd Johnson","party":"R","isPrimary":false},
+    {"peopleId":11858,"name":"Timothy Moffitt","party":"R","isPrimary":false},
+    {"peopleId":20223,"name":"Mujtaba Mohammed","party":"D","isPrimary":false},
+    {"peopleId":22426,"name":"DeAndrea Salvador","party":"D","isPrimary":false},
+    {"peopleId":11862,"name":"Norman Sanderson","party":"R","isPrimary":false},
+    {"peopleId":25859,"name":"Caleb Theodros","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

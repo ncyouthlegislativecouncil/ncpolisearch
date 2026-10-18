@@ -1,0 +1,31 @@
+{
+  "billId": 1964968,
+  "billNumber": "H98",
+  "title": "Patriotism Expression Act",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "207a6dbe4ca8dd66dbae8af762f172a7",
+  "lastAction": "Serial Referral To Rules, Calendar, and Operations of the House Added",
+  "lastActionDate": "2025-03-17",
+  "url": "https://legiscan.com/NC/bill/H98/2025",
+  "aiSummary": "This bill legalizes the sale and use of consumer fireworks in North Carolina, subject to local ordinance approval and specific safety regulations. It creates a permitting system for fireworks retailers, establishes rules for possession and use (including age limits and time restrictions), and raises the minimum age for purchasing fireworks from 16 to 18 years old.",
+  "aiProArguments": "Supporters argue this bill gives North Carolina citizens the freedom to purchase and use consumer fireworks like many other states allow, supporting a recreational tradition for holidays like July 4th and New Year's. They contend the bill includes comprehensive safety measures—permitting requirements, insurance mandates, fire suppression equipment, employee training, and setback regulations—to minimize risks. Additionally, supporters note that local counties and cities retain authority to regulate or prohibit fireworks in their jurisdictions through ordinances, preserving local control.",
+  "aiConArguments": "Opponents worry that legalizing consumer fireworks increases risks of injuries, fires, and property damage, particularly given human error in handling explosives. They express concern that safety requirements may be difficult to enforce consistently across all retailers and users, and that fireworks pose specific dangers to children, pets, and people with PTSD or sensory sensitivities. Some argue the bill's provisions allowing temporary retail stands and tents could be harder to monitor than permanent locations, potentially creating enforcement challenges.",
+  "topic": "Other / General Government",
+  "textLength": 27731,
+  "createdAt": "2026-06-23T02:41:13.809Z",
+  "sponsors": [
+    {"peopleId":25852,"name":"Wyatt Gable","party":"R","isPrimary":true},
+    {"peopleId":20519,"name":"Keith Kidwell","party":"R","isPrimary":true},
+    {"peopleId":25222,"name":"Blair Eddins","party":"R","isPrimary":true},
+    {"peopleId":25845,"name":"Grant Campbell","party":"R","isPrimary":true},
+    {"peopleId":25841,"name":"Jonathan Almond","party":"R","isPrimary":false},
+    {"peopleId":25843,"name":"Brian Echevarria","party":"R","isPrimary":false},
+    {"peopleId":24207,"name":"Neal Jackson","party":"R","isPrimary":false},
+    {"peopleId":22965,"name":"Donnie Loftis","party":"R","isPrimary":false},
+    {"peopleId":21375,"name":"Jeffrey McNeely","party":"R","isPrimary":false},
+    {"peopleId":22613,"name":"Ben Moss","party":"R","isPrimary":false},
+    {"peopleId":11863,"name":"Phillip Shepard","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

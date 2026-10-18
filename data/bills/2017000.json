@@ -1,0 +1,21 @@
+{
+  "billId": 2017000,
+  "billNumber": "H587",
+  "title": "Corps Community Center Funding",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "6e43961fec248b540aa0deeb8707a115",
+  "lastAction": "Ref to the Com on Appropriations, if favorable, Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-04-01",
+  "url": "https://legiscan.com/NC/bill/H587/2025",
+  "aiSummary": "This bill appropriates $2 million in state funding to the Salvation Army of Cape Fear for construction of a Corps Community Center in Wilmington. The facility will provide after-school tutoring, business training, recreational activities, community meeting space, and serve as an emergency shelter during hurricanes.",
+  "aiProArguments": "Supporters argue this bill addresses critical needs in an underserved area by funding a facility that will serve five counties and provide essential services like youth tutoring, job training, and emergency shelter. They note the Salvation Army has secured three-quarters of the $7.5 million project cost through private funding, making this a cost-effective public-private partnership that leverages state dollars efficiently.",
+  "aiConArguments": "Opponents may argue that directing $2 million to a single organization in one region raises questions about fairness and statewide funding priorities, and question whether state funds should support a faith-based organization's facilities rather than going to general state services. They might also contend that the state should focus on sustainable, recurring funding solutions rather than one-time appropriations for specific local projects.",
+  "topic": "Taxes & Budget",
+  "textLength": 2503,
+  "createdAt": "2026-06-23T02:55:04.139Z",
+  "sponsors": [
+    {"peopleId":14613,"name":"Robert Davis","party":"R","isPrimary":true}
+  ],
+  "rollCalls": []
+}

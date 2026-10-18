@@ -1,0 +1,32 @@
+{
+  "billId": 1963495,
+  "billNumber": "H86",
+  "title": "Citizens' Expungement Clarification of 2025",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "6a74749464cd7c481a26000c14e7009c",
+  "lastAction": "Ref to the Com on Judiciary 2, if favorable, Federal Relations and American Indian Affairs, if favorable, Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-02-11",
+  "url": "https://legiscan.com/NC/bill/H86/2025",
+  "aiSummary": "This bill prohibits people who are not legal residents or citizens of the United States from obtaining expungements (removal of criminal records). It requires courts to verify a petitioner's citizenship or legal residency status before granting an expungement, including contacting Immigration and Customs Enforcement if needed. The bill exempts people who lawfully entered the U.S. and have filed or have had an immigrant petition filed on their behalf.",
+  "aiProArguments": "Supporters argue that expungement benefits should be reserved for citizens and legal residents who have fulfilled legal obligations to the country. They contend that this protects public resources and ensures that record-clearing opportunities are prioritized for those with legal status. Proponents may also argue this serves as a deterrent and maintains integrity in the criminal justice system by linking rehabilitation benefits to legal residency status.",
+  "aiConArguments": "Opponents contend that citizenship status should not determine access to expungement rights, as many non-citizens are permanent residents or have long-term ties to North Carolina and their communities. They argue the bill creates administrative burdens and delays for courts, and that restricting expungements may harm vulnerable populations seeking to rehabilitate their records and improve employment prospects. Critics also question whether federal immigration enforcement inquiries are appropriate for state criminal courts to conduct.",
+  "topic": "Criminal Justice & Public Safety",
+  "textLength": 2284,
+  "createdAt": "2026-06-23T02:40:37.206Z",
+  "sponsors": [
+    {"peopleId":11852,"name":"Kelly Hastings","party":"R","isPrimary":true},
+    {"peopleId":24197,"name":"Brian Biggs","party":"R","isPrimary":true},
+    {"peopleId":11866,"name":"John Torbett","party":"R","isPrimary":true},
+    {"peopleId":22965,"name":"Donnie Loftis","party":"R","isPrimary":true},
+    {"peopleId":24201,"name":"Celeste Cairns","party":"R","isPrimary":false},
+    {"peopleId":18453,"name":"Mike Clampitt","party":"R","isPrimary":false},
+    {"peopleId":14613,"name":"Robert Davis","party":"R","isPrimary":false},
+    {"peopleId":25222,"name":"Blair Eddins","party":"R","isPrimary":false},
+    {"peopleId":21375,"name":"Jeffrey McNeely","party":"R","isPrimary":false},
+    {"peopleId":22615,"name":"Howard Penny","party":"R","isPrimary":false},
+    {"peopleId":22946,"name":"Reece Pyrtle","party":"R","isPrimary":false},
+    {"peopleId":24219,"name":"Bill Ward","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

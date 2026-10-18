@@ -1,0 +1,21 @@
+{
+  "billId": 2014354,
+  "billNumber": "S687",
+  "title": "NC Land and Wildlife Act",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "01e36e9b359af96f0f798840f9f3be2f",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2025-03-26",
+  "url": "https://legiscan.com/NC/bill/S687/2025",
+  "aiSummary": "This bill provides $15 million in state funding for wildlife conservation efforts in North Carolina during fiscal year 2025-2026, including programs to monitor and combat Chronic Wasting Disease in deer, restore habitat for northern bobwhite quail, support red wolf conservation and rural landowners, and modernize hunting and fishing license structures with age-based pricing and payment options.",
+  "aiProArguments": "Supporters argue this bill addresses serious wildlife health threats like Chronic Wasting Disease that can devastate deer populations and hunting economies, while restoring populations of species like quail and red wolves that have declined in North Carolina. They contend the funding helps rural landowners participate voluntarily in conservation through cost-share grants, supports rural tourism economies, and makes hunting and fishing more accessible through flexible licensing options and discounts for families and seniors.",
+  "aiConArguments": "Opponents may argue that $15 million in nonrecurring General Fund spending adds to state budget pressures without permanent funding solutions, and question whether voluntary incentive programs will be cost-effective compared to regulatory approaches. Some may express concerns about red wolf conservation efforts given potential conflicts with rural landowners and livestock, or worry that modernized licensing structures could be administratively complex or create fairness issues among different user groups.",
+  "topic": "Environment & Energy",
+  "textLength": 5918,
+  "createdAt": "2026-06-23T03:10:01.264Z",
+  "sponsors": [
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":true}
+  ],
+  "rollCalls": []
+}

@@ -1,0 +1,24 @@
+{
+  "billId": 2148090,
+  "billNumber": "S1075",
+  "title": "Restore Down-Zoning Auth./Military Counties",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "57ad56d9e9a6588932266a4e57e62c2a",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2026-05-06",
+  "url": "https://legiscan.com/NC/bill/S1075/2025",
+  "aiSummary": "This bill restores the ability of local governments in five military-host counties (Craven, Carteret, Onslow, Jones, and Lenoir) to reduce zoning allowances on property without requiring permission from all affected property owners. A 2024 state law had required unanimous property owner consent for such 'down-zoning' changes, and this bill creates an exception for these specific counties.",
+  "aiProArguments": "Supporters argue that local governments in military counties need flexibility to manage land use and development around military installations and their operations. They contend that requiring unanimous property owner consent can prevent necessary community planning decisions and that military-host communities face unique circumstances that justify local government authority to adjust zoning without individual owner approval.",
+  "aiConArguments": "Opponents argue that property owners have legitimate interests in protecting their land values and development rights, and that removing consent requirements reduces protections for individual property rights. They contend that the 2024 unanimous consent requirement was enacted for good reason to protect landowners, and creating exceptions undermines that statewide protection by making rules inconsistent across the state.",
+  "topic": "Local Government",
+  "textLength": 2006,
+  "createdAt": "2026-06-23T03:13:09.047Z",
+  "sponsors": [
+    {"peopleId":25212,"name":"Bob Brinson","party":"R","isPrimary":true},
+    {"peopleId":22424,"name":"Michael Lazzara","party":"R","isPrimary":true},
+    {"peopleId":11862,"name":"Norman Sanderson","party":"R","isPrimary":false},
+    {"peopleId":19669,"name":"Vickie Sawyer","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

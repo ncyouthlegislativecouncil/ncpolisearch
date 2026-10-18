@@ -1,0 +1,25 @@
+{
+  "billId": 2014352,
+  "billNumber": "S625",
+  "title": "Protect NC Prosperity & Health",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "dea7930576ebec7c00440ea686c37f97",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-26",
+  "url": "https://legiscan.com/NC/bill/S625/2025",
+  "aiSummary": "This bill creates two statewide awareness initiatives: one by the Department of Justice to educate North Carolinians about consumer finance fraud risks (like phishing and identity theft), and another by the Department of Health and Human Services to provide information about health and civil rights issues including reproductive, LGBTQIA+, gender, and racial health topics. Both initiatives will develop websites, toolkits for local communities, and outreach programs, with implementation beginning by July 1, 2025.",
+  "aiProArguments": "Supporters argue this bill provides valuable public education that helps North Carolinians protect themselves from financial fraud and access important health information. The bill empowers local communities by giving them customizable resources to launch their own awareness campaigns, and the prohibition on advocacy ensures state funds are used only for education, not lobbying. Both initiatives address real harms—fraud costs consumers money and health misinformation can endanger lives.",
+  "aiConArguments": "Opponents may argue the bill uses state resources to address issues that could be handled by private organizations or existing government programs, raising questions about fiscal efficiency. Some may express concern that the health initiative's focus on specific demographic groups and sensitive topics could be divisive, and others may question whether state-funded education on these topics represents appropriate government spending or overreach into personal matters.",
+  "topic": "Social Services & Welfare",
+  "textLength": 7338,
+  "createdAt": "2026-06-23T03:09:25.515Z",
+  "sponsors": [
+    {"peopleId":25860,"name":"Woodson Bradley","party":"D","isPrimary":true},
+    {"peopleId":20220,"name":"Michael Garrett","party":"D","isPrimary":true},
+    {"peopleId":25858,"name":"Sophia Chitlik","party":"D","isPrimary":true},
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

@@ -1,0 +1,26 @@
+{
+  "billId": 2013035,
+  "billNumber": "S439",
+  "title": "Moratorium on Opportunity Scholarships",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "0213dc1c202ae90a6671e72ed39cf4b2",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-25",
+  "url": "https://legiscan.com/NC/bill/S439/2025",
+  "aiSummary": "This bill stops awarding new Opportunity Scholarships to students starting in 2025-2026 while allowing current recipients to finish their eligibility, with the program fully ending by 2037-2038. It reduces funding for the scholarship program by approximately $161.92 million over two years and redirects that money to public schools.",
+  "aiProArguments": "Supporters argue this bill prioritizes public school funding, which serves the majority of North Carolina students and has faced budget constraints. They contend that redirecting scholarship funds to public schools strengthens the overall education system and that the moratorium ensures stable, long-term public education investment while allowing current scholarship recipients to complete their education.",
+  "aiConArguments": "Opponents argue this bill eliminates educational choice for lower-income families who rely on scholarships to attend private schools. They contend that the scholarship program provides opportunities for students in underperforming public schools and that reducing scholarship funding contradicts the stated intent of expanding school choice in North Carolina.",
+  "topic": "Education",
+  "textLength": 5438,
+  "createdAt": "2026-06-23T03:07:50.369Z",
+  "sponsors": [
+    {"peopleId":25858,"name":"Sophia Chitlik","party":"D","isPrimary":true},
+    {"peopleId":24220,"name":"Val Applewhite","party":"D","isPrimary":true},
+    {"peopleId":20220,"name":"Michael Garrett","party":"D","isPrimary":false},
+    {"peopleId":22425,"name":"Julie Mayfield","party":"D","isPrimary":false},
+    {"peopleId":21633,"name":"Natalie Murdock","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

@@ -1,0 +1,22 @@
+{
+  "billId": 2013994,
+  "billNumber": "S487",
+  "title": "Require Legislative Sponsors/Appropriations",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "cda8fd8a6b868de04ac1aadd6d4f0167",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-26",
+  "url": "https://legiscan.com/NC/bill/S487/2025",
+  "aiSummary": "This bill requires that any appropriation (spending authorization) included in North Carolina's Current Operations Appropriations Act must be sponsored by a state legislator and include that legislator's name in the bill text. Without a named sponsor, the appropriation would not be legally valid.",
+  "aiProArguments": "Supporters argue this increases transparency and accountability by making clear which legislators are responsible for specific spending decisions. It could reduce spending on items inserted without public attribution and help voters identify who supports particular expenditures in the budget.",
+  "aiConArguments": "Opponents may contend this adds procedural complexity to budget negotiations and could slow the appropriations process. They might also argue it could discourage bipartisan compromise on spending items if legislators hesitate to attach their names to contested appropriations, or that it creates an additional legal vulnerability for existing appropriations.",
+  "topic": "Taxes & Budget",
+  "textLength": 957,
+  "createdAt": "2026-06-23T03:08:17.306Z",
+  "sponsors": [
+    {"peopleId":20510,"name":"Terence Everitt","party":"D","isPrimary":true},
+    {"peopleId":24222,"name":"Lisa Grafstein","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

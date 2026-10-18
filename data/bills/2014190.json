@@ -1,0 +1,22 @@
+{
+  "billId": 2014190,
+  "billNumber": "S733",
+  "title": "Tamil Pongal State Holiday",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "9a53973c1dc37cefd62e77151516ebcd",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-26",
+  "url": "https://legiscan.com/NC/bill/S733/2025",
+  "aiSummary": "This bill designates January 14th as Tamil Pongal Day in North Carolina. Tamil Pongal is a harvest festival celebrated by Tamil communities, primarily in South India and among Tamil diaspora populations. The designation recognizes this cultural observance as a state day.",
+  "aiProArguments": "Supporters argue this bill recognizes and honors the Tamil community's cultural heritage and contributions to North Carolina. They contend that designating cultural holidays demonstrates inclusivity and respect for diverse populations, similar to how the state recognizes other cultural observances. Proponents may also argue it increases awareness of Tamil culture among all North Carolinians.",
+  "aiConArguments": "Opponents may question whether designating cultural holidays is an appropriate use of state legislative time and resources, or argue that the state should not favor specific religious or ethnic observances. Some may contend that if one cultural group's holiday is designated, the state could face requests from many other communities for similar recognition, creating potential equity concerns about which observances receive official status.",
+  "topic": "Other / General Government",
+  "textLength": 703,
+  "createdAt": "2026-06-23T03:10:24.114Z",
+  "sponsors": [
+    {"peopleId":20223,"name":"Mujtaba Mohammed","party":"D","isPrimary":true},
+    {"peopleId":20505,"name":"Sydney Batch","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

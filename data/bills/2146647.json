@@ -1,0 +1,22 @@
+{
+  "billId": 2146647,
+  "billNumber": "H1117",
+  "title": "Even-Year Municipal Elections/Catawba Co",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "9a854d90eea38e822094319c31a8c0e6",
+  "lastAction": "Ref to the Com on Election Law, if favorable, Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2026-04-30",
+  "url": "https://legiscan.com/NC/bill/H1117/2025",
+  "aiSummary": "This bill changes municipal elections in eight Catawba County towns and cities from odd-numbered years to even-numbered years, beginning in 2028. To accomplish this transition, the bill skips elections in 2027 and extends current officials' terms by one year.",
+  "aiProArguments": "Supporters argue that holding municipal elections in even-numbered years aligns local elections with state and federal elections, which could increase voter turnout and reduce election administration costs by consolidating elections. They contend this synchronization makes voting more convenient for citizens and more efficient for election officials.",
+  "aiConArguments": "Opponents may argue that the one-year extension of current officials' terms in 2027 reduces the frequency of electoral accountability and could be seen as granting unelected officials extra time in office. Some may also question whether the benefits of consolidated elections justify the disruption to established local election cycles and the complexity of transitioning multiple municipalities simultaneously.",
+  "topic": "Elections & Voting",
+  "textLength": 21354,
+  "createdAt": "2026-06-23T03:02:02.215Z",
+  "sponsors": [
+    {"peopleId":17678,"name":"James Adams","party":"R","isPrimary":true},
+    {"peopleId":2122,"name":"Mitchell Setzer","party":"R","isPrimary":true}
+  ],
+  "rollCalls": []
+}

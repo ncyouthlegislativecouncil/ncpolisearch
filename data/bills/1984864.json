@@ -1,0 +1,21 @@
+{
+  "billId": 1984864,
+  "billNumber": "S187",
+  "title": "32nd Senatorial District Local Act-1",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "4e6a9e30d67aeb92493b33b21fcd2a8e",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-02-27",
+  "url": "https://legiscan.com/NC/bill/S187/2025",
+  "aiSummary": "This is a local bill that applies only to North Carolina's 32nd Senatorial District. The bill text provided does not specify what changes or provisions apply to the district—it only establishes that any provisions in the act are limited to that district and become effective upon passage.",
+  "aiProArguments": "Supporters of local bills argue they allow the General Assembly to address specific needs and circumstances in particular districts or communities that may not require statewide legislation. Local acts enable targeted solutions for regional issues where one-size-fits-all state law may not be appropriate.",
+  "aiConArguments": "Opponents of local bills raise concerns about transparency and equal treatment, arguing that district-specific legislation can be difficult for the public to track and may create inconsistent rules across the state. Additionally, without knowing the specific provisions in this bill, concerns exist that local acts can sometimes benefit specific interests or individuals rather than serve the broader public good.",
+  "topic": "Local Government",
+  "textLength": 507,
+  "createdAt": "2026-06-23T03:05:39.517Z",
+  "sponsors": [
+    {"peopleId":17457,"name":"Paul Lowe","party":"D","isPrimary":true}
+  ],
+  "rollCalls": []
+}

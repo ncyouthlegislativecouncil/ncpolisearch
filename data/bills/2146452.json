@@ -1,0 +1,28 @@
+{
+  "billId": 2146452,
+  "billNumber": "S904",
+  "title": "Save SNAP Act",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "12bb4eeb1711cb996472b0edb2d4dc7b",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2026-04-30",
+  "url": "https://legiscan.com/NC/bill/S904/2025",
+  "aiSummary": "This bill appropriates $16 million and $69 million in state funds to the Department of Health and Human Services to replace lost federal funding for SNAP administrative costs due to changes in federal law (Public Law 119-21). It also appropriates $10 million for grants to develop projects aimed at reducing SNAP payment errors.",
+  "aiProArguments": "Supporters argue this bill protects North Carolina's food assistance program by filling a federal funding gap, ensuring counties can continue administering SNAP benefits without service disruptions. They contend the grant program will help identify and address errors in the food assistance system, improving program efficiency and reducing waste or fraud.",
+  "aiConArguments": "Opponents may argue that $95 million in state spending diverts resources from other priorities during tight budget times, and that the state should not be required to cover costs the federal government previously funded. They may also question whether the grant program's $10 million investment will produce sufficient return on investment in reducing payment errors.",
+  "topic": "Social Services & Welfare",
+  "textLength": 3046,
+  "createdAt": "2026-06-23T03:11:44.046Z",
+  "sponsors": [
+    {"peopleId":25858,"name":"Sophia Chitlik","party":"D","isPrimary":true},
+    {"peopleId":17457,"name":"Paul Lowe","party":"D","isPrimary":true},
+    {"peopleId":24222,"name":"Lisa Grafstein","party":"D","isPrimary":true},
+    {"peopleId":21633,"name":"Natalie Murdock","party":"D","isPrimary":false},
+    {"peopleId":22426,"name":"DeAndrea Salvador","party":"D","isPrimary":false},
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":false},
+    {"peopleId":25859,"name":"Caleb Theodros","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

@@ -1,0 +1,28 @@
+{
+  "billId": 2009208,
+  "billNumber": "S317",
+  "title": "Uniform Partition of Heirs Property Act",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "134e827bfc44efdfb47eb64187b14c78",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-18",
+  "url": "https://legiscan.com/NC/bill/S317/2025",
+  "aiSummary": "This bill creates a new legal process for partitioning 'heirs property'—land inherited within families that has no written agreement governing its division. When property meets the definition of heirs property, courts must follow specific steps including determining fair market value through appraisal, allowing cotenants to buy out those wanting to sell, and preferring to divide the property physically (partition in kind) rather than force a sale, unless division would cause substantial harm.",
+  "aiProArguments": "Supporters argue this bill protects family landholdings, particularly in African American and rural communities where property has been passed down through generations without formal documentation. It gives families a chance to keep ancestral land by allowing other cotenants to buy out those seeking to sell, and it requires courts to consider sentimental and historical value before forcing a sale. The process ensures fair market valuations and provides structured procedures that reduce disputes and legal costs.",
+  "aiConArguments": "Opponents may argue the bill creates a complex legal process that delays partition proceedings and adds costs through required appraisals and court procedures. Some contend that restrictions on forced sales could trap unwilling cotenants in shared ownership, preventing them from accessing their rightful share of proceeds. Additionally, the preference for keeping property divided in kind rather than sold could result in smaller, less valuable individual parcels compared to selling the whole property.",
+  "topic": "Other / General Government",
+  "textLength": 21429,
+  "createdAt": "2026-06-23T03:06:42.885Z",
+  "sponsors": [
+    {"peopleId":24225,"name":"Benton Sawrey","party":"R","isPrimary":true},
+    {"peopleId":17457,"name":"Paul Lowe","party":"D","isPrimary":true},
+    {"peopleId":24226,"name":"Eddie Settle","party":"R","isPrimary":true},
+    {"peopleId":20513,"name":"Bobby Hanig","party":"R","isPrimary":false},
+    {"peopleId":12009,"name":"William Jackson","party":"R","isPrimary":false},
+    {"peopleId":11858,"name":"Timothy Moffitt","party":"R","isPrimary":false},
+    {"peopleId":22426,"name":"DeAndrea Salvador","party":"D","isPrimary":false},
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

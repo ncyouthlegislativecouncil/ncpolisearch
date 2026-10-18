@@ -1,0 +1,28 @@
+{
+  "billId": 2021711,
+  "billNumber": "H833",
+  "title": "The FRESH Act",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "c2b756d0d37236580582ecd079dfe773",
+  "lastAction": "Serial Referral To Rules, Calendar, and Operations of the House Added",
+  "lastActionDate": "2025-04-16",
+  "url": "https://legiscan.com/NC/bill/H833/2025",
+  "aiSummary": "The FRESH Act directs the Department of Agriculture and Consumer Services to expand North Carolina's Home Processor Program to allow home-based food producers to make and sell refrigerated, frozen, and perishable products—including items like cheesecakes with cream fillings—in addition to products currently allowed. The expanded program would remain subject to existing food safety laws and inspections.",
+  "aiProArguments": "Supporters argue this bill helps small home-based food entrepreneurs enter the market and generate income by allowing them to produce higher-margin perishable products like cheesecakes and refrigerated items. They contend that expanding the program creates economic opportunity for home producers while maintaining food safety oversight through existing inspection and regulatory requirements.",
+  "aiConArguments": "Opponents may be concerned that allowing refrigerated and frozen products—which are more perishable and require careful temperature control—increases food safety risks compared to the shelf-stable products currently allowed in home processing programs. They may argue that proper oversight of temperature-controlled storage and handling in home kitchens is difficult, and that gaps in compliance could lead to foodborne illness outbreaks.",
+  "topic": "Agriculture",
+  "textLength": 1655,
+  "createdAt": "2026-06-23T02:58:19.139Z",
+  "sponsors": [
+    {"peopleId":24211,"name":"Jarrod Lowery","party":"R","isPrimary":true},
+    {"peopleId":24203,"name":"Allen Chesser","party":"R","isPrimary":true},
+    {"peopleId":24890,"name":"Eric Ager","party":"D","isPrimary":false},
+    {"peopleId":20519,"name":"Keith Kidwell","party":"R","isPrimary":false},
+    {"peopleId":20522,"name":"Nasif Majeed","party":"D","isPrimary":false},
+    {"peopleId":21375,"name":"Jeffrey McNeely","party":"R","isPrimary":false},
+    {"peopleId":24219,"name":"Bill Ward","party":"R","isPrimary":false},
+    {"peopleId":11850,"name":"Harry Warren","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

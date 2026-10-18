@@ -1,0 +1,32 @@
+{
+  "billId": 2019113,
+  "billNumber": "H731",
+  "title": "Funds for Pauli Murray Center",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "8c6568951bca0e0bb1c448512f934739",
+  "lastAction": "Ref To Com On Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-04-03",
+  "url": "https://legiscan.com/NC/bill/H731/2025",
+  "aiSummary": "This bill appropriates $150,000 in state funding to the Pauli Murray Center for History and Social Justice in Durham for fiscal year 2025-2026. The money will be used to develop a green space that provides accessible entry to the center and improves drainage and stormwater management systems at the facility.",
+  "aiProArguments": "Supporters argue this funding supports an important cultural and educational institution that preserves the legacy of Pauli Murray, a significant figure in civil rights and social justice history. The investment also addresses practical infrastructure needs, including accessibility improvements and stormwater management that benefit both the center's operations and the surrounding Durham community.",
+  "aiConArguments": "Opponents may question whether this represents the best use of limited state general fund dollars, especially for a one-time nonrecurring grant to a single organization. Some may argue that the center should pursue alternative funding sources such as private donations, grants, or local funding, or that these infrastructure improvements should be prioritized differently among state budget priorities.",
+  "topic": "Taxes & Budget",
+  "textLength": 1091,
+  "createdAt": "2026-06-23T02:56:59.919Z",
+  "sponsors": [
+    {"peopleId":21631,"name":"Vernetta Alston","party":"D","isPrimary":true},
+    {"peopleId":20515,"name":"Zack Forde-Hawkins","party":"D","isPrimary":true},
+    {"peopleId":24208,"name":"Ray Jeffers","party":"D","isPrimary":true},
+    {"peopleId":19360,"name":"Marcia Morey","party":"D","isPrimary":true},
+    {"peopleId":22599,"name":"Amber Baker","party":"D","isPrimary":false},
+    {"peopleId":18449,"name":"Cynthia Ball","party":"D","isPrimary":false},
+    {"peopleId":19238,"name":"Deb Butler","party":"D","isPrimary":false},
+    {"peopleId":2077,"name":"Mary Harrison","party":"D","isPrimary":false},
+    {"peopleId":24206,"name":"Frances Jackson","party":"D","isPrimary":false},
+    {"peopleId":2115,"name":"Garland Pierce","party":"D","isPrimary":false},
+    {"peopleId":25853,"name":"Rodney Pierce","party":"D","isPrimary":false},
+    {"peopleId":26396,"name":"Phil Rubin","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

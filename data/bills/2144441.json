@@ -1,0 +1,23 @@
+{
+  "billId": 2144441,
+  "billNumber": "S787",
+  "title": "AI Ethics and Literacy Across Education",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "a08127f8bd997591b1b6f5e5daae43cc",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2026-04-23",
+  "url": "https://legiscan.com/NC/bill/S787/2025",
+  "aiSummary": "This bill requires North Carolina public schools to teach students in kindergarten through 12th grade about artificial intelligence, including how AI works, its real-world uses, and ethical issues like privacy and bias. The State Board of Education must develop age-appropriate standards for these lessons, which can be integrated into computer science courses, and the state will provide $100,000 in funding to support these programs starting in the 2026-2027 school year.",
+  "aiProArguments": "Supporters argue that AI education prepares students for a technology-driven workforce and helps them understand tools they already encounter daily. They contend that teaching ethics, bias awareness, and responsible AI use helps students become informed citizens who can make better decisions about technology and protect themselves from AI-related risks like misinformation and privacy violations.",
+  "aiConArguments": "Opponents may argue that $100,000 is insufficient funding to adequately train teachers and develop quality curriculum, potentially creating unfunded mandates on schools. Some may also question whether schools should prioritize AI literacy over other educational needs, or worry that adding new requirements strains already limited classroom time and teacher resources.",
+  "topic": "Education",
+  "textLength": 2021,
+  "createdAt": "2026-06-23T03:10:44.758Z",
+  "sponsors": [
+    {"peopleId":25860,"name":"Woodson Bradley","party":"D","isPrimary":true},
+    {"peopleId":20220,"name":"Michael Garrett","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

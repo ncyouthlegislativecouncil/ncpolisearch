@@ -1,0 +1,24 @@
+{
+  "billId": 2146044,
+  "billNumber": "S856",
+  "title": "Const Amend: Legislative Terms/Compensation",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "62f900bb7916a9ecfbe2ec94c299bfc4",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2026-04-29",
+  "url": "https://legiscan.com/NC/bill/S856/2025",
+  "aiSummary": "This bill proposes five constitutional amendments to be voted on by North Carolina voters in November 2026. The amendments would: (1) tie legislators' salaries to teachers' average starting salary, (2) limit consecutive service to 16 years per chamber, (3) change State Senate elections from every 2 years to every 4 years, (4) cap legislative sessions at 120 days in odd years and 90 days in even years, and (5) withhold legislator pay if the state budget isn't passed by June 30.",
+  "aiProArguments": "Supporters argue these changes increase legislative efficiency by reducing frequent campaigns and shorter sessions, reduce the influence of special interests through term limits and lower compensation tied to teacher pay, and incentivize budget passage by holding legislators accountable for timely fiscal decisions. They contend that longer Senate terms allow legislators to focus more on governing and less on campaigning, while session limits prevent unnecessary spending and lengthy deliberations.",
+  "aiConArguments": "Opponents contend that term limits reduce voter choice and eliminate experienced legislators who understand complex policy issues, that 4-year Senate terms reduce accountability to constituents, that strict session limits may prevent thorough debate on important legislation, and that tying pay to teacher salaries may make service unaffordable for working-class candidates. They also argue that withholding pay during budget delays could unfairly pressure legislators and harm staff who depend on timely paychecks.",
+  "topic": "Local Government",
+  "textLength": 18166,
+  "createdAt": "2026-06-23T03:11:19.951Z",
+  "sponsors": [
+    {"peopleId":20216,"name":"Jim Burgin","party":"R","isPrimary":true},
+    {"peopleId":17147,"name":"Gale Adcock","party":"D","isPrimary":false},
+    {"peopleId":25858,"name":"Sophia Chitlik","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

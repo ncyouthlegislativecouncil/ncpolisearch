@@ -1,0 +1,23 @@
+{
+  "billId": 2022758,
+  "billNumber": "H972",
+  "title": "Funds for Public Projects in Wayne County",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "bb397ea5f405c192c751691c381f7075",
+  "lastAction": "Ref to the Com on Appropriations, if favorable, Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-04-14",
+  "url": "https://legiscan.com/NC/bill/H972/2025",
+  "aiSummary": "This bill appropriates approximately $15.76 million in state funds for various public projects in Wayne County, including school improvements, infrastructure upgrades, and community organizations, plus funding for additional court staff serving Wayne County and neighboring districts.",
+  "aiProArguments": "Supporters argue this bill addresses critical needs in Wayne County schools, infrastructure, and public safety by funding middle school capital improvements and water/sewer upgrades. They contend the additional prosecutor and public defender positions improve access to justice and reduce case backlogs in the judicial district serving Wayne County.",
+  "aiConArguments": "Opponents may question whether directing significant state funds to one county is equitable given needs across North Carolina, and whether some funded organizations (like Alcoholics Anonymous and scouting programs) are appropriate uses of state appropriations that could be funded locally or privately. Some may also be concerned about the recurring cost of new judicial positions ($2.5+ million annually) and whether this represents good stewardship of limited state resources.",
+  "topic": "Taxes & Budget",
+  "textLength": 3193,
+  "createdAt": "2026-06-23T02:59:55.868Z",
+  "sponsors": [
+    {"peopleId":14604,"name":"John Bell","party":"R","isPrimary":true},
+    {"peopleId":11848,"name":"James Dixon","party":"R","isPrimary":true},
+    {"peopleId":24206,"name":"Frances Jackson","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

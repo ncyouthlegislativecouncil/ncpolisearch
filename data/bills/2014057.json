@@ -1,0 +1,22 @@
+{
+  "billId": 2014057,
+  "billNumber": "S616",
+  "title": "Capacity Restoration Pilot Program",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "d21709e88c0c968248f3ba081f7620a5",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-26",
+  "url": "https://legiscan.com/NC/bill/S616/2025",
+  "aiSummary": "This bill creates two pilot programs in North Carolina to restore mental capacity in individuals found incompetent to stand trial: a Community-Based Capacity Restoration Program (CBCRP) and a Detention Center Capacity Restoration Program (DCCRP). These programs would serve as alternatives to state psychiatric hospitals, with courts able to order restoration services through these programs instead.",
+  "aiProArguments": "Supporters argue these pilot programs reduce burden on state psychiatric hospitals, which are often overcrowded, by diverting eligible individuals to community-based or detention center settings. They contend this approach allows individuals to receive treatment closer to home and their support systems while still meeting legal requirements for capacity restoration, potentially reducing costs and improving outcomes.",
+  "aiConArguments": "Opponents may worry that moving capacity restoration services out of state psychiatric hospitals could compromise quality of care or oversight, particularly in detention center settings where mental health resources may be limited. Critics might also question whether detention center environments are appropriate therapeutic settings and whether sufficient funding and trained personnel would be available at local or regional facilities.",
+  "topic": "Criminal Justice & Public Safety",
+  "textLength": 2211,
+  "createdAt": "2026-06-23T03:09:21.427Z",
+  "sponsors": [
+    {"peopleId":20216,"name":"Jim Burgin","party":"R","isPrimary":true},
+    {"peopleId":24225,"name":"Benton Sawrey","party":"R","isPrimary":true}
+  ],
+  "rollCalls": []
+}

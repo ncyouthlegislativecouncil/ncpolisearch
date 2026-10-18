@@ -1,0 +1,24 @@
+{
+  "billId": 2010875,
+  "billNumber": "S332",
+  "title": "Health Care Practitioner Transparency Act",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "002c29aad6776b6b841cb5ceaf1835e0",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-20",
+  "url": "https://legiscan.com/NC/bill/S332/2025",
+  "aiSummary": "This bill requires health care practitioners in North Carolina to clearly identify their type of license, certification, or registration in advertisements and prohibits them from using deceptive or misleading information about their credentials. It also prevents unlicensed individuals from using physician titles or similar terms that suggest they practice medicine, and establishes enforcement mechanisms through professional licensing boards.",
+  "aiProArguments": "Supporters argue this bill protects patients by ensuring they know the actual qualifications and credentials of health care providers before seeking treatment. By requiring transparency in advertising and preventing title misuse, the bill aims to prevent confusion between licensed physicians and other health care practitioners, reducing the risk of patients receiving care from someone not qualified for their medical needs.",
+  "aiConArguments": "Opponents may argue the bill creates administrative burdens for health care practitioners and licensing boards that must implement and enforce the new requirements. Some may contend that existing regulations already address false advertising and credential misrepresentation, making this bill redundant, or express concerns that the broad definitions of \"advertisement\" could affect routine business communications in unintended ways.",
+  "topic": "Healthcare",
+  "textLength": 6588,
+  "createdAt": "2026-06-23T03:06:51.744Z",
+  "sponsors": [
+    {"peopleId":22423,"name":"Amy Galey","party":"R","isPrimary":true},
+    {"peopleId":20216,"name":"Jim Burgin","party":"R","isPrimary":true},
+    {"peopleId":24225,"name":"Benton Sawrey","party":"R","isPrimary":true},
+    {"peopleId":11858,"name":"Timothy Moffitt","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

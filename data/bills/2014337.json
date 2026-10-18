@@ -1,0 +1,26 @@
+{
+  "billId": 2014337,
+  "billNumber": "S633",
+  "title": "Guarding Freedoms & Public Safety Act",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "359216436ef89ff80af5722d6a80be37",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-26",
+  "url": "https://legiscan.com/NC/bill/S633/2025",
+  "aiSummary": "This bill makes four main changes to North Carolina firearm laws: it prohibits people convicted of misdemeanor domestic violence from possessing firearms, requires background checks for all firearm sales including private sales, restores a pistol purchase permit requirement, and requires parents/guardians to certify that firearms in their homes are safely stored.",
+  "aiProArguments": "Supporters argue these measures protect public safety, particularly domestic violence victims who face increased danger from abusers with access to firearms. They contend universal background checks close gaps in the current system by requiring checks on private sales, and that safe storage requirements reduce accidental child deaths and teen suicides. Proponents also note these restrictions align with federal law prohibitions on certain groups owning firearms.",
+  "aiConArguments": "Opponents raise concerns about government overreach into private firearm transactions and argue universal background checks burden law-abiding gun owners with administrative costs and delays. They contend the safe storage certification requirement intrudes on parental rights and home privacy, and worry that punishing misdemeanor domestic violence convictions as a firearm ban may be disproportionate. Critics also argue these measures are unlikely to stop criminals who obtain guns illegally.",
+  "topic": "Criminal Justice & Public Safety",
+  "textLength": 10654,
+  "createdAt": "2026-06-23T03:09:30.672Z",
+  "sponsors": [
+    {"peopleId":25860,"name":"Woodson Bradley","party":"D","isPrimary":true},
+    {"peopleId":24222,"name":"Lisa Grafstein","party":"D","isPrimary":true},
+    {"peopleId":20510,"name":"Terence Everitt","party":"D","isPrimary":true},
+    {"peopleId":20220,"name":"Michael Garrett","party":"D","isPrimary":false},
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

@@ -1,0 +1,26 @@
+{
+  "billId": 2014118,
+  "billNumber": "S628",
+  "title": "Safe Schools Transparency Act",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "d77d9bb71720af6a1fe58649d430e10c",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2025-03-26",
+  "url": "https://legiscan.com/NC/bill/S628/2025",
+  "aiSummary": "This bill requires North Carolina public schools to immediately notify parents of credible threats to their children or schools, establishes penalties for schools that fail to notify parents, reinstates a Task Force for Safer Schools, and creates a $25 million School Safety Fund to help schools provide mental health services and safety equipment.",
+  "aiProArguments": "Supporters argue that parents have a right to know about threats to their children's safety so they can take protective measures and make informed decisions about their children's education. The bill addresses a real gap in communication, as evidenced by recent school threat incidents, and provides funding for evidence-based mental health services and safety equipment that can prevent crises before they occur.",
+  "aiConArguments": "Opponents may be concerned that strict notification timelines (one hour) could interfere with active law enforcement investigations or create panic, and that financial penalties on schools could divert limited education funds away from classrooms. They may also question whether administrative penalties and potential termination of school officials creates accountability without adequate due process protections.",
+  "topic": "Education",
+  "textLength": 12820,
+  "createdAt": "2026-06-23T03:09:27.373Z",
+  "sponsors": [
+    {"peopleId":25860,"name":"Woodson Bradley","party":"D","isPrimary":true},
+    {"peopleId":22426,"name":"DeAndrea Salvador","party":"D","isPrimary":true},
+    {"peopleId":20510,"name":"Terence Everitt","party":"D","isPrimary":true},
+    {"peopleId":20220,"name":"Michael Garrett","party":"D","isPrimary":false},
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

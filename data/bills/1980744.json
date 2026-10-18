@@ -1,0 +1,21 @@
+{
+  "billId": 1980744,
+  "billNumber": "S136",
+  "title": "Restore Down-Zoning Auth./Rutherford Co",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "b4ae501140a91415f6c82bab30239c32",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-02-25",
+  "url": "https://legiscan.com/NC/bill/S136/2025",
+  "aiSummary": "This bill restores the ability of local governments in Rutherford County and its municipalities to initiate down-zoning (reducing the permitted density or uses of land) without requiring written consent from all affected property owners. The bill reverses a previous state law change from December 2024 and applies retroactively to that date.",
+  "aiProArguments": "Supporters argue that local governments need flexibility to manage land use planning and community development according to local needs and priorities. They contend that requiring unanimous property owner consent creates gridlock and prevents municipalities from implementing comprehensive zoning plans that balance community interests, environmental protection, and neighborhood character. Restoring this authority allows elected local officials to make zoning decisions on behalf of their constituents.",
+  "aiConArguments": "Opponents argue that property owners have a fundamental right to protect their property values and development potential from being restricted by government action without their consent. They contend that down-zoning can significantly reduce property values and economic opportunity, and that requiring property owner consent ensures decisions affecting individual rights receive proper scrutiny. Critics view the reversal as removing important protections for property owners that were recently established.",
+  "topic": "Local Government",
+  "textLength": 1951,
+  "createdAt": "2026-06-23T03:05:13.581Z",
+  "sponsors": [
+    {"peopleId":11858,"name":"Timothy Moffitt","party":"R","isPrimary":true}
+  ],
+  "rollCalls": []
+}

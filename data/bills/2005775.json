@@ -1,0 +1,22 @@
+{
+  "billId": 2005775,
+  "billNumber": "S285",
+  "title": "Teacher Salary Supplement/Guilford Cnty Schs",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "7399eb83dd9f2202462a08f9b77a0636",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2025-03-17",
+  "url": "https://legiscan.com/NC/bill/S285/2025",
+  "aiSummary": "This bill authorizes the state to distribute supplemental funds to eligible school districts for teacher and administrator salary increases during fiscal years 2025-2027. Guilford County is specifically included as eligible to receive these funds, along with other counties with lower property values. Each eligible school district receives funding based on the number of teachers employed, with a maximum supplement of $5,000 per teacher.",
+  "aiProArguments": "Supporters argue this bill addresses teacher compensation challenges and helps recruit and retain quality educators in North Carolina. By specifically including Guilford County alongside less wealthy counties, it targets areas that may struggle with teacher salaries while maintaining support for economically disadvantaged regions. The bill includes reporting requirements to track whether salary supplements actually improve teacher retention.",
+  "aiConArguments": "Opponents may argue the bill's formula is complex and its focus on specific counties raises questions about fairness to excluded districts. Critics might question whether the $5,000 per-teacher cap is sufficient to meaningfully impact retention, and whether state funds should be allocated this way when other educational needs exist. The bill also includes restrictions preventing local districts from using state funds to replace their own salary supplement commitments.",
+  "topic": "Education",
+  "textLength": 10264,
+  "createdAt": "2026-06-23T03:06:24.371Z",
+  "sponsors": [
+    {"peopleId":12032,"name":"Gladys Robinson","party":"D","isPrimary":true},
+    {"peopleId":20220,"name":"Michael Garrett","party":"D","isPrimary":true}
+  ],
+  "rollCalls": []
+}

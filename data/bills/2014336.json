@@ -1,0 +1,23 @@
+{
+  "billId": 2014336,
+  "billNumber": "S577",
+  "title": "Title Insurance Kickbacks Clarification",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "49a2c78f24999c09f9d33f45771e3247",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-26",
+  "url": "https://legiscan.com/NC/bill/S577/2025",
+  "aiSummary": "This bill clarifies North Carolina law that prohibits kickbacks and undisclosed payments in title insurance transactions. It specifies exceptions to the kickback prohibition, including payments based on stock ownership, employee commissions, and situations where proper written disclosures are provided to customers about business affiliations.",
+  "aiProArguments": "Supporters argue this bill provides needed clarity to title insurance companies, agents, and lenders about what payments are legally permissible, reducing confusion and unintentional violations. The bill allows legitimate business arrangements like employee commissions and stock dividends while maintaining consumer protections through disclosure requirements, helping the title insurance market function more smoothly.",
+  "aiConArguments": "Opponents may be concerned that clarifying and codifying exceptions to kickback prohibitions could create loopholes that undermine consumer protections, even with disclosure requirements. Critics might argue the bill could allow financial incentives that encourage referrals to particular title companies based on profit-sharing rather than on quality or consumer benefit, potentially increasing costs for homebuyers.",
+  "topic": "Business & Labor",
+  "textLength": 3756,
+  "createdAt": "2026-06-23T03:09:02.076Z",
+  "sponsors": [
+    {"peopleId":24224,"name":"Buck Newton","party":"R","isPrimary":true},
+    {"peopleId":12033,"name":"Warren Daniel","party":"R","isPrimary":true},
+    {"peopleId":24225,"name":"Benton Sawrey","party":"R","isPrimary":true}
+  ],
+  "rollCalls": []
+}

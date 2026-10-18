@@ -1,0 +1,26 @@
+{
+  "billId": 2014277,
+  "billNumber": "S735",
+  "title": "AI Innovation Trust Fund",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "17e888dbead5f96a4c8b47b8d450b6a2",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2025-03-26",
+  "url": "https://legiscan.com/NC/bill/S735/2025",
+  "aiSummary": "This bill establishes the Artificial Intelligence Innovation Trust Fund within the North Carolina Department of Commerce to provide grants and support to companies developing AI systems. It also creates regulatory requirements for developers of large-scale AI models, including safety protocols, third-party audits, and incident reporting, while prohibiting funding for AI used in mass surveillance, discriminatory profiling, or election interference.",
+  "aiProArguments": "Supporters argue this bill positions North Carolina as a leader in responsible AI innovation by providing targeted funding to grow the AI industry and create jobs. They contend the safety requirements protect public welfare by ensuring developers of high-capacity AI systems implement security measures, conduct independent audits, and report safety incidents to the Attorney General, preventing potential harms while still allowing technological advancement.",
+  "aiConArguments": "Opponents may contend the bill creates regulatory burdens that could discourage AI companies from locating in North Carolina, potentially driving innovation to states with lighter oversight. They may also argue the vague definitions of 'critical harm' and 'reasonable care' create legal uncertainty, and that strict compliance requirements—including mandatory third-party audits, safety protocols, and detailed reporting—could increase costs and complexity for developers.",
+  "topic": "Technology & Privacy",
+  "textLength": 41662,
+  "createdAt": "2026-06-23T03:10:25.048Z",
+  "sponsors": [
+    {"peopleId":22426,"name":"DeAndrea Salvador","party":"D","isPrimary":true},
+    {"peopleId":20220,"name":"Michael Garrett","party":"D","isPrimary":true},
+    {"peopleId":21633,"name":"Natalie Murdock","party":"D","isPrimary":true},
+    {"peopleId":24220,"name":"Val Applewhite","party":"D","isPrimary":false},
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

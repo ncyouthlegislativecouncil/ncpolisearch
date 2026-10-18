@@ -1,28 +1,38 @@
-import { and, asc, eq, ilike, inArray, or, sql } from "drizzle-orm";
-import { unstable_cache } from "next/cache";
-import { db, execRows } from "../db";
-import { bills, billSponsors, legislators } from "../db/schema";
+import {
+  allBills,
+  ascNullsLast,
+  billById,
+  compareText,
+  containsInsensitive,
+  descNullsLast,
+  legislatorById,
+  type BillSummary,
+} from "./data/store";
 import { getBillVoteSummary, type BillVoteSummary } from "./votes";
+import { currentMemberCount } from "./legislators";
 
-export async function getBillCount(): Promise<number> {
-  const rows = await db.select({ n: sql<number>`count(*)::int` }).from(bills);
-  return rows[0]?.n ?? 0;
+// All bill data comes from the committed data files (see lib/data/store.ts).
+// Functions stay async with the same return shapes the database version had, so
+// pages didn't need to change.
+
+// Newest activity first; ties broken by newer bill id so results are stable.
+function byNewest(a: BillSummary, b: BillSummary): number {
+  return descNullsLast(a.lastActionDate, b.lastActionDate) || b.billId - a.billId;
 }
 
-// Every bill id, for pre-building all /bills/[id] pages as static HTML at
-// build time (see generateStaticParams in that page) instead of letting them
-// get generated one-by-one from scattered visitor traffic after each deploy.
+// The first primary sponsor's name for each of the given bills.
+function primarySponsorNames(billIds: number[]): Record<number, string> {
+  const map: Record<number, string> = {};
+  for (const id of billIds) {
+    const s = billById(id)?.sponsors.find((sp) => sp.isPrimary === true && sp.name);
+    if (s?.name) map[id] = s.name;
+  }
+  return map;
+}
+
+// Every bill id, for pre-building all /bills/[id] pages as static HTML.
 export async function getAllBillIds(): Promise<number[]> {
-  const rows = await db.select({ billId: bills.billId }).from(bills);
-  return rows.map((r) => r.billId);
-}
-
-export async function getRecentBills(limit = 6) {
-  return db
-    .select()
-    .from(bills)
-    .orderBy(sql`${bills.lastActionDate} DESC NULLS LAST`)
-    .limit(limit);
+  return allBills().map((b) => b.billId);
 }
 
 // Homepage "What's Moving in Raleigh" feed with a deliberate featured pick.
@@ -32,25 +42,23 @@ export async function getRecentBills(limit = 6) {
 // AI summary, so the featured card reads richly. The remaining cards are simply
 // the newest bills, minus whichever one we featured (no duplicate).
 export async function getHomeFeed(gridSize = 5) {
-  // Recent window: newest-active bills. Pull text length (not the full text) so
-  // ranking is cheap. RECENT_WINDOW bounds "newest" so we never feature a stale
-  // giant bill that hasn't moved in months.
+  // RECENT_WINDOW bounds "newest" so we never feature a stale giant bill that
+  // hasn't moved in months.
   const RECENT_WINDOW = 40;
-  const window = await db
-    .select({
-      billId: bills.billId,
-      billNumber: bills.billNumber,
-      title: bills.title,
-      status: bills.status,
-      chamber: bills.chamber,
-      lastAction: bills.lastAction,
-      lastActionDate: bills.lastActionDate,
-      aiSummary: bills.aiSummary,
-      textLen: sql<number>`length(coalesce(${bills.billText}, ''))::int`,
-    })
-    .from(bills)
-    .orderBy(sql`${bills.lastActionDate} DESC NULLS LAST`)
-    .limit(RECENT_WINDOW);
+  const window = [...allBills()]
+    .sort(byNewest)
+    .slice(0, RECENT_WINDOW)
+    .map((b) => ({
+      billId: b.billId,
+      billNumber: b.billNumber,
+      title: b.title,
+      status: b.status,
+      chamber: b.chamber,
+      lastAction: b.lastAction,
+      lastActionDate: b.lastActionDate,
+      aiSummary: b.aiSummary,
+      textLen: b.textLength,
+    }));
 
   // Prefer already-analyzed bills for the featured slot; fall back to the whole
   // window if none in it have a summary yet.
@@ -67,22 +75,8 @@ export async function getHomeFeed(gridSize = 5) {
     .filter((b) => !featured || b.billId !== featured.billId)
     .slice(0, gridSize);
 
-  // Attach primary-sponsor names for the featured bill + grid in one query.
   const shown = featured ? [featured, ...rest] : rest;
-  const billIds = shown.map((r) => r.billId);
-  const sponsorMap: Record<number, string> = {};
-  if (billIds.length) {
-    const sp = await db
-      .select({ billId: billSponsors.billId, name: billSponsors.name })
-      .from(billSponsors)
-      .where(
-        and(inArray(billSponsors.billId, billIds), eq(billSponsors.isPrimary, true))
-      );
-    for (const s of sp) {
-      if (s.billId != null && s.name && !sponsorMap[s.billId]) sponsorMap[s.billId] = s.name;
-    }
-  }
-
+  const sponsorMap = primarySponsorNames(shown.map((r) => r.billId));
   const withSponsor = <T extends { billId: number }>(b: T) => ({
     ...b,
     sponsor: sponsorMap[b.billId] ?? null,
@@ -104,80 +98,53 @@ export type HomeStats = {
 };
 
 export async function getHomeStats(): Promise<HomeStats> {
-  const [billRows, legRows] = await Promise.all([
-    db
-      .select({
-        total: sql<number>`count(*)::int`,
-        introduced: sql<number>`(count(*) filter (where ${bills.status} = '1'))::int`,
-        enacted: sql<number>`(count(*) filter (where ${bills.status} = '4'))::int`,
-      })
-      .from(bills),
-    // Count only the CURRENT member per district (120 House + 50 Senate = 170),
-    // matching the /legislators roster. A raw count(*) would include departed
-    // members still on file from mid-session turnover and overcount (e.g. 176).
-    execRows<{ n: number }>(sql`
-      SELECT count(*)::int AS n FROM (
-        SELECT l.people_id, row_number() OVER (
-          PARTITION BY l.role, l.district
-          ORDER BY max(b.last_action_date) DESC NULLS LAST, count(bs.id) DESC
-        ) AS rn
-        FROM legislators l
-        LEFT JOIN bill_sponsors bs ON bs.people_id = l.people_id
-        LEFT JOIN bills b ON b.bill_id = bs.bill_id
-        WHERE l.party IS NOT NULL AND l.party <> ''
-          AND l.role IN ('Rep','Sen') AND l.district IS NOT NULL AND l.district <> ''
-        GROUP BY l.people_id, l.role, l.district
-      ) t WHERE rn = 1
-    `),
-  ]);
-
+  const bills = allBills();
   return {
-    totalBills: billRows[0]?.total ?? 0,
-    introduced: billRows[0]?.introduced ?? 0,
-    enacted: billRows[0]?.enacted ?? 0,
-    legislators: Number(legRows[0]?.n ?? 0),
+    totalBills: bills.length,
+    introduced: bills.filter((b) => b.status === "1").length,
+    enacted: bills.filter((b) => b.status === "4").length,
+    // Only the CURRENT member per district (120 House + 50 Senate = 170),
+    // matching the /legislators roster — departed members from mid-session
+    // turnover are still on file and would otherwise overcount.
+    legislators: currentMemberCount(),
   };
 }
 
 // Most recently updated bills for the homepage activity ticker.
 export async function getTickerBills(limit = 20) {
-  return db
-    .select({
-      billId: bills.billId,
-      billNumber: bills.billNumber,
-      title: bills.title,
-      lastAction: bills.lastAction,
-      lastActionDate: bills.lastActionDate,
-    })
-    .from(bills)
-    .orderBy(sql`${bills.lastActionDate} DESC NULLS LAST`)
-    .limit(limit);
+  return [...allBills()]
+    .sort(byNewest)
+    .slice(0, limit)
+    .map((b) => ({
+      billId: b.billId,
+      billNumber: b.billNumber,
+      title: b.title,
+      lastAction: b.lastAction,
+      lastActionDate: b.lastActionDate,
+    }));
 }
 
 export async function getBill(billId: number) {
-  const rows = await db
-    .select()
-    .from(bills)
-    .where(eq(bills.billId, billId))
-    .limit(1);
-  return rows[0] ?? null;
+  const b = billById(billId);
+  if (!b) return null;
+  const { sponsors: _sponsors, ...bill } = b; // eslint-disable-line @typescript-eslint/no-unused-vars
+  return bill;
 }
 
 export async function getBillSponsors(billId: number) {
-  const rows = await db
-    .select({
-      peopleId: billSponsors.peopleId,
-      name: billSponsors.name,
-      party: billSponsors.party,
-      isPrimary: billSponsors.isPrimary,
-      // Joined from the roster so sponsor cards can show a photo + role/district.
-      imageUrl: legislators.imageUrl,
-      role: legislators.role,
-      district: legislators.district,
-    })
-    .from(billSponsors)
-    .leftJoin(legislators, eq(billSponsors.peopleId, legislators.peopleId))
-    .where(eq(billSponsors.billId, billId));
+  const rows = (billById(billId)?.sponsors ?? []).map((s) => {
+    // Joined from the roster so sponsor cards can show a photo + role/district.
+    const leg = s.peopleId != null ? legislatorById(s.peopleId) : undefined;
+    return {
+      peopleId: s.peopleId,
+      name: s.name,
+      party: s.party,
+      isPrimary: s.isPrimary,
+      imageUrl: leg?.imageUrl ?? null,
+      role: leg?.role ?? null,
+      district: leg?.district ?? null,
+    };
+  });
 
   return {
     sponsors: rows.filter((r) => r.isPrimary),
@@ -195,27 +162,21 @@ export type BillSearchResult = {
   status: string | null;
 };
 
-export async function searchBillsLite(
-  q: string,
-  limit = 8
-): Promise<BillSearchResult[]> {
+export async function searchBillsLite(q: string, limit = 8): Promise<BillSearchResult[]> {
   const term = q.trim();
   if (!term) return [];
 
-  return db
-    .select({
-      billId: bills.billId,
-      billNumber: bills.billNumber,
-      title: bills.title,
-      chamber: bills.chamber,
-      status: bills.status,
-    })
-    .from(bills)
-    .where(
-      or(ilike(bills.title, `%${term}%`), ilike(bills.billNumber, `%${term}%`))
-    )
-    .orderBy(sql`${bills.lastActionDate} DESC NULLS LAST`)
-    .limit(limit);
+  return allBills()
+    .filter((b) => containsInsensitive(b.title, term) || containsInsensitive(b.billNumber, term))
+    .sort(byNewest)
+    .slice(0, limit)
+    .map((b) => ({
+      billId: b.billId,
+      billNumber: b.billNumber,
+      title: b.title,
+      chamber: b.chamber,
+      status: b.status,
+    }));
 }
 
 // Everything one side of the comparison view needs about a bill.
@@ -235,10 +196,7 @@ export type CompareBill = {
   vote: BillVoteSummary | null;
 };
 
-// /compare reads searchParams (the two bill ids being compared), which forces
-// it dynamic the same way /bills does — so every view re-ran this fresh.
-// Same fix as getBills above: cache the query result, not the page.
-async function getBillForCompareUncached(billId: number): Promise<CompareBill | null> {
+export async function getBillForCompare(billId: number): Promise<CompareBill | null> {
   const bill = await getBill(billId);
   if (!bill) return null;
 
@@ -268,12 +226,6 @@ async function getBillForCompareUncached(billId: number): Promise<CompareBill | 
   };
 }
 
-export const getBillForCompare = unstable_cache(
-  getBillForCompareUncached,
-  ["bill-compare"],
-  { revalidate: 3600 }
-);
-
 export type BillFilters = {
   search?: string;
   chamber?: string;
@@ -285,97 +237,62 @@ export type BillFilters = {
   pageSize?: number;
 };
 
-async function getBillsUncached(filters: BillFilters) {
-  const {
-    search,
-    chamber,
-    status,
-    party,
-    topic,
-    sort = "newest",
-    page = 1,
-    pageSize = 24,
-  } = filters;
+// Bipartisan requires REAL cross-party support, not just one token sponsor from
+// the minority side: at least this many sponsors from each party (calibrated
+// against H1104, 7 Democrat / 16 Republican sponsors, and H1200, 18 Democrat /
+// 15 Republican — both comfortably clear this bar).
+const MIN_BIPARTISAN_SPONSORS = 5;
 
-  const conditions = [];
-  if (search) {
-    conditions.push(
-      or(ilike(bills.title, `%${search}%`), ilike(bills.billNumber, `%${search}%`))
-    );
-  }
-  if (chamber === "H" || chamber === "S") conditions.push(eq(bills.chamber, chamber));
-  if (status) conditions.push(eq(bills.status, status));
-  if (topic) conditions.push(eq(bills.topic, topic));
-  // "Republican"/"Democrat" match the bill's primary sponsor's party — the same
-  // party BillCard displays as "Introduced by". "Bipartisan" requires REAL
-  // cross-party support, not just one token sponsor from the minority side: at
-  // least MIN_BIPARTISAN_SPONSORS from each party (calibrated against H1104,
-  // 7 Democrat / 16 Republican sponsors, and H1200, 18 Democrat / 15 Republican
-  // — both comfortably clear this bar).
-  if (party === "Republican" || party === "Democrat") {
-    const code = party === "Republican" ? "R" : "D";
-    conditions.push(sql`EXISTS (
-      SELECT 1 FROM ${billSponsors} bs
-      WHERE bs.bill_id = ${bills.billId} AND bs.is_primary = true AND bs.party = ${code}
-    )`);
-  } else if (party === "Bipartisan") {
-    const MIN_BIPARTISAN_SPONSORS = 5;
-    conditions.push(sql`(
-      SELECT count(*) FILTER (WHERE bs.party = 'D') >= ${MIN_BIPARTISAN_SPONSORS}
-        AND count(*) FILTER (WHERE bs.party = 'R') >= ${MIN_BIPARTISAN_SPONSORS}
-      FROM ${billSponsors} bs WHERE bs.bill_id = ${bills.billId}
-    )`);
-  }
-  const where = conditions.length ? and(...conditions) : undefined;
+export async function getBills(filters: BillFilters) {
+  const { search, chamber, status, party, topic, sort = "newest", page = 1, pageSize = 24 } = filters;
 
-  const orderBy =
-    sort === "oldest"
-      ? sql`${bills.lastActionDate} ASC NULLS LAST`
-      : sort === "title"
-        ? asc(bills.title)
-        : sql`${bills.lastActionDate} DESC NULLS LAST`;
-
-  const [rows, countRows] = await Promise.all([
-    db
-      .select()
-      .from(bills)
-      .where(where)
-      .orderBy(orderBy)
-      .limit(pageSize)
-      .offset((page - 1) * pageSize),
-    db.select({ n: sql<number>`count(*)::int` }).from(bills).where(where),
-  ]);
-
-  const total = countRows[0]?.n ?? 0;
-
-  // Attach the primary sponsor name for each bill on this page.
-  const billIds = rows.map((r) => r.billId);
-  const sponsorMap: Record<number, string> = {};
-  if (billIds.length) {
-    const sp = await db
-      .select({ billId: billSponsors.billId, name: billSponsors.name })
-      .from(billSponsors)
-      .where(
-        and(inArray(billSponsors.billId, billIds), eq(billSponsors.isPrimary, true))
-      );
-    for (const s of sp) {
-      if (s.billId != null && s.name && !sponsorMap[s.billId]) sponsorMap[s.billId] = s.name;
+  let matches = allBills().filter((b) => {
+    if (search && !(containsInsensitive(b.title, search) || containsInsensitive(b.billNumber, search))) return false;
+    if ((chamber === "H" || chamber === "S") && b.chamber !== chamber) return false;
+    if (status && b.status !== status) return false;
+    if (topic && b.topic !== topic) return false;
+    // "Republican"/"Democrat" match the bill's primary sponsor's party — the
+    // same party BillCard displays as "Introduced by".
+    if (party === "Republican" || party === "Democrat") {
+      const code = party === "Republican" ? "R" : "D";
+      if (!b.sponsors.some((s) => s.isPrimary === true && s.party === code)) return false;
+    } else if (party === "Bipartisan") {
+      const dems = b.sponsors.filter((s) => s.party === "D").length;
+      const reps = b.sponsors.filter((s) => s.party === "R").length;
+      if (dems < MIN_BIPARTISAN_SPONSORS || reps < MIN_BIPARTISAN_SPONSORS) return false;
     }
-  }
+    return true;
+  });
+
+  matches = [...matches].sort(
+    sort === "oldest"
+      ? (a, b) => ascNullsLast(a.lastActionDate, b.lastActionDate) || a.billId - b.billId
+      : sort === "title"
+        ? (a, b) => compareText(a.title ?? "", b.title ?? "") || a.billId - b.billId
+        : byNewest
+  );
+
+  const total = matches.length;
+  const rows = matches.slice((page - 1) * pageSize, page * pageSize).map((b) => ({
+    // Only what the result cards display — the old database version sent every
+    // column (including full bill text) to the browser on each page view.
+    billId: b.billId,
+    billNumber: b.billNumber,
+    title: b.title,
+    status: b.status,
+    chamber: b.chamber,
+    lastAction: b.lastAction,
+    lastActionDate: b.lastActionDate,
+    aiSummary: b.aiSummary,
+    topic: b.topic,
+  }));
+  const sponsorMap = primarySponsorNames(rows.map((r) => r.billId));
 
   return { bills: rows, total, sponsorMap, page, pageSize };
 }
 
-// /bills is always dynamically rendered (it reads searchParams, which forces
-// that for the whole route in the App Router — even the plain unfiltered
-// view can't be statically cached at the PAGE level). Caching the underlying
-// query result instead means repeat requests for the same filters within the
-// window reuse one result instead of each hitting the database fresh —
-// directly cutting how often Neon's compute endpoint gets woken, independent
-// of the page's own render being dynamic. The underlying data only actually
-// changes once a day (the cron poll), so there's no freshness benefit to a
-// short window — 1hr cuts wake-events ~60x versus the original 60s with no
-// perceptible staleness.
-export const getBills = unstable_cache(getBillsUncached, ["bills-list"], {
-  revalidate: 3600,
-});
+// For the /write page's pickers: every bill, newest first.
+export function getBillsForPicker(): { id: number; n: string; t: string }[] {
+  return [...allBills()].sort(byNewest).map((b) => ({ id: b.billId, n: b.billNumber ?? "", t: b.title ?? "" }));
+}
+

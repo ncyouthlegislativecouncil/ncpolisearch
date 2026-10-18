@@ -1,7 +1,13 @@
-import { eq, inArray, sql } from "drizzle-orm";
-import { unstable_cache } from "next/cache";
-import { db, execRows } from "../db";
-import { bills, votes, voteDetail } from "../db/schema";
+import {
+  billById,
+  descNullsLast,
+  legislatorStats,
+  legislatorVotes,
+  readBillFile,
+  rollCallById,
+  rollCallsForBill,
+  type RollCallMeta,
+} from "./data/store";
 import { chamberLabel } from "./status";
 
 // ---------------------------------------------------------------------------
@@ -30,124 +36,78 @@ export type LegislatorVoteSummary = {
 };
 
 // Aggregate counts for the summary strip at the top of the voting record.
-// Cached for the same reason as getLegislator/getLegislatorBills in
-// lib/legislators.ts: /legislators/[id] is forced dynamic by the vote-record
-// searchParam, so this ran fresh on every profile view.
-async function getLegislatorVoteSummaryUncached(
-  peopleId: number
-): Promise<LegislatorVoteSummary> {
-  const rows = await db
-    .select({
-      total: sql<number>`count(*)::int`,
-      yea: sql<number>`(count(*) filter (where ${voteDetail.vote} = 'Yea'))::int`,
-      nay: sql<number>`(count(*) filter (where ${voteDetail.vote} = 'Nay'))::int`,
-      notVoting: sql<number>`(count(*) filter (where ${voteDetail.vote} = 'NV'))::int`,
-      absent: sql<number>`(count(*) filter (where ${voteDetail.vote} = 'Absent'))::int`,
-    })
-    .from(voteDetail)
-    .where(eq(voteDetail.peopleId, peopleId));
-
-  const r = rows[0];
-  const total = r?.total ?? 0;
-  const yea = r?.yea ?? 0;
-  const nay = r?.nay ?? 0;
-  return {
-    total,
-    yea,
-    nay,
-    notVoting: r?.notVoting ?? 0,
-    absent: r?.absent ?? 0,
-    participation: total > 0 ? (yea + nay) / total : 0,
-  };
+// Precomputed when the data index is built.
+export async function getLegislatorVoteSummary(peopleId: number): Promise<LegislatorVoteSummary> {
+  return (
+    legislatorStats(peopleId)?.summary ?? {
+      total: 0,
+      yea: 0,
+      nay: 0,
+      notVoting: 0,
+      absent: 0,
+      participation: 0,
+    }
+  );
 }
 
-export const getLegislatorVoteSummary = unstable_cache(
-  getLegislatorVoteSummaryUncached,
-  ["legislator-vote-summary"],
-  { revalidate: 3600 }
-);
+// Every roll call this legislator voted on, most recent first.
+function votesNewestFirst(peopleId: number): { rc: RollCallMeta; vote: string | null }[] {
+  const rows: { rc: RollCallMeta; vote: string | null }[] = [];
+  for (const [rollCallId, vote] of legislatorVotes(peopleId)) {
+    const rc = rollCallById(rollCallId);
+    if (rc) rows.push({ rc, vote });
+  }
+  return rows.sort((a, b) => descNullsLast(a.rc.date, b.rc.date) || b.rc.rollCallId - a.rc.rollCallId);
+}
 
 // A page of this legislator's votes, most recent first.
-async function getLegislatorVotesUncached(
+export async function getLegislatorVotes(
   peopleId: number,
   page = 1,
   pageSize = 20
-): Promise<{
-  rows: LegislatorVoteRow[];
-  total: number;
-  page: number;
-  pageSize: number;
-}> {
-  const offset = (page - 1) * pageSize;
-
-  const [rows, countRows] = await Promise.all([
-    db
-      .select({
-        rollCallId: votes.rollCallId,
-        billId: votes.billId,
-        billNumber: bills.billNumber,
-        billTitle: bills.title,
-        date: votes.date,
-        chamber: votes.chamber,
-        passed: votes.passed,
-        vote: voteDetail.vote,
-      })
-      .from(voteDetail)
-      .innerJoin(votes, eq(voteDetail.rollCallId, votes.rollCallId))
-      .leftJoin(bills, eq(votes.billId, bills.billId))
-      .where(eq(voteDetail.peopleId, peopleId))
-      .orderBy(sql`${votes.date} DESC NULLS LAST`)
-      .limit(pageSize)
-      .offset(offset),
-    db
-      .select({ n: sql<number>`count(*)::int` })
-      .from(voteDetail)
-      .where(eq(voteDetail.peopleId, peopleId)),
-  ]);
-
-  return { rows, total: countRows[0]?.n ?? 0, page, pageSize };
+): Promise<{ rows: LegislatorVoteRow[]; total: number; page: number; pageSize: number }> {
+  const all = votesNewestFirst(peopleId);
+  const rows = all.slice((page - 1) * pageSize, page * pageSize).map(({ rc, vote }) => {
+    const bill = billById(rc.billId);
+    return {
+      rollCallId: rc.rollCallId,
+      billId: rc.billId,
+      billNumber: bill?.billNumber ?? null,
+      billTitle: bill?.title ?? null,
+      date: rc.date,
+      chamber: rc.chamber,
+      passed: rc.passed,
+      vote,
+    };
+  });
+  return { rows, total: all.length, page, pageSize };
 }
 
-export const getLegislatorVotes = unstable_cache(
-  getLegislatorVotesUncached,
-  ["legislator-votes"],
-  { revalidate: 3600 }
-);
+// The last N decisive (Yea/Nay) votes this legislator cast, newest first.
+export function getRecentDecisiveVotes(peopleId: number, limit = 2) {
+  return votesNewestFirst(peopleId)
+    .filter(({ vote }) => vote === "Yea" || vote === "Nay")
+    .slice(0, limit)
+    .map(({ rc, vote }) => {
+      const bill = billById(rc.billId);
+      return {
+        rollCallId: rc.rollCallId,
+        billId: rc.billId as number | null,
+        billNumber: bill?.billNumber ?? null,
+        title: bill?.title ?? null,
+        vote,
+        date: rc.date,
+      };
+    });
+}
 
 // Party unity: the share of this legislator's decisive (Yea/Nay) votes that
 // side with the majority of their own party on each roll call. Returns a 0..1
 // fraction, or null when there are no decisive party-line votes on record.
-async function getPartyUnityUncached(peopleId: number): Promise<number | null> {
-  const rows = await execRows<{ party_line: number; total_cast: number }>(sql`
-    WITH party_majority AS (
-      SELECT roll_call_id, party,
-        CASE
-          WHEN count(*) FILTER (WHERE vote = 'Yea') >= count(*) FILTER (WHERE vote = 'Nay')
-          THEN 'Yea' ELSE 'Nay'
-        END AS majority
-      FROM vote_detail
-      WHERE party IN ('R', 'D') AND vote IN ('Yea', 'Nay')
-      GROUP BY roll_call_id, party
-    )
-    SELECT
-      (count(*) FILTER (WHERE vd.vote = pm.majority))::int AS party_line,
-      count(*)::int AS total_cast
-    FROM vote_detail vd
-    JOIN party_majority pm
-      ON pm.roll_call_id = vd.roll_call_id AND pm.party = vd.party
-    WHERE vd.people_id = ${peopleId}
-      AND vd.vote IN ('Yea', 'Nay')
-      AND vd.party IN ('R', 'D')
-  `);
-
-  const r = rows[0];
-  if (!r || r.total_cast === 0) return null;
-  return r.party_line / r.total_cast;
+// Precomputed when the data index is built.
+export async function getPartyUnity(peopleId: number): Promise<number | null> {
+  return legislatorStats(peopleId)?.partyUnity ?? null;
 }
-
-export const getPartyUnity = unstable_cache(getPartyUnityUncached, ["party-unity"], {
-  revalidate: 3600,
-});
 
 // Compact yea/nay summary for the compare page. Uses the most recent roll
 // call as the representative vote, since that's the bill's latest standing.
@@ -159,20 +119,10 @@ export type BillVoteSummary = {
   rollCalls: number;
 };
 
-export async function getBillVoteSummary(
-  billId: number
-): Promise<BillVoteSummary | null> {
-  const rows = await db
-    .select({
-      yea: votes.yea,
-      nay: votes.nay,
-      passed: votes.passed,
-      date: votes.date,
-    })
-    .from(votes)
-    .where(eq(votes.billId, billId))
-    .orderBy(sql`${votes.date} DESC NULLS LAST`);
-
+export async function getBillVoteSummary(billId: number): Promise<BillVoteSummary | null> {
+  const rows = [...rollCallsForBill(billId)].sort(
+    (a, b) => descNullsLast(a.date, b.date) || b.rollCallId - a.rollCallId
+  );
   if (rows.length === 0) return null;
   const latest = rows[0];
   return {
@@ -224,41 +174,14 @@ function addToTally(tally: PartyTally, vote: string | null) {
 }
 
 // Every roll call for a bill, each with totals, a party breakdown, and the
-// individual member votes. Returns [] for bills with no recorded votes.
+// individual member votes. Returns [] for bills with no recorded votes. Reads
+// the full bill file, so it's only used by the statically built bill pages.
 export async function getBillVotes(billId: number): Promise<BillRollCall[]> {
-  const rollCalls = await db
-    .select()
-    .from(votes)
-    .where(eq(votes.billId, billId))
-    .orderBy(sql`${votes.date} DESC NULLS LAST`);
-
+  const bill = readBillFile(billId);
+  const rollCalls = [...(bill?.rollCalls ?? [])].sort(
+    (a, b) => descNullsLast(a.date, b.date) || b.rollCallId - a.rollCallId
+  );
   if (rollCalls.length === 0) return [];
-
-  const ids = rollCalls.map((r) => r.rollCallId);
-  const details = await db
-    .select({
-      rollCallId: voteDetail.rollCallId,
-      peopleId: voteDetail.peopleId,
-      name: voteDetail.name,
-      party: voteDetail.party,
-      vote: voteDetail.vote,
-    })
-    .from(voteDetail)
-    .where(inArray(voteDetail.rollCallId, ids));
-
-  // Group member rows by roll call.
-  const byRollCall = new Map<number, BillVoteMember[]>();
-  for (const d of details) {
-    if (d.rollCallId == null) continue;
-    const list = byRollCall.get(d.rollCallId) ?? [];
-    list.push({
-      peopleId: d.peopleId,
-      name: d.name,
-      party: d.party,
-      vote: d.vote,
-    });
-    byRollCall.set(d.rollCallId, list);
-  }
 
   // Last name = final whitespace-delimited token of a "First Last" name.
   const lastName = (name: string | null) => {
@@ -270,13 +193,15 @@ export async function getBillVotes(billId: number): Promise<BillRollCall[]> {
   // name within each group (full name breaks ties).
   const voteOrder: Record<string, number> = { Yea: 0, Nay: 1, NV: 2, Absent: 3 };
   return rollCalls.map((rc) => {
-    const members = (byRollCall.get(rc.rollCallId) ?? []).sort((a, b) => {
-      const ao = voteOrder[a.vote ?? ""] ?? 9;
-      const bo = voteOrder[b.vote ?? ""] ?? 9;
-      if (ao !== bo) return ao - bo;
-      const byLast = lastName(a.name).localeCompare(lastName(b.name));
-      return byLast !== 0 ? byLast : (a.name ?? "").localeCompare(b.name ?? "");
-    });
+    const members: BillVoteMember[] = rc.votes
+      .map((v) => ({ peopleId: v.peopleId, name: v.name, party: v.party, vote: v.vote }))
+      .sort((a, b) => {
+        const ao = voteOrder[a.vote ?? ""] ?? 9;
+        const bo = voteOrder[b.vote ?? ""] ?? 9;
+        if (ao !== bo) return ao - bo;
+        const byLast = lastName(a.name).localeCompare(lastName(b.name));
+        return byLast !== 0 ? byLast : (a.name ?? "").localeCompare(b.name ?? "");
+      });
 
     const republican = emptyTally();
     const democrat = emptyTally();

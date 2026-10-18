@@ -1,0 +1,25 @@
+{
+  "billId": 2005950,
+  "billNumber": "S282",
+  "title": "Clubhouse Expansion",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "b348ba7892f85f4a4dd42ebd5f941090",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2025-03-17",
+  "url": "https://legiscan.com/NC/bill/S282/2025",
+  "aiSummary": "This bill directs North Carolina's Department of Health and Human Services to develop a statewide plan for reimbursing clubhouse model programs that serve adults with severe mental illness through Medicaid, and appropriates $2.5 million annually for two years to the North Carolina Clubhouse Coalition to fund and expand these programs.",
+  "aiProArguments": "Supporters argue that clubhouse model programs are evidence-based services that help individuals with severe mental illness achieve recovery and community integration through peer support and vocational training. The bill would increase access to these programs across North Carolina by standardizing how they are reimbursed through Medicaid, removing financial barriers that currently limit their availability, and providing funding to expand services to underserved areas.",
+  "aiConArguments": "Opponents may raise concerns about the $5 million total appropriation and its impact on state budget priorities during fiscal constraints. Some may question whether this funding level is sufficient for meaningful statewide expansion, or whether resources should be directed to other mental health services, and may want clearer accountability measures for how the Clubhouse Coalition uses the funds.",
+  "topic": "Healthcare",
+  "textLength": 2579,
+  "createdAt": "2026-06-23T03:06:22.815Z",
+  "sponsors": [
+    {"peopleId":21633,"name":"Natalie Murdock","party":"D","isPrimary":true},
+    {"peopleId":24222,"name":"Lisa Grafstein","party":"D","isPrimary":true},
+    {"peopleId":25858,"name":"Sophia Chitlik","party":"D","isPrimary":false},
+    {"peopleId":20223,"name":"Mujtaba Mohammed","party":"D","isPrimary":false},
+    {"peopleId":25859,"name":"Caleb Theodros","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

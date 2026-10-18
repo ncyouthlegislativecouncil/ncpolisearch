@@ -1,0 +1,23 @@
+{
+  "billId": 1986593,
+  "billNumber": "S202",
+  "title": "Park South Station Traffic Citations",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "da71f0856955e6d499e7d7b2b5ba47c4",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-03",
+  "url": "https://legiscan.com/NC/bill/S202/2025",
+  "aiSummary": "This bill allows contracted law enforcement officers to enforce North Carolina motor vehicle laws on private streets, roadways, and alleys within the Park South Station community in Charlotte. State traffic laws would apply to these private roads as if they were public highways, with speed limits set by Charlotte City Council.",
+  "aiProArguments": "Supporters argue this bill provides necessary traffic enforcement in a private community, improving safety for residents and visitors by allowing qualified law enforcement to ticket traffic violators. The measure clarifies legal authority for enforcement and ensures the Park South Station community can maintain the same traffic safety standards as public streets without ambiguity about officer jurisdiction.",
+  "aiConArguments": "Opponents may argue that private communities should handle enforcement through their own rules rather than state traffic law, and that this grants private entities quasi-governmental authority. Concerns could include whether residents expect different enforcement standards on private property, potential inconsistency with neighboring communities, and questions about funding and oversight of contracted law enforcement on private roads.",
+  "topic": "Transportation & Infrastructure",
+  "textLength": 2141,
+  "createdAt": "2026-06-23T03:05:46.065Z",
+  "sponsors": [
+    {"peopleId":22426,"name":"DeAndrea Salvador","party":"D","isPrimary":true},
+    {"peopleId":20223,"name":"Mujtaba Mohammed","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

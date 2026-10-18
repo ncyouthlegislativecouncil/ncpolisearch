@@ -1,0 +1,32 @@
+{
+  "billId": 2146660,
+  "billNumber": "H1120",
+  "title": "Financial Effectiveness and Transparency Act",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "a336273672b32ffb783a3efc776b905f",
+  "lastAction": "Ref To Com On Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2026-04-30",
+  "url": "https://legiscan.com/NC/bill/H1120/2025",
+  "aiSummary": "This bill redirects $6.75 million in state funding away from Carolina Pregnancy Care Fellowship to evidence-based maternal and infant health programs through the Department of Health and Human Services. It also establishes new transparency and reporting requirements for crisis pregnancy centers that receive any state funds, and requires these centers to provide clients free copies of their records upon request.",
+  "aiProArguments": "Supporters argue this bill ensures state resources support programs with strong scientific evidence of improving maternal and infant health outcomes, such as nurse home visiting programs. They contend the transparency requirements increase accountability for how taxpayer dollars are spent and allow public oversight of organizations receiving state funds, while also protecting client rights to access their own medical records.",
+  "aiConArguments": "Opponents argue this bill defunds organizations that provide valuable services to pregnant women and families in need, including material support like diapers and formula. They contend the new reporting requirements are burdensome and may discourage nonprofits from serving vulnerable populations, and argue the bill targets a specific category of healthcare providers based on their organizational model rather than the quality of services provided.",
+  "topic": "Healthcare",
+  "textLength": 5766,
+  "createdAt": "2026-06-23T03:02:03.881Z",
+  "sponsors": [
+    {"peopleId":20528,"name":"Julie von Haefen","party":"D","isPrimary":true},
+    {"peopleId":19238,"name":"Deb Butler","party":"D","isPrimary":true},
+    {"peopleId":23148,"name":"Allen Buansi","party":"D","isPrimary":true},
+    {"peopleId":24199,"name":"Kanika Brown","party":"D","isPrimary":false},
+    {"peopleId":25213,"name":"Tracy Clark","party":"D","isPrimary":false},
+    {"peopleId":20509,"name":"Allison Dahle","party":"D","isPrimary":false},
+    {"peopleId":25844,"name":"Julia Greenfield","party":"D","isPrimary":false},
+    {"peopleId":2077,"name":"Mary Harrison","party":"D","isPrimary":false},
+    {"peopleId":20521,"name":"Carolyn Logan","party":"D","isPrimary":false},
+    {"peopleId":2115,"name":"Garland Pierce","party":"D","isPrimary":false},
+    {"peopleId":22606,"name":"James Roberson","party":"D","isPrimary":false},
+    {"peopleId":26396,"name":"Phil Rubin","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

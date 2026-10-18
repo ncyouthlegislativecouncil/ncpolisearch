@@ -1,0 +1,21 @@
+{
+  "billId": 2022600,
+  "billNumber": "H897",
+  "title": "DPS Agency Changes.-AB",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "9c68b8d1337fc7f53e423a0e94199e5f",
+  "lastAction": "Re-ref Com On Finance",
+  "lastActionDate": "2025-06-03",
+  "url": "https://legiscan.com/NC/bill/H897/2025",
+  "aiSummary": "This bill modernizes North Carolina's alarm security systems licensing laws and makes changes to private protective services regulations. It updates licensing requirements, increases application and licensing fees, enhances background check procedures, and clarifies regulations for security businesses, alarm monitoring companies, and security guard services.",
+  "aiProArguments": "Supporters argue this bill modernizes outdated security industry regulations to better protect consumers and ensure public safety. The increased fees and stricter licensing requirements help fund proper oversight of security businesses. Enhanced background check procedures and clearer definitions of regulated activities prevent unqualified or dangerous individuals from providing security services. The bill also allows legitimate security businesses to operate more flexibly while maintaining necessary oversight.",
+  "aiConArguments": "Opponents may argue that significantly higher licensing and application fees—some increasing from $150 to $500 and renewal fees from $500 to $1,000—create barriers for small businesses and reduce competition in the security industry. The expanded regulatory requirements and stricter criminal history standards could limit employment opportunities for individuals with minor past convictions. Some may also view the enhanced background check powers granted to state boards as expanding government authority over private industry.",
+  "topic": "Business & Labor",
+  "textLength": 69117,
+  "createdAt": "2026-06-23T02:59:04.740Z",
+  "sponsors": [
+    {"peopleId":20523,"name":"Carson Smith","party":"R","isPrimary":true}
+  ],
+  "rollCalls": []
+}

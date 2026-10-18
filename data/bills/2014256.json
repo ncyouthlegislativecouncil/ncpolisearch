@@ -1,0 +1,27 @@
+{
+  "billId": 2014256,
+  "billNumber": "S560",
+  "title": "Taskforce on Missing BIPOC Women",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "b882aa56bf24b6ee2b0f26a66ae902d5",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-26",
+  "url": "https://legiscan.com/NC/bill/S560/2025",
+  "aiSummary": "This bill creates a state task force to study and address the disproportionate number of missing and murdered Black, Indigenous, and People of Color (BIPOC) women and girls in North Carolina. The task force will develop policy recommendations, improve data collection, create awareness campaigns, and ensure law enforcement cultural competency over a three-year period.",
+  "aiProArguments": "Supporters argue that BIPOC women and girls face documented disparities in missing person cases, including lower police response rates, misclassification as runaways, and underreporting in official statistics. They contend that a dedicated task force can identify systemic barriers, improve coordination between state agencies, develop culturally competent law enforcement practices, and ultimately help locate missing individuals and prevent future disappearances in underserved communities.",
+  "aiConArguments": "Opponents may argue that creating a task force focused on one demographic group raises questions about equal treatment under law and resource allocation priorities. Some may question whether a new task force is the most efficient approach compared to improving existing law enforcement protocols across all demographics, or express concerns about the costs of additional state bureaucracy and the feasibility of implementing recommendations from a temporary advisory body.",
+  "topic": "Criminal Justice & Public Safety",
+  "textLength": 7479,
+  "createdAt": "2026-06-23T03:08:53.499Z",
+  "sponsors": [
+    {"peopleId":21633,"name":"Natalie Murdock","party":"D","isPrimary":true},
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":true},
+    {"peopleId":24220,"name":"Val Applewhite","party":"D","isPrimary":true},
+    {"peopleId":22425,"name":"Julie Mayfield","party":"D","isPrimary":false},
+    {"peopleId":20223,"name":"Mujtaba Mohammed","party":"D","isPrimary":false},
+    {"peopleId":22426,"name":"DeAndrea Salvador","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

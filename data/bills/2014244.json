@@ -1,0 +1,31 @@
+{
+  "billId": 2014244,
+  "billNumber": "S630",
+  "title": "School Mental Health Support Act",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "e22cefbb3dbd7eec0dff4bce8ff340de",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2025-03-26",
+  "url": "https://legiscan.com/NC/bill/S630/2025",
+  "aiSummary": "This bill appropriates $50 million to create a School Mental Health Grant Program that funds mental health services in public schools, prioritizing schools serving students with limited access to care. It also appropriates $50 million for a Mental Health Worker Loan Repayment Program that provides up to 20% student debt repayment to mental health professionals working in economically disadvantaged areas of North Carolina.",
+  "aiProArguments": "Supporters argue this bill addresses a critical shortage of mental health services in schools, particularly in underserved communities where students lack access to care. They contend the loan repayment program incentivizes mental health professionals to work in high-need rural and economically disadvantaged areas, improving workforce distribution across the state and reducing geographic disparities in mental health support.",
+  "aiConArguments": "Opponents may argue that $100 million in recurring spending is a significant fiscal commitment during budget planning and could be allocated to other pressing needs. Some may question whether loan repayment is the most efficient way to recruit mental health workers compared to direct salary increases, and whether the 20% repayment cap adequately incentivizes workers to relocate to high-need areas.",
+  "topic": "Education",
+  "textLength": 8586,
+  "createdAt": "2026-06-23T03:09:28.519Z",
+  "sponsors": [
+    {"peopleId":25860,"name":"Woodson Bradley","party":"D","isPrimary":true},
+    {"peopleId":20510,"name":"Terence Everitt","party":"D","isPrimary":true},
+    {"peopleId":20505,"name":"Sydney Batch","party":"D","isPrimary":true},
+    {"peopleId":25858,"name":"Sophia Chitlik","party":"D","isPrimary":false},
+    {"peopleId":20220,"name":"Michael Garrett","party":"D","isPrimary":false},
+    {"peopleId":24222,"name":"Lisa Grafstein","party":"D","isPrimary":false},
+    {"peopleId":20223,"name":"Mujtaba Mohammed","party":"D","isPrimary":false},
+    {"peopleId":21633,"name":"Natalie Murdock","party":"D","isPrimary":false},
+    {"peopleId":22426,"name":"DeAndrea Salvador","party":"D","isPrimary":false},
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

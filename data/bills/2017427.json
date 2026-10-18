@@ -1,0 +1,26 @@
+{
+  "billId": 2017427,
+  "billNumber": "H632",
+  "title": "Amend Hazing Laws",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "9fd12f87a5dc84704dc64b0bba0486ac",
+  "lastAction": "Re-ref Com On Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-04-16",
+  "url": "https://legiscan.com/NC/bill/H632/2025",
+  "aiSummary": "This bill strengthens North Carolina's hazing laws by creating new criminal penalties for individuals and organizations that commit hazing, and requires public schools and colleges to develop anti-hazing education programs, investigate hazing allegations, and publicly report hazing violations. The bill defines hazing broadly to include physical brutality, substance consumption, mental abuse, and other harmful activities used to recruit or initiate members into student organizations.",
+  "aiProArguments": "Supporters argue this bill protects students from serious harm by establishing clear definitions of hazing and meaningful penalties—including felony charges when hazing causes serious bodily injury or death. The bill also creates incentives for reporting by offering legal immunity to students who seek medical help for hazing victims, and requires schools to educate students about hazing risks and transparently report violations so families can make informed decisions about their children's safety in organizations.",
+  "aiConArguments": "Opponents may express concerns about potential overreach, such as how broadly hazing is defined potentially capturing unintentional conduct, and whether immunity provisions could shield those involved in hazing. Some may worry about the administrative burden on schools to investigate, track, and publicly report violations, or question whether criminal penalties for individuals and substantial fines for organizations are proportionate to different levels of misconduct. Others might argue the reporting requirements could unfairly stigmatize organizations based on single incidents.",
+  "topic": "Education",
+  "textLength": 21934,
+  "createdAt": "2026-06-23T02:55:43.697Z",
+  "sponsors": [
+    {"peopleId":14634,"name":"Stephen Ross","party":"R","isPrimary":true},
+    {"peopleId":14633,"name":"Dennis Riddell","party":"R","isPrimary":true},
+    {"peopleId":18495,"name":"Donna White","party":"R","isPrimary":true},
+    {"peopleId":14613,"name":"Robert Davis","party":"R","isPrimary":true},
+    {"peopleId":22613,"name":"Ben Moss","party":"R","isPrimary":false},
+    {"peopleId":24219,"name":"Bill Ward","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

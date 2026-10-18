@@ -1,0 +1,27 @@
+{
+  "billId": 2018184,
+  "billNumber": "H664",
+  "title": "Eliminate PET Scanners from CON Review",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "9e8679bbae7ebcccf0361d05aec83ee4",
+  "lastAction": "Ref to the Com on Health, if favorable, Regulatory Reform, if favorable, Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-04-03",
+  "url": "https://legiscan.com/NC/bill/H664/2025",
+  "aiSummary": "This bill removes PET scanners (Positron Emission Tomography machines used for medical imaging) from North Carolina's Certificate of Need (CON) review process. Currently, hospitals and medical facilities must obtain state approval before purchasing PET scanners; this bill eliminates that requirement.",
+  "aiProArguments": "Supporters argue that removing CON requirements for PET scanners reduces regulatory delays and bureaucratic costs, allowing healthcare facilities to acquire advanced diagnostic equipment more quickly and efficiently. They contend this streamlines healthcare operations and enables faster access to this technology for patients who need diagnostic imaging services.",
+  "aiConArguments": "Opponents argue that CON review helps prevent unnecessary duplication of expensive medical equipment, which can increase healthcare costs and waste resources. They worry that removing oversight could lead to unequal distribution of PET scanners across the state, potentially creating gaps in rural areas while concentrating equipment in profitable urban markets.",
+  "topic": "Healthcare",
+  "textLength": 691,
+  "createdAt": "2026-06-23T02:56:07.581Z",
+  "sponsors": [
+    {"peopleId":25845,"name":"Grant Campbell","party":"R","isPrimary":true},
+    {"peopleId":18451,"name":"Mary Belk","party":"D","isPrimary":false},
+    {"peopleId":24202,"name":"Maria Cervania","party":"D","isPrimary":false},
+    {"peopleId":2077,"name":"Mary Harrison","party":"D","isPrimary":false},
+    {"peopleId":25856,"name":"Paul Scott","party":"R","isPrimary":false},
+    {"peopleId":24219,"name":"Bill Ward","party":"R","isPrimary":false},
+    {"peopleId":11850,"name":"Harry Warren","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

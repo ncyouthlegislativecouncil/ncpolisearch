@@ -1,0 +1,23 @@
+{
+  "billId": 2010885,
+  "billNumber": "S331",
+  "title": "Make Legislators' Docs Public Records",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "dd37f19a36c42aeb1438c202361c7487",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-20",
+  "url": "https://legiscan.com/NC/bill/S331/2025",
+  "aiSummary": "This bill repeals certain confidentiality protections for legislators' documents and requests by making some legislative materials public records. Specifically, it allows documents prepared by legislative staff to become public when introduced as bills, offered as amendments, distributed at committee meetings, or released through other public legislative processes, while maintaining confidentiality for initial drafting requests and supporting documents until they are formally presented.",
+  "aiProArguments": "Supporters argue this bill increases government transparency and accountability by allowing citizens to access legislative documents and understand how laws are developed. They contend that taxpayer-funded legislative work should be subject to public scrutiny, and that greater transparency helps citizens track their representatives' activities and builds trust in the legislative process.",
+  "aiConArguments": "Opponents worry this bill could chill open dialogue between legislators and legislative staff by reducing confidentiality protections. They argue that premature disclosure of draft documents, preliminary analyses, and working materials could expose incomplete work, create confusion, and make it harder for legislators to freely explore policy options without public pressure before formal proposals are ready.",
+  "topic": "Local Government",
+  "textLength": 5477,
+  "createdAt": "2026-06-23T03:06:51.277Z",
+  "sponsors": [
+    {"peopleId":20510,"name":"Terence Everitt","party":"D","isPrimary":true},
+    {"peopleId":25860,"name":"Woodson Bradley","party":"D","isPrimary":false},
+    {"peopleId":21633,"name":"Natalie Murdock","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

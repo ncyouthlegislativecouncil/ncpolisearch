@@ -1,0 +1,22 @@
+{
+  "billId": 2144882,
+  "billNumber": "S819",
+  "title": "Authorize First Broad River State Trail",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "e3dd90abce4f2e3b0add0dab861d5780",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2026-04-23",
+  "url": "https://legiscan.com/NC/bill/S819/2025",
+  "aiSummary": "This bill authorizes the Department of Natural and Cultural Resources to designate the First Broad River in Cleveland and Rutherford Counties as a State Trail within the State Parks System. The bill allocates $25,000 for planning and public education efforts and allows the state to develop trail segments across public and private lands, with management governed by each landowner's rules.",
+  "aiProArguments": "Supporters argue this bill will boost outdoor recreation and tourism in the region by formalizing access to a scenic 65-mile river with significant natural and historical value. The trail could attract visitors from the nearby Charlotte and Greenville-Spartanburg metropolitan areas (combined population over 3.5 million), generating economic benefits for local businesses like tubing outfitters and restaurants while building on existing local investments like the Stagecoach Greenway.",
+  "aiConArguments": "Opponents may be concerned that the bill waives the standard requirement for adequate appropriations for land acquisition and development before adding trails to the State Parks System. Private landowners whose property crosses the trail corridor may worry about increased foot traffic, liability, or access disputes, though the bill specifies that each landowner's rules govern use of their property.",
+  "topic": "Transportation & Infrastructure",
+  "textLength": 4879,
+  "createdAt": "2026-06-23T03:10:59.620Z",
+  "sponsors": [
+    {"peopleId":20225,"name":"Ted Alexander","party":"R","isPrimary":true},
+    {"peopleId":20223,"name":"Mujtaba Mohammed","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

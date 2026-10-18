@@ -1,0 +1,23 @@
+{
+  "billId": 1986311,
+  "billNumber": "S201",
+  "title": "Town of Pineville/Reserve Police",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "c79000d9535771313c43a69fe0bf8c56",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-03",
+  "url": "https://legiscan.com/NC/bill/S201/2025",
+  "aiSummary": "This bill amends the charter of the Town of Pineville to allow the town to establish a reserve police division and authorize compensation for reserve officers when they are called to perform active duty. Currently, state law allows towns to have auxiliary police but does not explicitly authorize paying reserve officers for their service time.",
+  "aiProArguments": "Supporters argue that compensating reserve police officers would attract more qualified volunteers to fill reserve positions, improving public safety capacity and emergency response in Pineville. They contend that paying reserve officers for active duty time recognizes the value of their work and makes reserve service more appealing to residents who might otherwise be unable to volunteer unpaid.",
+  "aiConArguments": "Opponents may be concerned about the fiscal impact and ongoing costs to Pineville's budget, particularly if reserve officers are called frequently or during emergencies. Some might question whether compensation is necessary to maintain a reserve force or argue that unpaid volunteer auxiliary police have traditionally served communities adequately.",
+  "topic": "Local Government",
+  "textLength": 1061,
+  "createdAt": "2026-06-23T03:05:45.619Z",
+  "sponsors": [
+    {"peopleId":22426,"name":"DeAndrea Salvador","party":"D","isPrimary":true},
+    {"peopleId":20223,"name":"Mujtaba Mohammed","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

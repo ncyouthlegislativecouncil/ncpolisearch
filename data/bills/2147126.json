@@ -1,0 +1,26 @@
+{
+  "billId": 2147126,
+  "billNumber": "S1055",
+  "title": "Carolina Housing Promise Act",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "998da1ae833ea6d2dc867d01d9b03354",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2026-05-06",
+  "url": "https://legiscan.com/NC/bill/S1055/2025",
+  "aiSummary": "The Carolina Housing Promise Act is a comprehensive bill that addresses housing affordability and accessibility in North Carolina through multiple approaches: increasing funding for affordable housing programs, allowing accessory dwelling units and streamlining approvals for affordable developments, establishing tax credits and down payment assistance for homebuyers, directing resources toward hurricane recovery and rental assistance, and investing in construction workforce development and fair housing enforcement.",
+  "aiProArguments": "Supporters argue this bill tackles North Carolina's serious housing shortage and affordability crisis by creating multiple pathways to homeownership and rental assistance. They point out that the bill funds community land trusts, emergency rental assistance, and homelessness prevention programs that help vulnerable populations. Supporters also highlight provisions like accessory dwelling units and density increases that can increase housing supply, workforce development investments that create construction jobs, and tax incentives that encourage both affordable housing development and charitable donations to housing causes.",
+  "aiConArguments": "Opponents may be concerned about the significant state spending ($450+ million annually in recurring funds) at a time of budget constraints, questioning whether all programs will be effective. Some local governments may resist density requirements and \"by-right\" housing approvals as limiting local control over zoning and development. Critics might also argue that tax credits for donors and developers primarily benefit wealthier taxpayers, that the excise tax increase on property transfers could discourage home sales, and that some programs (like the buyout fund) may have limited impact without addressing root causes of housing costs like construction labor shortages and land availability.",
+  "topic": "Housing",
+  "textLength": 54200,
+  "createdAt": "2026-06-23T03:13:00.015Z",
+  "sponsors": [
+    {"peopleId":20220,"name":"Michael Garrett","party":"D","isPrimary":true},
+    {"peopleId":25860,"name":"Woodson Bradley","party":"D","isPrimary":true},
+    {"peopleId":20505,"name":"Sydney Batch","party":"D","isPrimary":false},
+    {"peopleId":22426,"name":"DeAndrea Salvador","party":"D","isPrimary":false},
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

@@ -1,0 +1,23 @@
+{
+  "billId": 2144569,
+  "billNumber": "S812",
+  "title": "Tax Fraud Analytics Funding",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "c90706132b555ce49388ee5115d7c116",
+  "lastAction": "Re-ref to Appropriations/Base Budget. If fav, re-ref to Rules and Operations of the Senate",
+  "lastActionDate": "2026-04-23",
+  "url": "https://legiscan.com/NC/bill/S812/2025",
+  "aiSummary": "This bill appropriates $4.4 million in annual funding starting in fiscal year 2026-2027 to the Department of Revenue to expand its tax fraud detection and analytics work through a partnership with the Government Data Analytics Center (GDAC). The funds will support software, analytics tools, case management systems, and technical infrastructure used to identify and collect on fraudulent tax claims.",
+  "aiProArguments": "Supporters argue that investing in tax fraud detection helps recover money owed to the state, protecting honest taxpayers and increasing revenue available for public services. They contend that advanced analytics technology can identify fraudulent claims more efficiently than manual review, potentially recovering far more than the $4.4 million investment through increased collections.",
+  "aiConArguments": "Opponents may question whether $4.4 million in annual recurring spending is the best use of limited state resources, or whether existing fraud detection methods are sufficient. Some may have concerns about data privacy and security when using private-sector partners through GDAC, or whether the projected return on investment justifies the ongoing expense.",
+  "topic": "Taxes & Budget",
+  "textLength": 1220,
+  "createdAt": "2026-06-23T03:10:56.705Z",
+  "sponsors": [
+    {"peopleId":11937,"name":"Ralph Hise","party":"R","isPrimary":true},
+    {"peopleId":26462,"name":"Chris Measmer","party":"R","isPrimary":false},
+    {"peopleId":11858,"name":"Timothy Moffitt","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

@@ -1,0 +1,23 @@
+{
+  "billId": 2147035,
+  "billNumber": "H1202",
+  "title": "First Responder Training Track",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "d48f8040ed4239a95b5617d8ea6c4507",
+  "lastAction": "Ref to the Com on Appropriations, if favorable, Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2026-05-05",
+  "url": "https://legiscan.com/NC/bill/H1202/2025",
+  "aiSummary": "This bill appropriates $6.1 million in state funds to Forsyth Technical Community College to build a law enforcement driving training center in King, North Carolina. The facility will include a driving pad, roadway, and instructional building to train law enforcement officers in basic and continuing education programs.",
+  "aiProArguments": "Supporters argue this investment improves public safety by providing specialized, hands-on training for law enforcement officers in a controlled environment. They contend that a dedicated driving training center reduces risks to officers and the public during training, enhances officer skill and confidence, and supports workforce development in the community college system.",
+  "aiConArguments": "Opponents may question whether $6.1 million is an appropriate use of limited state funds when other priorities exist, or whether existing training facilities could serve the same purpose at lower cost. Some may raise concerns about whether the facility will be used efficiently long-term and whether the partnership structure between Forsyth Tech and Winston-Salem provides adequate accountability for the public investment.",
+  "topic": "Criminal Justice & Public Safety",
+  "textLength": 1238,
+  "createdAt": "2026-06-23T03:03:24.219Z",
+  "sponsors": [
+    {"peopleId":24199,"name":"Kanika Brown","party":"D","isPrimary":true},
+    {"peopleId":22599,"name":"Amber Baker","party":"D","isPrimary":true},
+    {"peopleId":22606,"name":"James Roberson","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

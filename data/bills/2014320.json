@@ -1,0 +1,30 @@
+{
+  "billId": 2014320,
+  "billNumber": "S622",
+  "title": "Healthy Families & Workplaces/Paid Sick Leave",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "1194228b10908b8ca5327534809baa56",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-26",
+  "url": "https://legiscan.com/NC/bill/S622/2025",
+  "aiSummary": "This bill would require employers in North Carolina to provide employees with paid sick days that accrue at one hour per 30 hours worked, with annual limits of 32 hours for small businesses (10 or fewer employees) and 56 hours for larger employers. Employees could use paid sick time for their own illness, family care, medical appointments, and situations involving domestic violence, sexual assault, or stalking. The law would take effect January 1, 2026.",
+  "aiProArguments": "Supporters argue this bill protects public health by allowing sick workers to stay home rather than spread contagious illnesses in high-contact industries like childcare, food service, and senior care. They also contend it addresses economic hardship for low-wage workers who currently cannot afford unpaid time off and helps victims of domestic violence access safety resources. Supporters point to data showing 38% of private-sector North Carolina workers lack any paid sick days, disproportionately affecting Black and Latino workers and those earning less than $20,000 annually.",
+  "aiConArguments": "Opponents may argue the mandate increases costs for employers, particularly small businesses, affecting their competitiveness and potentially leading to reduced hiring or wage growth. They might contend employers should decide their own leave policies based on business needs and that the accrual requirements and enforcement mechanisms, including potential lawsuits and liquidated damages, create significant regulatory burdens. Some may question whether the benefits justify the compliance costs or suggest voluntary programs would be more efficient than government mandates.",
+  "topic": "Business & Labor",
+  "textLength": 20622,
+  "createdAt": "2026-06-23T03:09:24.119Z",
+  "sponsors": [
+    {"peopleId":25860,"name":"Woodson Bradley","party":"D","isPrimary":true},
+    {"peopleId":25858,"name":"Sophia Chitlik","party":"D","isPrimary":true},
+    {"peopleId":22426,"name":"DeAndrea Salvador","party":"D","isPrimary":true},
+    {"peopleId":24222,"name":"Lisa Grafstein","party":"D","isPrimary":false},
+    {"peopleId":22425,"name":"Julie Mayfield","party":"D","isPrimary":false},
+    {"peopleId":16251,"name":"Graig Meyer","party":"D","isPrimary":false},
+    {"peopleId":20223,"name":"Mujtaba Mohammed","party":"D","isPrimary":false},
+    {"peopleId":21633,"name":"Natalie Murdock","party":"D","isPrimary":false},
+    {"peopleId":12032,"name":"Gladys Robinson","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

@@ -1,0 +1,29 @@
+{
+  "billId": 1982956,
+  "billNumber": "H204",
+  "title": "Restore Down-Zoning Auth./Cabarrus Co",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "2ecd11d3ece3403fcbd796fe5a034bd3",
+  "lastAction": "Ref to the Com on Judiciary 3, if favorable, Housing and Development, if favorable, Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-02-26",
+  "url": "https://legiscan.com/NC/bill/H204/2025",
+  "aiSummary": "This bill restores the authority of Cabarrus County and its municipalities to initiate down-zoning (reducing allowed building density or permitted uses on property) without requiring written consent from all affected property owners. The bill applies only to Cabarrus County and is retroactive to December 11, 2024, reversing a recent state law change that had restricted this local authority.",
+  "aiProArguments": "Supporters argue that local governments need flexibility to manage community development and protect neighborhoods from over-development or incompatible land uses. They contend that requiring unanimous property owner consent gives individuals veto power over local planning decisions and prevents communities from implementing comprehensive zoning plans that serve the broader public interest.",
+  "aiConArguments": "Opponents contend that down-zoning without owner consent can significantly reduce property values and development potential, effectively taking value from owners without compensation. They argue that property owners should have protection against government decisions that restrict what they can do with their land, and that unanimous consent requirements ensure fairness and prevent arbitrary governmental action.",
+  "topic": "Local Government",
+  "textLength": 2123,
+  "createdAt": "2026-06-23T02:44:54.605Z",
+  "sponsors": [
+    {"peopleId":25841,"name":"Jonathan Almond","party":"R","isPrimary":true},
+    {"peopleId":25843,"name":"Brian Echevarria","party":"R","isPrimary":true},
+    {"peopleId":25845,"name":"Grant Campbell","party":"R","isPrimary":true},
+    {"peopleId":17678,"name":"James Adams","party":"R","isPrimary":false},
+    {"peopleId":18451,"name":"Mary Belk","party":"D","isPrimary":false},
+    {"peopleId":2044,"name":"Becky Carney","party":"D","isPrimary":false},
+    {"peopleId":2077,"name":"Mary Harrison","party":"D","isPrimary":false},
+    {"peopleId":20515,"name":"Zack Forde-Hawkins","party":"D","isPrimary":false},
+    {"peopleId":24214,"name":"Renee Price","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

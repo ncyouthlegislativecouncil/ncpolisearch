@@ -1,0 +1,21 @@
+{
+  "billId": 1985229,
+  "billNumber": "S185",
+  "title": "Restore Down-Zoning/Forsyth Co",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "2196f8c9c2793453fcb97273fd977833",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-02-27",
+  "url": "https://legiscan.com/NC/bill/S185/2025",
+  "aiSummary": "This bill restores the authority of local governments in Forsyth County and its municipalities to initiate down-zoning (reducing allowed development density or permitted uses on property) without requiring written consent from property owners. It reverses a restriction imposed by a 2024 state law and applies retroactively to December 11, 2024.",
+  "aiProArguments": "Supporters argue that local governments need flexibility to manage community development and land use planning to protect neighborhood character, control sprawl, and respond to community preferences. They contend that requiring property owner consent gives individual landowners veto power over local zoning decisions that affect entire communities, potentially blocking necessary land-use protections that benefit the public interest.",
+  "aiConArguments": "Opponents argue that down-zoning without owner consent can significantly reduce property values and development rights, effectively taking away an owner's ability to use their land as previously allowed. They contend that requiring consent protects property owners from government restrictions that diminish their property's economic value without compensation.",
+  "topic": "Local Government",
+  "textLength": 1921,
+  "createdAt": "2026-06-23T03:05:38.819Z",
+  "sponsors": [
+    {"peopleId":17457,"name":"Paul Lowe","party":"D","isPrimary":true}
+  ],
+  "rollCalls": []
+}

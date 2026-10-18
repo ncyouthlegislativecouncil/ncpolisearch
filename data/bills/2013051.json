@@ -1,0 +1,31 @@
+{
+  "billId": 2013051,
+  "billNumber": "S392",
+  "title": "Safeguard Fair Elections",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "3154aea4f20fdda504472940b3bfaeef",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-25",
+  "url": "https://legiscan.com/NC/bill/S392/2025",
+  "aiSummary": "This bill creates new criminal penalties for voter intimidation and threats against election officials, requires election certifications to be based on factual evidence, establishes standards for post-election audits, strengthens observer rights at polling places, protects election officials' personal information, and appropriates $2.25 million for election security training and threat monitoring.",
+  "aiProArguments": "Supporters argue this bill protects democracy by criminalizing voter intimidation and threats against election workers who faced harassment after 2020, ensures election results are certified based on facts rather than politics, establishes clear audit standards to prevent illegitimate challenges, and provides necessary security measures and training for election officials facing increased threats. They contend these protections strengthen election integrity while preserving legitimate observer access.",
+  "aiConArguments": "Opponents may argue the bill's vague definitions of intimidation and coercion could chill legitimate political speech or election observation, that automatic resignation for refusing certification without \"substantial evidence\" may be too broad and subject to interpretation, that restricting third-party audits limits scrutiny of election processes, and that the $2.25 million threat monitoring program raises privacy concerns. Some may also question whether these provisions address root causes of election distrust.",
+  "topic": "Elections & Voting",
+  "textLength": 28871,
+  "createdAt": "2026-06-23T03:07:25.125Z",
+  "sponsors": [
+    {"peopleId":17936,"name":"Jay Chaudhuri","party":"D","isPrimary":true},
+    {"peopleId":21633,"name":"Natalie Murdock","party":"D","isPrimary":true},
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":true},
+    {"peopleId":24220,"name":"Val Applewhite","party":"D","isPrimary":false},
+    {"peopleId":20220,"name":"Michael Garrett","party":"D","isPrimary":false},
+    {"peopleId":24222,"name":"Lisa Grafstein","party":"D","isPrimary":false},
+    {"peopleId":20223,"name":"Mujtaba Mohammed","party":"D","isPrimary":false},
+    {"peopleId":12032,"name":"Gladys Robinson","party":"D","isPrimary":false},
+    {"peopleId":22426,"name":"DeAndrea Salvador","party":"D","isPrimary":false},
+    {"peopleId":25859,"name":"Caleb Theodros","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

@@ -1,0 +1,26 @@
+{
+  "billId": 2146904,
+  "billNumber": "S960",
+  "title": "Modernized Children with Disabilities Funding",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "87685c883c985d997b78e581b2b582db",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2026-05-04",
+  "url": "https://legiscan.com/NC/bill/S960/2025",
+  "aiSummary": "This bill raises the state funding cap for special education services from 13% to 16% of each school district's student population and creates a new High-Cost Disabilities Support Fund to help districts pay for expensive specialized services for students with complex needs. The bill appropriates $82.8 million for general special education funding and $15 million for the high-cost fund, beginning in the 2026-2027 school year.",
+  "aiProArguments": "Supporters argue that many North Carolina districts now serve more than 13% of students with disabilities, forcing them to take money away from regular classrooms to meet federal special education requirements. This bill would align state funding with actual enrollment, reducing budget strain on districts. The high-cost fund would also help smaller districts and those serving students with expensive needs like severe autism or multiple disabilities from being financially overwhelmed.",
+  "aiConArguments": "Opponents may argue that the $97.8 million total appropriation adds significant recurring costs to the state budget without identifying specific funding sources, potentially requiring cuts elsewhere or tax increases. Some may question whether raising the cap to 16% will be sufficient if disability identification continues to grow, or whether the high-cost fund criteria will be fairly applied across all districts and schools.",
+  "topic": "Education",
+  "textLength": 4132,
+  "createdAt": "2026-06-23T03:12:12.898Z",
+  "sponsors": [
+    {"peopleId":24222,"name":"Lisa Grafstein","party":"D","isPrimary":true},
+    {"peopleId":25858,"name":"Sophia Chitlik","party":"D","isPrimary":false},
+    {"peopleId":26664,"name":"Jonah Garson","party":"D","isPrimary":false},
+    {"peopleId":21633,"name":"Natalie Murdock","party":"D","isPrimary":false},
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":false},
+    {"peopleId":25859,"name":"Caleb Theodros","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

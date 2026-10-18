@@ -1,0 +1,30 @@
+{
+  "billId": 2022909,
+  "billNumber": "H955",
+  "title": "NC Junk Fee Prevention Act",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "12b9cb72cb389cd18a4decc7414bebd7",
+  "lastAction": "Ref To Com On Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-04-14",
+  "url": "https://legiscan.com/NC/bill/H955/2025",
+  "aiSummary": "This bill requires businesses in North Carolina to display the full total price of goods and services upfront in advertisements, including all mandatory fees that cannot be avoided. It applies to short-term lodging providers, telecommunications services, ticket sellers, and entertainment venues, and allows the Attorney General to enforce the law with civil penalties up to $5,000 per violation.",
+  "aiProArguments": "Supporters argue this bill protects consumers from deceptive pricing practices where hidden fees are added at checkout, increasing the final cost unexpectedly. They contend that transparent, all-inclusive pricing allows shoppers to make informed decisions and compare prices fairly across businesses, particularly benefiting consumers booking hotels, buying event tickets, and purchasing telecommunications services.",
+  "aiConArguments": "Opponents may argue the bill creates compliance burdens and costs for businesses, especially smaller companies, to restructure their pricing systems and advertising platforms. They may also contend that the undefined terms like \"excessive\" and \"deceptive\" fees give the Attorney General broad discretionary power, creating uncertainty about what fees are permissible and potentially discouraging legitimate service providers from operating in North Carolina.",
+  "topic": "Business & Labor",
+  "textLength": 9809,
+  "createdAt": "2026-06-23T02:59:43.902Z",
+  "sponsors": [
+    {"peopleId":24210,"name":"Tim Longest","party":"D","isPrimary":true},
+    {"peopleId":18451,"name":"Mary Belk","party":"D","isPrimary":false},
+    {"peopleId":24200,"name":"Laura Budd","party":"D","isPrimary":false},
+    {"peopleId":24202,"name":"Maria Cervania","party":"D","isPrimary":false},
+    {"peopleId":2077,"name":"Mary Harrison","party":"D","isPrimary":false},
+    {"peopleId":20521,"name":"Carolyn Logan","party":"D","isPrimary":false},
+    {"peopleId":19360,"name":"Marcia Morey","party":"D","isPrimary":false},
+    {"peopleId":24213,"name":"Lindsey Prather","party":"D","isPrimary":false},
+    {"peopleId":16252,"name":"Robert Reives","party":"D","isPrimary":false},
+    {"peopleId":26396,"name":"Phil Rubin","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

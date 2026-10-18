@@ -1,0 +1,26 @@
+{
+  "billId": 2144978,
+  "billNumber": "S826",
+  "title": "Posting of State Costs",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "73fe46ad0d2ed4151c46219462afbbfa",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2026-04-23",
+  "url": "https://legiscan.com/NC/bill/S826/2025",
+  "aiSummary": "This bill requires state government entities—including state departments, UNC, the court system, and the General Assembly—to publicly report all their expenditures of $1 or more each month on their websites. The bill provides $300,000 in funding to help agencies implement these reporting requirements, with the new transparency system beginning in October 2026.",
+  "aiProArguments": "Supporters argue this bill increases government accountability and allows taxpayers to see exactly how their tax dollars are being spent. By making detailed expenditure data easily accessible online, citizens can better understand state spending priorities and hold agencies accountable for wasteful or questionable purchases. Proponents contend that fiscal transparency strengthens democratic oversight and may help identify inefficiencies or cost-saving opportunities.",
+  "aiConArguments": "Opponents may worry about the administrative burden and costs of compiling and publishing detailed monthly expenditure reports for every single dollar spent across all state agencies, though the bill provides funding to offset implementation costs. Some raise concerns that posting granular spending data could create privacy or security risks if reports inadvertently reveal sensitive information about individuals or facilities, though the bill includes exemptions for legally protected records. Critics might also question whether reporting every $1+ transaction provides useful information compared to aggregate budget data already available through other channels.",
+  "topic": "Taxes & Budget",
+  "textLength": 4379,
+  "createdAt": "2026-06-23T03:11:02.465Z",
+  "sponsors": [
+    {"peopleId":20216,"name":"Jim Burgin","party":"R","isPrimary":true},
+    {"peopleId":17147,"name":"Gale Adcock","party":"D","isPrimary":false},
+    {"peopleId":24222,"name":"Lisa Grafstein","party":"D","isPrimary":false},
+    {"peopleId":25250,"name":"Dana Jones","party":"R","isPrimary":false},
+    {"peopleId":20223,"name":"Mujtaba Mohammed","party":"D","isPrimary":false},
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

@@ -1,0 +1,26 @@
+{
+  "billId": 2013105,
+  "billNumber": "S386",
+  "title": "Whiz Kids/Slow Pokes Voter Registration",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "44d87935b8ef4a3eeb44b1a6ac82ada6",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-25",
+  "url": "https://legiscan.com/NC/bill/S386/2025",
+  "aiSummary": "This bill makes two main changes to North Carolina voting law: it allows eligible voters to register and vote on election day (or during early voting) by providing photo ID and proof of residence, and it establishes a preregistration program for 16- and 17-year-olds who will be eligible to vote by the next election.",
+  "aiProArguments": "Supporters argue that same-day registration removes barriers that prevent eligible citizens from voting due to missed deadlines or life circumstances, and that allowing younger citizens to preregister encourages civic engagement among teenagers and ensures they can vote once they turn 18. Proponents say these measures expand voting access and participation in democracy.",
+  "aiConArguments": "Opponents worry that same-day registration creates administrative challenges for election officials to verify voter eligibility quickly and accurately, and may increase the risk of processing errors or fraudulent registrations. Critics also raise concerns about whether 16-year-olds have sufficient maturity for preregistration and question whether election officials have adequate time to verify all same-day registrations before ballots are counted.",
+  "topic": "Elections & Voting",
+  "textLength": 20442,
+  "createdAt": "2026-06-23T03:07:22.084Z",
+  "sponsors": [
+    {"peopleId":16251,"name":"Graig Meyer","party":"D","isPrimary":true},
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":true},
+    {"peopleId":25858,"name":"Sophia Chitlik","party":"D","isPrimary":false},
+    {"peopleId":24222,"name":"Lisa Grafstein","party":"D","isPrimary":false},
+    {"peopleId":21633,"name":"Natalie Murdock","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

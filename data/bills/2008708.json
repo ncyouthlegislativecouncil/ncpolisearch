@@ -1,0 +1,21 @@
+{
+  "billId": 2008708,
+  "billNumber": "S306",
+  "title": "WC/Self-Insurance Association Amendments",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "3c261ebfe89641cc53084ac1dc8aeb15",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-18",
+  "url": "https://legiscan.com/NC/bill/S306/2025",
+  "aiSummary": "This bill amends North Carolina's self-insurance laws to clarify definitions and rules for the Self-Insurance Security Association, which protects workers' compensation claims when self-insured employers become insolvent. Key changes include establishing a five-year deadline for filing claims against the Association, defining the Association Aggregate Security System that allows individual self-insurers to collectively secure their liabilities, and allowing the Association to require collateral from participating self-insurers based on their financial condition.",
+  "aiProArguments": "Supporters argue this bill provides needed clarity and protection for workers' compensation claimants by establishing clear timelines and financial safeguards. By requiring collateral from weaker financial participants and creating a defined claims deadline, the bill helps ensure the Association has sufficient resources to pay legitimate claims while preventing indefinite liability exposure. The collateral requirement protects the system's stability and ensures only financially viable self-insurers participate.",
+  "aiConArguments": "Opponents may be concerned that the five-year statute of repose could bar legitimate claims from workers injured by insolvent employers if claims are discovered after that deadline. The collateral requirements and ability to exclude self-insurers based on financial ratings might reduce access for smaller employers or those with less-established credit histories. Some may argue these provisions shift more financial burden onto participating self-insurers through assessments to cover the Association's costs.",
+  "topic": "Business & Labor",
+  "textLength": 14360,
+  "createdAt": "2026-06-23T03:06:35.345Z",
+  "sponsors": [
+    {"peopleId":20222,"name":"Todd Johnson","party":"R","isPrimary":true}
+  ],
+  "rollCalls": []
+}

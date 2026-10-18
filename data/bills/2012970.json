@@ -1,0 +1,26 @@
+{
+  "billId": 2012970,
+  "billNumber": "S430",
+  "title": "Revise Child Passenger Restraint System Law",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "9f636abfd84a7b16610c16556d172cdc",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-25",
+  "url": "https://legiscan.com/NC/bill/S430/2025",
+  "aiSummary": "This bill revises North Carolina's child passenger restraint law to require children under 8 years old and under 57 inches tall to use appropriate car seats based on their height and weight, following manufacturer instructions. It specifies that children should start in rear-facing seats as newborns and transition to forward-facing seats according to the car seat's requirements, with rear-seat placement required except in specific circumstances like vehicles without rear seats or without front airbags.",
+  "aiProArguments": "Supporters argue this bill aligns North Carolina law with current pediatric safety research showing that rear-facing car seats and height/weight-appropriate restraints significantly reduce injuries and fatalities in child passengers. The bill allows for exceptions in practical situations (vehicles without rear seats) while prioritizing evidence-based safety standards, and supporters contend clearer guidelines help parents and drivers properly protect children.",
+  "aiConArguments": "Opponents may argue the bill places additional compliance burdens on drivers and families, potentially increasing costs associated with purchasing appropriate car seats for different stages of child development. Some may contend that the detailed requirements and exceptions create complexity in enforcement and could disproportionately affect lower-income families, and they may question whether the specific height and weight thresholds reflect the most practical approach to child safety.",
+  "topic": "Criminal Justice & Public Safety",
+  "textLength": 3855,
+  "createdAt": "2026-06-23T03:07:43.965Z",
+  "sponsors": [
+    {"peopleId":17147,"name":"Gale Adcock","party":"D","isPrimary":true},
+    {"peopleId":11853,"name":"Mark Hollo","party":"R","isPrimary":true},
+    {"peopleId":25212,"name":"Bob Brinson","party":"R","isPrimary":true},
+    {"peopleId":20216,"name":"Jim Burgin","party":"R","isPrimary":false},
+    {"peopleId":24222,"name":"Lisa Grafstein","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

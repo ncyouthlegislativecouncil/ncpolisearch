@@ -1,0 +1,21 @@
+{
+  "billId": 1986696,
+  "billNumber": "S206",
+  "title": "Pinetops Charter Revised & Consolidated",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "232082830f697998f58a8fc0ae7bef78",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-03",
+  "url": "https://legiscan.com/NC/bill/S206/2025",
+  "aiSummary": "This bill revises and consolidates the Town of Pinetops' charter by updating its governing structure, powers, and procedures into a single, modern document. The town will continue operating under a mayor-council form of government with a five-member board elected at-large on staggered four-year terms, and repeals an outdated 1921 charter.",
+  "aiProArguments": "Supporters argue that consolidating an outdated 1921 charter into current law provides clarity and efficiency for town governance. A revised charter modernizes procedures for meetings, elections, and administration while preserving existing rights and ordinances, making it easier for town officials and residents to understand how their local government operates.",
+  "aiConArguments": "Opponents might express concern that charter revisions could inadvertently alter existing protections or practices, though this bill specifically states it preserves rights under prior acts. Some may question whether consolidating multiple older laws eliminates important historical provisions or whether the at-large election system adequately represents all town residents compared to district-based elections.",
+  "topic": "Local Government",
+  "textLength": 16051,
+  "createdAt": "2026-06-23T03:05:47.730Z",
+  "sponsors": [
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":true}
+  ],
+  "rollCalls": []
+}

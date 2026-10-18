@@ -1,0 +1,28 @@
+{
+  "billId": 2014231,
+  "billNumber": "S596",
+  "title": "Critical Campus Funding Repairs",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "9453323231eeea37652e1ec10d5b78be",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2025-03-26",
+  "url": "https://legiscan.com/NC/bill/S596/2025",
+  "aiSummary": "This bill appropriates $169 million in state funding to North Carolina Central University for critical campus infrastructure repairs, including HVAC and fire safety systems ($100 million), roof and building envelope repairs ($9 million), and electrical and water infrastructure replacement ($60 million). The funds come from the State Capital and Infrastructure Fund and are designated as nonrecurring appropriations for fiscal year 2025-2026.",
+  "aiProArguments": "Supporters argue that North Carolina Central University's aging infrastructure poses safety risks to students and staff, particularly regarding fire safety and building code compliance. Proponents contend that this investment addresses decades of deferred maintenance, prevents more costly future repairs, improves energy efficiency to reduce long-term operational costs, and ensures the university can continue serving its student population effectively.",
+  "aiConArguments": "Opponents may question whether $169 million is the appropriate amount or the best use of state capital funds, especially if other universities or state needs have competing priorities. Critics might argue that the state should examine how NCCU's infrastructure reached this condition and whether accountability measures or long-term maintenance planning should accompany the funding to prevent similar problems in the future.",
+  "topic": "Taxes & Budget",
+  "textLength": 1784,
+  "createdAt": "2026-06-23T03:09:11.947Z",
+  "sponsors": [
+    {"peopleId":2033,"name":"Daniel Blue","party":"D","isPrimary":true},
+    {"peopleId":17504,"name":"Michael Lee","party":"R","isPrimary":true},
+    {"peopleId":12032,"name":"Gladys Robinson","party":"D","isPrimary":true},
+    {"peopleId":25858,"name":"Sophia Chitlik","party":"D","isPrimary":false},
+    {"peopleId":20223,"name":"Mujtaba Mohammed","party":"D","isPrimary":false},
+    {"peopleId":21633,"name":"Natalie Murdock","party":"D","isPrimary":false},
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

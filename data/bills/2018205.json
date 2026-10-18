@@ -1,0 +1,21 @@
+{
+  "billId": 2018205,
+  "billNumber": "H656",
+  "title": "Split Distr Ct/Defender Distr 43 into 43A/43B",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "a86c5c42fdb4837baa0b5ee74b8e726c",
+  "lastAction": "Ref to the Com on Judiciary 1, if favorable, Appropriations, if favorable, Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-04-02",
+  "url": "https://legiscan.com/NC/bill/H656/2025",
+  "aiSummary": "This bill splits District Court District 43 and Public Defender District 43 into two separate districts (43A and 43B), with 43A covering Cherokee, Clay, Graham, Macon, and Swain counties, and 43B covering Haywood and Jackson counties. The bill appropriates approximately $1 million to fund one new district court judge, one judicial assistant, one chief public defender, and three assistant public defenders for the new District 43B starting in 2026-2027.",
+  "aiProArguments": "Supporters argue that this split addresses growing caseloads and population needs in Haywood and Jackson counties by creating dedicated judicial and public defender resources. By establishing District 43B with its own judge and defender staff, the bill would reduce court delays, improve access to justice for residents in those counties, and ensure adequate legal representation for indigent defendants in an underserved region.",
+  "aiConArguments": "Opponents may argue that the bill creates significant new state spending ($1 million+ annually) during a time of budget constraints, and question whether population growth in Haywood and Jackson counties justifies splitting the district rather than other efficiency measures. They may also contend that consolidating districts could reduce overhead costs and that existing resources could be better managed without creating new judicial positions.",
+  "topic": "Local Government",
+  "textLength": 4511,
+  "createdAt": "2026-06-23T02:56:00.648Z",
+  "sponsors": [
+    {"peopleId":18453,"name":"Mike Clampitt","party":"R","isPrimary":true}
+  ],
+  "rollCalls": []
+}

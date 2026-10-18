@@ -1,0 +1,27 @@
+{
+  "billId": 2013791,
+  "billNumber": "S525",
+  "title": "Living Wage Guarantee Act",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "36f63d1889806dcb0984cfb8b46d3cd4",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-26",
+  "url": "https://legiscan.com/NC/bill/S525/2025",
+  "aiSummary": "This bill raises North Carolina's minimum wage from $7.25 to $15 per hour for most employers starting January 1, 2026, with small businesses (fewer than 10 employees) phasing in the increase over three years. Beginning in 2028, the minimum wage will automatically adjust annually based on inflation using the Consumer Price Index.",
+  "aiProArguments": "Supporters argue that the current $7.25 minimum wage has not changed since 2009 and no longer reflects the cost of living, leaving workers in poverty. They contend that raising wages to $15 per hour will increase consumer spending, reduce poverty, and boost the state's economy while ensuring workers can afford basic needs. The bill also provides $10 million in state assistance to help small businesses transition to the higher wage requirements.",
+  "aiConArguments": "Opponents worry that significantly raising the minimum wage could force small businesses to reduce hours, eliminate jobs, or close entirely, particularly in rural areas where $15 may represent a larger cost increase. They argue that automatic inflation adjustments remove legislative oversight and could make wages less competitive with neighboring states, potentially driving businesses and jobs away from North Carolina. Some also contend that the federal minimum wage should set the standard rather than individual states acting independently.",
+  "topic": "Business & Labor",
+  "textLength": 5061,
+  "createdAt": "2026-06-23T03:08:35.981Z",
+  "sponsors": [
+    {"peopleId":25859,"name":"Caleb Theodros","party":"D","isPrimary":true},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":true},
+    {"peopleId":24220,"name":"Val Applewhite","party":"D","isPrimary":true},
+    {"peopleId":22425,"name":"Julie Mayfield","party":"D","isPrimary":false},
+    {"peopleId":21633,"name":"Natalie Murdock","party":"D","isPrimary":false},
+    {"peopleId":12032,"name":"Gladys Robinson","party":"D","isPrimary":false},
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

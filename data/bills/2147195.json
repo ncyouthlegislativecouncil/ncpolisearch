@@ -1,0 +1,31 @@
+{
+  "billId": 2147195,
+  "billNumber": "H1207",
+  "title": "Keeping NC Open for Business",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "38a9db43195b5b546e53871a19f3bc90",
+  "lastAction": "Ref to the Com on Appropriations, if favorable, Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2026-05-05",
+  "url": "https://legiscan.com/NC/bill/H1207/2025",
+  "aiSummary": "This bill creates a Municipal Winter Road Operations Cost Share Program that reimburses North Carolina municipalities for up to 75% of costs related to snow and ice removal, including equipment purchases, staffing, and contracted services. The state would provide $10 million annually plus $20 million upfront for equipment, with municipalities required to contract with private snow-removal providers and maintain GPS tracking and public plowing maps.",
+  "aiProArguments": "Supporters argue that winter weather events can cost the state economy an estimated $500 million or more per day in lost economic activity when roads are not cleared promptly. By helping municipalities invest in snow removal equipment and services, the bill aims to reduce business closures, maintain emergency access, and speed economic recovery after winter storms. Proponents contend that the state's investment in winter preparedness will pay for itself through reduced economic disruption.",
+  "aiConArguments": "Opponents may question whether $30 million in annual and upfront funding is sufficient for statewide coverage, and whether the 75% reimbursement rate adequately incentivizes municipal participation. Concerns could include the requirement that municipalities contract with private providers (potentially increasing costs), the administrative burden of meeting reporting and technology requirements, and whether the program fairly distributes resources across municipalities of different sizes and winter weather vulnerability.",
+  "topic": "Transportation & Infrastructure",
+  "textLength": 7058,
+  "createdAt": "2026-06-23T03:03:28.625Z",
+  "sponsors": [
+    {"peopleId":18449,"name":"Cynthia Ball","party":"D","isPrimary":true},
+    {"peopleId":24200,"name":"Laura Budd","party":"D","isPrimary":true},
+    {"peopleId":24890,"name":"Eric Ager","party":"D","isPrimary":false},
+    {"peopleId":24202,"name":"Maria Cervania","party":"D","isPrimary":false},
+    {"peopleId":25844,"name":"Julia Greenfield","party":"D","isPrimary":false},
+    {"peopleId":2077,"name":"Mary Harrison","party":"D","isPrimary":false},
+    {"peopleId":20521,"name":"Carolyn Logan","party":"D","isPrimary":false},
+    {"peopleId":24213,"name":"Lindsey Prather","party":"D","isPrimary":false},
+    {"peopleId":16252,"name":"Robert Reives","party":"D","isPrimary":false},
+    {"peopleId":22606,"name":"James Roberson","party":"D","isPrimary":false},
+    {"peopleId":26396,"name":"Phil Rubin","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

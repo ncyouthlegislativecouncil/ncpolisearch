@@ -1,0 +1,31 @@
+{
+  "billId": 2013856,
+  "billNumber": "S553",
+  "title": "Save More Tatas Act",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "1f254411acd73b019a4e830e95d5108f",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-26",
+  "url": "https://legiscan.com/NC/bill/S553/2025",
+  "aiSummary": "This bill expands breast cancer screening coverage requirements for health insurance plans in North Carolina by requiring equal cost-sharing for diagnostic and supplemental breast exams compared to screening mammograms, updates patient notification rules about breast density, and appropriates $3.6 million for the state health plan and $1.5 million for training mammography technologists in rural areas.",
+  "aiProArguments": "Supporters argue this bill improves access to breast cancer detection for women with dense breast tissue and high risk factors by removing financial barriers to diagnostic imaging. The funding for rural mammography technologists addresses healthcare disparities by bringing screening services to underserved communities. Clearer breast density notifications help patients make informed decisions about supplemental screening with their doctors.",
+  "aiConArguments": "Opponents may argue the bill increases healthcare costs for insurers and employers, which could lead to higher premiums for consumers. Some may question whether the state appropriations of $3.6-5 million annually are the most efficient use of public funds compared to other health priorities. There could be concerns about whether the bill's requirements align with current medical guidelines or if they go beyond evidence-based screening recommendations.",
+  "topic": "Healthcare",
+  "textLength": 10802,
+  "createdAt": "2026-06-23T03:08:49.862Z",
+  "sponsors": [
+    {"peopleId":20505,"name":"Sydney Batch","party":"D","isPrimary":true},
+    {"peopleId":22425,"name":"Julie Mayfield","party":"D","isPrimary":true},
+    {"peopleId":24220,"name":"Val Applewhite","party":"D","isPrimary":true},
+    {"peopleId":25860,"name":"Woodson Bradley","party":"D","isPrimary":false},
+    {"peopleId":25858,"name":"Sophia Chitlik","party":"D","isPrimary":false},
+    {"peopleId":24222,"name":"Lisa Grafstein","party":"D","isPrimary":false},
+    {"peopleId":20223,"name":"Mujtaba Mohammed","party":"D","isPrimary":false},
+    {"peopleId":21633,"name":"Natalie Murdock","party":"D","isPrimary":false},
+    {"peopleId":22426,"name":"DeAndrea Salvador","party":"D","isPrimary":false},
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

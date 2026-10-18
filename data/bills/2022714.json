@@ -1,0 +1,28 @@
+{
+  "billId": 2022714,
+  "billNumber": "H979",
+  "title": "Update Volunteer System/LTC Ombudsman Program",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "f2135e43cceaa12373113b5ee7229f89",
+  "lastAction": "Ref To Com On Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-04-14",
+  "url": "https://legiscan.com/NC/bill/H979/2025",
+  "aiSummary": "This bill restructures the system of volunteers who advocate for residents' rights in North Carolina nursing homes and adult care homes. It changes community advisory committees into a volunteer ombudsman representative system under direct oversight of the State Long-Term Care Ombudsman office, with clearer accountability, training requirements, and designation procedures.",
+  "aiProArguments": "Supporters argue this bill strengthens resident protections by creating clearer lines of accountability through the State Ombudsman office rather than county committees, ensures volunteers receive consistent training and certification, and gives the Ombudsman authority to remove volunteers who don't meet standards. This structure aligns North Carolina with federal requirements and may improve consistency in how facilities are monitored across counties.",
+  "aiConArguments": "Opponents may contend the bill reduces local control by shifting power from county commissioners to the state Ombudsman office, potentially making the system less responsive to community input. They might argue that centralizing volunteer recruitment and designation could reduce community participation and that the increased state oversight adds bureaucratic complexity to what has been a locally-managed volunteer program.",
+  "topic": "Healthcare",
+  "textLength": 36733,
+  "createdAt": "2026-06-23T02:59:59.845Z",
+  "sponsors": [
+    {"peopleId":18449,"name":"Cynthia Ball","party":"D","isPrimary":true},
+    {"peopleId":25846,"name":"Mike Colvin","party":"D","isPrimary":true},
+    {"peopleId":25844,"name":"Julia Greenfield","party":"D","isPrimary":true},
+    {"peopleId":24198,"name":"Gloristine Brown","party":"D","isPrimary":true},
+    {"peopleId":18451,"name":"Mary Belk","party":"D","isPrimary":false},
+    {"peopleId":19238,"name":"Deb Butler","party":"D","isPrimary":false},
+    {"peopleId":2077,"name":"Mary Harrison","party":"D","isPrimary":false},
+    {"peopleId":24206,"name":"Frances Jackson","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

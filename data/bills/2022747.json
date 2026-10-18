@@ -1,0 +1,30 @@
+{
+  "billId": 2022747,
+  "billNumber": "H978",
+  "title": "Est. Youth Mentoring Comm./Mentoring Funds",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "39e5b7b4adc80aae4346a748ad2daf92",
+  "lastAction": "Ref to the Com on Appropriations, if favorable, Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-04-14",
+  "url": "https://legiscan.com/NC/bill/H978/2025",
+  "aiSummary": "This bill creates the North Carolina Commission on Youth Mentoring within the Department of Health and Human Services and provides $1.5 million per year for grants to youth mentoring nonprofits. The 15-member commission will establish grant programs, manage applications, and report annually on how funds are distributed and their social impact.",
+  "aiProArguments": "Supporters argue this bill addresses youth development needs by providing dedicated funding and structure to strengthen community mentoring programs. They contend that mentoring helps young people achieve long-term goals, reduces risky behaviors, and builds stronger connections between youth, parents, and adults in their communities. The diverse commission membership—including youth participants, educators, businesses, and nonprofits—ensures programs reflect actual community needs.",
+  "aiConArguments": "Opponents may question whether creating a new state commission is necessary when existing youth development programs could receive similar funding more efficiently. They might also express concern about $1.5 million in recurring annual spending during tight budget times, or worry that the commission structure adds bureaucratic overhead rather than directing resources directly to mentoring organizations. Some may question whether outcome measures for measuring 'social impact' are clearly defined.",
+  "topic": "Social Services & Welfare",
+  "textLength": 5894,
+  "createdAt": "2026-06-23T02:59:59.456Z",
+  "sponsors": [
+    {"peopleId":20515,"name":"Zack Forde-Hawkins","party":"D","isPrimary":true},
+    {"peopleId":22609,"name":"David Willis","party":"R","isPrimary":true},
+    {"peopleId":25846,"name":"Mike Colvin","party":"D","isPrimary":true},
+    {"peopleId":24202,"name":"Maria Cervania","party":"D","isPrimary":false},
+    {"peopleId":2077,"name":"Mary Harrison","party":"D","isPrimary":false},
+    {"peopleId":24206,"name":"Frances Jackson","party":"D","isPrimary":false},
+    {"peopleId":19360,"name":"Marcia Morey","party":"D","isPrimary":false},
+    {"peopleId":2115,"name":"Garland Pierce","party":"D","isPrimary":false},
+    {"peopleId":25853,"name":"Rodney Pierce","party":"D","isPrimary":false},
+    {"peopleId":24213,"name":"Lindsey Prather","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

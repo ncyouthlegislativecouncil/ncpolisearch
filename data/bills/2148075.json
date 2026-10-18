@@ -1,0 +1,21 @@
+{
+  "billId": 2148075,
+  "billNumber": "H1221",
+  "title": "4-Yr Terms/Town of Everetts",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "c4a99c3ce21a5e01245a7b012bd344f9",
+  "lastAction": "Ref to the Com on Election Law, if favorable, Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2026-05-06",
+  "url": "https://legiscan.com/NC/bill/H1221/2025",
+  "aiSummary": "This bill changes the Town of Everetts' municipal election cycle from its current schedule to elections held every four years, with the mayor and three board commissioners all serving four-year terms. The change takes effect beginning in 2027.",
+  "aiProArguments": "Supporters argue that four-year terms provide municipal officials more time to implement long-term projects and policies without the constant pressure of frequent re-election campaigns. Longer terms may also reduce campaign costs and allow town leaders to focus on governance rather than campaigning, while four-year election cycles could reduce the frequency and expense of holding municipal elections.",
+  "aiConArguments": "Opponents may argue that four-year terms reduce how often voters can hold elected officials accountable, as constituents must wait longer between elections to express dissatisfaction. Critics could also contend that shorter election cycles ensure more frequent responsiveness to community needs and concerns, and that less frequent elections might decrease voter engagement in local government.",
+  "topic": "Local Government",
+  "textLength": 1572,
+  "createdAt": "2026-06-23T03:03:38.053Z",
+  "sponsors": [
+    {"peopleId":17158,"name":"Shelly Willingham","party":"D","isPrimary":true}
+  ],
+  "rollCalls": []
+}

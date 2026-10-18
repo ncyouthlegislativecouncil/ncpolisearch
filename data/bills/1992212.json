@@ -1,0 +1,29 @@
+{
+  "billId": 1992212,
+  "billNumber": "H306",
+  "title": "Affordable Housing for Local Employees",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "2350d6cf8a06bbfd704d97177be0bede",
+  "lastAction": "Re-ref Com On Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-05-06",
+  "url": "https://legiscan.com/NC/bill/H306/2025",
+  "aiSummary": "This bill authorizes the towns of Blowing Rock and Boone and the counties of Dare, Durham, and Watauga to build and operate affordable housing specifically for their employees. The local governments can construct these units on their own property, partner with other organizations, or contract with private entities, and they can rent or sell units to employees at below-market rates with restrictions on resale.",
+  "aiProArguments": "Supporters argue this bill helps address workforce retention and recruitment challenges in these areas by making housing more affordable for essential local employees like teachers, police officers, and county workers. They contend that government-assisted housing allows these communities to compete for talented workers who might otherwise move to areas with lower housing costs, and that this targeted approach helps stabilize local workforces without broad tax increases.",
+  "aiConArguments": "Opponents may argue that using government resources and property for employee housing raises fairness questions about why only certain workers receive this benefit, and that it diverts public resources that could be used for other community needs. Some may also be concerned about potential inefficiencies in government-run housing programs or questions about whether this is the best use of public property and tax dollars compared to other affordable housing solutions.",
+  "topic": "Housing",
+  "textLength": 2283,
+  "createdAt": "2026-06-23T02:47:57.966Z",
+  "sponsors": [
+    {"peopleId":22616,"name":"Ray Pickett","party":"R","isPrimary":true},
+    {"peopleId":21631,"name":"Vernetta Alston","party":"D","isPrimary":false},
+    {"peopleId":22600,"name":"Terry Brown","party":"D","isPrimary":false},
+    {"peopleId":20515,"name":"Zack Forde-Hawkins","party":"D","isPrimary":false},
+    {"peopleId":24206,"name":"Frances Jackson","party":"D","isPrimary":false},
+    {"peopleId":24208,"name":"Ray Jeffers","party":"D","isPrimary":false},
+    {"peopleId":20522,"name":"Nasif Majeed","party":"D","isPrimary":false},
+    {"peopleId":22612,"name":"Charles Miller","party":"R","isPrimary":false},
+    {"peopleId":24213,"name":"Lindsey Prather","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

@@ -1,0 +1,21 @@
+{
+  "billId": 1982718,
+  "billNumber": "S163",
+  "title": "SchCalFlex/Chatham/Aug 10 & Assmnts",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "f7dadd5afcc9b4df540cf6baa16d3678",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-02-26",
+  "url": "https://legiscan.com/NC/bill/S163/2025",
+  "aiSummary": "This bill gives Chatham County Schools flexibility in setting their school calendar by allowing them to start the school year as early as August 10 instead of the standard August 26, and allows them to give assessments earlier if they conclude their fall semester before December 31. The bill applies only to Chatham County Schools starting in the 2025-2026 school year.",
+  "aiProArguments": "Supporters argue this gives Chatham County Schools needed flexibility to accommodate local circumstances and weather patterns. They contend that allowing an earlier start date and modified assessment timing helps schools better manage instructional days and makeup days for weather closings, potentially improving student learning outcomes. This local control approach allows the district to tailor its calendar to its specific needs without seeking state waivers.",
+  "aiConArguments": "Opponents may argue that earlier start dates disrupt summer schedules for families, tourism, and local economies that depend on late summer activity. They may also contend that allowing assessments before the end of the fall semester could create inequitable testing conditions or disadvantage students who need the full semester to prepare, and that having different rules for different counties creates inconsistency across the state.",
+  "topic": "Education",
+  "textLength": 3333,
+  "createdAt": "2026-06-23T03:05:27.959Z",
+  "sponsors": [
+    {"peopleId":21633,"name":"Natalie Murdock","party":"D","isPrimary":true}
+  ],
+  "rollCalls": []
+}

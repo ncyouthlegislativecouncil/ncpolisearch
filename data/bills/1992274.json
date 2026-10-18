@@ -1,0 +1,21 @@
+{
+  "billId": 1992274,
+  "billNumber": "S236",
+  "title": "Funds for Edgecombe CC",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "de80477dab8764c809f610962620e6e4",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2025-03-06",
+  "url": "https://legiscan.com/NC/bill/S236/2025",
+  "aiSummary": "This bill appropriates $1 million in one-time state funding to Edgecombe Community College to help construct a new Industrial Technology and Skilled Trades Facility. The funding comes from the state's General Fund and is intended to support workforce development in the region.",
+  "aiProArguments": "Supporters argue this investment addresses workforce shortages by expanding training capacity in skilled trades and industrial technology fields, which are in-demand jobs in North Carolina. The facility would help Edgecombe Community College better serve its region's employers and students seeking career pathways that don't require four-year degrees.",
+  "aiConArguments": "Opponents may question whether $1 million is sufficient for a full construction project, whether this funding could be better used for other state priorities, or whether the college should seek alternative funding sources. Some may also note that this is a one-time appropriation that doesn't provide ongoing operational support for the facility.",
+  "topic": "Taxes & Budget",
+  "textLength": 922,
+  "createdAt": "2026-06-23T03:06:01.724Z",
+  "sponsors": [
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":true}
+  ],
+  "rollCalls": []
+}

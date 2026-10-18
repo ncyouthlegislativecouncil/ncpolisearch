@@ -1,0 +1,33 @@
+{
+  "billId": 2146878,
+  "billNumber": "H1152",
+  "title": "Protection of Constitutional Rights",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "d2e3ab695ffaa8cd74fd3cf18b1ecec9",
+  "lastAction": "Ref To Com On Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2026-05-04",
+  "url": "https://legiscan.com/NC/bill/H1152/2025",
+  "aiSummary": "This bill allows people injured during civil immigration enforcement to sue individuals who violate the U.S. or North Carolina Constitution during that enforcement, and removes various legal immunities that might otherwise protect defendants. It also funds a $50,000 educational pamphlet about rights during immigration enforcement encounters.",
+  "aiProArguments": "Supporters argue this bill protects constitutional rights by creating accountability when law enforcement or others violate constitutional protections during immigration enforcement. They contend that removing immunity barriers ensures injured people have access to courts and remedies, and that the educational pamphlet helps immigrants and citizens understand their legal rights during enforcement interactions.",
+  "aiConArguments": "Opponents argue that removing various immunities could expose law enforcement and government officials to excessive litigation and financial liability, potentially deterring immigration enforcement activities. They contend that qualified immunity and other legal protections exist to allow officials to perform their duties without constant fear of lawsuits, and that this bill could create frivolous claims and burden the court system.",
+  "topic": "Criminal Justice & Public Safety",
+  "textLength": 3240,
+  "createdAt": "2026-06-23T03:02:36.896Z",
+  "sponsors": [
+    {"peopleId":19238,"name":"Deb Butler","party":"D","isPrimary":true},
+    {"peopleId":2077,"name":"Mary Harrison","party":"D","isPrimary":true},
+    {"peopleId":19360,"name":"Marcia Morey","party":"D","isPrimary":true},
+    {"peopleId":26662,"name":"Amanda Cook","party":"D","isPrimary":true},
+    {"peopleId":18451,"name":"Mary Belk","party":"D","isPrimary":false},
+    {"peopleId":24199,"name":"Kanika Brown","party":"D","isPrimary":false},
+    {"peopleId":24202,"name":"Maria Cervania","party":"D","isPrimary":false},
+    {"peopleId":25213,"name":"Tracy Clark","party":"D","isPrimary":false},
+    {"peopleId":25842,"name":"Bryan Cohn","party":"D","isPrimary":false},
+    {"peopleId":20509,"name":"Allison Dahle","party":"D","isPrimary":false},
+    {"peopleId":25844,"name":"Julia Greenfield","party":"D","isPrimary":false},
+    {"peopleId":24214,"name":"Renee Price","party":"D","isPrimary":false},
+    {"peopleId":20528,"name":"Julie von Haefen","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

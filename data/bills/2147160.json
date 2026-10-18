@@ -1,0 +1,25 @@
+{
+  "billId": 2147160,
+  "billNumber": "S1066",
+  "title": "Alternative Bridge Funding Formula",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "32aa94fec01af791ff111f8157806a35",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2026-05-04",
+  "url": "https://legiscan.com/NC/bill/S1066/2025",
+  "aiSummary": "This bill directs the North Carolina Department of Transportation to develop an alternative funding formula for bridge replacements that operates separately from the current Strategic Mobility Formula. The department must submit their proposed formula, prioritization process, and revenue recommendations to legislative committees by December 1, 2026, and is allocated $100,000 to complete this work.",
+  "aiProArguments": "Supporters argue that a dedicated alternative formula could address bridge replacement needs more effectively by allowing prioritization based on factors specific to bridge conditions rather than competing with other transportation projects under the current formula. This targeted approach may help ensure critical bridge repairs receive adequate funding and are completed more efficiently based on safety and structural needs rather than broader regional mobility considerations.",
+  "aiConArguments": "Opponents may contend that creating a separate funding formula could complicate transportation funding by fragmenting the unified Strategic Mobility Formula approach, potentially creating administrative inefficiency and making it harder to balance statewide transportation priorities. They may also question whether additional funding sources are sustainable or whether resources devoted to a separate bridge formula might divert money from other critical transportation infrastructure needs.",
+  "topic": "Transportation & Infrastructure",
+  "textLength": 1579,
+  "createdAt": "2026-06-23T03:13:04.886Z",
+  "sponsors": [
+    {"peopleId":17504,"name":"Michael Lee","party":"R","isPrimary":true},
+    {"peopleId":11862,"name":"Norman Sanderson","party":"R","isPrimary":true},
+    {"peopleId":25212,"name":"Bob Brinson","party":"R","isPrimary":true},
+    {"peopleId":20223,"name":"Mujtaba Mohammed","party":"D","isPrimary":false},
+    {"peopleId":24224,"name":"Buck Newton","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

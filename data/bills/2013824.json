@@ -1,0 +1,24 @@
+{
+  "billId": 2013824,
+  "billNumber": "S550",
+  "title": "Coaches Care Act",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "e20ece5cdb47e8f828be8498a514f63d",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-26",
+  "url": "https://legiscan.com/NC/bill/S550/2025",
+  "aiSummary": "The Coaches Care Act requires all coaches and athletic directors at middle and high schools to complete approved youth mental health first aid training and maintain current certification. The bill also requires youth athletics organizations using county or city facilities to ensure their coaches have this certification. The State Board of Education will maintain a list of approved training programs.",
+  "aiProArguments": "Supporters argue that coaches spend significant time with young athletes and are well-positioned to identify mental health struggles early. By training coaches to recognize signs of mental health challenges and connect students with professional resources, the bill could help identify at-risk youth and potentially prevent crises. Coaches already receive training in other health and safety areas like concussions, so mental health training is a logical extension of their duty of care.",
+  "aiConArguments": "Opponents may argue that the training requirement creates additional costs and administrative burdens for schools and youth athletics organizations, particularly in rural or under-resourced areas. Some might contend that mental health identification and intervention should be the responsibility of school counselors and mental health professionals rather than coaches, and that training does not guarantee coaches will use the information appropriately or that it will lead to better outcomes.",
+  "topic": "Education",
+  "textLength": 4372,
+  "createdAt": "2026-06-23T03:08:48.448Z",
+  "sponsors": [
+    {"peopleId":25859,"name":"Caleb Theodros","party":"D","isPrimary":true},
+    {"peopleId":20223,"name":"Mujtaba Mohammed","party":"D","isPrimary":true},
+    {"peopleId":25858,"name":"Sophia Chitlik","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

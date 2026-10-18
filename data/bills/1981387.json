@@ -1,0 +1,21 @@
+{
+  "billId": 1981387,
+  "billNumber": "S151",
+  "title": "27th Senatorial District Local Act-1",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "eaa6c32d429b13bd2f5894165032624c",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-02-25",
+  "url": "https://legiscan.com/NC/bill/S151/2025",
+  "aiSummary": "This is a local bill that applies only to the 27th Senatorial District in North Carolina. The bill text does not specify what changes or provisions apply to the district—it only establishes that any provisions in the act are limited to that geographic area and become effective upon passage.",
+  "aiProArguments": "Supporters of local bills argue they allow the General Assembly to address specific, localized needs that may differ from statewide policy. This approach can provide tailored solutions for individual districts without affecting other regions of the state.",
+  "aiConArguments": "Opponents of local bills raise concerns about transparency and equal treatment, arguing that creating district-specific legislation can be difficult for constituents to track and may result in inconsistent laws across the state. Without clear details in the bill text, it is also difficult to assess the actual impact or necessity of the legislation.",
+  "topic": "Local Government",
+  "textLength": 510,
+  "createdAt": "2026-06-23T03:05:20.481Z",
+  "sponsors": [
+    {"peopleId":20220,"name":"Michael Garrett","party":"D","isPrimary":true}
+  ],
+  "rollCalls": []
+}

@@ -1,0 +1,22 @@
+{
+  "billId": 2144867,
+  "billNumber": "H1038",
+  "title": "At-Large Elections/Jacksonville City Council",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "9d9b21586f851b03580871800e831c39",
+  "lastAction": "Re-ref Com On Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2026-06-09",
+  "url": "https://legiscan.com/NC/bill/H1038/2025",
+  "aiSummary": "This bill changes how Jacksonville City Council members are elected by requiring all council seats to be elected at-large (by all city voters) instead of the current mixed system where four council members are elected from specific wards and two are elected at-large. The change would take effect after the 2027 elections.",
+  "aiProArguments": "Supporters argue that at-large elections ensure all council members are accountable to the entire city rather than just their ward, which can lead to more citywide cooperation and prevent narrow local interests from dominating council decisions. They contend this approach treats all voters equally by giving each resident an equal voice in selecting all council representatives.",
+  "aiConArguments": "Opponents argue that ward-based elections ensure neighborhoods have direct representation and prevent candidates from wealthy or populous areas from dominating all seats. They also raise concerns that at-large elections can dilute the voting power of minority communities, which is why the current system includes designated minority wards under federal voting rights law protections.",
+  "topic": "Elections & Voting",
+  "textLength": 4111,
+  "createdAt": "2026-06-23T03:00:39.180Z",
+  "sponsors": [
+    {"peopleId":25852,"name":"Wyatt Gable","party":"R","isPrimary":true},
+    {"peopleId":11863,"name":"Phillip Shepard","party":"R","isPrimary":true}
+  ],
+  "rollCalls": []
+}

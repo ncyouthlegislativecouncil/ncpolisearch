@@ -1,0 +1,26 @@
+{
+  "billId": 2014594,
+  "billNumber": "S746",
+  "title": "Study Automation and the Workforce",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "1799f256119126fe7761b0cca3214ccb",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-26",
+  "url": "https://legiscan.com/NC/bill/S746/2025",
+  "aiSummary": "This bill creates a Study Committee on Automation and the Workforce to examine how automation technologies—including artificial intelligence, robotics, and software—affect North Carolina workers, with special focus on low-income and minority workers. The 11-member committee will review current and future impacts of automation, education and training needs, and recommend strategies to help workers adapt and find new economic opportunities.",
+  "aiProArguments": "Supporters argue this bill addresses a real problem: automation has eliminated jobs for many workers, especially those without advanced skills or resources to retrain. The committee will gather data and expert input to help policymakers understand automation's effects and develop effective solutions—such as education programs, retraining initiatives, and support for emerging industries like clean energy and healthcare—that could help vulnerable workers adapt to economic changes.",
+  "aiConArguments": "Opponents may question whether creating another study committee is the most efficient use of resources, given that automation's effects are already well-documented in existing research. Some might argue the committee's broad scope and two-year timeline before reporting could delay action on urgent workforce challenges, or that the recommendations may lack teeth without clear implementation authority or dedicated funding mechanisms to carry out proposed solutions.",
+  "topic": "Business & Labor",
+  "textLength": 8075,
+  "createdAt": "2026-06-23T03:10:30.111Z",
+  "sponsors": [
+    {"peopleId":22426,"name":"DeAndrea Salvador","party":"D","isPrimary":true},
+    {"peopleId":21633,"name":"Natalie Murdock","party":"D","isPrimary":true},
+    {"peopleId":25859,"name":"Caleb Theodros","party":"D","isPrimary":true},
+    {"peopleId":20223,"name":"Mujtaba Mohammed","party":"D","isPrimary":false},
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

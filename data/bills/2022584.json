@@ -1,0 +1,28 @@
+{
+  "billId": 2022584,
+  "billNumber": "H919",
+  "title": "Fair Access to Financial Services",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "3b2b49c93255042334f7ec4937fb6eac",
+  "lastAction": "Ref To Com On Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-04-14",
+  "url": "https://legiscan.com/NC/bill/H919/2025",
+  "aiSummary": "This bill prohibits banks, credit unions, savings institutions, and insurance companies from denying services or discriminating against customers based on political opinions, religious beliefs, firearm ownership, fossil fuel industry involvement, immigration enforcement support, or failure to meet environmental and social governance standards. It requires banks to disclose subjective service standards and file annual compliance reports.",
+  "aiProArguments": "Supporters argue this bill protects consumers and businesses from being denied financial services based on their lawful activities, political views, or religious beliefs. They contend it prevents financial discrimination against industries like energy and agriculture, ensures fair access to banking regardless of personal ideology, and requires transparency from financial institutions about how they make lending and service decisions.",
+  "aiConArguments": "Opponents argue the bill may limit financial institutions' ability to manage risk and implement their own business standards, including environmental and social responsibility policies that some customers prefer. They contend it could restrict institutions' freedom to decline high-risk clients or industries, potentially increase compliance costs, and may conflict with federal banking regulations and existing civil rights protections based on other factors.",
+  "topic": "Business & Labor",
+  "textLength": 7314,
+  "createdAt": "2026-06-23T02:59:18.504Z",
+  "sponsors": [
+    {"peopleId":25856,"name":"Paul Scott","party":"R","isPrimary":true},
+    {"peopleId":24196,"name":"Jennifer Balkcom","party":"R","isPrimary":true},
+    {"peopleId":24207,"name":"Neal Jackson","party":"R","isPrimary":true},
+    {"peopleId":24197,"name":"Brian Biggs","party":"R","isPrimary":true},
+    {"peopleId":2034,"name":"John Blust","party":"R","isPrimary":false},
+    {"peopleId":24201,"name":"Celeste Cairns","party":"R","isPrimary":false},
+    {"peopleId":11848,"name":"James Dixon","party":"R","isPrimary":false},
+    {"peopleId":24219,"name":"Bill Ward","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

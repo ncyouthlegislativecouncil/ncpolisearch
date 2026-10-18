@@ -1,0 +1,21 @@
+{
+  "billId": 1983353,
+  "billNumber": "H201",
+  "title": "Route 25/70 Vehicle Trailer Restrictions",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "2ae16f620f28f831142dfdda06e0c2bd",
+  "lastAction": "Re-ref Com On Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-03-12",
+  "url": "https://legiscan.com/NC/bill/H201/2025",
+  "aiSummary": "This bill restricts the operation of large vehicle-trailer combinations on specific sections of U.S. Route 25/70 in Madison County, North Carolina. Trailers exceeding 30 feet in length or total vehicle-trailer combinations exceeding 48 feet would be prohibited on these designated road segments. Violations would be subject to the same penalties as other motor vehicle violations under state law.",
+  "aiProArguments": "Supporters argue that large trailer combinations can be difficult to navigate on certain road sections, potentially creating safety hazards for other drivers and increasing accident risk. The restriction may help protect local infrastructure and reduce wear on roads in Madison County that may not be designed for heavy commercial vehicle traffic. Proponents contend this addresses concerns specific to the community without affecting major trucking corridors elsewhere in the state.",
+  "aiConArguments": "Opponents may argue that the restriction could inconvenience commercial transportation and logistics operations that rely on these routes, potentially increasing costs by requiring detours. The limitations could affect businesses and economic activity in Madison County that depend on efficient freight movement. Critics might question whether the restriction adequately balances safety concerns against the needs of the trucking industry and interstate commerce.",
+  "topic": "Transportation & Infrastructure",
+  "textLength": 1439,
+  "createdAt": "2026-06-23T02:44:51.792Z",
+  "sponsors": [
+    {"peopleId":22617,"name":"Mark Pless","party":"R","isPrimary":true}
+  ],
+  "rollCalls": []
+}

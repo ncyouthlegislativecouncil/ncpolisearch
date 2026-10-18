@@ -1,0 +1,22 @@
+{
+  "billId": 2013501,
+  "billNumber": "S462",
+  "title": "Const Amend: Legislative Terms/Compensation",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "eeb8e6e90b55bc5c5af29b9fe580a1e3",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-25",
+  "url": "https://legiscan.com/NC/bill/S462/2025",
+  "aiSummary": "This bill proposes three constitutional amendments to be voted on in November 2026. The first sets legislative salaries equal to the average public school teacher salary and aligns per diem/travel rates with state employee rates. The second limits members of the General Assembly to 16 consecutive years of service and changes state Senate terms to four years. The third limits regular legislative sessions to 120 days in odd-numbered years and 90 days in even-numbered years.",
+  "aiProArguments": "Supporters argue these changes would increase legislative accountability and reduce the influence of long-serving incumbents through term limits. They contend that pegging legislative pay to teacher salaries would fairly compensate lawmakers while tying compensation to a transparent benchmark. Shorter session limits would reduce government spending and allow legislators to focus on their home districts and private employment.",
+  "aiConArguments": "Opponents contend that term limits would reduce legislative experience and institutional knowledge, potentially giving more power to lobbyists and staff who provide continuity. They argue that shorter sessions could prevent adequate deliberation on complex bills and that the compressed timeline might favor well-funded special interests. Critics also question whether teacher salary indexing provides appropriate compensation for the responsibilities of statewide office holders.",
+  "topic": "Local Government",
+  "textLength": 9022,
+  "createdAt": "2026-06-23T03:08:03.436Z",
+  "sponsors": [
+    {"peopleId":20216,"name":"Jim Burgin","party":"R","isPrimary":true},
+    {"peopleId":22425,"name":"Julie Mayfield","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

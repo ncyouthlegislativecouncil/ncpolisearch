@@ -1,0 +1,26 @@
+{
+  "billId": 2014154,
+  "billNumber": "S627",
+  "title": "Small Business Capital Improvement Account",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "c1286a2b6dfe4a43cc0542efed684229",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-26",
+  "url": "https://legiscan.com/NC/bill/S627/2025",
+  "aiSummary": "This bill allows small businesses in North Carolina (those with gross receipts under $10 million) to deduct a portion of revenue from their state income taxes if they deposit that money into a dedicated capital improvement account for property upgrades. The deduction percentage decreases as business income increases: 5% up to $1 million in deposits, 2% from $1-2 million, and 1% from $2-3 million. If money is withdrawn from the account without being used for qualifying property improvements, it must be added back to taxable income.",
+  "aiProArguments": "Supporters argue this bill incentivizes small business investment in property improvements by reducing their tax burden when they reinvest profits into their facilities. They contend this encourages business growth, modernization, and expansion in North Carolina, ultimately creating jobs and strengthening local economies. Proponents say the tiered deduction structure targets relief where it's needed most—for smaller businesses—while limiting benefits for larger operations.",
+  "aiConArguments": "Opponents worry this bill reduces state tax revenue at a time when North Carolina needs funding for schools, infrastructure, and services. They argue the deduction primarily benefits businesses that already have capital to invest, potentially widening inequality between thriving and struggling small businesses. Critics also note that the requirement to track and report these accounts adds administrative complexity for both businesses and the state.",
+  "topic": "Taxes & Budget",
+  "textLength": 2664,
+  "createdAt": "2026-06-23T03:09:26.747Z",
+  "sponsors": [
+    {"peopleId":25860,"name":"Woodson Bradley","party":"D","isPrimary":true},
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":true},
+    {"peopleId":20510,"name":"Terence Everitt","party":"D","isPrimary":true},
+    {"peopleId":20220,"name":"Michael Garrett","party":"D","isPrimary":false},
+    {"peopleId":12032,"name":"Gladys Robinson","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

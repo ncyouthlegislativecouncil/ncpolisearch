@@ -1,0 +1,21 @@
+{
+  "billId": 1967344,
+  "billNumber": "S90",
+  "title": "19th Senatorial District Local Act-1",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "944819b28086421186bf0a5f811a16ca",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-02-13",
+  "url": "https://legiscan.com/NC/bill/S90/2025",
+  "aiSummary": "This is a local bill that applies only to the 19th Senatorial District in North Carolina. The bill text provided does not specify what changes or provisions apply to the district, as only the introductory framework and effective date are included.",
+  "aiProArguments": "Supporters of local bills argue they allow the General Assembly to address specific regional needs and circumstances that may not apply statewide. Local acts can provide tailored solutions for particular districts without affecting other areas of North Carolina.",
+  "aiConArguments": "Opponents of local bills raise concerns about transparency and equal treatment, arguing that special legislation for specific districts can be difficult for the public to track and may create inconsistent rules across the state. Without knowing the specific provisions, it is unclear what local impact this bill would have.",
+  "topic": "Local Government",
+  "textLength": 511,
+  "createdAt": "2026-06-23T03:04:49.376Z",
+  "sponsors": [
+    {"peopleId":24220,"name":"Val Applewhite","party":"D","isPrimary":true}
+  ],
+  "rollCalls": []
+}

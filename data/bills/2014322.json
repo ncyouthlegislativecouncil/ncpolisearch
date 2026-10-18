@@ -1,0 +1,21 @@
+{
+  "billId": 2014322,
+  "billNumber": "S624",
+  "title": "AI Chatbots - Licensing/Safety/Privacy",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "9e457db04c352ada2505ad1de3bc46e1",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-26",
+  "url": "https://legiscan.com/NC/bill/S624/2025",
+  "aiSummary": "This bill creates two regulatory frameworks for AI chatbots in North Carolina. Part I requires licensing of chatbots that handle health information, with the Department of Justice overseeing safety, security, and effectiveness standards. Part II establishes broader safety and privacy rules for all chatbots serving over 5,000 monthly active users or generating $100,000+ annually, requiring clear disclosure that chatbots are not human, protection against emotional dependence, and strict data privacy practices.",
+  "aiProArguments": "Supporters argue this bill protects North Carolinians from AI chatbot harms by requiring transparency about non-human nature, preventing deceptive design, and ensuring health-related chatbots meet rigorous safety and efficacy standards comparable to regulated medical devices. They contend the bill safeguards sensitive personal data through encryption and de-identification requirements, creates accountability mechanisms for data breaches, and protects vulnerable users—especially children—from manipulation and emotional dependency on AI systems.",
+  "aiConArguments": "Opponents contend the bill may stifle innovation and impose heavy compliance costs on companies, particularly smaller developers and startups, potentially limiting chatbot availability to North Carolina users. They argue the regulatory requirements—including peer-reviewed trials, third-party audits, and licensing fees—mirror medical device regulation and may be overly burdensome for conversational AI. Some may also question whether broad privacy rules like de-identification requirements and 30-day message deletion could limit legitimate beneficial uses and create practical implementation challenges.",
+  "topic": "Technology & Privacy",
+  "textLength": 27039,
+  "createdAt": "2026-06-23T03:09:25.129Z",
+  "sponsors": [
+    {"peopleId":20216,"name":"Jim Burgin","party":"R","isPrimary":true}
+  ],
+  "rollCalls": []
+}

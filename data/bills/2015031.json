@@ -1,0 +1,32 @@
+{
+  "billId": 2015031,
+  "billNumber": "H540",
+  "title": "Additional Funds for Patriot Star Scholarship",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "60e58ff0a1393097b07714cb22191fc4",
+  "lastAction": "Ref to the Com on Appropriations, if favorable, Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-03-27",
+  "url": "https://legiscan.com/NC/bill/H540/2025",
+  "aiSummary": "This bill appropriates $2 million in state funding for the 2025-2026 fiscal year to support the North Carolina Patriot Star Family Scholarship Program, which is operated by the Patriot Foundation under the UNC Board of Governors. The funds are designated as recurring, meaning they would continue annually unless changed by future legislation.",
+  "aiProArguments": "Supporters argue this scholarship program helps military families and their dependents afford higher education, supporting an important population that has made sacrifices for the country. They contend that dedicated funding strengthens educational access and retention for these students while honoring military service through educational opportunity.",
+  "aiConArguments": "Opponents may argue that state funding should be prioritized for need-based aid serving all low-income students regardless of background, or question whether private foundations should receive government funds rather than managing scholarships through existing state aid programs. Some may also raise concerns about whether $2 million in recurring funds is the best use of limited education budget resources.",
+  "topic": "Taxes & Budget",
+  "textLength": 983,
+  "createdAt": "2026-06-23T02:54:23.054Z",
+  "sponsors": [
+    {"peopleId":20512,"name":"Edward Goodwin","party":"R","isPrimary":true},
+    {"peopleId":14604,"name":"John Bell","party":"R","isPrimary":true},
+    {"peopleId":24203,"name":"Allen Chesser","party":"R","isPrimary":true},
+    {"peopleId":22608,"name":"Diane Wheatley","party":"R","isPrimary":true},
+    {"peopleId":21377,"name":"Jake Johnson","party":"R","isPrimary":false},
+    {"peopleId":20522,"name":"Nasif Majeed","party":"D","isPrimary":false},
+    {"peopleId":22615,"name":"Howard Penny","party":"R","isPrimary":false},
+    {"peopleId":22616,"name":"Ray Pickett","party":"R","isPrimary":false},
+    {"peopleId":24219,"name":"Bill Ward","party":"R","isPrimary":false},
+    {"peopleId":18495,"name":"Donna White","party":"R","isPrimary":false},
+    {"peopleId":22610,"name":"Matthew Winslow","party":"R","isPrimary":false},
+    {"peopleId":22611,"name":"Jeff Zenger","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

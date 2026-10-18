@@ -1,0 +1,28 @@
+{
+  "billId": 2011850,
+  "billNumber": "S379",
+  "title": "Senior Care Assurance Act",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "71e198b55cf73f27994d1da821b79db5",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-24",
+  "url": "https://legiscan.com/NC/bill/S379/2025",
+  "aiSummary": "The Senior Care Assurance Act expands healthcare access for North Carolina seniors aged 65 and older through increased Medicaid coverage for preventive and chronic disease management, telehealth services, home-based care, and caregiver support. The bill appropriates approximately $44.15 million in recurring annual funds (2025-2027) for grant programs, navigation services, home safety modifications, and a caregiver assistance program that provides monthly stipends up to $500.",
+  "aiProArguments": "Supporters argue this bill addresses North Carolina's growing senior population by improving preventive care and reducing costly emergency interventions, ultimately lowering long-term healthcare expenses. The legislation expands access for low-income seniors and rural populations who face healthcare barriers, while enabling seniors to age in place at home rather than in institutional settings. Proponents contend the caregiver support and home modification programs reduce isolation, improve quality of life, and provide much-needed assistance to family members who provide unpaid care.",
+  "aiConArguments": "Opponents may argue the bill's $44+ million annual cost represents significant state spending during fiscal constraints and that recurring appropriations create ongoing budget obligations. Some may question whether grant programs with caps ($25,000-$250,000 per recipient) and assistance limits ($1,000 per household for telehealth) can meaningfully serve the state's entire senior population. Concerns may also exist about whether the Division of Aging has sufficient capacity to administer multiple new programs and whether outcomes justify the investment before full implementation and evaluation.",
+  "topic": "Healthcare",
+  "textLength": 17874,
+  "createdAt": "2026-06-23T03:07:18.578Z",
+  "sponsors": [
+    {"peopleId":25859,"name":"Caleb Theodros","party":"D","isPrimary":true},
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":true},
+    {"peopleId":24220,"name":"Val Applewhite","party":"D","isPrimary":false},
+    {"peopleId":25858,"name":"Sophia Chitlik","party":"D","isPrimary":false},
+    {"peopleId":21633,"name":"Natalie Murdock","party":"D","isPrimary":false},
+    {"peopleId":12032,"name":"Gladys Robinson","party":"D","isPrimary":false},
+    {"peopleId":22426,"name":"DeAndrea Salvador","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

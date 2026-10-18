@@ -1,0 +1,26 @@
+{
+  "billId": 2014392,
+  "billNumber": "S722",
+  "title": "Children's Online Safety Act/Funds",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "6cfb2fad60eba84b179c55233ded00d9",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2025-03-26",
+  "url": "https://legiscan.com/NC/bill/S722/2025",
+  "aiSummary": "This bill creates new protections for children on social media and online platforms by establishing an Online Safety Division in the Attorney General's office, a Cyberbullying Unit in the State Bureau of Investigation, and an independent Online Child Safety Commission. It requires large platforms (with over 5 million NC users and $25 million+ annual revenue) to implement parental controls, restrict manipulative design features, protect children's data, and submit annual safety assessments. The state would appropriate $5 million initially to implement these new protections.",
+  "aiProArguments": "Supporters argue this bill addresses real harms children face online, including cyberbullying, addiction to manipulative features, and exposure to inappropriate content. Advocates say large tech platforms have failed to self-regulate and prioritize profits over children's safety, making government oversight necessary. The bill would create dedicated resources to enforce protections, educate families, research emerging risks, and hold platforms accountable through penalties up to $500,000 per violation.",
+  "aiConArguments": "Opponents raise concerns about government overreach and potential free speech impacts, noting the bill's broad authority to regulate online content and could affect platform operations nationwide. Critics worry the bill may be difficult to enforce against large companies, could increase operational costs for platforms (potentially passed to users), and the vague definition of terms like 'dark patterns' and 'harmful content' might lead to inconsistent application or legal challenges based on First Amendment protections mentioned in the bill itself.",
+  "topic": "Technology & Privacy",
+  "textLength": 21576,
+  "createdAt": "2026-06-23T03:10:19.084Z",
+  "sponsors": [
+    {"peopleId":20220,"name":"Michael Garrett","party":"D","isPrimary":true},
+    {"peopleId":20505,"name":"Sydney Batch","party":"D","isPrimary":true},
+    {"peopleId":20510,"name":"Terence Everitt","party":"D","isPrimary":true},
+    {"peopleId":25860,"name":"Woodson Bradley","party":"D","isPrimary":false},
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

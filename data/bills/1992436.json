@@ -1,0 +1,31 @@
+{
+  "billId": 1992436,
+  "billNumber": "S240",
+  "title": "Establish NCSTARS Grant Program",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "2c6a070f9b4960d11d5f63ae26a19ccc",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2025-03-06",
+  "url": "https://legiscan.com/NC/bill/S240/2025",
+  "aiSummary": "This bill establishes the NCSTARS Grant Program, which provides up to $500,000 per year to three community colleges that partner with public schools and local employers to create work-based learning programs in apprenticeships and preapprenticeships for students 16 and older. The program runs from 2026-2029 with $4.75 million in state funding and requires participants to secure local matching funds.",
+  "aiProArguments": "Supporters argue this bill addresses North Carolina's workforce shortage by creating pathways for students to gain practical skills through apprenticeships and preapprenticeship programs. The program encourages collaboration between education, government, and business while offering students stipends and travel support, potentially making career training more accessible. It is modeled after the successful FLEET program in Surry-Yadkin Works and requires communities to develop sustainability plans, suggesting long-term commitment to workforce development.",
+  "aiConArguments": "Opponents may contend that limiting the program to only three community colleges means most regions lack access, raising equity concerns about which students benefit. The requirement for local matching funds ($1 for every $3 state dollars) could burden communities with fewer resources, and the three-year funding limit may create instability if communities cannot sustain programs afterward despite sustainability plan requirements. Some may question whether $4.75 million is sufficient to meaningfully address statewide workforce needs.",
+  "topic": "Education",
+  "textLength": 6487,
+  "createdAt": "2026-06-23T03:06:03.538Z",
+  "sponsors": [
+    {"peopleId":24226,"name":"Eddie Settle","party":"R","isPrimary":true},
+    {"peopleId":21663,"name":"David Craven","party":"R","isPrimary":true},
+    {"peopleId":20222,"name":"Todd Johnson","party":"R","isPrimary":true},
+    {"peopleId":18465,"name":"Danny Britt","party":"R","isPrimary":false},
+    {"peopleId":17936,"name":"Jay Chaudhuri","party":"D","isPrimary":false},
+    {"peopleId":14615,"name":"Carl Ford","party":"R","isPrimary":false},
+    {"peopleId":20518,"name":"Steve Jarvis","party":"R","isPrimary":false},
+    {"peopleId":17457,"name":"Paul Lowe","party":"D","isPrimary":false},
+    {"peopleId":20223,"name":"Mujtaba Mohammed","party":"D","isPrimary":false},
+    {"peopleId":24225,"name":"Benton Sawrey","party":"R","isPrimary":false},
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

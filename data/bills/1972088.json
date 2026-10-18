@@ -1,0 +1,21 @@
+{
+  "billId": 1972088,
+  "billNumber": "S112",
+  "title": "School Financial Flexibility Pilot Program",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "19fc0ee96dd1c1a5a0cafda31b62246c",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-02-18",
+  "url": "https://legiscan.com/NC/bill/S112/2025",
+  "aiSummary": "This bill creates a pilot program allowing large school districts (5,000+ students) to submit flexibility plans that give them greater control over how they spend state education funds and hire teachers. Participating districts must meet specific academic goals by 2031, including 90% teacher retention and improved student growth rates, with the State Board of Education reviewing progress and terminating plans that fail to meet targets.",
+  "aiProArguments": "Supporters argue this bill empowers local school districts to innovate and address their unique needs more effectively than one-size-fits-all state mandates. The flexibility in hiring (allowing up to 50% unlicensed teachers with training) and budget spending could help districts recruit talent, reduce teacher shortages, and improve retention rates. The built-in accountability measures—clear goals, annual reporting, and state review—ensure districts use this flexibility responsibly to improve student outcomes.",
+  "aiConArguments": "Opponents worry that allowing unlicensed teachers in classrooms may lower educational quality and disadvantage students, particularly in core subjects like math and science. Critics also question whether financial flexibility without strict oversight could lead to mismanagement or inequitable resource distribution within districts. Others argue the bill reduces state oversight and standardization at a time when consistency in teacher quality and educational standards is important for all students.",
+  "topic": "Education",
+  "textLength": 10913,
+  "createdAt": "2026-06-23T03:05:00.869Z",
+  "sponsors": [
+    {"peopleId":19669,"name":"Vickie Sawyer","party":"R","isPrimary":true}
+  ],
+  "rollCalls": []
+}

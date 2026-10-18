@@ -1,0 +1,29 @@
+{
+  "billId": 2144405,
+  "billNumber": "S783",
+  "title": "School Mental Health Support Act",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "919925d20870127aa51128d011e65ecb",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2026-04-23",
+  "url": "https://legiscan.com/NC/bill/S783/2025",
+  "aiSummary": "This bill creates two programs to increase mental health support in North Carolina schools: a $50 million grant program for public school units to hire mental health professionals, and a $19 million loan repayment program that provides up to $15,000 annually to school counselors, psychologists, social workers, and nurses working in high-need areas who graduated from UNC schools.",
+  "aiProArguments": "Supporters argue this bill addresses a critical shortage of mental health services in schools, particularly in underserved communities where students lack access to care. They contend that the loan repayment program will attract and retain qualified mental health professionals in high-need schools, improving student mental health outcomes and reducing barriers to treatment for students without insurance or with disabilities.",
+  "aiConArguments": "Opponents may argue that $69 million in new recurring spending is a significant budget commitment during uncertain economic times. They might also question whether the loan repayment program's restriction to UNC graduates and high-need areas is the most cost-effective approach, or whether funds could serve more students through alternative mental health initiatives or by removing barriers to federal funding.",
+  "topic": "Education",
+  "textLength": 9185,
+  "createdAt": "2026-06-23T03:10:42.618Z",
+  "sponsors": [
+    {"peopleId":25860,"name":"Woodson Bradley","party":"D","isPrimary":true},
+    {"peopleId":25858,"name":"Sophia Chitlik","party":"D","isPrimary":false},
+    {"peopleId":20220,"name":"Michael Garrett","party":"D","isPrimary":false},
+    {"peopleId":26664,"name":"Jonah Garson","party":"D","isPrimary":false},
+    {"peopleId":20223,"name":"Mujtaba Mohammed","party":"D","isPrimary":false},
+    {"peopleId":22426,"name":"DeAndrea Salvador","party":"D","isPrimary":false},
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":false},
+    {"peopleId":25859,"name":"Caleb Theodros","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

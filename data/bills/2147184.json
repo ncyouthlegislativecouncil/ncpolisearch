@@ -1,0 +1,27 @@
+{
+  "billId": 2147184,
+  "billNumber": "H1204",
+  "title": "Require Seat Belts on School Buses",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "3fe297cdc01298fb9d27576f10162071",
+  "lastAction": "Ref to the Com on Appropriations, if favorable, Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2026-05-05",
+  "url": "https://legiscan.com/NC/bill/H1204/2025",
+  "aiSummary": "This bill requires all school buses and activity buses purchased, leased, or rented by public schools, charter schools, private schools, and regional schools in North Carolina to be equipped with seat belts at all designated seating positions. The requirement applies to new bus contracts signed after June 30, 2030, with exceptions for child safety restraint systems, students with disabilities, and federally approved alternative restraint systems.",
+  "aiProArguments": "Supporters argue that seat belts significantly reduce injuries and fatalities in vehicle accidents, and school buses should provide the same safety protections as other vehicles. They contend that equipping buses with seat belts protects vulnerable students during transportation and aligns North Carolina with modern vehicle safety standards, potentially preventing serious harm during emergency stops or collisions.",
+  "aiConArguments": "Opponents may argue that the implementation costs for school districts are substantial, potentially straining already limited education budgets during a time of fiscal constraints. Some contend that school buses have strong safety records due to their design, and the delayed implementation date (2030) may not adequately address immediate transportation needs or that funding mechanisms to help districts comply are insufficient.",
+  "topic": "Education",
+  "textLength": 12195,
+  "createdAt": "2026-06-23T03:03:26.261Z",
+  "sponsors": [
+    {"peopleId":25844,"name":"Julia Greenfield","party":"D","isPrimary":true},
+    {"peopleId":22609,"name":"David Willis","party":"R","isPrimary":true},
+    {"peopleId":20521,"name":"Carolyn Logan","party":"D","isPrimary":true},
+    {"peopleId":20512,"name":"Edward Goodwin","party":"R","isPrimary":true},
+    {"peopleId":25213,"name":"Tracy Clark","party":"D","isPrimary":false},
+    {"peopleId":24206,"name":"Frances Jackson","party":"D","isPrimary":false},
+    {"peopleId":19360,"name":"Marcia Morey","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

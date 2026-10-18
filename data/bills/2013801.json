@@ -1,0 +1,27 @@
+{
+  "billId": 2013801,
+  "billNumber": "S540",
+  "title": "Increase Small County Funding",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "268874df9905cbc71cc2c2f3825c641c",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2025-03-26",
+  "url": "https://legiscan.com/NC/bill/S540/2025",
+  "aiSummary": "This bill increases funding for North Carolina's Small County School System Supplemental Allotment by raising the dollar amounts that eligible small county school districts receive based on their student enrollment (ADM). The bill appropriates $20,961,180 in recurring state funds to support these increased payments, effective July 1, 2025.",
+  "aiProArguments": "Supporters argue that small county school systems face unique challenges serving rural areas with lower tax bases and higher per-pupil costs, making them dependent on state supplemental funding. This bill provides these districts with significantly more resources—roughly 40% increases across all enrollment categories—to improve educational quality, teacher compensation, and school infrastructure in communities that might otherwise struggle to provide adequate services.",
+  "aiConArguments": "Opponents may argue that the $20.9 million in recurring annual spending adds to state budget pressures and could crowd out funding for other priorities or require tax increases. Some might question whether directing more funds specifically to small counties is the most equitable approach compared to needs-based formulas that serve all struggling districts regardless of size, or whether these funds could be used more effectively elsewhere in the education system.",
+  "topic": "Education",
+  "textLength": 1591,
+  "createdAt": "2026-06-23T03:08:42.985Z",
+  "sponsors": [
+    {"peopleId":20513,"name":"Bobby Hanig","party":"R","isPrimary":true},
+    {"peopleId":18454,"name":"Kevin Corbin","party":"R","isPrimary":true},
+    {"peopleId":11862,"name":"Norman Sanderson","party":"R","isPrimary":true},
+    {"peopleId":25212,"name":"Bob Brinson","party":"R","isPrimary":false},
+    {"peopleId":12033,"name":"Warren Daniel","party":"R","isPrimary":false},
+    {"peopleId":11937,"name":"Ralph Hise","party":"R","isPrimary":false},
+    {"peopleId":11858,"name":"Timothy Moffitt","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

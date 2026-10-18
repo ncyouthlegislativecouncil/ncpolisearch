@@ -1,0 +1,23 @@
+{
+  "billId": 2146356,
+  "billNumber": "H1106",
+  "title": "NC Pre-K Funding/Iredell County",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "e7631f73a57ad202cc0451e47b3190b6",
+  "lastAction": "Ref to the Com on Appropriations, if favorable, Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2026-04-30",
+  "url": "https://legiscan.com/NC/bill/H1106/2025",
+  "aiSummary": "This bill appropriates $260,538 in recurring state funds to the Iredell County Partnership for Young Children, Inc. to support the NC Prekindergarten program in Iredell County, beginning in fiscal year 2026-2027. The funding is designed to bring Iredell County's per-child Pre-K funding to the same level as Beaufort County.",
+  "aiProArguments": "Supporters argue this bill addresses funding inequality by ensuring Iredell County receives equitable per-child Pre-K resources compared to Beaufort County. They contend that adequate early childhood education funding improves school readiness, academic outcomes, and long-term child development while providing working families affordable access to quality Pre-K programs.",
+  "aiConArguments": "Opponents may argue that targeted appropriations to specific counties raise questions about fairness to other counties with similar needs, and question whether $260,538 in recurring General Fund spending is the most efficient use of state resources given overall budget constraints. Some may also ask why Beaufort County's funding level was chosen as the standard rather than a statewide needs assessment.",
+  "topic": "Education",
+  "textLength": 1084,
+  "createdAt": "2026-06-23T03:01:53.699Z",
+  "sponsors": [
+    {"peopleId":21375,"name":"Jeffrey McNeely","party":"R","isPrimary":true},
+    {"peopleId":25857,"name":"Richard Carver","party":"R","isPrimary":true},
+    {"peopleId":2122,"name":"Mitchell Setzer","party":"R","isPrimary":true}
+  ],
+  "rollCalls": []
+}

@@ -1,0 +1,21 @@
+{
+  "billId": 2147142,
+  "billNumber": "H1190",
+  "title": "Mindset Advantage Pilot Program",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "446cb41e28152f70870eb914b69ab03a",
+  "lastAction": "Ref to the Com on Appropriations, if favorable, Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2026-05-05",
+  "url": "https://legiscan.com/NC/bill/H1190/2025",
+  "aiSummary": "This bill establishes a one-year pilot program called the Mindset Advantage Pilot Program at three Forsyth County high schools (West Forsyth, Ronald Wilson Reagan, and Mount Tabor) to support student-athletes' mental health and wellness. The program will provide mandatory mindset sessions led by mental health professionals, coordinate support services, and measure outcomes through anonymous surveys, with $180,000 appropriated for implementation.",
+  "aiProArguments": "Supporters argue this program addresses mental health and stress management challenges facing student-athletes, which can improve both their well-being and athletic performance. Proponents point out that the program is structured with professional mental health leadership, includes parental consent for individual sessions, and uses data collection to evaluate effectiveness and guide future expansion decisions.",
+  "aiConArguments": "Opponents may question why funding is directed to only three specific schools in one county rather than being distributed more broadly across the state. Some may also express concerns about the mandatory nature of participation, the appropriateness of using education funding for a private foundation's program, or whether a one-year pilot with limited schools provides sufficient evidence to justify broader implementation.",
+  "topic": "Education",
+  "textLength": 4425,
+  "createdAt": "2026-06-23T03:03:10.887Z",
+  "sponsors": [
+    {"peopleId":24199,"name":"Kanika Brown","party":"D","isPrimary":true}
+  ],
+  "rollCalls": []
+}

@@ -1,0 +1,21 @@
+{
+  "billId": 1993629,
+  "billNumber": "H337",
+  "title": "City of Southport/Deannexations",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "9ded8adaffd98b9518fc09449296abf4",
+  "lastAction": "Re-ref Com On Finance",
+  "lastActionDate": "2025-03-18",
+  "url": "https://legiscan.com/NC/bill/H337/2025",
+  "aiSummary": "This bill removes three specific parcels of property (identified by Brunswick County tax numbers) from the City of Southport's corporate limits, effective June 30, 2025. Property owners in these parcels will no longer pay municipal taxes to Southport starting July 1, 2025, though any outstanding city tax liens from before the change remain valid and collectible.",
+  "aiProArguments": "Supporters of deannexation argue that property owners outside the city benefit from city services less than residents within city limits and should not have to pay city taxes. They contend this allows property to be taxed and governed by the county instead, potentially reducing tax burden or providing more appropriate local governance for rural or less-developed parcels.",
+  "aiConArguments": "Opponents worry that deannexation reduces the city's tax base and revenue needed to maintain services and infrastructure, potentially affecting remaining residents. They may also argue that removing parcels creates fragmented governance, complicates service delivery, and that affected property owners benefit from city services like roads, police, and fire protection that they should help fund.",
+  "topic": "Local Government",
+  "textLength": 1226,
+  "createdAt": "2026-06-23T02:48:45.359Z",
+  "sponsors": [
+    {"peopleId":22612,"name":"Charles Miller","party":"R","isPrimary":true}
+  ],
+  "rollCalls": []
+}

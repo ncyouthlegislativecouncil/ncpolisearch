@@ -1,0 +1,23 @@
+{
+  "billId": 2014249,
+  "billNumber": "S572",
+  "title": "Greater Access to Fertility Medication",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "3928656a79e7370579353ccb021b3010",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-26",
+  "url": "https://legiscan.com/NC/bill/S572/2025",
+  "aiSummary": "This bill requires health insurance plans that cover fertility treatments to remove annual and lifetime limits on ovulation medication and ovulation induction cycles, and to treat ovulation medication the same as other prescription drugs. It applies these same requirements to North Carolina's State Health Plan for Teachers and State Employees, with funding allocated to cover increased costs.",
+  "aiProArguments": "Supporters argue this bill removes barriers to fertility treatment for North Carolinians struggling with infertility, making medication more affordable and accessible. They contend that fertility medication should be treated like any other prescription drug, and that removing coverage limits helps people who want to start families without facing financial hardship or arbitrary insurance restrictions.",
+  "aiConArguments": "Opponents may argue that this expands insurance coverage mandates, which could increase premiums for all plan members regardless of whether they use fertility services. They may also question whether government should mandate specific coverage requirements for private insurers, and note that the state is appropriating significant funds ($300,000-$600,000 annually) to cover increased costs to the State Health Plan.",
+  "topic": "Healthcare",
+  "textLength": 3416,
+  "createdAt": "2026-06-23T03:08:59.714Z",
+  "sponsors": [
+    {"peopleId":21633,"name":"Natalie Murdock","party":"D","isPrimary":true},
+    {"peopleId":25858,"name":"Sophia Chitlik","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

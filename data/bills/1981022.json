@@ -1,0 +1,29 @@
+{
+  "billId": 1981022,
+  "billNumber": "S147",
+  "title": "Teacher License Reciprocity",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "def66e3368826fcf7816273a8fab5a53",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-02-25",
+  "url": "https://legiscan.com/NC/bill/S147/2025",
+  "aiSummary": "This bill eliminates the requirement for out-of-state teachers to pass a standardized examination in order to obtain a North Carolina Continuing Professional Teaching License (CPL), provided they have at least three years of teaching experience, hold a valid license in another state with substantially similar requirements, and are in good standing.",
+  "aiProArguments": "Supporters argue this bill addresses teacher shortages in North Carolina by making it easier and faster for qualified out-of-state teachers to transfer their licenses to the state, reducing barriers to entry and recruitment. They contend that experienced teachers who are already licensed and in good standing in other states have already demonstrated competency and don't need to pass another exam, saving time and money for both teachers and the state.",
+  "aiConArguments": "Opponents worry that eliminating the examination requirement could lower teaching quality standards by allowing teachers from states with less rigorous licensing requirements to teach in North Carolina schools without additional vetting. They argue that standardized exams provide a consistent measure of content knowledge and teaching ability, and that removing this requirement may not adequately protect students if other states have different or weaker standards.",
+  "topic": "Education",
+  "textLength": 1288,
+  "createdAt": "2026-06-23T03:05:18.981Z",
+  "sponsors": [
+    {"peopleId":20513,"name":"Bobby Hanig","party":"R","isPrimary":true},
+    {"peopleId":11858,"name":"Timothy Moffitt","party":"R","isPrimary":true},
+    {"peopleId":20225,"name":"Ted Alexander","party":"R","isPrimary":false},
+    {"peopleId":25212,"name":"Bob Brinson","party":"R","isPrimary":false},
+    {"peopleId":20216,"name":"Jim Burgin","party":"R","isPrimary":false},
+    {"peopleId":11937,"name":"Ralph Hise","party":"R","isPrimary":false},
+    {"peopleId":25250,"name":"Dana Jones","party":"R","isPrimary":false},
+    {"peopleId":17437,"name":"Thomas McInnis","party":"R","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

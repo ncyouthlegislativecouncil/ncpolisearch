@@ -1,0 +1,22 @@
+{
+  "billId": 1948413,
+  "billNumber": "S38",
+  "title": "Hertford County Economic Development",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "08cb680db1affdf543fc7fcc24e29a20",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2025-04-01",
+  "url": "https://legiscan.com/NC/bill/S38/2025",
+  "aiSummary": "This bill appropriates $51 million in state funding to Hertford County for economic development during fiscal year 2025-2026. The money is designated for constructing a public industrial dock and barge facility ($40 million) and road construction ($11 million) at a riverside industrial park site in Hertford County, with unused funds remaining available until June 30, 2027.",
+  "aiProArguments": "Supporters argue this investment will attract industrial and manufacturing businesses to Hertford County by providing critical port infrastructure and improved transportation access, creating jobs and economic growth in a rural area. The funding addresses a infrastructure gap that private developers alone may not fill, positioning the county to compete for major economic development projects and diversify its economy beyond traditional sectors.",
+  "aiConArguments": "Opponents may question whether $51 million is an appropriate use of state General Fund money for one county, and whether the state should be funding local economic development instead of requiring local investment or public-private partnerships. There are also concerns about whether the industrial park will actually attract sufficient business to justify the expense, and whether the funds could be better spent on statewide priorities or other underserved regions.",
+  "topic": "Taxes & Budget",
+  "textLength": 1705,
+  "createdAt": "2026-06-23T03:04:22.174Z",
+  "sponsors": [
+    {"peopleId":20513,"name":"Bobby Hanig","party":"R","isPrimary":true},
+    {"peopleId":11862,"name":"Norman Sanderson","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

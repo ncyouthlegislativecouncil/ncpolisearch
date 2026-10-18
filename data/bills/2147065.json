@@ -1,0 +1,25 @@
+{
+  "billId": 2147065,
+  "billNumber": "S1034",
+  "title": "Fund Drug Treatment/Mental Health Courts",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "a1964133ddc64413402f2a19452c6b5d",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2026-05-05",
+  "url": "https://legiscan.com/NC/bill/S1034/2025",
+  "aiSummary": "This bill appropriates $8.4 million in recurring state funding to create and support specialized courts that serve people in the criminal justice system with substance use disorders and mental health conditions. These drug treatment courts and mental health courts would provide court-supervised treatment plans and monitor participants' progress as an alternative to traditional criminal prosecution.",
+  "aiProArguments": "Supporters argue that treatment courts address root causes of criminal behavior by providing therapy and accountability rather than incarceration alone, which can reduce recidivism and improve public safety. They contend these courts are cost-effective because treating addiction and mental illness is cheaper than prison, and participants who receive treatment are less likely to reoffend or return to the criminal justice system.",
+  "aiConArguments": "Opponents may question whether $8.4 million is sufficient to create meaningful impact statewide or whether these funds should be allocated to other criminal justice priorities. Some may argue that diverting defendants with serious charges to treatment courts raises concerns about appropriate accountability, or that the bill lacks details on eligibility criteria, oversight mechanisms, and measurable outcomes to ensure effective use of taxpayer funds.",
+  "topic": "Criminal Justice & Public Safety",
+  "textLength": 2588,
+  "createdAt": "2026-06-23T03:12:50.289Z",
+  "sponsors": [
+    {"peopleId":20223,"name":"Mujtaba Mohammed","party":"D","isPrimary":true},
+    {"peopleId":25858,"name":"Sophia Chitlik","party":"D","isPrimary":false},
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":false},
+    {"peopleId":25859,"name":"Caleb Theodros","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

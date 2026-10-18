@@ -1,0 +1,32 @@
+{
+  "billId": 1984281,
+  "billNumber": "H224",
+  "title": "Strengthen Our Tribal Communities Act",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "bdc94d849e4a202abbdbc71d37556022",
+  "lastAction": "Re-ref Com On Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-03-04",
+  "url": "https://legiscan.com/NC/bill/H224/2025",
+  "aiSummary": "This bill renames the Indian Gaming Education Revenue Fund and appropriates additional money from it to support North Carolina's state-recognized Indian tribes and urban Indian organizations. The new appropriations total approximately $7.75 million over the 2025-2027 fiscal biennium for tribal operating expenses, cultural and economic development programs, and specific grants for tribal schools and services.",
+  "aiProArguments": "Supporters argue this bill provides overdue funding to strengthen tribal communities and address historical underfunding of state-recognized tribes. They contend the appropriations support important tribal institutions like tribal schools, daycare services, and cultural programs that benefit tribal members and help preserve Native American heritage and economic self-sufficiency.",
+  "aiConArguments": "Opponents may question whether the gaming fund, which was originally designated for education, should be redirected to tribal programs rather than schools. Some may also raise concerns about whether these appropriation levels are sustainable long-term or whether other priorities should be funded from the gaming revenue instead.",
+  "topic": "Taxes & Budget",
+  "textLength": 5706,
+  "createdAt": "2026-06-23T02:45:22.580Z",
+  "sponsors": [
+    {"peopleId":24211,"name":"Jarrod Lowery","party":"R","isPrimary":true},
+    {"peopleId":18460,"name":"Brenden Jones","party":"R","isPrimary":true},
+    {"peopleId":24219,"name":"Bill Ward","party":"R","isPrimary":true},
+    {"peopleId":24203,"name":"Allen Chesser","party":"R","isPrimary":true},
+    {"peopleId":11848,"name":"James Dixon","party":"R","isPrimary":false},
+    {"peopleId":2077,"name":"Mary Harrison","party":"D","isPrimary":false},
+    {"peopleId":20515,"name":"Zack Forde-Hawkins","party":"D","isPrimary":false},
+    {"peopleId":24208,"name":"Ray Jeffers","party":"D","isPrimary":false},
+    {"peopleId":21375,"name":"Jeffrey McNeely","party":"R","isPrimary":false},
+    {"peopleId":22615,"name":"Howard Penny","party":"R","isPrimary":false},
+    {"peopleId":25853,"name":"Rodney Pierce","party":"D","isPrimary":false},
+    {"peopleId":22609,"name":"David Willis","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

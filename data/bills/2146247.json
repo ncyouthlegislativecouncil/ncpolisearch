@@ -1,0 +1,25 @@
+{
+  "billId": 2146247,
+  "billNumber": "S891",
+  "title": "Small Business Investment Grant",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "82615ef6af46dff57dfaadefc11a93ca",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2026-04-29",
+  "url": "https://legiscan.com/NC/bill/S891/2025",
+  "aiSummary": "This bill appropriates $250 million from the state budget to create a COVID-19 Small Business Recovery Program administered by the Department of Commerce. Eligible small businesses (those with $8 million or less in annual receipts and at least 25% sales decline in 2020) can receive one-time grants up to $250,000 to help recover from pandemic-related losses.",
+  "aiProArguments": "Supporters argue this bill helps small businesses that were hit hard by COVID-19 shutdowns and restrictions, particularly in underserved areas. They contend that direct grants preserve jobs, keep businesses operating, and stabilize local economies more efficiently than loans, while the clawback provision ensures accountability by requiring businesses to stay open for at least six months.",
+  "aiConArguments": "Opponents may argue that $250 million in non-recurring spending adds to state budget constraints, and question whether pandemic relief years after COVID-19 remains justified. Some may also be concerned about fairness in application—businesses that failed to meet the 25% sales decline threshold are excluded, and the $250,000 cap may benefit larger qualifying businesses more than smaller ones.",
+  "topic": "Taxes & Budget",
+  "textLength": 4526,
+  "createdAt": "2026-06-23T03:11:37.383Z",
+  "sponsors": [
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":true},
+    {"peopleId":21633,"name":"Natalie Murdock","party":"D","isPrimary":true},
+    {"peopleId":12032,"name":"Gladys Robinson","party":"D","isPrimary":true},
+    {"peopleId":25859,"name":"Caleb Theodros","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

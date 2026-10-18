@@ -1,0 +1,31 @@
+{
+  "billId": 2147020,
+  "billNumber": "S1027",
+  "title": "Extreme Heat/Ban Utility Disconnections",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "ab2c8b764ee315c5cf7d1b375f71b83c",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2026-05-05",
+  "url": "https://legiscan.com/NC/bill/S1027/2025",
+  "aiSummary": "This bill prohibits utility companies and landlords from disconnecting electric and water service to residential customers during periods of extreme heat, extreme cold, or poor air quality. It also allows tenants to install portable cooling and air filtration devices in rental units unless specific safety or structural concerns apply, and requires landlords to offer deferred payment plans to customers affected by extreme weather events.",
+  "aiProArguments": "Supporters argue this bill protects vulnerable residents from dangerous health conditions during extreme weather when cooling and water access are essential. They contend that tenants in rental units often lack control over their living conditions and need the ability to install affordable cooling solutions, while deferred payment plans help low-income households avoid service disconnection during weather emergencies without losing access to utilities.",
+  "aiConArguments": "Opponents contend this bill may increase costs for utility companies and landlords, who could face higher expenses from reconnection requirements and potential liability issues. They argue that restricting disconnections for non-payment may reduce incentives for timely bill payment and that landlords need flexibility to protect their electrical systems from overload, especially if tenants install multiple high-power devices without coordination.",
+  "topic": "Housing",
+  "textLength": 10305,
+  "createdAt": "2026-06-23T03:12:46.786Z",
+  "sponsors": [
+    {"peopleId":22426,"name":"DeAndrea Salvador","party":"D","isPrimary":true},
+    {"peopleId":21633,"name":"Natalie Murdock","party":"D","isPrimary":true},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":true},
+    {"peopleId":17147,"name":"Gale Adcock","party":"D","isPrimary":false},
+    {"peopleId":20505,"name":"Sydney Batch","party":"D","isPrimary":false},
+    {"peopleId":17936,"name":"Jay Chaudhuri","party":"D","isPrimary":false},
+    {"peopleId":26664,"name":"Jonah Garson","party":"D","isPrimary":false},
+    {"peopleId":20223,"name":"Mujtaba Mohammed","party":"D","isPrimary":false},
+    {"peopleId":12032,"name":"Gladys Robinson","party":"D","isPrimary":false},
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":false},
+    {"peopleId":25859,"name":"Caleb Theodros","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

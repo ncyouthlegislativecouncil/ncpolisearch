@@ -1,0 +1,31 @@
+{
+  "billId": 1982434,
+  "billNumber": "H191",
+  "title": "SchCalFlex/Durham,Person/Aug 10 & Assmnts",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "df6d0f333699c2cc98b650acc6f7d973",
+  "lastAction": "Ref to the Com on Education - K-12, if favorable, Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-02-26",
+  "url": "https://legiscan.com/NC/bill/H191/2025",
+  "aiSummary": "This bill allows Durham County and Person County schools to start their school year as early as the Monday closest to August 10, instead of the current standard of August 26. It also permits these districts to give final exams and assessments before the end of the fall semester if their calendar concludes before December 31.",
+  "aiProArguments": "Supporters argue this gives local districts flexibility to better manage their academic calendars and plan around anticipated weather closures or other disruptions. Early starts with fall semester endings before December 31 allow students to complete assessments before winter break, potentially reducing stress and improving test performance while giving districts more instructional continuity.",
+  "aiConArguments": "Opponents may worry that earlier school starts conflict with summer employment, family vacations, or childcare arrangements for families. Some might also question whether moving assessment dates benefits all students equally, or whether the change creates inconsistency across the state when different districts follow different calendars.",
+  "topic": "Education",
+  "textLength": 3506,
+  "createdAt": "2026-06-23T02:44:32.724Z",
+  "sponsors": [
+    {"peopleId":24208,"name":"Ray Jeffers","party":"D","isPrimary":true},
+    {"peopleId":21631,"name":"Vernetta Alston","party":"D","isPrimary":false},
+    {"peopleId":18451,"name":"Mary Belk","party":"D","isPrimary":false},
+    {"peopleId":24198,"name":"Gloristine Brown","party":"D","isPrimary":false},
+    {"peopleId":2044,"name":"Becky Carney","party":"D","isPrimary":false},
+    {"peopleId":2077,"name":"Mary Harrison","party":"D","isPrimary":false},
+    {"peopleId":20515,"name":"Zack Forde-Hawkins","party":"D","isPrimary":false},
+    {"peopleId":24206,"name":"Frances Jackson","party":"D","isPrimary":false},
+    {"peopleId":25853,"name":"Rodney Pierce","party":"D","isPrimary":false},
+    {"peopleId":24214,"name":"Renee Price","party":"D","isPrimary":false},
+    {"peopleId":14633,"name":"Dennis Riddell","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

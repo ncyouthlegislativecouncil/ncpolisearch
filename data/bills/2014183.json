@@ -1,0 +1,26 @@
+{
+  "billId": 2014183,
+  "billNumber": "S563",
+  "title": "The Michael Jordans of Tomorrow Act",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "b6a6c17cbbebc594ed2b0fd1cca9c8e8",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-26",
+  "url": "https://legiscan.com/NC/bill/S563/2025",
+  "aiSummary": "This bill creates a comprehensive framework for Name, Image, and Likeness (NIL) agreements in North Carolina, allowing student-athletes at universities and high schools to earn money from using their name, image, or likeness for commercial purposes. It establishes a state NIL Clearinghouse, provides tax credits for businesses that pay student-athletes for NIL deals, allows universities to allocate up to $20.5 million annually for direct athlete compensation, and creates a study committee to explore revenue-sharing models.",
+  "aiProArguments": "Supporters argue this bill helps North Carolina compete with other states in recruiting and retaining top student-athletes by modernizing NIL policies and providing clear legal guidelines. They contend that student-athletes deserve the opportunity to profit from their own name and image while in school, and that the state has an economic interest in supporting this talent pipeline. Proponents also highlight protections built in, such as the NIL Clearinghouse reviewing large deals for fair market value and financial literacy requirements for minors.",
+  "aiConArguments": "Opponents may worry that allocating $20.5 million in athletic department revenue to direct athlete compensation could reduce funding for other athletic programs, facilities, or academics. Some express concern that wealthy universities could gain recruiting advantages, potentially widening competitive gaps. Others question whether state tax credits for NIL spending (up to $500,000 per business annually) represent appropriate use of public revenue to subsidize private commercial arrangements, or whether the compliance review process adds unnecessary bureaucracy.",
+  "topic": "Business & Labor",
+  "textLength": 18787,
+  "createdAt": "2026-06-23T03:08:54.823Z",
+  "sponsors": [
+    {"peopleId":20505,"name":"Sydney Batch","party":"D","isPrimary":true},
+    {"peopleId":20220,"name":"Michael Garrett","party":"D","isPrimary":true},
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":true},
+    {"peopleId":12032,"name":"Gladys Robinson","party":"D","isPrimary":false},
+    {"peopleId":22426,"name":"DeAndrea Salvador","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

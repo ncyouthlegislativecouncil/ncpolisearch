@@ -1,0 +1,24 @@
+{
+  "billId": 2022660,
+  "billNumber": "H962",
+  "title": "Funds for ECU Engineering",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "caa8c15ef42eaed11cc9d9b43ee947dc",
+  "lastAction": "Ref to the Com on Appropriations, if favorable, Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-04-14",
+  "url": "https://legiscan.com/NC/bill/H962/2025",
+  "aiSummary": "This bill appropriates $25 million in one-time funding and $4 million per year for two years to East Carolina University's College of Engineering and Technology. The one-time funds support building improvements and equipment purchases, while the recurring funds support expanding faculty and staff positions.",
+  "aiProArguments": "Supporters argue this investment strengthens engineering education in Eastern North Carolina, addresses infrastructure needs at ECU, and creates jobs by expanding the engineering program. They contend that improved facilities and more faculty positions will attract students, support workforce development in growing tech fields, and benefit the region's economy.",
+  "aiConArguments": "Opponents may argue that this targeted funding to one university raises equity concerns about allocating state resources to a single institution rather than distributing funds across the UNC system. They might also question whether $4 million in recurring annual costs is sustainable long-term and whether these funds could address higher-priority needs elsewhere in the state's budget.",
+  "topic": "Taxes & Budget",
+  "textLength": 1401,
+  "createdAt": "2026-06-23T02:59:49.615Z",
+  "sponsors": [
+    {"peopleId":25852,"name":"Wyatt Gable","party":"R","isPrimary":true},
+    {"peopleId":24215,"name":"Timothy Reeder","party":"R","isPrimary":true},
+    {"peopleId":24198,"name":"Gloristine Brown","party":"D","isPrimary":true},
+    {"peopleId":20516,"name":"Chris Humphrey","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

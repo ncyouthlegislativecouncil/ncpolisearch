@@ -1,0 +1,22 @@
+{
+  "billId": 2009354,
+  "billNumber": "S318",
+  "title": "Protect Youth From Harms of Vaping & Nicotine",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "b8531dd2eddc9ec57e68082bcbe76913",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-18",
+  "url": "https://legiscan.com/NC/bill/S318/2025",
+  "aiSummary": "This bill raises North Carolina's legal sales age for tobacco products (including vaping and e-cigarettes) from 18 to 21 years old. It creates a new permit system administered by the ABC Commission requiring retailers to be licensed to sell tobacco products, and establishes penalties for illegal sales to minors and underage possession.",
+  "aiProArguments": "Supporters argue this protects youth from nicotine addiction and the health risks of vaping and tobacco use. They point to research showing that raising the legal age reduces youth tobacco use rates. The bill also creates a licensing system to ensure retailers follow age verification rules and creates funding for enforcement through permit fees.",
+  "aiConArguments": "Opponents may argue the law creates regulatory burden on small retailers through licensing requirements and fees ($400 application/renewal fees). Some contend the age-21 rule is paternalistic and doesn't align with other legal ages (voting, military service at 18). Concerns exist about enforcement costs, compliance complexity for businesses, and whether the law effectively addresses the real problem of youth access to illegal sources.",
+  "topic": "Healthcare",
+  "textLength": 79091,
+  "createdAt": "2026-06-23T03:06:43.261Z",
+  "sponsors": [
+    {"peopleId":17147,"name":"Gale Adcock","party":"D","isPrimary":true},
+    {"peopleId":20513,"name":"Bobby Hanig","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

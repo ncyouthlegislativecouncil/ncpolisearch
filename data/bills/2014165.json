@@ -1,0 +1,27 @@
+{
+  "billId": 2014165,
+  "billNumber": "S626",
+  "title": "Domestic Violence Divorce Reform Act",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "2a61095c0c4734ecb81b72fafef73695",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-26",
+  "url": "https://legiscan.com/NC/bill/S626/2025",
+  "aiSummary": "This bill shortens North Carolina's divorce separation period from one year to six months, allows domestic violence victims to divorce immediately without a separation period, and eliminates two old civil lawsuits (alienation of affection and criminal conversation) that allowed people to sue others for damaging their marriage.",
+  "aiProArguments": "Supporters argue this bill protects domestic violence victims by allowing them to exit dangerous marriages quickly without waiting through a lengthy separation period. They also contend that eliminating alienation of affection and criminal conversation lawsuits removes outdated legal tools that can be misused to harass or control people, while shortening the standard separation period modernizes divorce law in line with practices in many other states.",
+  "aiConArguments": "Opponents may argue that shortening the separation period could make divorce too easy and discourage reconciliation efforts, while eliminating alienation of affection lawsuits removes a legal remedy for people harmed by infidelity. Some may also express concern that the domestic violence exception could potentially be misused if the evidentiary requirements are too easy to satisfy, or worry about whether two months of evidence is sufficient to verify abuse claims.",
+  "topic": "Criminal Justice & Public Safety",
+  "textLength": 6032,
+  "createdAt": "2026-06-23T03:09:25.882Z",
+  "sponsors": [
+    {"peopleId":25860,"name":"Woodson Bradley","party":"D","isPrimary":true},
+    {"peopleId":24222,"name":"Lisa Grafstein","party":"D","isPrimary":true},
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":true},
+    {"peopleId":25858,"name":"Sophia Chitlik","party":"D","isPrimary":false},
+    {"peopleId":22425,"name":"Julie Mayfield","party":"D","isPrimary":false},
+    {"peopleId":21633,"name":"Natalie Murdock","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

@@ -1,0 +1,26 @@
+{
+  "billId": 1968391,
+  "billNumber": "S99",
+  "title": "Extended-Year Teacher Contracts",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "a6b922140c9dbaa95c16db0be1522ba7",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-02-17",
+  "url": "https://legiscan.com/NC/bill/S99/2025",
+  "aiSummary": "This bill requires North Carolina public schools to offer extended 11-month contracts (instead of standard 10-month contracts) to initially licensed teachers and teachers in low-performing schools, while offering optional 11-month contracts to mentor teachers and veteran teachers. The bill allocates $310 million in state funding to cover the cost of these extended contracts, with participating teachers assigned additional duties such as professional development, mentoring, or extended school year instruction.",
+  "aiProArguments": "Supporters argue this bill addresses critical needs in North Carolina schools by providing struggling students with extended instructional time and support. They contend that the extended contracts give teachers dedicated time for high-quality professional development and collaboration with peers during the school year, which is difficult to fit into regular schedules. Proponents also argue this investment supports teacher development, particularly for new teachers, and helps retain effective educators by offering additional compensation and leadership opportunities.",
+  "aiConArguments": "Opponents may raise concerns about the significant $310 million cost and question whether this is the most effective use of state education funding compared to other priorities. Some may worry about implementation challenges, such as whether schools can meaningfully utilize the extended month across all teacher categories, or whether the mandatory requirement for new and low-performing school teachers could create equity concerns. Critics might also question whether adding duties to contracts could affect teacher recruitment and retention if the additional month's compensation is perceived as insufficient.",
+  "topic": "Education",
+  "textLength": 14804,
+  "createdAt": "2026-06-23T03:04:55.034Z",
+  "sponsors": [
+    {"peopleId":16251,"name":"Graig Meyer","party":"D","isPrimary":true},
+    {"peopleId":12032,"name":"Gladys Robinson","party":"D","isPrimary":true},
+    {"peopleId":21633,"name":"Natalie Murdock","party":"D","isPrimary":true},
+    {"peopleId":17457,"name":"Paul Lowe","party":"D","isPrimary":false},
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

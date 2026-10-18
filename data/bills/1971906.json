@@ -1,0 +1,27 @@
+{
+  "billId": 1971906,
+  "billNumber": "H138",
+  "title": "SchCalFlex/Gates/CC",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "7b2d49a881ad1a34c55aa7b0bcc42c5f",
+  "lastAction": "Ref to the Com on Education - K-12, if favorable, Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-02-18",
+  "url": "https://legiscan.com/NC/bill/H138/2025",
+  "aiSummary": "This bill allows Gates County Schools to align their school calendar with the calendar of College of the Albemarle, a community college in the area. Currently, state law sets specific opening and closing dates for public school calendars, but this bill creates an exception for Gates County to coordinate their schedule with the local community college.",
+  "aiProArguments": "Supporters argue that aligning school calendars with the community college benefits students who attend both institutions by eliminating scheduling conflicts and reducing gaps between their high school and college classes. This coordination could also improve dual enrollment opportunities, allowing high school students to take college courses more easily, and may help families coordinate transportation and work schedules more efficiently.",
+  "aiConArguments": "Opponents may be concerned that earlier school opening dates could conflict with family summer plans, tourism, and business revenues in the county. Others might argue that coordinating with one institution limits flexibility for the school system, and that the state's current opening date requirements exist to balance academic needs across all counties fairly.",
+  "topic": "Education",
+  "textLength": 2746,
+  "createdAt": "2026-06-23T02:42:41.288Z",
+  "sponsors": [
+    {"peopleId":24219,"name":"Bill Ward","party":"R","isPrimary":true},
+    {"peopleId":18451,"name":"Mary Belk","party":"D","isPrimary":false},
+    {"peopleId":24200,"name":"Laura Budd","party":"D","isPrimary":false},
+    {"peopleId":2044,"name":"Becky Carney","party":"D","isPrimary":false},
+    {"peopleId":2077,"name":"Mary Harrison","party":"D","isPrimary":false},
+    {"peopleId":25853,"name":"Rodney Pierce","party":"D","isPrimary":false},
+    {"peopleId":14633,"name":"Dennis Riddell","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

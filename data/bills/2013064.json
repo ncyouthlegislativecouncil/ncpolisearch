@@ -1,0 +1,31 @@
+{
+  "billId": 2013064,
+  "billNumber": "S406",
+  "title": "Allow ERPOs to Prevent Suicides & Save Lives",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "c12c29a722ab92d9cf450fa89c0d68f4",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-25",
+  "url": "https://legiscan.com/NC/bill/S406/2025",
+  "aiSummary": "This bill creates Extreme Risk Protection Orders (ERPOs), which allow courts to temporarily remove firearms from people deemed to pose an imminent danger to themselves or others. Family members, law enforcement, health care providers, and others can petition district courts for these orders, which can last up to one year and be renewed. The bill also requires courts to order seizure of firearms from people who fail to surrender them after domestic violence protective orders.",
+  "aiProArguments": "Supporters argue ERPOs provide a legal mechanism to prevent suicides and mass shootings by temporarily removing access to firearms from individuals in crisis. They point out the orders include due process protections—requiring clear and convincing evidence, court hearings, and the ability for respondents to request termination. Supporters also note the bill protects petitioner safety through address confidentiality programs and includes penalties for false statements to prevent abuse.",
+  "aiConArguments": "Opponents express concerns that ERPOs may infringe on Second Amendment rights without sufficient due process, particularly ex parte orders issued without the respondent present. They worry about potential misuse by vindictive family members or acquaintances, question the effectiveness of mental health evaluations, and note that temporary firearm removal may not address underlying mental health issues. Some also object to allowing health care providers and non-family members to petition without direct knowledge of a person's circumstances.",
+  "topic": "Criminal Justice & Public Safety",
+  "textLength": 36269,
+  "createdAt": "2026-06-23T03:07:32.297Z",
+  "sponsors": [
+    {"peopleId":22425,"name":"Julie Mayfield","party":"D","isPrimary":true},
+    {"peopleId":25860,"name":"Woodson Bradley","party":"D","isPrimary":true},
+    {"peopleId":17147,"name":"Gale Adcock","party":"D","isPrimary":false},
+    {"peopleId":17936,"name":"Jay Chaudhuri","party":"D","isPrimary":false},
+    {"peopleId":24222,"name":"Lisa Grafstein","party":"D","isPrimary":false},
+    {"peopleId":16251,"name":"Graig Meyer","party":"D","isPrimary":false},
+    {"peopleId":21633,"name":"Natalie Murdock","party":"D","isPrimary":false},
+    {"peopleId":22426,"name":"DeAndrea Salvador","party":"D","isPrimary":false},
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":false},
+    {"peopleId":25859,"name":"Caleb Theodros","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

@@ -1,0 +1,22 @@
+{
+  "billId": 2147140,
+  "billNumber": "S1036",
+  "title": "Mutual Aid/Tribal Police & Sheriff's Offices",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "d3433d4c77c70a4cbd544d418ab23512",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2026-05-04",
+  "url": "https://legiscan.com/NC/bill/S1036/2025",
+  "aiSummary": "This bill allows tribal police chiefs to enter into mutual aid agreements with other law enforcement agencies in North Carolina, such as municipal police departments, county police departments, and sheriff's offices. It adds tribal police departments to the existing law that permits law enforcement agencies to cooperate and provide assistance to each other, and allocates $10,000 to the Department of Public Safety to implement these changes.",
+  "aiProArguments": "Supporters argue this bill improves public safety by enabling tribal police departments to formally collaborate with other law enforcement agencies during emergencies or critical situations. Tribal communities benefit from expanded cooperation and resource-sharing with neighboring law enforcement, and the state benefits from more coordinated emergency response capabilities across all jurisdictions.",
+  "aiConArguments": "Opponents may be concerned about liability issues, jurisdictional conflicts, or whether adequate oversight and coordination mechanisms exist between tribal and state/local law enforcement. Some may question whether $10,000 in funding is sufficient to properly administer these new mutual aid agreements, or whether concerns about tribal sovereignty and autonomy have been adequately addressed.",
+  "topic": "Criminal Justice & Public Safety",
+  "textLength": 2000,
+  "createdAt": "2026-06-23T03:12:51.228Z",
+  "sponsors": [
+    {"peopleId":18454,"name":"Kevin Corbin","party":"R","isPrimary":true},
+    {"peopleId":11862,"name":"Norman Sanderson","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

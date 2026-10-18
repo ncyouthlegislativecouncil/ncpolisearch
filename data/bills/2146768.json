@@ -1,0 +1,26 @@
+{
+  "billId": 2146768,
+  "billNumber": "S975",
+  "title": "State Digital Asset Payments Study Act",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "1cbd893d8ee3421f5c51c9ea35fef5cf",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2026-05-05",
+  "url": "https://legiscan.com/NC/bill/S975/2025",
+  "aiSummary": "This bill directs North Carolina's Department of State Treasurer to study whether the state could accept digital asset payments (like certain cryptocurrencies) for state fees, and to study costs associated with residents sending money internationally. The bill appropriates $50,000 for these studies and requires reports back to the legislature by January 2027, but does not require the state to actually accept digital assets.",
+  "aiProArguments": "Supporters argue this study modernizes government payment systems and explores emerging financial technologies. They contend that studying digital assets for state payments could improve efficiency while studying remittance costs may help reduce fees that burden North Carolina families sending money abroad, potentially keeping more income circulating in local communities rather than being lost to transaction fees.",
+  "aiConArguments": "Opponents may worry that digital asset payments create cybersecurity risks, regulatory uncertainty, and operational complexity for state government. They could also question whether studying speculative or volatile assets is a responsible use of public funds, and whether the state should be exploring cryptocurrency-related policies rather than focusing on proven payment systems and stronger consumer protections for existing remittance services.",
+  "topic": "Technology & Privacy",
+  "textLength": 9008,
+  "createdAt": "2026-06-23T03:12:18.939Z",
+  "sponsors": [
+    {"peopleId":25859,"name":"Caleb Theodros","party":"D","isPrimary":true},
+    {"peopleId":2033,"name":"Daniel Blue","party":"D","isPrimary":true},
+    {"peopleId":17457,"name":"Paul Lowe","party":"D","isPrimary":true},
+    {"peopleId":17936,"name":"Jay Chaudhuri","party":"D","isPrimary":false},
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

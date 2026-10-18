@@ -1,0 +1,23 @@
+{
+  "billId": 2022867,
+  "billNumber": "H935",
+  "title": "Fire/Emergency Agency Property Voting Limits",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "20997122b4f461ffc50ee5ac2dbc2d7c",
+  "lastAction": "Ref to the Com on Election Law, if favorable, Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-04-14",
+  "url": "https://legiscan.com/NC/bill/H935/2025",
+  "aiSummary": "This bill adds an exemption to allow fire and emergency response agencies to opt out of having their facilities used as voting locations if the fire chief determines that doing so would interfere with emergency response capabilities. The exemption requires the fire chief to appeal to the county board of commissioners, which must make a final determination supporting the exemption.",
+  "aiProArguments": "Supporters argue that fire stations and emergency facilities must remain fully operational and accessible during elections to ensure communities receive critical emergency services without delay. They contend that using emergency response buildings as polling places could compromise response times, equipment access, or staff availability during a public health or safety crisis, and that fire chiefs are best positioned to assess these operational impacts.",
+  "aiConArguments": "Opponents may argue that fire stations and other emergency buildings are already used as polling places across North Carolina without documented problems, and that exempting them reduces available voting locations, potentially creating longer wait times or travel burdens for voters. They may also express concern that the appeal process gives individual fire chiefs significant power to limit voting access without clear standards, and that alternative polling locations may not be readily available in rural areas.",
+  "topic": "Elections & Voting",
+  "textLength": 2439,
+  "createdAt": "2026-06-23T02:59:30.764Z",
+  "sponsors": [
+    {"peopleId":22603,"name":"Dudley Greene","party":"R","isPrimary":true},
+    {"peopleId":24219,"name":"Bill Ward","party":"R","isPrimary":false},
+    {"peopleId":18495,"name":"Donna White","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

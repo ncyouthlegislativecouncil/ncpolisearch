@@ -1,0 +1,28 @@
+{
+  "billId": 2147025,
+  "billNumber": "S1010",
+  "title": "FUTURE NC Infrastructure Act",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "e9cff4c09966139c864b3e061a3fa762",
+  "lastAction": "Re-ref to Transportation. If fav, re-ref to Appropriations/Base Budget",
+  "lastActionDate": "2026-05-18",
+  "url": "https://legiscan.com/NC/bill/S1010/2025",
+  "aiSummary": "This bill establishes the North Carolina Infrastructure Investment Commission, a 10-member advisory body tasked with developing a comprehensive 20-year statewide infrastructure plan covering transportation, water, utilities, and resiliency needs. The Commission will evaluate infrastructure priorities and recommend funding strategies, then dissolve after submitting its final plan by March 31, 2028.",
+  "aiProArguments": "Supporters argue this bill addresses North Carolina's aging infrastructure, population growth, and climate resilience challenges by creating a unified, long-term planning strategy. Proponents believe a coordinated statewide plan will help identify critical needs across multiple infrastructure systems, reduce duplication, and recommend efficient funding approaches that maximize state and federal resources.",
+  "aiConArguments": "Opponents may raise concerns about adding another commission and associated costs ($300,000 appropriated) without guaranteed implementation authority, since the bill explicitly requires legislative approval before any recommendations become policy. Critics might also question whether the broad, flexible framework without fixed allocation percentages provides enough concrete direction for actual infrastructure spending decisions.",
+  "topic": "Transportation & Infrastructure",
+  "textLength": 6825,
+  "createdAt": "2026-06-23T03:12:36.897Z",
+  "sponsors": [
+    {"peopleId":17504,"name":"Michael Lee","party":"R","isPrimary":true},
+    {"peopleId":11858,"name":"Timothy Moffitt","party":"R","isPrimary":true},
+    {"peopleId":22424,"name":"Michael Lazzara","party":"R","isPrimary":true},
+    {"peopleId":12033,"name":"Warren Daniel","party":"R","isPrimary":false},
+    {"peopleId":26462,"name":"Chris Measmer","party":"R","isPrimary":false},
+    {"peopleId":24223,"name":"Brad Overcash","party":"R","isPrimary":false},
+    {"peopleId":24225,"name":"Benton Sawrey","party":"R","isPrimary":false},
+    {"peopleId":19669,"name":"Vickie Sawyer","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

@@ -1,0 +1,27 @@
+{
+  "billId": 1993248,
+  "billNumber": "H319",
+  "title": "Funds for Hispanic Grassroots",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "c9e095d2f91faefed2a8c45affa67a97",
+  "lastAction": "Ref to the Com on Appropriations, if favorable, Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-03-10",
+  "url": "https://legiscan.com/NC/bill/H319/2025",
+  "aiSummary": "This bill appropriates $500,000 in state funds for the 2025-2026 fiscal year to Hispanic Grassroots, a nonprofit organization that provides education and outreach services to Hispanic communities in North Carolina. The funds would support programs including education scholarships, small business assistance, healthcare education, and civics classes.",
+  "aiProArguments": "Supporters argue that Hispanic Grassroots addresses important needs within North Carolina's Hispanic community through multiple services including educational access, economic opportunity, and civic engagement. Proponents contend that the organization's programs help families navigate government systems, start businesses, and participate more fully in their communities and local government.",
+  "aiConArguments": "Opponents may question whether directing funds to a specific organization is the most effective use of taxpayer money and whether the funding process should be more competitive or transparent. Some may also raise concerns about the appropriateness of state funding for programs linked to private school choice and faith-based initiatives, or ask whether similar funding should be available to other community organizations serving different populations.",
+  "topic": "Taxes & Budget",
+  "textLength": 1953,
+  "createdAt": "2026-06-23T02:48:18.438Z",
+  "sponsors": [
+    {"peopleId":18495,"name":"Donna White","party":"R","isPrimary":true},
+    {"peopleId":22611,"name":"Jeff Zenger","party":"R","isPrimary":true},
+    {"peopleId":14634,"name":"Stephen Ross","party":"R","isPrimary":true},
+    {"peopleId":22965,"name":"Donnie Loftis","party":"R","isPrimary":true},
+    {"peopleId":25197,"name":"Jerry Branson","party":"R","isPrimary":false},
+    {"peopleId":21375,"name":"Jeffrey McNeely","party":"R","isPrimary":false},
+    {"peopleId":22615,"name":"Howard Penny","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

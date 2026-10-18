@@ -1,0 +1,23 @@
+{
+  "billId": 2144518,
+  "billNumber": "H1028",
+  "title": "Harnett County Jetport",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "58fd9279aaf4407add7b5ecdb159efe9",
+  "lastAction": "Re-ref Com On Housing and Development",
+  "lastActionDate": "2026-05-06",
+  "url": "https://legiscan.com/NC/bill/H1028/2025",
+  "aiSummary": "This bill allows Harnett County to adopt land-use planning overlays for a jetport by modifying state airport zoning regulations. It exempts airport zoning regulations from certain planning requirements and specifies that regulations within 6 miles of cargo airport sites are governed by the North Carolina Global TransPark Authority.",
+  "aiProArguments": "Supporters argue this bill gives Harnett County the flexibility to plan land use around a jetport facility to support economic development and attract businesses. The bill streamlines the zoning process by removing certain regulatory barriers, potentially making it easier to develop airport infrastructure and related commercial activities that could create jobs and tax revenue for the county.",
+  "aiConArguments": "Opponents may be concerned that exempting airport zoning from standard planning requirements could reduce public input or environmental review processes for land development near the airport. They might argue that removing certain regulatory safeguards could lead to unplanned sprawl, increased traffic, noise impacts on nearby residents, or other unintended consequences without sufficient oversight.",
+  "topic": "Transportation & Infrastructure",
+  "textLength": 1218,
+  "createdAt": "2026-06-23T03:00:34.798Z",
+  "sponsors": [
+    {"peopleId":22615,"name":"Howard Penny","party":"R","isPrimary":true},
+    {"peopleId":24212,"name":"Joe Pike","party":"R","isPrimary":false},
+    {"peopleId":16252,"name":"Robert Reives","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

@@ -1,0 +1,23 @@
+{
+  "billId": 1983717,
+  "billNumber": "H221",
+  "title": "Tabor City/Railroad Revitalization Project",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "1a56d5571223e700cb36ab6e771d02e6",
+  "lastAction": "Re-ref Com On Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-03-10",
+  "url": "https://legiscan.com/NC/bill/H221/2025",
+  "aiSummary": "This bill authorizes the Town of Tabor City to participate in state and federal railroad revitalization programs and allows the town to use local property tax funds (up to 10% of project costs) as matching funds to support these rail service improvements.",
+  "aiProArguments": "Supporters argue this bill helps Tabor City maintain or improve rail service, which can support economic development, reduce transportation costs for businesses, and enhance quality of life. By enabling the town to secure matching funds for state and federal railroad programs, the bill allows Tabor City to access larger funding sources that wouldn't otherwise be available.",
+  "aiConArguments": "Opponents may be concerned about local taxpayers bearing costs for railroad projects, even though the town's contribution is capped at 10% of total costs. Some may question whether railroad revitalization provides sufficient return on investment compared to other local spending priorities, or whether state and federal funds should cover these projects without requiring local property tax contributions.",
+  "topic": "Transportation & Infrastructure",
+  "textLength": 1585,
+  "createdAt": "2026-06-23T02:45:17.464Z",
+  "sponsors": [
+    {"peopleId":18460,"name":"Brenden Jones","party":"R","isPrimary":true},
+    {"peopleId":22613,"name":"Ben Moss","party":"R","isPrimary":false},
+    {"peopleId":22615,"name":"Howard Penny","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

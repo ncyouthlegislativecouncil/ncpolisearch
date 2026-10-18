@@ -1,0 +1,21 @@
+{
+  "billId": 2014300,
+  "billNumber": "S726",
+  "title": "Funds for Westmoreland Road Interchange",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "14331fe78bf2c890c6b93d3797f85852",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2025-03-26",
+  "url": "https://legiscan.com/NC/bill/S726/2025",
+  "aiSummary": "This bill allocates $9.5 million in one-time Highway Fund money to the North Carolina Department of Transportation for planning and design of a new interchange at Westmoreland Road on Interstate 77 (Exit 27) in Cornelius. The funds become available starting July 1, 2025.",
+  "aiProArguments": "Supporters argue this interchange improves traffic flow and safety in the Cornelius area, which has experienced growth and congestion. They contend that proper planning and design now will lead to better infrastructure and economic development for the region, and that investing in transportation infrastructure creates jobs and reduces commute times.",
+  "aiConArguments": "Opponents may question whether $9.5 million in state Highway Fund money is the best use of limited transportation resources, and whether this project should compete with other statewide infrastructure needs. They might also raise concerns about whether local or federal funding sources should contribute to or lead this project, and whether the interchange is truly necessary given existing transportation options.",
+  "topic": "Transportation & Infrastructure",
+  "textLength": 814,
+  "createdAt": "2026-06-23T03:10:21.064Z",
+  "sponsors": [
+    {"peopleId":20223,"name":"Mujtaba Mohammed","party":"D","isPrimary":true}
+  ],
+  "rollCalls": []
+}

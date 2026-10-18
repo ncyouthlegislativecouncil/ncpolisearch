@@ -1,0 +1,32 @@
+{
+  "billId": 2146851,
+  "billNumber": "S950",
+  "title": "School Meals for Every Child",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "4ed644e5ea70dae6dc26628a18f14ce0",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2026-05-04",
+  "url": "https://legiscan.com/NC/bill/S950/2025",
+  "aiSummary": "This bill requires all public schools in North Carolina to provide free breakfast and lunch to every student. The state would appropriate $116 million annually starting in 2026-2027 to fund these meals, with the State Board of Education distributing funds to school districts based on factors like school size and number of low-income students.",
+  "aiProArguments": "Supporters argue that free meals ensure all students have access to nutrition regardless of family income, which improves student health, attendance, and academic performance. They contend this eliminates lunch debt, reduces stigma for low-income students, and simplifies school meal administration by removing means-testing requirements. Proponents also note the bill prioritizes locally sourced food and high-quality nutrition.",
+  "aiConArguments": "Opponents may argue that $116 million in state funding creates a significant budget commitment during tight fiscal periods and question whether this amount is sufficient long-term. Some contend the bill removes incentives for cost-control in school nutrition programs and that universal free meals benefit families who can afford to pay, making it less targeted than current free/reduced-price lunch programs based on need.",
+  "topic": "Education",
+  "textLength": 6195,
+  "createdAt": "2026-06-23T03:12:08.122Z",
+  "sponsors": [
+    {"peopleId":20223,"name":"Mujtaba Mohammed","party":"D","isPrimary":true},
+    {"peopleId":21633,"name":"Natalie Murdock","party":"D","isPrimary":true},
+    {"peopleId":24220,"name":"Val Applewhite","party":"D","isPrimary":true},
+    {"peopleId":17147,"name":"Gale Adcock","party":"D","isPrimary":false},
+    {"peopleId":20505,"name":"Sydney Batch","party":"D","isPrimary":false},
+    {"peopleId":17936,"name":"Jay Chaudhuri","party":"D","isPrimary":false},
+    {"peopleId":25858,"name":"Sophia Chitlik","party":"D","isPrimary":false},
+    {"peopleId":26664,"name":"Jonah Garson","party":"D","isPrimary":false},
+    {"peopleId":22426,"name":"DeAndrea Salvador","party":"D","isPrimary":false},
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":false},
+    {"peopleId":25859,"name":"Caleb Theodros","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

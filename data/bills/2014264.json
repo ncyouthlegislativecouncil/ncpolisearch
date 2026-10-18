@@ -1,0 +1,22 @@
+{
+  "billId": 2014264,
+  "billNumber": "S740",
+  "title": "Funds for Council for Children's Rights",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "5b20ce5ecd7bd22c8214cdfb26173821",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2025-03-26",
+  "url": "https://legiscan.com/NC/bill/S740/2025",
+  "aiSummary": "This bill allocates $250,000 in one-time state funding for the 2025-2026 fiscal year to the Council for Children's Rights, Inc. to help cover their operating expenses. The funds come from North Carolina's General Fund and become available starting July 1, 2025.",
+  "aiProArguments": "Supporters argue that the Council for Children's Rights plays an important role in advocating for and protecting children's welfare in North Carolina. They contend that this funding helps ensure the organization can continue essential services and operations that benefit vulnerable children and families in the state.",
+  "aiConArguments": "Opponents may question whether one-time funding is sustainable for an organization's long-term operations, or whether state General Fund dollars could be better allocated to other priorities. Some may also want more details about the Council's specific programs and outcomes before approving the expenditure.",
+  "topic": "Taxes & Budget",
+  "textLength": 776,
+  "createdAt": "2026-06-23T03:10:27.297Z",
+  "sponsors": [
+    {"peopleId":20223,"name":"Mujtaba Mohammed","party":"D","isPrimary":true},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

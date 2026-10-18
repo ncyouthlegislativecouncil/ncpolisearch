@@ -1,0 +1,22 @@
+{
+  "billId": 2014142,
+  "billNumber": "S604",
+  "title": "School-Based Complaint/SROs",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "e5105615a502ee881adf1c68cdc22b77",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-26",
+  "url": "https://legiscan.com/NC/bill/S604/2025",
+  "aiSummary": "This bill defines school resource officers (SROs) in North Carolina schools and establishes training requirements for them. It also requires that complaints about student misconduct filed by SROs must be signed off by a school administrator or school social worker before being sent to juvenile court.",
+  "aiProArguments": "Supporters argue this bill ensures SROs receive proper training in mental health, de-escalation, and working with students with disabilities, which can lead to safer schools and better interactions with students. They contend that requiring administrator or social worker approval of SRO complaints adds a school perspective to the decision to involve the juvenile justice system, potentially keeping more students in educational settings rather than the criminal system.",
+  "aiConArguments": "Opponents may argue that requiring administrative approval of SRO complaints slows down the juvenile justice process and could prevent legitimate complaints from being filed. They might also contend that the training requirements create additional costs and administrative burdens for law enforcement agencies working with schools, or that the approval requirement inappropriately limits police authority in investigating school-based crimes.",
+  "topic": "Education",
+  "textLength": 4438,
+  "createdAt": "2026-06-23T03:09:15.980Z",
+  "sponsors": [
+    {"peopleId":20223,"name":"Mujtaba Mohammed","party":"D","isPrimary":true},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

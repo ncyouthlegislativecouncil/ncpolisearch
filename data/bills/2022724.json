@@ -1,0 +1,21 @@
+{
+  "billId": 2022724,
+  "billNumber": "H988",
+  "title": "Revise Law on Instant Bingo",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "1e03ed3de154d4b681c3ca8cc9abe32a",
+  "lastAction": "Ref To Com On Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-04-14",
+  "url": "https://legiscan.com/NC/bill/H988/2025",
+  "aiSummary": "This bill updates North Carolina's bingo laws to include instant bingo (scratch-off style tickets) as a legal game option, sets prize limits for instant bingo at $600 per game, restricts instant bingo to certain tax-exempt organizations, and allows bingo fund disbursements to be made by electronic transfer in addition to checks.",
+  "aiProArguments": "Supporters argue this bill modernizes outdated bingo regulations by recognizing instant bingo as a legitimate fundraising method that many nonprofit organizations already use or want to use. The bill allows more flexibility in how organizations manage bingo funds (electronic transfers) and creates clear regulatory standards for instant bingo operations, which provides organizations with legal clarity while maintaining oversight through audit requirements.",
+  "aiConArguments": "Opponents may argue that expanding bingo to include instant bingo games increases gambling opportunities and could lead to problem gambling, particularly since instant bingo is more accessible and faster-paced than traditional bingo. They might also express concern that allowing only certain tax-exempt organizations (501(c)(8), (c)(10), (c)(19)) to conduct instant bingo creates unequal treatment among nonprofits, and that higher prize limits ($600 per game vs. $500 for traditional bingo) could increase financial risks.",
+  "topic": "Taxes & Budget",
+  "textLength": 9258,
+  "createdAt": "2026-06-23T03:00:06.956Z",
+  "sponsors": [
+    {"peopleId":20515,"name":"Zack Forde-Hawkins","party":"D","isPrimary":true}
+  ],
+  "rollCalls": []
+}

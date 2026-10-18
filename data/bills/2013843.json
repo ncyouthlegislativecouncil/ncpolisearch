@@ -1,0 +1,23 @@
+{
+  "billId": 2013843,
+  "billNumber": "S543",
+  "title": "State Auditor to Audit Private Schools",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "6ab090efc21b1988b5de21e70b648961",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-26",
+  "url": "https://legiscan.com/NC/bill/S543/2025",
+  "aiSummary": "This bill requires North Carolina's State Auditor to periodically audit private schools that enroll students receiving state scholarship grants. The audits would apply specifically to nonpublic schools serving students with state-funded scholarships under the scholarship grant program.",
+  "aiProArguments": "Supporters argue this bill ensures accountability and transparency for how state funds are being spent in private schools. They contend that since taxpayer money is going to these institutions through scholarships, the State Auditor should verify that schools are using funds appropriately and meeting educational standards, similar to oversight of public schools.",
+  "aiConArguments": "Opponents may argue this represents government intrusion into private school operations and independence. They contend that private schools have different missions and structures than public schools, and increased auditing could create burdensome compliance costs, discourage private school participation in the scholarship program, or infringe on parental choice in education.",
+  "topic": "Education",
+  "textLength": 831,
+  "createdAt": "2026-06-23T03:08:44.759Z",
+  "sponsors": [
+    {"peopleId":20510,"name":"Terence Everitt","party":"D","isPrimary":true},
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

@@ -1,0 +1,21 @@
+{
+  "billId": 2002375,
+  "billNumber": "H385",
+  "title": "Competition Parity Act",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "5e7781178cea136ed87c260d7e292a37",
+  "lastAction": "Ref To Com On Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-03-13",
+  "url": "https://legiscan.com/NC/bill/H385/2025",
+  "aiSummary": "This bill repeals Section 2 of S.L. 2024-31 (a previous law from 2024) and dismisses any charges filed under that section before this bill takes effect. The repeal applies retroactively to December 1, 2024.",
+  "aiProArguments": "Supporters argue this bill corrects or eliminates a problematic provision from the 2024 law that they believe was unjust, ineffective, or unconstitutional. They contend that dismissing charges already filed under Section 2 prevents people from being prosecuted under a law the legislature now believes should not have been enacted.",
+  "aiConArguments": "Opponents argue that repealing an existing law and retroactively dismissing charges undermines legal certainty and the judicial process. They may contend that if Section 2 was problematic, the legislature should have addressed it prospectively, and that retroactive dismissal could frustrate enforcement efforts or victims seeking justice under the previous law.",
+  "topic": "Business & Labor",
+  "textLength": 751,
+  "createdAt": "2026-06-23T02:50:00.285Z",
+  "sponsors": [
+    {"peopleId":14604,"name":"John Bell","party":"R","isPrimary":true}
+  ],
+  "rollCalls": []
+}

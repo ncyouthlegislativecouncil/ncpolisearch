@@ -1,0 +1,21 @@
+{
+  "billId": 1964826,
+  "billNumber": "S74",
+  "title": "40th Senatorial District Local Act-1",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "ffa0423fa46e6a88ed8dc4dfc63a2644",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-02-12",
+  "url": "https://legiscan.com/NC/bill/S74/2025",
+  "aiSummary": "This is a local bill that applies only to the 40th Senatorial District in North Carolina. The bill text does not specify what changes are being made to the district, only that the act relates to it and becomes effective upon passage.",
+  "aiProArguments": "Supporters of local bills argue they allow the General Assembly to address specific regional needs and circumstances that affect particular districts. Local legislation can provide targeted solutions for district-specific issues without impacting the entire state.",
+  "aiConArguments": "Opponents of local bills raise concerns about transparency and accountability, noting that bills with vague language lack clear information about what changes are actually being made. Without specific details in the bill text, constituents and legislators cannot fully evaluate the merits or impacts of the proposed changes.",
+  "topic": "Local Government",
+  "textLength": 508,
+  "createdAt": "2026-06-23T03:04:40.997Z",
+  "sponsors": [
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":true}
+  ],
+  "rollCalls": []
+}

@@ -1,0 +1,21 @@
+{
+  "billId": 1984910,
+  "billNumber": "S186",
+  "title": "Funds for Ladder Truck for WS Fire Station 19",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "931fe8c529b05fd41a59e52e75f16518",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2025-02-27",
+  "url": "https://legiscan.com/NC/bill/S186/2025",
+  "aiSummary": "This bill appropriates $2 million in state funds to the City of Winston-Salem to purchase a ladder truck for Fire Station 19. The funding is nonrecurring and would be available starting July 1, 2025.",
+  "aiProArguments": "Supporters argue that ladder trucks are essential firefighting equipment needed to safely conduct rescue operations and fight fires in buildings taller than ground level. They contend this state funding helps a local fire department acquire critical safety equipment that protects both firefighters and residents without burdening the city's local budget.",
+  "aiConArguments": "Opponents may argue that this targeted state spending for one city's equipment raises questions about fairness to other fire departments across North Carolina with similar needs. They may also contend that fire departments should fund equipment through local budgets or federal grants rather than seeking state general fund appropriations for specific purchases.",
+  "topic": "Taxes & Budget",
+  "textLength": 827,
+  "createdAt": "2026-06-23T03:05:39.152Z",
+  "sponsors": [
+    {"peopleId":17457,"name":"Paul Lowe","party":"D","isPrimary":true}
+  ],
+  "rollCalls": []
+}

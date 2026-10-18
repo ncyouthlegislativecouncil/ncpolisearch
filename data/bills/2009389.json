@@ -1,0 +1,24 @@
+{
+  "billId": 2009389,
+  "billNumber": "S313",
+  "title": "Supporting Small Farmers for NC's Future Act",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "25a6100d52b233a9cc8208f7111d03e8",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2025-03-25",
+  "url": "https://legiscan.com/NC/bill/S313/2025",
+  "aiSummary": "This bill establishes a Small Farmers Support Grant Program that provides financial grants to North Carolina farmers with gross cash farm income of $1 million or less. The program, funded with $15 million in state money for 2025-2026, aims to help small farmers purchase equipment, inputs, and make operational improvements to remain viable.",
+  "aiProArguments": "Supporters argue that small family farms face increasing pressure from rising land costs and economic consolidation, threatening North Carolina's agricultural heritage and rural communities. They contend that targeted grant funding can help small farmers access capital they might not obtain through traditional lending, allowing them to invest in their operations and remain competitive while preserving farmland and agricultural jobs.",
+  "aiConArguments": "Opponents may question whether $15 million in state funding is the most effective use of limited tax dollars, particularly if other state priorities go underfunded. They might also raise concerns about whether grant programs effectively reach the farmers most in need, the long-term sustainability of farms dependent on temporary grants rather than market viability, or whether the program's eligibility criteria and application process could be burdensome for smaller operations.",
+  "topic": "Agriculture",
+  "textLength": 4386,
+  "createdAt": "2026-06-23T03:06:39.393Z",
+  "sponsors": [
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":true},
+    {"peopleId":20510,"name":"Terence Everitt","party":"D","isPrimary":true},
+    {"peopleId":17457,"name":"Paul Lowe","party":"D","isPrimary":false},
+    {"peopleId":21633,"name":"Natalie Murdock","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

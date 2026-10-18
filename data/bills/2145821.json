@@ -1,0 +1,29 @@
+{
+  "billId": 2145821,
+  "billNumber": "H1050",
+  "title": "Funding for Sex Ed Health Awareness",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "4d4f88efc42325ff1d4888ca98f3a497",
+  "lastAction": "Ref To Com On Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2026-04-28",
+  "url": "https://legiscan.com/NC/bill/H1050/2025",
+  "aiSummary": "This bill appropriates $31,000 in state funding for the 2026-2027 fiscal year to Joyful Soul Treasures, Inc., a nonprofit organization, to conduct a marketing campaign and eight-week workshop for teenagers ages 13-18 focused on sexual health education and awareness.",
+  "aiProArguments": "Supporters argue this funding addresses an important public health need by providing adolescents with comprehensive sexual health information through a structured workshop program. They contend that early, quality education on this topic helps young people make informed decisions about their health and well-being.",
+  "aiConArguments": "Opponents may question whether a $31,000 grant to a specific nonprofit is the most efficient use of state funds, or whether such education should be delivered through schools rather than external organizations. Some may have concerns about the curriculum content or prefer that parents and families take the primary role in this type of education.",
+  "topic": "Healthcare",
+  "textLength": 1085,
+  "createdAt": "2026-06-23T03:00:52.056Z",
+  "sponsors": [
+    {"peopleId":24199,"name":"Kanika Brown","party":"D","isPrimary":true},
+    {"peopleId":22599,"name":"Amber Baker","party":"D","isPrimary":false},
+    {"peopleId":25842,"name":"Bryan Cohn","party":"D","isPrimary":false},
+    {"peopleId":26662,"name":"Amanda Cook","party":"D","isPrimary":false},
+    {"peopleId":20509,"name":"Allison Dahle","party":"D","isPrimary":false},
+    {"peopleId":25844,"name":"Julia Greenfield","party":"D","isPrimary":false},
+    {"peopleId":20521,"name":"Carolyn Logan","party":"D","isPrimary":false},
+    {"peopleId":24214,"name":"Renee Price","party":"D","isPrimary":false},
+    {"peopleId":22606,"name":"James Roberson","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

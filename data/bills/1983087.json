@@ -1,0 +1,28 @@
+{
+  "billId": 1983087,
+  "billNumber": "S169",
+  "title": "Labor Org. Membership Dues Tax Deductible",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "3c2a219adff4b410c7f6fd4500ef439e",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-02-26",
+  "url": "https://legiscan.com/NC/bill/S169/2025",
+  "aiSummary": "This bill allows North Carolina taxpayers to deduct labor organization membership dues from their state income taxes starting in 2026. The deduction would apply to dues, fees, assessments, or other required payments for membership in a labor organization.",
+  "aiProArguments": "Supporters argue this deduction reduces the tax burden on union members and workers who pay dues to labor organizations, making union membership more affordable. They contend it recognizes the value unions provide to workers through collective bargaining and workplace protections, and creates tax parity since some other professional membership fees may already be deductible.",
+  "aiConArguments": "Opponents argue this deduction reduces state tax revenue and primarily benefits union members, a specific group of workers, raising fairness questions about why this group receives a special deduction. They contend it could incentivize union membership through the tax code and that the lost revenue could be better spent on general tax relief or public services benefiting all North Carolinians.",
+  "topic": "Taxes & Budget",
+  "textLength": 953,
+  "createdAt": "2026-06-23T03:05:30.864Z",
+  "sponsors": [
+    {"peopleId":24222,"name":"Lisa Grafstein","party":"D","isPrimary":true},
+    {"peopleId":21633,"name":"Natalie Murdock","party":"D","isPrimary":true},
+    {"peopleId":16251,"name":"Graig Meyer","party":"D","isPrimary":true},
+    {"peopleId":24220,"name":"Val Applewhite","party":"D","isPrimary":false},
+    {"peopleId":20510,"name":"Terence Everitt","party":"D","isPrimary":false},
+    {"peopleId":20223,"name":"Mujtaba Mohammed","party":"D","isPrimary":false},
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":false},
+    {"peopleId":25859,"name":"Caleb Theodros","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

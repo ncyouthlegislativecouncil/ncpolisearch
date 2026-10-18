@@ -1,0 +1,23 @@
+{
+  "billId": 1982408,
+  "billNumber": "S157",
+  "title": "Funds For Johnson C. Smith Tech Project",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "c09c93adeb0b09bb54a6b4ee7bfe5fde",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2025-02-26",
+  "url": "https://legiscan.com/NC/bill/S157/2025",
+  "aiSummary": "This bill appropriates $100,000 in state funds to Johnson C. Smith University for a one-time grant in fiscal year 2025-2026. The money will support the university's Inclusive Tech-Innovation Pilot Project, which aims to use broadband technology to promote economic growth and community development in the surrounding area.",
+  "aiProArguments": "Supporters argue this funding helps a historically Black university develop infrastructure and programs that benefit both the institution and its local community. The project's focus on broadband access and tech innovation could create economic opportunities, support business development, and address the digital divide in underserved areas.",
+  "aiConArguments": "Opponents may question whether a one-time $100,000 grant is sufficient to meaningfully implement such a project, or argue that state funds should be allocated through broader competitive processes rather than directed grants to specific institutions. Some may also raise concerns about whether this represents the best use of limited state resources compared to other priorities.",
+  "topic": "Taxes & Budget",
+  "textLength": 996,
+  "createdAt": "2026-06-23T03:05:25.196Z",
+  "sponsors": [
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":true},
+    {"peopleId":22426,"name":"DeAndrea Salvador","party":"D","isPrimary":false},
+    {"peopleId":25859,"name":"Caleb Theodros","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

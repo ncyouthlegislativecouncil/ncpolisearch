@@ -1,0 +1,21 @@
+{
+  "billId": 2010508,
+  "billNumber": "H447",
+  "title": "Funds for Kernersville Event Center",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "fe0811c6fbad02e2475d410cf20bf2a3",
+  "lastAction": "Ref to the Com on Appropriations, if favorable, Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-03-20",
+  "url": "https://legiscan.com/NC/bill/H447/2025",
+  "aiSummary": "This bill appropriates $34 million in state funds to the Town of Kernersville for the construction or development of an event center in that town. The funds are one-time, nonrecurring appropriations for the 2025-2026 fiscal year and would become available starting July 1, 2025.",
+  "aiProArguments": "Supporters argue that this event center will bring economic development and job opportunities to Kernersville and the surrounding region. The facility could attract conventions, concerts, sports events, and other gatherings that generate tax revenue, increase tourism spending, and enhance the town's quality of life and competitive position.",
+  "aiConArguments": "Opponents may contend that $34 million is a substantial state investment that could be directed toward other statewide priorities like education, healthcare, or infrastructure in underserved areas. They may also question whether one town's event center justifies this level of state funding and argue that local or private funding should cover such projects.",
+  "topic": "Taxes & Budget",
+  "textLength": 871,
+  "createdAt": "2026-06-23T02:51:51.199Z",
+  "sponsors": [
+    {"peopleId":14624,"name":"Donny Lambeth","party":"R","isPrimary":true}
+  ],
+  "rollCalls": []
+}

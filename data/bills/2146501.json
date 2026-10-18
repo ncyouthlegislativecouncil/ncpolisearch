@@ -1,0 +1,28 @@
+{
+  "billId": 2146501,
+  "billNumber": "S910",
+  "title": "Expanding Insurance Coverage/Fertility Care",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "73a6c7a2073ff8be9ecae7e5065f9397",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2026-04-30",
+  "url": "https://legiscan.com/NC/bill/S910/2025",
+  "aiSummary": "This bill expands insurance coverage for fertility care in North Carolina by requiring health insurance plans to cover fertility diagnostic care and treatment (including up to four egg retrievals and unlimited embryo transfers), directs the state to seek Medicaid coverage for basic fertility services, appropriates $45 million for Medicaid implementation, establishes a fertility care resource hub, requires medical provider training on LGBTQ+ family building options, and protects the right to access assisted reproductive technology and contraceptives.",
+  "aiProArguments": "Supporters argue that infertility affects approximately 1 in 6 North Carolinians and disproportionately impacts Black women and people with disabilities. They contend that insurance coverage removes financial barriers that force families into debt or bankruptcy, improves access across all income levels, and aligns with medical evidence showing fertility treatment is safe and effective. Proponents also emphasize that coverage supports early intervention, reduces pregnancy complications, lowers long-term healthcare costs, and ensures equal treatment for LGBTQ+ individuals and those using assisted reproduction.",
+  "aiConArguments": "Opponents may argue that mandating fertility coverage increases insurance premiums for all enrollees, potentially raising healthcare costs for individuals who do not use fertility services. Some may question the appropriateness of state funding for fertility treatments versus other medical priorities, express concerns about the scope of coverage (such as unlimited embryo transfers), or object to provisions related to surrogacy and LGBTQ+ family building based on personal or religious beliefs. Others might contend that fertility treatment is an elective procedure rather than a necessary medical service.",
+  "topic": "Healthcare",
+  "textLength": 26503,
+  "createdAt": "2026-06-23T03:11:48.228Z",
+  "sponsors": [
+    {"peopleId":21633,"name":"Natalie Murdock","party":"D","isPrimary":true},
+    {"peopleId":25858,"name":"Sophia Chitlik","party":"D","isPrimary":true},
+    {"peopleId":22426,"name":"DeAndrea Salvador","party":"D","isPrimary":true},
+    {"peopleId":26664,"name":"Jonah Garson","party":"D","isPrimary":false},
+    {"peopleId":20223,"name":"Mujtaba Mohammed","party":"D","isPrimary":false},
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":false},
+    {"peopleId":25859,"name":"Caleb Theodros","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

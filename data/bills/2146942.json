@@ -1,0 +1,22 @@
+{
+  "billId": 2146942,
+  "billNumber": "S998",
+  "title": "Housing Acceleration Fund",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "3121f7668d5ba7bd9973c845888e53d6",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2026-05-05",
+  "url": "https://legiscan.com/NC/bill/S998/2025",
+  "aiSummary": "This bill transfers $50 million in unspent education funds to support housing initiatives: $10 million goes to the Housing Finance Agency to provide low-cost financing for developers building affordable housing, and $40 million goes to the Department of Health and Human Services for its Transitions to Community Living program. Both agencies may use up to 3% of their funds for administrative costs.",
+  "aiProArguments": "Supporters argue this bill addresses North Carolina's affordable housing shortage by providing developers with low-cost financing to build new units more quickly and affordably. They contend that the Transitions to Community Living program funding helps vulnerable populations access stable housing, reducing homelessness and associated social costs. Proponents note that using surplus education funds for housing prevents waste while addressing a critical state need.",
+  "aiConArguments": "Opponents may argue that redirecting education funds, even unspent amounts, could undermine the Education Assistance Authority's long-term ability to support opportunity scholarships and student aid. They may question whether $10 million in developer financing is sufficient to meaningfully impact the housing crisis, or whether these funds could be better spent on education priorities. Critics might also express concerns about whether the programs will effectively use the funds or face implementation challenges.",
+  "topic": "Housing",
+  "textLength": 1645,
+  "createdAt": "2026-06-23T03:12:30.340Z",
+  "sponsors": [
+    {"peopleId":25860,"name":"Woodson Bradley","party":"D","isPrimary":true},
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

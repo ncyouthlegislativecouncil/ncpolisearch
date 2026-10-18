@@ -1,0 +1,29 @@
+{
+  "billId": 1983310,
+  "billNumber": "H203",
+  "title": "Home Warranty Act",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "c8e49af7a17c1c0cf67bec548ecfac23",
+  "lastAction": "Ref To Com On Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-02-26",
+  "url": "https://legiscan.com/NC/bill/H203/2025",
+  "aiSummary": "This bill strengthens consumer protections for home service agreements (home warranties) and reorganizes North Carolina's service agreement laws by separating home appliance rules from motor vehicle rules. It requires service agreement companies to provide clear contract details, disclose exclusions prominently, respond to repair claims quickly for essential services, and allow consumers to cancel agreements with pro-rata refunds.",
+  "aiProArguments": "Supporters argue this bill protects homeowners by requiring service agreement companies to be transparent about what is and isn't covered, preventing confusing or misleading contract language. The bill ensures faster repairs for critical systems like heating and air-conditioning by requiring completion or scheduling within five business days, with the company paying for outside repairs if deadlines aren't met. It also allows consumers to cancel agreements and receive refunds if unsatisfied, reducing the risk of being locked into poor-quality agreements.",
+  "aiConArguments": "Opponents may argue that the stricter requirements and faster repair timelines could increase operational costs for service agreement companies, potentially leading to higher premiums for consumers. The five-business-day repair requirement for essential systems could be difficult to meet in rural areas with fewer approved vendors, and companies may reduce vendor networks or coverage areas to manage costs. The bill also requires significant attorney general resources ($50,000 annually) for enforcement.",
+  "topic": "Business & Labor",
+  "textLength": 22285,
+  "createdAt": "2026-06-23T02:44:53.430Z",
+  "sponsors": [
+    {"peopleId":20521,"name":"Carolyn Logan","party":"D","isPrimary":true},
+    {"peopleId":18451,"name":"Mary Belk","party":"D","isPrimary":true},
+    {"peopleId":24210,"name":"Tim Longest","party":"D","isPrimary":true},
+    {"peopleId":19238,"name":"Deb Butler","party":"D","isPrimary":false},
+    {"peopleId":2044,"name":"Becky Carney","party":"D","isPrimary":false},
+    {"peopleId":22422,"name":"Sarah Crawford","party":"D","isPrimary":false},
+    {"peopleId":2077,"name":"Mary Harrison","party":"D","isPrimary":false},
+    {"peopleId":20522,"name":"Nasif Majeed","party":"D","isPrimary":false},
+    {"peopleId":24213,"name":"Lindsey Prather","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

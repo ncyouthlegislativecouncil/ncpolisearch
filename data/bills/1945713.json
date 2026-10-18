@@ -1,0 +1,21 @@
+{
+  "billId": 1945713,
+  "billNumber": "S12",
+  "title": "35th Senatorial District Local Act-1",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "d4fbc47c58bbe5bebbb07ca6be0a2e78",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-01-30",
+  "url": "https://legiscan.com/NC/bill/S12/2025",
+  "aiSummary": "This is a local bill that applies only to North Carolina's 35th Senatorial District. The bill text does not specify what changes or policies it implements—it only establishes that any provisions apply exclusively to that district and become effective upon passage.",
+  "aiProArguments": "Supporters of local bills argue they allow targeted solutions for specific regions' unique needs without affecting the entire state. This approach can address district-specific issues more efficiently and fairly by applying rules only where constituents in that area want them.",
+  "aiConArguments": "Critics of local bills express concerns about transparency and equal treatment, as the bill text provided does not clarify what substantive changes it makes. Without knowing the specific provisions, it is difficult to assess whether the policy is appropriate or how it might affect residents in the 35th Senatorial District differently from other areas.",
+  "topic": "Local Government",
+  "textLength": 507,
+  "createdAt": "2026-06-23T03:04:09.653Z",
+  "sponsors": [
+    {"peopleId":20222,"name":"Todd Johnson","party":"R","isPrimary":true}
+  ],
+  "rollCalls": []
+}

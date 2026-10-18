@@ -1,0 +1,23 @@
+{
+  "billId": 2146075,
+  "billNumber": "H1069",
+  "title": "New Bern Unfit Dwelling Enforcement Options",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "fc2495053713dc2df5819486f04e020b",
+  "lastAction": "Re-ref Com On Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2026-04-29",
+  "url": "https://legiscan.com/NC/bill/H1069/2025",
+  "aiSummary": "This bill allows the City of New Bern to impose civil penalties (fines) on property owners or entities who fail to comply with city orders declaring a dwelling unfit for human habitation. Currently, the city can issue such orders but has limited enforcement tools; this bill adds financial penalties as an additional enforcement option.",
+  "aiProArguments": "Supporters argue that civil penalties provide New Bern with a stronger enforcement mechanism to ensure property owners actually comply with unfit dwelling orders, which protects public health and safety. They contend that financial consequences incentivize property owners to repair or demolish dangerous buildings more quickly, and that the penalty revenue could support housing code enforcement efforts.",
+  "aiConArguments": "Opponents may argue that civil penalties could disproportionately burden low-income property owners who lack resources to make repairs, potentially leading to property loss rather than improvement. They might also express concern that civil penalties add another layer of financial liability without clear guidance on penalty amounts or procedures for appeal.",
+  "topic": "Housing",
+  "textLength": 1155,
+  "createdAt": "2026-06-23T03:01:11.995Z",
+  "sponsors": [
+    {"peopleId":22607,"name":"Steve Tyson","party":"R","isPrimary":true},
+    {"peopleId":20516,"name":"Chris Humphrey","party":"R","isPrimary":false},
+    {"peopleId":21375,"name":"Jeffrey McNeely","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

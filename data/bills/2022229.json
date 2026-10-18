@@ -1,0 +1,29 @@
+{
+  "billId": 2022229,
+  "billNumber": "H868",
+  "title": "Due Process in LEO Field Drug Testing",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "7a18652217f0d768d063268c6f8e5062",
+  "lastAction": "Ref To Com On Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-04-10",
+  "url": "https://legiscan.com/NC/bill/H868/2025",
+  "aiSummary": "This bill requires law enforcement agencies and prosecutors in North Carolina to adopt policies that prevent colorimetric field drug tests (color-based drug identification kits) from being used alone to arrest, charge, or convict someone of drug possession. Instead, a confirmed laboratory test must corroborate the field test result before these actions can occur. The bill also requires that defendants charged based only on field tests be cited and released or released on their own recognizance pending trial.",
+  "aiProArguments": "Supporters argue this bill protects innocent people from wrongful arrest and conviction, citing studies showing field drug tests produce false positives in approximately 30,000 cases annually across the country. They contend that requiring laboratory confirmation before arrest or prosecution ensures due process and prevents people from being prosecuted for substances they never actually possessed. Supporters believe this maintains law enforcement's ability to address drug crimes while adding an important safeguard against unreliable testing methods.",
+  "aiConArguments": "Opponents may argue this bill hampers law enforcement's ability to respond quickly to drug crimes, potentially delaying arrests and complicating investigations. They could contend that requiring laboratory confirmation before any arrest or charge creates logistical and resource challenges for police and prosecutors, and that field tests, while imperfect, are valuable tools for initial identification that have been used effectively for years. Some may also worry that releasing defendants charged with drug possession without bail requirements creates public safety concerns.",
+  "topic": "Criminal Justice & Public Safety",
+  "textLength": 5093,
+  "createdAt": "2026-06-23T02:58:44.285Z",
+  "sponsors": [
+    {"peopleId":26396,"name":"Phil Rubin","party":"D","isPrimary":true},
+    {"peopleId":24203,"name":"Allen Chesser","party":"R","isPrimary":true},
+    {"peopleId":18451,"name":"Mary Belk","party":"D","isPrimary":false},
+    {"peopleId":24202,"name":"Maria Cervania","party":"D","isPrimary":false},
+    {"peopleId":22422,"name":"Sarah Crawford","party":"D","isPrimary":false},
+    {"peopleId":2077,"name":"Mary Harrison","party":"D","isPrimary":false},
+    {"peopleId":25850,"name":"Jordan Lopez","party":"D","isPrimary":false},
+    {"peopleId":19360,"name":"Marcia Morey","party":"D","isPrimary":false},
+    {"peopleId":18462,"name":"Amos Quick","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

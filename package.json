@@ -3,7 +3,9 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
+    "predev": "tsx scripts/build-data-index.ts",
     "dev": "next dev",
+    "prebuild": "tsx scripts/build-data-index.ts",
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
@@ -15,7 +17,8 @@
     "backfill-votes": "npx tsx scripts/backfill-votes.ts",
     "summarize": "npx tsx scripts/summarize.ts",
     "backfill-topics": "npx tsx scripts/backfill-topics.ts",
-    "test-api": "tsx --env-file=.env.local scripts/test-api.ts"
+    "test-api": "tsx --env-file=.env.local scripts/test-api.ts",
+    "data:index": "tsx scripts/build-data-index.ts"
   },
   "dependencies": {
     "@anthropic-ai/sdk": "^0.105.0",

@@ -1,0 +1,21 @@
+{
+  "billId": 2008784,
+  "billNumber": "S308",
+  "title": "Permanent Plates for Water & Sewer Authority",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "2e1128bf83ec8d772bbc765b08b82b5a",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-18",
+  "url": "https://legiscan.com/NC/bill/S308/2025",
+  "aiSummary": "This bill allows water and sewer authorities in North Carolina to obtain permanent registration plates for their vehicles instead of renewing plates annually. The change adds water and sewer authorities to the list of organizations eligible for permanent plates under state motor vehicle law.",
+  "aiProArguments": "Supporters argue this reduces administrative burden and costs for water and sewer authorities by eliminating the need for yearly plate renewals and associated fees. It streamlines operations for these public utilities so they can focus resources on providing water and sewer services to communities rather than handling vehicle registration paperwork.",
+  "aiConArguments": "Opponents may express concerns that permanent plates reduce annual revenue from registration fees that could support the state's transportation budget. Some may question whether water and sewer authorities need special treatment compared to other government or nonprofit organizations, or worry that permanent plates could make it harder to track vehicle compliance and maintenance standards.",
+  "topic": "Local Government",
+  "textLength": 786,
+  "createdAt": "2026-06-23T03:06:36.238Z",
+  "sponsors": [
+    {"peopleId":24225,"name":"Benton Sawrey","party":"R","isPrimary":true}
+  ],
+  "rollCalls": []
+}

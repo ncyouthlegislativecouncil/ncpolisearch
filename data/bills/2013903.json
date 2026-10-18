@@ -1,0 +1,31 @@
+{
+  "billId": 2013903,
+  "billNumber": "S483",
+  "title": "The Children First Act",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "8c1dd2e166c3f54556d4737e77e2b749",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-26",
+  "url": "https://legiscan.com/NC/bill/S483/2025",
+  "aiSummary": "The Children First Act is a comprehensive bill that expands child care affordability through increased subsidies and facility grants, establishes tax credits for employer-provided child care, strengthens child health and safety protections (including regulations on social media, tobacco, vaping, cannabis, and firearms), creates a statewide fetal and infant mortality review team, and funds workforce development programs for child care workers. The bill appropriates over $150 million in funding across multiple initiatives.",
+  "aiProArguments": "Supporters argue this bill addresses critical challenges facing North Carolina families and children. They contend that the expanded child care subsidies and facility grants help reduce the cost burden on working families, particularly mothers, and address child care deserts in rural areas. Supporters believe the health and safety protections—including social media regulations, stricter tobacco/cannabis age restrictions, and firearm safe storage requirements—protect children from exploitation, substance abuse, and injury. They argue the workforce development investments address the child care shortage that limits access. Supporters emphasize that the bill's focus on fetal and infant mortality through a review team could reduce preventable deaths.",
+  "aiConArguments": "Opponents may argue the bill's significant appropriations ($150+ million) increase state spending and tax burden during uncertain economic times. Some express concerns that social media regulations could face constitutional challenges regarding free speech or prove difficult to enforce against large platforms. Critics may question whether the bill's approach to parental controls is realistic or whether social media companies operating nationally will comply with North Carolina-specific rules. Some may worry that cannabis proximity restrictions to schools could limit retail locations. Opponents might also argue that stricter tobacco and cannabis age requirements duplicate federal law or that firearm storage mandates infringe on Second Amendment rights, though supporters counter these protect child safety.",
+  "topic": "Social Services & Welfare",
+  "textLength": 68845,
+  "createdAt": "2026-06-23T03:08:15.269Z",
+  "sponsors": [
+    {"peopleId":20505,"name":"Sydney Batch","party":"D","isPrimary":true},
+    {"peopleId":24222,"name":"Lisa Grafstein","party":"D","isPrimary":true},
+    {"peopleId":20510,"name":"Terence Everitt","party":"D","isPrimary":true},
+    {"peopleId":25860,"name":"Woodson Bradley","party":"D","isPrimary":false},
+    {"peopleId":20220,"name":"Michael Garrett","party":"D","isPrimary":false},
+    {"peopleId":22425,"name":"Julie Mayfield","party":"D","isPrimary":false},
+    {"peopleId":21633,"name":"Natalie Murdock","party":"D","isPrimary":false},
+    {"peopleId":22426,"name":"DeAndrea Salvador","party":"D","isPrimary":false},
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":false},
+    {"peopleId":25859,"name":"Caleb Theodros","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

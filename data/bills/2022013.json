@@ -1,0 +1,30 @@
+{
+  "billId": 2022013,
+  "billNumber": "H846",
+  "title": "Teacher Retention and Recruitment",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "83288236f348ffc3940398cc6fa151ae",
+  "lastAction": "Ref to the Com on Education - K-12, if favorable, Pensions and Retirement, if favorable, Appropriations, if favorable, Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-04-10",
+  "url": "https://legiscan.com/NC/bill/H846/2025",
+  "aiSummary": "This bill aims to improve teacher recruitment and retention through multiple provisions: offering tuition waivers for children of veteran teachers with 12-16 years of service, reviving a program allowing retired teachers to work in high-need schools, expanding teacher licensure reciprocity for out-of-state teachers, and strengthening reporting requirements for threats and assaults against teachers.",
+  "aiProArguments": "Supporters argue this bill addresses teacher shortages by making the profession more attractive through college tuition benefits for teachers' children, enabling experienced retired teachers to fill classroom gaps in struggling schools, and streamlining hiring of qualified teachers from other states. The enhanced reporting requirements for threats and assaults are intended to better protect teachers and improve school safety documentation.",
+  "aiConArguments": "Opponents may be concerned about the fiscal costs, including $2 million annually for tuition waivers, $10 million yearly for retirement system impacts, and administrative expenses. Some may question whether retired teachers working under the revised program receive sufficient compensation or whether the reciprocity provisions adequately ensure teacher quality standards. Others might worry that the reporting changes could increase administrative burden on schools or affect student discipline processes.",
+  "topic": "Education",
+  "textLength": 36948,
+  "createdAt": "2026-06-23T02:58:31.494Z",
+  "sponsors": [
+    {"peopleId":25843,"name":"Brian Echevarria","party":"R","isPrimary":true},
+    {"peopleId":22609,"name":"David Willis","party":"R","isPrimary":true},
+    {"peopleId":25855,"name":"Mike Schietzelt","party":"R","isPrimary":true},
+    {"peopleId":25845,"name":"Grant Campbell","party":"R","isPrimary":true},
+    {"peopleId":25197,"name":"Jerry Branson","party":"R","isPrimary":false},
+    {"peopleId":25222,"name":"Blair Eddins","party":"R","isPrimary":false},
+    {"peopleId":24206,"name":"Frances Jackson","party":"D","isPrimary":false},
+    {"peopleId":22616,"name":"Ray Pickett","party":"R","isPrimary":false},
+    {"peopleId":24219,"name":"Bill Ward","party":"R","isPrimary":false},
+    {"peopleId":18495,"name":"Donna White","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

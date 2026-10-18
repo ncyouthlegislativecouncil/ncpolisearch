@@ -1,0 +1,27 @@
+{
+  "billId": 2021640,
+  "billNumber": "H831",
+  "title": "Comm. Inspect. Efficiency Act",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "dfbd5e181b9c0dcfbf9e79e934b5f940",
+  "lastAction": "Re-ref Com On Finance",
+  "lastActionDate": "2025-06-12",
+  "url": "https://legiscan.com/NC/bill/H831/2025",
+  "aiSummary": "This bill authorizes private commercial inspectors and firms to conduct building inspections for commercial structures in North Carolina, creates a certification and registration system for these private inspectors under the State Fire Marshal's office, allows permit holders to use private inspectors instead of local government inspectors, and repeals the state marketplace pool of code-enforcement officials.",
+  "aiProArguments": "Supporters argue this bill reduces construction delays by allowing property owners to hire private inspectors instead of waiting for local government inspection departments, which can be backlogged. It creates market competition in inspections, potentially lowering costs and improving service quality. The bill also streamlines permit approval for commercial and multifamily buildings by allowing third-party plan reviews, helping developers move projects forward faster while maintaining safety standards through certified inspector requirements.",
+  "aiConArguments": "Opponents worry that private inspectors may have conflicts of interest since they're hired by permit holders rather than being independent, potentially leading to inadequate oversight of building code compliance. Removing the state marketplace pool eliminates a resource local governments could use when understaffed. Some local governments may lose inspection fee revenue, affecting their budgets. There are also concerns about whether private inspectors will be held accountable to the same standards as government inspectors, and whether this adequately protects public safety and construction quality.",
+  "topic": "Local Government",
+  "textLength": 54933,
+  "createdAt": "2026-06-23T02:58:17.342Z",
+  "sponsors": [
+    {"peopleId":14606,"name":"Mark Brody","party":"R","isPrimary":true},
+    {"peopleId":22611,"name":"Jeff Zenger","party":"R","isPrimary":true},
+    {"peopleId":18460,"name":"Brenden Jones","party":"R","isPrimary":true},
+    {"peopleId":22946,"name":"Reece Pyrtle","party":"R","isPrimary":true},
+    {"peopleId":20519,"name":"Keith Kidwell","party":"R","isPrimary":false},
+    {"peopleId":21375,"name":"Jeffrey McNeely","party":"R","isPrimary":false},
+    {"peopleId":25856,"name":"Paul Scott","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

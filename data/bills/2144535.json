@@ -1,0 +1,26 @@
+{
+  "billId": 2144535,
+  "billNumber": "S815",
+  "title": "Const. Amend./Permitless Carry",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "3017dc8cec464edd70765f17c43a4554",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2026-04-22",
+  "url": "https://legiscan.com/NC/bill/S815/2025",
+  "aiSummary": "This bill proposes a constitutional amendment that would allow North Carolina citizens to carry firearms openly or concealed without a permit, provided they have not been convicted of violent crimes or certain drug felonies and have not been adjudicated mentally incompetent. The amendment would be submitted to voters in November 2026, and if approved, would replace current state law that prohibits concealed carry without a permit while maintaining an optional permit system for interstate reciprocity.",
+  "aiProArguments": "Supporters argue this amendment protects Second Amendment rights by treating open and concealed carry equally and removes barriers for law-abiding citizens to defend themselves. They contend that permit requirements create unnecessary delays and costs that disproportionately affect lower-income people, and that the current system infringes on constitutional rights since open carry is already legal in North Carolina.",
+  "aiConArguments": "Opponents argue that permitless carry removes important safety mechanisms, including background checks and training requirements that currently accompany concealed carry permits. They express concerns that removing permit requirements may make it harder for law enforcement to identify armed individuals and could increase risks in schools, government buildings, and public spaces without a clear system for tracking who carries weapons.",
+  "topic": "Criminal Justice & Public Safety",
+  "textLength": 3573,
+  "createdAt": "2026-06-23T03:10:57.650Z",
+  "sponsors": [
+    {"peopleId":11858,"name":"Timothy Moffitt","party":"R","isPrimary":true},
+    {"peopleId":22424,"name":"Michael Lazzara","party":"R","isPrimary":true},
+    {"peopleId":18465,"name":"Danny Britt","party":"R","isPrimary":true},
+    {"peopleId":25212,"name":"Bob Brinson","party":"R","isPrimary":false},
+    {"peopleId":20222,"name":"Todd Johnson","party":"R","isPrimary":false},
+    {"peopleId":11862,"name":"Norman Sanderson","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

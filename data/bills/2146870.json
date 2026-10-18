@@ -1,0 +1,24 @@
+{
+  "billId": 2146870,
+  "billNumber": "S946",
+  "title": "Keep Our Schools Standing Act",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "ebb4929bedb947b0bf5e6f55c103b62d",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2026-05-04",
+  "url": "https://legiscan.com/NC/bill/S946/2025",
+  "aiSummary": "This bill authorizes North Carolina to issue $50 billion in state bonds for public school construction, renovation, and repairs if voters approve it in a November 2026 election. The bond proceeds would be distributed to counties based on factors like student enrollment, facility age, and whether counties are low-wealth, with funds used for new buildings, renovations, technology infrastructure, and security improvements.",
+  "aiProArguments": "Supporters argue this bill addresses critical infrastructure needs in North Carolina schools, many of which have aging facilities requiring substantial repairs and upgrades. They contend the bond provides equitable funding to all counties, including low-wealth areas, and enables investments in modern learning environments, technology, and school security that benefit students across the state. Proponents note the bill requires voter approval and establishes oversight mechanisms through reporting requirements.",
+  "aiConArguments": "Opponents may argue that $50 billion represents a significant debt obligation that North Carolina taxpayers will repay through state revenue over decades, potentially limiting funds for other priorities. Some may question whether this is the most efficient use of state resources compared to other funding mechanisms, express concerns about project management and oversight of such a large program, or believe local communities should fund their own school infrastructure rather than relying on statewide bonding.",
+  "topic": "Education",
+  "textLength": 33313,
+  "createdAt": "2026-06-23T03:12:05.985Z",
+  "sponsors": [
+    {"peopleId":25858,"name":"Sophia Chitlik","party":"D","isPrimary":true},
+    {"peopleId":20220,"name":"Michael Garrett","party":"D","isPrimary":true},
+    {"peopleId":21633,"name":"Natalie Murdock","party":"D","isPrimary":false},
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

@@ -1,0 +1,22 @@
+{
+  "billId": 2013591,
+  "billNumber": "S469",
+  "title": "Improper Action Claims Act",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "7ea3d2ad020191c9640baaf8e6ca88e0",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-25",
+  "url": "https://legiscan.com/NC/bill/S469/2025",
+  "aiSummary": "This bill creates the Improper Action Claims Act, which allows private citizens and the Attorney General to sue public entities in North Carolina for knowingly failing to comply with state laws and regulations. The bill establishes civil penalties between $5,500 and $11,000 for violations, and allows private citizens (called 'qui tam plaintiffs') to bring lawsuits on behalf of the State and receive a percentage of any damages recovered.",
+  "aiProArguments": "Supporters argue this bill creates accountability for government agencies that ignore state law by giving citizens a legal tool to enforce compliance. It incentivizes whistleblowers to report violations by allowing them to share in recovered damages, and it protects employees who report improper actions from retaliation. The bill may help identify and correct governmental noncompliance that might otherwise go unaddressed.",
+  "aiConArguments": "Opponents may be concerned that this creates a new wave of litigation against public entities, potentially diverting resources and increasing legal costs for local and state government. There are worries about frivolous lawsuits, the burden on government agencies already stretched thin, and questions about whether private citizens should have the power to enforce state law through civil suits. Some may question whether this duplicates existing oversight mechanisms like audits and legislative accountability.",
+  "topic": "Other / General Government",
+  "textLength": 32444,
+  "createdAt": "2026-06-23T03:08:06.735Z",
+  "sponsors": [
+    {"peopleId":11858,"name":"Timothy Moffitt","party":"R","isPrimary":true},
+    {"peopleId":20513,"name":"Bobby Hanig","party":"R","isPrimary":true}
+  ],
+  "rollCalls": []
+}

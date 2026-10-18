@@ -1,0 +1,23 @@
+{
+  "billId": 2013432,
+  "billNumber": "S451",
+  "title": "Universal Licensure/Limit Continuing Ed",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "348f6737ab7fd60f75553fb436fef5b9",
+  "lastAction": "Re-ref Com On Finance",
+  "lastActionDate": "2026-06-17",
+  "url": "https://legiscan.com/NC/bill/S451/2025",
+  "aiSummary": "This bill allows out-of-state licensed professionals to obtain North Carolina licenses more easily through a 'universal licensure' pathway if they meet basic requirements like being licensed for at least one year, having good standing, and passing any state-specific law exam. It also exempts people age 65+ who have practiced their profession in North Carolina for 25+ years from continuing education requirements. The bill applies to most occupational licenses but excludes healthcare providers, lawyers, engineers, architects, and several other regulated professions.",
+  "aiProArguments": "Supporters argue this bill removes unnecessary barriers that prevent qualified professionals from moving to North Carolina, addressing workforce shortages and making it easier for people to relocate. They contend that if someone is already licensed and in good standing in another state, they have already proven competency, so requiring additional training or exams wastes time and money. They also note the continuing education exemption respects experienced professionals' expertise and reduces burdens on older workers nearing retirement.",
+  "aiConArguments": "Opponents worry that accepting out-of-state licenses without verifying substantial equivalency could allow less-qualified people to practice in North Carolina if another state's standards are lower, potentially harming consumers. They argue the 30-day approval timeline may be too short for boards to adequately investigate applicants' backgrounds and disciplinary histories. Concerns also exist that the continuing education exemption for older workers might allow outdated practices in fields where knowledge changes rapidly, creating safety or quality risks.",
+  "topic": "Business & Labor",
+  "textLength": 16578,
+  "createdAt": "2026-06-23T03:07:57.136Z",
+  "sponsors": [
+    {"peopleId":11858,"name":"Timothy Moffitt","party":"R","isPrimary":true},
+    {"peopleId":20518,"name":"Steve Jarvis","party":"R","isPrimary":true},
+    {"peopleId":17437,"name":"Thomas McInnis","party":"R","isPrimary":true}
+  ],
+  "rollCalls": []
+}

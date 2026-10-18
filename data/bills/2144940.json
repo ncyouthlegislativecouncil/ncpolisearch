@@ -1,0 +1,30 @@
+{
+  "billId": 2144940,
+  "billNumber": "S827",
+  "title": "Hate Crimes Prevention Act",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "a95eec6d9e79f047dd2193f3199afb34",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2026-04-23",
+  "url": "https://legiscan.com/NC/bill/S827/2025",
+  "aiSummary": "This bill expands North Carolina's hate crime laws by increasing penalties for crimes motivated by a victim's race, ethnicity, color, religion, nationality, country of origin, gender, gender identity, gender expression, disability, or sexual orientation. It also requires the State Bureau of Investigation to track hate crime statistics, mandates law enforcement training on identifying and reporting hate crimes, and requires prosecutor training on prosecuting hate crimes.",
+  "aiProArguments": "Supporters argue this bill provides stronger legal protections for vulnerable groups by increasing criminal penalties for bias-motivated offenses and creating civil remedies for victims. They contend that the required training and statistics database will help law enforcement better identify, respond to, and prosecute hate crimes, while restorative justice options may promote healing and accountability.",
+  "aiConArguments": "Opponents may argue that the expanded definitions and increased penalties raise concerns about due process and how subjective factors like 'actual or perceived' characteristics are proven in court. Some may question whether the bill's broad categories and significant funding requirements ($1.89 million plus recurring costs) are proportionate, and whether existing laws already address these offenses adequately.",
+  "topic": "Criminal Justice & Public Safety",
+  "textLength": 18306,
+  "createdAt": "2026-06-23T03:11:02.806Z",
+  "sponsors": [
+    {"peopleId":17936,"name":"Jay Chaudhuri","party":"D","isPrimary":true},
+    {"peopleId":20223,"name":"Mujtaba Mohammed","party":"D","isPrimary":true},
+    {"peopleId":17147,"name":"Gale Adcock","party":"D","isPrimary":false},
+    {"peopleId":25858,"name":"Sophia Chitlik","party":"D","isPrimary":false},
+    {"peopleId":24222,"name":"Lisa Grafstein","party":"D","isPrimary":false},
+    {"peopleId":21633,"name":"Natalie Murdock","party":"D","isPrimary":false},
+    {"peopleId":22426,"name":"DeAndrea Salvador","party":"D","isPrimary":false},
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":false},
+    {"peopleId":25859,"name":"Caleb Theodros","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

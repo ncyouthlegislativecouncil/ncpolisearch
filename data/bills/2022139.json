@@ -1,0 +1,29 @@
+{
+  "billId": 2022139,
+  "billNumber": "H867",
+  "title": "Poultry Waste Management",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "4948685486a721aa7967f75fc81b8e22",
+  "lastAction": "Ref To Com On Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-04-10",
+  "url": "https://legiscan.com/NC/bill/H867/2025",
+  "aiSummary": "This bill creates a permitting system for large-scale dry litter poultry operations in North Carolina, prohibits new animal waste management systems in 100-year floodplains, requires the Environmental Review Commission to study poultry waste impacts, and increases transparency about farm operations by allowing public access to location and size information.",
+  "aiProArguments": "Supporters argue this bill addresses environmental and public health risks from poultry waste, including water pollution, odor problems, and pathogen contamination that currently lack adequate regulation. They contend the permitting system brings poultry operations under similar oversight as swine operations, the study will identify technological solutions like anaerobic digesters that provide economic benefits, and increased transparency helps communities understand local agricultural impacts.",
+  "aiConArguments": "Opponents may argue the bill imposes new regulatory burdens and costs on poultry farmers, potentially affecting a major agricultural sector in the state. They may be concerned about the permitting delays and requirements, restrictions on floodplain operations that limit farm expansion options, and increased public disclosure requirements that could disadvantage individual operations competing with larger corporations.",
+  "topic": "Agriculture",
+  "textLength": 26782,
+  "createdAt": "2026-06-23T02:58:43.935Z",
+  "sponsors": [
+    {"peopleId":2077,"name":"Mary Harrison","party":"D","isPrimary":true},
+    {"peopleId":19238,"name":"Deb Butler","party":"D","isPrimary":true},
+    {"peopleId":25844,"name":"Julia Greenfield","party":"D","isPrimary":true},
+    {"peopleId":26396,"name":"Phil Rubin","party":"D","isPrimary":true},
+    {"peopleId":18451,"name":"Mary Belk","party":"D","isPrimary":false},
+    {"peopleId":24202,"name":"Maria Cervania","party":"D","isPrimary":false},
+    {"peopleId":25851,"name":"Aisha Dew","party":"D","isPrimary":false},
+    {"peopleId":19360,"name":"Marcia Morey","party":"D","isPrimary":false},
+    {"peopleId":24214,"name":"Renee Price","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

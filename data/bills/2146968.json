@@ -1,0 +1,22 @@
+{
+  "billId": 2146968,
+  "billNumber": "H1170",
+  "title": "Funding for Winston-Salem",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "e996804df51a1413856f8f7731178ee8",
+  "lastAction": "Ref to the Com on Appropriations, if favorable, Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2026-05-04",
+  "url": "https://legiscan.com/NC/bill/H1170/2025",
+  "aiSummary": "This bill appropriates $210,800 in state funding for the 2026-2027 fiscal year to Bodegas Alvarado, Inc., a nonprofit organization in Winston-Salem, to help convert an abandoned industrial building into a community center for recreation and sports activities.",
+  "aiProArguments": "Supporters argue this bill revitalizes an unused industrial property and creates a community resource for recreation and sports in Winston-Salem. The funding helps a nonprofit organization complete a project that would benefit local residents, particularly by providing accessible recreational facilities and multipurpose community space.",
+  "aiConArguments": "Opponents may question whether state funds should support local projects that might be better funded through municipal budgets or private fundraising. Some may also raise concerns about whether this is the best use of limited state resources compared to other statewide priorities, or ask for more details about the nonprofit's track record and long-term sustainability plans.",
+  "topic": "Taxes & Budget",
+  "textLength": 1087,
+  "createdAt": "2026-06-23T03:02:54.115Z",
+  "sponsors": [
+    {"peopleId":24199,"name":"Kanika Brown","party":"D","isPrimary":true},
+    {"peopleId":22599,"name":"Amber Baker","party":"D","isPrimary":true}
+  ],
+  "rollCalls": []
+}

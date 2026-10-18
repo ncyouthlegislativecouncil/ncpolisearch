@@ -1,0 +1,29 @@
+{
+  "billId": 2147108,
+  "billNumber": "H1169",
+  "title": "Prohibit Driving with Animal in Lap",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "3b94b5f9b2e683f01ed5f68199225751",
+  "lastAction": "Ref To Com On Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2026-05-04",
+  "url": "https://legiscan.com/NC/bill/H1169/2025",
+  "aiSummary": "This bill makes it illegal for drivers to hold a live animal in their lap while operating a motor vehicle on public roads or highways in North Carolina. Violations are treated as infractions with a $100 fine plus court costs, and no driver's license points are assessed.",
+  "aiProArguments": "Supporters argue that holding animals in laps while driving is a significant distraction that increases crash risk and endangers both drivers and passengers. They contend this law protects public safety by removing a preventable hazard from roads, similar to existing distracted driving restrictions. The bill allocates $50,000 for public awareness to help drivers understand the safety benefits.",
+  "aiConArguments": "Opponents may argue the law is overly broad and difficult to enforce, particularly in edge cases like briefly holding an animal during legitimate stops. Some question whether this specific behavior causes significant accidents compared to other distractions, and whether a new law and public awareness campaign are necessary uses of state resources. Concerns may also arise about the practical challenges of police officers determining violations while monitoring traffic.",
+  "topic": "Criminal Justice & Public Safety",
+  "textLength": 2040,
+  "createdAt": "2026-06-23T03:02:53.334Z",
+  "sponsors": [
+    {"peopleId":20515,"name":"Zack Forde-Hawkins","party":"D","isPrimary":true},
+    {"peopleId":25844,"name":"Julia Greenfield","party":"D","isPrimary":true},
+    {"peopleId":18449,"name":"Cynthia Ball","party":"D","isPrimary":false},
+    {"peopleId":24198,"name":"Gloristine Brown","party":"D","isPrimary":false},
+    {"peopleId":24199,"name":"Kanika Brown","party":"D","isPrimary":false},
+    {"peopleId":19238,"name":"Deb Butler","party":"D","isPrimary":false},
+    {"peopleId":24202,"name":"Maria Cervania","party":"D","isPrimary":false},
+    {"peopleId":20509,"name":"Allison Dahle","party":"D","isPrimary":false},
+    {"peopleId":20521,"name":"Carolyn Logan","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

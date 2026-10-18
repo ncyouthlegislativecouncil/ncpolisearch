@@ -1,0 +1,24 @@
+{
+  "billId": 2144467,
+  "billNumber": "S792",
+  "title": "Kayla's Act: Protecting Dom. Violence Victims",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "0a3b6b1026ac96be3798c6a2df4c6011",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2026-04-23",
+  "url": "https://legiscan.com/NC/bill/S792/2025",
+  "aiSummary": "Kayla's Act modifies North Carolina's domestic violence laws in three main ways: it allows courts to use prior statements from witnesses who become unavailable due to the defendant's wrongdoing, extends the statute of limitations for certain domestic violence misdemeanors to 10 years, and permits domestic violence victims to testify remotely (outside the defendant's physical presence) in criminal proceedings. The bill also appropriates $2 million to the courts for implementation and public awareness.",
+  "aiProArguments": "Supporters argue this bill protects domestic violence victims from further trauma and intimidation during the legal process. Allowing remote testimony reduces the fear and emotional distress victims may experience testifying in front of their abuser, potentially encouraging more victims to come forward and cooperate with prosecutors. The extended statute of limitations and hearsay exceptions also help ensure accountability when victims become unavailable due to the defendant's actions, preventing abusers from escaping justice through intimidation or harm.",
+  "aiConArguments": "Opponents raise concerns about defendants' constitutional rights, particularly the Sixth Amendment right to confront witnesses in person. They argue that remote testimony may reduce the jury's ability to fully assess a witness's credibility and demeanor, and that defense attorneys may have more difficulty conducting effective cross-examinations without the traditional courtroom dynamics. Some also question whether the $2 million appropriation is sufficient and whether the bill creates adequate safeguards to ensure remote testimony is used only when truly necessary rather than as a routine practice.",
+  "topic": "Criminal Justice & Public Safety",
+  "textLength": 10237,
+  "createdAt": "2026-06-23T03:10:47.122Z",
+  "sponsors": [
+    {"peopleId":25860,"name":"Woodson Bradley","party":"D","isPrimary":true},
+    {"peopleId":25858,"name":"Sophia Chitlik","party":"D","isPrimary":false},
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

@@ -1,0 +1,29 @@
+{
+  "billId": 2146606,
+  "billNumber": "H1121",
+  "title": "Added Fee for Sexually Oriented Businesses",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "c28acc1bbe88e70b7d0352af78ace29c",
+  "lastAction": "Re-ref Com On Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2026-06-30",
+  "url": "https://legiscan.com/NC/bill/H1121/2025",
+  "aiSummary": "This bill imposes a $10 fee per customer entry at sexually oriented businesses that serve alcohol in North Carolina. The fees would be collected quarterly by businesses and deposited into the Sexual Assault and Rape Crisis Center Fund to support sexual assault services.",
+  "aiProArguments": "Supporters argue this fee addresses secondary harms they believe result from combining alcohol with sexually explicit entertainment, such as increased public safety and health concerns. They contend the revenue generated—directed to sexual assault crisis centers—would provide meaningful funding for victim services and support while the fee structure avoids targeting the businesses' expressive content itself.",
+  "aiConArguments": "Opponents may argue the fee functions as a targeted tax on a specific legal industry and could be viewed as punitive or discriminatory. Critics might also question whether a $10 per-entry fee is the most effective way to address claimed secondary impacts, and whether the causal connection between these businesses and sexual assault justifies dedicating the revenue specifically to sexual assault services rather than other community needs.",
+  "topic": "Taxes & Budget",
+  "textLength": 4101,
+  "createdAt": "2026-06-23T03:02:04.512Z",
+  "sponsors": [
+    {"peopleId":14633,"name":"Dennis Riddell","party":"R","isPrimary":true},
+    {"peopleId":2049,"name":"Patricia Cotham","party":"R","isPrimary":true},
+    {"peopleId":25849,"name":"Monika Johnson-Hostler","party":"D","isPrimary":true},
+    {"peopleId":25856,"name":"Paul Scott","party":"R","isPrimary":true},
+    {"peopleId":25197,"name":"Jerry Branson","party":"R","isPrimary":false},
+    {"peopleId":24198,"name":"Gloristine Brown","party":"D","isPrimary":false},
+    {"peopleId":25213,"name":"Tracy Clark","party":"D","isPrimary":false},
+    {"peopleId":20509,"name":"Allison Dahle","party":"D","isPrimary":false},
+    {"peopleId":21375,"name":"Jeffrey McNeely","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

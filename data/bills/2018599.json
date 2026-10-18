@@ -1,0 +1,22 @@
+{
+  "billId": 2018599,
+  "billNumber": "H678",
+  "title": "Ensure Constitutional Government",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "80523d2e6cd1a7ca806b0088f1fa50cc",
+  "lastAction": "Ref To Com On Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-04-03",
+  "url": "https://legiscan.com/NC/bill/H678/2025",
+  "aiSummary": "This bill proposes a constitutional amendment that would limit the governor's emergency powers during a declared state of emergency. It would require the General Assembly to automatically convene within seven days of a statewide emergency declaration and would cap emergency orders at two weeks unless approved by the legislature. The bill also modifies the Emergency Management Act to shorten timelines for emergency declarations and require Council of State approval.",
+  "aiProArguments": "Supporters argue this bill protects constitutional rights and prevents executive overreach by ensuring the legislature maintains its constitutional role in lawmaking. They contend that COVID-19 lockdowns caused unnecessary economic and social damage without scientific justification, and that requiring legislative approval for extended emergencies creates needed checks and balances on executive power. Proponents believe this restores the original intent of the Emergency Management Act and prevents governors from indefinitely ruling by executive order.",
+  "aiConArguments": "Opponents contend that automatic legislative sessions and two-week limits could slow emergency response when quick decisive action is needed to protect public health or safety. They argue that requiring constant legislative approval during crises creates political gridlock and that emergency powers exist precisely because legislatures may not convene quickly enough. Critics also worry the amendment could make it harder to implement coordinated public health responses during future pandemics or natural disasters.",
+  "topic": "Other / General Government",
+  "textLength": 11836,
+  "createdAt": "2026-06-23T02:56:17.709Z",
+  "sponsors": [
+    {"peopleId":2034,"name":"John Blust","party":"R","isPrimary":true},
+    {"peopleId":14606,"name":"Mark Brody","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

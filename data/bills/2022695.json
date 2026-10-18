@@ -1,0 +1,27 @@
+{
+  "billId": 2022695,
+  "billNumber": "H969",
+  "title": "Study the Abolition of Contrib. Negligence",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "4a40538f280f8d674b311095b07d3a55",
+  "lastAction": "Ref To Com On Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-04-14",
+  "url": "https://legiscan.com/NC/bill/H969/2025",
+  "aiSummary": "This bill directs the Legislative Research Commission to study whether North Carolina should eliminate its contributory negligence law and adopt a different legal framework. The study would examine how abolishing contributory negligence affects citizens, evaluate financial impacts across different sectors, and provide recommendations to the General Assembly by 2026.",
+  "aiProArguments": "Supporters argue that contributory negligence is too harsh because it can prevent injured people from recovering any damages if they are found even partially at fault for an accident. They contend that a comparative negligence system would be fairer to citizens by allowing partial recovery and would align North Carolina with most other states that have adopted similar frameworks.",
+  "aiConArguments": "Opponents worry that abolishing contributory negligence could increase litigation costs, raise insurance premiums for consumers and businesses, and reduce personal accountability for one's own actions. They argue that the current system encourages caution and personal responsibility, and changing it could have unintended negative fiscal consequences that the study should carefully examine.",
+  "topic": "Criminal Justice & Public Safety",
+  "textLength": 1568,
+  "createdAt": "2026-06-23T02:59:53.793Z",
+  "sponsors": [
+    {"peopleId":24210,"name":"Tim Longest","party":"D","isPrimary":true},
+    {"peopleId":2034,"name":"John Blust","party":"R","isPrimary":true},
+    {"peopleId":18451,"name":"Mary Belk","party":"D","isPrimary":false},
+    {"peopleId":24202,"name":"Maria Cervania","party":"D","isPrimary":false},
+    {"peopleId":2077,"name":"Mary Harrison","party":"D","isPrimary":false},
+    {"peopleId":19360,"name":"Marcia Morey","party":"D","isPrimary":false},
+    {"peopleId":26396,"name":"Phil Rubin","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

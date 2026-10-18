@@ -1,0 +1,21 @@
+{
+  "billId": 2019155,
+  "billNumber": "H740",
+  "title": "Limit Contractor Liability in State Contracts",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "feac46d9f1f6b827ac51d2d5cf7a6813",
+  "lastAction": "Re-ref to the Com on Finance, if favorable, Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2025-06-18",
+  "url": "https://legiscan.com/NC/bill/H740/2025",
+  "aiSummary": "This bill establishes limits on how much money contractors can be held liable for when they have state contracts. Liability is capped at two times the contract value by default, but can be increased to three times the value if the state completes a risk assessment showing the higher amount is necessary. The bill excludes intentional misconduct, property damage, and personal injury from these limits.",
+  "aiProArguments": "Supporters argue this bill protects contractors from unlimited financial exposure and helps reduce contract costs since contractors won't need to purchase expensive insurance to cover unlimited liability. They contend reasonable liability caps encourage more businesses to bid on state contracts, increasing competition and potentially lowering prices for taxpayers while still protecting the state's interests through risk assessments and financial verification.",
+  "aiConArguments": "Opponents worry this bill limits the state's ability to recover full damages when contractors fail to perform or cause harm, potentially leaving taxpayers to cover losses beyond the liability cap. They argue that contractors should bear the full cost of their mistakes and that capping liability could reduce incentives for contractors to maintain high safety and quality standards on state projects.",
+  "topic": "Business & Labor",
+  "textLength": 3311,
+  "createdAt": "2026-06-23T02:57:06.508Z",
+  "sponsors": [
+    {"peopleId":21377,"name":"Jake Johnson","party":"R","isPrimary":true}
+  ],
+  "rollCalls": []
+}

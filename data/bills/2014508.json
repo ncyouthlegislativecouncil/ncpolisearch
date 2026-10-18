@@ -1,0 +1,23 @@
+{
+  "billId": 2014508,
+  "billNumber": "S751",
+  "title": "Protect Children from Leaking Garbage Trucks",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "7aa7fb5161f0005f3b0e6ee55b923ebd",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-26",
+  "url": "https://legiscan.com/NC/bill/S751/2025",
+  "aiSummary": "This bill repeals a 2013 law change and requires the Commission for Public Health to readopt an earlier rule (from August 22, 2013) regulating leaking solid waste transport vehicles. Until the new rule takes effect, state agencies must enforce the older regulations that were in place before 2013.",
+  "aiProArguments": "Supporters argue this bill restores important public health protections that were removed in 2013. They contend that leaking garbage trucks pose health risks to children and communities, particularly through contamination of roads and neighborhoods. Reinstating the original regulation would ensure waste transport vehicles are properly maintained and sealed to prevent debris and hazardous materials from spilling.",
+  "aiConArguments": "Opponents may argue that the 2013 change was made for good reason—possibly to reduce regulatory burden on waste management companies or because the original rule was ineffective or outdated. They could contend that reverting to old regulations without understanding why they were changed in the first place could impose unnecessary compliance costs on the waste industry without solving the problem, or that modern solutions exist that are more efficient than the 2013-era rule.",
+  "topic": "Healthcare",
+  "textLength": 1345,
+  "createdAt": "2026-06-23T03:10:31.997Z",
+  "sponsors": [
+    {"peopleId":20220,"name":"Michael Garrett","party":"D","isPrimary":true},
+    {"peopleId":12032,"name":"Gladys Robinson","party":"D","isPrimary":true},
+    {"peopleId":20524,"name":"Kandie Smith","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

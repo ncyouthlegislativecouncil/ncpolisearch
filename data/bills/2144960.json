@@ -1,0 +1,21 @@
+{
+  "billId": 2144960,
+  "billNumber": "H1041",
+  "title": "Deannex Certain Prop. from City of Morehead",
+  "status": "1",
+  "chamber": "H",
+  "changeHash": "f1b37db859b7a5dea01fa3c50040c455",
+  "lastAction": "Re-ref Com On Rules, Calendar, and Operations of the House",
+  "lastActionDate": "2026-06-09",
+  "url": "https://legiscan.com/NC/bill/H1041/2025",
+  "aiSummary": "This bill removes three specific parcels of property (identified by Carteret County parcel numbers) from the City of Morehead City's corporate limits, effective June 30, 2026. After this date, these properties will no longer be subject to municipal taxes, though any existing tax liens or special assessments owed to the city before the effective date can still be collected.",
+  "aiProArguments": "Supporters may argue that deannexation allows property owners to escape unnecessary municipal taxation and city regulations they do not benefit from or support. Proponents might contend that the properties in question are better served by county services rather than city services, making deannexation a more efficient and fair arrangement for those property owners.",
+  "aiConArguments": "Opponents may worry that removing taxable property reduces the City of Morehead City's tax revenue, potentially harming city services, infrastructure maintenance, or municipal operations that remaining residents depend on. Critics might also question whether deannexing specific parcels creates fairness issues or sets a precedent that could lead to further property loss and financial instability for the city.",
+  "topic": "Local Government",
+  "textLength": 1460,
+  "createdAt": "2026-06-23T03:00:41.253Z",
+  "sponsors": [
+    {"peopleId":24201,"name":"Celeste Cairns","party":"R","isPrimary":true}
+  ],
+  "rollCalls": []
+}

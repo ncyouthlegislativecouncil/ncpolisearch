@@ -1,0 +1,23 @@
+{
+  "billId": 2009059,
+  "billNumber": "S314",
+  "title": "Eliminate ETJ Overlap",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "82b5847b0beb497925196b2fa2a0c2b8",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-18",
+  "url": "https://legiscan.com/NC/bill/S314/2025",
+  "aiSummary": "This bill prevents cities from exercising zoning and land use authority in areas outside their city limits (called extraterritorial jurisdiction or ETJ) if the county has already adopted its own zoning regulations. The bill aims to eliminate overlapping regulatory authority between cities and counties by giving counties primary control over unincorporated areas.",
+  "aiProArguments": "Supporters argue this bill reduces confusion and delays by eliminating situations where both a city and county claim authority over the same land. They contend it streamlines development decisions, reduces regulatory burden on property owners and developers, and respects county zoning authority in unincorporated areas where the county is already regulating land use.",
+  "aiConArguments": "Opponents argue this bill limits cities' ability to plan for future growth and development near their borders, potentially undermining municipal planning efforts. They contend cities have legitimate interests in shaping growth around their communities and that eliminating ETJ authority weakens cities' control over development that may eventually be annexed or affect city services.",
+  "topic": "Local Government",
+  "textLength": 1619,
+  "createdAt": "2026-06-23T03:06:40.131Z",
+  "sponsors": [
+    {"peopleId":11858,"name":"Timothy Moffitt","party":"R","isPrimary":true},
+    {"peopleId":20518,"name":"Steve Jarvis","party":"R","isPrimary":true},
+    {"peopleId":14615,"name":"Carl Ford","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

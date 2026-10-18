@@ -1,0 +1,21 @@
+{
+  "billId": 2146933,
+  "billNumber": "S1048",
+  "title": "Certificate of Title/Off-Road Motorcycle",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "471cf54aa56e11f518432fbf648ede73",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2026-05-04",
+  "url": "https://legiscan.com/NC/bill/S1048/2025",
+  "aiSummary": "This bill allows owners of off-road motorcycles to obtain certificates of title from the North Carolina Division of Motor Vehicles. Off-road motorcycles are defined as motorcycles designed exclusively for off-road use with no more than two wheels on the ground. Owners can apply for a title by submitting an application with owner information, vehicle description, and lien details.",
+  "aiProArguments": "Supporters argue that certificates of title provide legal proof of ownership for off-road motorcycles, helping owners protect their property and resolve ownership disputes. This brings off-road motorcycles in line with other similar vehicles like all-terrain vehicles and utility vehicles that already have titling options available in North Carolina.",
+  "aiConArguments": "Opponents may be concerned about the administrative burden and cost of implementing a new titling system for off-road motorcycles. Some may question whether titling is necessary for vehicles used exclusively off-road, or worry about potential complications if off-road vehicles are later used on public roads despite their intended purpose.",
+  "topic": "Transportation & Infrastructure",
+  "textLength": 2485,
+  "createdAt": "2026-06-23T03:12:56.986Z",
+  "sponsors": [
+    {"peopleId":20518,"name":"Steve Jarvis","party":"R","isPrimary":true}
+  ],
+  "rollCalls": []
+}

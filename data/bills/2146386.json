@@ -1,0 +1,23 @@
+{
+  "billId": 2146386,
+  "billNumber": "S905",
+  "title": "Foster Care Motor Vehicle Insurance",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "b7423e214469c3f40596112a5f1d106b",
+  "lastAction": "Re-ref Com On Appropriations/Base Budget",
+  "lastActionDate": "2026-05-06",
+  "url": "https://legiscan.com/NC/bill/S905/2025",
+  "aiSummary": "This bill clarifies motor vehicle insurance rules for foster children and establishes a financial assistance program to help pay for their car insurance. It allows foster parents to exclude foster children from their insurance policies if they're covered elsewhere, requires insurance companies to offer named driver exclusion endorsements, and creates a state program that reimburses premiums and deductibles for eligible foster youth who have completed driver's education.",
+  "aiProArguments": "Supporters argue this bill removes barriers that prevent foster children from legally driving by making insurance more affordable and accessible. Foster youth often face higher insurance costs and limited options, which can hinder their independence and job opportunities. The financial assistance program and clarified insurance options help ensure foster children can get the coverage they need while easing the financial burden on foster parents.",
+  "aiConArguments": "Opponents may question the $1 million appropriation and whether government should subsidize insurance costs that typically fall to parents or individuals. Some might argue the bill creates administrative complexity for insurance companies and the Department of Health and Human Services, and that eligibility requirements like driver's education completion may still exclude some foster youth who need immediate transportation access.",
+  "topic": "Social Services & Welfare",
+  "textLength": 5905,
+  "createdAt": "2026-06-23T03:11:44.458Z",
+  "sponsors": [
+    {"peopleId":19669,"name":"Vickie Sawyer","party":"R","isPrimary":true},
+    {"peopleId":25250,"name":"Dana Jones","party":"R","isPrimary":true},
+    {"peopleId":20223,"name":"Mujtaba Mohammed","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}

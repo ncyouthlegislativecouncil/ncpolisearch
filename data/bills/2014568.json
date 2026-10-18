@@ -1,0 +1,23 @@
+{
+  "billId": 2014568,
+  "billNumber": "S759",
+  "title": "Minors Health Protection Act",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "6889eb3a4fd65870f8526536dc466a5c",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-26",
+  "url": "https://legiscan.com/NC/bill/S759/2025",
+  "aiSummary": "This bill changes North Carolina law regarding minors' medical consent and parental access to records. It narrows the conditions under which minors can consent to treatment without parental permission, requires parental consent for certain vaccines, and establishes new parental rights to access most of a minor's medical records while creating limited exceptions for abuse investigations and court-ordered privacy.",
+  "aiProArguments": "Supporters argue this bill strengthens parental involvement in healthcare decisions affecting minors, allowing parents to better protect their children's wellbeing and make informed decisions about treatment. They contend that parents have a responsibility and right to know about their child's medical care, and that the new vaccine consent requirement ensures parental oversight of emergency-use medications not yet fully FDA-approved.",
+  "aiConArguments": "Opponents worry this bill may discourage minors from seeking confidential care for sensitive health issues like substance abuse, sexual health, or mental health treatment if they fear parental disclosure. They argue that limiting minor consent and mandating parental access could delay or prevent minors from obtaining necessary care, particularly for youth in difficult family situations, and that vaccine requirements may reduce immunization rates during public health emergencies.",
+  "topic": "Healthcare",
+  "textLength": 5491,
+  "createdAt": "2026-06-23T03:10:37.129Z",
+  "sponsors": [
+    {"peopleId":11858,"name":"Timothy Moffitt","party":"R","isPrimary":true},
+    {"peopleId":25250,"name":"Dana Jones","party":"R","isPrimary":true},
+    {"peopleId":20216,"name":"Jim Burgin","party":"R","isPrimary":false}
+  ],
+  "rollCalls": []
+}

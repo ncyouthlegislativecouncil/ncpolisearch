@@ -1,0 +1,27 @@
+{
+  "billId": 2013208,
+  "billNumber": "S464",
+  "title": "Inmate Medicaid Suspension/Team-Based Care",
+  "status": "1",
+  "chamber": "S",
+  "changeHash": "236b522c60ac61002a745d6eabe0ece3",
+  "lastAction": "Ref To Com On Rules and Operations of the Senate",
+  "lastActionDate": "2025-03-25",
+  "url": "https://legiscan.com/NC/bill/S464/2025",
+  "aiSummary": "This bill requires North Carolina to develop a team-based Medicaid service for substance use disorder treatment that includes screening, medication, recovery support, and case management. It also changes policy so that incarcerated individuals have their Medicaid suspended rather than terminated, allowing them to quickly restart coverage upon release.",
+  "aiProArguments": "Supporters argue this bill improves substance use treatment by creating coordinated, comprehensive care that addresses a major public health issue. They contend that suspending rather than terminating Medicaid for incarcerated people reduces barriers to healthcare after release, helping formerly incarcerated individuals reintegrate and reducing recidivism by maintaining continuity of care.",
+  "aiConArguments": "Opponents may be concerned about the costs of expanding Medicaid services for substance use treatment and the state's fiscal burden. Some may also question whether suspending Medicaid for incarcerated individuals is appropriate use of public healthcare funds, particularly if they believe incarceration should result in loss of certain benefits.",
+  "topic": "Healthcare",
+  "textLength": 3519,
+  "createdAt": "2026-06-23T03:08:04.519Z",
+  "sponsors": [
+    {"peopleId":20216,"name":"Jim Burgin","party":"R","isPrimary":true},
+    {"peopleId":17147,"name":"Gale Adcock","party":"D","isPrimary":false},
+    {"peopleId":24220,"name":"Val Applewhite","party":"D","isPrimary":false},
+    {"peopleId":24222,"name":"Lisa Grafstein","party":"D","isPrimary":false},
+    {"peopleId":22425,"name":"Julie Mayfield","party":"D","isPrimary":false},
+    {"peopleId":25859,"name":"Caleb Theodros","party":"D","isPrimary":false},
+    {"peopleId":17163,"name":"Joyce Waddell","party":"D","isPrimary":false}
+  ],
+  "rollCalls": []
+}
