@@ -83,6 +83,10 @@ export type Race = {
   district: number | null;
   area: string; // "Statewide", "Wake County", or "7 counties"
   statewide: boolean;
+  // Party that held the seat going into the election ("R", "D", ...), used to
+  // mark flips. Frozen when the results were first recorded so it survives the
+  // roster turning over afterward; null when unknown (e.g. Court of Appeals).
+  previousParty: string | null;
   candidates: ElectionCandidate[]; // most votes first
 };
 

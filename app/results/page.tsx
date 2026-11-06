@@ -13,7 +13,18 @@ export const metadata: Metadata = {
 function TopTwoCard({ label, race }: { label: string; race: RaceView | undefined }) {
   return (
     <div className="rounded-lg border border-gray-200 bg-white p-4 shadow-sm">
-      <p className="font-mono text-xs font-bold uppercase tracking-wider text-navy">{label}</p>
+      <div className="flex items-start justify-between gap-2">
+        <p className="font-mono text-xs font-bold uppercase tracking-wider text-navy">{label}</p>
+        {race?.flip && (
+          <span
+            className={`rounded px-2 py-0.5 text-[10px] font-bold uppercase text-white ${
+              race.flip.to === "D" ? "bg-democrat" : race.flip.to === "R" ? "bg-republican" : "bg-navymuted"
+            }`}
+          >
+            Flip {race.flip.from} → {race.flip.to}
+          </span>
+        )}
+      </div>
       <ul className="mt-2 space-y-1">
         {(race?.candidates ?? []).slice(0, 2).map((c) => (
           <li key={c.name} className="flex items-baseline justify-between gap-2 text-sm">
@@ -37,12 +48,14 @@ function ChamberCard({
   majority,
   threeFifths,
   recountSeats,
+  flips,
 }: {
   label: string;
   tally: ChamberTally;
   majority: number;
   threeFifths: number;
   recountSeats: number;
+  flips: string | null;
 }) {
   const pct = (n: number) => `${(100 * n) / tally.seats}%`;
   const control =
@@ -82,8 +95,18 @@ function ChamberCard({
           {recountSeats} seat{recountSeats === 1 ? "" : "s"} within recount margin
         </p>
       )}
+      {flips && <p className="mt-1 text-[11px] font-semibold text-navy">{flips}</p>}
     </div>
   );
+}
+
+function flipSummary(races: RaceView[], category: RaceView["category"]): string | null {
+  const flipped = races.filter((r) => r.category === category && r.flip);
+  if (flipped.length === 0) return null;
+  const byParty = new Map<string, number>();
+  for (const r of flipped) byParty.set(r.flip!.to, (byParty.get(r.flip!.to) ?? 0) + 1);
+  const parts = Array.from(byParty.entries()).map(([party, n]) => `${n} to ${party}`);
+  return `${flipped.length} seat${flipped.length === 1 ? "" : "s"} flipped (${parts.join(", ")})`;
 }
 
 export default function ResultsPage() {
@@ -132,6 +155,7 @@ export default function ResultsPage() {
             majority={61}
             threeFifths={72}
             recountSeats={races.filter((r) => r.category === "nc-house" && r.status === "recount").length}
+            flips={flipSummary(races, "nc-house")}
           />
           <ChamberCard
             label="NC Senate"
@@ -139,6 +163,7 @@ export default function ResultsPage() {
             majority={26}
             threeFifths={30}
             recountSeats={races.filter((r) => r.category === "nc-senate" && r.status === "recount").length}
+            flips={flipSummary(races, "nc-senate")}
           />
         </div>
 
@@ -153,7 +178,10 @@ export default function ResultsPage() {
           State Board&apos;s count. &ldquo;Recount margin&rdquo; means the race is close enough that
           the trailing candidate may request a recount under NC law (within 1% of votes cast, or for
           statewide races 0.5% or 10,000 votes, whichever is less). Seat counts are based on who
-          leads each race.
+          leads each race. &ldquo;Battleground&rdquo; races are legislative races decided by fewer
+          than 10 points. A &ldquo;flip&rdquo; is a seat where the leading candidate&apos;s party
+          differs from the party that held it before the election (for NC House and Senate, the
+          member serving on Election Day; for Congress, the 2024 results). U = unaffiliated.
         </p>
       </div>
     </main>

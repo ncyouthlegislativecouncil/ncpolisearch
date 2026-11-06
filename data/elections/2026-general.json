@@ -13,6 +13,7 @@
       "contest": "US SENATE",
       "area": "Statewide",
       "statewide": true,
+      "previousParty": "R",
       "candidates": [
         {"name":"Roy Cooper","party":"D","votes":2467963},
         {"name":"Michael Whatley","party":"R","votes":1643088},
@@ -28,6 +29,7 @@
       "contest": "US HOUSE OF REPRESENTATIVES DISTRICT 01",
       "area": "25 counties",
       "statewide": false,
+      "previousParty": "D",
       "candidates": [
         {"name":"Don Davis","party":"D","votes":156564},
         {"name":"Laurie Buckhout","party":"R","votes":146259},
@@ -42,6 +44,7 @@
       "contest": "US HOUSE OF REPRESENTATIVES DISTRICT 02",
       "area": "Wake County",
       "statewide": false,
+      "previousParty": "D",
       "candidates": [
         {"name":"Deborah K. Ross","party":"D","votes":245402},
         {"name":"Eugene F. Douglass","party":"R","votes":76763},
@@ -57,6 +60,7 @@
       "contest": "US HOUSE OF REPRESENTATIVES DISTRICT 03",
       "area": "9 counties",
       "statewide": false,
+      "previousParty": "R",
       "candidates": [
         {"name":"Greg Murphy","party":"R","votes":117583},
         {"name":"Raymond Smith","party":"D","votes":117350},
@@ -71,6 +75,7 @@
       "contest": "US HOUSE OF REPRESENTATIVES DISTRICT 04",
       "area": "4 counties",
       "statewide": false,
+      "previousParty": "D",
       "candidates": [
         {"name":"Valerie P. Foushee","party":"D","votes":283255},
         {"name":"Mahesh (Max) Ganorkar","party":"R","votes":67799},
@@ -85,6 +90,7 @@
       "contest": "US HOUSE OF REPRESENTATIVES DISTRICT 05",
       "area": "10 counties",
       "statewide": false,
+      "previousParty": "R",
       "candidates": [
         {"name":"Chuck Hubbard","party":"D","votes":139034},
         {"name":"Virginia Foxx","party":"R","votes":138935},
@@ -99,6 +105,7 @@
       "contest": "US HOUSE OF REPRESENTATIVES DISTRICT 06",
       "area": "6 counties",
       "statewide": false,
+      "previousParty": "R",
       "candidates": [
         {"name":"Cyril Jefferson","party":"D","votes":140001},
         {"name":"Addison McDowell","party":"R","votes":133737}
@@ -112,6 +119,7 @@
       "contest": "US HOUSE OF REPRESENTATIVES DISTRICT 07",
       "area": "8 counties",
       "statewide": false,
+      "previousParty": "R",
       "candidates": [
         {"name":"David Rouzer","party":"R","votes":159985},
         {"name":"Kimberly Hardy","party":"D","votes":157560},
@@ -126,6 +134,7 @@
       "contest": "US HOUSE OF REPRESENTATIVES DISTRICT 08",
       "area": "9 counties",
       "statewide": false,
+      "previousParty": "R",
       "candidates": [
         {"name":"Mark Harris","party":"R","votes":147094},
         {"name":"Colby Watson","party":"D","votes":141915},
@@ -140,6 +149,7 @@
       "contest": "US HOUSE OF REPRESENTATIVES DISTRICT 09",
       "area": "7 counties",
       "statewide": false,
+      "previousParty": "R",
       "candidates": [
         {"name":"Richard N. Ojeda II","party":"D","votes":138707},
         {"name":"Richard Hudson","party":"R","votes":132692}
@@ -153,6 +163,7 @@
       "contest": "US HOUSE OF REPRESENTATIVES DISTRICT 10",
       "area": "5 counties",
       "statewide": false,
+      "previousParty": "R",
       "candidates": [
         {"name":"Pat Harrigan","party":"R","votes":146166},
         {"name":"Ashley Bell","party":"D","votes":143137},
@@ -167,6 +178,7 @@
       "contest": "US HOUSE OF REPRESENTATIVES DISTRICT 11",
       "area": "16 counties",
       "statewide": false,
+      "previousParty": "R",
       "candidates": [
         {"name":"Jamie Ager","party":"D","votes":195637},
         {"name":"Jennifer Capps Balkcom","party":"R","votes":141427},
@@ -181,6 +193,7 @@
       "contest": "US HOUSE OF REPRESENTATIVES DISTRICT 12",
       "area": "Mecklenburg County",
       "statewide": false,
+      "previousParty": "D",
       "candidates": [
         {"name":"Alma S. Adams","party":"D","votes":219672},
         {"name":"Jack Codiga","party":"R","votes":50864}
@@ -194,6 +207,7 @@
       "contest": "US HOUSE OF REPRESENTATIVES DISTRICT 13",
       "area": "8 counties",
       "statewide": false,
+      "previousParty": "R",
       "candidates": [
         {"name":"Paul Barringer","party":"D","votes":159981},
         {"name":"Brad Knott","party":"R","votes":152329},
@@ -208,6 +222,7 @@
       "contest": "US HOUSE OF REPRESENTATIVES DISTRICT 14",
       "area": "6 counties",
       "statewide": false,
+      "previousParty": "R",
       "candidates": [
         {"name":"Lakesha Womack","party":"D","votes":147388},
         {"name":"Tim Moore","party":"R","votes":140973}
@@ -221,6 +236,7 @@
       "contest": "NC SUPREME COURT ASSOCIATE JUSTICE SEAT 01",
       "area": "Statewide",
       "statewide": true,
+      "previousParty": "D",
       "candidates": [
         {"name":"Anita Earls","party":"D","votes":2456843},
         {"name":"Sarah Stevens","party":"R","votes":1717025}
@@ -234,6 +250,7 @@
       "contest": "NC COURT OF APPEALS JUDGE SEAT 01",
       "area": "Statewide",
       "statewide": true,
+      "previousParty": null,
       "candidates": [
         {"name":"John S. Arrowood","party":"D","votes":2362158},
         {"name":"Michael C. Byrne","party":"R","votes":1798802}
@@ -247,6 +264,7 @@
       "contest": "NC COURT OF APPEALS JUDGE SEAT 02",
       "area": "Statewide",
       "statewide": true,
+      "previousParty": null,
       "candidates": [
         {"name":"Tobias (Toby) Hampson","party":"D","votes":2360500},
         {"name":"George Cooper Bell","party":"R","votes":1796378}
@@ -260,6 +278,7 @@
       "contest": "NC COURT OF APPEALS JUDGE SEAT 03",
       "area": "Statewide",
       "statewide": true,
+      "previousParty": null,
       "candidates": [
         {"name":"Christine Marie Walczyk","party":"D","votes":2372412},
         {"name":"Craig Collins","party":"R","votes":1780878}
@@ -273,6 +292,7 @@
       "contest": "CONSTITUTIONAL AMENDMENT - MAXIMUM INCOME TAX RATE OF 3.5%",
       "area": "Statewide",
       "statewide": true,
+      "previousParty": null,
       "candidates": [
         {"name":"For","party":null,"votes":2559740},
         {"name":"Against","party":null,"votes":1574257}
@@ -286,6 +306,7 @@
       "contest": "CONSTITUTIONAL AMENDMENT - PROPERTY TAX LEVY LIMIT",
       "area": "Statewide",
       "statewide": true,
+      "previousParty": null,
       "candidates": [
         {"name":"For","party":null,"votes":2492891},
         {"name":"Against","party":null,"votes":1632769}
@@ -299,6 +320,7 @@
       "contest": "CONSTITUTIONAL AMENDMENT - REQUIRE PHOTO ID FOR VOTING",
       "area": "Statewide",
       "statewide": true,
+      "previousParty": null,
       "candidates": [
         {"name":"For","party":null,"votes":2463276},
         {"name":"Against","party":null,"votes":1669764}
@@ -312,6 +334,7 @@
       "contest": "NC STATE SENATE DISTRICT 01",
       "area": "10 counties",
       "statewide": false,
+      "previousParty": "R",
       "candidates": [
         {"name":"Jerry Tillett","party":"R","votes":42924},
         {"name":"Melissa Zehner","party":"D","votes":39504}
@@ -325,6 +348,7 @@
       "contest": "NC STATE SENATE DISTRICT 02",
       "area": "8 counties",
       "statewide": false,
+      "previousParty": "R",
       "candidates": [
         {"name":"Norman Sanderson","party":"R","votes":47147},
         {"name":"Roy Surrett","party":"D","votes":40520}
@@ -338,6 +362,7 @@
       "contest": "NC STATE SENATE DISTRICT 03",
       "area": "3 counties",
       "statewide": false,
+      "previousParty": "R",
       "candidates": [
         {"name":"Bob Brinson","party":"R","votes":44365},
         {"name":"Charles Dudley","party":"D","votes":36279}
@@ -351,6 +376,7 @@
       "contest": "NC STATE SENATE DISTRICT 04",
       "area": "3 counties",
       "statewide": false,
+      "previousParty": "R",
       "candidates": [
         {"name":"Jessica (Jess) Rivera","party":"D","votes":37539},
         {"name":"Buck Newton","party":"R","votes":35962}
@@ -364,6 +390,7 @@
       "contest": "NC STATE SENATE DISTRICT 05",
       "area": "2 counties",
       "statewide": false,
+      "previousParty": "D",
       "candidates": [
         {"name":"Kandie D. Smith","party":"D","votes":49446},
         {"name":"Henry Hostetler","party":"R","votes":30638}
@@ -377,6 +404,7 @@
       "contest": "NC STATE SENATE DISTRICT 06",
       "area": "Onslow County",
       "statewide": false,
+      "previousParty": "R",
       "candidates": [
         {"name":"Michael Anthony Lazzara","party":"R","votes":30152},
         {"name":"Andi Morrow","party":"D","votes":19841}
@@ -390,6 +418,7 @@
       "contest": "NC STATE SENATE DISTRICT 07",
       "area": "New Hanover County",
       "statewide": false,
+      "previousParty": "R",
       "candidates": [
         {"name":"Jessica Bichler","party":"D","votes":48310},
         {"name":"Michael Lee","party":"R","votes":43469}
@@ -403,6 +432,7 @@
       "contest": "NC STATE SENATE DISTRICT 08",
       "area": "3 counties",
       "statewide": false,
+      "previousParty": "R",
       "candidates": [
         {"name":"Bill Rabon","party":"R","votes":59369},
         {"name":"Richard (Rick) Combes","party":"D","votes":51954},
@@ -417,6 +447,7 @@
       "contest": "NC STATE SENATE DISTRICT 09",
       "area": "5 counties",
       "statewide": false,
+      "previousParty": "R",
       "candidates": [
         {"name":"Brent Jackson","party":"R","votes":48386}
       ]
@@ -429,6 +460,7 @@
       "contest": "NC STATE SENATE DISTRICT 10",
       "area": "Johnston County",
       "statewide": false,
+      "previousParty": "R",
       "candidates": [
         {"name":"Benton Sawrey","party":"R","votes":43863},
         {"name":"Pat LeGrand","party":"D","votes":42609},
@@ -443,6 +475,7 @@
       "contest": "NC STATE SENATE DISTRICT 11",
       "area": "3 counties",
       "statewide": false,
+      "previousParty": "R",
       "candidates": [
         {"name":"James D. Gailliard","party":"D","votes":45342},
         {"name":"Lisa Stone Barnes","party":"R","votes":40845},
@@ -457,6 +490,7 @@
       "contest": "NC STATE SENATE DISTRICT 12",
       "area": "3 counties",
       "statewide": false,
+      "previousParty": "R",
       "candidates": [
         {"name":"Jim Burgin","party":"R","votes":34783},
         {"name":"Tanya White Anderson","party":"D","votes":32358}
@@ -470,6 +504,7 @@
       "contest": "NC STATE SENATE DISTRICT 13",
       "area": "Wake County",
       "statewide": false,
+      "previousParty": "D",
       "candidates": [
         {"name":"Lisa Grafstein","party":"D","votes":63834},
         {"name":"Robert van Brederode","party":"R","votes":41169}
@@ -483,6 +518,7 @@
       "contest": "NC STATE SENATE DISTRICT 14",
       "area": "Wake County",
       "statewide": false,
+      "previousParty": "D",
       "candidates": [
         {"name":"Dan Blue","party":"D","votes":67944},
         {"name":"Angela B. McCarty","party":"R","votes":14912}
@@ -496,6 +532,7 @@
       "contest": "NC STATE SENATE DISTRICT 15",
       "area": "Wake County",
       "statewide": false,
+      "previousParty": "D",
       "candidates": [
         {"name":"Jay J. Chaudhuri","party":"D","votes":61375},
         {"name":"David Bankert","party":"R","votes":20368}
@@ -509,6 +546,7 @@
       "contest": "NC STATE SENATE DISTRICT 16",
       "area": "Wake County",
       "statewide": false,
+      "previousParty": "D",
       "candidates": [
         {"name":"Gale Adcock","party":"D","votes":66706},
         {"name":"Philip Hensley","party":"R","votes":20952},
@@ -523,6 +561,7 @@
       "contest": "NC STATE SENATE DISTRICT 17",
       "area": "Wake County",
       "statewide": false,
+      "previousParty": "D",
       "candidates": [
         {"name":"Mrs. Sydney Batch","party":"D","votes":61644},
         {"name":"Shirley Johnson","party":"R","votes":21392},
@@ -537,6 +576,7 @@
       "contest": "NC STATE SENATE DISTRICT 18",
       "area": "2 counties",
       "statewide": false,
+      "previousParty": "D",
       "candidates": [
         {"name":"Haseeb Fatmi","party":"D","votes":54157},
         {"name":"Chris Stock","party":"R","votes":42310},
@@ -551,6 +591,7 @@
       "contest": "NC STATE SENATE DISTRICT 19",
       "area": "Cumberland County",
       "statewide": false,
+      "previousParty": "D",
       "candidates": [
         {"name":"Val Applewhite","party":"D","votes":45407},
         {"name":"Venus de la Cruz","party":"R","votes":16319}
@@ -564,6 +605,7 @@
       "contest": "NC STATE SENATE DISTRICT 20",
       "area": "2 counties",
       "statewide": false,
+      "previousParty": "D",
       "candidates": [
         {"name":"Natalie S. Murdock","party":"D","votes":85371}
       ]
@@ -576,6 +618,7 @@
       "contest": "NC STATE SENATE DISTRICT 21",
       "area": "2 counties",
       "statewide": false,
+      "previousParty": "R",
       "candidates": [
         {"name":"Tom McInnis","party":"R","votes":41901},
         {"name":"Paul Taylor","party":"D","votes":35149}
@@ -589,6 +632,7 @@
       "contest": "NC STATE SENATE DISTRICT 22",
       "area": "Durham County",
       "statewide": false,
+      "previousParty": "D",
       "candidates": [
         {"name":"Sophia Chitlik","party":"D","votes":72857},
         {"name":"LaKeshia M. Alston","party":"R","votes":12600}
@@ -602,6 +646,7 @@
       "contest": "NC STATE SENATE DISTRICT 23",
       "area": "3 counties",
       "statewide": false,
+      "previousParty": "D",
       "candidates": [
         {"name":"Jonah Garson","party":"D","votes":69311},
         {"name":"Laura Pichardo","party":"R","votes":26191}
@@ -615,6 +660,7 @@
       "contest": "NC STATE SENATE DISTRICT 24",
       "area": "3 counties",
       "statewide": false,
+      "previousParty": "R",
       "candidates": [
         {"name":"Danny Earl Britt, Jr.","party":"R","votes":27860},
         {"name":"Catina Hamm","party":"D","votes":27592}
@@ -628,6 +674,7 @@
       "contest": "NC STATE SENATE DISTRICT 25",
       "area": "2 counties",
       "statewide": false,
+      "previousParty": "R",
       "candidates": [
         {"name":"Amy Scott Galey","party":"R","votes":42643},
         {"name":"Southey Blanton","party":"D","votes":40046}
@@ -641,6 +688,7 @@
       "contest": "NC STATE SENATE DISTRICT 26",
       "area": "2 counties",
       "statewide": false,
+      "previousParty": "R",
       "candidates": [
         {"name":"Sam Page","party":"R","votes":50217},
         {"name":"Steve Luking","party":"D","votes":43202}
@@ -654,6 +702,7 @@
       "contest": "NC STATE SENATE DISTRICT 27",
       "area": "Guilford County",
       "statewide": false,
+      "previousParty": "D",
       "candidates": [
         {"name":"Michael K. Garrett","party":"D","votes":61203}
       ]
@@ -666,6 +715,7 @@
       "contest": "NC STATE SENATE DISTRICT 28",
       "area": "Guilford County",
       "statewide": false,
+      "previousParty": "D",
       "candidates": [
         {"name":"Gladys A. Robinson","party":"D","votes":61097}
       ]
@@ -678,6 +728,7 @@
       "contest": "NC STATE SENATE DISTRICT 29",
       "area": "5 counties",
       "statewide": false,
+      "previousParty": "R",
       "candidates": [
         {"name":"Dave Craven","party":"R","votes":43081},
         {"name":"Judy Little","party":"D","votes":27537}
@@ -691,6 +742,7 @@
       "contest": "NC STATE SENATE DISTRICT 30",
       "area": "2 counties",
       "statewide": false,
+      "previousParty": "R",
       "candidates": [
         {"name":"Steve Jarvis","party":"R","votes":52180},
         {"name":"Pamela D. McAfee","party":"D","votes":26741}
@@ -704,6 +756,7 @@
       "contest": "NC STATE SENATE DISTRICT 31",
       "area": "2 counties",
       "statewide": false,
+      "previousParty": "R",
       "candidates": [
         {"name":"Dana Caudill Jones","party":"R","votes":49941},
         {"name":"Andy Bowline","party":"D","votes":43110}
@@ -717,6 +770,7 @@
       "contest": "NC STATE SENATE DISTRICT 32",
       "area": "Forsyth County",
       "statewide": false,
+      "previousParty": "D",
       "candidates": [
         {"name":"Paul Lowe, Jr.","party":"D","votes":56997},
         {"name":"Peter Antinozzi","party":"R","votes":16728},
@@ -731,6 +785,7 @@
       "contest": "NC STATE SENATE DISTRICT 33",
       "area": "2 counties",
       "statewide": false,
+      "previousParty": "R",
       "candidates": [
         {"name":"Carl Ford","party":"R","votes":46721},
         {"name":"Gary R. Weart","party":"D","votes":28074}
@@ -744,6 +799,7 @@
       "contest": "NC STATE SENATE DISTRICT 34",
       "area": "Cabarrus County",
       "statewide": false,
+      "previousParty": "R",
       "candidates": [
         {"name":"April Cook","party":"D","votes":46750},
         {"name":"Kevin Crutchfield","party":"R","votes":34328}
@@ -757,6 +813,7 @@
       "contest": "NC STATE SENATE DISTRICT 35",
       "area": "2 counties",
       "statewide": false,
+      "previousParty": "R",
       "candidates": [
         {"name":"Todd Johnson","party":"R","votes":52066},
         {"name":"Christine E. Winward","party":"D","votes":44329}
@@ -770,6 +827,7 @@
       "contest": "NC STATE SENATE DISTRICT 36",
       "area": "4 counties",
       "statewide": false,
+      "previousParty": "R",
       "candidates": [
         {"name":"Eddie Settle","party":"R","votes":54065},
         {"name":"Trevor Cole Hardwick","party":"D","votes":20115}
@@ -783,6 +841,7 @@
       "contest": "NC STATE SENATE DISTRICT 37",
       "area": "2 counties",
       "statewide": false,
+      "previousParty": "R",
       "candidates": [
         {"name":"Vickie Sawyer","party":"R","votes":51692},
         {"name":"Raygan J. Angel","party":"D","votes":39588}
@@ -796,6 +855,7 @@
       "contest": "NC STATE SENATE DISTRICT 38",
       "area": "Mecklenburg County",
       "statewide": false,
+      "previousParty": "D",
       "candidates": [
         {"name":"Mujtaba A. Mohammed","party":"D","votes":75088}
       ]
@@ -808,6 +868,7 @@
       "contest": "NC STATE SENATE DISTRICT 39",
       "area": "Mecklenburg County",
       "statewide": false,
+      "previousParty": "D",
       "candidates": [
         {"name":"DeAndrea Salvador","party":"D","votes":69536}
       ]
@@ -820,6 +881,7 @@
       "contest": "NC STATE SENATE DISTRICT 40",
       "area": "Mecklenburg County",
       "statewide": false,
+      "previousParty": "D",
       "candidates": [
         {"name":"Joyce Waddell","party":"D","votes":56925},
         {"name":"Bobbie Shields","party":"R","votes":11203}
@@ -833,6 +895,7 @@
       "contest": "NC STATE SENATE DISTRICT 41",
       "area": "Mecklenburg County",
       "statewide": false,
+      "previousParty": "D",
       "candidates": [
         {"name":"Caleb Theodros","party":"D","votes":69771},
         {"name":"Kevin Gray","party":"R","votes":12764}
@@ -846,6 +909,7 @@
       "contest": "NC STATE SENATE DISTRICT 42",
       "area": "Mecklenburg County",
       "statewide": false,
+      "previousParty": "D",
       "candidates": [
         {"name":"Mrs. Woodson Bradley","party":"D","votes":57203},
         {"name":"Stacie McGinn","party":"R","votes":39941}
@@ -859,6 +923,7 @@
       "contest": "NC STATE SENATE DISTRICT 43",
       "area": "Gaston County",
       "statewide": false,
+      "previousParty": "R",
       "candidates": [
         {"name":"Brad Overcash","party":"R","votes":39155},
         {"name":"Steve Rutherford","party":"D","votes":37758}
@@ -872,6 +937,7 @@
       "contest": "NC STATE SENATE DISTRICT 44",
       "area": "3 counties",
       "statewide": false,
+      "previousParty": "R",
       "candidates": [
         {"name":"Ted Alexander","party":"R","votes":50272},
         {"name":"Rod Powell","party":"D","votes":27752}
@@ -885,6 +951,7 @@
       "contest": "NC STATE SENATE DISTRICT 45",
       "area": "2 counties",
       "statewide": false,
+      "previousParty": "R",
       "candidates": [
         {"name":"Mark Hollo","party":"R","votes":49039},
         {"name":"Greg Cranford","party":"D","votes":29101}
@@ -898,6 +965,7 @@
       "contest": "NC STATE SENATE DISTRICT 46",
       "area": "3 counties",
       "statewide": false,
+      "previousParty": "R",
       "candidates": [
         {"name":"Warren Daniel","party":"R","votes":42610},
         {"name":"Kyle Whisnant","party":"D","votes":33287}
@@ -911,6 +979,7 @@
       "contest": "NC STATE SENATE DISTRICT 47",
       "area": "9 counties",
       "statewide": false,
+      "previousParty": "R",
       "candidates": [
         {"name":"Ralph Hise","party":"R","votes":48503},
         {"name":"Frank Patton Hughes III","party":"D","votes":38829}
@@ -924,6 +993,7 @@
       "contest": "NC STATE SENATE DISTRICT 48",
       "area": "3 counties",
       "statewide": false,
+      "previousParty": "R",
       "candidates": [
         {"name":"Tim Moffitt","party":"R","votes":49359},
         {"name":"Doyle G. Brown, Jr.","party":"D","votes":40065}
@@ -937,6 +1007,7 @@
       "contest": "NC STATE SENATE DISTRICT 49",
       "area": "Buncombe County",
       "statewide": false,
+      "previousParty": "D",
       "candidates": [
         {"name":"Julie Mayfield","party":"D","votes":77184},
         {"name":"CJ Domingo","party":"R","votes":22866}
@@ -950,6 +1021,7 @@
       "contest": "NC STATE SENATE DISTRICT 50",
       "area": "8 counties",
       "statewide": false,
+      "previousParty": "R",
       "candidates": [
         {"name":"Kevin Corbin","party":"R","votes":55374},
         {"name":"Tom Downing","party":"D","votes":39781}
@@ -963,6 +1035,7 @@
       "contest": "NC HOUSE OF REPRESENTATIVES DISTRICT 001",
       "area": "6 counties",
       "statewide": false,
+      "previousParty": "R",
       "candidates": [
         {"name":"Edward C. Goodwin","party":"R","votes":22436},
         {"name":"Miriam Rollin","party":"D","votes":14880}
@@ -976,6 +1049,7 @@
       "contest": "NC HOUSE OF REPRESENTATIVES DISTRICT 002",
       "area": "2 counties",
       "statewide": false,
+      "previousParty": "D",
       "candidates": [
         {"name":"Ray Jeffers","party":"D","votes":28177}
       ]
@@ -988,6 +1062,7 @@
       "contest": "NC HOUSE OF REPRESENTATIVES DISTRICT 003",
       "area": "Craven County",
       "statewide": false,
+      "previousParty": "R",
       "candidates": [
         {"name":"Steve Tyson","party":"R","votes":20885},
         {"name":"Diannia Bright","party":"D","votes":15547},
@@ -1002,6 +1077,7 @@
       "contest": "NC HOUSE OF REPRESENTATIVES DISTRICT 004",
       "area": "2 counties",
       "statewide": false,
+      "previousParty": "R",
       "candidates": [
         {"name":"Jimmy Dixon","party":"R","votes":13780},
         {"name":"Vernon Moore","party":"D","votes":11204}
@@ -1015,6 +1091,7 @@
       "contest": "NC HOUSE OF REPRESENTATIVES DISTRICT 005",
       "area": "4 counties",
       "statewide": false,
+      "previousParty": "R",
       "candidates": [
         {"name":"Sam Davis III","party":"D","votes":16082},
         {"name":"Bill Ward","party":"R","votes":14385}
@@ -1028,6 +1105,7 @@
       "contest": "NC HOUSE OF REPRESENTATIVES DISTRICT 006",
       "area": "Harnett County",
       "statewide": false,
+      "previousParty": "R",
       "candidates": [
         {"name":"Joe Pike","party":"R","votes":14489},
         {"name":"Tony Spears","party":"D","votes":13887}
@@ -1041,6 +1119,7 @@
       "contest": "NC HOUSE OF REPRESENTATIVES DISTRICT 007",
       "area": "2 counties",
       "statewide": false,
+      "previousParty": "R",
       "candidates": [
         {"name":"Mark Speed","party":"D","votes":19901},
         {"name":"Cory Thornton","party":"R","votes":18698}
@@ -1054,6 +1133,7 @@
       "contest": "NC HOUSE OF REPRESENTATIVES DISTRICT 008",
       "area": "Pitt County",
       "statewide": false,
+      "previousParty": "D",
       "candidates": [
         {"name":"Gloristine Brown","party":"D","votes":18488},
         {"name":"Cathy Thorne Bynum","party":"R","votes":7440}
@@ -1067,6 +1147,7 @@
       "contest": "NC HOUSE OF REPRESENTATIVES DISTRICT 009",
       "area": "Pitt County",
       "statewide": false,
+      "previousParty": "R",
       "candidates": [
         {"name":"Claire Kempner","party":"D","votes":18187},
         {"name":"Timothy Reeder","party":"R","votes":18012}
@@ -1080,6 +1161,7 @@
       "contest": "NC HOUSE OF REPRESENTATIVES DISTRICT 010",
       "area": "Wayne County",
       "statewide": false,
+      "previousParty": "R",
       "candidates": [
         {"name":"John Bell","party":"R","votes":16019},
         {"name":"Zyaire Webb","party":"D","votes":13180}
@@ -1093,6 +1175,7 @@
       "contest": "NC HOUSE OF REPRESENTATIVES DISTRICT 011",
       "area": "Wake County",
       "statewide": false,
+      "previousParty": "D",
       "candidates": [
         {"name":"Allison A. Dahle","party":"D","votes":30013},
         {"name":"Matthew Kordon","party":"L","votes":6854}
@@ -1106,6 +1189,7 @@
       "contest": "NC HOUSE OF REPRESENTATIVES DISTRICT 012",
       "area": "3 counties",
       "statewide": false,
+      "previousParty": "R",
       "candidates": [
         {"name":"Chris Humphrey","party":"R","votes":15422},
         {"name":"Don Hardy","party":"D","votes":14153}
@@ -1119,6 +1203,7 @@
       "contest": "NC HOUSE OF REPRESENTATIVES DISTRICT 013",
       "area": "2 counties",
       "statewide": false,
+      "previousParty": "R",
       "candidates": [
         {"name":"Celeste Cairns","party":"R","votes":25511},
         {"name":"Jason Moore","party":"D","votes":13595}
@@ -1132,6 +1217,7 @@
       "contest": "NC HOUSE OF REPRESENTATIVES DISTRICT 014",
       "area": "Onslow County",
       "statewide": false,
+      "previousParty": "R",
       "candidates": [
         {"name":"Wyatt Gable","party":"R","votes":10557}
       ]
@@ -1144,6 +1230,7 @@
       "contest": "NC HOUSE OF REPRESENTATIVES DISTRICT 015",
       "area": "Onslow County",
       "statewide": false,
+      "previousParty": "R",
       "candidates": [
         {"name":"Phillip Shepard","party":"R","votes":13610},
         {"name":"Christopher Schulte","party":"D","votes":10328}
@@ -1157,6 +1244,7 @@
       "contest": "NC HOUSE OF REPRESENTATIVES DISTRICT 016",
       "area": "2 counties",
       "statewide": false,
+      "previousParty": "R",
       "candidates": [
         {"name":"Carson Smith","party":"R","votes":21921},
         {"name":"Jim Harris","party":"D","votes":13111}
@@ -1170,6 +1258,7 @@
       "contest": "NC HOUSE OF REPRESENTATIVES DISTRICT 017",
       "area": "Brunswick County",
       "statewide": false,
+      "previousParty": "R",
       "candidates": [
         {"name":"Frank Iler","party":"R","votes":29965},
         {"name":"Dennis A. Breen","party":"D","votes":25019}
@@ -1183,6 +1272,7 @@
       "contest": "NC HOUSE OF REPRESENTATIVES DISTRICT 018",
       "area": "New Hanover County",
       "statewide": false,
+      "previousParty": "D",
       "candidates": [
         {"name":"Deb Butler","party":"D","votes":24899},
         {"name":"Latisha Grady","party":"R","votes":10460}
@@ -1196,6 +1286,7 @@
       "contest": "NC HOUSE OF REPRESENTATIVES DISTRICT 019",
       "area": "2 counties",
       "statewide": false,
+      "previousParty": "R",
       "candidates": [
         {"name":"Charlie Miller","party":"R","votes":29735},
         {"name":"Scott Nasiff","party":"D","votes":24093}
@@ -1209,6 +1300,7 @@
       "contest": "NC HOUSE OF REPRESENTATIVES DISTRICT 020",
       "area": "New Hanover County",
       "statewide": false,
+      "previousParty": "R",
       "candidates": [
         {"name":"Tim Merrick","party":"D","votes":22054},
         {"name":"Dane Scalise","party":"R","votes":21953}
@@ -1222,6 +1314,7 @@
       "contest": "NC HOUSE OF REPRESENTATIVES DISTRICT 021",
       "area": "Wake County",
       "statewide": false,
+      "previousParty": "D",
       "candidates": [
         {"name":"Ya Liu","party":"D","votes":29171},
         {"name":"Bryson Johnson","party":"R","votes":11722}
@@ -1235,6 +1328,7 @@
       "contest": "NC HOUSE OF REPRESENTATIVES DISTRICT 022",
       "area": "2 counties",
       "statewide": false,
+      "previousParty": "R",
       "candidates": [
         {"name":"Wellie Jackson","party":"R","votes":19106}
       ]
@@ -1247,6 +1341,7 @@
       "contest": "NC HOUSE OF REPRESENTATIVES DISTRICT 023",
       "area": "3 counties",
       "statewide": false,
+      "previousParty": "D",
       "candidates": [
         {"name":"Patricia Smith","party":"D","votes":20679},
         {"name":"Brent Roberson","party":"R","votes":12968}
@@ -1260,6 +1355,7 @@
       "contest": "NC HOUSE OF REPRESENTATIVES DISTRICT 024",
       "area": "2 counties",
       "statewide": false,
+      "previousParty": "D",
       "candidates": [
         {"name":"Dante Pittman","party":"D","votes":18017},
         {"name":"Blake Boykin","party":"R","votes":12910}
@@ -1273,6 +1369,7 @@
       "contest": "NC HOUSE OF REPRESENTATIVES DISTRICT 025",
       "area": "Nash County",
       "statewide": false,
+      "previousParty": "R",
       "candidates": [
         {"name":"Lorenza M. Wilkins","party":"D","votes":20420},
         {"name":"Allen Chesser","party":"R","votes":17340},
@@ -1287,6 +1384,7 @@
       "contest": "NC HOUSE OF REPRESENTATIVES DISTRICT 026",
       "area": "Johnston County",
       "statewide": false,
+      "previousParty": "R",
       "candidates": [
         {"name":"L'Bertrice Solomon","party":"D","votes":21655},
         {"name":"Donna McDowell White","party":"R","votes":19212}
@@ -1300,6 +1398,7 @@
       "contest": "NC HOUSE OF REPRESENTATIVES DISTRICT 027",
       "area": "3 counties",
       "statewide": false,
+      "previousParty": "D",
       "candidates": [
         {"name":"Rodney D. Pierce","party":"D","votes":20657},
         {"name":"David Woodson","party":"R","votes":11864}
@@ -1313,6 +1412,7 @@
       "contest": "NC HOUSE OF REPRESENTATIVES DISTRICT 028",
       "area": "Johnston County",
       "statewide": false,
+      "previousParty": "R",
       "candidates": [
         {"name":"Larry C. Strickland","party":"R","votes":17117},
         {"name":"D. Matthew Bailey","party":"D","votes":12241}
@@ -1326,6 +1426,7 @@
       "contest": "NC HOUSE OF REPRESENTATIVES DISTRICT 029",
       "area": "Durham County",
       "statewide": false,
+      "previousParty": "D",
       "candidates": [
         {"name":"Vernetta Alston","party":"D","votes":40935}
       ]
@@ -1338,6 +1439,7 @@
       "contest": "NC HOUSE OF REPRESENTATIVES DISTRICT 030",
       "area": "Durham County",
       "statewide": false,
+      "previousParty": "D",
       "candidates": [
         {"name":"Marcia Morey","party":"D","votes":34703},
         {"name":"Ray Ubinger","party":"L","votes":2627}
@@ -1351,6 +1453,7 @@
       "contest": "NC HOUSE OF REPRESENTATIVES DISTRICT 031",
       "area": "Durham County",
       "statewide": false,
+      "previousParty": "D",
       "candidates": [
         {"name":"Zack Hawkins","party":"D","votes":37012}
       ]
@@ -1363,6 +1466,7 @@
       "contest": "NC HOUSE OF REPRESENTATIVES DISTRICT 032",
       "area": "2 counties",
       "statewide": false,
+      "previousParty": "D",
       "candidates": [
         {"name":"Bryan K. Cohn","party":"D","votes":18410},
         {"name":"Frank Sossamon","party":"R","votes":14827}
@@ -1376,6 +1480,7 @@
       "contest": "NC HOUSE OF REPRESENTATIVES DISTRICT 033",
       "area": "Wake County",
       "statewide": false,
+      "previousParty": "D",
       "candidates": [
         {"name":"Monika Johnson-Hostler","party":"D","votes":29474},
         {"name":"Matthew Orr","party":"R","votes":7793}
@@ -1389,6 +1494,7 @@
       "contest": "NC HOUSE OF REPRESENTATIVES DISTRICT 034",
       "area": "Wake County",
       "statewide": false,
+      "previousParty": "D",
       "candidates": [
         {"name":"Tim Longest","party":"D","votes":29813},
         {"name":"Ed George","party":"L","votes":6731}
@@ -1402,6 +1508,7 @@
       "contest": "NC HOUSE OF REPRESENTATIVES DISTRICT 035",
       "area": "Wake County",
       "statewide": false,
+      "previousParty": "R",
       "candidates": [
         {"name":"Evonne S. Hopkins","party":"D","votes":25607},
         {"name":"Mike Schietzelt","party":"R","votes":20994}
@@ -1415,6 +1522,7 @@
       "contest": "NC HOUSE OF REPRESENTATIVES DISTRICT 036",
       "area": "Wake County",
       "statewide": false,
+      "previousParty": "D",
       "candidates": [
         {"name":"Julie von Haefen","party":"D","votes":26677},
         {"name":"Mary Insprucker","party":"R","votes":15686}
@@ -1428,6 +1536,7 @@
       "contest": "NC HOUSE OF REPRESENTATIVES DISTRICT 037",
       "area": "Wake County",
       "statewide": false,
+      "previousParty": "R",
       "candidates": [
         {"name":"Winn Decker","party":"D","votes":26678},
         {"name":"Erin Pare","party":"R","votes":22074}
@@ -1441,6 +1550,7 @@
       "contest": "NC HOUSE OF REPRESENTATIVES DISTRICT 038",
       "area": "Wake County",
       "statewide": false,
+      "previousParty": "D",
       "candidates": [
         {"name":"Abe Jones","party":"D","votes":27817}
       ]
@@ -1453,6 +1563,7 @@
       "contest": "NC HOUSE OF REPRESENTATIVES DISTRICT 039",
       "area": "Wake County",
       "statewide": false,
+      "previousParty": "D",
       "candidates": [
         {"name":"James A. Roberson","party":"D","votes":29894},
         {"name":"Jorge Cordova","party":"R","votes":10332},
@@ -1467,6 +1578,7 @@
       "contest": "NC HOUSE OF REPRESENTATIVES DISTRICT 040",
       "area": "Wake County",
       "statewide": false,
+      "previousParty": "D",
       "candidates": [
         {"name":"Phil Rubin","party":"D","votes":31473},
         {"name":"Lucas Everett Jones","party":"L","votes":7478}
@@ -1480,6 +1592,7 @@
       "contest": "NC HOUSE OF REPRESENTATIVES DISTRICT 041",
       "area": "Wake County",
       "statewide": false,
+      "previousParty": "D",
       "candidates": [
         {"name":"Maria Cervania","party":"D","votes":27656},
         {"name":"Bruce Forster","party":"R","votes":8619}
@@ -1493,6 +1606,7 @@
       "contest": "NC HOUSE OF REPRESENTATIVES DISTRICT 042",
       "area": "Cumberland County",
       "statewide": false,
+      "previousParty": "D",
       "candidates": [
         {"name":"Mike Colvin","party":"D","votes":14691}
       ]
@@ -1505,6 +1619,7 @@
       "contest": "NC HOUSE OF REPRESENTATIVES DISTRICT 043",
       "area": "Cumberland County",
       "statewide": false,
+      "previousParty": "R",
       "candidates": [
         {"name":"Janene Ackles","party":"D","votes":15814},
         {"name":"Diane Wheatley","party":"R","votes":14530}
@@ -1518,6 +1633,7 @@
       "contest": "NC HOUSE OF REPRESENTATIVES DISTRICT 044",
       "area": "Cumberland County",
       "statewide": false,
+      "previousParty": "D",
       "candidates": [
         {"name":"Charles Smith","party":"D","votes":17814}
       ]
@@ -1530,6 +1646,7 @@
       "contest": "NC HOUSE OF REPRESENTATIVES DISTRICT 045",
       "area": "Cumberland County",
       "statewide": false,
+      "previousParty": "D",
       "candidates": [
         {"name":"Frances Jackson","party":"D","votes":17968}
       ]
@@ -1542,6 +1659,7 @@
       "contest": "NC HOUSE OF REPRESENTATIVES DISTRICT 046",
       "area": "2 counties",
       "statewide": false,
+      "previousParty": "R",
       "candidates": [
         {"name":"Brenden H. Jones","party":"R","votes":15074},
         {"name":"Brittany Newton","party":"D","votes":10273}
@@ -1555,6 +1673,7 @@
       "contest": "NC HOUSE OF REPRESENTATIVES DISTRICT 047",
       "area": "Robeson County",
       "statewide": false,
+      "previousParty": "R",
       "candidates": [
         {"name":"John L. Lowery","party":"R","votes":11173},
         {"name":"Eshonda Hooper","party":"D","votes":9531}
@@ -1568,6 +1687,7 @@
       "contest": "NC HOUSE OF REPRESENTATIVES DISTRICT 048",
       "area": "2 counties",
       "statewide": false,
+      "previousParty": "D",
       "candidates": [
         {"name":"Garland E. Pierce","party":"D","votes":15926},
         {"name":"Ralph Carter","party":"R","votes":10324}
@@ -1581,6 +1701,7 @@
       "contest": "NC HOUSE OF REPRESENTATIVES DISTRICT 049",
       "area": "Wake County",
       "statewide": false,
+      "previousParty": "D",
       "candidates": [
         {"name":"Cynthia Ball","party":"D","votes":25262},
         {"name":"Daran Thomas","party":"R","votes":6711}
@@ -1594,6 +1715,7 @@
       "contest": "NC HOUSE OF REPRESENTATIVES DISTRICT 050",
       "area": "2 counties",
       "statewide": false,
+      "previousParty": "D",
       "candidates": [
         {"name":"Renee A. Price","party":"D","votes":29976}
       ]
@@ -1606,6 +1728,7 @@
       "contest": "NC HOUSE OF REPRESENTATIVES DISTRICT 051",
       "area": "2 counties",
       "statewide": false,
+      "previousParty": "R",
       "candidates": [
         {"name":"April Montgomery","party":"U","votes":13919},
         {"name":"Charles M. Taylor","party":"R","votes":13537}
@@ -1619,6 +1742,7 @@
       "contest": "NC HOUSE OF REPRESENTATIVES DISTRICT 052",
       "area": "2 counties",
       "statewide": false,
+      "previousParty": "R",
       "candidates": [
         {"name":"Ben Moss","party":"R","votes":15889},
         {"name":"Joe Parfitt","party":"D","votes":14841}
@@ -1632,6 +1756,7 @@
       "contest": "NC HOUSE OF REPRESENTATIVES DISTRICT 053",
       "area": "2 counties",
       "statewide": false,
+      "previousParty": "R",
       "candidates": [
         {"name":"Howard L. Penny, Jr.","party":"R","votes":17570},
         {"name":"Kevin G. Thurman","party":"D","votes":15787},
@@ -1646,6 +1771,7 @@
       "contest": "NC HOUSE OF REPRESENTATIVES DISTRICT 054",
       "area": "2 counties",
       "statewide": false,
+      "previousParty": "D",
       "candidates": [
         {"name":"Robert T. Reives II","party":"D","votes":30519}
       ]
@@ -1658,6 +1784,7 @@
       "contest": "NC HOUSE OF REPRESENTATIVES DISTRICT 055",
       "area": "2 counties",
       "statewide": false,
+      "previousParty": "R",
       "candidates": [
         {"name":"Clancy Baucom","party":"R","votes":15907},
         {"name":"John J. Kirkpatrick IV","party":"D","votes":12594}
@@ -1671,6 +1798,7 @@
       "contest": "NC HOUSE OF REPRESENTATIVES DISTRICT 056",
       "area": "Orange County",
       "statewide": false,
+      "previousParty": "D",
       "candidates": [
         {"name":"Allen Buansi","party":"D","votes":35365},
         {"name":"Matthew P. Clements","party":"L","votes":2616}
@@ -1684,6 +1812,7 @@
       "contest": "NC HOUSE OF REPRESENTATIVES DISTRICT 057",
       "area": "Guilford County",
       "statewide": false,
+      "previousParty": "D",
       "candidates": [
         {"name":"Tracy Clark","party":"D","votes":28829}
       ]
@@ -1696,6 +1825,7 @@
       "contest": "NC HOUSE OF REPRESENTATIVES DISTRICT 058",
       "area": "Guilford County",
       "statewide": false,
+      "previousParty": "D",
       "candidates": [
         {"name":"Amos Quick","party":"D","votes":24991}
       ]
@@ -1708,6 +1838,7 @@
       "contest": "NC HOUSE OF REPRESENTATIVES DISTRICT 059",
       "area": "Guilford County",
       "statewide": false,
+      "previousParty": "R",
       "candidates": [
         {"name":"Elma Hairston","party":"D","votes":22405},
         {"name":"Alan Branson","party":"R","votes":20812}
@@ -1721,6 +1852,7 @@
       "contest": "NC HOUSE OF REPRESENTATIVES DISTRICT 060",
       "area": "Guilford County",
       "statewide": false,
+      "previousParty": "D",
       "candidates": [
         {"name":"Amanda Cook","party":"D","votes":20212},
         {"name":"Joseph Perrotta","party":"R","votes":7650}
@@ -1734,6 +1866,7 @@
       "contest": "NC HOUSE OF REPRESENTATIVES DISTRICT 061",
       "area": "Guilford County",
       "statewide": false,
+      "previousParty": "D",
       "candidates": [
         {"name":"Mary Price (Pricey) Harrison","party":"D","votes":28790}
       ]
@@ -1746,6 +1879,7 @@
       "contest": "NC HOUSE OF REPRESENTATIVES DISTRICT 062",
       "area": "Guilford County",
       "statewide": false,
+      "previousParty": "R",
       "candidates": [
         {"name":"Shelly Headen","party":"D","votes":21367},
         {"name":"John M. Blust","party":"R","votes":21134}
@@ -1759,6 +1893,7 @@
       "contest": "NC HOUSE OF REPRESENTATIVES DISTRICT 063",
       "area": "Alamance County",
       "statewide": false,
+      "previousParty": "R",
       "candidates": [
         {"name":"Ian Baltutis","party":"D","votes":16479},
         {"name":"Ryan Moffitt","party":"R","votes":16243}
@@ -1772,6 +1907,7 @@
       "contest": "NC HOUSE OF REPRESENTATIVES DISTRICT 064",
       "area": "Alamance County",
       "statewide": false,
+      "previousParty": "R",
       "candidates": [
         {"name":"LeVon Barnes","party":"D","votes":18261},
         {"name":"Dennis Riddell","party":"R","votes":16373}
@@ -1785,6 +1921,7 @@
       "contest": "NC HOUSE OF REPRESENTATIVES DISTRICT 065",
       "area": "Rockingham County",
       "statewide": false,
+      "previousParty": "R",
       "candidates": [
         {"name":"Seth Woodall","party":"R","votes":21413},
         {"name":"Gavin McGaughey","party":"D","votes":12456}
@@ -1798,6 +1935,7 @@
       "contest": "NC HOUSE OF REPRESENTATIVES DISTRICT 066",
       "area": "Wake County",
       "statewide": false,
+      "previousParty": "D",
       "candidates": [
         {"name":"Sarah Crawford","party":"D","votes":29620}
       ]
@@ -1810,6 +1948,7 @@
       "contest": "NC HOUSE OF REPRESENTATIVES DISTRICT 067",
       "area": "2 counties",
       "statewide": false,
+      "previousParty": "R",
       "candidates": [
         {"name":"Cody Huneycutt","party":"R","votes":22475},
         {"name":"Jocelyn Torres","party":"D","votes":10631}
@@ -1823,6 +1962,7 @@
       "contest": "NC HOUSE OF REPRESENTATIVES DISTRICT 068",
       "area": "Union County",
       "statewide": false,
+      "previousParty": "R",
       "candidates": [
         {"name":"David Willis","party":"R","votes":21658},
         {"name":"Derek Warriner","party":"D","votes":19017}
@@ -1836,6 +1976,7 @@
       "contest": "NC HOUSE OF REPRESENTATIVES DISTRICT 069",
       "area": "Union County",
       "statewide": false,
+      "previousParty": "R",
       "candidates": [
         {"name":"Dean Arp","party":"R","votes":20575},
         {"name":"Heidi Sinsley","party":"D","votes":17920}
@@ -1849,6 +1990,7 @@
       "contest": "NC HOUSE OF REPRESENTATIVES DISTRICT 070",
       "area": "Randolph County",
       "statewide": false,
+      "previousParty": "R",
       "candidates": [
         {"name":"Brian Biggs","party":"R","votes":18928},
         {"name":"William (Bill) McCaskill","party":"D","votes":9291}
@@ -1862,6 +2004,7 @@
       "contest": "NC HOUSE OF REPRESENTATIVES DISTRICT 071",
       "area": "Forsyth County",
       "statewide": false,
+      "previousParty": "D",
       "candidates": [
         {"name":"Kanika Brown","party":"D","votes":25156},
         {"name":"Mathew Mena","party":"G","votes":3410}
@@ -1875,6 +2018,7 @@
       "contest": "NC HOUSE OF REPRESENTATIVES DISTRICT 072",
       "area": "Forsyth County",
       "statewide": false,
+      "previousParty": "D",
       "candidates": [
         {"name":"Amber M. Baker","party":"D","votes":24655}
       ]
@@ -1887,6 +2031,7 @@
       "contest": "NC HOUSE OF REPRESENTATIVES DISTRICT 073",
       "area": "Cabarrus County",
       "statewide": false,
+      "previousParty": "R",
       "candidates": [
         {"name":"Thomas J. Monks","party":"D","votes":17333},
         {"name":"Jonathan Almond","party":"R","votes":14884}
@@ -1900,6 +2045,7 @@
       "contest": "NC HOUSE OF REPRESENTATIVES DISTRICT 074",
       "area": "Forsyth County",
       "statewide": false,
+      "previousParty": "R",
       "candidates": [
         {"name":"Amy Taylor North","party":"D","votes":23443},
         {"name":"Jeff Zenger","party":"R","votes":17638}
@@ -1913,6 +2059,7 @@
       "contest": "NC HOUSE OF REPRESENTATIVES DISTRICT 075",
       "area": "Forsyth County",
       "statewide": false,
+      "previousParty": "R",
       "candidates": [
         {"name":"Jen Wiles","party":"D","votes":18503},
         {"name":"Donny C. Lambeth","party":"R","votes":15782}
@@ -1926,6 +2073,7 @@
       "contest": "NC HOUSE OF REPRESENTATIVES DISTRICT 076",
       "area": "Rowan County",
       "statewide": false,
+      "previousParty": "R",
       "candidates": [
         {"name":"Greg Edds","party":"R","votes":16091},
         {"name":"Scott Huffman","party":"D","votes":14166}
@@ -1939,6 +2087,7 @@
       "contest": "NC HOUSE OF REPRESENTATIVES DISTRICT 077",
       "area": "3 counties",
       "statewide": false,
+      "previousParty": "R",
       "candidates": [
         {"name":"Julia Howard","party":"R","votes":25470},
         {"name":"Sabrina Harris","party":"D","votes":10511}
@@ -1952,6 +2101,7 @@
       "contest": "NC HOUSE OF REPRESENTATIVES DISTRICT 078",
       "area": "2 counties",
       "statewide": false,
+      "previousParty": "R",
       "candidates": [
         {"name":"Neal Jackson","party":"R","votes":24521},
         {"name":"Matt Holway","party":"D","votes":11430}
@@ -1965,6 +2115,7 @@
       "contest": "NC HOUSE OF REPRESENTATIVES DISTRICT 079",
       "area": "4 counties",
       "statewide": false,
+      "previousParty": "R",
       "candidates": [
         {"name":"Darren Armstrong","party":"R","votes":26370}
       ]
@@ -1977,6 +2128,7 @@
       "contest": "NC HOUSE OF REPRESENTATIVES DISTRICT 080",
       "area": "Davidson County",
       "statewide": false,
+      "previousParty": "R",
       "candidates": [
         {"name":"Sam Watford","party":"R","votes":19706},
         {"name":"JacQuez Johnson","party":"D","votes":9272}
@@ -1990,6 +2142,7 @@
       "contest": "NC HOUSE OF REPRESENTATIVES DISTRICT 081",
       "area": "Davidson County",
       "statewide": false,
+      "previousParty": "R",
       "candidates": [
         {"name":"Larry W. Potts","party":"R","votes":19943},
         {"name":"Dylan R. Tucker","party":"D","votes":11521}
@@ -2003,6 +2156,7 @@
       "contest": "NC HOUSE OF REPRESENTATIVES DISTRICT 082",
       "area": "Cabarrus County",
       "statewide": false,
+      "previousParty": "R",
       "candidates": [
         {"name":"Chris Bishopp","party":"D","votes":20956},
         {"name":"Brian Echevarria","party":"R","votes":16481}
@@ -2016,6 +2170,7 @@
       "contest": "NC HOUSE OF REPRESENTATIVES DISTRICT 083",
       "area": "2 counties",
       "statewide": false,
+      "previousParty": "R",
       "candidates": [
         {"name":"Grant Campbell","party":"R","votes":18240},
         {"name":"Johnnie Jones","party":"D","votes":14126}
@@ -2029,6 +2184,7 @@
       "contest": "NC HOUSE OF REPRESENTATIVES DISTRICT 084",
       "area": "Iredell County",
       "statewide": false,
+      "previousParty": "R",
       "candidates": [
         {"name":"Jeffrey C. McNeely","party":"R","votes":22235}
       ]
@@ -2041,6 +2197,7 @@
       "contest": "NC HOUSE OF REPRESENTATIVES DISTRICT 085",
       "area": "4 counties",
       "statewide": false,
+      "previousParty": "R",
       "candidates": [
         {"name":"Dudley Greene","party":"R","votes":23012},
         {"name":"Suzanne Gavenus","party":"D","votes":12416}
@@ -2054,6 +2211,7 @@
       "contest": "NC HOUSE OF REPRESENTATIVES DISTRICT 086",
       "area": "Burke County",
       "statewide": false,
+      "previousParty": "R",
       "candidates": [
         {"name":"Hugh Blackwell","party":"R","votes":19007},
         {"name":"Wesley E. Hendrix","party":"D","votes":10965}
@@ -2067,6 +2225,7 @@
       "contest": "NC HOUSE OF REPRESENTATIVES DISTRICT 087",
       "area": "2 counties",
       "statewide": false,
+      "previousParty": "R",
       "candidates": [
         {"name":"Destin Hall","party":"R","votes":19635},
         {"name":"Iris Bender","party":"D","votes":9834}
@@ -2080,6 +2239,7 @@
       "contest": "NC HOUSE OF REPRESENTATIVES DISTRICT 088",
       "area": "Mecklenburg County",
       "statewide": false,
+      "previousParty": "D",
       "candidates": [
         {"name":"Mary Belk","party":"D","votes":23537},
         {"name":"Ray Craig","party":"R","votes":6640}
@@ -2093,6 +2253,7 @@
       "contest": "NC HOUSE OF REPRESENTATIVES DISTRICT 089",
       "area": "2 counties",
       "statewide": false,
+      "previousParty": "R",
       "candidates": [
         {"name":"Mitchell Smith Setzer","party":"R","votes":23905},
         {"name":"Robert (Spider) Thompson","party":"D","votes":11488}
@@ -2106,6 +2267,7 @@
       "contest": "NC HOUSE OF REPRESENTATIVES DISTRICT 090",
       "area": "2 counties",
       "statewide": false,
+      "previousParty": "R",
       "candidates": [
         {"name":"Dan Kiger","party":"R","votes":21120},
         {"name":"Ken Badgett","party":"D","votes":8703}
@@ -2119,6 +2281,7 @@
       "contest": "NC HOUSE OF REPRESENTATIVES DISTRICT 091",
       "area": "2 counties",
       "statewide": false,
+      "previousParty": "R",
       "candidates": [
         {"name":"Kyle Hall","party":"R","votes":18405},
         {"name":"Lucille Puckett","party":"D","votes":12693}
@@ -2132,6 +2295,7 @@
       "contest": "NC HOUSE OF REPRESENTATIVES DISTRICT 092",
       "area": "Mecklenburg County",
       "statewide": false,
+      "previousParty": "D",
       "candidates": [
         {"name":"Terry Brown","party":"D","votes":29574}
       ]
@@ -2144,6 +2308,7 @@
       "contest": "NC HOUSE OF REPRESENTATIVES DISTRICT 093",
       "area": "3 counties",
       "statewide": false,
+      "previousParty": "R",
       "candidates": [
         {"name":"Charlie Wallin","party":"D","votes":18875},
         {"name":"Ray Pickett","party":"R","votes":18647}
@@ -2157,6 +2322,7 @@
       "contest": "NC HOUSE OF REPRESENTATIVES DISTRICT 094",
       "area": "2 counties",
       "statewide": false,
+      "previousParty": "R",
       "candidates": [
         {"name":"Blair Eddins","party":"R","votes":22432},
         {"name":"Andy Warren","party":"D","votes":8479}
@@ -2170,6 +2336,7 @@
       "contest": "NC HOUSE OF REPRESENTATIVES DISTRICT 095",
       "area": "Iredell County",
       "statewide": false,
+      "previousParty": "R",
       "candidates": [
         {"name":"Richard (Todd) Carver","party":"R","votes":19963},
         {"name":"Michael Robinson","party":"D","votes":15767}
@@ -2183,6 +2350,7 @@
       "contest": "NC HOUSE OF REPRESENTATIVES DISTRICT 096",
       "area": "Catawba County",
       "statewide": false,
+      "previousParty": "R",
       "candidates": [
         {"name":"Jay Adams","party":"R","votes":17288},
         {"name":"Park Inglefield","party":"D","votes":14351}
@@ -2196,6 +2364,7 @@
       "contest": "NC HOUSE OF REPRESENTATIVES DISTRICT 097",
       "area": "Lincoln County",
       "statewide": false,
+      "previousParty": "R",
       "candidates": [
         {"name":"Heather Rhyne","party":"R","votes":25490},
         {"name":"Greg McBryde","party":"D","votes":12545}
@@ -2209,6 +2378,7 @@
       "contest": "NC HOUSE OF REPRESENTATIVES DISTRICT 098",
       "area": "Mecklenburg County",
       "statewide": false,
+      "previousParty": "D",
       "candidates": [
         {"name":"Beth Helfrich","party":"D","votes":23447},
         {"name":"John Rhodes","party":"R","votes":15589}
@@ -2222,6 +2392,7 @@
       "contest": "NC HOUSE OF REPRESENTATIVES DISTRICT 099",
       "area": "Mecklenburg County",
       "statewide": false,
+      "previousParty": "D",
       "candidates": [
         {"name":"Veleria M. Levy","party":"D","votes":23971}
       ]
@@ -2234,6 +2405,7 @@
       "contest": "NC HOUSE OF REPRESENTATIVES DISTRICT 100",
       "area": "Mecklenburg County",
       "statewide": false,
+      "previousParty": "D",
       "candidates": [
         {"name":"Julia Greenfield","party":"D","votes":22364}
       ]
@@ -2246,6 +2418,7 @@
       "contest": "NC HOUSE OF REPRESENTATIVES DISTRICT 101",
       "area": "Mecklenburg County",
       "statewide": false,
+      "previousParty": "D",
       "candidates": [
         {"name":"Carolyn G. Logan","party":"D","votes":27021}
       ]
@@ -2258,6 +2431,7 @@
       "contest": "NC HOUSE OF REPRESENTATIVES DISTRICT 102",
       "area": "Mecklenburg County",
       "statewide": false,
+      "previousParty": "D",
       "candidates": [
         {"name":"Becky Carney","party":"D","votes":31920}
       ]
@@ -2270,6 +2444,7 @@
       "contest": "NC HOUSE OF REPRESENTATIVES DISTRICT 103",
       "area": "Mecklenburg County",
       "statewide": false,
+      "previousParty": "D",
       "candidates": [
         {"name":"Laura Budd","party":"D","votes":25645}
       ]
@@ -2282,6 +2457,7 @@
       "contest": "NC HOUSE OF REPRESENTATIVES DISTRICT 104",
       "area": "Mecklenburg County",
       "statewide": false,
+      "previousParty": "D",
       "candidates": [
         {"name":"Brandon Lofton","party":"D","votes":24901},
         {"name":"Trina Boyd","party":"R","votes":13432}
@@ -2295,6 +2471,7 @@
       "contest": "NC HOUSE OF REPRESENTATIVES DISTRICT 105",
       "area": "Mecklenburg County",
       "statewide": false,
+      "previousParty": "R",
       "candidates": [
         {"name":"Ken McCool","party":"D","votes":24608},
         {"name":"Tricia Ann Cotham","party":"R","votes":18479}
@@ -2308,6 +2485,7 @@
       "contest": "NC HOUSE OF REPRESENTATIVES DISTRICT 106",
       "area": "Mecklenburg County",
       "statewide": false,
+      "previousParty": "D",
       "candidates": [
         {"name":"Rodney Sadler","party":"D","votes":33231}
       ]
@@ -2320,6 +2498,7 @@
       "contest": "NC HOUSE OF REPRESENTATIVES DISTRICT 107",
       "area": "Mecklenburg County",
       "statewide": false,
+      "previousParty": "D",
       "candidates": [
         {"name":"Aisha O. Dew","party":"D","votes":29696}
       ]
@@ -2332,6 +2511,7 @@
       "contest": "NC HOUSE OF REPRESENTATIVES DISTRICT 108",
       "area": "Gaston County",
       "statewide": false,
+      "previousParty": "R",
       "candidates": [
         {"name":"John A. Torbett","party":"R","votes":16794},
         {"name":"Sydnie Hutchinson","party":"D","votes":14304}
@@ -2345,6 +2525,7 @@
       "contest": "NC HOUSE OF REPRESENTATIVES DISTRICT 109",
       "area": "Gaston County",
       "statewide": false,
+      "previousParty": "R",
       "candidates": [
         {"name":"Mark D. Carver","party":"D","votes":18775},
         {"name":"Donnie Loftis","party":"R","votes":17598}
@@ -2358,6 +2539,7 @@
       "contest": "NC HOUSE OF REPRESENTATIVES DISTRICT 110",
       "area": "2 counties",
       "statewide": false,
+      "previousParty": "R",
       "candidates": [
         {"name":"Caroline Eason","party":"R","votes":16704},
         {"name":"Mary Silver","party":"D","votes":12081}
@@ -2371,6 +2553,7 @@
       "contest": "NC HOUSE OF REPRESENTATIVES DISTRICT 111",
       "area": "2 counties",
       "statewide": false,
+      "previousParty": "R",
       "candidates": [
         {"name":"Paul Scott","party":"R","votes":18619},
         {"name":"Jerry Blake","party":"D","votes":9598}
@@ -2384,6 +2567,7 @@
       "contest": "NC HOUSE OF REPRESENTATIVES DISTRICT 112",
       "area": "Mecklenburg County",
       "statewide": false,
+      "previousParty": "D",
       "candidates": [
         {"name":"Jordan Lopez","party":"D","votes":26324}
       ]
@@ -2396,6 +2580,7 @@
       "contest": "NC HOUSE OF REPRESENTATIVES DISTRICT 113",
       "area": "4 counties",
       "statewide": false,
+      "previousParty": "R",
       "candidates": [
         {"name":"Jake Johnson","party":"R","votes":23090},
         {"name":"John Morgan","party":"D","votes":16343}
@@ -2409,6 +2594,7 @@
       "contest": "NC HOUSE OF REPRESENTATIVES DISTRICT 114",
       "area": "Buncombe County",
       "statewide": false,
+      "previousParty": "D",
       "candidates": [
         {"name":"Eric Ager","party":"D","votes":32833}
       ]
@@ -2421,6 +2607,7 @@
       "contest": "NC HOUSE OF REPRESENTATIVES DISTRICT 115",
       "area": "Buncombe County",
       "statewide": false,
+      "previousParty": "D",
       "candidates": [
         {"name":"Lindsey Prather","party":"D","votes":24407},
         {"name":"Anthony J. Penland","party":"R","votes":16236}
@@ -2434,6 +2621,7 @@
       "contest": "NC HOUSE OF REPRESENTATIVES DISTRICT 116",
       "area": "Buncombe County",
       "statewide": false,
+      "previousParty": "D",
       "candidates": [
         {"name":"Brian Turner","party":"D","votes":38732}
       ]
@@ -2446,6 +2634,7 @@
       "contest": "NC HOUSE OF REPRESENTATIVES DISTRICT 117",
       "area": "Henderson County",
       "statewide": false,
+      "previousParty": "R",
       "candidates": [
         {"name":"Lynne Russo","party":"D","votes":22710},
         {"name":"Chelsea Walsh","party":"R","votes":21180}
@@ -2459,6 +2648,7 @@
       "contest": "NC HOUSE OF REPRESENTATIVES DISTRICT 118",
       "area": "2 counties",
       "statewide": false,
+      "previousParty": "R",
       "candidates": [
         {"name":"James M. (Jimmy) Rogers","party":"R","votes":19525},
         {"name":"Danny E. Davis","party":"D","votes":18920}
@@ -2472,6 +2662,7 @@
       "contest": "NC HOUSE OF REPRESENTATIVES DISTRICT 119",
       "area": "3 counties",
       "statewide": false,
+      "previousParty": "R",
       "candidates": [
         {"name":"Mark Burrows","party":"D","votes":19523},
         {"name":"Anna Ferguson","party":"R","votes":17726}
@@ -2485,6 +2676,7 @@
       "contest": "NC HOUSE OF REPRESENTATIVES DISTRICT 120",
       "area": "4 counties",
       "statewide": false,
+      "previousParty": "R",
       "candidates": [
         {"name":"Karl Gillespie","party":"R","votes":25619},
         {"name":"Caleb Brown","party":"D","votes":12120}

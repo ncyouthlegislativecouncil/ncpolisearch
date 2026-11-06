@@ -86,7 +86,9 @@ async function main() {
     return;
   }
 
-  const res = await fetch(ELECTION.url);
+  // Time-boxed so a stalled State Board server can't hang the daily workflow
+  // (which would also hold up that day's bill update).
+  const res = await fetch(ELECTION.url, { signal: AbortSignal.timeout(120_000) });
   if (!res.ok) throw new Error(`Results download failed: HTTP ${res.status}`);
   const lastModified = res.headers.get("last-modified");
   const sourceUpdated = lastModified ? new Date(lastModified).toISOString() : new Date().toISOString();
@@ -123,6 +125,10 @@ async function main() {
     totals.set(contest, entry);
   }
 
+  // previousParty is set once (scripts/set-previous-parties.ts) and carried
+  // forward on every refresh, since it describes the seat before the election.
+  const previousParty = new Map((existing?.races ?? []).map((r) => [r.id, r.previousParty ?? null]));
+
   const order: RaceCategory[] = ["federal", "courts", "amendments", "nc-senate", "nc-house"];
   const races: Race[] = Array.from(totals.entries())
     .map(([contest, entry]) => {
@@ -136,6 +142,7 @@ async function main() {
         contest,
         area: n >= 100 ? "Statewide" : n === 1 ? `${titleCase(Array.from(entry.counties)[0])} County` : `${n} counties`,
         statewide: n >= 100,
+        previousParty: previousParty.get(info.id) ?? null,
         candidates,
       };
     })

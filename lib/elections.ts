@@ -100,6 +100,8 @@ export type RaceView = {
   status: RaceStatus;
   marginPts: number | null; // leader's margin over second place, in percentage points
   openSeat: boolean; // the sitting member isn't on the ballot
+  // The leader's party differs from the party that held the seat before.
+  flip: { from: string; to: string } | null;
   candidates: CandidateView[];
 };
 
@@ -127,6 +129,11 @@ export function raceView(race: Race): RaceView {
   const holder =
     race.category === "nc-house" || race.category === "nc-senate" ? seatHolder(race.category, race.district) : null;
   const incumbentOnBallot = holder ? findOnBallot(holder.name ?? "", holder.party, race.candidates) : null;
+  const leaderParty = total > 0 ? first?.party ?? null : null;
+  const flip =
+    race.previousParty && leaderParty && race.category !== "amendments" && leaderParty !== race.previousParty
+      ? { from: race.previousParty, to: leaderParty }
+      : null;
 
   return {
     id: race.id,
@@ -136,6 +143,7 @@ export function raceView(race: Race): RaceView {
     status,
     marginPts: margin != null && total > 0 ? (100 * margin) / total : null,
     openSeat: Boolean(holder && !incumbentOnBallot),
+    flip,
     candidates: race.candidates.map((c, i) => ({
       ...c,
       pct: total > 0 ? c.votes / total : 0,

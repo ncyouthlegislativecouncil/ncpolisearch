@@ -101,6 +101,16 @@ export default function RaceCard({ race }: { race: RaceView }) {
               {chip.label}
             </span>
           )}
+          {race.flip && (
+            <span
+              className={`rounded px-2 py-0.5 text-[11px] font-bold uppercase tracking-wide text-white ${
+                race.flip.to === "D" ? "bg-democrat" : race.flip.to === "R" ? "bg-republican" : "bg-navymuted"
+              }`}
+              title={`Held by ${race.flip.from} before the election; ${race.flip.to} leads now`}
+            >
+              Flip {race.flip.from} → {race.flip.to}
+            </span>
+          )}
           {race.openSeat && (
             <span className="rounded bg-badge px-2 py-0.5 text-[10px] font-semibold uppercase tracking-wide text-navylight">
               Open seat

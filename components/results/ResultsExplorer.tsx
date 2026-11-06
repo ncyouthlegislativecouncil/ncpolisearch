@@ -4,21 +4,52 @@ import { useMemo, useState } from "react";
 import RaceCard from "./RaceCard";
 import type { RaceView } from "../../lib/elections";
 
-type TabKey = "federal" | "courts" | "amendments" | "nc-senate" | "nc-house" | "close";
+type TabKey =
+  | "federal"
+  | "courts"
+  | "amendments"
+  | "battleground-senate"
+  | "battleground-house"
+  | "nc-senate"
+  | "nc-house"
+  | "flips";
 
 const TABS: { key: TabKey; label: string }[] = [
   { key: "federal", label: "Federal" },
   { key: "courts", label: "Courts" },
   { key: "amendments", label: "Amendments" },
-  { key: "nc-senate", label: "NC Senate" },
-  { key: "nc-house", label: "NC House" },
-  { key: "close", label: "Close races" },
+  { key: "battleground-senate", label: "Battleground Senate" },
+  { key: "battleground-house", label: "Battleground House" },
+  { key: "nc-senate", label: "All NC Senate" },
+  { key: "nc-house", label: "All NC House" },
+  { key: "flips", label: "Flips" },
 ];
 
-// "Close" = decided by under 5 points (amendments excluded — they weren't close).
-const CLOSE_MARGIN_PTS = 5;
-const isClose = (r: RaceView) =>
-  r.category !== "amendments" && r.marginPts != null && r.marginPts < CLOSE_MARGIN_PTS;
+// Battleground = legislative races decided by fewer than this many points,
+// based on the actual result rather than anyone's pre-election ratings.
+const BATTLEGROUND_MARGIN_PTS = 10;
+
+function inTab(r: RaceView, key: TabKey): boolean {
+  switch (key) {
+    case "battleground-senate":
+    case "battleground-house":
+      return (
+        r.category === (key === "battleground-senate" ? "nc-senate" : "nc-house") &&
+        r.marginPts != null &&
+        r.marginPts < BATTLEGROUND_MARGIN_PTS
+      );
+    case "flips":
+      return r.flip != null;
+    default:
+      return r.category === key;
+  }
+}
+
+const TAB_NOTES: Partial<Record<TabKey, string>> = {
+  "battleground-senate": `NC Senate races decided by fewer than ${BATTLEGROUND_MARGIN_PTS} points, closest first.`,
+  "battleground-house": `NC House races decided by fewer than ${BATTLEGROUND_MARGIN_PTS} points, closest first.`,
+  flips: "Seats where the leading candidate's party differs from the party that held the seat before the election.",
+};
 
 function matches(race: RaceView, query: string): boolean {
   const q = query.trim().toLowerCase();
@@ -36,16 +67,15 @@ export default function ResultsExplorer({ races }: { races: RaceView[] }) {
 
   const counts = useMemo(() => {
     const c = {} as Record<TabKey, number>;
-    for (const t of TABS) c[t.key] = races.filter((r) => (t.key === "close" ? isClose(r) : r.category === t.key)).length;
+    for (const t of TABS) c[t.key] = races.filter((r) => inTab(r, t.key)).length;
     return c;
   }, [races]);
 
   // Searching looks across every race, regardless of the selected tab.
-  const shown = query.trim()
-    ? races.filter((r) => matches(r, query))
-    : tab === "close"
-      ? races.filter(isClose).sort((a, b) => (a.marginPts ?? 0) - (b.marginPts ?? 0))
-      : races.filter((r) => r.category === tab);
+  let shown = query.trim() ? races.filter((r) => matches(r, query)) : races.filter((r) => inTab(r, tab));
+  if (!query.trim() && tab.startsWith("battleground")) {
+    shown = [...shown].sort((a, b) => (a.marginPts ?? 0) - (b.marginPts ?? 0));
+  }
 
   return (
     <div>
@@ -89,9 +119,7 @@ export default function ResultsExplorer({ races }: { races: RaceView[] }) {
         <p className="mt-2 text-xs text-navymuted">
           {query.trim()
             ? `${shown.length} race${shown.length === 1 ? "" : "s"} matching “${query.trim()}”`
-            : tab === "close"
-              ? `Races decided by fewer than ${CLOSE_MARGIN_PTS} points, closest first.`
-              : "Incumbent names link to their legislator profile."}
+            : TAB_NOTES[tab] ?? "Incumbent names link to their legislator profile."}
         </p>
       </div>
 
