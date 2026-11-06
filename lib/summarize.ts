@@ -1,23 +1,15 @@
-import { desc, eq, isNull } from "drizzle-orm";
-import { drizzle } from "drizzle-orm/neon-http";
-import { neon } from "@neondatabase/serverless";
 import Anthropic from "@anthropic-ai/sdk";
-import { bills } from "../db/schema";
 import { getBill, getBillText } from "./legiscan";
 import { decodeDocText, condenseBillText } from "./billtext";
 import { TOPICS, isValidTopic } from "./topics";
 
 // ---------------------------------------------------------------------------
-// Shared AI-analysis logic, used by both the CLI backfill (scripts/summarize.ts,
-// which processes the whole backlog) and the daily cron (app/api/cron/poll),
-// which tops up the newest handful of un-summarized bills each run so new bills
-// get a plain-language summary automatically. Kept small and self-contained so
-// it runs the same in a long-lived process and a short-lived serverless function.
+// AI analysis of a bill: fetch its text from LegiScan and ask Claude for a
+// plain-language summary, pro/con arguments, and a topic. Used by the daily data
+// update (scripts/update-data.ts) for new bills that don't have analysis yet.
 // ---------------------------------------------------------------------------
 
 const MODEL = "claude-haiku-4-5";
-const MIN_REAL_TEXT = 200;
-const sleep = (ms: number) => new Promise((r) => setTimeout(r, ms));
 
 const SYSTEM_PROMPT =
   "You are a nonpartisan civic education assistant for the NC Youth Legislative Council. Your job is to help everyday North Carolinians understand state legislation clearly and fairly. Never express your own opinion. Always present both sides equally.";
@@ -117,92 +109,4 @@ export async function analyzeBill(
     .map((block) => (block as { text: string }).text)
     .join("");
   return parseAnalysis(out);
-}
-
-type DB = ReturnType<typeof drizzle>;
-
-// Get usable source text: the cached bill_text if it's real, otherwise fetch it
-// from LegiScan and cache it into bills.bill_text so a later run never
-// re-parses it.
-async function resolveBillText(
-  db: DB,
-  billId: number,
-  existing: string | null
-): Promise<string | null> {
-  if (existing && existing.trim().length >= MIN_REAL_TEXT) return existing;
-
-  const composed = await fetchBillTextFromLegiScan(billId);
-  if (!composed) return null;
-
-  try {
-    await db.update(bills).set({ billText: composed }).where(eq(bills.billId, billId));
-  } catch {
-    // Caching is best-effort; proceed with the in-memory text regardless.
-  }
-  return composed;
-}
-
-export interface SummarizeResult {
-  analyzed: number;
-  skipped: number;
-  failed: number;
-}
-
-// Top up the AI analysis for the newest un-summarized bills. `limit` is kept
-// small by the cron so the whole run stays comfortably within the serverless
-// time budget; the CLI backfill uses its own loop for the full backlog. Only
-// bills with a null ai_summary are ever selected, so nothing is re-analyzed
-// (or re-charged) once done. Newest bills (highest bill_id) are handled first.
-export async function summarizePending(limit = 10): Promise<SummarizeResult> {
-  const sql = neon(process.env.DATABASE_URL!);
-  const db = drizzle(sql, { schema: { bills } });
-  const anthropic = new Anthropic(); // reads ANTHROPIC_API_KEY from the env
-
-  const pending = await db
-    .select({
-      billId: bills.billId,
-      title: bills.title,
-      billText: bills.billText,
-    })
-    .from(bills)
-    .where(isNull(bills.aiSummary))
-    .orderBy(desc(bills.billId))
-    .limit(limit);
-
-  let analyzed = 0;
-  let skipped = 0;
-  let failed = 0;
-
-  for (const bill of pending) {
-    const text = await resolveBillText(db, bill.billId, bill.billText);
-    if (!text) {
-      skipped++;
-      continue;
-    }
-
-    try {
-      const analysis = await analyzeBill(anthropic, bill.title ?? "Untitled", text);
-      if (!analysis) {
-        failed++;
-      } else {
-        await db
-          .update(bills)
-          .set({
-            aiSummary: analysis.summary,
-            aiProArguments: analysis.pro_arguments,
-            aiConArguments: analysis.con_arguments,
-            topic: analysis.topic,
-          })
-          .where(eq(bills.billId, bill.billId));
-        analyzed++;
-      }
-    } catch {
-      // Never let one bill's failure stop the rest.
-      failed++;
-    }
-
-    await sleep(300);
-  }
-
-  return { analyzed, skipped, failed };
 }

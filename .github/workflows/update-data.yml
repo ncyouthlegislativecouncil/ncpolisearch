@@ -44,6 +44,13 @@ jobs:
           LEGISCAN_API_KEY: ${{ secrets.LEGISCAN_API_KEY }}
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
 
+      # Refreshes data/elections/ from the State Board of Elections until the
+      # results are certified (then it's a no-op). A State Board outage
+      # shouldn't block the bill update, hence continue-on-error.
+      - name: Update election results
+        run: npx tsx scripts/update-election-results.ts
+        continue-on-error: true
+
       - name: Check the data still builds an index
         run: npx tsx scripts/build-data-index.ts
 

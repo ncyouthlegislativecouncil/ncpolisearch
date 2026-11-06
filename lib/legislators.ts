@@ -7,6 +7,7 @@ import {
   legislatorById,
 } from "./data/store";
 import type { Legislator } from "./data/types";
+import emails from "./legislator-emails.json";
 
 export type LegislatorFilters = {
   chamber?: string; // "House" | "Senate"
@@ -58,6 +59,15 @@ const hasValue = (v: string | null) => v != null && v !== "";
 
 // The current member for every (chamber, district) seat, among legislators
 // passing `include`.
+// Someone ncleg.gov currently lists (we have their official email) beats
+// someone it doesn't: when a member resigns and their replacement has been
+// added, the official roster settles it before activity has a chance to.
+const listedOnNcleg = (l: Legislator) => Boolean((emails as Record<string, string>)[String(l.peopleId)]);
+
+export function compareSeatHolders(a: Legislator, b: Legislator, useSponsorships: boolean): number {
+  return Number(listedOnNcleg(b)) - Number(listedOnNcleg(a)) || compareByActivity(a, b, useSponsorships);
+}
+
 export function currentMembers(
   include: (l: Legislator) => boolean,
   useSponsorships = true
@@ -67,7 +77,7 @@ export function currentMembers(
     if ((l.role !== "Rep" && l.role !== "Sen") || !hasValue(l.district) || !include(l)) continue;
     const seat = `${l.role}|${l.district}`;
     const best = bySeat.get(seat);
-    if (!best || compareByActivity(l, best, useSponsorships) < 0) bySeat.set(seat, l);
+    if (!best || compareSeatHolders(l, best, useSponsorships) < 0) bySeat.set(seat, l);
   }
   return Array.from(bySeat.values());
 }

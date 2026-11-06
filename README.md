@@ -36,21 +36,23 @@ Open http://localhost:3000.
 
 **There is no manual deploy step.** This repo is connected to Vercel's GitHub integration: every push to `main` triggers an automatic production build and deploy. To ship a change, just merge/push to `main`.
 
-The Vercel project lives under the **NCYLC Vercel account** (not a personal account). The site needs no environment variables to run. The legacy database cron (see below) still reads `DATABASE_URL`, `CRON_SECRET`, `ANTHROPIC_API_KEY`, and `LEGISCAN_API_KEY` from **Project → Settings → Environment Variables** until it's removed.
+The Vercel project lives under the **NCYLC Vercel account** (not a personal account). The site needs no environment variables to run — the API keys live in GitHub (see below), not Vercel.
 
 ## How data stays up to date
 
 All site data is committed to this repo:
 
 - `data/bills/<billId>.json` — one file per bill: details, AI summary/arguments/topic, sponsors (in LegiScan's official order), and every roll call with each member's vote.
-- `data/legislators.json` — every legislator on file, including photo path and 2026 reelection status.
+- `data/legislators.json` — every legislator on file, including their photo path.
+- `data/elections/2026-general.json` — State Board of Elections results for the 2026 general election (the constitutional amendments and all 170 legislative races). Powers the ballot results page and the re-elected / lost / leaving badges on legislator profiles.
 - `lib/legislator-emails.json` — official @ncleg.gov emails (refresh with `npx tsx scripts/backfill-emails.ts --write`).
 
 The GitHub Action `.github/workflows/update-data.yml` runs daily at 11:00 UTC (and can be run by hand from the Actions tab). It runs `scripts/update-data.ts`, which:
 
 1. Asks LegiScan which bills are new or changed (comparing each file's `changeHash`) and rewrites only those files, keeping their existing AI analysis.
 2. Writes AI analysis (`claude-haiku-4-5`) for up to 10 of the newest bills that still lack it.
-3. Commits any changed files. That push makes Vercel redeploy the site with the new data.
+3. Refreshes the 2026 election results from the State Board (`scripts/update-election-results.ts`) until they're certified. Once the State Board certifies, run `npx tsx scripts/update-election-results.ts --certified` once and commit; after that it stops updating.
+4. Commits any changed files. That push makes Vercel redeploy the site with the new data.
 
 It needs two repository secrets: `LEGISCAN_API_KEY` and `ANTHROPIC_API_KEY` (Settings → Secrets and variables → Actions). If Vercel ever stops deploying the bot's commits, add a Vercel Deploy Hook URL as `VERCEL_DEPLOY_HOOK` and the workflow will call it.
 
@@ -65,16 +67,17 @@ app/            Next.js App Router pages + API routes (bills, legislators, map, 
 components/     Shared UI (BillCard, FeaturedBillCard, DistrictMap, etc.)
 data/           The dataset: one JSON file per bill + legislators.json
 lib/            Data access (lib/bills.ts, lib/legislators.ts, lib/data/), LegiScan client, AI summarization, PDF text extraction
-scripts/        update-data.ts (daily update), build-data-index.ts, set-reelection.ts, backfill-emails.ts, and older one-off scripts
-db/             Legacy Postgres schema — no longer used by the site (see below)
+scripts/        update-data.ts and update-election-results.ts (daily), build-data-index.ts, backfill-emails.ts, backfill-photos.ts
 ```
 
 Notable details for future changes:
 
 - **Legislator counts**: `data/legislators.json` can hold more people than actual seats (mid-session replacements leave both the departed and incoming member on file). The roster, homepage count, and district map all resolve the *current* member per district with `currentMembers` in `lib/legislators.ts`.
-- **PDF parsing on Vercel**: `lib/billtext.ts` imports `lib/pdf-polyfill.ts` before `pdf-parse`, because `pdf-parse` (via pdf.js) expects a browser `DOMMatrix` global that Vercel's serverless Node runtime doesn't provide. Don't remove that import — the cron route will crash at load without it.
+- **PDF parsing on Vercel**: `lib/billtext.ts` imports `lib/pdf-polyfill.ts` before `pdf-parse`, because `pdf-parse` (via pdf.js) expects a browser `DOMMatrix` global that Vercel's serverless Node runtime doesn't provide. Don't remove that import — the AI-analysis step of the daily update will crash at load without it.
 - **What renders per request**: only `/bills`, `/legislators`, `/legislators/[id]`, `/compare`, and two small search APIs (they read `searchParams`). They read `.data-index/` from memory; `next.config.mjs` ships that folder with the server functions.
-- **Legacy database**: the site used to run on Neon Postgres. A full backup was taken when it moved to files; `db/`, `lib/poll.ts`, and the old `/api/cron/poll` route remain only until the GitHub Action has proven itself, then they can be removed.
+- **Name matching**: LegiScan, ncleg.gov, and the State Board ballot spell names differently ("Patricia Cotham" / "Tricia Ann Cotham", "Zack Forde-Hawkins" / "Zack Hawkins"). `lib/names.ts` holds the shared loose matching used for both emails and election results.
+- **New members**: when new legislators join (e.g. January 2027), re-run `npx tsx scripts/backfill-emails.ts --write` and `npx tsx scripts/backfill-photos.ts` so they get an email and photo. The roster prefers members ncleg.gov currently lists when two people are on file for one seat.
+- **History**: the site ran on Neon Postgres until October 2026, when the data moved into `data/`.
 
 ## License / ownership
 

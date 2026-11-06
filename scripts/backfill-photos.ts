@@ -1,18 +1,18 @@
-import { drizzle } from "drizzle-orm/neon-http";
-import { neon } from "@neondatabase/serverless";
-import { sql } from "drizzle-orm";
+import { readFileSync, writeFileSync } from "node:fs";
 import { mkdir, writeFile } from "node:fs/promises";
 import { join } from "node:path";
+import { formatDataFile } from "../lib/data/format";
+import type { Legislator } from "../lib/data/types";
 
 // ---------------------------------------------------------------------------
 // Backfill legislator profile photos from the OpenStates "current people"
 // dataset for North Carolina. Photos are matched to our legislators by
 // (chamber, district) + last name, downloaded into public/legislators, and the
-// resulting path stored in legislators.image_url.
+// resulting path stored as imageUrl in data/legislators.json.
 //
 // One-time / occasional script — the roster changes maybe once a session.
 // Re-run to pick up new members. Run:
-//   npx tsx --env-file=.env.local scripts/backfill-photos.ts
+//   npx tsx scripts/backfill-photos.ts   (then commit public/legislators and data/)
 // ---------------------------------------------------------------------------
 
 const CSV_URL = "https://data.openstates.org/people/current/nc.csv";
@@ -121,7 +121,8 @@ type DbLeg = {
 };
 
 async function main() {
-  const db = drizzle(neon(process.env.DATABASE_URL!));
+  const LEGISLATORS_FILE = join(process.cwd(), "data", "legislators.json");
+  const roster: Legislator[] = JSON.parse(readFileSync(LEGISLATORS_FILE, "utf8"));
   await mkdir(OUT_DIR, { recursive: true });
 
   console.log(`Fetching ${CSV_URL} ...`);
@@ -140,9 +141,12 @@ async function main() {
     (bySeat.get(key) ?? bySeat.set(key, []).get(key)!).push(r);
   }
 
-  const legs = (
-    await db.execute(sql`SELECT people_id, name, role, district FROM legislators`)
-  ).rows as unknown as DbLeg[];
+  const legs: DbLeg[] = roster.map((l) => ({
+    people_id: l.peopleId,
+    name: l.name ?? "",
+    role: l.role ?? "",
+    district: l.district ?? "",
+  }));
 
   // Build the match list: DB legislator -> image URL.
   type Match = { peopleId: number; name: string; imageUrl: string };
@@ -191,10 +195,10 @@ async function main() {
 
   // Persist image paths.
   for (const u of updates) {
-    await db.execute(
-      sql`UPDATE legislators SET image_url = ${u.path} WHERE people_id = ${u.peopleId}`
-    );
+    const leg = roster.find((l) => l.peopleId === u.peopleId);
+    if (leg) leg.imageUrl = u.path;
   }
+  writeFileSync(LEGISLATORS_FILE, formatDataFile(roster));
 
   console.log("\n=== SUMMARY ===");
   console.log(`Photos saved + stored: ${updates.length}`);

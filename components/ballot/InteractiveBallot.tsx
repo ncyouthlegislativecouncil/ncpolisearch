@@ -10,6 +10,8 @@ import NcOutline from "../NcOutline";
 // ---------------------------------------------------------------------------
 type Amendment = {
   number: number;
+  // State Board of Elections contest name, used to look up the results.
+  contest: string;
   shortTitle: string;
   ballotLabel: string;
   question: string;
@@ -23,6 +25,7 @@ type Amendment = {
 const AMENDMENTS: Amendment[] = [
   {
     number: 1,
+    contest: "CONSTITUTIONAL AMENDMENT - MAXIMUM INCOME TAX RATE OF 3.5%",
     shortTitle: "Income Tax Cap",
     ballotLabel: "SB 1080 · Income Tax",
     question:
@@ -40,6 +43,7 @@ const AMENDMENTS: Amendment[] = [
   },
   {
     number: 2,
+    contest: "CONSTITUTIONAL AMENDMENT - PROPERTY TAX LEVY LIMIT",
     shortTitle: "Property Tax Limit",
     ballotLabel: "HB 1089 · Property Tax",
     question:
@@ -57,6 +61,7 @@ const AMENDMENTS: Amendment[] = [
   },
   {
     number: 3,
+    contest: "CONSTITUTIONAL AMENDMENT - REQUIRE PHOTO ID FOR VOTING",
     shortTitle: "Photo Voter ID",
     ballotLabel: "SB 921 · Voter ID",
     question:
@@ -73,6 +78,68 @@ const AMENDMENTS: Amendment[] = [
       "Elderly, low-income, and minority voters are less likely to have qualifying photo ID, and adding a mail-in ID requirement could disenfranchise voters who already face barriers to getting to polling locations.",
   },
 ];
+
+export type AmendmentVotes = { contest: string; for: number; against: number };
+
+type Result = { passed: boolean; forPct: number; forVotes: number; againstVotes: number };
+
+function resultFor(a: Amendment, votes: AmendmentVotes[]): Result | null {
+  const v = votes.find((x) => x.contest === a.contest);
+  if (!v || v.for + v.against === 0) return null;
+  return {
+    passed: v.for > v.against,
+    forPct: v.for / (v.for + v.against),
+    forVotes: v.for,
+    againstVotes: v.against,
+  };
+}
+
+const pctLabel = (x: number) => `${(x * 100).toFixed(1)}%`;
+
+function ResultChip({ result }: { result: Result }) {
+  return (
+    <span
+      className={`mt-1 shrink-0 rounded-full px-2.5 py-1 text-[11px] font-bold uppercase tracking-wide ${
+        result.passed ? "bg-lowrisk text-white" : "bg-ncred text-white"
+      }`}
+    >
+      {result.passed ? "Passed" : "Failed"} · {pctLabel(result.forPct)}
+    </span>
+  );
+}
+
+// For vs. Against as a single split bar with vote counts underneath.
+function VoteBar({ result, certified }: { result: Result; certified: boolean }) {
+  const forWidth = `${(result.forPct * 100).toFixed(2)}%`;
+  return (
+    <div className="mt-5 rounded-md border border-gray-200 p-4">
+      <div className="flex flex-wrap items-baseline justify-between gap-2">
+        <p className={`text-lg font-bold ${result.passed ? "text-lowrisk" : "text-ncred"}`}>
+          {result.passed ? "✅ Passed" : "❌ Failed"}
+        </p>
+        <p className="text-xs text-navymuted">{certified ? "Certified results" : "Unofficial results"}</p>
+      </div>
+      <div className="mt-3 flex h-3 overflow-hidden rounded-full bg-ncred/80" aria-hidden>
+        <motion.div
+          className="h-full bg-lowrisk"
+          initial={{ width: 0 }}
+          animate={{ width: forWidth }}
+          transition={{ duration: 0.6, ease: "easeOut" }}
+        />
+      </div>
+      <div className="mt-2 flex justify-between gap-3 text-sm">
+        <span>
+          <span className="font-semibold text-lowrisk">For {pctLabel(result.forPct)}</span>{" "}
+          <span className="text-navymuted">{result.forVotes.toLocaleString()}</span>
+        </span>
+        <span className="text-right">
+          <span className="text-navymuted">{result.againstVotes.toLocaleString()}</span>{" "}
+          <span className="font-semibold text-ncred">Against {pctLabel(1 - result.forPct)}</span>
+        </span>
+      </div>
+    </div>
+  );
+}
 
 const GOLD = "#c9a84c";
 const NAVY = "#1a1f8f";
@@ -100,10 +167,12 @@ function VoteOval({ marked }: { marked: boolean }) {
 function AmendmentRow({
   a,
   marked,
+  result,
   onSelect,
 }: {
   a: Amendment;
   marked: boolean;
+  result: Result | null;
   onSelect: (n: number) => void;
 }) {
   return (
@@ -125,6 +194,7 @@ function AmendmentRow({
           {a.question}
         </p>
       </div>
+      {result && <ResultChip result={result} />}
       <svg
         className="mt-2 h-4 w-4 shrink-0 text-navymuted transition-transform group-hover:translate-x-1"
         viewBox="0 0 20 20"
@@ -143,9 +213,11 @@ function AmendmentRow({
 // amendment rows to fill in.
 function BallotPaper({
   viewed,
+  votes,
   onSelect,
 }: {
   viewed: Set<number>;
+  votes: AmendmentVotes[];
   onSelect: (n: number) => void;
 }) {
   return (
@@ -175,19 +247,35 @@ function BallotPaper({
 
       <p className="section-label">Constitutional Amendments</p>
       <p className="mt-2 text-sm text-gray-500">
-        Select an amendment below to read what it actually does before you vote.
+        Select an amendment to see how North Carolina voted and what it actually does.
       </p>
 
       <div className="mt-4">
         {AMENDMENTS.map((a) => (
-          <AmendmentRow key={a.number} a={a} marked={viewed.has(a.number)} onSelect={onSelect} />
+          <AmendmentRow
+            key={a.number}
+            a={a}
+            marked={viewed.has(a.number)}
+            result={resultFor(a, votes)}
+            onSelect={onSelect}
+          />
         ))}
       </div>
     </div>
   );
 }
 
-function DetailPanel({ a, onClose }: { a: Amendment; onClose: () => void }) {
+function DetailPanel({
+  a,
+  result,
+  certified,
+  onClose,
+}: {
+  a: Amendment;
+  result: Result | null;
+  certified: boolean;
+  onClose: () => void;
+}) {
   return (
     <article className="relative rounded-lg border-t-4 border-[#c9a84c] bg-white p-6 shadow-lg sm:p-8">
       <button
@@ -230,6 +318,8 @@ function DetailPanel({ a, onClose }: { a: Amendment; onClose: () => void }) {
             {a.shortTitle}
           </h2>
 
+          {result && <VoteBar result={result} certified={certified} />}
+
           <div className="mt-4 rounded-md bg-pagebg p-4">
             <p className="text-base italic leading-relaxed text-gray-600">{a.question}</p>
           </div>
@@ -241,16 +331,29 @@ function DetailPanel({ a, onClose }: { a: Amendment; onClose: () => void }) {
             <p className="mt-2 text-base leading-relaxed text-gray-700">{a.actuallyDoes}</p>
           </div>
 
-          <div className="mt-6 grid gap-4 sm:grid-cols-2">
-            <div className="rounded-md border-l-4 border-lowrisk bg-[#f0fdf4] p-4">
-              <p className="font-bold text-lowrisk">✅ If it passes</p>
-              <p className="mt-2 text-base leading-relaxed text-gray-700">{a.ifPasses}</p>
+          {result ? (
+            <div
+              className={`mt-6 rounded-md border-l-4 p-4 ${
+                result.passed ? "border-lowrisk bg-[#f0fdf4]" : "border-ncred bg-[#fef2f2]"
+              }`}
+            >
+              <p className={`font-bold ${result.passed ? "text-lowrisk" : "text-ncred"}`}>What happens now</p>
+              <p className="mt-2 text-base leading-relaxed text-gray-700">
+                {result.passed ? a.ifPasses : a.ifFails}
+              </p>
             </div>
-            <div className="rounded-md border-l-4 border-ncred bg-[#fef2f2] p-4">
-              <p className="font-bold text-ncred">❌ If it fails</p>
-              <p className="mt-2 text-base leading-relaxed text-gray-700">{a.ifFails}</p>
+          ) : (
+            <div className="mt-6 grid gap-4 sm:grid-cols-2">
+              <div className="rounded-md border-l-4 border-lowrisk bg-[#f0fdf4] p-4">
+                <p className="font-bold text-lowrisk">✅ If it passes</p>
+                <p className="mt-2 text-base leading-relaxed text-gray-700">{a.ifPasses}</p>
+              </div>
+              <div className="rounded-md border-l-4 border-ncred bg-[#fef2f2] p-4">
+                <p className="font-bold text-ncred">❌ If it fails</p>
+                <p className="mt-2 text-base leading-relaxed text-gray-700">{a.ifFails}</p>
+              </div>
             </div>
-          </div>
+          )}
 
           <div className="mt-4 grid gap-4 sm:grid-cols-2">
             <div className="rounded-md border border-lowrisk bg-[#f0fdf4] p-5">
@@ -276,7 +379,13 @@ function DetailPanel({ a, onClose }: { a: Amendment; onClose: () => void }) {
 // the card's content — see the AnimatePresence keyed by amendment number
 // inside DetailPanel. Stacks vertically on mobile, where there isn't room
 // for two full-width panels side by side.
-export default function InteractiveBallot() {
+export default function InteractiveBallot({
+  votes,
+  certified,
+}: {
+  votes: AmendmentVotes[];
+  certified: boolean;
+}) {
   // null = only the ballot is showing; a number = that amendment's detail
   // panel is open alongside it.
   const [selected, setSelected] = useState<number | null>(null);
@@ -310,7 +419,7 @@ export default function InteractiveBallot() {
         transition={springTransition}
         className="w-full shrink-0 lg:max-w-2xl"
       >
-        <BallotPaper viewed={viewed} onSelect={handleSelect} />
+        <BallotPaper viewed={viewed} votes={votes} onSelect={handleSelect} />
       </motion.div>
 
       <AnimatePresence>
@@ -324,7 +433,12 @@ export default function InteractiveBallot() {
             transition={springTransition}
             className="w-full shrink-0 lg:max-w-2xl"
           >
-            <DetailPanel a={detailAmendment} onClose={() => setSelected(null)} />
+            <DetailPanel
+              a={detailAmendment}
+              result={resultFor(detailAmendment, votes)}
+              certified={certified}
+              onClose={() => setSelected(null)}
+            />
           </motion.div>
         )}
       </AnimatePresence>

@@ -1,6 +1,6 @@
 import { existsSync, readFileSync } from "fs";
 import { join } from "path";
-import type { BillFile, Legislator, RollCall } from "./types";
+import type { BillFile, ElectionResults, Legislator, RollCall } from "./types";
 
 // Read-only access to the site's data. Request-time code reads the prebuilt
 // lookup files in .data-index/ (see scripts/build-data-index.ts), loaded once
@@ -92,6 +92,17 @@ export function legislatorVotes(peopleId: number): [number, string | null][] {
     : [];
   legislatorVotesCache.set(peopleId, rows);
   return rows;
+}
+
+const electionCache = new Map<string, ElectionResults | null>();
+
+// Results of one election (e.g. "2026-general"), or null if not on file.
+export function electionResults(name: string): ElectionResults | null {
+  if (!electionCache.has(name)) {
+    const file = join(INDEX_DIR, "elections", `${name}.json`);
+    electionCache.set(name, existsSync(file) ? (JSON.parse(readFileSync(file, "utf8")) as ElectionResults) : null);
+  }
+  return electionCache.get(name) ?? null;
 }
 
 // Full bill including every member's vote on every roll call. Only used while

@@ -2,7 +2,7 @@
 
 import Link from "next/link";
 import LegislatorAvatar from "../LegislatorAvatar";
-import { partyInfo, roleLabel, reelectionInfo } from "../../lib/legislator-display";
+import { electionBadge, partyInfo, roleLabel } from "../../lib/legislator-display";
 import { statusInfo } from "../../lib/status";
 import type { DistrictLegislator } from "../../lib/district";
 
@@ -89,7 +89,7 @@ export default function LegislatorPanel({
   }
 
   const party = partyInfo(data.party);
-  const reelection = reelectionInfo(data.runningForReelection);
+  const election = electionBadge(data.election);
 
   return (
     <div className="space-y-6">
@@ -109,12 +109,14 @@ export default function LegislatorPanel({
                 {roleLabel(data.role)} · District {data.districtNumber}
               </span>
             </div>
-            {/* 2026 reelection status. */}
-            <span
-              className={`mt-2 inline-block rounded-full px-2.5 py-0.5 text-[11px] font-semibold ${reelection.className}`}
-            >
-              {reelection.label}
-            </span>
+            {/* 2026 general election outcome. */}
+            {election && (
+              <span
+                className={`mt-2 inline-block rounded-full px-2.5 py-0.5 text-[11px] font-semibold ${election.className}`}
+              >
+                {election.label}
+              </span>
+            )}
           </div>
         </div>
 

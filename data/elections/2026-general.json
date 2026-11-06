@@ -1,0 +1,1182 @@
+{
+  "election": "2026-11-03",
+  "name": "2026 General Election",
+  "source": "https://s3.amazonaws.com/dl.ncsbe.gov/ENRS/2026_11_03/results_pct_20261103.zip",
+  "sourceUpdated": "2026-11-05T21:45:49.000Z",
+  "certified": false,
+  "amendments": [
+    {"contest":"CONSTITUTIONAL AMENDMENT - MAXIMUM INCOME TAX RATE OF 3.5%","for":2559740,"against":1574257},
+    {"contest":"CONSTITUTIONAL AMENDMENT - PROPERTY TAX LEVY LIMIT","for":2492891,"against":1632769},
+    {"contest":"CONSTITUTIONAL AMENDMENT - REQUIRE PHOTO ID FOR VOTING","for":2463276,"against":1669764}
+  ],
+  "house": [
+    {
+      "district": 1,
+      "candidates": [
+        {"name":"Edward C. Goodwin","party":"R","votes":22436},
+        {"name":"Miriam Rollin","party":"D","votes":14880}
+      ]
+    },
+    {
+      "district": 2,
+      "candidates": [
+        {"name":"Ray Jeffers","party":"D","votes":28177}
+      ]
+    },
+    {
+      "district": 3,
+      "candidates": [
+        {"name":"Steve Tyson","party":"R","votes":20885},
+        {"name":"Diannia Bright","party":"D","votes":15547},
+        {"name":"Angela Humphries","party":"L","votes":888}
+      ]
+    },
+    {
+      "district": 4,
+      "candidates": [
+        {"name":"Jimmy Dixon","party":"R","votes":13780},
+        {"name":"Vernon Moore","party":"D","votes":11204}
+      ]
+    },
+    {
+      "district": 5,
+      "candidates": [
+        {"name":"Sam Davis III","party":"D","votes":16082},
+        {"name":"Bill Ward","party":"R","votes":14385}
+      ]
+    },
+    {
+      "district": 6,
+      "candidates": [
+        {"name":"Joe Pike","party":"R","votes":14489},
+        {"name":"Tony Spears","party":"D","votes":13887}
+      ]
+    },
+    {
+      "district": 7,
+      "candidates": [
+        {"name":"Mark Speed","party":"D","votes":19901},
+        {"name":"Cory Thornton","party":"R","votes":18698}
+      ]
+    },
+    {
+      "district": 8,
+      "candidates": [
+        {"name":"Gloristine Brown","party":"D","votes":18488},
+        {"name":"Cathy Thorne Bynum","party":"R","votes":7440}
+      ]
+    },
+    {
+      "district": 9,
+      "candidates": [
+        {"name":"Claire Kempner","party":"D","votes":18187},
+        {"name":"Timothy Reeder","party":"R","votes":18012}
+      ]
+    },
+    {
+      "district": 10,
+      "candidates": [
+        {"name":"John Bell","party":"R","votes":16019},
+        {"name":"Zyaire Webb","party":"D","votes":13180}
+      ]
+    },
+    {
+      "district": 11,
+      "candidates": [
+        {"name":"Allison A. Dahle","party":"D","votes":30013},
+        {"name":"Matthew Kordon","party":"L","votes":6854}
+      ]
+    },
+    {
+      "district": 12,
+      "candidates": [
+        {"name":"Chris Humphrey","party":"R","votes":15422},
+        {"name":"Don Hardy","party":"D","votes":14153}
+      ]
+    },
+    {
+      "district": 13,
+      "candidates": [
+        {"name":"Celeste Cairns","party":"R","votes":25511},
+        {"name":"Jason Moore","party":"D","votes":13595}
+      ]
+    },
+    {
+      "district": 14,
+      "candidates": [
+        {"name":"Wyatt Gable","party":"R","votes":10557}
+      ]
+    },
+    {
+      "district": 15,
+      "candidates": [
+        {"name":"Phillip Shepard","party":"R","votes":13610},
+        {"name":"Christopher Schulte","party":"D","votes":10328}
+      ]
+    },
+    {
+      "district": 16,
+      "candidates": [
+        {"name":"Carson Smith","party":"R","votes":21921},
+        {"name":"Jim Harris","party":"D","votes":13111}
+      ]
+    },
+    {
+      "district": 17,
+      "candidates": [
+        {"name":"Frank Iler","party":"R","votes":29965},
+        {"name":"Dennis A. Breen","party":"D","votes":25019}
+      ]
+    },
+    {
+      "district": 18,
+      "candidates": [
+        {"name":"Deb Butler","party":"D","votes":24899},
+        {"name":"Latisha Grady","party":"R","votes":10460}
+      ]
+    },
+    {
+      "district": 19,
+      "candidates": [
+        {"name":"Charlie Miller","party":"R","votes":29735},
+        {"name":"Scott Nasiff","party":"D","votes":24093}
+      ]
+    },
+    {
+      "district": 20,
+      "candidates": [
+        {"name":"Tim Merrick","party":"D","votes":22054},
+        {"name":"Dane Scalise","party":"R","votes":21953}
+      ]
+    },
+    {
+      "district": 21,
+      "candidates": [
+        {"name":"Ya Liu","party":"D","votes":29171},
+        {"name":"Bryson Johnson","party":"R","votes":11722}
+      ]
+    },
+    {
+      "district": 22,
+      "candidates": [
+        {"name":"Wellie Jackson","party":"R","votes":19106}
+      ]
+    },
+    {
+      "district": 23,
+      "candidates": [
+        {"name":"Patricia Smith","party":"D","votes":20679},
+        {"name":"Brent Roberson","party":"R","votes":12968}
+      ]
+    },
+    {
+      "district": 24,
+      "candidates": [
+        {"name":"Dante Pittman","party":"D","votes":18017},
+        {"name":"Blake Boykin","party":"R","votes":12910}
+      ]
+    },
+    {
+      "district": 25,
+      "candidates": [
+        {"name":"Lorenza M. Wilkins","party":"D","votes":20420},
+        {"name":"Allen Chesser","party":"R","votes":17340},
+        {"name":"Nick Taylor","party":"L","votes":1010}
+      ]
+    },
+    {
+      "district": 26,
+      "candidates": [
+        {"name":"L'Bertrice Solomon","party":"D","votes":21655},
+        {"name":"Donna McDowell White","party":"R","votes":19212}
+      ]
+    },
+    {
+      "district": 27,
+      "candidates": [
+        {"name":"Rodney D. Pierce","party":"D","votes":20657},
+        {"name":"David Woodson","party":"R","votes":11864}
+      ]
+    },
+    {
+      "district": 28,
+      "candidates": [
+        {"name":"Larry C. Strickland","party":"R","votes":17117},
+        {"name":"D. Matthew Bailey","party":"D","votes":12241}
+      ]
+    },
+    {
+      "district": 29,
+      "candidates": [
+        {"name":"Vernetta Alston","party":"D","votes":40935}
+      ]
+    },
+    {
+      "district": 30,
+      "candidates": [
+        {"name":"Marcia Morey","party":"D","votes":34703},
+        {"name":"Ray Ubinger","party":"L","votes":2627}
+      ]
+    },
+    {
+      "district": 31,
+      "candidates": [
+        {"name":"Zack Hawkins","party":"D","votes":37012}
+      ]
+    },
+    {
+      "district": 32,
+      "candidates": [
+        {"name":"Bryan K. Cohn","party":"D","votes":18410},
+        {"name":"Frank Sossamon","party":"R","votes":14827}
+      ]
+    },
+    {
+      "district": 33,
+      "candidates": [
+        {"name":"Monika Johnson-Hostler","party":"D","votes":29474},
+        {"name":"Matthew Orr","party":"R","votes":7793}
+      ]
+    },
+    {
+      "district": 34,
+      "candidates": [
+        {"name":"Tim Longest","party":"D","votes":29813},
+        {"name":"Ed George","party":"L","votes":6731}
+      ]
+    },
+    {
+      "district": 35,
+      "candidates": [
+        {"name":"Evonne S. Hopkins","party":"D","votes":25607},
+        {"name":"Mike Schietzelt","party":"R","votes":20994}
+      ]
+    },
+    {
+      "district": 36,
+      "candidates": [
+        {"name":"Julie von Haefen","party":"D","votes":26677},
+        {"name":"Mary Insprucker","party":"R","votes":15686}
+      ]
+    },
+    {
+      "district": 37,
+      "candidates": [
+        {"name":"Winn Decker","party":"D","votes":26678},
+        {"name":"Erin Pare","party":"R","votes":22074}
+      ]
+    },
+    {
+      "district": 38,
+      "candidates": [
+        {"name":"Abe Jones","party":"D","votes":27817}
+      ]
+    },
+    {
+      "district": 39,
+      "candidates": [
+        {"name":"James A. Roberson","party":"D","votes":29894},
+        {"name":"Jorge Cordova","party":"R","votes":10332},
+        {"name":"Wayne Cockrell","party":"L","votes":962}
+      ]
+    },
+    {
+      "district": 40,
+      "candidates": [
+        {"name":"Phil Rubin","party":"D","votes":31473},
+        {"name":"Lucas Everett Jones","party":"L","votes":7478}
+      ]
+    },
+    {
+      "district": 41,
+      "candidates": [
+        {"name":"Maria Cervania","party":"D","votes":27656},
+        {"name":"Bruce Forster","party":"R","votes":8619}
+      ]
+    },
+    {
+      "district": 42,
+      "candidates": [
+        {"name":"Mike Colvin","party":"D","votes":14691}
+      ]
+    },
+    {
+      "district": 43,
+      "candidates": [
+        {"name":"Janene Ackles","party":"D","votes":15814},
+        {"name":"Diane Wheatley","party":"R","votes":14530}
+      ]
+    },
+    {
+      "district": 44,
+      "candidates": [
+        {"name":"Charles Smith","party":"D","votes":17814}
+      ]
+    },
+    {
+      "district": 45,
+      "candidates": [
+        {"name":"Frances Jackson","party":"D","votes":17968}
+      ]
+    },
+    {
+      "district": 46,
+      "candidates": [
+        {"name":"Brenden H. Jones","party":"R","votes":15074},
+        {"name":"Brittany Newton","party":"D","votes":10273}
+      ]
+    },
+    {
+      "district": 47,
+      "candidates": [
+        {"name":"John L. Lowery","party":"R","votes":11173},
+        {"name":"Eshonda Hooper","party":"D","votes":9531}
+      ]
+    },
+    {
+      "district": 48,
+      "candidates": [
+        {"name":"Garland E. Pierce","party":"D","votes":15926},
+        {"name":"Ralph Carter","party":"R","votes":10324}
+      ]
+    },
+    {
+      "district": 49,
+      "candidates": [
+        {"name":"Cynthia Ball","party":"D","votes":25262},
+        {"name":"Daran Thomas","party":"R","votes":6711}
+      ]
+    },
+    {
+      "district": 50,
+      "candidates": [
+        {"name":"Renee A. Price","party":"D","votes":29976}
+      ]
+    },
+    {
+      "district": 51,
+      "candidates": [
+        {"name":"April Montgomery","party":"UNA","votes":13919},
+        {"name":"Charles M. Taylor","party":"R","votes":13537}
+      ]
+    },
+    {
+      "district": 52,
+      "candidates": [
+        {"name":"Ben Moss","party":"R","votes":15889},
+        {"name":"Joe Parfitt","party":"D","votes":14841}
+      ]
+    },
+    {
+      "district": 53,
+      "candidates": [
+        {"name":"Howard L. Penny, Jr.","party":"R","votes":17570},
+        {"name":"Kevin G. Thurman","party":"D","votes":15787},
+        {"name":"Christopher Sessions","party":"L","votes":722}
+      ]
+    },
+    {
+      "district": 54,
+      "candidates": [
+        {"name":"Robert T. Reives II","party":"D","votes":30519}
+      ]
+    },
+    {
+      "district": 55,
+      "candidates": [
+        {"name":"Clancy Baucom","party":"R","votes":15907},
+        {"name":"John J. Kirkpatrick IV","party":"D","votes":12594}
+      ]
+    },
+    {
+      "district": 56,
+      "candidates": [
+        {"name":"Allen Buansi","party":"D","votes":35365},
+        {"name":"Matthew P. Clements","party":"L","votes":2616}
+      ]
+    },
+    {
+      "district": 57,
+      "candidates": [
+        {"name":"Tracy Clark","party":"D","votes":28829}
+      ]
+    },
+    {
+      "district": 58,
+      "candidates": [
+        {"name":"Amos Quick","party":"D","votes":24991}
+      ]
+    },
+    {
+      "district": 59,
+      "candidates": [
+        {"name":"Elma Hairston","party":"D","votes":22405},
+        {"name":"Alan Branson","party":"R","votes":20812}
+      ]
+    },
+    {
+      "district": 60,
+      "candidates": [
+        {"name":"Amanda Cook","party":"D","votes":20212},
+        {"name":"Joseph Perrotta","party":"R","votes":7650}
+      ]
+    },
+    {
+      "district": 61,
+      "candidates": [
+        {"name":"Mary Price (Pricey) Harrison","party":"D","votes":28790}
+      ]
+    },
+    {
+      "district": 62,
+      "candidates": [
+        {"name":"Shelly Headen","party":"D","votes":21367},
+        {"name":"John M. Blust","party":"R","votes":21134}
+      ]
+    },
+    {
+      "district": 63,
+      "candidates": [
+        {"name":"Ian Baltutis","party":"D","votes":16479},
+        {"name":"Ryan Moffitt","party":"R","votes":16243}
+      ]
+    },
+    {
+      "district": 64,
+      "candidates": [
+        {"name":"LeVon Barnes","party":"D","votes":18261},
+        {"name":"Dennis Riddell","party":"R","votes":16373}
+      ]
+    },
+    {
+      "district": 65,
+      "candidates": [
+        {"name":"Seth Woodall","party":"R","votes":21413},
+        {"name":"Gavin McGaughey","party":"D","votes":12456}
+      ]
+    },
+    {
+      "district": 66,
+      "candidates": [
+        {"name":"Sarah Crawford","party":"D","votes":29620}
+      ]
+    },
+    {
+      "district": 67,
+      "candidates": [
+        {"name":"Cody Huneycutt","party":"R","votes":22475},
+        {"name":"Jocelyn Torres","party":"D","votes":10631}
+      ]
+    },
+    {
+      "district": 68,
+      "candidates": [
+        {"name":"David Willis","party":"R","votes":21658},
+        {"name":"Derek Warriner","party":"D","votes":19017}
+      ]
+    },
+    {
+      "district": 69,
+      "candidates": [
+        {"name":"Dean Arp","party":"R","votes":20575},
+        {"name":"Heidi Sinsley","party":"D","votes":17920}
+      ]
+    },
+    {
+      "district": 70,
+      "candidates": [
+        {"name":"Brian Biggs","party":"R","votes":18928},
+        {"name":"William (Bill) McCaskill","party":"D","votes":9291}
+      ]
+    },
+    {
+      "district": 71,
+      "candidates": [
+        {"name":"Kanika Brown","party":"D","votes":25156},
+        {"name":"Mathew Mena","party":"G","votes":3410}
+      ]
+    },
+    {
+      "district": 72,
+      "candidates": [
+        {"name":"Amber M. Baker","party":"D","votes":24655}
+      ]
+    },
+    {
+      "district": 73,
+      "candidates": [
+        {"name":"Thomas J. Monks","party":"D","votes":17333},
+        {"name":"Jonathan Almond","party":"R","votes":14884}
+      ]
+    },
+    {
+      "district": 74,
+      "candidates": [
+        {"name":"Amy Taylor North","party":"D","votes":23443},
+        {"name":"Jeff Zenger","party":"R","votes":17638}
+      ]
+    },
+    {
+      "district": 75,
+      "candidates": [
+        {"name":"Jen Wiles","party":"D","votes":18503},
+        {"name":"Donny C. Lambeth","party":"R","votes":15782}
+      ]
+    },
+    {
+      "district": 76,
+      "candidates": [
+        {"name":"Greg Edds","party":"R","votes":16091},
+        {"name":"Scott Huffman","party":"D","votes":14166}
+      ]
+    },
+    {
+      "district": 77,
+      "candidates": [
+        {"name":"Julia Howard","party":"R","votes":25470},
+        {"name":"Sabrina Harris","party":"D","votes":10511}
+      ]
+    },
+    {
+      "district": 78,
+      "candidates": [
+        {"name":"Neal Jackson","party":"R","votes":24521},
+        {"name":"Matt Holway","party":"D","votes":11430}
+      ]
+    },
+    {
+      "district": 79,
+      "candidates": [
+        {"name":"Darren Armstrong","party":"R","votes":26370}
+      ]
+    },
+    {
+      "district": 80,
+      "candidates": [
+        {"name":"Sam Watford","party":"R","votes":19706},
+        {"name":"JacQuez Johnson","party":"D","votes":9272}
+      ]
+    },
+    {
+      "district": 81,
+      "candidates": [
+        {"name":"Larry W. Potts","party":"R","votes":19943},
+        {"name":"Dylan R. Tucker","party":"D","votes":11521}
+      ]
+    },
+    {
+      "district": 82,
+      "candidates": [
+        {"name":"Chris Bishopp","party":"D","votes":20956},
+        {"name":"Brian Echevarria","party":"R","votes":16481}
+      ]
+    },
+    {
+      "district": 83,
+      "candidates": [
+        {"name":"Grant Campbell","party":"R","votes":18240},
+        {"name":"Johnnie Jones","party":"D","votes":14126}
+      ]
+    },
+    {
+      "district": 84,
+      "candidates": [
+        {"name":"Jeffrey C. McNeely","party":"R","votes":22235}
+      ]
+    },
+    {
+      "district": 85,
+      "candidates": [
+        {"name":"Dudley Greene","party":"R","votes":23012},
+        {"name":"Suzanne Gavenus","party":"D","votes":12416}
+      ]
+    },
+    {
+      "district": 86,
+      "candidates": [
+        {"name":"Hugh Blackwell","party":"R","votes":19007},
+        {"name":"Wesley E. Hendrix","party":"D","votes":10965}
+      ]
+    },
+    {
+      "district": 87,
+      "candidates": [
+        {"name":"Destin Hall","party":"R","votes":19635},
+        {"name":"Iris Bender","party":"D","votes":9834}
+      ]
+    },
+    {
+      "district": 88,
+      "candidates": [
+        {"name":"Mary Belk","party":"D","votes":23537},
+        {"name":"Ray Craig","party":"R","votes":6640}
+      ]
+    },
+    {
+      "district": 89,
+      "candidates": [
+        {"name":"Mitchell Smith Setzer","party":"R","votes":23905},
+        {"name":"Robert (Spider) Thompson","party":"D","votes":11488}
+      ]
+    },
+    {
+      "district": 90,
+      "candidates": [
+        {"name":"Dan Kiger","party":"R","votes":21120},
+        {"name":"Ken Badgett","party":"D","votes":8703}
+      ]
+    },
+    {
+      "district": 91,
+      "candidates": [
+        {"name":"Kyle Hall","party":"R","votes":18405},
+        {"name":"Lucille Puckett","party":"D","votes":12693}
+      ]
+    },
+    {
+      "district": 92,
+      "candidates": [
+        {"name":"Terry Brown","party":"D","votes":29574}
+      ]
+    },
+    {
+      "district": 93,
+      "candidates": [
+        {"name":"Charlie Wallin","party":"D","votes":18875},
+        {"name":"Ray Pickett","party":"R","votes":18647}
+      ]
+    },
+    {
+      "district": 94,
+      "candidates": [
+        {"name":"Blair Eddins","party":"R","votes":22432},
+        {"name":"Andy Warren","party":"D","votes":8479}
+      ]
+    },
+    {
+      "district": 95,
+      "candidates": [
+        {"name":"Richard (Todd) Carver","party":"R","votes":19963},
+        {"name":"Michael Robinson","party":"D","votes":15767}
+      ]
+    },
+    {
+      "district": 96,
+      "candidates": [
+        {"name":"Jay Adams","party":"R","votes":17288},
+        {"name":"Park Inglefield","party":"D","votes":14351}
+      ]
+    },
+    {
+      "district": 97,
+      "candidates": [
+        {"name":"Heather Rhyne","party":"R","votes":25490},
+        {"name":"Greg McBryde","party":"D","votes":12545}
+      ]
+    },
+    {
+      "district": 98,
+      "candidates": [
+        {"name":"Beth Helfrich","party":"D","votes":23447},
+        {"name":"John Rhodes","party":"R","votes":15589}
+      ]
+    },
+    {
+      "district": 99,
+      "candidates": [
+        {"name":"Veleria M. Levy","party":"D","votes":23971}
+      ]
+    },
+    {
+      "district": 100,
+      "candidates": [
+        {"name":"Julia Greenfield","party":"D","votes":22364}
+      ]
+    },
+    {
+      "district": 101,
+      "candidates": [
+        {"name":"Carolyn G. Logan","party":"D","votes":27021}
+      ]
+    },
+    {
+      "district": 102,
+      "candidates": [
+        {"name":"Becky Carney","party":"D","votes":31920}
+      ]
+    },
+    {
+      "district": 103,
+      "candidates": [
+        {"name":"Laura Budd","party":"D","votes":25645}
+      ]
+    },
+    {
+      "district": 104,
+      "candidates": [
+        {"name":"Brandon Lofton","party":"D","votes":24901},
+        {"name":"Trina Boyd","party":"R","votes":13432}
+      ]
+    },
+    {
+      "district": 105,
+      "candidates": [
+        {"name":"Ken McCool","party":"D","votes":24608},
+        {"name":"Tricia Ann Cotham","party":"R","votes":18479}
+      ]
+    },
+    {
+      "district": 106,
+      "candidates": [
+        {"name":"Rodney Sadler","party":"D","votes":33231}
+      ]
+    },
+    {
+      "district": 107,
+      "candidates": [
+        {"name":"Aisha O. Dew","party":"D","votes":29696}
+      ]
+    },
+    {
+      "district": 108,
+      "candidates": [
+        {"name":"John A. Torbett","party":"R","votes":16794},
+        {"name":"Sydnie Hutchinson","party":"D","votes":14304}
+      ]
+    },
+    {
+      "district": 109,
+      "candidates": [
+        {"name":"Mark D. Carver","party":"D","votes":18775},
+        {"name":"Donnie Loftis","party":"R","votes":17598}
+      ]
+    },
+    {
+      "district": 110,
+      "candidates": [
+        {"name":"Caroline Eason","party":"R","votes":16704},
+        {"name":"Mary Silver","party":"D","votes":12081}
+      ]
+    },
+    {
+      "district": 111,
+      "candidates": [
+        {"name":"Paul Scott","party":"R","votes":18619},
+        {"name":"Jerry Blake","party":"D","votes":9598}
+      ]
+    },
+    {
+      "district": 112,
+      "candidates": [
+        {"name":"Jordan Lopez","party":"D","votes":26324}
+      ]
+    },
+    {
+      "district": 113,
+      "candidates": [
+        {"name":"Jake Johnson","party":"R","votes":23090},
+        {"name":"John Morgan","party":"D","votes":16343}
+      ]
+    },
+    {
+      "district": 114,
+      "candidates": [
+        {"name":"Eric Ager","party":"D","votes":32833}
+      ]
+    },
+    {
+      "district": 115,
+      "candidates": [
+        {"name":"Lindsey Prather","party":"D","votes":24407},
+        {"name":"Anthony J. Penland","party":"R","votes":16236}
+      ]
+    },
+    {
+      "district": 116,
+      "candidates": [
+        {"name":"Brian Turner","party":"D","votes":38732}
+      ]
+    },
+    {
+      "district": 117,
+      "candidates": [
+        {"name":"Lynne Russo","party":"D","votes":22710},
+        {"name":"Chelsea Walsh","party":"R","votes":21180}
+      ]
+    },
+    {
+      "district": 118,
+      "candidates": [
+        {"name":"James M. (Jimmy) Rogers","party":"R","votes":19525},
+        {"name":"Danny E. Davis","party":"D","votes":18920}
+      ]
+    },
+    {
+      "district": 119,
+      "candidates": [
+        {"name":"Mark Burrows","party":"D","votes":19523},
+        {"name":"Anna Ferguson","party":"R","votes":17726}
+      ]
+    },
+    {
+      "district": 120,
+      "candidates": [
+        {"name":"Karl Gillespie","party":"R","votes":25619},
+        {"name":"Caleb Brown","party":"D","votes":12120}
+      ]
+    }
+  ],
+  "senate": [
+    {
+      "district": 1,
+      "candidates": [
+        {"name":"Jerry Tillett","party":"R","votes":42924},
+        {"name":"Melissa Zehner","party":"D","votes":39504}
+      ]
+    },
+    {
+      "district": 2,
+      "candidates": [
+        {"name":"Norman Sanderson","party":"R","votes":47147},
+        {"name":"Roy Surrett","party":"D","votes":40520}
+      ]
+    },
+    {
+      "district": 3,
+      "candidates": [
+        {"name":"Bob Brinson","party":"R","votes":44365},
+        {"name":"Charles Dudley","party":"D","votes":36279}
+      ]
+    },
+    {
+      "district": 4,
+      "candidates": [
+        {"name":"Jessica (Jess) Rivera","party":"D","votes":37539},
+        {"name":"Buck Newton","party":"R","votes":35962}
+      ]
+    },
+    {
+      "district": 5,
+      "candidates": [
+        {"name":"Kandie D. Smith","party":"D","votes":49446},
+        {"name":"Henry Hostetler","party":"R","votes":30638}
+      ]
+    },
+    {
+      "district": 6,
+      "candidates": [
+        {"name":"Michael Anthony Lazzara","party":"R","votes":30152},
+        {"name":"Andi Morrow","party":"D","votes":19841}
+      ]
+    },
+    {
+      "district": 7,
+      "candidates": [
+        {"name":"Jessica Bichler","party":"D","votes":48310},
+        {"name":"Michael Lee","party":"R","votes":43469}
+      ]
+    },
+    {
+      "district": 8,
+      "candidates": [
+        {"name":"Bill Rabon","party":"R","votes":59369},
+        {"name":"Richard (Rick) Combes","party":"D","votes":51954},
+        {"name":"Tim White","party":"L","votes":2502}
+      ]
+    },
+    {
+      "district": 9,
+      "candidates": [
+        {"name":"Brent Jackson","party":"R","votes":48386}
+      ]
+    },
+    {
+      "district": 10,
+      "candidates": [
+        {"name":"Benton Sawrey","party":"R","votes":43863},
+        {"name":"Pat LeGrand","party":"D","votes":42609},
+        {"name":"Kevin Terrett","party":"L","votes":1782}
+      ]
+    },
+    {
+      "district": 11,
+      "candidates": [
+        {"name":"James D. Gailliard","party":"D","votes":45342},
+        {"name":"Lisa Stone Barnes","party":"R","votes":40845},
+        {"name":"Gavin Bell","party":"L","votes":2076}
+      ]
+    },
+    {
+      "district": 12,
+      "candidates": [
+        {"name":"Jim Burgin","party":"R","votes":34783},
+        {"name":"Tanya White Anderson","party":"D","votes":32358}
+      ]
+    },
+    {
+      "district": 13,
+      "candidates": [
+        {"name":"Lisa Grafstein","party":"D","votes":63834},
+        {"name":"Robert van Brederode","party":"R","votes":41169}
+      ]
+    },
+    {
+      "district": 14,
+      "candidates": [
+        {"name":"Dan Blue","party":"D","votes":67944},
+        {"name":"Angela B. McCarty","party":"R","votes":14912}
+      ]
+    },
+    {
+      "district": 15,
+      "candidates": [
+        {"name":"Jay J. Chaudhuri","party":"D","votes":61375},
+        {"name":"David Bankert","party":"R","votes":20368}
+      ]
+    },
+    {
+      "district": 16,
+      "candidates": [
+        {"name":"Gale Adcock","party":"D","votes":66706},
+        {"name":"Philip Hensley","party":"R","votes":20952},
+        {"name":"Jonathan D. Miller","party":"L","votes":1748}
+      ]
+    },
+    {
+      "district": 17,
+      "candidates": [
+        {"name":"Mrs. Sydney Batch","party":"D","votes":61644},
+        {"name":"Shirley Johnson","party":"R","votes":21392},
+        {"name":"Patrick J. Bowersox","party":"L","votes":1763}
+      ]
+    },
+    {
+      "district": 18,
+      "candidates": [
+        {"name":"Haseeb Fatmi","party":"D","votes":54157},
+        {"name":"Chris Stock","party":"R","votes":42310},
+        {"name":"Brad Hessel","party":"L","votes":2409}
+      ]
+    },
+    {
+      "district": 19,
+      "candidates": [
+        {"name":"Val Applewhite","party":"D","votes":45407},
+        {"name":"Venus de la Cruz","party":"R","votes":16319}
+      ]
+    },
+    {
+      "district": 20,
+      "candidates": [
+        {"name":"Natalie S. Murdock","party":"D","votes":85371}
+      ]
+    },
+    {
+      "district": 21,
+      "candidates": [
+        {"name":"Tom McInnis","party":"R","votes":41901},
+        {"name":"Paul Taylor","party":"D","votes":35149}
+      ]
+    },
+    {
+      "district": 22,
+      "candidates": [
+        {"name":"Sophia Chitlik","party":"D","votes":72857},
+        {"name":"LaKeshia M. Alston","party":"R","votes":12600}
+      ]
+    },
+    {
+      "district": 23,
+      "candidates": [
+        {"name":"Jonah Garson","party":"D","votes":69311},
+        {"name":"Laura Pichardo","party":"R","votes":26191}
+      ]
+    },
+    {
+      "district": 24,
+      "candidates": [
+        {"name":"Danny Earl Britt, Jr.","party":"R","votes":27860},
+        {"name":"Catina Hamm","party":"D","votes":27592}
+      ]
+    },
+    {
+      "district": 25,
+      "candidates": [
+        {"name":"Amy Scott Galey","party":"R","votes":42643},
+        {"name":"Southey Blanton","party":"D","votes":40046}
+      ]
+    },
+    {
+      "district": 26,
+      "candidates": [
+        {"name":"Sam Page","party":"R","votes":50217},
+        {"name":"Steve Luking","party":"D","votes":43202}
+      ]
+    },
+    {
+      "district": 27,
+      "candidates": [
+        {"name":"Michael K. Garrett","party":"D","votes":61203}
+      ]
+    },
+    {
+      "district": 28,
+      "candidates": [
+        {"name":"Gladys A. Robinson","party":"D","votes":61097}
+      ]
+    },
+    {
+      "district": 29,
+      "candidates": [
+        {"name":"Dave Craven","party":"R","votes":43081},
+        {"name":"Judy Little","party":"D","votes":27537}
+      ]
+    },
+    {
+      "district": 30,
+      "candidates": [
+        {"name":"Steve Jarvis","party":"R","votes":52180},
+        {"name":"Pamela D. McAfee","party":"D","votes":26741}
+      ]
+    },
+    {
+      "district": 31,
+      "candidates": [
+        {"name":"Dana Caudill Jones","party":"R","votes":49941},
+        {"name":"Andy Bowline","party":"D","votes":43110}
+      ]
+    },
+    {
+      "district": 32,
+      "candidates": [
+        {"name":"Paul Lowe, Jr.","party":"D","votes":56997},
+        {"name":"Peter Antinozzi","party":"R","votes":16728},
+        {"name":"Keenen Altic","party":"G","votes":1357}
+      ]
+    },
+    {
+      "district": 33,
+      "candidates": [
+        {"name":"Carl Ford","party":"R","votes":46721},
+        {"name":"Gary R. Weart","party":"D","votes":28074}
+      ]
+    },
+    {
+      "district": 34,
+      "candidates": [
+        {"name":"April Cook","party":"D","votes":46750},
+        {"name":"Kevin Crutchfield","party":"R","votes":34328}
+      ]
+    },
+    {
+      "district": 35,
+      "candidates": [
+        {"name":"Todd Johnson","party":"R","votes":52066},
+        {"name":"Christine E. Winward","party":"D","votes":44329}
+      ]
+    },
+    {
+      "district": 36,
+      "candidates": [
+        {"name":"Eddie Settle","party":"R","votes":54065},
+        {"name":"Trevor Cole Hardwick","party":"D","votes":20115}
+      ]
+    },
+    {
+      "district": 37,
+      "candidates": [
+        {"name":"Vickie Sawyer","party":"R","votes":51692},
+        {"name":"Raygan J. Angel","party":"D","votes":39588}
+      ]
+    },
+    {
+      "district": 38,
+      "candidates": [
+        {"name":"Mujtaba A. Mohammed","party":"D","votes":75088}
+      ]
+    },
+    {
+      "district": 39,
+      "candidates": [
+        {"name":"DeAndrea Salvador","party":"D","votes":69536}
+      ]
+    },
+    {
+      "district": 40,
+      "candidates": [
+        {"name":"Joyce Waddell","party":"D","votes":56925},
+        {"name":"Bobbie Shields","party":"R","votes":11203}
+      ]
+    },
+    {
+      "district": 41,
+      "candidates": [
+        {"name":"Caleb Theodros","party":"D","votes":69771},
+        {"name":"Kevin Gray","party":"R","votes":12764}
+      ]
+    },
+    {
+      "district": 42,
+      "candidates": [
+        {"name":"Mrs. Woodson Bradley","party":"D","votes":57203},
+        {"name":"Stacie McGinn","party":"R","votes":39941}
+      ]
+    },
+    {
+      "district": 43,
+      "candidates": [
+        {"name":"Brad Overcash","party":"R","votes":39155},
+        {"name":"Steve Rutherford","party":"D","votes":37758}
+      ]
+    },
+    {
+      "district": 44,
+      "candidates": [
+        {"name":"Ted Alexander","party":"R","votes":50272},
+        {"name":"Rod Powell","party":"D","votes":27752}
+      ]
+    },
+    {
+      "district": 45,
+      "candidates": [
+        {"name":"Mark Hollo","party":"R","votes":49039},
+        {"name":"Greg Cranford","party":"D","votes":29101}
+      ]
+    },
+    {
+      "district": 46,
+      "candidates": [
+        {"name":"Warren Daniel","party":"R","votes":42610},
+        {"name":"Kyle Whisnant","party":"D","votes":33287}
+      ]
+    },
+    {
+      "district": 47,
+      "candidates": [
+        {"name":"Ralph Hise","party":"R","votes":48503},
+        {"name":"Frank Patton Hughes III","party":"D","votes":38829}
+      ]
+    },
+    {
+      "district": 48,
+      "candidates": [
+        {"name":"Tim Moffitt","party":"R","votes":49359},
+        {"name":"Doyle G. Brown, Jr.","party":"D","votes":40065}
+      ]
+    },
+    {
+      "district": 49,
+      "candidates": [
+        {"name":"Julie Mayfield","party":"D","votes":77184},
+        {"name":"CJ Domingo","party":"R","votes":22866}
+      ]
+    },
+    {
+      "district": 50,
+      "candidates": [
+        {"name":"Kevin Corbin","party":"R","votes":55374},
+        {"name":"Tom Downing","party":"D","votes":39781}
+      ]
+    }
+  ]
+}

@@ -64,3 +64,36 @@ export type Legislator = {
   runningForReelection: boolean | null;
   createdAt: string | null;
 };
+
+// Results of one election, built from the NC State Board of Elections'
+// precinct results file by scripts/update-election-results.ts.
+export type ElectionCandidate = {
+  name: string;
+  party: string | null; // "R", "D", "L", "G", or the State Board's code
+  votes: number;
+};
+
+export type LegislativeContest = {
+  district: number;
+  candidates: ElectionCandidate[]; // most votes first
+};
+
+export type AmendmentResult = {
+  contest: string; // State Board contest name, e.g. "CONSTITUTIONAL AMENDMENT - PROPERTY TAX LEVY LIMIT"
+  for: number;
+  against: number;
+};
+
+export type ElectionResults = {
+  election: string; // "2026-11-03"
+  name: string;
+  source: string;
+  // When the State Board last updated its results file.
+  sourceUpdated: string;
+  // False until the State Board certifies the results; while false the daily
+  // update keeps refreshing them.
+  certified: boolean;
+  amendments: AmendmentResult[];
+  house: LegislativeContest[];
+  senate: LegislativeContest[];
+};

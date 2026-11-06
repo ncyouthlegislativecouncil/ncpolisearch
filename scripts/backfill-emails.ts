@@ -3,6 +3,7 @@ config({ path: ".env.local" });
 
 import { readFileSync, writeFileSync } from "fs";
 import type { Legislator } from "../lib/data/types";
+import { sameFirstName, sameLastName } from "../lib/names";
 
 // Pulls each member's official email from their page on ncleg.gov and saves
 // them to lib/legislator-emails.json (keyed by LegiScan people_id), so profile
@@ -32,22 +33,6 @@ function decodeCfEmail(hex: string): string {
   }
   return out;
 }
-
-// ncleg.gov names can carry HTML entities ("Par&#xE9;"), credentials after a
-// comma ("Grant L. Campbell, MD") and suffixes ("Jr."); normalize all of that
-// so the last name compares cleanly against our roster.
-const lastName = (full: string) =>
-  full
-    .replace(/&#x([0-9a-f]+);/gi, (_, h) => String.fromCharCode(parseInt(h, 16)))
-    .replace(/&nbsp;/g, " ")
-    .split(",")[0]
-    .trim()
-    .replace(/\s+(Jr\.?|Sr\.?|II|III|IV)$/i, "")
-    .split(/\s+/)
-    .pop()!
-    .normalize("NFD")
-    .replace(/[̀-ͯ]/g, "")
-    .toLowerCase();
 
 type Member = { ncgaId: string; name: string; district: number; email: string | null };
 
@@ -99,15 +84,18 @@ async function main() {
         continue;
       }
       // Same chamber + district + last name. A district can hold a departed
-      // member and their replacement, so the last name picks the right row.
-      const rows = all.filter(
+      // member and their replacement — sometimes with the same last name (the
+      // two Lowerys in House 47) — so if more than one row matches, the first
+      // name decides. Each email goes to exactly one legislator.
+      let rows = all.filter(
         (l) =>
           l.role === role &&
           Number(l.district?.replace(/\D/g, "")) === mem.district &&
-          lastName(l.name ?? "") === lastName(mem.name)
+          sameLastName(l.name ?? "", mem.name)
       );
-      if (rows.length === 0) {
-        unmatched.push(`${mem.name} (${role} ${mem.district}) ${mem.email}`);
+      if (rows.length > 1) rows = rows.filter((l) => sameFirstName(l.name ?? "", mem.name));
+      if (rows.length !== 1) {
+        unmatched.push(`${mem.name} (${role} ${mem.district}) ${mem.email}${rows.length > 1 ? " [ambiguous]" : ""}`);
         continue;
       }
       for (const row of rows) {

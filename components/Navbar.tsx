@@ -17,7 +17,7 @@ const NAV_LINKS = [
   { href: "/bills", label: "Bills", prefetch: false },
   { href: "/legislators", label: "Legislators", prefetch: false },
   { href: "/map", label: "District Map" },
-  { href: "/ballot", label: "November Ballot" },
+  { href: "/ballot", label: "Ballot Results" },
   { href: "/compare", label: "Compare" },
   { href: "/write", label: "Write a Legislator" },
   { href: "/about", label: "About" },

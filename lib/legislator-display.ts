@@ -1,3 +1,5 @@
+import type { ElectionOutcome } from "./elections";
+
 export type PartyInfo = { label: string; className: string };
 
 export function partyInfo(party: string | null): PartyInfo {
@@ -6,23 +8,28 @@ export function partyInfo(party: string | null): PartyInfo {
   return { label: party ? party : "Unaffiliated", className: "bg-navymuted text-white" };
 }
 
-// 2026 reelection badge. null = unknown, true = running, false = retiring.
-export type ReelectionInfo = { label: string; className: string };
+// Badge for how a sitting legislator fared in the 2026 general election.
+export type ElectionBadge = { label: string; className: string; note: string };
 
-export function reelectionInfo(
-  running: boolean | null | undefined
-): ReelectionInfo {
-  if (running === true)
+export function electionBadge(outcome: ElectionOutcome | null): ElectionBadge | null {
+  if (!outcome) return null;
+  const pct = outcome.pct != null ? `${(outcome.pct * 100).toFixed(1)}%` : "";
+  const note = `2026 general election · ${outcome.certified ? "certified" : "unofficial"} results from the NC State Board of Elections`;
+  if (outcome.kind === "won") {
     return {
-      label: "Running for Reelection · November 2026",
+      label: outcome.unopposed ? "Re-elected · Unopposed" : `Re-elected · ${pct}`,
       className: "bg-lowrisk text-white",
+      note,
     };
-  if (running === false)
-    return {
-      label: "Not Seeking Reelection",
-      className: "bg-ncred text-white",
-    };
-  return { label: "2026 Status Unknown", className: "bg-navymuted text-white" };
+  }
+  if (outcome.kind === "lost") {
+    return { label: `Lost reelection · ${pct}`, className: "bg-ncred text-white", note };
+  }
+  return {
+    label: "Leaving office · January 2027",
+    className: "bg-navymuted text-white",
+    note: "Not on the 2026 ballot for this seat",
+  };
 }
 
 // Initials for an avatar placeholder, e.g. "Norma Torres" -> "NT".

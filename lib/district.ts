@@ -1,7 +1,8 @@
 import { allLegislators, legislatorById } from "./data/store";
 import type { Legislator } from "./data/types";
-import { compareByActivity, currentMembers, getLegislatorBills } from "./legislators";
+import { compareSeatHolders, currentMembers, getLegislatorBills } from "./legislators";
 import { getPartyUnity, getRecentDecisiveVotes } from "./votes";
+import { getElectionOutcome, type ElectionOutcome } from "./elections";
 
 // ---------------------------------------------------------------------------
 // District ↔ legislator plumbing
@@ -76,7 +77,7 @@ export type DistrictLegislator = {
   district: string | null;
   districtNumber: number | null;
   imageUrl: string | null;
-  runningForReelection: boolean | null;
+  election: ElectionOutcome | null;
   chamber: Chamber;
   sponsoredCount: number;
   cosponsoredCount: number;
@@ -90,7 +91,7 @@ export type DistrictLegislator = {
 function resolveCurrentMember(chamber: Chamber, district: number): Legislator | null {
   const code = districtCode(chamber, district);
   const candidates = allLegislators().filter((l) => l.role === roleFor(chamber) && l.district === code);
-  candidates.sort((a, b) => compareByActivity(a, b));
+  candidates.sort((a, b) => compareSeatHolders(a, b, true));
   return candidates[0] ?? null;
 }
 
@@ -125,7 +126,7 @@ export async function getDistrictLegislator(
     district: l.district,
     districtNumber: districtNum(l.district),
     imageUrl: l.imageUrl,
-    runningForReelection: l.runningForReelection,
+    election: getElectionOutcome(l),
     chamber,
     sponsoredCount: billGroups.sponsored.length,
     cosponsoredCount: billGroups.cosponsored.length,

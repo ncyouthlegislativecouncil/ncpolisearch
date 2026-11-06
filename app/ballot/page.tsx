@@ -1,48 +1,62 @@
 import type { Metadata } from "next";
 import Link from "next/link";
 import InteractiveBallot from "../../components/ballot/InteractiveBallot";
+import { CURRENT_ELECTION } from "../../lib/elections";
+import { electionResults } from "../../lib/data/store";
 
 export const metadata: Metadata = {
-  title: "Your November 2026 Ballot — NCPoliSearch",
+  title: "2026 Ballot Results — NCPoliSearch",
   description:
-    "North Carolina's statewide constitutional amendments for the November 2026 election, explained in plain English by NCPoliSearch.",
+    "How North Carolina voted on the three constitutional amendments in the November 2026 election, with what each one does explained in plain English.",
 };
 
 export default function BallotPage() {
+  const results = electionResults(CURRENT_ELECTION);
+  const certified = results?.certified ?? false;
+  const updated = results
+    ? new Date(results.sourceUpdated).toLocaleDateString("en-US", {
+        month: "short",
+        day: "numeric",
+        year: "numeric",
+        timeZone: "America/New_York",
+      })
+    : null;
+
   return (
     <main className="bg-pagebg">
       {/* PAGE HEADER — full-width navy hero with gold bottom border. */}
       <section className="border-b-4 border-[#c9a84c] bg-navy">
         <div className="mx-auto max-w-[1600px] px-5 py-12 sm:px-6 sm:py-16">
           <h1 className="font-serif text-3xl font-bold leading-tight text-white sm:text-5xl">
-            Your November 2026 Ballot
+            2026 Ballot Results
           </h1>
           <p className="mt-3 text-lg text-skyblue sm:text-xl">
-            North Carolina statewide amendments — explained in plain English
+            How North Carolina voted on the statewide amendments — explained in plain English
           </p>
           <span className="mt-6 inline-block rounded-full bg-[#c9a84c] px-4 py-1.5 text-sm font-bold text-navy">
-            Election Day: November 3, 2026
+            {certified
+              ? "Certified results · General Election, November 3, 2026"
+              : `Unofficial results${updated ? ` · updated ${updated}` : ""}`}
           </span>
         </div>
       </section>
 
       <div className="mx-auto max-w-[1600px] px-4 py-10 sm:px-6 sm:py-12">
         {/* INTERACTIVE BALLOT — an actual ballot-styled card. Pick an
-            amendment to slide the ballot aside and reveal the full
-            breakdown; "Back to Ballot" slides it back. */}
+            amendment to slide the ballot aside and reveal its result and full
+            breakdown. */}
         <div>
-          <InteractiveBallot />
+          <InteractiveBallot votes={results?.amendments ?? []} certified={certified} />
         </div>
 
         {/* BOTTOM CTA — gold card. */}
         <div className="mt-12 rounded-lg bg-[#c9a84c] p-6 shadow-md sm:p-8">
           <h2 className="font-serif text-2xl font-bold text-navy">
-            Want to see your specific races?
+            How did your legislators do?
           </h2>
           <p className="mt-3 text-base leading-relaxed text-navy/90">
-            Visit our District Map to find your NC House and Senate
-            representatives and see who&apos;s running in your district this
-            November.
+            Find your NC House and Senate members on our District Map to see
+            whether they were re-elected, and what they&apos;ve been voting on.
           </p>
           <Link
             href="/map"
@@ -54,11 +68,12 @@ export default function BallotPage() {
 
         {/* DISCLAIMER — small gray italic, centered. */}
         <p className="mt-10 text-center text-xs italic leading-relaxed text-gray-500">
-          Amendment information sourced from NC General Assembly legislation and
-          verified by NCPoliSearch. Arguments reflect positions stated by
+          Vote totals from the NC State Board of Elections
+          {certified ? "" : " — unofficial until the State Board certifies them"}.
+          Amendment explanations are sourced from NC General Assembly legislation
+          and verified by NCPoliSearch. Arguments reflect positions stated by
           legislators during committee and floor debates. This is not an
-          endorsement of any position. Always verify with official sources at
-          ncsbe.gov.
+          endorsement of any position.
         </p>
       </div>
     </main>

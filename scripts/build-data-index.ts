@@ -8,7 +8,8 @@
 //   rollcalls.json          roll-call metadata (no member votes)
 //   legislator-stats.json   per-legislator vote totals + party-unity score
 //   legislator-votes/<id>.json  [rollCallId, vote] pairs for one legislator
-import { mkdirSync, readFileSync, readdirSync, rmSync, writeFileSync } from "fs";
+//   elections/<name>.json   copies of data/elections/ (election results)
+import { copyFileSync, existsSync, mkdirSync, readFileSync, readdirSync, rmSync, writeFileSync } from "fs";
 import { join } from "path";
 import type { BillFile, Legislator } from "../lib/data/types";
 
@@ -26,6 +27,14 @@ function main() {
   mkdirSync(join(OUT, "legislator-votes"), { recursive: true });
 
   writeFileSync(join(OUT, "legislators.json"), JSON.stringify(legislators));
+
+  const electionsDir = join(DATA, "elections");
+  if (existsSync(electionsDir)) {
+    mkdirSync(join(OUT, "elections"), { recursive: true });
+    for (const f of readdirSync(electionsDir).filter((x) => x.endsWith(".json"))) {
+      copyFileSync(join(electionsDir, f), join(OUT, "elections", f));
+    }
+  }
   writeFileSync(join(OUT, "bills.json"), JSON.stringify(bills.map(({ rollCalls: _rc, ...rest }) => rest))); // eslint-disable-line @typescript-eslint/no-unused-vars
 
   const rollCalls = bills.flatMap((b) =>
