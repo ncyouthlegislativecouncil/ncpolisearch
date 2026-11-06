@@ -1,0 +1,958 @@
+{
+  "raceId": "nc-senate-02",
+  "candidates": [
+    {"name":"Norman Sanderson","party":"R"},
+    {"name":"Roy Surrett","party":"D"}
+  ],
+  "precincts": [
+    {
+      "key": "CARTERET|ABCH",
+      "county": "CARTERET",
+      "precinct": "ABCH",
+      "votes": [
+        [296,309,16,0],
+        [92,163,13,0]
+      ]
+    },
+    {
+      "key": "CARTERET|ASCI",
+      "county": "CARTERET",
+      "precinct": "ASCI",
+      "votes": [
+        [172,168,3,0],
+        [52,52,2,0]
+      ]
+    },
+    {
+      "key": "CARTERET|BCRK",
+      "county": "CARTERET",
+      "precinct": "BCRK",
+      "votes": [
+        [368,560,3,0],
+        [70,250,6,0]
+      ]
+    },
+    {
+      "key": "CARTERET|BFT1",
+      "county": "CARTERET",
+      "precinct": "BFT1",
+      "votes": [
+        [104,306,5,0],
+        [105,429,22,0]
+      ]
+    },
+    {
+      "key": "CARTERET|BFT2",
+      "county": "CARTERET",
+      "precinct": "BFT2",
+      "votes": [
+        [293,1111,13,0],
+        [161,909,33,0]
+      ]
+    },
+    {
+      "key": "CARTERET|BOGE",
+      "county": "CARTERET",
+      "precinct": "BOGE",
+      "votes": [
+        [503,990,17,0],
+        [147,344,19,0]
+      ]
+    },
+    {
+      "key": "CARTERET|CAPE",
+      "county": "CARTERET",
+      "precinct": "CAPE",
+      "votes": [
+        [421,1350,25,0],
+        [114,553,29,0]
+      ]
+    },
+    {
+      "key": "CARTERET|DASW",
+      "county": "CARTERET",
+      "precinct": "DASW",
+      "votes": [
+        [192,143,1,0],
+        [28,59,2,0]
+      ]
+    },
+    {
+      "key": "CARTERET|HAIS",
+      "county": "CARTERET",
+      "precinct": "HAIS",
+      "votes": [
+        [261,289,7,0],
+        [44,96,4,0]
+      ]
+    },
+    {
+      "key": "CARTERET|IBPK",
+      "county": "CARTERET",
+      "precinct": "IBPK",
+      "votes": [
+        [392,385,21,0],
+        [183,290,28,0]
+      ]
+    },
+    {
+      "key": "CARTERET|ISLE",
+      "county": "CARTERET",
+      "precinct": "ISLE",
+      "votes": [
+        [528,1279,25,0],
+        [186,767,56,0]
+      ]
+    },
+    {
+      "key": "CARTERET|MASM",
+      "county": "CARTERET",
+      "precinct": "MASM",
+      "votes": [
+        [125,171,1,0],
+        [43,102,4,0]
+      ]
+    },
+    {
+      "key": "CARTERET|MCRK",
+      "county": "CARTERET",
+      "precinct": "MCRK",
+      "votes": [
+        [166,92,1,0],
+        [30,27,1,0]
+      ]
+    },
+    {
+      "key": "CARTERET|MERR",
+      "county": "CARTERET",
+      "precinct": "MERR",
+      "votes": [
+        [107,110,4,0],
+        [47,80,2,0]
+      ]
+    },
+    {
+      "key": "CARTERET|MHD1",
+      "county": "CARTERET",
+      "precinct": "MHD1",
+      "votes": [
+        [502,524,12,0],
+        [185,353,15,0]
+      ]
+    },
+    {
+      "key": "CARTERET|MHD2",
+      "county": "CARTERET",
+      "precinct": "MHD2",
+      "votes": [
+        [408,515,20,0],
+        [241,387,16,0]
+      ]
+    },
+    {
+      "key": "CARTERET|MHD3",
+      "county": "CARTERET",
+      "precinct": "MHD3",
+      "votes": [
+        [593,751,7,0],
+        [263,475,27,0]
+      ]
+    },
+    {
+      "key": "CARTERET|MHD4",
+      "county": "CARTERET",
+      "precinct": "MHD4",
+      "votes": [
+        [440,927,22,0],
+        [132,483,22,0]
+      ]
+    },
+    {
+      "key": "CARTERET|NPT1",
+      "county": "CARTERET",
+      "precinct": "NPT1",
+      "votes": [
+        [378,866,4,0],
+        [152,414,21,0]
+      ]
+    },
+    {
+      "key": "CARTERET|NPT2",
+      "county": "CARTERET",
+      "precinct": "NPT2",
+      "votes": [
+        [380,922,10,0],
+        [107,352,10,0]
+      ]
+    },
+    {
+      "key": "CARTERET|NRIV",
+      "county": "CARTERET",
+      "precinct": "NRIV",
+      "votes": [
+        [39,138,0,0],
+        [75,161,3,0]
+      ]
+    },
+    {
+      "key": "CARTERET|OTBEG",
+      "county": "CARTERET",
+      "precinct": "OTBEG",
+      "votes": [
+        [276,535,11,0],
+        [85,242,20,0]
+      ]
+    },
+    {
+      "key": "CARTERET|PELE",
+      "county": "CARTERET",
+      "precinct": "PELE",
+      "votes": [
+        [250,497,10,0],
+        [67,183,12,0]
+      ]
+    },
+    {
+      "key": "CARTERET|STEL",
+      "county": "CARTERET",
+      "precinct": "STEL",
+      "votes": [
+        [348,523,6,0],
+        [85,203,6,0]
+      ]
+    },
+    {
+      "key": "CARTERET|WIHA",
+      "county": "CARTERET",
+      "precinct": "WIHA",
+      "votes": [
+        [254,656,17,0],
+        [76,281,8,0]
+      ]
+    },
+    {
+      "key": "CARTERET|WILD",
+      "county": "CARTERET",
+      "precinct": "WILD",
+      "votes": [
+        [344,917,10,0],
+        [148,438,24,0]
+      ]
+    },
+    {
+      "key": "CHOWAN|1",
+      "county": "CHOWAN",
+      "precinct": "1",
+      "votes": [
+        [111,312,9,0],
+        [138,531,20,0]
+      ]
+    },
+    {
+      "key": "CHOWAN|2",
+      "county": "CHOWAN",
+      "precinct": "2",
+      "votes": [
+        [233,738,11,0],
+        [154,689,23,0]
+      ]
+    },
+    {
+      "key": "CHOWAN|3",
+      "county": "CHOWAN",
+      "precinct": "3",
+      "votes": [
+        [299,418,5,0],
+        [74,130,2,0]
+      ]
+    },
+    {
+      "key": "CHOWAN|4",
+      "county": "CHOWAN",
+      "precinct": "4",
+      "votes": [
+        [118,110,1,0],
+        [58,149,2,0]
+      ]
+    },
+    {
+      "key": "CHOWAN|5",
+      "county": "CHOWAN",
+      "precinct": "5",
+      "votes": [
+        [196,197,1,0],
+        [41,77,0,0]
+      ]
+    },
+    {
+      "key": "CHOWAN|6",
+      "county": "CHOWAN",
+      "precinct": "6",
+      "votes": [
+        [191,387,6,0],
+        [90,291,12,0]
+      ]
+    },
+    {
+      "key": "HALIFAX|BUTWD",
+      "county": "HALIFAX",
+      "precinct": "BUTWD",
+      "votes": [
+        [61,0,0,0],
+        [41,0,0,0]
+      ]
+    },
+    {
+      "key": "HALIFAX|CONC",
+      "county": "HALIFAX",
+      "precinct": "CONC",
+      "votes": [
+        [27,0,0,0],
+        [52,0,0,0]
+      ]
+    },
+    {
+      "key": "HALIFAX|ENF",
+      "county": "HALIFAX",
+      "precinct": "ENF",
+      "votes": [
+        [114,0,0,0],
+        [610,0,0,0]
+      ]
+    },
+    {
+      "key": "HALIFAX|FAUCT",
+      "county": "HALIFAX",
+      "precinct": "FAUCT",
+      "votes": [
+        [186,0,0,0],
+        [77,0,0,0]
+      ]
+    },
+    {
+      "key": "HALIFAX|HAL",
+      "county": "HALIFAX",
+      "precinct": "HAL",
+      "votes": [
+        [83,0,0,0],
+        [135,0,0,0]
+      ]
+    },
+    {
+      "key": "HALIFAX|HOL",
+      "county": "HALIFAX",
+      "precinct": "HOL",
+      "votes": [
+        [48,0,0,0],
+        [331,0,0,0]
+      ]
+    },
+    {
+      "key": "HALIFAX|HPR",
+      "county": "HALIFAX",
+      "precinct": "HPR",
+      "votes": [
+        [140,0,0,0],
+        [126,0,0,0]
+      ]
+    },
+    {
+      "key": "HALIFAX|LIT",
+      "county": "HALIFAX",
+      "precinct": "LIT",
+      "votes": [
+        [403,0,0,0],
+        [324,0,0,0]
+      ]
+    },
+    {
+      "key": "HALIFAX|RINGW",
+      "county": "HALIFAX",
+      "precinct": "RINGW",
+      "votes": [
+        [45,0,0,0],
+        [180,0,0,0]
+      ]
+    },
+    {
+      "key": "HALIFAX|RR 10",
+      "county": "HALIFAX",
+      "precinct": "RR 10",
+      "votes": [
+        [331,0,0,0],
+        [180,0,0,0]
+      ]
+    },
+    {
+      "key": "HALIFAX|RR 11",
+      "county": "HALIFAX",
+      "precinct": "RR 11",
+      "votes": [
+        [364,0,0,0],
+        [159,0,0,0]
+      ]
+    },
+    {
+      "key": "HALIFAX|RR1-4",
+      "county": "HALIFAX",
+      "precinct": "RR1-4",
+      "votes": [
+        [419,0,0,0],
+        [199,0,0,0]
+      ]
+    },
+    {
+      "key": "HALIFAX|RR7-9",
+      "county": "HALIFAX",
+      "precinct": "RR7-9",
+      "votes": [
+        [179,0,0,0],
+        [403,0,0,0]
+      ]
+    },
+    {
+      "key": "HALIFAX|RRCE",
+      "county": "HALIFAX",
+      "precinct": "RRCE",
+      "votes": [
+        [313,0,0,0],
+        [195,0,0,0]
+      ]
+    },
+    {
+      "key": "HALIFAX|SN",
+      "county": "HALIFAX",
+      "precinct": "SN",
+      "votes": [
+        [123,0,0,0],
+        [196,0,0,0]
+      ]
+    },
+    {
+      "key": "HALIFAX|WEL 3",
+      "county": "HALIFAX",
+      "precinct": "WEL 3",
+      "votes": [
+        [105,0,0,0],
+        [195,0,0,0]
+      ]
+    },
+    {
+      "key": "HALIFAX|WEL1-2",
+      "county": "HALIFAX",
+      "precinct": "WEL1-2",
+      "votes": [
+        [67,0,0,0],
+        [159,0,0,0]
+      ]
+    },
+    {
+      "key": "HYDE|BM",
+      "county": "HYDE",
+      "precinct": "BM",
+      "votes": [
+        [139,0,0,0],
+        [11,0,0,0]
+      ]
+    },
+    {
+      "key": "HYDE|ENG",
+      "county": "HYDE",
+      "precinct": "ENG",
+      "votes": [
+        [119,0,0,0],
+        [61,0,0,0]
+      ]
+    },
+    {
+      "key": "HYDE|FF",
+      "county": "HYDE",
+      "precinct": "FF",
+      "votes": [
+        [101,0,0,0],
+        [41,0,0,0]
+      ]
+    },
+    {
+      "key": "HYDE|LL",
+      "county": "HYDE",
+      "precinct": "LL",
+      "votes": [
+        [69,0,0,0],
+        [73,0,0,0]
+      ]
+    },
+    {
+      "key": "HYDE|OCK",
+      "county": "HYDE",
+      "precinct": "OCK",
+      "votes": [
+        [86,0,0,0],
+        [123,0,0,0]
+      ]
+    },
+    {
+      "key": "HYDE|SLAD",
+      "county": "HYDE",
+      "precinct": "SLAD",
+      "votes": [
+        [94,0,0,0],
+        [27,0,0,0]
+      ]
+    },
+    {
+      "key": "HYDE|SQ",
+      "county": "HYDE",
+      "precinct": "SQ",
+      "votes": [
+        [93,0,0,0],
+        [24,0,0,0]
+      ]
+    },
+    {
+      "key": "MARTIN|BG",
+      "county": "MARTIN",
+      "precinct": "BG",
+      "votes": [
+        [422,257,0,0],
+        [106,140,5,0]
+      ]
+    },
+    {
+      "key": "MARTIN|CR",
+      "county": "MARTIN",
+      "precinct": "CR",
+      "votes": [
+        [183,120,0,0],
+        [90,191,8,0]
+      ]
+    },
+    {
+      "key": "MARTIN|GRF",
+      "county": "MARTIN",
+      "precinct": "GRF",
+      "votes": [
+        [405,189,2,0],
+        [105,140,1,0]
+      ]
+    },
+    {
+      "key": "MARTIN|GSN",
+      "county": "MARTIN",
+      "precinct": "GSN",
+      "votes": [
+        [191,57,6,0],
+        [170,173,3,0]
+      ]
+    },
+    {
+      "key": "MARTIN|HMT",
+      "county": "MARTIN",
+      "precinct": "HMT",
+      "votes": [
+        [135,79,0,0],
+        [154,176,2,0]
+      ]
+    },
+    {
+      "key": "MARTIN|JMV",
+      "county": "MARTIN",
+      "precinct": "JMV",
+      "votes": [
+        [368,371,3,0],
+        [131,290,10,0]
+      ]
+    },
+    {
+      "key": "MARTIN|RBV",
+      "county": "MARTIN",
+      "precinct": "RBV",
+      "votes": [
+        [257,151,3,0],
+        [313,454,6,0]
+      ]
+    },
+    {
+      "key": "MARTIN|WM1",
+      "county": "MARTIN",
+      "precinct": "WM1",
+      "votes": [
+        [253,448,9,0],
+        [182,664,21,0]
+      ]
+    },
+    {
+      "key": "MARTIN|WM2",
+      "county": "MARTIN",
+      "precinct": "WM2",
+      "votes": [
+        [176,346,6,0],
+        [239,788,20,0]
+      ]
+    },
+    {
+      "key": "PAMLICO|1CR",
+      "county": "PAMLICO",
+      "precinct": "1CR",
+      "votes": [
+        [239,313,6,3],
+        [50,132,5,1]
+      ]
+    },
+    {
+      "key": "PAMLICO|1RB",
+      "county": "PAMLICO",
+      "precinct": "1RB",
+      "votes": [
+        [279,278,2,4],
+        [74,130,9,1]
+      ]
+    },
+    {
+      "key": "PAMLICO|2OT",
+      "county": "PAMLICO",
+      "precinct": "2OT",
+      "votes": [
+        [262,519,11,4],
+        [154,580,33,2]
+      ]
+    },
+    {
+      "key": "PAMLICO|3CH",
+      "county": "PAMLICO",
+      "precinct": "3CH",
+      "votes": [
+        [145,372,5,7],
+        [98,372,14,2]
+      ]
+    },
+    {
+      "key": "PAMLICO|4BR",
+      "county": "PAMLICO",
+      "precinct": "4BR",
+      "votes": [
+        [97,92,0,1],
+        [59,63,2,0]
+      ]
+    },
+    {
+      "key": "PAMLICO|5AP",
+      "county": "PAMLICO",
+      "precinct": "5AP",
+      "votes": [
+        [372,647,7,8],
+        [124,440,35,4]
+      ]
+    },
+    {
+      "key": "WARREN|1",
+      "county": "WARREN",
+      "precinct": "001",
+      "votes": [
+        [276,168,4,0],
+        [94,195,13,0]
+      ]
+    },
+    {
+      "key": "WARREN|10",
+      "county": "WARREN",
+      "precinct": "010",
+      "votes": [
+        [61,152,1,0],
+        [161,550,10,0]
+      ]
+    },
+    {
+      "key": "WARREN|11",
+      "county": "WARREN",
+      "precinct": "011",
+      "votes": [
+        [57,21,0,0],
+        [31,73,3,0]
+      ]
+    },
+    {
+      "key": "WARREN|12",
+      "county": "WARREN",
+      "precinct": "012",
+      "votes": [
+        [260,183,10,0],
+        [85,130,11,0]
+      ]
+    },
+    {
+      "key": "WARREN|13",
+      "county": "WARREN",
+      "precinct": "013",
+      "votes": [
+        [76,42,0,0],
+        [56,134,1,0]
+      ]
+    },
+    {
+      "key": "WARREN|14",
+      "county": "WARREN",
+      "precinct": "014",
+      "votes": [
+        [56,129,4,0],
+        [112,392,6,0]
+      ]
+    },
+    {
+      "key": "WARREN|2",
+      "county": "WARREN",
+      "precinct": "002",
+      "votes": [
+        [172,201,6,0],
+        [72,167,8,0]
+      ]
+    },
+    {
+      "key": "WARREN|3",
+      "county": "WARREN",
+      "precinct": "003",
+      "votes": [
+        [116,85,0,0],
+        [106,217,5,0]
+      ]
+    },
+    {
+      "key": "WARREN|4",
+      "county": "WARREN",
+      "precinct": "004",
+      "votes": [
+        [101,112,0,0],
+        [70,187,6,0]
+      ]
+    },
+    {
+      "key": "WARREN|5",
+      "county": "WARREN",
+      "precinct": "005",
+      "votes": [
+        [59,106,3,0],
+        [160,376,8,0]
+      ]
+    },
+    {
+      "key": "WARREN|6",
+      "county": "WARREN",
+      "precinct": "006",
+      "votes": [
+        [106,87,0,0],
+        [161,307,6,0]
+      ]
+    },
+    {
+      "key": "WARREN|7",
+      "county": "WARREN",
+      "precinct": "007",
+      "votes": [
+        [36,111,2,0],
+        [77,218,2,0]
+      ]
+    },
+    {
+      "key": "WARREN|8",
+      "county": "WARREN",
+      "precinct": "008",
+      "votes": [
+        [52,51,5,0],
+        [231,349,13,0]
+      ]
+    },
+    {
+      "key": "WARREN|9",
+      "county": "WARREN",
+      "precinct": "009",
+      "votes": [
+        [67,73,1,0],
+        [54,122,5,0]
+      ]
+    },
+    {
+      "key": "WASHINGTON|LM",
+      "county": "WASHINGTON",
+      "precinct": "LM",
+      "votes": [
+        [115,0,0,0],
+        [116,0,0,0]
+      ]
+    },
+    {
+      "key": "WASHINGTON|P1",
+      "county": "WASHINGTON",
+      "precinct": "P1",
+      "votes": [
+        [76,0,0,0],
+        [119,0,0,0]
+      ]
+    },
+    {
+      "key": "WASHINGTON|P2",
+      "county": "WASHINGTON",
+      "precinct": "P2",
+      "votes": [
+        [35,0,0,0],
+        [138,0,0,0]
+      ]
+    },
+    {
+      "key": "WASHINGTON|P3",
+      "county": "WASHINGTON",
+      "precinct": "P3",
+      "votes": [
+        [241,0,0,0],
+        [187,0,0,0]
+      ]
+    },
+    {
+      "key": "WASHINGTON|SC",
+      "county": "WASHINGTON",
+      "precinct": "SC",
+      "votes": [
+        [252,0,0,0],
+        [104,0,0,0]
+      ]
+    },
+    {
+      "key": "WASHINGTON|SK",
+      "county": "WASHINGTON",
+      "precinct": "SK",
+      "votes": [
+        [179,0,0,0],
+        [66,0,0,0]
+      ]
+    }
+  ],
+  "other": [
+    {
+      "county": "HALIFAX",
+      "label": "ABSENTEE",
+      "votes": [
+        [0,0,49,0],
+        [0,0,153,0]
+      ]
+    },
+    {
+      "county": "HALIFAX",
+      "label": "EV HAL",
+      "votes": [
+        [0,644,0,0],
+        [0,1993,0,0]
+      ]
+    },
+    {
+      "county": "HALIFAX",
+      "label": "EV RING",
+      "votes": [
+        [0,154,0,0],
+        [0,1391,0,0]
+      ]
+    },
+    {
+      "county": "HALIFAX",
+      "label": "EV RRA",
+      "votes": [
+        [0,2257,0,0],
+        [0,3302,0,0]
+      ]
+    },
+    {
+      "county": "HALIFAX",
+      "label": "EV SN",
+      "votes": [
+        [0,177,0,0],
+        [0,823,0,0]
+      ]
+    },
+    {
+      "county": "HALIFAX",
+      "label": "PROVISIONAL",
+      "votes": [
+        [0,0,0,0],
+        [0,0,0,0]
+      ]
+    },
+    {
+      "county": "HALIFAX",
+      "label": "TRANSFER",
+      "votes": [
+        [0,0,0,0],
+        [0,0,0,0]
+      ]
+    },
+    {
+      "county": "HYDE",
+      "label": "ABSENTEE",
+      "votes": [
+        [0,0,7,0],
+        [0,0,34,0]
+      ]
+    },
+    {
+      "county": "HYDE",
+      "label": "EV BOE",
+      "votes": [
+        [0,318,0,0],
+        [0,254,0,0]
+      ]
+    },
+    {
+      "county": "HYDE",
+      "label": "EV OCK",
+      "votes": [
+        [0,51,0,0],
+        [0,176,0,0]
+      ]
+    },
+    {
+      "county": "HYDE",
+      "label": "PROVISIONAL",
+      "votes": [
+        [0,0,0,0],
+        [0,0,0,0]
+      ]
+    },
+    {
+      "county": "HYDE",
+      "label": "TRANSFER",
+      "votes": [
+        [0,0,0,0],
+        [0,0,0,0]
+      ]
+    },
+    {
+      "county": "WASHINGTON",
+      "label": "ABSENTEE",
+      "votes": [
+        [0,10,0,0],
+        [0,33,0,0]
+      ]
+    },
+    {
+      "county": "WASHINGTON",
+      "label": "EARLY VOTING",
+      "votes": [
+        [0,950,0,0],
+        [0,1872,0,0]
+      ]
+    },
+    {
+      "county": "WASHINGTON",
+      "label": "PROVISIONAL",
+      "votes": [
+        [0,0,0,0],
+        [0,0,0,0]
+      ]
+    },
+    {
+      "county": "WASHINGTON",
+      "label": "TRANSFER",
+      "votes": [
+        [0,0,0,0],
+        [0,0,0,0]
+      ]
+    }
+  ]
+}

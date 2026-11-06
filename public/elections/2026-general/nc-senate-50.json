@@ -1,0 +1,883 @@
+{
+  "raceId": "nc-senate-50",
+  "candidates": [
+    {"name":"Kevin Corbin","party":"R"},
+    {"name":"Tom Downing","party":"D"}
+  ],
+  "precincts": [
+    {
+      "key": "CHEROKEE|ANSW",
+      "county": "CHEROKEE",
+      "precinct": "ANSW",
+      "votes": [
+        [374,178,7,0],
+        [108,100,8,0]
+      ]
+    },
+    {
+      "key": "CHEROKEE|ANW",
+      "county": "CHEROKEE",
+      "precinct": "ANW",
+      "votes": [
+        [445,287,6,0],
+        [109,109,11,0]
+      ]
+    },
+    {
+      "key": "CHEROKEE|BELL",
+      "county": "CHEROKEE",
+      "precinct": "BELL",
+      "votes": [
+        [232,292,2,0],
+        [73,135,15,0]
+      ]
+    },
+    {
+      "key": "CHEROKEE|BRAS",
+      "county": "CHEROKEE",
+      "precinct": "BRAS",
+      "votes": [
+        [194,218,5,0],
+        [49,102,15,0]
+      ]
+    },
+    {
+      "key": "CHEROKEE|CSON",
+      "county": "CHEROKEE",
+      "precinct": "CSON",
+      "votes": [
+        [217,187,3,0],
+        [52,83,9,0]
+      ]
+    },
+    {
+      "key": "CHEROKEE|GCRK",
+      "county": "CHEROKEE",
+      "precinct": "GCRK",
+      "votes": [
+        [136,106,0,0],
+        [25,32,3,0]
+      ]
+    },
+    {
+      "key": "CHEROKEE|HANG",
+      "county": "CHEROKEE",
+      "precinct": "HANG",
+      "votes": [
+        [182,157,2,0],
+        [31,49,3,0]
+      ]
+    },
+    {
+      "key": "CHEROKEE|HIWA",
+      "county": "CHEROKEE",
+      "precinct": "HIWA",
+      "votes": [
+        [448,518,13,0],
+        [93,211,14,0]
+      ]
+    },
+    {
+      "key": "CHEROKEE|HOTH",
+      "county": "CHEROKEE",
+      "precinct": "HOTH",
+      "votes": [
+        [288,373,5,0],
+        [53,160,6,0]
+      ]
+    },
+    {
+      "key": "CHEROKEE|MARB",
+      "county": "CHEROKEE",
+      "precinct": "MARB",
+      "votes": [
+        [284,231,0,0],
+        [55,93,6,0]
+      ]
+    },
+    {
+      "key": "CHEROKEE|MURN",
+      "county": "CHEROKEE",
+      "precinct": "MURN",
+      "votes": [
+        [237,454,17,0],
+        [108,216,13,0]
+      ]
+    },
+    {
+      "key": "CHEROKEE|MURS",
+      "county": "CHEROKEE",
+      "precinct": "MURS",
+      "votes": [
+        [293,648,16,0],
+        [104,265,21,0]
+      ]
+    },
+    {
+      "key": "CHEROKEE|PCHT",
+      "county": "CHEROKEE",
+      "precinct": "PCHT",
+      "votes": [
+        [415,498,9,0],
+        [96,193,15,0]
+      ]
+    },
+    {
+      "key": "CHEROKEE|RGER",
+      "county": "CHEROKEE",
+      "precinct": "RGER",
+      "votes": [
+        [355,440,14,0],
+        [92,176,16,0]
+      ]
+    },
+    {
+      "key": "CHEROKEE|UNKA",
+      "county": "CHEROKEE",
+      "precinct": "UNKA",
+      "votes": [
+        [161,126,3,0],
+        [42,46,3,0]
+      ]
+    },
+    {
+      "key": "CLAY|BRAS",
+      "county": "CLAY",
+      "precinct": "BRAS",
+      "votes": [
+        [216,147,6,0],
+        [58,105,5,0]
+      ]
+    },
+    {
+      "key": "CLAY|HAY1",
+      "county": "CLAY",
+      "precinct": "HAY1",
+      "votes": [
+        [176,352,3,0],
+        [46,171,5,0]
+      ]
+    },
+    {
+      "key": "CLAY|HAY2",
+      "county": "CLAY",
+      "precinct": "HAY2",
+      "votes": [
+        [211,427,6,0],
+        [44,262,14,0]
+      ]
+    },
+    {
+      "key": "CLAY|HAYC",
+      "county": "CLAY",
+      "precinct": "HAYC",
+      "votes": [
+        [56,109,1,0],
+        [17,62,2,0]
+      ]
+    },
+    {
+      "key": "CLAY|HIAW",
+      "county": "CLAY",
+      "precinct": "HIAW",
+      "votes": [
+        [290,413,4,0],
+        [71,224,14,0]
+      ]
+    },
+    {
+      "key": "CLAY|SHCR",
+      "county": "CLAY",
+      "precinct": "SHCR",
+      "votes": [
+        [258,312,6,0],
+        [33,140,5,0]
+      ]
+    },
+    {
+      "key": "CLAY|SWEE",
+      "county": "CLAY",
+      "precinct": "SWEE",
+      "votes": [
+        [129,179,2,0],
+        [46,97,6,0]
+      ]
+    },
+    {
+      "key": "CLAY|TUSQ",
+      "county": "CLAY",
+      "precinct": "TUSQ",
+      "votes": [
+        [121,201,3,0],
+        [41,119,6,0]
+      ]
+    },
+    {
+      "key": "CLAY|WARN",
+      "county": "CLAY",
+      "precinct": "WARN",
+      "votes": [
+        [178,152,6,0],
+        [45,101,3,0]
+      ]
+    },
+    {
+      "key": "GRAHAM|EAST",
+      "county": "GRAHAM",
+      "precinct": "EAST",
+      "votes": [
+        [458,683,21,0],
+        [80,187,19,0]
+      ]
+    },
+    {
+      "key": "GRAHAM|STEC",
+      "county": "GRAHAM",
+      "precinct": "STEC",
+      "votes": [
+        [334,207,10,0],
+        [91,100,5,0]
+      ]
+    },
+    {
+      "key": "GRAHAM|TAPO",
+      "county": "GRAHAM",
+      "precinct": "TAPO",
+      "votes": [
+        [111,105,10,0],
+        [12,25,4,0]
+      ]
+    },
+    {
+      "key": "GRAHAM|WEST",
+      "county": "GRAHAM",
+      "precinct": "WEST",
+      "votes": [
+        [390,510,10,0],
+        [78,169,7,0]
+      ]
+    },
+    {
+      "key": "HAYWOOD|AC",
+      "county": "HAYWOOD",
+      "precinct": "AC",
+      "votes": [
+        [337,341,5,0],
+        [203,396,21,0]
+      ]
+    },
+    {
+      "key": "HAYWOOD|BC",
+      "county": "HAYWOOD",
+      "precinct": "BC",
+      "votes": [
+        [7,0,0,0],
+        [3,0,1,0]
+      ]
+    },
+    {
+      "key": "HAYWOOD|BE5-6",
+      "county": "HAYWOOD",
+      "precinct": "BE5-6",
+      "votes": [
+        [144,303,5,0],
+        [122,457,14,0]
+      ]
+    },
+    {
+      "key": "HAYWOOD|BE7",
+      "county": "HAYWOOD",
+      "precinct": "BE7",
+      "votes": [
+        [226,281,3,0],
+        [71,163,4,0]
+      ]
+    },
+    {
+      "key": "HAYWOOD|CE",
+      "county": "HAYWOOD",
+      "precinct": "CE",
+      "votes": [
+        [117,58,0,0],
+        [17,46,4,0]
+      ]
+    },
+    {
+      "key": "HAYWOOD|EF",
+      "county": "HAYWOOD",
+      "precinct": "EF",
+      "votes": [
+        [285,222,6,0],
+        [62,131,8,0]
+      ]
+    },
+    {
+      "key": "HAYWOOD|FC-2",
+      "county": "HAYWOOD",
+      "precinct": "FC-2",
+      "votes": [
+        [38,23,0,0],
+        [15,36,4,0]
+      ]
+    },
+    {
+      "key": "HAYWOOD|HA",
+      "county": "HAYWOOD",
+      "precinct": "HA",
+      "votes": [
+        [113,155,6,0],
+        [88,230,12,0]
+      ]
+    },
+    {
+      "key": "HAYWOOD|ID",
+      "county": "HAYWOOD",
+      "precinct": "ID",
+      "votes": [
+        [141,232,8,0],
+        [85,218,10,0]
+      ]
+    },
+    {
+      "key": "HAYWOOD|IH",
+      "county": "HAYWOOD",
+      "precinct": "IH",
+      "votes": [
+        [403,990,22,0],
+        [185,869,54,0]
+      ]
+    },
+    {
+      "key": "HAYWOOD|JC",
+      "county": "HAYWOOD",
+      "precinct": "JC",
+      "votes": [
+        [425,666,23,0],
+        [169,740,45,0]
+      ]
+    },
+    {
+      "key": "HAYWOOD|LJ",
+      "county": "HAYWOOD",
+      "precinct": "LJ",
+      "votes": [
+        [185,417,8,0],
+        [105,589,21,0]
+      ]
+    },
+    {
+      "key": "HAYWOOD|P",
+      "county": "HAYWOOD",
+      "precinct": "P",
+      "votes": [
+        [436,653,14,0],
+        [117,393,27,0]
+      ]
+    },
+    {
+      "key": "HAYWOOD|PC",
+      "county": "HAYWOOD",
+      "precinct": "PC",
+      "votes": [
+        [195,235,3,0],
+        [50,151,1,0]
+      ]
+    },
+    {
+      "key": "HAYWOOD|SA",
+      "county": "HAYWOOD",
+      "precinct": "SA",
+      "votes": [
+        [364,388,11,0],
+        [158,428,21,0]
+      ]
+    },
+    {
+      "key": "HAYWOOD|WC",
+      "county": "HAYWOOD",
+      "precinct": "WC",
+      "votes": [
+        [60,113,9,0],
+        [58,221,13,0]
+      ]
+    },
+    {
+      "key": "HAYWOOD|WE",
+      "county": "HAYWOOD",
+      "precinct": "WE",
+      "votes": [
+        [191,317,8,0],
+        [125,465,16,0]
+      ]
+    },
+    {
+      "key": "HAYWOOD|WO",
+      "county": "HAYWOOD",
+      "precinct": "WO",
+      "votes": [
+        [73,46,1,0],
+        [49,31,2,0]
+      ]
+    },
+    {
+      "key": "HAYWOOD|WS-1",
+      "county": "HAYWOOD",
+      "precinct": "WS-1",
+      "votes": [
+        [198,389,14,0],
+        [138,568,35,0]
+      ]
+    },
+    {
+      "key": "HAYWOOD|WS-2",
+      "county": "HAYWOOD",
+      "precinct": "WS-2",
+      "votes": [
+        [214,306,5,0],
+        [137,419,22,0]
+      ]
+    },
+    {
+      "key": "HAYWOOD|WW",
+      "county": "HAYWOOD",
+      "precinct": "WW",
+      "votes": [
+        [159,323,3,0],
+        [82,352,17,0]
+      ]
+    },
+    {
+      "key": "JACKSON|BCK",
+      "county": "JACKSON",
+      "precinct": "BCK",
+      "votes": [
+        [190,280,5,0],
+        [100,245,9,0]
+      ]
+    },
+    {
+      "key": "JACKSON|CAN",
+      "county": "JACKSON",
+      "precinct": "CAN",
+      "votes": [
+        [111,70,3,0],
+        [39,54,7,0]
+      ]
+    },
+    {
+      "key": "JACKSON|CAS",
+      "county": "JACKSON",
+      "precinct": "CAS",
+      "votes": [
+        [202,460,5,0],
+        [59,372,24,0]
+      ]
+    },
+    {
+      "key": "JACKSON|CFK",
+      "county": "JACKSON",
+      "precinct": "CFK",
+      "votes": [
+        [98,114,2,0],
+        [50,127,4,0]
+      ]
+    },
+    {
+      "key": "JACKSON|CUL",
+      "county": "JACKSON",
+      "precinct": "CUL",
+      "votes": [
+        [194,498,12,0],
+        [446,2003,31,0]
+      ]
+    },
+    {
+      "key": "JACKSON|GCK",
+      "county": "JACKSON",
+      "precinct": "GCK",
+      "votes": [
+        [161,151,3,0],
+        [84,262,9,0]
+      ]
+    },
+    {
+      "key": "JACKSON|GLV",
+      "county": "JACKSON",
+      "precinct": "GLV",
+      "votes": [
+        [267,425,3,0],
+        [77,298,17,0]
+      ]
+    },
+    {
+      "key": "JACKSON|QUA",
+      "county": "JACKSON",
+      "precinct": "QUA",
+      "votes": [
+        [309,466,12,0],
+        [298,673,16,0]
+      ]
+    },
+    {
+      "key": "JACKSON|RIV",
+      "county": "JACKSON",
+      "precinct": "RIV",
+      "votes": [
+        [111,138,4,0],
+        [37,167,6,0]
+      ]
+    },
+    {
+      "key": "JACKSON|SAV",
+      "county": "JACKSON",
+      "precinct": "SAV",
+      "votes": [
+        [218,180,4,0],
+        [86,173,9,0]
+      ]
+    },
+    {
+      "key": "JACKSON|SCC",
+      "county": "JACKSON",
+      "precinct": "SCC",
+      "votes": [
+        [257,317,8,0],
+        [106,348,9,0]
+      ]
+    },
+    {
+      "key": "JACKSON|SDC",
+      "county": "JACKSON",
+      "precinct": "SDC",
+      "votes": [
+        [428,969,25,0],
+        [300,1424,68,0]
+      ]
+    },
+    {
+      "key": "JACKSON|WEB",
+      "county": "JACKSON",
+      "precinct": "WEB",
+      "votes": [
+        [188,362,15,0],
+        [160,513,29,0]
+      ]
+    },
+    {
+      "key": "MACON|1",
+      "county": "MACON",
+      "precinct": "01",
+      "votes": [
+        [263,552,19,0],
+        [96,380,29,0]
+      ]
+    },
+    {
+      "key": "MACON|10",
+      "county": "MACON",
+      "precinct": "10",
+      "votes": [
+        [105,72,0,0],
+        [49,74,3,0]
+      ]
+    },
+    {
+      "key": "MACON|11",
+      "county": "MACON",
+      "precinct": "11",
+      "votes": [
+        [458,777,18,0],
+        [103,418,29,0]
+      ]
+    },
+    {
+      "key": "MACON|12",
+      "county": "MACON",
+      "precinct": "12",
+      "votes": [
+        [302,547,19,0],
+        [86,334,17,0]
+      ]
+    },
+    {
+      "key": "MACON|13",
+      "county": "MACON",
+      "precinct": "13",
+      "votes": [
+        [223,45,10,0],
+        [63,30,1,0]
+      ]
+    },
+    {
+      "key": "MACON|14",
+      "county": "MACON",
+      "precinct": "14",
+      "votes": [
+        [183,180,9,0],
+        [37,86,2,0]
+      ]
+    },
+    {
+      "key": "MACON|15",
+      "county": "MACON",
+      "precinct": "15",
+      "votes": [
+        [465,473,6,0],
+        [103,282,17,0]
+      ]
+    },
+    {
+      "key": "MACON|2",
+      "county": "MACON",
+      "precinct": "02",
+      "votes": [
+        [141,252,8,0],
+        [54,180,5,0]
+      ]
+    },
+    {
+      "key": "MACON|3",
+      "county": "MACON",
+      "precinct": "03",
+      "votes": [
+        [245,694,25,0],
+        [81,395,34,0]
+      ]
+    },
+    {
+      "key": "MACON|4",
+      "county": "MACON",
+      "precinct": "04",
+      "votes": [
+        [276,323,10,0],
+        [70,239,10,0]
+      ]
+    },
+    {
+      "key": "MACON|5",
+      "county": "MACON",
+      "precinct": "05",
+      "votes": [
+        [312,757,14,0],
+        [84,399,23,0]
+      ]
+    },
+    {
+      "key": "MACON|6",
+      "county": "MACON",
+      "precinct": "06",
+      "votes": [
+        [343,611,11,0],
+        [107,288,21,0]
+      ]
+    },
+    {
+      "key": "MACON|7",
+      "county": "MACON",
+      "precinct": "07",
+      "votes": [
+        [388,499,13,0],
+        [88,274,24,0]
+      ]
+    },
+    {
+      "key": "MACON|8",
+      "county": "MACON",
+      "precinct": "08",
+      "votes": [
+        [104,104,5,0],
+        [28,59,5,0]
+      ]
+    },
+    {
+      "key": "MACON|9",
+      "county": "MACON",
+      "precinct": "09",
+      "votes": [
+        [222,653,15,0],
+        [108,574,29,0]
+      ]
+    },
+    {
+      "key": "SWAIN|ALARKA",
+      "county": "SWAIN",
+      "precinct": "ALARKA",
+      "votes": [
+        [167,126,3,0],
+        [63,106,6,0]
+      ]
+    },
+    {
+      "key": "SWAIN|ALMOND",
+      "county": "SWAIN",
+      "precinct": "ALMOND",
+      "votes": [
+        [236,253,4,0],
+        [78,244,7,0]
+      ]
+    },
+    {
+      "key": "SWAIN|BC1",
+      "county": "SWAIN",
+      "precinct": "BC1",
+      "votes": [
+        [264,480,4,0],
+        [77,341,14,0]
+      ]
+    },
+    {
+      "key": "SWAIN|BC2",
+      "county": "SWAIN",
+      "precinct": "BC2",
+      "votes": [
+        [316,414,3,0],
+        [110,365,12,0]
+      ]
+    },
+    {
+      "key": "SWAIN|WHCH",
+      "county": "SWAIN",
+      "precinct": "WHCH",
+      "votes": [
+        [235,280,8,0],
+        [297,509,18,0]
+      ]
+    },
+    {
+      "key": "TRANSYLVANIA|B1",
+      "county": "TRANSYLVANIA",
+      "precinct": "B1",
+      "votes": [
+        [109,253,7,0],
+        [108,685,22,0]
+      ]
+    },
+    {
+      "key": "TRANSYLVANIA|B2",
+      "county": "TRANSYLVANIA",
+      "precinct": "B2",
+      "votes": [
+        [106,185,7,0],
+        [129,517,13,0]
+      ]
+    },
+    {
+      "key": "TRANSYLVANIA|B3",
+      "county": "TRANSYLVANIA",
+      "precinct": "B3",
+      "votes": [
+        [131,321,6,0],
+        [135,694,40,0]
+      ]
+    },
+    {
+      "key": "TRANSYLVANIA|B4",
+      "county": "TRANSYLVANIA",
+      "precinct": "B4",
+      "votes": [
+        [99,192,9,0],
+        [98,589,39,0]
+      ]
+    },
+    {
+      "key": "TRANSYLVANIA|BD",
+      "county": "TRANSYLVANIA",
+      "precinct": "BD",
+      "votes": [
+        [327,523,5,0],
+        [144,520,26,0]
+      ]
+    },
+    {
+      "key": "TRANSYLVANIA|CC.1",
+      "county": "TRANSYLVANIA",
+      "precinct": "CC.1",
+      "votes": [
+        [367,455,10,0],
+        [100,437,21,0]
+      ]
+    },
+    {
+      "key": "TRANSYLVANIA|CM",
+      "county": "TRANSYLVANIA",
+      "precinct": "CM",
+      "votes": [
+        [136,105,4,0],
+        [76,258,17,0]
+      ]
+    },
+    {
+      "key": "TRANSYLVANIA|DR",
+      "county": "TRANSYLVANIA",
+      "precinct": "DR",
+      "votes": [
+        [235,498,21,0],
+        [121,860,60,0]
+      ]
+    },
+    {
+      "key": "TRANSYLVANIA|EF",
+      "county": "TRANSYLVANIA",
+      "precinct": "EF",
+      "votes": [
+        [129,217,6,0],
+        [64,302,7,0]
+      ]
+    },
+    {
+      "key": "TRANSYLVANIA|LR",
+      "county": "TRANSYLVANIA",
+      "precinct": "LR",
+      "votes": [
+        [315,298,4,0],
+        [101,315,15,0]
+      ]
+    },
+    {
+      "key": "TRANSYLVANIA|PF",
+      "county": "TRANSYLVANIA",
+      "precinct": "PF",
+      "votes": [
+        [134,189,9,0],
+        [78,267,14,0]
+      ]
+    },
+    {
+      "key": "TRANSYLVANIA|RE.1",
+      "county": "TRANSYLVANIA",
+      "precinct": "RE.1",
+      "votes": [
+        [488,287,6,0],
+        [121,229,7,0]
+      ]
+    },
+    {
+      "key": "TRANSYLVANIA|TC1",
+      "county": "TRANSYLVANIA",
+      "precinct": "TC1",
+      "votes": [
+        [238,114,2,0],
+        [27,64,9,0]
+      ]
+    },
+    {
+      "key": "TRANSYLVANIA|TC7",
+      "county": "TRANSYLVANIA",
+      "precinct": "TC7",
+      "votes": [
+        [379,291,8,0],
+        [98,260,11,0]
+      ]
+    },
+    {
+      "key": "TRANSYLVANIA|WC",
+      "county": "TRANSYLVANIA",
+      "precinct": "WC",
+      "votes": [
+        [185,329,14,0],
+        [112,508,28,0]
+      ]
+    }
+  ],
+  "other": []
+}

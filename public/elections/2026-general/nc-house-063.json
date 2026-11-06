@@ -1,0 +1,190 @@
+{
+  "raceId": "nc-house-063",
+  "candidates": [
+    {"name":"Ian Baltutis","party":"D"},
+    {"name":"Ryan Moffitt","party":"R"}
+  ],
+  "precincts": [
+    {
+      "key": "ALAMANCE|11",
+      "county": "ALAMANCE",
+      "precinct": "11",
+      "votes": [
+        [287,808,22,0],
+        [372,617,12,0]
+      ]
+    },
+    {
+      "key": "ALAMANCE|1210",
+      "county": "ALAMANCE",
+      "precinct": "1210",
+      "votes": [
+        [168,371,6,0],
+        [160,207,6,0]
+      ]
+    },
+    {
+      "key": "ALAMANCE|124",
+      "county": "ALAMANCE",
+      "precinct": "124",
+      "votes": [
+        [158,391,10,0],
+        [190,258,2,0]
+      ]
+    },
+    {
+      "key": "ALAMANCE|125",
+      "county": "ALAMANCE",
+      "precinct": "125",
+      "votes": [
+        [153,387,17,0],
+        [226,367,11,0]
+      ]
+    },
+    {
+      "key": "ALAMANCE|126",
+      "county": "ALAMANCE",
+      "precinct": "126",
+      "votes": [
+        [144,387,25,0],
+        [277,426,13,0]
+      ]
+    },
+    {
+      "key": "ALAMANCE|127",
+      "county": "ALAMANCE",
+      "precinct": "127",
+      "votes": [
+        [447,1233,13,0],
+        [141,334,10,0]
+      ]
+    },
+    {
+      "key": "ALAMANCE|128",
+      "county": "ALAMANCE",
+      "precinct": "128",
+      "votes": [
+        [159,458,17,0],
+        [55,150,4,0]
+      ]
+    },
+    {
+      "key": "ALAMANCE|129",
+      "county": "ALAMANCE",
+      "precinct": "129",
+      "votes": [
+        [116,339,23,0],
+        [257,398,7,0]
+      ]
+    },
+    {
+      "key": "ALAMANCE|12N",
+      "county": "ALAMANCE",
+      "precinct": "12N",
+      "votes": [
+        [450,952,25,0],
+        [83,140,17,0]
+      ]
+    },
+    {
+      "key": "ALAMANCE|12W",
+      "county": "ALAMANCE",
+      "precinct": "12W",
+      "votes": [
+        [199,463,27,0],
+        [193,273,7,0]
+      ]
+    },
+    {
+      "key": "ALAMANCE|2",
+      "county": "ALAMANCE",
+      "precinct": "02",
+      "votes": [
+        [141,365,19,0],
+        [829,928,23,0]
+      ]
+    },
+    {
+      "key": "ALAMANCE|35",
+      "county": "ALAMANCE",
+      "precinct": "035",
+      "votes": [
+        [309,841,44,0],
+        [385,759,22,0]
+      ]
+    },
+    {
+      "key": "ALAMANCE|3C",
+      "county": "ALAMANCE",
+      "precinct": "03C",
+      "votes": [
+        [151,518,44,0],
+        [373,568,32,0]
+      ]
+    },
+    {
+      "key": "ALAMANCE|3N",
+      "county": "ALAMANCE",
+      "precinct": "03N",
+      "votes": [
+        [166,604,48,0],
+        [265,580,16,0]
+      ]
+    },
+    {
+      "key": "ALAMANCE|3N2",
+      "county": "ALAMANCE",
+      "precinct": "03N2",
+      "votes": [
+        [193,211,18,0],
+        [142,87,5,0]
+      ]
+    },
+    {
+      "key": "ALAMANCE|3SE",
+      "county": "ALAMANCE",
+      "precinct": "03SE",
+      "votes": [
+        [282,919,46,0],
+        [278,610,15,0]
+      ]
+    },
+    {
+      "key": "ALAMANCE|3SM",
+      "county": "ALAMANCE",
+      "precinct": "03SM",
+      "votes": [
+        [351,996,50,0],
+        [369,618,13,0]
+      ]
+    },
+    {
+      "key": "ALAMANCE|3W",
+      "county": "ALAMANCE",
+      "precinct": "03W",
+      "votes": [
+        [214,677,39,0],
+        [367,613,21,0]
+      ]
+    },
+    {
+      "key": "ALAMANCE|4",
+      "county": "ALAMANCE",
+      "precinct": "04",
+      "votes": [
+        [139,429,29,0],
+        [698,1106,7,0]
+      ]
+    },
+    {
+      "key": "ALAMANCE|5",
+      "county": "ALAMANCE",
+      "precinct": "05",
+      "votes": [
+        [108,265,8,0],
+        [672,615,14,0]
+      ]
+    }
+  ],
+  "other": []
+}

@@ -1,0 +1,442 @@
+{
+  "raceId": "nc-senate-44",
+  "candidates": [
+    {"name":"Ted Alexander","party":"R"},
+    {"name":"Rod Powell","party":"D"}
+  ],
+  "precincts": [
+    {
+      "key": "CLEVELAND|BETHWR",
+      "county": "CLEVELAND",
+      "precinct": "BETHWR",
+      "votes": [
+        [381,325,2,0],
+        [86,187,2,0]
+      ]
+    },
+    {
+      "key": "CLEVELAND|BR",
+      "county": "CLEVELAND",
+      "precinct": "BR",
+      "votes": [
+        [610,1139,14,0],
+        [179,570,15,0]
+      ]
+    },
+    {
+      "key": "CLEVELAND|CASAR",
+      "county": "CLEVELAND",
+      "precinct": "CASAR",
+      "votes": [
+        [546,132,3,0],
+        [59,36,5,0]
+      ]
+    },
+    {
+      "key": "CLEVELAND|FALSTN",
+      "county": "CLEVELAND",
+      "precinct": "FALSTN",
+      "votes": [
+        [473,168,2,0],
+        [85,70,14,0]
+      ]
+    },
+    {
+      "key": "CLEVELAND|GROVER",
+      "county": "CLEVELAND",
+      "precinct": "GROVER",
+      "votes": [
+        [582,486,11,0],
+        [156,306,20,0]
+      ]
+    },
+    {
+      "key": "CLEVELAND|KINGST",
+      "county": "CLEVELAND",
+      "precinct": "KINGST",
+      "votes": [
+        [87,99,2,0],
+        [135,160,1,0]
+      ]
+    },
+    {
+      "key": "CLEVELAND|KM N",
+      "county": "CLEVELAND",
+      "precinct": "KM N",
+      "votes": [
+        [542,894,23,0],
+        [246,786,34,0]
+      ]
+    },
+    {
+      "key": "CLEVELAND|KM S",
+      "county": "CLEVELAND",
+      "precinct": "KM S",
+      "votes": [
+        [487,758,11,0],
+        [258,769,33,0]
+      ]
+    },
+    {
+      "key": "CLEVELAND|LATT",
+      "county": "CLEVELAND",
+      "precinct": "LATT",
+      "votes": [
+        [468,528,8,0],
+        [120,250,7,0]
+      ]
+    },
+    {
+      "key": "CLEVELAND|LAWNDL",
+      "county": "CLEVELAND",
+      "precinct": "LAWNDL",
+      "votes": [
+        [297,168,3,0],
+        [160,229,8,0]
+      ]
+    },
+    {
+      "key": "CLEVELAND|MRB-YO",
+      "county": "CLEVELAND",
+      "precinct": "MRB-YO",
+      "votes": [
+        [322,318,3,0],
+        [65,115,1,0]
+      ]
+    },
+    {
+      "key": "CLEVELAND|MULLS",
+      "county": "CLEVELAND",
+      "precinct": "MULLS",
+      "votes": [
+        [644,179,7,0],
+        [114,103,10,0]
+      ]
+    },
+    {
+      "key": "CLEVELAND|OAKGRV",
+      "county": "CLEVELAND",
+      "precinct": "OAKGRV",
+      "votes": [
+        [667,779,16,0],
+        [151,322,16,0]
+      ]
+    },
+    {
+      "key": "CLEVELAND|POLKVL",
+      "county": "CLEVELAND",
+      "precinct": "POLKVL",
+      "votes": [
+        [645,331,3,0],
+        [131,144,2,0]
+      ]
+    },
+    {
+      "key": "CLEVELAND|RIPPY",
+      "county": "CLEVELAND",
+      "precinct": "RIPPY",
+      "votes": [
+        [600,490,8,0],
+        [224,423,15,0]
+      ]
+    },
+    {
+      "key": "CLEVELAND|S C",
+      "county": "CLEVELAND",
+      "precinct": "S C",
+      "votes": [
+        [490,979,45,0],
+        [459,1363,68,0]
+      ]
+    },
+    {
+      "key": "CLEVELAND|S E",
+      "county": "CLEVELAND",
+      "precinct": "S E",
+      "votes": [
+        [257,435,15,0],
+        [186,533,9,0]
+      ]
+    },
+    {
+      "key": "CLEVELAND|S N",
+      "county": "CLEVELAND",
+      "precinct": "S N",
+      "votes": [
+        [460,689,14,0],
+        [301,905,22,0]
+      ]
+    },
+    {
+      "key": "CLEVELAND|S S",
+      "county": "CLEVELAND",
+      "precinct": "S S",
+      "votes": [
+        [423,876,22,0],
+        [441,1245,37,0]
+      ]
+    },
+    {
+      "key": "CLEVELAND|SHANGI",
+      "county": "CLEVELAND",
+      "precinct": "SHANGI",
+      "votes": [
+        [359,588,7,0],
+        [98,350,5,0]
+      ]
+    },
+    {
+      "key": "CLEVELAND|WACO",
+      "county": "CLEVELAND",
+      "precinct": "WACO",
+      "votes": [
+        [445,618,14,0],
+        [175,421,21,0]
+      ]
+    },
+    {
+      "key": "GASTON|10A",
+      "county": "GASTON",
+      "precinct": "10A",
+      "votes": [
+        [544,645,11,0],
+        [164,324,18,0]
+      ]
+    },
+    {
+      "key": "GASTON|11A",
+      "county": "GASTON",
+      "precinct": "11A",
+      "votes": [
+        [500,631,20,0],
+        [140,272,20,0]
+      ]
+    },
+    {
+      "key": "GASTON|12A",
+      "county": "GASTON",
+      "precinct": "12A",
+      "votes": [
+        [371,497,2,0],
+        [71,181,7,0]
+      ]
+    },
+    {
+      "key": "GASTON|9A",
+      "county": "GASTON",
+      "precinct": "9A",
+      "votes": [
+        [312,468,8,0],
+        [84,186,3,0]
+      ]
+    },
+    {
+      "key": "LINCOLN|AS25",
+      "county": "LINCOLN",
+      "precinct": "AS25",
+      "votes": [
+        [385,603,7,0],
+        [132,265,11,0]
+      ]
+    },
+    {
+      "key": "LINCOLN|BC13",
+      "county": "LINCOLN",
+      "precinct": "BC13",
+      "votes": [
+        [141,225,5,0],
+        [142,245,9,0]
+      ]
+    },
+    {
+      "key": "LINCOLN|BS26",
+      "county": "LINCOLN",
+      "precinct": "BS26",
+      "votes": [
+        [311,488,6,0],
+        [87,336,13,0]
+      ]
+    },
+    {
+      "key": "LINCOLN|CF19",
+      "county": "LINCOLN",
+      "precinct": "CF19",
+      "votes": [
+        [162,608,15,0],
+        [60,295,22,0]
+      ]
+    },
+    {
+      "key": "LINCOLN|DN29",
+      "county": "LINCOLN",
+      "precinct": "DN29",
+      "votes": [
+        [501,814,12,0],
+        [135,468,22,0]
+      ]
+    },
+    {
+      "key": "LINCOLN|DV08",
+      "county": "LINCOLN",
+      "precinct": "DV08",
+      "votes": [
+        [594,663,2,0],
+        [100,277,11,0]
+      ]
+    },
+    {
+      "key": "LINCOLN|DW28",
+      "county": "LINCOLN",
+      "precinct": "DW28",
+      "votes": [
+        [460,834,17,0],
+        [121,482,22,0]
+      ]
+    },
+    {
+      "key": "LINCOLN|HC33",
+      "county": "LINCOLN",
+      "precinct": "HC33",
+      "votes": [
+        [586,827,11,0],
+        [136,389,11,0]
+      ]
+    },
+    {
+      "key": "LINCOLN|IS20",
+      "county": "LINCOLN",
+      "precinct": "IS20",
+      "votes": [
+        [306,398,4,0],
+        [53,162,6,0]
+      ]
+    },
+    {
+      "key": "LINCOLN|IS23",
+      "county": "LINCOLN",
+      "precinct": "IS23",
+      "votes": [
+        [413,607,9,0],
+        [116,335,10,0]
+      ]
+    },
+    {
+      "key": "LINCOLN|LB34",
+      "county": "LINCOLN",
+      "precinct": "LB34",
+      "votes": [
+        [449,503,12,0],
+        [137,192,14,0]
+      ]
+    },
+    {
+      "key": "LINCOLN|LI14",
+      "county": "LINCOLN",
+      "precinct": "LI14",
+      "votes": [
+        [193,373,9,0],
+        [75,188,4,0]
+      ]
+    },
+    {
+      "key": "LINCOLN|LN11",
+      "county": "LINCOLN",
+      "precinct": "LN11",
+      "votes": [
+        [212,228,4,0],
+        [146,314,7,0]
+      ]
+    },
+    {
+      "key": "LINCOLN|LS12",
+      "county": "LINCOLN",
+      "precinct": "LS12",
+      "votes": [
+        [210,227,6,0],
+        [155,257,10,0]
+      ]
+    },
+    {
+      "key": "LINCOLN|LW18",
+      "county": "LINCOLN",
+      "precinct": "LW18",
+      "votes": [
+        [202,427,6,0],
+        [92,317,15,0]
+      ]
+    },
+    {
+      "key": "LINCOLN|LW31",
+      "county": "LINCOLN",
+      "precinct": "LW31",
+      "votes": [
+        [561,1458,25,0],
+        [185,1213,73,0]
+      ]
+    },
+    {
+      "key": "LINCOLN|NB35",
+      "county": "LINCOLN",
+      "precinct": "NB35",
+      "votes": [
+        [726,917,8,0],
+        [121,292,16,0]
+      ]
+    },
+    {
+      "key": "LINCOLN|OB21",
+      "county": "LINCOLN",
+      "precinct": "OB21",
+      "votes": [
+        [452,559,4,0],
+        [89,210,7,0]
+      ]
+    },
+    {
+      "key": "LINCOLN|PC22",
+      "county": "LINCOLN",
+      "precinct": "PC22",
+      "votes": [
+        [482,580,10,0],
+        [120,268,28,0]
+      ]
+    },
+    {
+      "key": "LINCOLN|SL24",
+      "county": "LINCOLN",
+      "precinct": "SL24",
+      "votes": [
+        [219,501,3,0],
+        [65,234,5,0]
+      ]
+    },
+    {
+      "key": "LINCOLN|ST36",
+      "county": "LINCOLN",
+      "precinct": "ST36",
+      "votes": [
+        [545,662,11,0],
+        [182,487,14,0]
+      ]
+    },
+    {
+      "key": "LINCOLN|TA37",
+      "county": "LINCOLN",
+      "precinct": "TA37",
+      "votes": [
+        [552,1397,16,0],
+        [204,962,36,0]
+      ]
+    },
+    {
+      "key": "LINCOLN|WP32",
+      "county": "LINCOLN",
+      "precinct": "WP32",
+      "votes": [
+        [770,1698,35,0],
+        [314,1239,61,0]
+      ]
+    }
+  ],
+  "other": []
+}

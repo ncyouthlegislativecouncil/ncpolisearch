@@ -1,0 +1,185 @@
+{
+  "raceId": "nc-house-051",
+  "candidates": [
+    {"name":"April Montgomery","party":"U"},
+    {"name":"Charles M. Taylor","party":"R"}
+  ],
+  "precincts": [
+    {
+      "key": "LEE|A1",
+      "county": "LEE",
+      "precinct": "A1",
+      "votes": [
+        [403,1111,57,0],
+        [257,515,7,0]
+      ]
+    },
+    {
+      "key": "LEE|A2",
+      "county": "LEE",
+      "precinct": "A2",
+      "votes": [
+        [490,1210,28,0],
+        [170,445,14,0]
+      ]
+    },
+    {
+      "key": "LEE|B1",
+      "county": "LEE",
+      "precinct": "B1",
+      "votes": [
+        [263,375,12,0],
+        [347,329,14,0]
+      ]
+    },
+    {
+      "key": "LEE|B2",
+      "county": "LEE",
+      "precinct": "B2",
+      "votes": [
+        [244,558,14,0],
+        [154,245,7,0]
+      ]
+    },
+    {
+      "key": "LEE|C1",
+      "county": "LEE",
+      "precinct": "C1",
+      "votes": [
+        [351,658,14,0],
+        [403,672,15,0]
+      ]
+    },
+    {
+      "key": "LEE|C2",
+      "county": "LEE",
+      "precinct": "C2",
+      "votes": [
+        [264,656,27,0],
+        [360,890,16,0]
+      ]
+    },
+    {
+      "key": "LEE|D1",
+      "county": "LEE",
+      "precinct": "D1",
+      "votes": [
+        [324,912,37,0],
+        [385,776,12,0]
+      ]
+    },
+    {
+      "key": "LEE|D2",
+      "county": "LEE",
+      "precinct": "D2",
+      "votes": [
+        [358,983,37,0],
+        [350,737,9,0]
+      ]
+    },
+    {
+      "key": "LEE|E1",
+      "county": "LEE",
+      "precinct": "E1",
+      "votes": [
+        [255,323,10,0],
+        [418,433,7,0]
+      ]
+    },
+    {
+      "key": "LEE|E2",
+      "county": "LEE",
+      "precinct": "E2",
+      "votes": [
+        [348,950,48,0],
+        [264,605,25,0]
+      ]
+    },
+    {
+      "key": "MOORE|CAM",
+      "county": "MOORE",
+      "precinct": "CAM",
+      "votes": [
+        [119,0,0,0],
+        [376,0,0,0]
+      ]
+    },
+    {
+      "key": "MOORE|CAR",
+      "county": "MOORE",
+      "precinct": "CAR",
+      "votes": [
+        [259,0,0,0],
+        [633,0,0,0]
+      ]
+    },
+    {
+      "key": "MOORE|LTR",
+      "county": "MOORE",
+      "precinct": "LTR",
+      "votes": [
+        [158,0,0,0],
+        [410,0,0,0]
+      ]
+    },
+    {
+      "key": "MOORE|VSS",
+      "county": "MOORE",
+      "precinct": "VSS",
+      "votes": [
+        [125,0,0,0],
+        [329,0,0,0]
+      ]
+    }
+  ],
+  "other": [
+    {
+      "county": "MOORE",
+      "label": "ABSENTEE MAIL",
+      "votes": [
+        [0,0,92,0],
+        [0,0,81,0]
+      ]
+    },
+    {
+      "county": "MOORE",
+      "label": "BOE TRANSFER",
+      "votes": [
+        [0,0,0,0],
+        [0,0,0,0]
+      ]
+    },
+    {
+      "county": "MOORE",
+      "label": "EV AG",
+      "votes": [
+        [0,1001,0,0],
+        [0,1685,0,0]
+      ]
+    },
+    {
+      "county": "MOORE",
+      "label": "EV RS",
+      "votes": [
+        [0,103,0,0],
+        [0,85,0,0]
+      ]
+    },
+    {
+      "county": "MOORE",
+      "label": "EV VTH",
+      "votes": [
+        [0,742,0,0],
+        [0,1057,0,0]
+      ]
+    },
+    {
+      "county": "MOORE",
+      "label": "PROVISIONAL",
+      "votes": [
+        [0,0,0,0],
+        [0,0,0,0]
+      ]
+    }
+  ]
+}

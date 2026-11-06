@@ -1,0 +1,574 @@
+{
+  "raceId": "nc-senate-08",
+  "candidates": [
+    {"name":"Bill Rabon","party":"R"},
+    {"name":"Richard (Rick) Combes","party":"D"},
+    {"name":"Tim White","party":"L"}
+  ],
+  "precincts": [
+    {
+      "key": "BRUNSWICK|CB01",
+      "county": "BRUNSWICK",
+      "precinct": "CB01",
+      "votes": [
+        [280,369,6,0],
+        [124,369,10,0],
+        [26,29,0,0]
+      ]
+    },
+    {
+      "key": "BRUNSWICK|CB02",
+      "county": "BRUNSWICK",
+      "precinct": "CB02",
+      "votes": [
+        [818,1323,36,0],
+        [368,918,57,0],
+        [37,65,4,0]
+      ]
+    },
+    {
+      "key": "BRUNSWICK|CB03",
+      "county": "BRUNSWICK",
+      "precinct": "CB03",
+      "votes": [
+        [477,556,27,0],
+        [172,385,27,0],
+        [39,17,1,0]
+      ]
+    },
+    {
+      "key": "BRUNSWICK|CB04",
+      "county": "BRUNSWICK",
+      "precinct": "CB04",
+      "votes": [
+        [580,1036,30,0],
+        [187,521,36,0],
+        [46,37,1,0]
+      ]
+    },
+    {
+      "key": "BRUNSWICK|CB05",
+      "county": "BRUNSWICK",
+      "precinct": "CB05",
+      "votes": [
+        [426,953,15,0],
+        [149,531,32,0],
+        [44,46,1,0]
+      ]
+    },
+    {
+      "key": "BRUNSWICK|CB06",
+      "county": "BRUNSWICK",
+      "precinct": "CB06",
+      "votes": [
+        [870,1931,34,0],
+        [317,1507,61,0],
+        [47,69,2,0]
+      ]
+    },
+    {
+      "key": "BRUNSWICK|NB01",
+      "county": "BRUNSWICK",
+      "precinct": "NB01",
+      "votes": [
+        [229,261,4,0],
+        [295,355,16,0],
+        [9,8,2,0]
+      ]
+    },
+    {
+      "key": "BRUNSWICK|NB02",
+      "county": "BRUNSWICK",
+      "precinct": "NB02",
+      "votes": [
+        [705,1997,65,0],
+        [555,2212,135,0],
+        [41,63,3,0]
+      ]
+    },
+    {
+      "key": "BRUNSWICK|NB03",
+      "county": "BRUNSWICK",
+      "precinct": "NB03",
+      "votes": [
+        [674,915,12,0],
+        [369,929,37,0],
+        [40,48,2,0]
+      ]
+    },
+    {
+      "key": "BRUNSWICK|NB04",
+      "county": "BRUNSWICK",
+      "precinct": "NB04",
+      "votes": [
+        [452,1592,46,0],
+        [331,1866,64,0],
+        [27,74,1,0]
+      ]
+    },
+    {
+      "key": "BRUNSWICK|NB05",
+      "county": "BRUNSWICK",
+      "precinct": "NB05",
+      "votes": [
+        [249,375,5,0],
+        [361,657,27,0],
+        [22,26,1,0]
+      ]
+    },
+    {
+      "key": "BRUNSWICK|NB06",
+      "county": "BRUNSWICK",
+      "precinct": "NB06",
+      "votes": [
+        [634,1773,69,0],
+        [365,2404,148,0],
+        [29,61,2,0]
+      ]
+    },
+    {
+      "key": "BRUNSWICK|NB07",
+      "county": "BRUNSWICK",
+      "precinct": "NB07",
+      "votes": [
+        [894,1415,46,0],
+        [637,1970,94,0],
+        [60,82,5,0]
+      ]
+    },
+    {
+      "key": "BRUNSWICK|SB01",
+      "county": "BRUNSWICK",
+      "precinct": "SB01",
+      "votes": [
+        [305,588,8,0],
+        [186,533,23,0],
+        [27,41,0,0]
+      ]
+    },
+    {
+      "key": "BRUNSWICK|SB02",
+      "county": "BRUNSWICK",
+      "precinct": "SB02",
+      "votes": [
+        [834,914,19,0],
+        [300,679,47,0],
+        [63,57,2,0]
+      ]
+    },
+    {
+      "key": "BRUNSWICK|SB03",
+      "county": "BRUNSWICK",
+      "precinct": "SB03",
+      "votes": [
+        [606,3378,95,0],
+        [247,2668,174,0],
+        [20,74,3,0]
+      ]
+    },
+    {
+      "key": "BRUNSWICK|SB04",
+      "county": "BRUNSWICK",
+      "precinct": "SB04",
+      "votes": [
+        [497,692,66,0],
+        [258,769,83,0],
+        [40,40,8,0]
+      ]
+    },
+    {
+      "key": "BRUNSWICK|SB05",
+      "county": "BRUNSWICK",
+      "precinct": "SB05",
+      "votes": [
+        [493,667,21,0],
+        [240,715,50,0],
+        [20,23,1,0]
+      ]
+    },
+    {
+      "key": "BRUNSWICK|SB06",
+      "county": "BRUNSWICK",
+      "precinct": "SB06",
+      "votes": [
+        [703,724,28,0],
+        [249,580,41,0],
+        [30,20,0,0]
+      ]
+    },
+    {
+      "key": "BRUNSWICK|SB07",
+      "county": "BRUNSWICK",
+      "precinct": "SB07",
+      "votes": [
+        [652,614,18,0],
+        [281,537,31,0],
+        [27,19,1,0]
+      ]
+    },
+    {
+      "key": "BRUNSWICK|SB08",
+      "county": "BRUNSWICK",
+      "precinct": "SB08",
+      "votes": [
+        [418,446,22,0],
+        [143,408,26,0],
+        [13,15,0,0]
+      ]
+    },
+    {
+      "key": "BRUNSWICK|WB01",
+      "county": "BRUNSWICK",
+      "precinct": "WB01",
+      "votes": [
+        [442,172,9,0],
+        [122,130,7,0],
+        [19,6,0,0]
+      ]
+    },
+    {
+      "key": "BRUNSWICK|WB02",
+      "county": "BRUNSWICK",
+      "precinct": "WB02",
+      "votes": [
+        [951,2382,77,0],
+        [333,1468,145,0],
+        [17,38,2,0]
+      ]
+    },
+    {
+      "key": "BRUNSWICK|WB03",
+      "county": "BRUNSWICK",
+      "precinct": "WB03",
+      "votes": [
+        [210,176,16,0],
+        [137,216,13,0],
+        [20,12,3,0]
+      ]
+    },
+    {
+      "key": "BRUNSWICK|WB04",
+      "county": "BRUNSWICK",
+      "precinct": "WB04",
+      "votes": [
+        [1082,1855,68,0],
+        [333,1351,108,0],
+        [26,34,1,0]
+      ]
+    },
+    {
+      "key": "BRUNSWICK|WB05",
+      "county": "BRUNSWICK",
+      "precinct": "WB05",
+      "votes": [
+        [474,1523,49,0],
+        [157,1239,91,0],
+        [13,57,3,0]
+      ]
+    },
+    {
+      "key": "BRUNSWICK|WB06",
+      "county": "BRUNSWICK",
+      "precinct": "WB06",
+      "votes": [
+        [806,2470,86,0],
+        [265,1498,102,0],
+        [27,53,2,0]
+      ]
+    },
+    {
+      "key": "COLUMBUS|P02B",
+      "county": "COLUMBUS",
+      "precinct": "P02B",
+      "votes": [
+        [130,64,1,0],
+        [128,165,11,0],
+        [3,4,0,0]
+      ]
+    },
+    {
+      "key": "COLUMBUS|P06",
+      "county": "COLUMBUS",
+      "precinct": "P06",
+      "votes": [
+        [174,135,1,0],
+        [60,50,1,0],
+        [4,4,0,0]
+      ]
+    },
+    {
+      "key": "COLUMBUS|P07",
+      "county": "COLUMBUS",
+      "precinct": "P07",
+      "votes": [
+        [264,365,2,0],
+        [234,469,6,0],
+        [5,6,0,0]
+      ]
+    },
+    {
+      "key": "COLUMBUS|P117",
+      "county": "COLUMBUS",
+      "precinct": "P117",
+      "votes": [
+        [312,268,5,0],
+        [207,462,16,0],
+        [14,8,0,0]
+      ]
+    },
+    {
+      "key": "COLUMBUS|P121",
+      "county": "COLUMBUS",
+      "precinct": "P121",
+      "votes": [
+        [454,277,2,0],
+        [70,82,3,0],
+        [3,4,0,0]
+      ]
+    },
+    {
+      "key": "COLUMBUS|P14",
+      "county": "COLUMBUS",
+      "precinct": "P14",
+      "votes": [
+        [311,511,3,0],
+        [172,680,10,0],
+        [7,16,1,0]
+      ]
+    },
+    {
+      "key": "COLUMBUS|P15",
+      "county": "COLUMBUS",
+      "precinct": "P15",
+      "votes": [
+        [285,283,6,0],
+        [118,320,5,0],
+        [9,8,0,0]
+      ]
+    },
+    {
+      "key": "COLUMBUS|P16B",
+      "county": "COLUMBUS",
+      "precinct": "P16B",
+      "votes": [
+        [382,266,10,0],
+        [116,144,12,0],
+        [8,7,0,0]
+      ]
+    },
+    {
+      "key": "COLUMBUS|P19",
+      "county": "COLUMBUS",
+      "precinct": "P19",
+      "votes": [
+        [230,313,16,0],
+        [156,418,26,0],
+        [12,11,5,0]
+      ]
+    },
+    {
+      "key": "COLUMBUS|P223",
+      "county": "COLUMBUS",
+      "precinct": "P223",
+      "votes": [
+        [218,389,5,0],
+        [181,477,13,0],
+        [8,9,0,0]
+      ]
+    },
+    {
+      "key": "COLUMBUS|P22A",
+      "county": "COLUMBUS",
+      "precinct": "P22A",
+      "votes": [
+        [273,296,5,0],
+        [103,202,3,0],
+        [7,6,1,0]
+      ]
+    },
+    {
+      "key": "COLUMBUS|P245",
+      "county": "COLUMBUS",
+      "precinct": "P245",
+      "votes": [
+        [660,641,6,0],
+        [76,106,2,0],
+        [6,4,0,0]
+      ]
+    },
+    {
+      "key": "COLUMBUS|P26B",
+      "county": "COLUMBUS",
+      "precinct": "P26B",
+      "votes": [
+        [320,450,5,0],
+        [169,317,14,0],
+        [11,8,1,0]
+      ]
+    },
+    {
+      "key": "COLUMBUS|P534",
+      "county": "COLUMBUS",
+      "precinct": "P534",
+      "votes": [
+        [445,260,4,0],
+        [133,146,6,0],
+        [13,3,0,0]
+      ]
+    },
+    {
+      "key": "COLUMBUS|P82",
+      "county": "COLUMBUS",
+      "precinct": "P82",
+      "votes": [
+        [267,280,4,0],
+        [84,195,7,0],
+        [8,6,0,0]
+      ]
+    },
+    {
+      "key": "COLUMBUS|P89",
+      "county": "COLUMBUS",
+      "precinct": "P89",
+      "votes": [
+        [190,235,2,0],
+        [67,147,4,0],
+        [4,2,0,0]
+      ]
+    },
+    {
+      "key": "NEW HANOVER|W03",
+      "county": "NEW HANOVER",
+      "precinct": "W03",
+      "votes": [
+        [49,0,0,0],
+        [281,0,0,0],
+        [12,0,0,0]
+      ]
+    },
+    {
+      "key": "NEW HANOVER|W12",
+      "county": "NEW HANOVER",
+      "precinct": "W12",
+      "votes": [
+        [220,0,0,0],
+        [283,0,0,0],
+        [15,0,0,0]
+      ]
+    },
+    {
+      "key": "NEW HANOVER|W15",
+      "county": "NEW HANOVER",
+      "precinct": "W15",
+      "votes": [
+        [113,0,0,0],
+        [644,0,0,0],
+        [36,0,0,0]
+      ]
+    },
+    {
+      "key": "NEW HANOVER|W25",
+      "county": "NEW HANOVER",
+      "precinct": "W25",
+      "votes": [
+        [144,0,0,0],
+        [512,0,0,0],
+        [42,0,0,0]
+      ]
+    },
+    {
+      "key": "NEW HANOVER|W27",
+      "county": "NEW HANOVER",
+      "precinct": "W27",
+      "votes": [
+        [147,0,0,0],
+        [512,0,0,0],
+        [31,0,0,0]
+      ]
+    },
+    {
+      "key": "NEW HANOVER|W29",
+      "county": "NEW HANOVER",
+      "precinct": "W29",
+      "votes": [
+        [46,0,0,0],
+        [418,0,0,0],
+        [15,0,0,0]
+      ]
+    }
+  ],
+  "other": [
+    {
+      "county": "NEW HANOVER",
+      "label": "ABSENTEE MAIL",
+      "votes": [
+        [0,0,22,0],
+        [0,0,193,0],
+        [0,0,5,0]
+      ]
+    },
+    {
+      "county": "NEW HANOVER",
+      "label": "EV BOE",
+      "votes": [
+        [0,232,0,0],
+        [0,1091,0,0],
+        [0,31,0,0]
+      ]
+    },
+    {
+      "county": "NEW HANOVER",
+      "label": "EV CAB",
+      "votes": [
+        [0,9,0,0],
+        [0,21,0,0],
+        [0,2,0,0]
+      ]
+    },
+    {
+      "county": "NEW HANOVER",
+      "label": "EV MLK",
+      "votes": [
+        [0,338,0,0],
+        [0,4133,0,0],
+        [0,71,0,0]
+      ]
+    },
+    {
+      "county": "NEW HANOVER",
+      "label": "EV NLB",
+      "votes": [
+        [0,106,0,0],
+        [0,410,0,0],
+        [0,7,0,0]
+      ]
+    },
+    {
+      "county": "NEW HANOVER",
+      "label": "EV PVL",
+      "votes": [
+        [0,83,0,0],
+        [0,282,0,0],
+        [0,5,0,0]
+      ]
+    },
+    {
+      "county": "NEW HANOVER",
+      "label": "PROVISIONAL",
+      "votes": [
+        [0,0,0,0],
+        [0,0,0,0],
+        [0,0,0,0]
+      ]
+    },
+    {
+      "county": "NEW HANOVER",
+      "label": "TRANSFER",
+      "votes": [
+        [0,0,0,0],
+        [0,0,0,0],
+        [0,0,0,0]
+      ]
+    }
+  ]
+}

@@ -1,0 +1,292 @@
+{
+  "raceId": "nc-house-024",
+  "candidates": [
+    {"name":"Dante Pittman","party":"D"},
+    {"name":"Blake Boykin","party":"R"}
+  ],
+  "precincts": [
+    {
+      "key": "NASH|P24A",
+      "county": "NASH",
+      "precinct": "P24A",
+      "votes": [
+        [201,0,0,0],
+        [367,0,0,0]
+      ]
+    },
+    {
+      "key": "WILSON|PRBL",
+      "county": "WILSON",
+      "precinct": "PRBL",
+      "votes": [
+        [230,301,2,0],
+        [479,359,6,0]
+      ]
+    },
+    {
+      "key": "WILSON|PRCR",
+      "county": "WILSON",
+      "precinct": "PRCR",
+      "votes": [
+        [156,274,7,0],
+        [394,319,7,0]
+      ]
+    },
+    {
+      "key": "WILSON|PRGA",
+      "county": "WILSON",
+      "precinct": "PRGA",
+      "votes": [
+        [203,446,9,0],
+        [342,247,1,0]
+      ]
+    },
+    {
+      "key": "WILSON|PROL",
+      "county": "WILSON",
+      "precinct": "PROL",
+      "votes": [
+        [286,711,18,0],
+        [671,849,9,0]
+      ]
+    },
+    {
+      "key": "WILSON|PRSA",
+      "county": "WILSON",
+      "precinct": "PRSA",
+      "votes": [
+        [144,167,5,0],
+        [157,60,2,0]
+      ]
+    },
+    {
+      "key": "WILSON|PRSP",
+      "county": "WILSON",
+      "precinct": "PRSP",
+      "votes": [
+        [155,286,7,0],
+        [412,273,6,0]
+      ]
+    },
+    {
+      "key": "WILSON|PRST",
+      "county": "WILSON",
+      "precinct": "PRST",
+      "votes": [
+        [176,258,10,0],
+        [166,123,7,0]
+      ]
+    },
+    {
+      "key": "WILSON|PRTA",
+      "county": "WILSON",
+      "precinct": "PRTA",
+      "votes": [
+        [561,1576,38,0],
+        [559,1078,20,0]
+      ]
+    },
+    {
+      "key": "WILSON|PRTO",
+      "county": "WILSON",
+      "precinct": "PRTO",
+      "votes": [
+        [333,694,14,0],
+        [424,472,9,0]
+      ]
+    },
+    {
+      "key": "WILSON|PRWA",
+      "county": "WILSON",
+      "precinct": "PRWA",
+      "votes": [
+        [108,233,5,0],
+        [34,22,2,0]
+      ]
+    },
+    {
+      "key": "WILSON|PRWB",
+      "county": "WILSON",
+      "precinct": "PRWB",
+      "votes": [
+        [105,259,6,0],
+        [10,12,0,0]
+      ]
+    },
+    {
+      "key": "WILSON|PRWC",
+      "county": "WILSON",
+      "precinct": "PRWC",
+      "votes": [
+        [206,473,9,0],
+        [29,40,0,0]
+      ]
+    },
+    {
+      "key": "WILSON|PRWD",
+      "county": "WILSON",
+      "precinct": "PRWD",
+      "votes": [
+        [177,386,20,0],
+        [210,298,7,0]
+      ]
+    },
+    {
+      "key": "WILSON|PRWE",
+      "county": "WILSON",
+      "precinct": "PRWE",
+      "votes": [
+        [148,313,9,0],
+        [54,83,1,0]
+      ]
+    },
+    {
+      "key": "WILSON|PRWH",
+      "county": "WILSON",
+      "precinct": "PRWH",
+      "votes": [
+        [105,200,7,0],
+        [10,7,1,0]
+      ]
+    },
+    {
+      "key": "WILSON|PRWI",
+      "county": "WILSON",
+      "precinct": "PRWI",
+      "votes": [
+        [156,478,15,0],
+        [75,101,6,0]
+      ]
+    },
+    {
+      "key": "WILSON|PRWJ",
+      "county": "WILSON",
+      "precinct": "PRWJ",
+      "votes": [
+        [356,1114,42,0],
+        [185,417,11,0]
+      ]
+    },
+    {
+      "key": "WILSON|PRWK",
+      "county": "WILSON",
+      "precinct": "PRWK",
+      "votes": [
+        [114,337,12,0],
+        [221,281,4,0]
+      ]
+    },
+    {
+      "key": "WILSON|PRWL",
+      "county": "WILSON",
+      "precinct": "PRWL",
+      "votes": [
+        [259,576,20,0],
+        [221,353,11,0]
+      ]
+    },
+    {
+      "key": "WILSON|PRWM",
+      "county": "WILSON",
+      "precinct": "PRWM",
+      "votes": [
+        [368,1166,26,0],
+        [298,686,17,0]
+      ]
+    },
+    {
+      "key": "WILSON|PRWN",
+      "county": "WILSON",
+      "precinct": "PRWN",
+      "votes": [
+        [307,737,26,0],
+        [29,29,0,0]
+      ]
+    },
+    {
+      "key": "WILSON|PRWP",
+      "county": "WILSON",
+      "precinct": "PRWP",
+      "votes": [
+        [136,367,12,0],
+        [184,289,2,0]
+      ]
+    },
+    {
+      "key": "WILSON|PRWQ",
+      "county": "WILSON",
+      "precinct": "PRWQ",
+      "votes": [
+        [78,187,8,0],
+        [2,8,0,0]
+      ]
+    },
+    {
+      "key": "WILSON|PRWR",
+      "county": "WILSON",
+      "precinct": "PRWR",
+      "votes": [
+        [137,403,8,0],
+        [20,31,0,0]
+      ]
+    }
+  ],
+  "other": [
+    {
+      "county": "NASH",
+      "label": "ABSENTEE",
+      "votes": [
+        [0,0,11,0],
+        [0,0,14,0]
+      ]
+    },
+    {
+      "county": "NASH",
+      "label": "MT. PLEASANT EV",
+      "votes": [
+        [0,2,0,0],
+        [0,16,0,0]
+      ]
+    },
+    {
+      "county": "NASH",
+      "label": "NASHVILLE EV",
+      "votes": [
+        [0,178,0,0],
+        [0,601,0,0]
+      ]
+    },
+    {
+      "county": "NASH",
+      "label": "PROVISIONAL",
+      "votes": [
+        [0,0,0,0],
+        [0,0,0,0]
+      ]
+    },
+    {
+      "county": "NASH",
+      "label": "ROCKY MOUNT EV",
+      "votes": [
+        [0,344,0,0],
+        [0,160,0,0]
+      ]
+    },
+    {
+      "county": "NASH",
+      "label": "SUPP ABSENTEE",
+      "votes": [
+        [0,0,0,0],
+        [0,0,0,0]
+      ]
+    },
+    {
+      "county": "NASH",
+      "label": "TRANSFER",
+      "votes": [
+        [0,0,0,0],
+        [0,0,0,0]
+      ]
+    }
+  ]
+}

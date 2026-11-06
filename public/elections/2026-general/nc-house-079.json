@@ -1,0 +1,502 @@
+{
+  "raceId": "nc-house-079",
+  "candidates": [
+    {"name":"Darren Armstrong","party":"R"}
+  ],
+  "precincts": [
+    {
+      "key": "BEAUFORT|AUROR",
+      "county": "BEAUFORT",
+      "precinct": "AUROR",
+      "votes": [
+        [153,0,0,0]
+      ]
+    },
+    {
+      "key": "BEAUFORT|BEADM",
+      "county": "BEAUFORT",
+      "precinct": "BEADM",
+      "votes": [
+        [257,0,0,0]
+      ]
+    },
+    {
+      "key": "BEAUFORT|BELHV",
+      "county": "BEAUFORT",
+      "precinct": "BELHV",
+      "votes": [
+        [229,0,0,0]
+      ]
+    },
+    {
+      "key": "BEAUFORT|BLCK",
+      "county": "BEAUFORT",
+      "precinct": "BLCK",
+      "votes": [
+        [144,0,0,0]
+      ]
+    },
+    {
+      "key": "BEAUFORT|CHOCO",
+      "county": "BEAUFORT",
+      "precinct": "CHOCO",
+      "votes": [
+        [483,0,0,0]
+      ]
+    },
+    {
+      "key": "BEAUFORT|EDWAR",
+      "county": "BEAUFORT",
+      "precinct": "EDWAR",
+      "votes": [
+        [177,0,0,0]
+      ]
+    },
+    {
+      "key": "BEAUFORT|GILEA",
+      "county": "BEAUFORT",
+      "precinct": "GILEA",
+      "votes": [
+        [247,0,0,0]
+      ]
+    },
+    {
+      "key": "BEAUFORT|HB",
+      "county": "BEAUFORT",
+      "precinct": "HB",
+      "votes": [
+        [228,0,0,0]
+      ]
+    },
+    {
+      "key": "BEAUFORT|NCRK",
+      "county": "BEAUFORT",
+      "precinct": "NCRK",
+      "votes": [
+        [404,0,0,0]
+      ]
+    },
+    {
+      "key": "BEAUFORT|OLDF",
+      "county": "BEAUFORT",
+      "precinct": "OLDF",
+      "votes": [
+        [255,0,0,0]
+      ]
+    },
+    {
+      "key": "BEAUFORT|PANTE",
+      "county": "BEAUFORT",
+      "precinct": "PANTE",
+      "votes": [
+        [257,0,0,0]
+      ]
+    },
+    {
+      "key": "BEAUFORT|PINET",
+      "county": "BEAUFORT",
+      "precinct": "PINET",
+      "votes": [
+        [255,0,0,0]
+      ]
+    },
+    {
+      "key": "BEAUFORT|PSJW3",
+      "county": "BEAUFORT",
+      "precinct": "PSJW3",
+      "votes": [
+        [79,0,0,0]
+      ]
+    },
+    {
+      "key": "BEAUFORT|RVRD",
+      "county": "BEAUFORT",
+      "precinct": "RVRD",
+      "votes": [
+        [373,0,0,0]
+      ]
+    },
+    {
+      "key": "BEAUFORT|SURBA",
+      "county": "BEAUFORT",
+      "precinct": "SURBA",
+      "votes": [
+        [602,0,0,0]
+      ]
+    },
+    {
+      "key": "BEAUFORT|TCRK",
+      "county": "BEAUFORT",
+      "precinct": "TCRK",
+      "votes": [
+        [445,0,0,0]
+      ]
+    },
+    {
+      "key": "BEAUFORT|WASH1",
+      "county": "BEAUFORT",
+      "precinct": "WASH1",
+      "votes": [
+        [130,0,0,0]
+      ]
+    },
+    {
+      "key": "BEAUFORT|WASH2",
+      "county": "BEAUFORT",
+      "precinct": "WASH2",
+      "votes": [
+        [108,0,0,0]
+      ]
+    },
+    {
+      "key": "BEAUFORT|WASH4",
+      "county": "BEAUFORT",
+      "precinct": "WASH4",
+      "votes": [
+        [199,0,0,0]
+      ]
+    },
+    {
+      "key": "BEAUFORT|WASHP",
+      "county": "BEAUFORT",
+      "precinct": "WASHP",
+      "votes": [
+        [224,0,0,0]
+      ]
+    },
+    {
+      "key": "BEAUFORT|WDPD",
+      "county": "BEAUFORT",
+      "precinct": "WDPD",
+      "votes": [
+        [314,0,0,0]
+      ]
+    },
+    {
+      "key": "DARE|AVON",
+      "county": "DARE",
+      "precinct": "AVON",
+      "votes": [
+        [179,0,0,0]
+      ]
+    },
+    {
+      "key": "DARE|BUX",
+      "county": "DARE",
+      "precinct": "BUX",
+      "votes": [
+        [193,0,0,0]
+      ]
+    },
+    {
+      "key": "DARE|CHCA",
+      "county": "DARE",
+      "precinct": "CHCA",
+      "votes": [
+        [138,0,0,0]
+      ]
+    },
+    {
+      "key": "DARE|FRCO",
+      "county": "DARE",
+      "precinct": "FRCO",
+      "votes": [
+        [125,0,0,0]
+      ]
+    },
+    {
+      "key": "DARE|HAT",
+      "county": "DARE",
+      "precinct": "HAT",
+      "votes": [
+        [114,0,0,0]
+      ]
+    },
+    {
+      "key": "DARE|KDH",
+      "county": "DARE",
+      "precinct": "KDH",
+      "votes": [
+        [673,0,0,0]
+      ]
+    },
+    {
+      "key": "DARE|KTHK",
+      "county": "DARE",
+      "precinct": "KTHK",
+      "votes": [
+        [3,0,0,0]
+      ]
+    },
+    {
+      "key": "DARE|MATO",
+      "county": "DARE",
+      "precinct": "MATO",
+      "votes": [
+        [546,0,0,0]
+      ]
+    },
+    {
+      "key": "DARE|NGHD",
+      "county": "DARE",
+      "precinct": "NGHD",
+      "votes": [
+        [414,0,0,0]
+      ]
+    },
+    {
+      "key": "DARE|WAN",
+      "county": "DARE",
+      "precinct": "WAN",
+      "votes": [
+        [274,0,0,0]
+      ]
+    },
+    {
+      "key": "HYDE|BM",
+      "county": "HYDE",
+      "precinct": "BM",
+      "votes": [
+        [143,0,0,0]
+      ]
+    },
+    {
+      "key": "HYDE|ENG",
+      "county": "HYDE",
+      "precinct": "ENG",
+      "votes": [
+        [135,0,0,0]
+      ]
+    },
+    {
+      "key": "HYDE|FF",
+      "county": "HYDE",
+      "precinct": "FF",
+      "votes": [
+        [116,0,0,0]
+      ]
+    },
+    {
+      "key": "HYDE|LL",
+      "county": "HYDE",
+      "precinct": "LL",
+      "votes": [
+        [99,0,0,0]
+      ]
+    },
+    {
+      "key": "HYDE|OCK",
+      "county": "HYDE",
+      "precinct": "OCK",
+      "votes": [
+        [115,0,0,0]
+      ]
+    },
+    {
+      "key": "HYDE|SLAD",
+      "county": "HYDE",
+      "precinct": "SLAD",
+      "votes": [
+        [99,0,0,0]
+      ]
+    },
+    {
+      "key": "HYDE|SQ",
+      "county": "HYDE",
+      "precinct": "SQ",
+      "votes": [
+        [108,0,0,0]
+      ]
+    },
+    {
+      "key": "PAMLICO|1CR",
+      "county": "PAMLICO",
+      "precinct": "1CR",
+      "votes": [
+        [258,324,7,3]
+      ]
+    },
+    {
+      "key": "PAMLICO|1RB",
+      "county": "PAMLICO",
+      "precinct": "1RB",
+      "votes": [
+        [301,296,2,4]
+      ]
+    },
+    {
+      "key": "PAMLICO|2OT",
+      "county": "PAMLICO",
+      "precinct": "2OT",
+      "votes": [
+        [291,607,18,5]
+      ]
+    },
+    {
+      "key": "PAMLICO|3CH",
+      "county": "PAMLICO",
+      "precinct": "3CH",
+      "votes": [
+        [169,417,6,8]
+      ]
+    },
+    {
+      "key": "PAMLICO|4BR",
+      "county": "PAMLICO",
+      "precinct": "4BR",
+      "votes": [
+        [105,101,1,1]
+      ]
+    },
+    {
+      "key": "PAMLICO|5AP",
+      "county": "PAMLICO",
+      "precinct": "5AP",
+      "votes": [
+        [412,722,9,8]
+      ]
+    }
+  ],
+  "other": [
+    {
+      "county": "BEAUFORT",
+      "label": "ABSENTEE",
+      "votes": [
+        [0,0,143,0]
+      ]
+    },
+    {
+      "county": "BEAUFORT",
+      "label": "EV-AUR",
+      "votes": [
+        [0,253,0,0]
+      ]
+    },
+    {
+      "county": "BEAUFORT",
+      "label": "EV-BEL",
+      "votes": [
+        [0,615,0,0]
+      ]
+    },
+    {
+      "county": "BEAUFORT",
+      "label": "EV-BOE",
+      "votes": [
+        [0,5418,0,0]
+      ]
+    },
+    {
+      "county": "BEAUFORT",
+      "label": "EV-CHO",
+      "votes": [
+        [0,2138,0,0]
+      ]
+    },
+    {
+      "county": "BEAUFORT",
+      "label": "PROVISIONAL",
+      "votes": [
+        [0,0,0,0]
+      ]
+    },
+    {
+      "county": "BEAUFORT",
+      "label": "TRANSFER",
+      "votes": [
+        [0,0,0,0]
+      ]
+    },
+    {
+      "county": "DARE",
+      "label": "ABSENTEE",
+      "votes": [
+        [0,0,96,0]
+      ]
+    },
+    {
+      "county": "DARE",
+      "label": "ABSENTEE SUP",
+      "votes": [
+        [0,0,0,0]
+      ]
+    },
+    {
+      "county": "DARE",
+      "label": "EV BOE",
+      "votes": [
+        [0,1872,0,0]
+      ]
+    },
+    {
+      "county": "DARE",
+      "label": "EV FANX",
+      "votes": [
+        [0,724,0,0]
+      ]
+    },
+    {
+      "county": "DARE",
+      "label": "EV KDH TH",
+      "votes": [
+        [0,1540,0,0]
+      ]
+    },
+    {
+      "county": "DARE",
+      "label": "PROVISIONAL",
+      "votes": [
+        [0,0,0,0]
+      ]
+    },
+    {
+      "county": "DARE",
+      "label": "SPARE",
+      "votes": [
+        [0,0,0,0]
+      ]
+    },
+    {
+      "county": "DARE",
+      "label": "TRANSFER",
+      "votes": [
+        [0,0,0,0]
+      ]
+    },
+    {
+      "county": "HYDE",
+      "label": "ABSENTEE",
+      "votes": [
+        [0,0,15,0]
+      ]
+    },
+    {
+      "county": "HYDE",
+      "label": "EV BOE",
+      "votes": [
+        [0,385,0,0]
+      ]
+    },
+    {
+      "county": "HYDE",
+      "label": "EV OCK",
+      "votes": [
+        [0,88,0,0]
+      ]
+    },
+    {
+      "county": "HYDE",
+      "label": "PROVISIONAL",
+      "votes": [
+        [0,0,0,0]
+      ]
+    },
+    {
+      "county": "HYDE",
+      "label": "TRANSFER",
+      "votes": [
+        [0,0,0,0]
+      ]
+    }
+  ]
+}

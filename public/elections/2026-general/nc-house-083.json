@@ -1,0 +1,205 @@
+{
+  "raceId": "nc-house-083",
+  "candidates": [
+    {"name":"Grant Campbell","party":"R"},
+    {"name":"Johnnie Jones","party":"D"}
+  ],
+  "precincts": [
+    {
+      "key": "CABARRUS|3-00",
+      "county": "CABARRUS",
+      "precinct": "03-00",
+      "votes": [
+        [916,0,0,0],
+        [502,0,0,0]
+      ]
+    },
+    {
+      "key": "CABARRUS|4-01",
+      "county": "CABARRUS",
+      "precinct": "04-01",
+      "votes": [
+        [312,0,0,0],
+        [375,0,0,0]
+      ]
+    },
+    {
+      "key": "CABARRUS|4-03",
+      "county": "CABARRUS",
+      "precinct": "04-03",
+      "votes": [
+        [376,0,0,0],
+        [346,0,0,0]
+      ]
+    },
+    {
+      "key": "CABARRUS|4-09",
+      "county": "CABARRUS",
+      "precinct": "04-09",
+      "votes": [
+        [524,0,0,0],
+        [324,0,0,0]
+      ]
+    },
+    {
+      "key": "CABARRUS|4-11",
+      "county": "CABARRUS",
+      "precinct": "04-11",
+      "votes": [
+        [307,0,0,0],
+        [354,0,0,0]
+      ]
+    },
+    {
+      "key": "CABARRUS|4-12",
+      "county": "CABARRUS",
+      "precinct": "04-12",
+      "votes": [
+        [392,0,0,0],
+        [573,0,0,0]
+      ]
+    },
+    {
+      "key": "CABARRUS|4-13",
+      "county": "CABARRUS",
+      "precinct": "04-13",
+      "votes": [
+        [714,0,0,0],
+        [498,0,0,0]
+      ]
+    },
+    {
+      "key": "ROWAN|13",
+      "county": "ROWAN",
+      "precinct": "13",
+      "votes": [
+        [501,488,9,0],
+        [81,138,14,0]
+      ]
+    },
+    {
+      "key": "ROWAN|16",
+      "county": "ROWAN",
+      "precinct": "16",
+      "votes": [
+        [291,200,9,0],
+        [304,342,23,0]
+      ]
+    },
+    {
+      "key": "ROWAN|17",
+      "county": "ROWAN",
+      "precinct": "17",
+      "votes": [
+        [327,312,4,0],
+        [278,360,12,0]
+      ]
+    },
+    {
+      "key": "ROWAN|19A",
+      "county": "ROWAN",
+      "precinct": "19A",
+      "votes": [
+        [553,940,17,0],
+        [222,542,18,0]
+      ]
+    },
+    {
+      "key": "ROWAN|2",
+      "county": "ROWAN",
+      "precinct": "02",
+      "votes": [
+        [135,165,5,0],
+        [158,217,10,0]
+      ]
+    },
+    {
+      "key": "ROWAN|3",
+      "county": "ROWAN",
+      "precinct": "03",
+      "votes": [
+        [432,501,17,0],
+        [83,150,10,0]
+      ]
+    },
+    {
+      "key": "ROWAN|33",
+      "county": "ROWAN",
+      "precinct": "33",
+      "votes": [
+        [366,388,11,0],
+        [63,110,8,0]
+      ]
+    },
+    {
+      "key": "ROWAN|4",
+      "county": "ROWAN",
+      "precinct": "04",
+      "votes": [
+        [689,1096,18,0],
+        [134,372,23,0]
+      ]
+    },
+    {
+      "key": "ROWAN|44",
+      "county": "ROWAN",
+      "precinct": "44",
+      "votes": [
+        [534,529,7,0],
+        [104,169,12,0]
+      ]
+    },
+    {
+      "key": "ROWAN|5A",
+      "county": "ROWAN",
+      "precinct": "05A",
+      "votes": [
+        [529,961,17,0],
+        [259,630,19,0]
+      ]
+    },
+    {
+      "key": "ROWAN|9",
+      "county": "ROWAN",
+      "precinct": "09",
+      "votes": [
+        [378,387,1,0],
+        [91,156,9,0]
+      ]
+    }
+  ],
+  "other": [
+    {
+      "county": "CABARRUS",
+      "label": "ABSENTEE",
+      "votes": [
+        [0,0,91,0],
+        [0,0,263,0]
+      ]
+    },
+    {
+      "county": "CABARRUS",
+      "label": "EARLY VOTING",
+      "votes": [
+        [0,3791,0,0],
+        [0,5770,0,0]
+      ]
+    },
+    {
+      "county": "CABARRUS",
+      "label": "PROVISIONAL",
+      "votes": [
+        [0,0,0,0],
+        [0,0,0,0]
+      ]
+    },
+    {
+      "county": "CABARRUS",
+      "label": "TRANSFER",
+      "votes": [
+        [0,0,0,0],
+        [0,0,0,0]
+      ]
+    }
+  ]
+}

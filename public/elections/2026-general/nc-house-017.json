@@ -1,0 +1,172 @@
+{
+  "raceId": "nc-house-017",
+  "candidates": [
+    {"name":"Frank Iler","party":"R"},
+    {"name":"Dennis A. Breen","party":"D"}
+  ],
+  "precincts": [
+    {
+      "key": "BRUNSWICK|CB01",
+      "county": "BRUNSWICK",
+      "precinct": "CB01",
+      "votes": [
+        [301,378,6,0],
+        [130,391,9,0]
+      ]
+    },
+    {
+      "key": "BRUNSWICK|CB02",
+      "county": "BRUNSWICK",
+      "precinct": "CB02",
+      "votes": [
+        [843,1334,37,0],
+        [378,963,60,0]
+      ]
+    },
+    {
+      "key": "BRUNSWICK|CB03",
+      "county": "BRUNSWICK",
+      "precinct": "CB03",
+      "votes": [
+        [502,570,28,0],
+        [179,388,27,0]
+      ]
+    },
+    {
+      "key": "BRUNSWICK|CB05",
+      "county": "BRUNSWICK",
+      "precinct": "CB05",
+      "votes": [
+        [86,106,1,0],
+        [48,169,2,0]
+      ]
+    },
+    {
+      "key": "BRUNSWICK|NB01",
+      "county": "BRUNSWICK",
+      "precinct": "NB01",
+      "votes": [
+        [231,263,6,0],
+        [298,359,16,0]
+      ]
+    },
+    {
+      "key": "BRUNSWICK|NB02",
+      "county": "BRUNSWICK",
+      "precinct": "NB02",
+      "votes": [
+        [707,2019,65,0],
+        [582,2235,138,0]
+      ]
+    },
+    {
+      "key": "BRUNSWICK|NB03",
+      "county": "BRUNSWICK",
+      "precinct": "NB03",
+      "votes": [
+        [700,914,14,0],
+        [378,971,36,0]
+      ]
+    },
+    {
+      "key": "BRUNSWICK|NB04",
+      "county": "BRUNSWICK",
+      "precinct": "NB04",
+      "votes": [
+        [470,1620,47,0],
+        [337,1897,64,0]
+      ]
+    },
+    {
+      "key": "BRUNSWICK|NB05",
+      "county": "BRUNSWICK",
+      "precinct": "NB05",
+      "votes": [
+        [250,381,5,0],
+        [378,674,28,0]
+      ]
+    },
+    {
+      "key": "BRUNSWICK|NB06",
+      "county": "BRUNSWICK",
+      "precinct": "NB06",
+      "votes": [
+        [653,1777,70,0],
+        [375,2445,146,0]
+      ]
+    },
+    {
+      "key": "BRUNSWICK|NB07",
+      "county": "BRUNSWICK",
+      "precinct": "NB07",
+      "votes": [
+        [926,1443,46,0],
+        [661,2006,98,0]
+      ]
+    },
+    {
+      "key": "BRUNSWICK|SB01",
+      "county": "BRUNSWICK",
+      "precinct": "SB01",
+      "votes": [
+        [57,122,1,0],
+        [81,213,5,0]
+      ]
+    },
+    {
+      "key": "BRUNSWICK|WB01",
+      "county": "BRUNSWICK",
+      "precinct": "WB01",
+      "votes": [
+        [456,174,8,0],
+        [125,133,8,0]
+      ]
+    },
+    {
+      "key": "BRUNSWICK|WB02",
+      "county": "BRUNSWICK",
+      "precinct": "WB02",
+      "votes": [
+        [956,2400,77,0],
+        [344,1487,147,0]
+      ]
+    },
+    {
+      "key": "BRUNSWICK|WB03",
+      "county": "BRUNSWICK",
+      "precinct": "WB03",
+      "votes": [
+        [216,181,14,0],
+        [151,220,18,0]
+      ]
+    },
+    {
+      "key": "BRUNSWICK|WB04",
+      "county": "BRUNSWICK",
+      "precinct": "WB04",
+      "votes": [
+        [1085,1864,68,0],
+        [342,1373,109,0]
+      ]
+    },
+    {
+      "key": "BRUNSWICK|WB05",
+      "county": "BRUNSWICK",
+      "precinct": "WB05",
+      "votes": [
+        [482,1549,49,0],
+        [162,1259,93,0]
+      ]
+    },
+    {
+      "key": "BRUNSWICK|WB06",
+      "county": "BRUNSWICK",
+      "precinct": "WB06",
+      "votes": [
+        [820,2502,85,0],
+        [275,1503,105,0]
+      ]
+    }
+  ],
+  "other": []
+}

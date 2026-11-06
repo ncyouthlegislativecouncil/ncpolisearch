@@ -1,0 +1,574 @@
+{
+  "raceId": "nc-senate-48",
+  "candidates": [
+    {"name":"Tim Moffitt","party":"R"},
+    {"name":"Doyle G. Brown, Jr.","party":"D"}
+  ],
+  "precincts": [
+    {
+      "key": "HENDERSON|AR",
+      "county": "HENDERSON",
+      "precinct": "AR",
+      "votes": [
+        [164,290,9,0],
+        [103,352,34,0]
+      ]
+    },
+    {
+      "key": "HENDERSON|AT",
+      "county": "HENDERSON",
+      "precinct": "AT",
+      "votes": [
+        [394,913,24,0],
+        [177,890,101,0]
+      ]
+    },
+    {
+      "key": "HENDERSON|BC",
+      "county": "HENDERSON",
+      "precinct": "BC",
+      "votes": [
+        [159,156,13,0],
+        [69,197,11,0]
+      ]
+    },
+    {
+      "key": "HENDERSON|BK",
+      "county": "HENDERSON",
+      "precinct": "BK",
+      "votes": [
+        [192,285,4,0],
+        [149,404,15,0]
+      ]
+    },
+    {
+      "key": "HENDERSON|CB",
+      "county": "HENDERSON",
+      "precinct": "CB",
+      "votes": [
+        [288,222,5,0],
+        [103,222,16,0]
+      ]
+    },
+    {
+      "key": "HENDERSON|CC",
+      "county": "HENDERSON",
+      "precinct": "CC",
+      "votes": [
+        [517,799,23,0],
+        [201,792,60,0]
+      ]
+    },
+    {
+      "key": "HENDERSON|CV",
+      "county": "HENDERSON",
+      "precinct": "CV",
+      "votes": [
+        [146,27,2,0],
+        [191,64,2,0]
+      ]
+    },
+    {
+      "key": "HENDERSON|ED",
+      "county": "HENDERSON",
+      "precinct": "ED",
+      "votes": [
+        [443,847,13,0],
+        [163,653,41,0]
+      ]
+    },
+    {
+      "key": "HENDERSON|EF",
+      "county": "HENDERSON",
+      "precinct": "EF",
+      "votes": [
+        [236,551,24,0],
+        [177,505,21,0]
+      ]
+    },
+    {
+      "key": "HENDERSON|ES",
+      "county": "HENDERSON",
+      "precinct": "ES",
+      "votes": [
+        [256,554,10,0],
+        [103,585,26,0]
+      ]
+    },
+    {
+      "key": "HENDERSON|EV",
+      "county": "HENDERSON",
+      "precinct": "EV",
+      "votes": [
+        [240,816,13,0],
+        [89,694,32,0]
+      ]
+    },
+    {
+      "key": "HENDERSON|FL",
+      "county": "HENDERSON",
+      "precinct": "FL",
+      "votes": [
+        [291,857,17,0],
+        [276,1256,70,0]
+      ]
+    },
+    {
+      "key": "HENDERSON|FR",
+      "county": "HENDERSON",
+      "precinct": "FR",
+      "votes": [
+        [329,863,33,0],
+        [137,1015,84,0]
+      ]
+    },
+    {
+      "key": "HENDERSON|GM",
+      "county": "HENDERSON",
+      "precinct": "GM",
+      "votes": [
+        [196,233,5,0],
+        [119,363,26,0]
+      ]
+    },
+    {
+      "key": "HENDERSON|GR",
+      "county": "HENDERSON",
+      "precinct": "GR",
+      "votes": [
+        [589,554,18,0],
+        [138,345,18,0]
+      ]
+    },
+    {
+      "key": "HENDERSON|HC",
+      "county": "HENDERSON",
+      "precinct": "HC",
+      "votes": [
+        [337,802,11,0],
+        [173,859,40,0]
+      ]
+    },
+    {
+      "key": "HENDERSON|HS",
+      "county": "HENDERSON",
+      "precinct": "HS",
+      "votes": [
+        [285,674,19,0],
+        [130,757,40,0]
+      ]
+    },
+    {
+      "key": "HENDERSON|HV-1",
+      "county": "HENDERSON",
+      "precinct": "HV-1",
+      "votes": [
+        [144,427,20,0],
+        [174,830,63,0]
+      ]
+    },
+    {
+      "key": "HENDERSON|HV-2",
+      "county": "HENDERSON",
+      "precinct": "HV-2",
+      "votes": [
+        [154,349,32,0],
+        [188,727,77,0]
+      ]
+    },
+    {
+      "key": "HENDERSON|HV-3",
+      "county": "HENDERSON",
+      "precinct": "HV-3",
+      "votes": [
+        [174,312,14,0],
+        [213,830,47,0]
+      ]
+    },
+    {
+      "key": "HENDERSON|LJ",
+      "county": "HENDERSON",
+      "precinct": "LJ",
+      "votes": [
+        [193,466,15,0],
+        [146,674,56,0]
+      ]
+    },
+    {
+      "key": "HENDERSON|LP",
+      "county": "HENDERSON",
+      "precinct": "LP",
+      "votes": [
+        [192,338,18,0],
+        [164,627,44,0]
+      ]
+    },
+    {
+      "key": "HENDERSON|MG",
+      "county": "HENDERSON",
+      "precinct": "MG",
+      "votes": [
+        [160,211,4,0],
+        [85,230,18,0]
+      ]
+    },
+    {
+      "key": "HENDERSON|NB",
+      "county": "HENDERSON",
+      "precinct": "NB",
+      "votes": [
+        [520,874,20,0],
+        [263,691,34,0]
+      ]
+    },
+    {
+      "key": "HENDERSON|NE",
+      "county": "HENDERSON",
+      "precinct": "NE",
+      "votes": [
+        [283,381,19,0],
+        [230,644,48,0]
+      ]
+    },
+    {
+      "key": "HENDERSON|NM",
+      "county": "HENDERSON",
+      "precinct": "NM",
+      "votes": [
+        [435,725,29,0],
+        [203,791,50,0]
+      ]
+    },
+    {
+      "key": "HENDERSON|NW",
+      "county": "HENDERSON",
+      "precinct": "NW",
+      "votes": [
+        [204,345,16,0],
+        [174,528,38,0]
+      ]
+    },
+    {
+      "key": "HENDERSON|PR",
+      "county": "HENDERSON",
+      "precinct": "PR",
+      "votes": [
+        [353,518,15,0],
+        [178,647,39,0]
+      ]
+    },
+    {
+      "key": "HENDERSON|PV",
+      "county": "HENDERSON",
+      "precinct": "PV",
+      "votes": [
+        [218,433,20,0],
+        [157,597,42,0]
+      ]
+    },
+    {
+      "key": "HENDERSON|RG",
+      "county": "HENDERSON",
+      "precinct": "RG",
+      "votes": [
+        [283,556,20,0],
+        [134,560,49,0]
+      ]
+    },
+    {
+      "key": "HENDERSON|RR",
+      "county": "HENDERSON",
+      "precinct": "RR",
+      "votes": [
+        [206,192,4,0],
+        [81,211,19,0]
+      ]
+    },
+    {
+      "key": "HENDERSON|SB",
+      "county": "HENDERSON",
+      "precinct": "SB",
+      "votes": [
+        [418,811,19,0],
+        [161,684,32,0]
+      ]
+    },
+    {
+      "key": "HENDERSON|SE",
+      "county": "HENDERSON",
+      "precinct": "SE",
+      "votes": [
+        [143,308,3,0],
+        [97,331,12,0]
+      ]
+    },
+    {
+      "key": "HENDERSON|SM",
+      "county": "HENDERSON",
+      "precinct": "SM",
+      "votes": [
+        [524,975,11,0],
+        [229,812,62,0]
+      ]
+    },
+    {
+      "key": "HENDERSON|SW",
+      "county": "HENDERSON",
+      "precinct": "SW",
+      "votes": [
+        [255,518,17,0],
+        [208,648,45,0]
+      ]
+    },
+    {
+      "key": "POLK|CG05",
+      "county": "POLK",
+      "precinct": "CG05",
+      "votes": [
+        [344,0,0,0],
+        [66,0,0,0]
+      ]
+    },
+    {
+      "key": "POLK|CL07",
+      "county": "POLK",
+      "precinct": "CL07",
+      "votes": [
+        [213,0,0,0],
+        [87,0,0,0]
+      ]
+    },
+    {
+      "key": "POLK|CL08",
+      "county": "POLK",
+      "precinct": "CL08",
+      "votes": [
+        [249,0,0,0],
+        [93,0,0,0]
+      ]
+    },
+    {
+      "key": "POLK|GC09",
+      "county": "POLK",
+      "precinct": "GC09",
+      "votes": [
+        [446,0,0,0],
+        [131,0,0,0]
+      ]
+    },
+    {
+      "key": "POLK|SA04",
+      "county": "POLK",
+      "precinct": "SA04",
+      "votes": [
+        [271,0,0,0],
+        [183,0,0,0]
+      ]
+    },
+    {
+      "key": "POLK|TR123",
+      "county": "POLK",
+      "precinct": "TR123",
+      "votes": [
+        [232,0,0,0],
+        [191,0,0,0]
+      ]
+    },
+    {
+      "key": "POLK|WO06",
+      "county": "POLK",
+      "precinct": "WO06",
+      "votes": [
+        [269,0,0,0],
+        [69,0,0,0]
+      ]
+    },
+    {
+      "key": "RUTHERFORD|10A",
+      "county": "RUTHERFORD",
+      "precinct": "10A",
+      "votes": [
+        [369,226,4,0],
+        [58,97,6,0]
+      ]
+    },
+    {
+      "key": "RUTHERFORD|11",
+      "county": "RUTHERFORD",
+      "precinct": "11",
+      "votes": [
+        [883,997,21,0],
+        [198,409,14,0]
+      ]
+    },
+    {
+      "key": "RUTHERFORD|13",
+      "county": "RUTHERFORD",
+      "precinct": "13",
+      "votes": [
+        [373,665,11,0],
+        [247,619,30,0]
+      ]
+    },
+    {
+      "key": "RUTHERFORD|14",
+      "county": "RUTHERFORD",
+      "precinct": "14",
+      "votes": [
+        [289,333,3,0],
+        [188,313,13,0]
+      ]
+    },
+    {
+      "key": "RUTHERFORD|16A",
+      "county": "RUTHERFORD",
+      "precinct": "16A",
+      "votes": [
+        [526,584,7,0],
+        [115,280,16,0]
+      ]
+    },
+    {
+      "key": "RUTHERFORD|18",
+      "county": "RUTHERFORD",
+      "precinct": "18",
+      "votes": [
+        [370,447,7,0],
+        [105,276,6,0]
+      ]
+    },
+    {
+      "key": "RUTHERFORD|19",
+      "county": "RUTHERFORD",
+      "precinct": "19",
+      "votes": [
+        [387,307,2,0],
+        [104,127,3,0]
+      ]
+    },
+    {
+      "key": "RUTHERFORD|27",
+      "county": "RUTHERFORD",
+      "precinct": "27",
+      "votes": [
+        [347,735,6,0],
+        [172,644,21,0]
+      ]
+    },
+    {
+      "key": "RUTHERFORD|28",
+      "county": "RUTHERFORD",
+      "precinct": "28",
+      "votes": [
+        [180,343,11,0],
+        [70,203,5,0]
+      ]
+    },
+    {
+      "key": "RUTHERFORD|29",
+      "county": "RUTHERFORD",
+      "precinct": "29",
+      "votes": [
+        [329,244,4,0],
+        [110,220,4,0]
+      ]
+    },
+    {
+      "key": "RUTHERFORD|30",
+      "county": "RUTHERFORD",
+      "precinct": "30",
+      "votes": [
+        [297,468,9,0],
+        [218,491,17,0]
+      ]
+    },
+    {
+      "key": "RUTHERFORD|34",
+      "county": "RUTHERFORD",
+      "precinct": "34",
+      "votes": [
+        [258,325,4,0],
+        [51,156,7,0]
+      ]
+    },
+    {
+      "key": "RUTHERFORD|3A",
+      "county": "RUTHERFORD",
+      "precinct": "03A",
+      "votes": [
+        [467,414,4,0],
+        [73,146,8,0]
+      ]
+    },
+    {
+      "key": "RUTHERFORD|4A",
+      "county": "RUTHERFORD",
+      "precinct": "04A",
+      "votes": [
+        [436,473,18,0],
+        [107,206,14,0]
+      ]
+    },
+    {
+      "key": "RUTHERFORD|5A",
+      "county": "RUTHERFORD",
+      "precinct": "05A",
+      "votes": [
+        [441,358,6,0],
+        [153,180,10,0]
+      ]
+    },
+    {
+      "key": "RUTHERFORD|6A",
+      "county": "RUTHERFORD",
+      "precinct": "06A",
+      "votes": [
+        [458,432,23,0],
+        [242,436,42,0]
+      ]
+    },
+    {
+      "key": "RUTHERFORD|9A",
+      "county": "RUTHERFORD",
+      "precinct": "09A",
+      "votes": [
+        [534,724,15,0],
+        [109,239,11,0]
+      ]
+    }
+  ],
+  "other": [
+    {
+      "county": "POLK",
+      "label": "ABSENTEE",
+      "votes": [
+        [0,0,94,0],
+        [0,0,160,0]
+      ]
+    },
+    {
+      "county": "POLK",
+      "label": "EARLY VOTING",
+      "votes": [
+        [0,3425,0,0],
+        [0,3486,0,0]
+      ]
+    },
+    {
+      "county": "POLK",
+      "label": "PROVISIONAL",
+      "votes": [
+        [0,0,0,0],
+        [0,0,0,0]
+      ]
+    },
+    {
+      "county": "POLK",
+      "label": "TRANSFER",
+      "votes": [
+        [0,0,0,0],
+        [0,0,0,0]
+      ]
+    }
+  ]
+}

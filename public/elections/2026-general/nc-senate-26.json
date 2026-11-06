@@ -1,0 +1,531 @@
+{
+  "raceId": "nc-senate-26",
+  "candidates": [
+    {"name":"Sam Page","party":"R"},
+    {"name":"Steve Luking","party":"D"}
+  ],
+  "precincts": [
+    {
+      "key": "GUILFORD|FEN2",
+      "county": "GUILFORD",
+      "precinct": "FEN2",
+      "votes": [
+        [271,0,0,0],
+        [206,0,0,0]
+      ]
+    },
+    {
+      "key": "GUILFORD|GIB",
+      "county": "GUILFORD",
+      "precinct": "GIB",
+      "votes": [
+        [384,0,0,0],
+        [317,0,0,0]
+      ]
+    },
+    {
+      "key": "GUILFORD|GR",
+      "county": "GUILFORD",
+      "precinct": "GR",
+      "votes": [
+        [698,0,0,0],
+        [111,0,0,0]
+      ]
+    },
+    {
+      "key": "GUILFORD|JAM1",
+      "county": "GUILFORD",
+      "precinct": "JAM1",
+      "votes": [
+        [241,0,0,0],
+        [185,0,0,0]
+      ]
+    },
+    {
+      "key": "GUILFORD|JAM2",
+      "county": "GUILFORD",
+      "precinct": "JAM2",
+      "votes": [
+        [163,0,0,0],
+        [184,0,0,0]
+      ]
+    },
+    {
+      "key": "GUILFORD|JAM3",
+      "county": "GUILFORD",
+      "precinct": "JAM3",
+      "votes": [
+        [209,0,0,0],
+        [238,0,0,0]
+      ]
+    },
+    {
+      "key": "GUILFORD|JAM4",
+      "county": "GUILFORD",
+      "precinct": "JAM4",
+      "votes": [
+        [265,0,0,0],
+        [174,0,0,0]
+      ]
+    },
+    {
+      "key": "GUILFORD|JAM5",
+      "county": "GUILFORD",
+      "precinct": "JAM5",
+      "votes": [
+        [277,0,0,0],
+        [92,0,0,0]
+      ]
+    },
+    {
+      "key": "GUILFORD|JEF1",
+      "county": "GUILFORD",
+      "precinct": "JEF1",
+      "votes": [
+        [344,0,0,0],
+        [310,0,0,0]
+      ]
+    },
+    {
+      "key": "GUILFORD|JEF2",
+      "county": "GUILFORD",
+      "precinct": "JEF2",
+      "votes": [
+        [156,0,0,0],
+        [318,0,0,0]
+      ]
+    },
+    {
+      "key": "GUILFORD|JEF4",
+      "county": "GUILFORD",
+      "precinct": "JEF4",
+      "votes": [
+        [173,0,0,0],
+        [173,0,0,0]
+      ]
+    },
+    {
+      "key": "GUILFORD|MON3",
+      "county": "GUILFORD",
+      "precinct": "MON3",
+      "votes": [
+        [750,0,0,0],
+        [443,0,0,0]
+      ]
+    },
+    {
+      "key": "GUILFORD|NCGR2",
+      "county": "GUILFORD",
+      "precinct": "NCGR2",
+      "votes": [
+        [145,0,0,0],
+        [53,0,0,0]
+      ]
+    },
+    {
+      "key": "GUILFORD|NCLAY1",
+      "county": "GUILFORD",
+      "precinct": "NCLAY1",
+      "votes": [
+        [313,0,0,0],
+        [241,0,0,0]
+      ]
+    },
+    {
+      "key": "GUILFORD|NCLAY2",
+      "county": "GUILFORD",
+      "precinct": "NCLAY2",
+      "votes": [
+        [260,0,0,0],
+        [74,0,0,0]
+      ]
+    },
+    {
+      "key": "GUILFORD|NDRI",
+      "county": "GUILFORD",
+      "precinct": "NDRI",
+      "votes": [
+        [447,0,0,0],
+        [256,0,0,0]
+      ]
+    },
+    {
+      "key": "GUILFORD|NMAD",
+      "county": "GUILFORD",
+      "precinct": "NMAD",
+      "votes": [
+        [455,0,0,0],
+        [521,0,0,0]
+      ]
+    },
+    {
+      "key": "GUILFORD|NWASH",
+      "county": "GUILFORD",
+      "precinct": "NWASH",
+      "votes": [
+        [431,0,0,0],
+        [75,0,0,0]
+      ]
+    },
+    {
+      "key": "GUILFORD|OR1",
+      "county": "GUILFORD",
+      "precinct": "OR1",
+      "votes": [
+        [487,0,0,0],
+        [197,0,0,0]
+      ]
+    },
+    {
+      "key": "GUILFORD|OR2",
+      "county": "GUILFORD",
+      "precinct": "OR2",
+      "votes": [
+        [385,0,0,0],
+        [180,0,0,0]
+      ]
+    },
+    {
+      "key": "GUILFORD|PG1",
+      "county": "GUILFORD",
+      "precinct": "PG1",
+      "votes": [
+        [223,0,0,0],
+        [123,0,0,0]
+      ]
+    },
+    {
+      "key": "GUILFORD|PG2",
+      "county": "GUILFORD",
+      "precinct": "PG2",
+      "votes": [
+        [510,0,0,0],
+        [118,0,0,0]
+      ]
+    },
+    {
+      "key": "GUILFORD|RC1",
+      "county": "GUILFORD",
+      "precinct": "RC1",
+      "votes": [
+        [304,0,0,0],
+        [336,0,0,0]
+      ]
+    },
+    {
+      "key": "GUILFORD|RC2",
+      "county": "GUILFORD",
+      "precinct": "RC2",
+      "votes": [
+        [499,0,0,0],
+        [596,0,0,0]
+      ]
+    },
+    {
+      "key": "GUILFORD|SCLAY",
+      "county": "GUILFORD",
+      "precinct": "SCLAY",
+      "votes": [
+        [417,0,0,0],
+        [93,0,0,0]
+      ]
+    },
+    {
+      "key": "GUILFORD|SDRI",
+      "county": "GUILFORD",
+      "precinct": "SDRI",
+      "votes": [
+        [701,0,0,0],
+        [590,0,0,0]
+      ]
+    },
+    {
+      "key": "GUILFORD|SF2",
+      "county": "GUILFORD",
+      "precinct": "SF2",
+      "votes": [
+        [16,0,0,0],
+        [6,0,0,0]
+      ]
+    },
+    {
+      "key": "GUILFORD|SMAD",
+      "county": "GUILFORD",
+      "precinct": "SMAD",
+      "votes": [
+        [330,0,0,0],
+        [182,0,0,0]
+      ]
+    },
+    {
+      "key": "GUILFORD|STOK",
+      "county": "GUILFORD",
+      "precinct": "STOK",
+      "votes": [
+        [758,0,0,0],
+        [270,0,0,0]
+      ]
+    },
+    {
+      "key": "GUILFORD|SUM1",
+      "county": "GUILFORD",
+      "precinct": "SUM1",
+      "votes": [
+        [128,0,0,0],
+        [306,0,0,0]
+      ]
+    },
+    {
+      "key": "GUILFORD|SUM2",
+      "county": "GUILFORD",
+      "precinct": "SUM2",
+      "votes": [
+        [152,0,0,0],
+        [353,0,0,0]
+      ]
+    },
+    {
+      "key": "GUILFORD|SUM3",
+      "county": "GUILFORD",
+      "precinct": "SUM3",
+      "votes": [
+        [223,0,0,0],
+        [67,0,0,0]
+      ]
+    },
+    {
+      "key": "GUILFORD|SUM4",
+      "county": "GUILFORD",
+      "precinct": "SUM4",
+      "votes": [
+        [491,0,0,0],
+        [98,0,0,0]
+      ]
+    },
+    {
+      "key": "GUILFORD|SWASH",
+      "county": "GUILFORD",
+      "precinct": "SWASH",
+      "votes": [
+        [293,0,0,0],
+        [61,0,0,0]
+      ]
+    },
+    {
+      "key": "ROCKINGHAM|DR",
+      "county": "ROCKINGHAM",
+      "precinct": "DR",
+      "votes": [
+        [317,0,0,0],
+        [192,0,0,0]
+      ]
+    },
+    {
+      "key": "ROCKINGHAM|EC",
+      "county": "ROCKINGHAM",
+      "precinct": "EC",
+      "votes": [
+        [466,0,0,0],
+        [233,0,0,0]
+      ]
+    },
+    {
+      "key": "ROCKINGHAM|ED",
+      "county": "ROCKINGHAM",
+      "precinct": "ED",
+      "votes": [
+        [635,0,0,0],
+        [361,0,0,0]
+      ]
+    },
+    {
+      "key": "ROCKINGHAM|HO-1",
+      "county": "ROCKINGHAM",
+      "precinct": "HO-1",
+      "votes": [
+        [531,0,0,0],
+        [161,0,0,0]
+      ]
+    },
+    {
+      "key": "ROCKINGHAM|HU-1",
+      "county": "ROCKINGHAM",
+      "precinct": "HU-1",
+      "votes": [
+        [708,0,0,0],
+        [173,0,0,0]
+      ]
+    },
+    {
+      "key": "ROCKINGHAM|LI-1",
+      "county": "ROCKINGHAM",
+      "precinct": "LI-1",
+      "votes": [
+        [694,0,0,0],
+        [208,0,0,0]
+      ]
+    },
+    {
+      "key": "ROCKINGHAM|MO",
+      "county": "ROCKINGHAM",
+      "precinct": "MO",
+      "votes": [
+        [573,0,0,0],
+        [201,0,0,0]
+      ]
+    },
+    {
+      "key": "ROCKINGHAM|NB",
+      "county": "ROCKINGHAM",
+      "precinct": "NB",
+      "votes": [
+        [687,0,0,0],
+        [175,0,0,0]
+      ]
+    },
+    {
+      "key": "ROCKINGHAM|RC",
+      "county": "ROCKINGHAM",
+      "precinct": "RC",
+      "votes": [
+        [562,0,0,0],
+        [208,0,0,0]
+      ]
+    },
+    {
+      "key": "ROCKINGHAM|RE-1",
+      "county": "ROCKINGHAM",
+      "precinct": "RE-1",
+      "votes": [
+        [365,0,0,0],
+        [442,0,0,0]
+      ]
+    },
+    {
+      "key": "ROCKINGHAM|RE-2",
+      "county": "ROCKINGHAM",
+      "precinct": "RE-2",
+      "votes": [
+        [411,0,0,0],
+        [358,0,0,0]
+      ]
+    },
+    {
+      "key": "ROCKINGHAM|ST",
+      "county": "ROCKINGHAM",
+      "precinct": "ST",
+      "votes": [
+        [717,0,0,0],
+        [259,0,0,0]
+      ]
+    },
+    {
+      "key": "ROCKINGHAM|WI",
+      "county": "ROCKINGHAM",
+      "precinct": "WI",
+      "votes": [
+        [458,0,0,0],
+        [210,0,0,0]
+      ]
+    },
+    {
+      "key": "ROCKINGHAM|WS-1",
+      "county": "ROCKINGHAM",
+      "precinct": "WS-1",
+      "votes": [
+        [620,0,0,0],
+        [239,0,0,0]
+      ]
+    }
+  ],
+  "other": [
+    {
+      "county": "GUILFORD",
+      "label": "ABSENTEE",
+      "votes": [
+        [0,0,383,0],
+        [0,0,812,0]
+      ]
+    },
+    {
+      "county": "GUILFORD",
+      "label": "EARLYVOTE",
+      "votes": [
+        [0,17040,0,0],
+        [0,21693,0,0]
+      ]
+    },
+    {
+      "county": "GUILFORD",
+      "label": "PROVISIONAL",
+      "votes": [
+        [0,0,0,0],
+        [0,0,0,0]
+      ]
+    },
+    {
+      "county": "GUILFORD",
+      "label": "TRANSFER",
+      "votes": [
+        [0,0,0,0],
+        [0,0,0,0]
+      ]
+    },
+    {
+      "county": "ROCKINGHAM",
+      "label": "ABSENTEE",
+      "votes": [
+        [0,0,134,0],
+        [0,0,267,0]
+      ]
+    },
+    {
+      "county": "ROCKINGHAM",
+      "label": "EARLY VOTING 1",
+      "votes": [
+        [0,2710,0,0],
+        [0,2031,0,0]
+      ]
+    },
+    {
+      "county": "ROCKINGHAM",
+      "label": "EARLY VOTING 2",
+      "votes": [
+        [0,3410,0,0],
+        [0,3873,0,0]
+      ]
+    },
+    {
+      "county": "ROCKINGHAM",
+      "label": "EARLY VOTING 3",
+      "votes": [
+        [0,2941,0,0],
+        [0,1380,0,0]
+      ]
+    },
+    {
+      "county": "ROCKINGHAM",
+      "label": "EARLY VOTING 4",
+      "votes": [
+        [0,3956,0,0],
+        [0,2179,0,0]
+      ]
+    },
+    {
+      "county": "ROCKINGHAM",
+      "label": "PROVISIONAL",
+      "votes": [
+        [0,0,0,0],
+        [0,0,0,0]
+      ]
+    },
+    {
+      "county": "ROCKINGHAM",
+      "label": "TRANSFER",
+      "votes": [
+        [0,0,0,0],
+        [0,0,0,0]
+      ]
+    }
+  ]
+}

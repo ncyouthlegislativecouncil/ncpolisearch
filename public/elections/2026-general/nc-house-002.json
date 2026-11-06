@@ -1,0 +1,253 @@
+{
+  "raceId": "nc-house-002",
+  "candidates": [
+    {"name":"Ray Jeffers","party":"D"}
+  ],
+  "precincts": [
+    {
+      "key": "DURHAM|23",
+      "county": "DURHAM",
+      "precinct": "23",
+      "votes": [
+        [838,0,0,0]
+      ]
+    },
+    {
+      "key": "DURHAM|25",
+      "county": "DURHAM",
+      "precinct": "25",
+      "votes": [
+        [239,0,0,0]
+      ]
+    },
+    {
+      "key": "DURHAM|26",
+      "county": "DURHAM",
+      "precinct": "26",
+      "votes": [
+        [129,0,0,0]
+      ]
+    },
+    {
+      "key": "DURHAM|28",
+      "county": "DURHAM",
+      "precinct": "28",
+      "votes": [
+        [293,0,0,0]
+      ]
+    },
+    {
+      "key": "DURHAM|29",
+      "county": "DURHAM",
+      "precinct": "29",
+      "votes": [
+        [560,0,0,0]
+      ]
+    },
+    {
+      "key": "DURHAM|44",
+      "county": "DURHAM",
+      "precinct": "44",
+      "votes": [
+        [515,0,0,0]
+      ]
+    },
+    {
+      "key": "DURHAM|45",
+      "county": "DURHAM",
+      "precinct": "45",
+      "votes": [
+        [502,0,0,0]
+      ]
+    },
+    {
+      "key": "DURHAM|46",
+      "county": "DURHAM",
+      "precinct": "46",
+      "votes": [
+        [413,0,0,0]
+      ]
+    },
+    {
+      "key": "PERSON|ALVI",
+      "county": "PERSON",
+      "precinct": "ALVI",
+      "votes": [
+        [320,454,18,1]
+      ]
+    },
+    {
+      "key": "PERSON|CUCL",
+      "county": "PERSON",
+      "precinct": "CUCL",
+      "votes": [
+        [238,390,17,0]
+      ]
+    },
+    {
+      "key": "PERSON|FLHE",
+      "county": "PERSON",
+      "precinct": "FLHE",
+      "votes": [
+        [537,1130,42,2]
+      ]
+    },
+    {
+      "key": "PERSON|HLWY",
+      "county": "PERSON",
+      "precinct": "HLWY",
+      "votes": [
+        [178,192,8,0]
+      ]
+    },
+    {
+      "key": "PERSON|MTTZ",
+      "county": "PERSON",
+      "precinct": "MTTZ",
+      "votes": [
+        [303,491,16,1]
+      ]
+    },
+    {
+      "key": "PERSON|OLHI",
+      "county": "PERSON",
+      "precinct": "OLHI",
+      "votes": [
+        [176,385,11,0]
+      ]
+    },
+    {
+      "key": "PERSON|PNTH",
+      "county": "PERSON",
+      "precinct": "PNTH",
+      "votes": [
+        [376,1073,34,6]
+      ]
+    },
+    {
+      "key": "PERSON|RCOB",
+      "county": "PERSON",
+      "precinct": "RCOB",
+      "votes": [
+        [408,1232,28,2]
+      ]
+    },
+    {
+      "key": "PERSON|ROXL",
+      "county": "PERSON",
+      "precinct": "ROXL",
+      "votes": [
+        [214,540,8,2]
+      ]
+    },
+    {
+      "key": "PERSON|SWST",
+      "county": "PERSON",
+      "precinct": "SWST",
+      "votes": [
+        [289,391,12,0]
+      ]
+    },
+    {
+      "key": "PERSON|WDSD",
+      "county": "PERSON",
+      "precinct": "WDSD",
+      "votes": [
+        [172,267,11,3]
+      ]
+    }
+  ],
+  "other": [
+    {
+      "county": "DURHAM",
+      "label": "ABSENTEE",
+      "votes": [
+        [0,0,413,0]
+      ]
+    },
+    {
+      "county": "DURHAM",
+      "label": "EV BOE",
+      "votes": [
+        [0,232,0,0]
+      ]
+    },
+    {
+      "county": "DURHAM",
+      "label": "EV DUKE",
+      "votes": [
+        [0,432,0,0]
+      ]
+    },
+    {
+      "county": "DURHAM",
+      "label": "EV ENO",
+      "votes": [
+        [0,217,0,0]
+      ]
+    },
+    {
+      "county": "DURHAM",
+      "label": "EV ERL",
+      "votes": [
+        [0,393,0,0]
+      ]
+    },
+    {
+      "county": "DURHAM",
+      "label": "EV LRC",
+      "votes": [
+        [0,1605,0,0]
+      ]
+    },
+    {
+      "county": "DURHAM",
+      "label": "EV MAIN",
+      "votes": [
+        [0,1113,0,0]
+      ]
+    },
+    {
+      "county": "DURHAM",
+      "label": "EV NCCU",
+      "votes": [
+        [0,351,0,0]
+      ]
+    },
+    {
+      "county": "DURHAM",
+      "label": "EV NRL",
+      "votes": [
+        [0,9318,0,0]
+      ]
+    },
+    {
+      "county": "DURHAM",
+      "label": "EV SHS",
+      "votes": [
+        [0,420,0,0]
+      ]
+    },
+    {
+      "county": "DURHAM",
+      "label": "EV SRL",
+      "votes": [
+        [0,216,0,0]
+      ]
+    },
+    {
+      "county": "DURHAM",
+      "label": "PROVISIONAL",
+      "votes": [
+        [0,0,0,0]
+      ]
+    },
+    {
+      "county": "DURHAM",
+      "label": "TRANSFER",
+      "votes": [
+        [0,0,0,0]
+      ]
+    }
+  ]
+}

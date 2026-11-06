@@ -1,0 +1,622 @@
+{
+  "raceId": "nc-senate-27",
+  "candidates": [
+    {"name":"Michael K. Garrett","party":"D"}
+  ],
+  "precincts": [
+    {
+      "key": "GUILFORD|CG1",
+      "county": "GUILFORD",
+      "precinct": "CG1",
+      "votes": [
+        [263,0,0,0]
+      ]
+    },
+    {
+      "key": "GUILFORD|CG2",
+      "county": "GUILFORD",
+      "precinct": "CG2",
+      "votes": [
+        [292,0,0,0]
+      ]
+    },
+    {
+      "key": "GUILFORD|FR2",
+      "county": "GUILFORD",
+      "precinct": "FR2",
+      "votes": [
+        [221,0,0,0]
+      ]
+    },
+    {
+      "key": "GUILFORD|FR3",
+      "county": "GUILFORD",
+      "precinct": "FR3",
+      "votes": [
+        [274,0,0,0]
+      ]
+    },
+    {
+      "key": "GUILFORD|FR4",
+      "county": "GUILFORD",
+      "precinct": "FR4",
+      "votes": [
+        [163,0,0,0]
+      ]
+    },
+    {
+      "key": "GUILFORD|FR5A",
+      "county": "GUILFORD",
+      "precinct": "FR5A",
+      "votes": [
+        [261,0,0,0]
+      ]
+    },
+    {
+      "key": "GUILFORD|FR5B",
+      "county": "GUILFORD",
+      "precinct": "FR5B",
+      "votes": [
+        [187,0,0,0]
+      ]
+    },
+    {
+      "key": "GUILFORD|G13",
+      "county": "GUILFORD",
+      "precinct": "G13",
+      "votes": [
+        [298,0,0,0]
+      ]
+    },
+    {
+      "key": "GUILFORD|G14",
+      "county": "GUILFORD",
+      "precinct": "G14",
+      "votes": [
+        [318,0,0,0]
+      ]
+    },
+    {
+      "key": "GUILFORD|G15",
+      "county": "GUILFORD",
+      "precinct": "G15",
+      "votes": [
+        [309,0,0,0]
+      ]
+    },
+    {
+      "key": "GUILFORD|G16",
+      "county": "GUILFORD",
+      "precinct": "G16",
+      "votes": [
+        [313,0,0,0]
+      ]
+    },
+    {
+      "key": "GUILFORD|G17",
+      "county": "GUILFORD",
+      "precinct": "G17",
+      "votes": [
+        [233,0,0,0]
+      ]
+    },
+    {
+      "key": "GUILFORD|G30",
+      "county": "GUILFORD",
+      "precinct": "G30",
+      "votes": [
+        [211,0,0,0]
+      ]
+    },
+    {
+      "key": "GUILFORD|G31",
+      "county": "GUILFORD",
+      "precinct": "G31",
+      "votes": [
+        [247,0,0,0]
+      ]
+    },
+    {
+      "key": "GUILFORD|G32",
+      "county": "GUILFORD",
+      "precinct": "G32",
+      "votes": [
+        [317,0,0,0]
+      ]
+    },
+    {
+      "key": "GUILFORD|G33",
+      "county": "GUILFORD",
+      "precinct": "G33",
+      "votes": [
+        [276,0,0,0]
+      ]
+    },
+    {
+      "key": "GUILFORD|G34",
+      "county": "GUILFORD",
+      "precinct": "G34",
+      "votes": [
+        [292,0,0,0]
+      ]
+    },
+    {
+      "key": "GUILFORD|G35",
+      "county": "GUILFORD",
+      "precinct": "G35",
+      "votes": [
+        [179,0,0,0]
+      ]
+    },
+    {
+      "key": "GUILFORD|G36",
+      "county": "GUILFORD",
+      "precinct": "G36",
+      "votes": [
+        [262,0,0,0]
+      ]
+    },
+    {
+      "key": "GUILFORD|G37",
+      "county": "GUILFORD",
+      "precinct": "G37",
+      "votes": [
+        [465,0,0,0]
+      ]
+    },
+    {
+      "key": "GUILFORD|G38",
+      "county": "GUILFORD",
+      "precinct": "G38",
+      "votes": [
+        [357,0,0,0]
+      ]
+    },
+    {
+      "key": "GUILFORD|G39",
+      "county": "GUILFORD",
+      "precinct": "G39",
+      "votes": [
+        [184,0,0,0]
+      ]
+    },
+    {
+      "key": "GUILFORD|G40A1",
+      "county": "GUILFORD",
+      "precinct": "G40A1",
+      "votes": [
+        [289,0,0,0]
+      ]
+    },
+    {
+      "key": "GUILFORD|G40A2",
+      "county": "GUILFORD",
+      "precinct": "G40A2",
+      "votes": [
+        [154,0,0,0]
+      ]
+    },
+    {
+      "key": "GUILFORD|G40B",
+      "county": "GUILFORD",
+      "precinct": "G40B",
+      "votes": [
+        [186,0,0,0]
+      ]
+    },
+    {
+      "key": "GUILFORD|G41A",
+      "county": "GUILFORD",
+      "precinct": "G41A",
+      "votes": [
+        [194,0,0,0]
+      ]
+    },
+    {
+      "key": "GUILFORD|G41B",
+      "county": "GUILFORD",
+      "precinct": "G41B",
+      "votes": [
+        [244,0,0,0]
+      ]
+    },
+    {
+      "key": "GUILFORD|G42A",
+      "county": "GUILFORD",
+      "precinct": "G42A",
+      "votes": [
+        [202,0,0,0]
+      ]
+    },
+    {
+      "key": "GUILFORD|G42B",
+      "county": "GUILFORD",
+      "precinct": "G42B",
+      "votes": [
+        [229,0,0,0]
+      ]
+    },
+    {
+      "key": "GUILFORD|G43",
+      "county": "GUILFORD",
+      "precinct": "G43",
+      "votes": [
+        [368,0,0,0]
+      ]
+    },
+    {
+      "key": "GUILFORD|G48",
+      "county": "GUILFORD",
+      "precinct": "G48",
+      "votes": [
+        [679,0,0,0]
+      ]
+    },
+    {
+      "key": "GUILFORD|G49",
+      "county": "GUILFORD",
+      "precinct": "G49",
+      "votes": [
+        [198,0,0,0]
+      ]
+    },
+    {
+      "key": "GUILFORD|G63",
+      "county": "GUILFORD",
+      "precinct": "G63",
+      "votes": [
+        [309,0,0,0]
+      ]
+    },
+    {
+      "key": "GUILFORD|G64",
+      "county": "GUILFORD",
+      "precinct": "G64",
+      "votes": [
+        [456,0,0,0]
+      ]
+    },
+    {
+      "key": "GUILFORD|H01",
+      "county": "GUILFORD",
+      "precinct": "H01",
+      "votes": [
+        [332,0,0,0]
+      ]
+    },
+    {
+      "key": "GUILFORD|H02",
+      "county": "GUILFORD",
+      "precinct": "H02",
+      "votes": [
+        [197,0,0,0]
+      ]
+    },
+    {
+      "key": "GUILFORD|H03",
+      "county": "GUILFORD",
+      "precinct": "H03",
+      "votes": [
+        [191,0,0,0]
+      ]
+    },
+    {
+      "key": "GUILFORD|H04",
+      "county": "GUILFORD",
+      "precinct": "H04",
+      "votes": [
+        [434,0,0,0]
+      ]
+    },
+    {
+      "key": "GUILFORD|H05",
+      "county": "GUILFORD",
+      "precinct": "H05",
+      "votes": [
+        [247,0,0,0]
+      ]
+    },
+    {
+      "key": "GUILFORD|H06",
+      "county": "GUILFORD",
+      "precinct": "H06",
+      "votes": [
+        [364,0,0,0]
+      ]
+    },
+    {
+      "key": "GUILFORD|H07",
+      "county": "GUILFORD",
+      "precinct": "H07",
+      "votes": [
+        [189,0,0,0]
+      ]
+    },
+    {
+      "key": "GUILFORD|H08",
+      "county": "GUILFORD",
+      "precinct": "H08",
+      "votes": [
+        [159,0,0,0]
+      ]
+    },
+    {
+      "key": "GUILFORD|H09",
+      "county": "GUILFORD",
+      "precinct": "H09",
+      "votes": [
+        [172,0,0,0]
+      ]
+    },
+    {
+      "key": "GUILFORD|H10",
+      "county": "GUILFORD",
+      "precinct": "H10",
+      "votes": [
+        [346,0,0,0]
+      ]
+    },
+    {
+      "key": "GUILFORD|H11",
+      "county": "GUILFORD",
+      "precinct": "H11",
+      "votes": [
+        [173,0,0,0]
+      ]
+    },
+    {
+      "key": "GUILFORD|H12",
+      "county": "GUILFORD",
+      "precinct": "H12",
+      "votes": [
+        [154,0,0,0]
+      ]
+    },
+    {
+      "key": "GUILFORD|H13",
+      "county": "GUILFORD",
+      "precinct": "H13",
+      "votes": [
+        [226,0,0,0]
+      ]
+    },
+    {
+      "key": "GUILFORD|H14",
+      "county": "GUILFORD",
+      "precinct": "H14",
+      "votes": [
+        [202,0,0,0]
+      ]
+    },
+    {
+      "key": "GUILFORD|H15",
+      "county": "GUILFORD",
+      "precinct": "H15",
+      "votes": [
+        [195,0,0,0]
+      ]
+    },
+    {
+      "key": "GUILFORD|H16",
+      "county": "GUILFORD",
+      "precinct": "H16",
+      "votes": [
+        [151,0,0,0]
+      ]
+    },
+    {
+      "key": "GUILFORD|H17",
+      "county": "GUILFORD",
+      "precinct": "H17",
+      "votes": [
+        [147,0,0,0]
+      ]
+    },
+    {
+      "key": "GUILFORD|H18",
+      "county": "GUILFORD",
+      "precinct": "H18",
+      "votes": [
+        [204,0,0,0]
+      ]
+    },
+    {
+      "key": "GUILFORD|H19A",
+      "county": "GUILFORD",
+      "precinct": "H19A",
+      "votes": [
+        [165,0,0,0]
+      ]
+    },
+    {
+      "key": "GUILFORD|H19B",
+      "county": "GUILFORD",
+      "precinct": "H19B",
+      "votes": [
+        [154,0,0,0]
+      ]
+    },
+    {
+      "key": "GUILFORD|H20A",
+      "county": "GUILFORD",
+      "precinct": "H20A",
+      "votes": [
+        [151,0,0,0]
+      ]
+    },
+    {
+      "key": "GUILFORD|H20B",
+      "county": "GUILFORD",
+      "precinct": "H20B",
+      "votes": [
+        [154,0,0,0]
+      ]
+    },
+    {
+      "key": "GUILFORD|H21",
+      "county": "GUILFORD",
+      "precinct": "H21",
+      "votes": [
+        [178,0,0,0]
+      ]
+    },
+    {
+      "key": "GUILFORD|H22",
+      "county": "GUILFORD",
+      "precinct": "H22",
+      "votes": [
+        [170,0,0,0]
+      ]
+    },
+    {
+      "key": "GUILFORD|H23",
+      "county": "GUILFORD",
+      "precinct": "H23",
+      "votes": [
+        [147,0,0,0]
+      ]
+    },
+    {
+      "key": "GUILFORD|H24",
+      "county": "GUILFORD",
+      "precinct": "H24",
+      "votes": [
+        [227,0,0,0]
+      ]
+    },
+    {
+      "key": "GUILFORD|H25",
+      "county": "GUILFORD",
+      "precinct": "H25",
+      "votes": [
+        [335,0,0,0]
+      ]
+    },
+    {
+      "key": "GUILFORD|H26",
+      "county": "GUILFORD",
+      "precinct": "H26",
+      "votes": [
+        [225,0,0,0]
+      ]
+    },
+    {
+      "key": "GUILFORD|H27-A",
+      "county": "GUILFORD",
+      "precinct": "H27-A",
+      "votes": [
+        [203,0,0,0]
+      ]
+    },
+    {
+      "key": "GUILFORD|H27-B",
+      "county": "GUILFORD",
+      "precinct": "H27-B",
+      "votes": [
+        [203,0,0,0]
+      ]
+    },
+    {
+      "key": "GUILFORD|H28",
+      "county": "GUILFORD",
+      "precinct": "H28",
+      "votes": [
+        [305,0,0,0]
+      ]
+    },
+    {
+      "key": "GUILFORD|H29A",
+      "county": "GUILFORD",
+      "precinct": "H29A",
+      "votes": [
+        [328,0,0,0]
+      ]
+    },
+    {
+      "key": "GUILFORD|H29B",
+      "county": "GUILFORD",
+      "precinct": "H29B",
+      "votes": [
+        [391,0,0,0]
+      ]
+    },
+    {
+      "key": "GUILFORD|NCGR1",
+      "county": "GUILFORD",
+      "precinct": "NCGR1",
+      "votes": [
+        [390,0,0,0]
+      ]
+    },
+    {
+      "key": "GUILFORD|NCGR2",
+      "county": "GUILFORD",
+      "precinct": "NCGR2",
+      "votes": [
+        [186,0,0,0]
+      ]
+    },
+    {
+      "key": "GUILFORD|SF1",
+      "county": "GUILFORD",
+      "precinct": "SF1",
+      "votes": [
+        [320,0,0,0]
+      ]
+    },
+    {
+      "key": "GUILFORD|SF2",
+      "county": "GUILFORD",
+      "precinct": "SF2",
+      "votes": [
+        [204,0,0,0]
+      ]
+    },
+    {
+      "key": "GUILFORD|SF3",
+      "county": "GUILFORD",
+      "precinct": "SF3",
+      "votes": [
+        [345,0,0,0]
+      ]
+    },
+    {
+      "key": "GUILFORD|SF4",
+      "county": "GUILFORD",
+      "precinct": "SF4",
+      "votes": [
+        [394,0,0,0]
+      ]
+    }
+  ],
+  "other": [
+    {
+      "county": "GUILFORD",
+      "label": "ABSENTEE",
+      "votes": [
+        [0,0,1652,0]
+      ]
+    },
+    {
+      "county": "GUILFORD",
+      "label": "EARLYVOTE",
+      "votes": [
+        [0,40863,0,0]
+      ]
+    },
+    {
+      "county": "GUILFORD",
+      "label": "PROVISIONAL",
+      "votes": [
+        [0,0,0,0]
+      ]
+    },
+    {
+      "county": "GUILFORD",
+      "label": "TRANSFER",
+      "votes": [
+        [0,0,0,0]
+      ]
+    }
+  ]
+}

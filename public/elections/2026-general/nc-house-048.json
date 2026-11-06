@@ -1,0 +1,208 @@
+{
+  "raceId": "nc-house-048",
+  "candidates": [
+    {"name":"Garland E. Pierce","party":"D"},
+    {"name":"Ralph Carter","party":"R"}
+  ],
+  "precincts": [
+    {
+      "key": "HOKE|1",
+      "county": "HOKE",
+      "precinct": "01",
+      "votes": [
+        [44,40,0,0],
+        [57,35,0,0]
+      ]
+    },
+    {
+      "key": "HOKE|12",
+      "county": "HOKE",
+      "precinct": "12",
+      "votes": [
+        [261,800,22,0],
+        [318,568,11,0]
+      ]
+    },
+    {
+      "key": "HOKE|13",
+      "county": "HOKE",
+      "precinct": "13",
+      "votes": [
+        [82,219,4,0],
+        [166,226,2,0]
+      ]
+    },
+    {
+      "key": "HOKE|14",
+      "county": "HOKE",
+      "precinct": "14",
+      "votes": [
+        [412,1238,31,0],
+        [228,363,9,0]
+      ]
+    },
+    {
+      "key": "HOKE|15",
+      "county": "HOKE",
+      "precinct": "15",
+      "votes": [
+        [274,891,28,0],
+        [167,263,6,0]
+      ]
+    },
+    {
+      "key": "HOKE|2",
+      "county": "HOKE",
+      "precinct": "02",
+      "votes": [
+        [203,324,5,0],
+        [187,133,6,0]
+      ]
+    },
+    {
+      "key": "HOKE|3",
+      "county": "HOKE",
+      "precinct": "03",
+      "votes": [
+        [80,219,3,0],
+        [51,86,0,0]
+      ]
+    },
+    {
+      "key": "HOKE|4",
+      "county": "HOKE",
+      "precinct": "04",
+      "votes": [
+        [116,136,8,0],
+        [176,164,4,0]
+      ]
+    },
+    {
+      "key": "HOKE|5",
+      "county": "HOKE",
+      "precinct": "05",
+      "votes": [
+        [148,337,11,0],
+        [216,226,7,0]
+      ]
+    },
+    {
+      "key": "HOKE|61",
+      "county": "HOKE",
+      "precinct": "61",
+      "votes": [
+        [126,433,4,0],
+        [89,141,0,0]
+      ]
+    },
+    {
+      "key": "HOKE|62",
+      "county": "HOKE",
+      "precinct": "62",
+      "votes": [
+        [60,229,7,0],
+        [66,107,4,0]
+      ]
+    },
+    {
+      "key": "HOKE|63",
+      "county": "HOKE",
+      "precinct": "63",
+      "votes": [
+        [280,895,13,0],
+        [108,202,4,0]
+      ]
+    },
+    {
+      "key": "HOKE|64",
+      "county": "HOKE",
+      "precinct": "64",
+      "votes": [
+        [137,501,11,0],
+        [160,208,4,0]
+      ]
+    },
+    {
+      "key": "HOKE|65",
+      "county": "HOKE",
+      "precinct": "65",
+      "votes": [
+        [62,268,3,0],
+        [1,15,0,0]
+      ]
+    },
+    {
+      "key": "HOKE|6B",
+      "county": "HOKE",
+      "precinct": "06B",
+      "votes": [
+        [311,1049,32,0],
+        [251,463,3,0]
+      ]
+    },
+    {
+      "key": "SCOTLAND|1-16",
+      "county": "SCOTLAND",
+      "precinct": "01-16",
+      "votes": [
+        [289,774,13,0],
+        [109,189,2,0]
+      ]
+    },
+    {
+      "key": "SCOTLAND|2-25",
+      "county": "SCOTLAND",
+      "precinct": "02-25",
+      "votes": [
+        [148,618,9,0],
+        [192,462,7,0]
+      ]
+    },
+    {
+      "key": "SCOTLAND|3",
+      "county": "SCOTLAND",
+      "precinct": "03",
+      "votes": [
+        [242,601,19,0],
+        [231,514,9,0]
+      ]
+    },
+    {
+      "key": "SCOTLAND|4",
+      "county": "SCOTLAND",
+      "precinct": "04",
+      "votes": [
+        [195,712,32,0],
+        [315,744,17,0]
+      ]
+    },
+    {
+      "key": "SCOTLAND|5-10",
+      "county": "SCOTLAND",
+      "precinct": "05-10",
+      "votes": [
+        [138,234,2,0],
+        [234,252,3,0]
+      ]
+    },
+    {
+      "key": "SCOTLAND|6-89",
+      "county": "SCOTLAND",
+      "precinct": "06-89",
+      "votes": [
+        [167,390,15,0],
+        [379,535,6,0]
+      ]
+    },
+    {
+      "key": "SCOTLAND|7",
+      "county": "SCOTLAND",
+      "precinct": "07",
+      "votes": [
+        [296,663,12,0],
+        [251,363,9,0]
+      ]
+    }
+  ],
+  "other": []
+}

@@ -1,0 +1,376 @@
+{
+  "raceId": "nc-senate-34",
+  "candidates": [
+    {"name":"April Cook","party":"D"},
+    {"name":"Kevin Crutchfield","party":"R"}
+  ],
+  "precincts": [
+    {
+      "key": "CABARRUS|1-02",
+      "county": "CABARRUS",
+      "precinct": "01-02",
+      "votes": [
+        [252,0,0,0],
+        [449,0,0,0]
+      ]
+    },
+    {
+      "key": "CABARRUS|1-07",
+      "county": "CABARRUS",
+      "precinct": "01-07",
+      "votes": [
+        [335,0,0,0],
+        [470,0,0,0]
+      ]
+    },
+    {
+      "key": "CABARRUS|1-08",
+      "county": "CABARRUS",
+      "precinct": "01-08",
+      "votes": [
+        [608,0,0,0],
+        [460,0,0,0]
+      ]
+    },
+    {
+      "key": "CABARRUS|1-10",
+      "county": "CABARRUS",
+      "precinct": "01-10",
+      "votes": [
+        [430,0,0,0],
+        [385,0,0,0]
+      ]
+    },
+    {
+      "key": "CABARRUS|1-11",
+      "county": "CABARRUS",
+      "precinct": "01-11",
+      "votes": [
+        [590,0,0,0],
+        [616,0,0,0]
+      ]
+    },
+    {
+      "key": "CABARRUS|10-00",
+      "county": "CABARRUS",
+      "precinct": "10-00",
+      "votes": [
+        [388,0,0,0],
+        [929,0,0,0]
+      ]
+    },
+    {
+      "key": "CABARRUS|11-01",
+      "county": "CABARRUS",
+      "precinct": "11-01",
+      "votes": [
+        [678,0,0,0],
+        [380,0,0,0]
+      ]
+    },
+    {
+      "key": "CABARRUS|11-02",
+      "county": "CABARRUS",
+      "precinct": "11-02",
+      "votes": [
+        [248,0,0,0],
+        [532,0,0,0]
+      ]
+    },
+    {
+      "key": "CABARRUS|12-03",
+      "county": "CABARRUS",
+      "precinct": "12-03",
+      "votes": [
+        [235,0,0,0],
+        [272,0,0,0]
+      ]
+    },
+    {
+      "key": "CABARRUS|12-04",
+      "county": "CABARRUS",
+      "precinct": "12-04",
+      "votes": [
+        [252,0,0,0],
+        [209,0,0,0]
+      ]
+    },
+    {
+      "key": "CABARRUS|12-05",
+      "county": "CABARRUS",
+      "precinct": "12-05",
+      "votes": [
+        [241,0,0,0],
+        [337,0,0,0]
+      ]
+    },
+    {
+      "key": "CABARRUS|12-08",
+      "county": "CABARRUS",
+      "precinct": "12-08",
+      "votes": [
+        [159,0,0,0],
+        [104,0,0,0]
+      ]
+    },
+    {
+      "key": "CABARRUS|12-09",
+      "county": "CABARRUS",
+      "precinct": "12-09",
+      "votes": [
+        [285,0,0,0],
+        [301,0,0,0]
+      ]
+    },
+    {
+      "key": "CABARRUS|12-11",
+      "county": "CABARRUS",
+      "precinct": "12-11",
+      "votes": [
+        [200,0,0,0],
+        [158,0,0,0]
+      ]
+    },
+    {
+      "key": "CABARRUS|12-12",
+      "county": "CABARRUS",
+      "precinct": "12-12",
+      "votes": [
+        [245,0,0,0],
+        [244,0,0,0]
+      ]
+    },
+    {
+      "key": "CABARRUS|12-13",
+      "county": "CABARRUS",
+      "precinct": "12-13",
+      "votes": [
+        [551,0,0,0],
+        [132,0,0,0]
+      ]
+    },
+    {
+      "key": "CABARRUS|12-14",
+      "county": "CABARRUS",
+      "precinct": "12-14",
+      "votes": [
+        [358,0,0,0],
+        [317,0,0,0]
+      ]
+    },
+    {
+      "key": "CABARRUS|2-01",
+      "county": "CABARRUS",
+      "precinct": "02-01",
+      "votes": [
+        [332,0,0,0],
+        [343,0,0,0]
+      ]
+    },
+    {
+      "key": "CABARRUS|2-02",
+      "county": "CABARRUS",
+      "precinct": "02-02",
+      "votes": [
+        [565,0,0,0],
+        [445,0,0,0]
+      ]
+    },
+    {
+      "key": "CABARRUS|2-03",
+      "county": "CABARRUS",
+      "precinct": "02-03",
+      "votes": [
+        [672,0,0,0],
+        [627,0,0,0]
+      ]
+    },
+    {
+      "key": "CABARRUS|2-06",
+      "county": "CABARRUS",
+      "precinct": "02-06",
+      "votes": [
+        [471,0,0,0],
+        [252,0,0,0]
+      ]
+    },
+    {
+      "key": "CABARRUS|2-08",
+      "county": "CABARRUS",
+      "precinct": "02-08",
+      "votes": [
+        [1011,0,0,0],
+        [624,0,0,0]
+      ]
+    },
+    {
+      "key": "CABARRUS|2-09",
+      "county": "CABARRUS",
+      "precinct": "02-09",
+      "votes": [
+        [1030,0,0,0],
+        [637,0,0,0]
+      ]
+    },
+    {
+      "key": "CABARRUS|2-10",
+      "county": "CABARRUS",
+      "precinct": "02-10",
+      "votes": [
+        [730,0,0,0],
+        [777,0,0,0]
+      ]
+    },
+    {
+      "key": "CABARRUS|3-00",
+      "county": "CABARRUS",
+      "precinct": "03-00",
+      "votes": [
+        [563,0,0,0],
+        [841,0,0,0]
+      ]
+    },
+    {
+      "key": "CABARRUS|4-01",
+      "county": "CABARRUS",
+      "precinct": "04-01",
+      "votes": [
+        [401,0,0,0],
+        [280,0,0,0]
+      ]
+    },
+    {
+      "key": "CABARRUS|4-03",
+      "county": "CABARRUS",
+      "precinct": "04-03",
+      "votes": [
+        [376,0,0,0],
+        [343,0,0,0]
+      ]
+    },
+    {
+      "key": "CABARRUS|4-08",
+      "county": "CABARRUS",
+      "precinct": "04-08",
+      "votes": [
+        [256,0,0,0],
+        [214,0,0,0]
+      ]
+    },
+    {
+      "key": "CABARRUS|4-09",
+      "county": "CABARRUS",
+      "precinct": "04-09",
+      "votes": [
+        [352,0,0,0],
+        [491,0,0,0]
+      ]
+    },
+    {
+      "key": "CABARRUS|4-11",
+      "county": "CABARRUS",
+      "precinct": "04-11",
+      "votes": [
+        [369,0,0,0],
+        [291,0,0,0]
+      ]
+    },
+    {
+      "key": "CABARRUS|4-12",
+      "county": "CABARRUS",
+      "precinct": "04-12",
+      "votes": [
+        [599,0,0,0],
+        [367,0,0,0]
+      ]
+    },
+    {
+      "key": "CABARRUS|4-13",
+      "county": "CABARRUS",
+      "precinct": "04-13",
+      "votes": [
+        [542,0,0,0],
+        [669,0,0,0]
+      ]
+    },
+    {
+      "key": "CABARRUS|5-00",
+      "county": "CABARRUS",
+      "precinct": "05-00",
+      "votes": [
+        [177,0,0,0],
+        [482,0,0,0]
+      ]
+    },
+    {
+      "key": "CABARRUS|6-00",
+      "county": "CABARRUS",
+      "precinct": "06-00",
+      "votes": [
+        [116,0,0,0],
+        [692,0,0,0]
+      ]
+    },
+    {
+      "key": "CABARRUS|7-00",
+      "county": "CABARRUS",
+      "precinct": "07-00",
+      "votes": [
+        [63,0,0,0],
+        [401,0,0,0]
+      ]
+    },
+    {
+      "key": "CABARRUS|8-00",
+      "county": "CABARRUS",
+      "precinct": "08-00",
+      "votes": [
+        [196,0,0,0],
+        [849,0,0,0]
+      ]
+    },
+    {
+      "key": "CABARRUS|9-00",
+      "county": "CABARRUS",
+      "precinct": "09-00",
+      "votes": [
+        [148,0,0,0],
+        [637,0,0,0]
+      ]
+    }
+  ],
+  "other": [
+    {
+      "county": "CABARRUS",
+      "label": "ABSENTEE",
+      "votes": [
+        [0,0,1702,0],
+        [0,0,602,0]
+      ]
+    },
+    {
+      "county": "CABARRUS",
+      "label": "EARLY VOTING",
+      "votes": [
+        [0,30024,0,0],
+        [0,17169,0,0]
+      ]
+    },
+    {
+      "county": "CABARRUS",
+      "label": "PROVISIONAL",
+      "votes": [
+        [0,0,0,0],
+        [0,0,0,0]
+      ]
+    },
+    {
+      "county": "CABARRUS",
+      "label": "TRANSFER",
+      "votes": [
+        [0,0,0,0],
+        [0,0,0,0]
+      ]
+    }
+  ]
+}

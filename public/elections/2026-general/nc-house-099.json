@@ -1,0 +1,103 @@
+{
+  "raceId": "nc-house-099",
+  "candidates": [
+    {"name":"Veleria M. Levy","party":"D"}
+  ],
+  "precincts": [
+    {
+      "key": "MECKLENBURG|105",
+      "county": "MECKLENBURG",
+      "precinct": "105",
+      "votes": [
+        [643,1448,0,0]
+      ]
+    },
+    {
+      "key": "MECKLENBURG|132",
+      "county": "MECKLENBURG",
+      "precinct": "132",
+      "votes": [
+        [583,931,0,0]
+      ]
+    },
+    {
+      "key": "MECKLENBURG|141",
+      "county": "MECKLENBURG",
+      "precinct": "141",
+      "votes": [
+        [438,1348,0,0]
+      ]
+    },
+    {
+      "key": "MECKLENBURG|149",
+      "county": "MECKLENBURG",
+      "precinct": "149",
+      "votes": [
+        [970,2256,0,0]
+      ]
+    },
+    {
+      "key": "MECKLENBURG|204.1",
+      "county": "MECKLENBURG",
+      "precinct": "204.1",
+      "votes": [
+        [979,2064,0,0]
+      ]
+    },
+    {
+      "key": "MECKLENBURG|212",
+      "county": "MECKLENBURG",
+      "precinct": "212",
+      "votes": [
+        [1890,5017,0,0]
+      ]
+    },
+    {
+      "key": "MECKLENBURG|237",
+      "county": "MECKLENBURG",
+      "precinct": "237",
+      "votes": [
+        [851,1624,0,0]
+      ]
+    },
+    {
+      "key": "MECKLENBURG|42",
+      "county": "MECKLENBURG",
+      "precinct": "042",
+      "votes": [
+        [447,810,0,0]
+      ]
+    },
+    {
+      "key": "MECKLENBURG|82",
+      "county": "MECKLENBURG",
+      "precinct": "082",
+      "votes": [
+        [437,783,0,0]
+      ]
+    }
+  ],
+  "other": [
+    {
+      "county": "MECKLENBURG",
+      "label": "ABSENTEE BY MAIL",
+      "votes": [
+        [0,0,452,0]
+      ]
+    },
+    {
+      "county": "MECKLENBURG",
+      "label": "PROVISIONALS",
+      "votes": [
+        [0,0,0,0]
+      ]
+    },
+    {
+      "county": "MECKLENBURG",
+      "label": "TRANSFERS",
+      "votes": [
+        [0,0,0,0]
+      ]
+    }
+  ]
+}

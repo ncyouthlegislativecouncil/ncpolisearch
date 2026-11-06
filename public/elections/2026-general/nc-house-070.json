@@ -1,0 +1,118 @@
+{
+  "raceId": "nc-house-070",
+  "candidates": [
+    {"name":"Brian Biggs","party":"R"},
+    {"name":"William (Bill) McCaskill","party":"D"}
+  ],
+  "precincts": [
+    {
+      "key": "RANDOLPH|AE",
+      "county": "RANDOLPH",
+      "precinct": "AE",
+      "votes": [
+        [374,588,30,0],
+        [318,870,50,0]
+      ]
+    },
+    {
+      "key": "RANDOLPH|AN",
+      "county": "RANDOLPH",
+      "precinct": "AN",
+      "votes": [
+        [251,587,16,0],
+        [261,585,30,0]
+      ]
+    },
+    {
+      "key": "RANDOLPH|AR",
+      "county": "RANDOLPH",
+      "precinct": "AR",
+      "votes": [
+        [706,1875,49,0],
+        [301,899,51,0]
+      ]
+    },
+    {
+      "key": "RANDOLPH|AS",
+      "county": "RANDOLPH",
+      "precinct": "AS",
+      "votes": [
+        [430,941,14,0],
+        [219,540,20,0]
+      ]
+    },
+    {
+      "key": "RANDOLPH|AW",
+      "county": "RANDOLPH",
+      "precinct": "AW",
+      "votes": [
+        [438,1030,18,0],
+        [335,974,22,0]
+      ]
+    },
+    {
+      "key": "RANDOLPH|BC",
+      "county": "RANDOLPH",
+      "precinct": "BC",
+      "votes": [
+        [521,743,14,0],
+        [94,248,10,0]
+      ]
+    },
+    {
+      "key": "RANDOLPH|LC",
+      "county": "RANDOLPH",
+      "precinct": "LC",
+      "votes": [
+        [305,493,2,0],
+        [101,196,5,0]
+      ]
+    },
+    {
+      "key": "RANDOLPH|NM",
+      "county": "RANDOLPH",
+      "precinct": "NM",
+      "votes": [
+        [740,1017,5,0],
+        [133,243,12,0]
+      ]
+    },
+    {
+      "key": "RANDOLPH|RN",
+      "county": "RANDOLPH",
+      "precinct": "RN",
+      "votes": [
+        [658,1150,11,0],
+        [262,638,24,0]
+      ]
+    },
+    {
+      "key": "RANDOLPH|TB",
+      "county": "RANDOLPH",
+      "precinct": "TB",
+      "votes": [
+        [609,531,23,0],
+        [80,140,2,0]
+      ]
+    },
+    {
+      "key": "RANDOLPH|TR",
+      "county": "RANDOLPH",
+      "precinct": "TR",
+      "votes": [
+        [1061,2038,64,0],
+        [340,813,55,0]
+      ]
+    },
+    {
+      "key": "RANDOLPH|TT",
+      "county": "RANDOLPH",
+      "precinct": "TT",
+      "votes": [
+        [773,817,6,0],
+        [151,257,12,0]
+      ]
+    }
+  ],
+  "other": []
+}

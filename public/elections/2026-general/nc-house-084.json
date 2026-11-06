@@ -1,0 +1,161 @@
+{
+  "raceId": "nc-house-084",
+  "candidates": [
+    {"name":"Jeffrey C. McNeely","party":"R"}
+  ],
+  "precincts": [
+    {
+      "key": "IREDELL|BA-1",
+      "county": "IREDELL",
+      "precinct": "BA-1",
+      "votes": [
+        [1057,1333,21,0]
+      ]
+    },
+    {
+      "key": "IREDELL|BE",
+      "county": "IREDELL",
+      "precinct": "BE",
+      "votes": [
+        [886,1289,42,0]
+      ]
+    },
+    {
+      "key": "IREDELL|CD",
+      "county": "IREDELL",
+      "precinct": "CD",
+      "votes": [
+        [1000,992,31,0]
+      ]
+    },
+    {
+      "key": "IREDELL|CH-A",
+      "county": "IREDELL",
+      "precinct": "CH-A",
+      "votes": [
+        [581,485,16,0]
+      ]
+    },
+    {
+      "key": "IREDELL|CH-B",
+      "county": "IREDELL",
+      "precinct": "CH-B",
+      "votes": [
+        [591,580,12,0]
+      ]
+    },
+    {
+      "key": "IREDELL|CS",
+      "county": "IREDELL",
+      "precinct": "CS",
+      "votes": [
+        [550,569,10,0]
+      ]
+    },
+    {
+      "key": "IREDELL|EM",
+      "county": "IREDELL",
+      "precinct": "EM",
+      "votes": [
+        [246,302,1,0]
+      ]
+    },
+    {
+      "key": "IREDELL|NH",
+      "county": "IREDELL",
+      "precinct": "NH",
+      "votes": [
+        [436,211,4,0]
+      ]
+    },
+    {
+      "key": "IREDELL|OL",
+      "county": "IREDELL",
+      "precinct": "OL",
+      "votes": [
+        [356,251,5,0]
+      ]
+    },
+    {
+      "key": "IREDELL|SB",
+      "county": "IREDELL",
+      "precinct": "SB",
+      "votes": [
+        [532,351,5,0]
+      ]
+    },
+    {
+      "key": "IREDELL|SH-A",
+      "county": "IREDELL",
+      "precinct": "SH-A",
+      "votes": [
+        [688,625,15,0]
+      ]
+    },
+    {
+      "key": "IREDELL|ST1",
+      "county": "IREDELL",
+      "precinct": "ST1",
+      "votes": [
+        [592,868,32,0]
+      ]
+    },
+    {
+      "key": "IREDELL|ST2",
+      "county": "IREDELL",
+      "precinct": "ST2",
+      "votes": [
+        [362,469,18,0]
+      ]
+    },
+    {
+      "key": "IREDELL|ST3",
+      "county": "IREDELL",
+      "precinct": "ST3",
+      "votes": [
+        [413,577,16,0]
+      ]
+    },
+    {
+      "key": "IREDELL|ST4",
+      "county": "IREDELL",
+      "precinct": "ST4",
+      "votes": [
+        [382,567,10,0]
+      ]
+    },
+    {
+      "key": "IREDELL|ST5",
+      "county": "IREDELL",
+      "precinct": "ST5",
+      "votes": [
+        [326,510,13,0]
+      ]
+    },
+    {
+      "key": "IREDELL|ST6",
+      "county": "IREDELL",
+      "precinct": "ST6",
+      "votes": [
+        [478,758,27,0]
+      ]
+    },
+    {
+      "key": "IREDELL|TB",
+      "county": "IREDELL",
+      "precinct": "TB",
+      "votes": [
+        [403,587,10,0]
+      ]
+    },
+    {
+      "key": "IREDELL|UG",
+      "county": "IREDELL",
+      "precinct": "UG",
+      "votes": [
+        [444,294,6,0]
+      ]
+    }
+  ],
+  "other": []
+}

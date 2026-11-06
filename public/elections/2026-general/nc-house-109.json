@@ -1,0 +1,154 @@
+{
+  "raceId": "nc-house-109",
+  "candidates": [
+    {"name":"Mark D. Carver","party":"D"},
+    {"name":"Donnie Loftis","party":"R"}
+  ],
+  "precincts": [
+    {
+      "key": "GASTON|1A",
+      "county": "GASTON",
+      "precinct": "1A",
+      "votes": [
+        [221,665,17,0],
+        [143,320,4,0]
+      ]
+    },
+    {
+      "key": "GASTON|27A",
+      "county": "GASTON",
+      "precinct": "27A",
+      "votes": [
+        [191,650,31,0],
+        [320,407,11,0]
+      ]
+    },
+    {
+      "key": "GASTON|28A",
+      "county": "GASTON",
+      "precinct": "28A",
+      "votes": [
+        [184,611,39,0],
+        [159,370,24,0]
+      ]
+    },
+    {
+      "key": "GASTON|29A",
+      "county": "GASTON",
+      "precinct": "29A",
+      "votes": [
+        [358,954,43,0],
+        [257,565,24,0]
+      ]
+    },
+    {
+      "key": "GASTON|2A",
+      "county": "GASTON",
+      "precinct": "2A",
+      "votes": [
+        [327,942,25,0],
+        [167,344,11,0]
+      ]
+    },
+    {
+      "key": "GASTON|30A",
+      "county": "GASTON",
+      "precinct": "30A",
+      "votes": [
+        [414,1670,78,0],
+        [622,1383,24,0]
+      ]
+    },
+    {
+      "key": "GASTON|31A",
+      "county": "GASTON",
+      "precinct": "31A",
+      "votes": [
+        [312,933,42,0],
+        [498,1020,29,0]
+      ]
+    },
+    {
+      "key": "GASTON|32A",
+      "county": "GASTON",
+      "precinct": "32A",
+      "votes": [
+        [311,622,31,0],
+        [628,751,24,0]
+      ]
+    },
+    {
+      "key": "GASTON|33A",
+      "county": "GASTON",
+      "precinct": "33A",
+      "votes": [
+        [340,1111,81,0],
+        [711,1220,46,0]
+      ]
+    },
+    {
+      "key": "GASTON|34A",
+      "county": "GASTON",
+      "precinct": "34A",
+      "votes": [
+        [431,897,38,0],
+        [642,689,44,0]
+      ]
+    },
+    {
+      "key": "GASTON|38A",
+      "county": "GASTON",
+      "precinct": "38A",
+      "votes": [
+        [291,567,18,0],
+        [340,414,11,0]
+      ]
+    },
+    {
+      "key": "GASTON|39A",
+      "county": "GASTON",
+      "precinct": "39A",
+      "votes": [
+        [475,790,47,0],
+        [569,613,20,0]
+      ]
+    },
+    {
+      "key": "GASTON|3A",
+      "county": "GASTON",
+      "precinct": "3A",
+      "votes": [
+        [361,1059,39,0],
+        [364,712,29,0]
+      ]
+    },
+    {
+      "key": "GASTON|40A",
+      "county": "GASTON",
+      "precinct": "40A",
+      "votes": [
+        [468,943,60,0],
+        [897,909,36,0]
+      ]
+    },
+    {
+      "key": "GASTON|4A",
+      "county": "GASTON",
+      "precinct": "4A",
+      "votes": [
+        [256,740,32,0],
+        [436,739,14,0]
+      ]
+    },
+    {
+      "key": "GASTON|5A",
+      "county": "GASTON",
+      "precinct": "5A",
+      "votes": [
+        [15,44,1,0],
+        [11,27,0,0]
+      ]
+    }
+  ],
+  "other": []
+}

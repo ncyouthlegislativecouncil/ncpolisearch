@@ -1,0 +1,100 @@
+{
+  "raceId": "nc-house-006",
+  "candidates": [
+    {"name":"Joe Pike","party":"R"},
+    {"name":"Tony Spears","party":"D"}
+  ],
+  "precincts": [
+    {
+      "key": "HARNETT|PR23",
+      "county": "HARNETT",
+      "precinct": "PR23",
+      "votes": [
+        [879,1151,24,0],
+        [389,934,35,0]
+      ]
+    },
+    {
+      "key": "HARNETT|PR26",
+      "county": "HARNETT",
+      "precinct": "PR26",
+      "votes": [
+        [461,846,19,0],
+        [208,525,22,0]
+      ]
+    },
+    {
+      "key": "HARNETT|PR28",
+      "county": "HARNETT",
+      "precinct": "PR28",
+      "votes": [
+        [1364,1676,54,0],
+        [621,1592,103,0]
+      ]
+    },
+    {
+      "key": "HARNETT|PR33",
+      "county": "HARNETT",
+      "precinct": "PR33",
+      "votes": [
+        [571,981,31,0],
+        [406,1200,54,0]
+      ]
+    },
+    {
+      "key": "HARNETT|PR34",
+      "county": "HARNETT",
+      "precinct": "PR34",
+      "votes": [
+        [567,943,42,0],
+        [413,1147,114,0]
+      ]
+    },
+    {
+      "key": "HARNETT|PR35",
+      "county": "HARNETT",
+      "precinct": "PR35",
+      "votes": [
+        [329,595,16,0],
+        [190,519,27,0]
+      ]
+    },
+    {
+      "key": "HARNETT|PR36",
+      "county": "HARNETT",
+      "precinct": "PR36",
+      "votes": [
+        [425,871,30,0],
+        [428,1431,89,0]
+      ]
+    },
+    {
+      "key": "HARNETT|PR37",
+      "county": "HARNETT",
+      "precinct": "PR37",
+      "votes": [
+        [577,687,41,0],
+        [520,928,70,0]
+      ]
+    },
+    {
+      "key": "HARNETT|PR38",
+      "county": "HARNETT",
+      "precinct": "PR38",
+      "votes": [
+        [328,324,5,0],
+        [341,635,3,0]
+      ]
+    },
+    {
+      "key": "HARNETT|PR39",
+      "county": "HARNETT",
+      "precinct": "PR39",
+      "votes": [
+        [274,370,8,0],
+        [251,680,12,0]
+      ]
+    }
+  ],
+  "other": []
+}

@@ -1,0 +1,334 @@
+{
+  "raceId": "nc-senate-43",
+  "candidates": [
+    {"name":"Brad Overcash","party":"R"},
+    {"name":"Steve Rutherford","party":"D"}
+  ],
+  "precincts": [
+    {
+      "key": "GASTON|13A",
+      "county": "GASTON",
+      "precinct": "13A",
+      "votes": [
+        [435,791,12,0],
+        [89,254,9,0]
+      ]
+    },
+    {
+      "key": "GASTON|14A",
+      "county": "GASTON",
+      "precinct": "14A",
+      "votes": [
+        [417,963,8,0],
+        [319,916,31,0]
+      ]
+    },
+    {
+      "key": "GASTON|15A",
+      "county": "GASTON",
+      "precinct": "15A",
+      "votes": [
+        [131,328,2,0],
+        [386,955,21,0]
+      ]
+    },
+    {
+      "key": "GASTON|16A",
+      "county": "GASTON",
+      "precinct": "16A",
+      "votes": [
+        [97,136,4,0],
+        [281,760,16,0]
+      ]
+    },
+    {
+      "key": "GASTON|17A",
+      "county": "GASTON",
+      "precinct": "17A",
+      "votes": [
+        [242,458,30,0],
+        [155,416,17,0]
+      ]
+    },
+    {
+      "key": "GASTON|18A",
+      "county": "GASTON",
+      "precinct": "18A",
+      "votes": [
+        [351,699,7,0],
+        [278,545,17,0]
+      ]
+    },
+    {
+      "key": "GASTON|19A",
+      "county": "GASTON",
+      "precinct": "19A",
+      "votes": [
+        [646,800,8,0],
+        [126,228,11,0]
+      ]
+    },
+    {
+      "key": "GASTON|1A",
+      "county": "GASTON",
+      "precinct": "1A",
+      "votes": [
+        [144,321,4,0],
+        [222,670,17,0]
+      ]
+    },
+    {
+      "key": "GASTON|20A",
+      "county": "GASTON",
+      "precinct": "20A",
+      "votes": [
+        [605,907,22,0],
+        [388,1044,44,0]
+      ]
+    },
+    {
+      "key": "GASTON|21A",
+      "county": "GASTON",
+      "precinct": "21A",
+      "votes": [
+        [504,699,23,0],
+        [175,733,58,0]
+      ]
+    },
+    {
+      "key": "GASTON|22A",
+      "county": "GASTON",
+      "precinct": "22A",
+      "votes": [
+        [293,556,10,0],
+        [314,959,24,0]
+      ]
+    },
+    {
+      "key": "GASTON|23A",
+      "county": "GASTON",
+      "precinct": "23A",
+      "votes": [
+        [533,1078,17,0],
+        [306,782,37,0]
+      ]
+    },
+    {
+      "key": "GASTON|24A",
+      "county": "GASTON",
+      "precinct": "24A",
+      "votes": [
+        [678,1011,17,0],
+        [299,691,39,0]
+      ]
+    },
+    {
+      "key": "GASTON|25A",
+      "county": "GASTON",
+      "precinct": "25A",
+      "votes": [
+        [311,307,5,0],
+        [308,465,15,0]
+      ]
+    },
+    {
+      "key": "GASTON|26A",
+      "county": "GASTON",
+      "precinct": "26A",
+      "votes": [
+        [397,287,7,0],
+        [264,329,13,0]
+      ]
+    },
+    {
+      "key": "GASTON|27A",
+      "county": "GASTON",
+      "precinct": "27A",
+      "votes": [
+        [318,410,13,0],
+        [198,651,29,0]
+      ]
+    },
+    {
+      "key": "GASTON|28A",
+      "county": "GASTON",
+      "precinct": "28A",
+      "votes": [
+        [252,647,32,0],
+        [328,1007,47,0]
+      ]
+    },
+    {
+      "key": "GASTON|29A",
+      "county": "GASTON",
+      "precinct": "29A",
+      "votes": [
+        [258,582,25,0],
+        [361,938,42,0]
+      ]
+    },
+    {
+      "key": "GASTON|2A",
+      "county": "GASTON",
+      "precinct": "2A",
+      "votes": [
+        [172,344,11,0],
+        [320,952,25,0]
+      ]
+    },
+    {
+      "key": "GASTON|30A",
+      "county": "GASTON",
+      "precinct": "30A",
+      "votes": [
+        [615,1395,25,0],
+        [424,1661,78,0]
+      ]
+    },
+    {
+      "key": "GASTON|31A",
+      "county": "GASTON",
+      "precinct": "31A",
+      "votes": [
+        [508,1043,31,0],
+        [305,915,41,0]
+      ]
+    },
+    {
+      "key": "GASTON|32A",
+      "county": "GASTON",
+      "precinct": "32A",
+      "votes": [
+        [642,744,23,0],
+        [301,633,32,0]
+      ]
+    },
+    {
+      "key": "GASTON|33A",
+      "county": "GASTON",
+      "precinct": "33A",
+      "votes": [
+        [719,1219,43,0],
+        [330,1117,85,0]
+      ]
+    },
+    {
+      "key": "GASTON|34A",
+      "county": "GASTON",
+      "precinct": "34A",
+      "votes": [
+        [653,736,42,0],
+        [429,980,39,0]
+      ]
+    },
+    {
+      "key": "GASTON|35A",
+      "county": "GASTON",
+      "precinct": "35A",
+      "votes": [
+        [279,304,5,0],
+        [162,284,14,0]
+      ]
+    },
+    {
+      "key": "GASTON|36A",
+      "county": "GASTON",
+      "precinct": "36A",
+      "votes": [
+        [238,307,2,0],
+        [150,272,10,0]
+      ]
+    },
+    {
+      "key": "GASTON|37A",
+      "county": "GASTON",
+      "precinct": "37A",
+      "votes": [
+        [408,539,12,0],
+        [281,700,12,0]
+      ]
+    },
+    {
+      "key": "GASTON|38A",
+      "county": "GASTON",
+      "precinct": "38A",
+      "votes": [
+        [342,414,9,0],
+        [293,570,20,0]
+      ]
+    },
+    {
+      "key": "GASTON|39A",
+      "county": "GASTON",
+      "precinct": "39A",
+      "votes": [
+        [582,623,19,0],
+        [466,783,47,0]
+      ]
+    },
+    {
+      "key": "GASTON|3A",
+      "county": "GASTON",
+      "precinct": "3A",
+      "votes": [
+        [371,714,30,0],
+        [358,1066,38,0]
+      ]
+    },
+    {
+      "key": "GASTON|40A",
+      "county": "GASTON",
+      "precinct": "40A",
+      "votes": [
+        [940,919,37,0],
+        [434,946,59,0]
+      ]
+    },
+    {
+      "key": "GASTON|4A",
+      "county": "GASTON",
+      "precinct": "4A",
+      "votes": [
+        [441,746,13,0],
+        [254,736,33,0]
+      ]
+    },
+    {
+      "key": "GASTON|5A",
+      "county": "GASTON",
+      "precinct": "5A",
+      "votes": [
+        [381,706,9,0],
+        [351,1052,22,0]
+      ]
+    },
+    {
+      "key": "GASTON|6A",
+      "county": "GASTON",
+      "precinct": "6A",
+      "votes": [
+        [541,766,12,0],
+        [260,600,20,0]
+      ]
+    },
+    {
+      "key": "GASTON|7A",
+      "county": "GASTON",
+      "precinct": "7A",
+      "votes": [
+        [219,286,2,0],
+        [177,375,6,0]
+      ]
+    },
+    {
+      "key": "GASTON|8A",
+      "county": "GASTON",
+      "precinct": "8A",
+      "votes": [
+        [484,638,14,0],
+        [192,407,14,0]
+      ]
+    }
+  ],
+  "other": []
+}

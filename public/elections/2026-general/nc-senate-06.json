@@ -1,0 +1,226 @@
+{
+  "raceId": "nc-senate-06",
+  "candidates": [
+    {"name":"Michael Anthony Lazzara","party":"R"},
+    {"name":"Andi Morrow","party":"D"}
+  ],
+  "precincts": [
+    {
+      "key": "ONSLOW|BC21",
+      "county": "ONSLOW",
+      "precinct": "BC21",
+      "votes": [
+        [599,1108,25,0],
+        [223,593,59,0]
+      ]
+    },
+    {
+      "key": "ONSLOW|BM08",
+      "county": "ONSLOW",
+      "precinct": "BM08",
+      "votes": [
+        [499,919,22,0],
+        [417,1196,57,0]
+      ]
+    },
+    {
+      "key": "ONSLOW|CL10",
+      "county": "ONSLOW",
+      "precinct": "CL10",
+      "votes": [
+        [470,510,9,0],
+        [131,274,12,0]
+      ]
+    },
+    {
+      "key": "ONSLOW|CR07",
+      "county": "ONSLOW",
+      "precinct": "CR07",
+      "votes": [
+        [561,797,19,0],
+        [209,519,25,0]
+      ]
+    },
+    {
+      "key": "ONSLOW|EN03",
+      "county": "ONSLOW",
+      "precinct": "EN03",
+      "votes": [
+        [593,1192,43,0],
+        [602,1863,111,0]
+      ]
+    },
+    {
+      "key": "ONSLOW|FS16",
+      "county": "ONSLOW",
+      "precinct": "FS16",
+      "votes": [
+        [669,1175,37,0],
+        [230,596,43,0]
+      ]
+    },
+    {
+      "key": "ONSLOW|GB12",
+      "county": "ONSLOW",
+      "precinct": "GB12",
+      "votes": [
+        [574,1082,18,0],
+        [227,751,37,0]
+      ]
+    },
+    {
+      "key": "ONSLOW|HM05",
+      "county": "ONSLOW",
+      "precinct": "HM05",
+      "votes": [
+        [475,642,9,0],
+        [237,729,41,0]
+      ]
+    },
+    {
+      "key": "ONSLOW|HN14",
+      "county": "ONSLOW",
+      "precinct": "HN14",
+      "votes": [
+        [492,407,6,0],
+        [147,241,10,0]
+      ]
+    },
+    {
+      "key": "ONSLOW|HR17",
+      "county": "ONSLOW",
+      "precinct": "HR17",
+      "votes": [
+        [780,657,10,0],
+        [291,406,30,0]
+      ]
+    },
+    {
+      "key": "ONSLOW|HU20",
+      "county": "ONSLOW",
+      "precinct": "HU20",
+      "votes": [
+        [520,629,14,0],
+        [145,295,18,0]
+      ]
+    },
+    {
+      "key": "ONSLOW|JA01",
+      "county": "ONSLOW",
+      "precinct": "JA01",
+      "votes": [
+        [309,304,13,0],
+        [214,401,47,0]
+      ]
+    },
+    {
+      "key": "ONSLOW|ML23",
+      "county": "ONSLOW",
+      "precinct": "ML23",
+      "votes": [
+        [274,112,4,0],
+        [102,115,9,0]
+      ]
+    },
+    {
+      "key": "ONSLOW|MT24",
+      "county": "ONSLOW",
+      "precinct": "MT24",
+      "votes": [
+        [472,498,7,0],
+        [87,199,19,0]
+      ]
+    },
+    {
+      "key": "ONSLOW|NE22A",
+      "county": "ONSLOW",
+      "precinct": "NE22A",
+      "votes": [
+        [417,420,20,0],
+        [362,750,48,0]
+      ]
+    },
+    {
+      "key": "ONSLOW|NE22B",
+      "county": "ONSLOW",
+      "precinct": "NE22B",
+      "votes": [
+        [641,689,21,0],
+        [372,855,46,0]
+      ]
+    },
+    {
+      "key": "ONSLOW|NM13",
+      "county": "ONSLOW",
+      "precinct": "NM13",
+      "votes": [
+        [329,154,1,0],
+        [32,67,9,0]
+      ]
+    },
+    {
+      "key": "ONSLOW|NR02",
+      "county": "ONSLOW",
+      "precinct": "NR02",
+      "votes": [
+        [48,39,14,0],
+        [125,310,29,0]
+      ]
+    },
+    {
+      "key": "ONSLOW|RL09",
+      "county": "ONSLOW",
+      "precinct": "RL09",
+      "votes": [
+        [577,1247,16,0],
+        [200,768,18,0]
+      ]
+    },
+    {
+      "key": "ONSLOW|SF18",
+      "county": "ONSLOW",
+      "precinct": "SF18",
+      "votes": [
+        [872,1480,34,0],
+        [218,680,57,0]
+      ]
+    },
+    {
+      "key": "ONSLOW|SW19",
+      "county": "ONSLOW",
+      "precinct": "SW19",
+      "votes": [
+        [713,1415,35,0],
+        [217,752,65,0]
+      ]
+    },
+    {
+      "key": "ONSLOW|TL06",
+      "county": "ONSLOW",
+      "precinct": "TL06",
+      "votes": [
+        [503,634,16,0],
+        [164,471,22,0]
+      ]
+    },
+    {
+      "key": "ONSLOW|VR15",
+      "county": "ONSLOW",
+      "precinct": "VR15",
+      "votes": [
+        [375,280,11,0],
+        [105,167,11,0]
+      ]
+    },
+    {
+      "key": "ONSLOW|WN04",
+      "county": "ONSLOW",
+      "precinct": "WN04",
+      "votes": [
+        [606,969,21,0],
+        [238,681,44,0]
+      ]
+    }
+  ],
+  "other": []
+}

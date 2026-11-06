@@ -16,6 +16,8 @@ const nextConfig = {
     // every server function explicitly. Fully static pages are unaffected.
     outputFileTracingIncludes: {
       "/**": ["./.data-index/**/*"],
+      // Find my precinct reads the district and precinct shapes at request time.
+      "/api/find-precinct": ["./public/maps/nc-house.geojson", "./public/maps/nc-senate.geojson", "./public/maps/precincts/**/*"],
     },
   },
   // The site used to live only at ncpolisearch.vercel.app, and Google still

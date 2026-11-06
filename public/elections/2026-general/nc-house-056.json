@@ -1,0 +1,272 @@
+{
+  "raceId": "nc-house-056",
+  "candidates": [
+    {"name":"Allen Buansi","party":"D"},
+    {"name":"Matthew P. Clements","party":"L"}
+  ],
+  "precincts": [
+    {
+      "key": "ORANGE|CB1",
+      "county": "ORANGE",
+      "precinct": "CB1",
+      "votes": [
+        [373,0,0,0],
+        [39,0,0,0]
+      ]
+    },
+    {
+      "key": "ORANGE|CF1",
+      "county": "ORANGE",
+      "precinct": "CF1",
+      "votes": [
+        [445,0,0,0],
+        [106,0,0,0]
+      ]
+    },
+    {
+      "key": "ORANGE|CH",
+      "county": "ORANGE",
+      "precinct": "CH",
+      "votes": [
+        [152,0,0,0],
+        [18,0,0,0]
+      ]
+    },
+    {
+      "key": "ORANGE|CO",
+      "county": "ORANGE",
+      "precinct": "CO",
+      "votes": [
+        [236,0,0,0],
+        [23,0,0,0]
+      ]
+    },
+    {
+      "key": "ORANGE|DA",
+      "county": "ORANGE",
+      "precinct": "DA",
+      "votes": [
+        [448,0,0,0],
+        [63,0,0,0]
+      ]
+    },
+    {
+      "key": "ORANGE|DM",
+      "county": "ORANGE",
+      "precinct": "DM",
+      "votes": [
+        [280,0,0,0],
+        [27,0,0,0]
+      ]
+    },
+    {
+      "key": "ORANGE|EA1",
+      "county": "ORANGE",
+      "precinct": "EA1",
+      "votes": [
+        [178,0,0,0],
+        [22,0,0,0]
+      ]
+    },
+    {
+      "key": "ORANGE|EH",
+      "county": "ORANGE",
+      "precinct": "EH",
+      "votes": [
+        [197,0,0,0],
+        [35,0,0,0]
+      ]
+    },
+    {
+      "key": "ORANGE|ES",
+      "county": "ORANGE",
+      "precinct": "ES",
+      "votes": [
+        [263,0,0,0],
+        [39,0,0,0]
+      ]
+    },
+    {
+      "key": "ORANGE|GL",
+      "county": "ORANGE",
+      "precinct": "GL",
+      "votes": [
+        [327,0,0,0],
+        [71,0,0,0]
+      ]
+    },
+    {
+      "key": "ORANGE|HF",
+      "county": "ORANGE",
+      "precinct": "HF",
+      "votes": [
+        [334,0,0,0],
+        [63,0,0,0]
+      ]
+    },
+    {
+      "key": "ORANGE|KM",
+      "county": "ORANGE",
+      "precinct": "KM",
+      "votes": [
+        [211,0,0,0],
+        [69,0,0,0]
+      ]
+    },
+    {
+      "key": "ORANGE|NC",
+      "county": "ORANGE",
+      "precinct": "NC",
+      "votes": [
+        [227,0,0,0],
+        [32,0,0,0]
+      ]
+    },
+    {
+      "key": "ORANGE|NS",
+      "county": "ORANGE",
+      "precinct": "NS",
+      "votes": [
+        [220,0,0,0],
+        [12,0,0,0]
+      ]
+    },
+    {
+      "key": "ORANGE|OW1",
+      "county": "ORANGE",
+      "precinct": "OW1",
+      "votes": [
+        [377,0,0,0],
+        [43,0,0,0]
+      ]
+    },
+    {
+      "key": "ORANGE|RE",
+      "county": "ORANGE",
+      "precinct": "RE",
+      "votes": [
+        [367,0,0,0],
+        [68,0,0,0]
+      ]
+    },
+    {
+      "key": "ORANGE|RF",
+      "county": "ORANGE",
+      "precinct": "RF",
+      "votes": [
+        [332,0,0,0],
+        [70,0,0,0]
+      ]
+    },
+    {
+      "key": "ORANGE|SJ",
+      "county": "ORANGE",
+      "precinct": "SJ",
+      "votes": [
+        [333,0,0,0],
+        [82,0,0,0]
+      ]
+    },
+    {
+      "key": "ORANGE|TH1",
+      "county": "ORANGE",
+      "precinct": "TH1",
+      "votes": [
+        [184,0,0,0],
+        [22,0,0,0]
+      ]
+    },
+    {
+      "key": "ORANGE|UNC",
+      "county": "ORANGE",
+      "precinct": "UNC",
+      "votes": [
+        [612,0,0,0],
+        [57,0,0,0]
+      ]
+    },
+    {
+      "key": "ORANGE|WW1",
+      "county": "ORANGE",
+      "precinct": "WW1",
+      "votes": [
+        [238,0,0,0],
+        [32,0,0,0]
+      ]
+    }
+  ],
+  "other": [
+    {
+      "county": "ORANGE",
+      "label": "ABSENTEE",
+      "votes": [
+        [0,0,1864,0],
+        [0,0,75,0]
+      ]
+    },
+    {
+      "county": "ORANGE",
+      "label": "EV CHL",
+      "votes": [
+        [0,9060,0,0],
+        [0,518,0,0]
+      ]
+    },
+    {
+      "county": "ORANGE",
+      "label": "EV COTC",
+      "votes": [
+        [0,4290,0,0],
+        [0,222,0,0]
+      ]
+    },
+    {
+      "county": "ORANGE",
+      "label": "EV DL",
+      "votes": [
+        [0,8200,0,0],
+        [0,356,0,0]
+      ]
+    },
+    {
+      "county": "ORANGE",
+      "label": "EV EFC",
+      "votes": [
+        [0,30,0,0],
+        [0,1,0,0]
+      ]
+    },
+    {
+      "county": "ORANGE",
+      "label": "EV OW",
+      "votes": [
+        [0,142,0,0],
+        [0,12,0,0]
+      ]
+    },
+    {
+      "county": "ORANGE",
+      "label": "EV SC",
+      "votes": [
+        [0,5445,0,0],
+        [0,439,0,0]
+      ]
+    },
+    {
+      "county": "ORANGE",
+      "label": "PROVISIONAL",
+      "votes": [
+        [0,0,0,0],
+        [0,0,0,0]
+      ]
+    },
+    {
+      "county": "ORANGE",
+      "label": "TRANSFER",
+      "votes": [
+        [0,0,0,0],
+        [0,0,0,0]
+      ]
+    }
+  ]
+}

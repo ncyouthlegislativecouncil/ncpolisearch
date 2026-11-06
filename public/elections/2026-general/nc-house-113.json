@@ -1,0 +1,295 @@
+{
+  "raceId": "nc-house-113",
+  "candidates": [
+    {"name":"Jake Johnson","party":"R"},
+    {"name":"John Morgan","party":"D"}
+  ],
+  "precincts": [
+    {
+      "key": "HENDERSON|AR",
+      "county": "HENDERSON",
+      "precinct": "AR",
+      "votes": [
+        [162,280,10,0],
+        [108,358,33,0]
+      ]
+    },
+    {
+      "key": "HENDERSON|AT",
+      "county": "HENDERSON",
+      "precinct": "AT",
+      "votes": [
+        [388,900,21,0],
+        [184,907,103,0]
+      ]
+    },
+    {
+      "key": "HENDERSON|CB",
+      "county": "HENDERSON",
+      "precinct": "CB",
+      "votes": [
+        [284,216,4,0],
+        [107,229,17,0]
+      ]
+    },
+    {
+      "key": "HENDERSON|EF",
+      "county": "HENDERSON",
+      "precinct": "EF",
+      "votes": [
+        [231,543,23,0],
+        [181,512,22,0]
+      ]
+    },
+    {
+      "key": "HENDERSON|FR",
+      "county": "HENDERSON",
+      "precinct": "FR",
+      "votes": [
+        [321,847,32,0],
+        [144,1031,86,0]
+      ]
+    },
+    {
+      "key": "HENDERSON|GR",
+      "county": "HENDERSON",
+      "precinct": "GR",
+      "votes": [
+        [588,554,18,0],
+        [136,347,18,0]
+      ]
+    },
+    {
+      "key": "HENDERSON|RR",
+      "county": "HENDERSON",
+      "precinct": "RR",
+      "votes": [
+        [198,185,4,0],
+        [88,219,19,0]
+      ]
+    },
+    {
+      "key": "HENDERSON|SB",
+      "county": "HENDERSON",
+      "precinct": "SB",
+      "votes": [
+        [419,791,18,0],
+        [161,707,33,0]
+      ]
+    },
+    {
+      "key": "MCDOWELL|GLENWD",
+      "county": "MCDOWELL",
+      "precinct": "GLENWD",
+      "votes": [
+        [299,474,10,0],
+        [83,181,9,0]
+      ]
+    },
+    {
+      "key": "MCDOWELL|M.COVE",
+      "county": "MCDOWELL",
+      "precinct": "M.COVE",
+      "votes": [
+        [323,360,1,0],
+        [77,159,8,0]
+      ]
+    },
+    {
+      "key": "POLK|CG05",
+      "county": "POLK",
+      "precinct": "CG05",
+      "votes": [
+        [347,0,0,0],
+        [65,0,0,0]
+      ]
+    },
+    {
+      "key": "POLK|CL07",
+      "county": "POLK",
+      "precinct": "CL07",
+      "votes": [
+        [219,0,0,0],
+        [85,0,0,0]
+      ]
+    },
+    {
+      "key": "POLK|CL08",
+      "county": "POLK",
+      "precinct": "CL08",
+      "votes": [
+        [247,0,0,0],
+        [97,0,0,0]
+      ]
+    },
+    {
+      "key": "POLK|GC09",
+      "county": "POLK",
+      "precinct": "GC09",
+      "votes": [
+        [453,0,0,0],
+        [127,0,0,0]
+      ]
+    },
+    {
+      "key": "POLK|SA04",
+      "county": "POLK",
+      "precinct": "SA04",
+      "votes": [
+        [274,0,0,0],
+        [180,0,0,0]
+      ]
+    },
+    {
+      "key": "POLK|TR123",
+      "county": "POLK",
+      "precinct": "TR123",
+      "votes": [
+        [226,0,0,0],
+        [198,0,0,0]
+      ]
+    },
+    {
+      "key": "POLK|WO06",
+      "county": "POLK",
+      "precinct": "WO06",
+      "votes": [
+        [273,0,0,0],
+        [68,0,0,0]
+      ]
+    },
+    {
+      "key": "RUTHERFORD|13",
+      "county": "RUTHERFORD",
+      "precinct": "13",
+      "votes": [
+        [381,658,10,0],
+        [243,621,31,0]
+      ]
+    },
+    {
+      "key": "RUTHERFORD|14",
+      "county": "RUTHERFORD",
+      "precinct": "14",
+      "votes": [
+        [286,326,3,0],
+        [190,321,13,0]
+      ]
+    },
+    {
+      "key": "RUTHERFORD|16A",
+      "county": "RUTHERFORD",
+      "precinct": "16A",
+      "votes": [
+        [533,582,9,0],
+        [108,281,14,0]
+      ]
+    },
+    {
+      "key": "RUTHERFORD|18",
+      "county": "RUTHERFORD",
+      "precinct": "18",
+      "votes": [
+        [375,447,7,0],
+        [99,275,6,0]
+      ]
+    },
+    {
+      "key": "RUTHERFORD|27",
+      "county": "RUTHERFORD",
+      "precinct": "27",
+      "votes": [
+        [341,742,9,0],
+        [181,642,18,0]
+      ]
+    },
+    {
+      "key": "RUTHERFORD|28",
+      "county": "RUTHERFORD",
+      "precinct": "28",
+      "votes": [
+        [182,340,10,0],
+        [70,205,6,0]
+      ]
+    },
+    {
+      "key": "RUTHERFORD|29",
+      "county": "RUTHERFORD",
+      "precinct": "29",
+      "votes": [
+        [334,248,4,0],
+        [108,214,4,0]
+      ]
+    },
+    {
+      "key": "RUTHERFORD|30",
+      "county": "RUTHERFORD",
+      "precinct": "30",
+      "votes": [
+        [303,465,9,0],
+        [207,493,17,0]
+      ]
+    },
+    {
+      "key": "RUTHERFORD|34",
+      "county": "RUTHERFORD",
+      "precinct": "34",
+      "votes": [
+        [259,327,4,0],
+        [48,150,7,0]
+      ]
+    },
+    {
+      "key": "RUTHERFORD|4A",
+      "county": "RUTHERFORD",
+      "precinct": "04A",
+      "votes": [
+        [430,471,16,0],
+        [112,208,15,0]
+      ]
+    },
+    {
+      "key": "RUTHERFORD|6A",
+      "county": "RUTHERFORD",
+      "precinct": "06A",
+      "votes": [
+        [445,421,22,0],
+        [252,443,43,0]
+      ]
+    }
+  ],
+  "other": [
+    {
+      "county": "POLK",
+      "label": "ABSENTEE",
+      "votes": [
+        [0,0,95,0],
+        [0,0,157,0]
+      ]
+    },
+    {
+      "county": "POLK",
+      "label": "EARLY VOTING",
+      "votes": [
+        [0,3453,0,0],
+        [0,3454,0,0]
+      ]
+    },
+    {
+      "county": "POLK",
+      "label": "PROVISIONAL",
+      "votes": [
+        [0,0,0,0],
+        [0,0,0,0]
+      ]
+    },
+    {
+      "county": "POLK",
+      "label": "TRANSFER",
+      "votes": [
+        [0,0,0,0],
+        [0,0,0,0]
+      ]
+    }
+  ]
+}

@@ -1,0 +1,680 @@
+{
+  "raceId": "nc-senate-05",
+  "candidates": [
+    {"name":"Kandie D. Smith","party":"D"},
+    {"name":"Henry Hostetler","party":"R"}
+  ],
+  "precincts": [
+    {
+      "key": "EDGECOMBE|1001",
+      "county": "EDGECOMBE",
+      "precinct": "1001",
+      "votes": [
+        [166,0,0,0],
+        [196,0,0,0]
+      ]
+    },
+    {
+      "key": "EDGECOMBE|101",
+      "county": "EDGECOMBE",
+      "precinct": "0101",
+      "votes": [
+        [245,0,0,0],
+        [35,0,0,0]
+      ]
+    },
+    {
+      "key": "EDGECOMBE|102",
+      "county": "EDGECOMBE",
+      "precinct": "0102",
+      "votes": [
+        [285,0,0,0],
+        [154,0,0,0]
+      ]
+    },
+    {
+      "key": "EDGECOMBE|103",
+      "county": "EDGECOMBE",
+      "precinct": "0103",
+      "votes": [
+        [195,0,0,0],
+        [200,0,0,0]
+      ]
+    },
+    {
+      "key": "EDGECOMBE|104",
+      "county": "EDGECOMBE",
+      "precinct": "0104",
+      "votes": [
+        [220,0,0,0],
+        [139,0,0,0]
+      ]
+    },
+    {
+      "key": "EDGECOMBE|1101",
+      "county": "EDGECOMBE",
+      "precinct": "1101",
+      "votes": [
+        [63,0,0,0],
+        [137,0,0,0]
+      ]
+    },
+    {
+      "key": "EDGECOMBE|1201",
+      "county": "EDGECOMBE",
+      "precinct": "1201",
+      "votes": [
+        [393,0,0,0],
+        [20,0,0,0]
+      ]
+    },
+    {
+      "key": "EDGECOMBE|1202",
+      "county": "EDGECOMBE",
+      "precinct": "1202",
+      "votes": [
+        [166,0,0,0],
+        [7,0,0,0]
+      ]
+    },
+    {
+      "key": "EDGECOMBE|1203",
+      "county": "EDGECOMBE",
+      "precinct": "1203",
+      "votes": [
+        [250,0,0,0],
+        [294,0,0,0]
+      ]
+    },
+    {
+      "key": "EDGECOMBE|1204",
+      "county": "EDGECOMBE",
+      "precinct": "1204",
+      "votes": [
+        [147,0,0,0],
+        [11,0,0,0]
+      ]
+    },
+    {
+      "key": "EDGECOMBE|1205",
+      "county": "EDGECOMBE",
+      "precinct": "1205",
+      "votes": [
+        [121,0,0,0],
+        [6,0,0,0]
+      ]
+    },
+    {
+      "key": "EDGECOMBE|1301",
+      "county": "EDGECOMBE",
+      "precinct": "1301",
+      "votes": [
+        [59,0,0,0],
+        [167,0,0,0]
+      ]
+    },
+    {
+      "key": "EDGECOMBE|1401",
+      "county": "EDGECOMBE",
+      "precinct": "1401",
+      "votes": [
+        [45,0,0,0],
+        [205,0,0,0]
+      ]
+    },
+    {
+      "key": "EDGECOMBE|201",
+      "county": "EDGECOMBE",
+      "precinct": "0201",
+      "votes": [
+        [110,0,0,0],
+        [147,0,0,0]
+      ]
+    },
+    {
+      "key": "EDGECOMBE|301",
+      "county": "EDGECOMBE",
+      "precinct": "0301",
+      "votes": [
+        [47,0,0,0],
+        [47,0,0,0]
+      ]
+    },
+    {
+      "key": "EDGECOMBE|401",
+      "county": "EDGECOMBE",
+      "precinct": "0401",
+      "votes": [
+        [78,0,0,0],
+        [58,0,0,0]
+      ]
+    },
+    {
+      "key": "EDGECOMBE|501",
+      "county": "EDGECOMBE",
+      "precinct": "0501",
+      "votes": [
+        [75,0,0,0],
+        [65,0,0,0]
+      ]
+    },
+    {
+      "key": "EDGECOMBE|601",
+      "county": "EDGECOMBE",
+      "precinct": "0601",
+      "votes": [
+        [171,0,0,0],
+        [61,0,0,0]
+      ]
+    },
+    {
+      "key": "EDGECOMBE|701",
+      "county": "EDGECOMBE",
+      "precinct": "0701",
+      "votes": [
+        [192,0,0,0],
+        [71,0,0,0]
+      ]
+    },
+    {
+      "key": "EDGECOMBE|801",
+      "county": "EDGECOMBE",
+      "precinct": "0801",
+      "votes": [
+        [98,0,0,0],
+        [196,0,0,0]
+      ]
+    },
+    {
+      "key": "EDGECOMBE|901",
+      "county": "EDGECOMBE",
+      "precinct": "0901",
+      "votes": [
+        [56,0,0,0],
+        [233,0,0,0]
+      ]
+    },
+    {
+      "key": "PITT|1001",
+      "county": "PITT",
+      "precinct": "1001",
+      "votes": [
+        [336,0,0,0],
+        [456,0,0,0]
+      ]
+    },
+    {
+      "key": "PITT|101",
+      "county": "PITT",
+      "precinct": "0101",
+      "votes": [
+        [385,0,0,0],
+        [381,0,0,0]
+      ]
+    },
+    {
+      "key": "PITT|1101",
+      "county": "PITT",
+      "precinct": "1101",
+      "votes": [
+        [93,0,0,0],
+        [193,0,0,0]
+      ]
+    },
+    {
+      "key": "PITT|1102A",
+      "county": "PITT",
+      "precinct": "1102A",
+      "votes": [
+        [261,0,0,0],
+        [355,0,0,0]
+      ]
+    },
+    {
+      "key": "PITT|1102B",
+      "county": "PITT",
+      "precinct": "1102B",
+      "votes": [
+        [240,0,0,0],
+        [583,0,0,0]
+      ]
+    },
+    {
+      "key": "PITT|1201",
+      "county": "PITT",
+      "precinct": "1201",
+      "votes": [
+        [319,0,0,0],
+        [350,0,0,0]
+      ]
+    },
+    {
+      "key": "PITT|1301",
+      "county": "PITT",
+      "precinct": "1301",
+      "votes": [
+        [69,0,0,0],
+        [238,0,0,0]
+      ]
+    },
+    {
+      "key": "PITT|1403A1",
+      "county": "PITT",
+      "precinct": "1403A1",
+      "votes": [
+        [256,0,0,0],
+        [324,0,0,0]
+      ]
+    },
+    {
+      "key": "PITT|1403A2",
+      "county": "PITT",
+      "precinct": "1403A2",
+      "votes": [
+        [261,0,0,0],
+        [261,0,0,0]
+      ]
+    },
+    {
+      "key": "PITT|1403B",
+      "county": "PITT",
+      "precinct": "1403B",
+      "votes": [
+        [286,0,0,0],
+        [334,0,0,0]
+      ]
+    },
+    {
+      "key": "PITT|1501",
+      "county": "PITT",
+      "precinct": "1501",
+      "votes": [
+        [90,0,0,0],
+        [4,0,0,0]
+      ]
+    },
+    {
+      "key": "PITT|1503",
+      "county": "PITT",
+      "precinct": "1503",
+      "votes": [
+        [252,0,0,0],
+        [38,0,0,0]
+      ]
+    },
+    {
+      "key": "PITT|1504A",
+      "county": "PITT",
+      "precinct": "1504A",
+      "votes": [
+        [281,0,0,0],
+        [31,0,0,0]
+      ]
+    },
+    {
+      "key": "PITT|1504B",
+      "county": "PITT",
+      "precinct": "1504B",
+      "votes": [
+        [511,0,0,0],
+        [165,0,0,0]
+      ]
+    },
+    {
+      "key": "PITT|1505A",
+      "county": "PITT",
+      "precinct": "1505A",
+      "votes": [
+        [258,0,0,0],
+        [71,0,0,0]
+      ]
+    },
+    {
+      "key": "PITT|1505B",
+      "county": "PITT",
+      "precinct": "1505B",
+      "votes": [
+        [341,0,0,0],
+        [29,0,0,0]
+      ]
+    },
+    {
+      "key": "PITT|1506",
+      "county": "PITT",
+      "precinct": "1506",
+      "votes": [
+        [166,0,0,0],
+        [58,0,0,0]
+      ]
+    },
+    {
+      "key": "PITT|1507",
+      "county": "PITT",
+      "precinct": "1507",
+      "votes": [
+        [216,0,0,0],
+        [128,0,0,0]
+      ]
+    },
+    {
+      "key": "PITT|1507B",
+      "county": "PITT",
+      "precinct": "1507B",
+      "votes": [
+        [109,0,0,0],
+        [64,0,0,0]
+      ]
+    },
+    {
+      "key": "PITT|1508A",
+      "county": "PITT",
+      "precinct": "1508A",
+      "votes": [
+        [85,0,0,0],
+        [62,0,0,0]
+      ]
+    },
+    {
+      "key": "PITT|1508B",
+      "county": "PITT",
+      "precinct": "1508B",
+      "votes": [
+        [230,0,0,0],
+        [127,0,0,0]
+      ]
+    },
+    {
+      "key": "PITT|1509",
+      "county": "PITT",
+      "precinct": "1509",
+      "votes": [
+        [298,0,0,0],
+        [355,0,0,0]
+      ]
+    },
+    {
+      "key": "PITT|1510A",
+      "county": "PITT",
+      "precinct": "1510A",
+      "votes": [
+        [218,0,0,0],
+        [352,0,0,0]
+      ]
+    },
+    {
+      "key": "PITT|1510B",
+      "county": "PITT",
+      "precinct": "1510B",
+      "votes": [
+        [216,0,0,0],
+        [248,0,0,0]
+      ]
+    },
+    {
+      "key": "PITT|1511A",
+      "county": "PITT",
+      "precinct": "1511A",
+      "votes": [
+        [294,0,0,0],
+        [554,0,0,0]
+      ]
+    },
+    {
+      "key": "PITT|1511B",
+      "county": "PITT",
+      "precinct": "1511B",
+      "votes": [
+        [316,0,0,0],
+        [219,0,0,0]
+      ]
+    },
+    {
+      "key": "PITT|1512A",
+      "county": "PITT",
+      "precinct": "1512A",
+      "votes": [
+        [562,0,0,0],
+        [356,0,0,0]
+      ]
+    },
+    {
+      "key": "PITT|1512B",
+      "county": "PITT",
+      "precinct": "1512B",
+      "votes": [
+        [330,0,0,0],
+        [207,0,0,0]
+      ]
+    },
+    {
+      "key": "PITT|1513A",
+      "county": "PITT",
+      "precinct": "1513A",
+      "votes": [
+        [225,0,0,0],
+        [303,0,0,0]
+      ]
+    },
+    {
+      "key": "PITT|1513B",
+      "county": "PITT",
+      "precinct": "1513B",
+      "votes": [
+        [190,0,0,0],
+        [241,0,0,0]
+      ]
+    },
+    {
+      "key": "PITT|200A",
+      "county": "PITT",
+      "precinct": "0200A",
+      "votes": [
+        [246,0,0,0],
+        [358,0,0,0]
+      ]
+    },
+    {
+      "key": "PITT|200B",
+      "county": "PITT",
+      "precinct": "0200B",
+      "votes": [
+        [281,0,0,0],
+        [270,0,0,0]
+      ]
+    },
+    {
+      "key": "PITT|301",
+      "county": "PITT",
+      "precinct": "0301",
+      "votes": [
+        [340,0,0,0],
+        [248,0,0,0]
+      ]
+    },
+    {
+      "key": "PITT|401",
+      "county": "PITT",
+      "precinct": "0401",
+      "votes": [
+        [227,0,0,0],
+        [199,0,0,0]
+      ]
+    },
+    {
+      "key": "PITT|501",
+      "county": "PITT",
+      "precinct": "0501",
+      "votes": [
+        [80,0,0,0],
+        [230,0,0,0]
+      ]
+    },
+    {
+      "key": "PITT|601",
+      "county": "PITT",
+      "precinct": "0601",
+      "votes": [
+        [195,0,0,0],
+        [748,0,0,0]
+      ]
+    },
+    {
+      "key": "PITT|701",
+      "county": "PITT",
+      "precinct": "0701",
+      "votes": [
+        [159,0,0,0],
+        [402,0,0,0]
+      ]
+    },
+    {
+      "key": "PITT|800A",
+      "county": "PITT",
+      "precinct": "0800A",
+      "votes": [
+        [434,0,0,0],
+        [479,0,0,0]
+      ]
+    },
+    {
+      "key": "PITT|800B",
+      "county": "PITT",
+      "precinct": "0800B",
+      "votes": [
+        [365,0,0,0],
+        [354,0,0,0]
+      ]
+    },
+    {
+      "key": "PITT|901",
+      "county": "PITT",
+      "precinct": "0901",
+      "votes": [
+        [135,0,0,0],
+        [201,0,0,0]
+      ]
+    }
+  ],
+  "other": [
+    {
+      "county": "EDGECOMBE",
+      "label": "ABSENTEE",
+      "votes": [
+        [0,0,119,0],
+        [0,0,32,0]
+      ]
+    },
+    {
+      "county": "EDGECOMBE",
+      "label": "EV-BOE",
+      "votes": [
+        [0,3715,0,0],
+        [0,1711,0,0]
+      ]
+    },
+    {
+      "county": "EDGECOMBE",
+      "label": "EV-PINETOPS",
+      "votes": [
+        [0,872,0,0],
+        [0,796,0,0]
+      ]
+    },
+    {
+      "county": "EDGECOMBE",
+      "label": "EV-ROCKY MT",
+      "votes": [
+        [0,4398,0,0],
+        [0,634,0,0]
+      ]
+    },
+    {
+      "county": "EDGECOMBE",
+      "label": "PROVISIONAL",
+      "votes": [
+        [0,0,0,0],
+        [0,0,0,0]
+      ]
+    },
+    {
+      "county": "EDGECOMBE",
+      "label": "TRANSFER",
+      "votes": [
+        [0,0,0,0],
+        [0,0,0,0]
+      ]
+    },
+    {
+      "county": "PITT",
+      "label": "ABSENTEE",
+      "votes": [
+        [0,0,658,0],
+        [0,0,201,0]
+      ]
+    },
+    {
+      "county": "PITT",
+      "label": "EV AG CENTER",
+      "votes": [
+        [0,4110,0,0],
+        [0,1774,0,0]
+      ]
+    },
+    {
+      "county": "PITT",
+      "label": "EV COMMUNITY SCH",
+      "votes": [
+        [0,5304,0,0],
+        [0,4623,0,0]
+      ]
+    },
+    {
+      "county": "PITT",
+      "label": "EV COUNTY OFFICE",
+      "votes": [
+        [0,4510,0,0],
+        [0,829,0,0]
+      ]
+    },
+    {
+      "county": "PITT",
+      "label": "EV EASTERN PITT",
+      "votes": [
+        [0,1104,0,0],
+        [0,1507,0,0]
+      ]
+    },
+    {
+      "county": "PITT",
+      "label": "EV STUDENT CENT",
+      "votes": [
+        [0,4696,0,0],
+        [0,1153,0,0]
+      ]
+    },
+    {
+      "county": "PITT",
+      "label": "EV WINTERVILLE",
+      "votes": [
+        [0,6622,0,0],
+        [0,4353,0,0]
+      ]
+    },
+    {
+      "county": "PITT",
+      "label": "PROVISIONAL",
+      "votes": [
+        [0,0,0,0],
+        [0,0,0,0]
+      ]
+    },
+    {
+      "county": "PITT",
+      "label": "TRANSFER",
+      "votes": [
+        [0,0,0,0],
+        [0,0,0,0]
+      ]
+    }
+  ]
+}

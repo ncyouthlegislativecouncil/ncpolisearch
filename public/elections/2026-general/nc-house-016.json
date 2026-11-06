@@ -1,0 +1,154 @@
+{
+  "raceId": "nc-house-016",
+  "candidates": [
+    {"name":"Carson Smith","party":"R"},
+    {"name":"Jim Harris","party":"D"}
+  ],
+  "precincts": [
+    {
+      "key": "ONSLOW|FS16",
+      "county": "ONSLOW",
+      "precinct": "FS16",
+      "votes": [
+        [664,1168,35,0],
+        [230,599,46,0]
+      ]
+    },
+    {
+      "key": "ONSLOW|HN14",
+      "county": "ONSLOW",
+      "precinct": "HN14",
+      "votes": [
+        [475,405,5,0],
+        [163,243,11,0]
+      ]
+    },
+    {
+      "key": "ONSLOW|HR17",
+      "county": "ONSLOW",
+      "precinct": "HR17",
+      "votes": [
+        [772,655,9,0],
+        [307,403,31,0]
+      ]
+    },
+    {
+      "key": "ONSLOW|SF18",
+      "county": "ONSLOW",
+      "precinct": "SF18",
+      "votes": [
+        [862,1465,31,0],
+        [222,690,60,0]
+      ]
+    },
+    {
+      "key": "PENDER|BW01",
+      "county": "PENDER",
+      "precinct": "BW01",
+      "votes": [
+        [457,1205,27,0],
+        [224,838,24,0]
+      ]
+    },
+    {
+      "key": "PENDER|CL05",
+      "county": "PENDER",
+      "precinct": "CL05",
+      "votes": [
+        [135,147,2,0],
+        [193,259,4,0]
+      ]
+    },
+    {
+      "key": "PENDER|LT18",
+      "county": "PENDER",
+      "precinct": "LT18",
+      "votes": [
+        [650,1431,26,0],
+        [237,809,57,0]
+      ]
+    },
+    {
+      "key": "PENDER|MC07",
+      "county": "PENDER",
+      "precinct": "MC07",
+      "votes": [
+        [257,417,3,0],
+        [258,442,12,0]
+      ]
+    },
+    {
+      "key": "PENDER|MT19",
+      "county": "PENDER",
+      "precinct": "MT19",
+      "votes": [
+        [399,1067,17,0],
+        [156,687,30,0]
+      ]
+    },
+    {
+      "key": "PENDER|PL18",
+      "county": "PENDER",
+      "precinct": "PL18",
+      "votes": [
+        [377,468,4,0],
+        [148,263,6,0]
+      ]
+    },
+    {
+      "key": "PENDER|RP21",
+      "county": "PENDER",
+      "precinct": "RP21",
+      "votes": [
+        [689,1235,32,0],
+        [347,909,59,0]
+      ]
+    },
+    {
+      "key": "PENDER|SC13",
+      "county": "PENDER",
+      "precinct": "SC13",
+      "votes": [
+        [728,882,23,0],
+        [333,695,34,0]
+      ]
+    },
+    {
+      "key": "PENDER|SH12",
+      "county": "PENDER",
+      "precinct": "SH12",
+      "votes": [
+        [414,676,11,0],
+        [197,473,26,0]
+      ]
+    },
+    {
+      "key": "PENDER|SP15",
+      "county": "PENDER",
+      "precinct": "SP15",
+      "votes": [
+        [594,998,32,0],
+        [313,709,56,0]
+      ]
+    },
+    {
+      "key": "PENDER|UH08",
+      "county": "PENDER",
+      "precinct": "UH08",
+      "votes": [
+        [79,54,1,0],
+        [190,90,3,0]
+      ]
+    },
+    {
+      "key": "PENDER|UT14",
+      "county": "PENDER",
+      "precinct": "UT14",
+      "votes": [
+        [601,1210,27,0],
+        [233,732,60,0]
+      ]
+    }
+  ],
+  "other": []
+}

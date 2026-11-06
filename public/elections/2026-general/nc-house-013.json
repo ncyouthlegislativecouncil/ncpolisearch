@@ -1,0 +1,262 @@
+{
+  "raceId": "nc-house-013",
+  "candidates": [
+    {"name":"Celeste Cairns","party":"R"},
+    {"name":"Jason Moore","party":"D"}
+  ],
+  "precincts": [
+    {
+      "key": "CARTERET|ABCH",
+      "county": "CARTERET",
+      "precinct": "ABCH",
+      "votes": [
+        [293,310,16,0],
+        [94,160,14,0]
+      ]
+    },
+    {
+      "key": "CARTERET|ASCI",
+      "county": "CARTERET",
+      "precinct": "ASCI",
+      "votes": [
+        [171,165,3,0],
+        [53,51,2,0]
+      ]
+    },
+    {
+      "key": "CARTERET|BCRK",
+      "county": "CARTERET",
+      "precinct": "BCRK",
+      "votes": [
+        [369,556,3,0],
+        [69,255,6,0]
+      ]
+    },
+    {
+      "key": "CARTERET|BFT1",
+      "county": "CARTERET",
+      "precinct": "BFT1",
+      "votes": [
+        [97,298,5,0],
+        [110,436,22,0]
+      ]
+    },
+    {
+      "key": "CARTERET|BFT2",
+      "county": "CARTERET",
+      "precinct": "BFT2",
+      "votes": [
+        [279,1090,12,0],
+        [174,922,34,0]
+      ]
+    },
+    {
+      "key": "CARTERET|BOGE",
+      "county": "CARTERET",
+      "precinct": "BOGE",
+      "votes": [
+        [513,985,18,0],
+        [141,343,18,0]
+      ]
+    },
+    {
+      "key": "CARTERET|CAPE",
+      "county": "CARTERET",
+      "precinct": "CAPE",
+      "votes": [
+        [425,1367,26,0],
+        [110,536,28,0]
+      ]
+    },
+    {
+      "key": "CARTERET|DASW",
+      "county": "CARTERET",
+      "precinct": "DASW",
+      "votes": [
+        [188,141,1,0],
+        [33,59,2,0]
+      ]
+    },
+    {
+      "key": "CARTERET|HAIS",
+      "county": "CARTERET",
+      "precinct": "HAIS",
+      "votes": [
+        [265,287,7,0],
+        [40,98,4,0]
+      ]
+    },
+    {
+      "key": "CARTERET|IBPK",
+      "county": "CARTERET",
+      "precinct": "IBPK",
+      "votes": [
+        [397,395,21,0],
+        [175,280,28,0]
+      ]
+    },
+    {
+      "key": "CARTERET|ISLE",
+      "county": "CARTERET",
+      "precinct": "ISLE",
+      "votes": [
+        [539,1298,25,0],
+        [175,746,54,0]
+      ]
+    },
+    {
+      "key": "CARTERET|MASM",
+      "county": "CARTERET",
+      "precinct": "MASM",
+      "votes": [
+        [117,166,1,0],
+        [49,103,4,0]
+      ]
+    },
+    {
+      "key": "CARTERET|MCRK",
+      "county": "CARTERET",
+      "precinct": "MCRK",
+      "votes": [
+        [165,90,1,0],
+        [31,28,1,0]
+      ]
+    },
+    {
+      "key": "CARTERET|MERR",
+      "county": "CARTERET",
+      "precinct": "MERR",
+      "votes": [
+        [104,109,4,0],
+        [47,81,2,0]
+      ]
+    },
+    {
+      "key": "CARTERET|MHD1",
+      "county": "CARTERET",
+      "precinct": "MHD1",
+      "votes": [
+        [497,513,11,0],
+        [189,362,16,0]
+      ]
+    },
+    {
+      "key": "CARTERET|MHD2",
+      "county": "CARTERET",
+      "precinct": "MHD2",
+      "votes": [
+        [407,508,19,0],
+        [243,394,17,0]
+      ]
+    },
+    {
+      "key": "CARTERET|MHD3",
+      "county": "CARTERET",
+      "precinct": "MHD3",
+      "votes": [
+        [590,736,6,0],
+        [266,482,28,0]
+      ]
+    },
+    {
+      "key": "CARTERET|MHD4",
+      "county": "CARTERET",
+      "precinct": "MHD4",
+      "votes": [
+        [448,920,21,0],
+        [126,489,23,0]
+      ]
+    },
+    {
+      "key": "CARTERET|NPT1",
+      "county": "CARTERET",
+      "precinct": "NPT1",
+      "votes": [
+        [383,854,5,0],
+        [145,426,20,0]
+      ]
+    },
+    {
+      "key": "CARTERET|NPT2",
+      "county": "CARTERET",
+      "precinct": "NPT2",
+      "votes": [
+        [381,919,10,0],
+        [106,355,10,0]
+      ]
+    },
+    {
+      "key": "CARTERET|NRIV",
+      "county": "CARTERET",
+      "precinct": "NRIV",
+      "votes": [
+        [42,134,0,0],
+        [71,169,3,0]
+      ]
+    },
+    {
+      "key": "CARTERET|OTBEG",
+      "county": "CARTERET",
+      "precinct": "OTBEG",
+      "votes": [
+        [268,532,8,0],
+        [89,244,22,0]
+      ]
+    },
+    {
+      "key": "CARTERET|PELE",
+      "county": "CARTERET",
+      "precinct": "PELE",
+      "votes": [
+        [257,493,10,0],
+        [59,182,12,0]
+      ]
+    },
+    {
+      "key": "CARTERET|STEL",
+      "county": "CARTERET",
+      "precinct": "STEL",
+      "votes": [
+        [349,523,7,0],
+        [85,204,6,0]
+      ]
+    },
+    {
+      "key": "CARTERET|WIHA",
+      "county": "CARTERET",
+      "precinct": "WIHA",
+      "votes": [
+        [248,655,17,0],
+        [75,277,8,0]
+      ]
+    },
+    {
+      "key": "CARTERET|WILD",
+      "county": "CARTERET",
+      "precinct": "WILD",
+      "votes": [
+        [345,900,10,0],
+        [150,452,24,0]
+      ]
+    },
+    {
+      "key": "CRAVEN|19",
+      "county": "CRAVEN",
+      "precinct": "19",
+      "votes": [
+        [268,672,7,0],
+        [255,650,19,0]
+      ]
+    },
+    {
+      "key": "CRAVEN|2",
+      "county": "CRAVEN",
+      "precinct": "02",
+      "votes": [
+        [327,876,13,0],
+        [277,920,27,0]
+      ]
+    }
+  ],
+  "other": []
+}

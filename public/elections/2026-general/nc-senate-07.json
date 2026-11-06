@@ -1,0 +1,390 @@
+{
+  "raceId": "nc-senate-07",
+  "candidates": [
+    {"name":"Jessica Bichler","party":"D"},
+    {"name":"Michael Lee","party":"R"}
+  ],
+  "precincts": [
+    {
+      "key": "NEW HANOVER|CF01",
+      "county": "NEW HANOVER",
+      "precinct": "CF01",
+      "votes": [
+        [529,0,0,0],
+        [645,0,0,0]
+      ]
+    },
+    {
+      "key": "NEW HANOVER|CF02",
+      "county": "NEW HANOVER",
+      "precinct": "CF02",
+      "votes": [
+        [234,0,0,0],
+        [475,0,0,0]
+      ]
+    },
+    {
+      "key": "NEW HANOVER|CF05",
+      "county": "NEW HANOVER",
+      "precinct": "CF05",
+      "votes": [
+        [312,0,0,0],
+        [357,0,0,0]
+      ]
+    },
+    {
+      "key": "NEW HANOVER|CF06",
+      "county": "NEW HANOVER",
+      "precinct": "CF06",
+      "votes": [
+        [259,0,0,0],
+        [346,0,0,0]
+      ]
+    },
+    {
+      "key": "NEW HANOVER|FP03",
+      "county": "NEW HANOVER",
+      "precinct": "FP03",
+      "votes": [
+        [164,0,0,0],
+        [295,0,0,0]
+      ]
+    },
+    {
+      "key": "NEW HANOVER|FP04",
+      "county": "NEW HANOVER",
+      "precinct": "FP04",
+      "votes": [
+        [460,0,0,0],
+        [797,0,0,0]
+      ]
+    },
+    {
+      "key": "NEW HANOVER|FP06",
+      "county": "NEW HANOVER",
+      "precinct": "FP06",
+      "votes": [
+        [364,0,0,0],
+        [453,0,0,0]
+      ]
+    },
+    {
+      "key": "NEW HANOVER|FP07",
+      "county": "NEW HANOVER",
+      "precinct": "FP07",
+      "votes": [
+        [344,0,0,0],
+        [548,0,0,0]
+      ]
+    },
+    {
+      "key": "NEW HANOVER|FP08",
+      "county": "NEW HANOVER",
+      "precinct": "FP08",
+      "votes": [
+        [344,0,0,0],
+        [573,0,0,0]
+      ]
+    },
+    {
+      "key": "NEW HANOVER|H01",
+      "county": "NEW HANOVER",
+      "precinct": "H01",
+      "votes": [
+        [137,0,0,0],
+        [175,0,0,0]
+      ]
+    },
+    {
+      "key": "NEW HANOVER|H02",
+      "county": "NEW HANOVER",
+      "precinct": "H02",
+      "votes": [
+        [163,0,0,0],
+        [473,0,0,0]
+      ]
+    },
+    {
+      "key": "NEW HANOVER|H04",
+      "county": "NEW HANOVER",
+      "precinct": "H04",
+      "votes": [
+        [319,0,0,0],
+        [411,0,0,0]
+      ]
+    },
+    {
+      "key": "NEW HANOVER|H05",
+      "county": "NEW HANOVER",
+      "precinct": "H05",
+      "votes": [
+        [221,0,0,0],
+        [411,0,0,0]
+      ]
+    },
+    {
+      "key": "NEW HANOVER|H06",
+      "county": "NEW HANOVER",
+      "precinct": "H06",
+      "votes": [
+        [310,0,0,0],
+        [399,0,0,0]
+      ]
+    },
+    {
+      "key": "NEW HANOVER|H08",
+      "county": "NEW HANOVER",
+      "precinct": "H08",
+      "votes": [
+        [507,0,0,0],
+        [961,0,0,0]
+      ]
+    },
+    {
+      "key": "NEW HANOVER|H10",
+      "county": "NEW HANOVER",
+      "precinct": "H10",
+      "votes": [
+        [409,0,0,0],
+        [340,0,0,0]
+      ]
+    },
+    {
+      "key": "NEW HANOVER|H11",
+      "county": "NEW HANOVER",
+      "precinct": "H11",
+      "votes": [
+        [473,0,0,0],
+        [631,0,0,0]
+      ]
+    },
+    {
+      "key": "NEW HANOVER|H12",
+      "county": "NEW HANOVER",
+      "precinct": "H12",
+      "votes": [
+        [335,0,0,0],
+        [519,0,0,0]
+      ]
+    },
+    {
+      "key": "NEW HANOVER|H13",
+      "county": "NEW HANOVER",
+      "precinct": "H13",
+      "votes": [
+        [446,0,0,0],
+        [810,0,0,0]
+      ]
+    },
+    {
+      "key": "NEW HANOVER|M02",
+      "county": "NEW HANOVER",
+      "precinct": "M02",
+      "votes": [
+        [578,0,0,0],
+        [870,0,0,0]
+      ]
+    },
+    {
+      "key": "NEW HANOVER|M03",
+      "county": "NEW HANOVER",
+      "precinct": "M03",
+      "votes": [
+        [552,0,0,0],
+        [788,0,0,0]
+      ]
+    },
+    {
+      "key": "NEW HANOVER|M04",
+      "county": "NEW HANOVER",
+      "precinct": "M04",
+      "votes": [
+        [555,0,0,0],
+        [637,0,0,0]
+      ]
+    },
+    {
+      "key": "NEW HANOVER|M06",
+      "county": "NEW HANOVER",
+      "precinct": "M06",
+      "votes": [
+        [214,0,0,0],
+        [334,0,0,0]
+      ]
+    },
+    {
+      "key": "NEW HANOVER|M07",
+      "county": "NEW HANOVER",
+      "precinct": "M07",
+      "votes": [
+        [182,0,0,0],
+        [374,0,0,0]
+      ]
+    },
+    {
+      "key": "NEW HANOVER|W08",
+      "county": "NEW HANOVER",
+      "precinct": "W08",
+      "votes": [
+        [132,0,0,0],
+        [89,0,0,0]
+      ]
+    },
+    {
+      "key": "NEW HANOVER|W16",
+      "county": "NEW HANOVER",
+      "precinct": "W16",
+      "votes": [
+        [249,0,0,0],
+        [377,0,0,0]
+      ]
+    },
+    {
+      "key": "NEW HANOVER|W17",
+      "county": "NEW HANOVER",
+      "precinct": "W17",
+      "votes": [
+        [229,0,0,0],
+        [316,0,0,0]
+      ]
+    },
+    {
+      "key": "NEW HANOVER|W21",
+      "county": "NEW HANOVER",
+      "precinct": "W21",
+      "votes": [
+        [461,0,0,0],
+        [352,0,0,0]
+      ]
+    },
+    {
+      "key": "NEW HANOVER|W26",
+      "county": "NEW HANOVER",
+      "precinct": "W26",
+      "votes": [
+        [391,0,0,0],
+        [188,0,0,0]
+      ]
+    },
+    {
+      "key": "NEW HANOVER|W30",
+      "county": "NEW HANOVER",
+      "precinct": "W30",
+      "votes": [
+        [544,0,0,0],
+        [442,0,0,0]
+      ]
+    },
+    {
+      "key": "NEW HANOVER|W31",
+      "county": "NEW HANOVER",
+      "precinct": "W31",
+      "votes": [
+        [348,0,0,0],
+        [443,0,0,0]
+      ]
+    },
+    {
+      "key": "NEW HANOVER|W33",
+      "county": "NEW HANOVER",
+      "precinct": "W33",
+      "votes": [
+        [477,0,0,0],
+        [753,0,0,0]
+      ]
+    },
+    {
+      "key": "NEW HANOVER|W34",
+      "county": "NEW HANOVER",
+      "precinct": "W34",
+      "votes": [
+        [555,0,0,0],
+        [210,0,0,0]
+      ]
+    },
+    {
+      "key": "NEW HANOVER|W35",
+      "county": "NEW HANOVER",
+      "precinct": "W35",
+      "votes": [
+        [505,0,0,0],
+        [264,0,0,0]
+      ]
+    },
+    {
+      "key": "NEW HANOVER|WB",
+      "county": "NEW HANOVER",
+      "precinct": "WB",
+      "votes": [
+        [225,0,0,0],
+        [389,0,0,0]
+      ]
+    }
+  ],
+  "other": [
+    {
+      "county": "NEW HANOVER",
+      "label": "ABSENTEE MAIL",
+      "votes": [
+        [0,0,2033,0],
+        [0,0,821,0]
+      ]
+    },
+    {
+      "county": "NEW HANOVER",
+      "label": "EV BOE",
+      "votes": [
+        [0,6511,0,0],
+        [0,4773,0,0]
+      ]
+    },
+    {
+      "county": "NEW HANOVER",
+      "label": "EV CAB",
+      "votes": [
+        [0,4510,0,0],
+        [0,5256,0,0]
+      ]
+    },
+    {
+      "county": "NEW HANOVER",
+      "label": "EV MLK",
+      "votes": [
+        [0,2454,0,0],
+        [0,383,0,0]
+      ]
+    },
+    {
+      "county": "NEW HANOVER",
+      "label": "EV NLB",
+      "votes": [
+        [0,9673,0,0],
+        [0,8626,0,0]
+      ]
+    },
+    {
+      "county": "NEW HANOVER",
+      "label": "EV PVL",
+      "votes": [
+        [0,10602,0,0],
+        [0,7165,0,0]
+      ]
+    },
+    {
+      "county": "NEW HANOVER",
+      "label": "PROVISIONAL",
+      "votes": [
+        [0,0,0,0],
+        [0,0,0,0]
+      ]
+    },
+    {
+      "county": "NEW HANOVER",
+      "label": "TRANSFER",
+      "votes": [
+        [0,0,0,0],
+        [0,0,0,0]
+      ]
+    }
+  ]
+}

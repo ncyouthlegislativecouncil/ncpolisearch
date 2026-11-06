@@ -1,0 +1,289 @@
+{
+  "raceId": "nc-house-046",
+  "candidates": [
+    {"name":"Brenden H. Jones","party":"R"},
+    {"name":"Brittany Newton","party":"D"}
+  ],
+  "precincts": [
+    {
+      "key": "COLUMBUS|P02B",
+      "county": "COLUMBUS",
+      "precinct": "P02B",
+      "votes": [
+        [137,68,2,0],
+        [123,167,10,0]
+      ]
+    },
+    {
+      "key": "COLUMBUS|P06",
+      "county": "COLUMBUS",
+      "precinct": "P06",
+      "votes": [
+        [173,140,1,0],
+        [60,47,1,0]
+      ]
+    },
+    {
+      "key": "COLUMBUS|P07",
+      "county": "COLUMBUS",
+      "precinct": "P07",
+      "votes": [
+        [267,368,2,0],
+        [234,468,6,0]
+      ]
+    },
+    {
+      "key": "COLUMBUS|P117",
+      "county": "COLUMBUS",
+      "precinct": "P117",
+      "votes": [
+        [307,278,6,0],
+        [222,457,15,0]
+      ]
+    },
+    {
+      "key": "COLUMBUS|P121",
+      "county": "COLUMBUS",
+      "precinct": "P121",
+      "votes": [
+        [441,279,2,0],
+        [82,88,3,0]
+      ]
+    },
+    {
+      "key": "COLUMBUS|P14",
+      "county": "COLUMBUS",
+      "precinct": "P14",
+      "votes": [
+        [316,515,3,0],
+        [172,688,11,0]
+      ]
+    },
+    {
+      "key": "COLUMBUS|P15",
+      "county": "COLUMBUS",
+      "precinct": "P15",
+      "votes": [
+        [288,290,6,0],
+        [128,314,5,0]
+      ]
+    },
+    {
+      "key": "COLUMBUS|P16B",
+      "county": "COLUMBUS",
+      "precinct": "P16B",
+      "votes": [
+        [388,266,13,0],
+        [117,152,8,0]
+      ]
+    },
+    {
+      "key": "COLUMBUS|P19",
+      "county": "COLUMBUS",
+      "precinct": "P19",
+      "votes": [
+        [231,312,21,0],
+        [166,427,25,0]
+      ]
+    },
+    {
+      "key": "COLUMBUS|P223",
+      "county": "COLUMBUS",
+      "precinct": "P223",
+      "votes": [
+        [218,402,5,0],
+        [188,478,13,0]
+      ]
+    },
+    {
+      "key": "COLUMBUS|P22A",
+      "county": "COLUMBUS",
+      "precinct": "P22A",
+      "votes": [
+        [269,295,5,0],
+        [106,208,4,0]
+      ]
+    },
+    {
+      "key": "COLUMBUS|P245",
+      "county": "COLUMBUS",
+      "precinct": "P245",
+      "votes": [
+        [660,629,7,0],
+        [74,113,1,0]
+      ]
+    },
+    {
+      "key": "COLUMBUS|P26B",
+      "county": "COLUMBUS",
+      "precinct": "P26B",
+      "votes": [
+        [320,442,6,0],
+        [175,325,14,0]
+      ]
+    },
+    {
+      "key": "COLUMBUS|P534",
+      "county": "COLUMBUS",
+      "precinct": "P534",
+      "votes": [
+        [445,259,4,0],
+        [145,148,6,0]
+      ]
+    },
+    {
+      "key": "COLUMBUS|P82",
+      "county": "COLUMBUS",
+      "precinct": "P82",
+      "votes": [
+        [262,282,4,0],
+        [99,201,7,0]
+      ]
+    },
+    {
+      "key": "COLUMBUS|P89",
+      "county": "COLUMBUS",
+      "precinct": "P89",
+      "votes": [
+        [187,237,2,0],
+        [74,145,4,0]
+      ]
+    },
+    {
+      "key": "ROBESON|10",
+      "county": "ROBESON",
+      "precinct": "10",
+      "votes": [
+        [142,89,0,0],
+        [108,124,3,0]
+      ]
+    },
+    {
+      "key": "ROBESON|13",
+      "county": "ROBESON",
+      "precinct": "13",
+      "votes": [
+        [0,2,0,0],
+        [0,0,0,0]
+      ]
+    },
+    {
+      "key": "ROBESON|14",
+      "county": "ROBESON",
+      "precinct": "14",
+      "votes": [
+        [0,0,0,0],
+        [0,0,0,0]
+      ]
+    },
+    {
+      "key": "ROBESON|15",
+      "county": "ROBESON",
+      "precinct": "15",
+      "votes": [
+        [0,1,0,0],
+        [0,0,0,0]
+      ]
+    },
+    {
+      "key": "ROBESON|20",
+      "county": "ROBESON",
+      "precinct": "20",
+      "votes": [
+        [188,86,1,0],
+        [89,136,6,0]
+      ]
+    },
+    {
+      "key": "ROBESON|21",
+      "county": "ROBESON",
+      "precinct": "21",
+      "votes": [
+        [293,213,5,0],
+        [200,289,4,0]
+      ]
+    },
+    {
+      "key": "ROBESON|28",
+      "county": "ROBESON",
+      "precinct": "28",
+      "votes": [
+        [193,88,1,0],
+        [96,75,3,0]
+      ]
+    },
+    {
+      "key": "ROBESON|3",
+      "county": "ROBESON",
+      "precinct": "03",
+      "votes": [
+        [323,211,0,0],
+        [83,170,3,0]
+      ]
+    },
+    {
+      "key": "ROBESON|30",
+      "county": "ROBESON",
+      "precinct": "30",
+      "votes": [
+        [0,0,0,0],
+        [0,0,0,0]
+      ]
+    },
+    {
+      "key": "ROBESON|32A",
+      "county": "ROBESON",
+      "precinct": "32A",
+      "votes": [
+        [393,535,6,0],
+        [367,727,19,0]
+      ]
+    },
+    {
+      "key": "ROBESON|33",
+      "county": "ROBESON",
+      "precinct": "33",
+      "votes": [
+        [81,42,0,0],
+        [57,69,0,0]
+      ]
+    },
+    {
+      "key": "ROBESON|37",
+      "county": "ROBESON",
+      "precinct": "37",
+      "votes": [
+        [159,75,1,0],
+        [14,24,1,0]
+      ]
+    },
+    {
+      "key": "ROBESON|41",
+      "county": "ROBESON",
+      "precinct": "41",
+      "votes": [
+        [551,397,4,0],
+        [143,193,5,0]
+      ]
+    },
+    {
+      "key": "ROBESON|8",
+      "county": "ROBESON",
+      "precinct": "08",
+      "votes": [
+        [354,257,2,0],
+        [74,131,3,0]
+      ]
+    },
+    {
+      "key": "ROBESON|9",
+      "county": "ROBESON",
+      "precinct": "09",
+      "votes": [
+        [187,131,3,0],
+        [103,226,4,0]
+      ]
+    }
+  ],
+  "other": []
+}

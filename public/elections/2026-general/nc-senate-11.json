@@ -1,0 +1,585 @@
+{
+  "raceId": "nc-senate-11",
+  "candidates": [
+    {"name":"James D. Gailliard","party":"D"},
+    {"name":"Lisa Stone Barnes","party":"R"},
+    {"name":"Gavin Bell","party":"L"}
+  ],
+  "precincts": [
+    {
+      "key": "FRANKLIN|1",
+      "county": "FRANKLIN",
+      "precinct": "01",
+      "votes": [
+        [115,502,59,0],
+        [131,181,6,0],
+        [12,19,0,0]
+      ]
+    },
+    {
+      "key": "FRANKLIN|10",
+      "county": "FRANKLIN",
+      "precinct": "10",
+      "votes": [
+        [44,139,5,0],
+        [219,202,1,0],
+        [4,12,0,0]
+      ]
+    },
+    {
+      "key": "FRANKLIN|11",
+      "county": "FRANKLIN",
+      "precinct": "11",
+      "votes": [
+        [131,394,18,0],
+        [201,228,4,0],
+        [9,17,0,0]
+      ]
+    },
+    {
+      "key": "FRANKLIN|12",
+      "county": "FRANKLIN",
+      "precinct": "12",
+      "votes": [
+        [89,234,4,0],
+        [260,209,1,0],
+        [6,7,0,0]
+      ]
+    },
+    {
+      "key": "FRANKLIN|13",
+      "county": "FRANKLIN",
+      "precinct": "13",
+      "votes": [
+        [177,345,16,0],
+        [414,370,2,0],
+        [17,11,0,0]
+      ]
+    },
+    {
+      "key": "FRANKLIN|14",
+      "county": "FRANKLIN",
+      "precinct": "14",
+      "votes": [
+        [272,1071,41,0],
+        [608,1229,20,0],
+        [30,52,0,0]
+      ]
+    },
+    {
+      "key": "FRANKLIN|15",
+      "county": "FRANKLIN",
+      "precinct": "15",
+      "votes": [
+        [385,1282,28,0],
+        [284,499,13,0],
+        [29,38,0,0]
+      ]
+    },
+    {
+      "key": "FRANKLIN|16",
+      "county": "FRANKLIN",
+      "precinct": "16",
+      "votes": [
+        [130,530,24,0],
+        [216,311,10,0],
+        [12,13,3,0]
+      ]
+    },
+    {
+      "key": "FRANKLIN|17",
+      "county": "FRANKLIN",
+      "precinct": "17",
+      "votes": [
+        [197,718,37,0],
+        [534,994,33,0],
+        [29,50,2,0]
+      ]
+    },
+    {
+      "key": "FRANKLIN|18",
+      "county": "FRANKLIN",
+      "precinct": "18",
+      "votes": [
+        [234,939,47,0],
+        [410,887,18,0],
+        [22,67,1,0]
+      ]
+    },
+    {
+      "key": "FRANKLIN|19",
+      "county": "FRANKLIN",
+      "precinct": "19",
+      "votes": [
+        [520,2212,79,0],
+        [766,1580,49,0],
+        [54,112,9,0]
+      ]
+    },
+    {
+      "key": "FRANKLIN|2",
+      "county": "FRANKLIN",
+      "precinct": "02",
+      "votes": [
+        [114,400,7,0],
+        [126,300,6,0],
+        [9,16,0,0]
+      ]
+    },
+    {
+      "key": "FRANKLIN|3",
+      "county": "FRANKLIN",
+      "precinct": "03",
+      "votes": [
+        [319,942,26,0],
+        [429,689,11,0],
+        [25,46,3,0]
+      ]
+    },
+    {
+      "key": "FRANKLIN|5",
+      "county": "FRANKLIN",
+      "precinct": "05",
+      "votes": [
+        [137,399,10,0],
+        [277,526,4,0],
+        [15,26,1,0]
+      ]
+    },
+    {
+      "key": "FRANKLIN|6",
+      "county": "FRANKLIN",
+      "precinct": "06",
+      "votes": [
+        [125,388,28,0],
+        [200,266,5,0],
+        [9,17,0,0]
+      ]
+    },
+    {
+      "key": "FRANKLIN|7",
+      "county": "FRANKLIN",
+      "precinct": "07",
+      "votes": [
+        [150,213,12,0],
+        [454,275,1,0],
+        [15,22,0,0]
+      ]
+    },
+    {
+      "key": "FRANKLIN|8",
+      "county": "FRANKLIN",
+      "precinct": "08",
+      "votes": [
+        [208,804,32,0],
+        [390,935,9,0],
+        [19,38,0,0]
+      ]
+    },
+    {
+      "key": "FRANKLIN|9",
+      "county": "FRANKLIN",
+      "precinct": "09",
+      "votes": [
+        [77,249,6,0],
+        [303,292,5,0],
+        [10,10,1,0]
+      ]
+    },
+    {
+      "key": "NASH|P01A",
+      "county": "NASH",
+      "precinct": "P01A",
+      "votes": [
+        [249,0,0,0],
+        [479,0,0,0],
+        [20,0,0,0]
+      ]
+    },
+    {
+      "key": "NASH|P02A",
+      "county": "NASH",
+      "precinct": "P02A",
+      "votes": [
+        [220,0,0,0],
+        [467,0,0,0],
+        [19,0,0,0]
+      ]
+    },
+    {
+      "key": "NASH|P03A",
+      "county": "NASH",
+      "precinct": "P03A",
+      "votes": [
+        [138,0,0,0],
+        [360,0,0,0],
+        [12,0,0,0]
+      ]
+    },
+    {
+      "key": "NASH|P04A",
+      "county": "NASH",
+      "precinct": "P04A",
+      "votes": [
+        [110,0,0,0],
+        [247,0,0,0],
+        [12,0,0,0]
+      ]
+    },
+    {
+      "key": "NASH|P05A",
+      "county": "NASH",
+      "precinct": "P05A",
+      "votes": [
+        [80,0,0,0],
+        [610,0,0,0],
+        [18,0,0,0]
+      ]
+    },
+    {
+      "key": "NASH|P06A",
+      "county": "NASH",
+      "precinct": "P06A",
+      "votes": [
+        [277,0,0,0],
+        [368,0,0,0],
+        [16,0,0,0]
+      ]
+    },
+    {
+      "key": "NASH|P07A",
+      "county": "NASH",
+      "precinct": "P07A",
+      "votes": [
+        [45,0,0,0],
+        [216,0,0,0],
+        [2,0,0,0]
+      ]
+    },
+    {
+      "key": "NASH|P08A",
+      "county": "NASH",
+      "precinct": "P08A",
+      "votes": [
+        [362,0,0,0],
+        [512,0,0,0],
+        [24,0,0,0]
+      ]
+    },
+    {
+      "key": "NASH|P09A",
+      "county": "NASH",
+      "precinct": "P09A",
+      "votes": [
+        [115,0,0,0],
+        [214,0,0,0],
+        [13,0,0,0]
+      ]
+    },
+    {
+      "key": "NASH|P10A",
+      "county": "NASH",
+      "precinct": "P10A",
+      "votes": [
+        [184,0,0,0],
+        [134,0,0,0],
+        [5,0,0,0]
+      ]
+    },
+    {
+      "key": "NASH|P11A",
+      "county": "NASH",
+      "precinct": "P11A",
+      "votes": [
+        [150,0,0,0],
+        [533,0,0,0],
+        [23,0,0,0]
+      ]
+    },
+    {
+      "key": "NASH|P12A",
+      "county": "NASH",
+      "precinct": "P12A",
+      "votes": [
+        [148,0,0,0],
+        [174,0,0,0],
+        [6,0,0,0]
+      ]
+    },
+    {
+      "key": "NASH|P13A",
+      "county": "NASH",
+      "precinct": "P13A",
+      "votes": [
+        [128,0,0,0],
+        [49,0,0,0],
+        [2,0,0,0]
+      ]
+    },
+    {
+      "key": "NASH|P14A",
+      "county": "NASH",
+      "precinct": "P14A",
+      "votes": [
+        [130,0,0,0],
+        [233,0,0,0],
+        [6,0,0,0]
+      ]
+    },
+    {
+      "key": "NASH|P15A",
+      "county": "NASH",
+      "precinct": "P15A",
+      "votes": [
+        [200,0,0,0],
+        [387,0,0,0],
+        [12,0,0,0]
+      ]
+    },
+    {
+      "key": "NASH|P16A",
+      "county": "NASH",
+      "precinct": "P16A",
+      "votes": [
+        [212,0,0,0],
+        [187,0,0,0],
+        [5,0,0,0]
+      ]
+    },
+    {
+      "key": "NASH|P17A",
+      "county": "NASH",
+      "precinct": "P17A",
+      "votes": [
+        [422,0,0,0],
+        [217,0,0,0],
+        [18,0,0,0]
+      ]
+    },
+    {
+      "key": "NASH|P18A",
+      "county": "NASH",
+      "precinct": "P18A",
+      "votes": [
+        [233,0,0,0],
+        [125,0,0,0],
+        [11,0,0,0]
+      ]
+    },
+    {
+      "key": "NASH|P19A",
+      "county": "NASH",
+      "precinct": "P19A",
+      "votes": [
+        [405,0,0,0],
+        [507,0,0,0],
+        [27,0,0,0]
+      ]
+    },
+    {
+      "key": "NASH|P20A",
+      "county": "NASH",
+      "precinct": "P20A",
+      "votes": [
+        [219,0,0,0],
+        [221,0,0,0],
+        [15,0,0,0]
+      ]
+    },
+    {
+      "key": "NASH|P21A",
+      "county": "NASH",
+      "precinct": "P21A",
+      "votes": [
+        [247,0,0,0],
+        [106,0,0,0],
+        [15,0,0,0]
+      ]
+    },
+    {
+      "key": "NASH|P22A",
+      "county": "NASH",
+      "precinct": "P22A",
+      "votes": [
+        [189,0,0,0],
+        [23,0,0,0],
+        [3,0,0,0]
+      ]
+    },
+    {
+      "key": "NASH|P23A",
+      "county": "NASH",
+      "precinct": "P23A",
+      "votes": [
+        [371,0,0,0],
+        [60,0,0,0],
+        [11,0,0,0]
+      ]
+    },
+    {
+      "key": "NASH|P24A",
+      "county": "NASH",
+      "precinct": "P24A",
+      "votes": [
+        [180,0,0,0],
+        [376,0,0,0],
+        [11,0,0,0]
+      ]
+    },
+    {
+      "key": "VANCE|CC",
+      "county": "VANCE",
+      "precinct": "CC",
+      "votes": [
+        [174,623,14,0],
+        [284,502,6,0],
+        [11,12,0,0]
+      ]
+    },
+    {
+      "key": "VANCE|CH",
+      "county": "VANCE",
+      "precinct": "CH",
+      "votes": [
+        [307,1030,12,0],
+        [32,68,2,0],
+        [7,16,0,0]
+      ]
+    },
+    {
+      "key": "VANCE|KITT",
+      "county": "VANCE",
+      "precinct": "KITT",
+      "votes": [
+        [247,615,22,0],
+        [478,516,12,0],
+        [16,24,0,0]
+      ]
+    },
+    {
+      "key": "VANCE|MIDD",
+      "county": "VANCE",
+      "precinct": "MIDD",
+      "votes": [
+        [253,583,9,0],
+        [281,391,13,0],
+        [12,27,0,0]
+      ]
+    },
+    {
+      "key": "VANCE|NV",
+      "county": "VANCE",
+      "precinct": "NV",
+      "votes": [
+        [67,265,7,0],
+        [62,132,2,0],
+        [4,5,1,0]
+      ]
+    },
+    {
+      "key": "VANCE|SCRK",
+      "county": "VANCE",
+      "precinct": "SCRK",
+      "votes": [
+        [342,823,14,0],
+        [308,485,4,0],
+        [19,25,2,0]
+      ]
+    },
+    {
+      "key": "VANCE|SH",
+      "county": "VANCE",
+      "precinct": "SH",
+      "votes": [
+        [281,772,14,0],
+        [116,245,1,0],
+        [7,25,1,0]
+      ]
+    },
+    {
+      "key": "VANCE|TWN",
+      "county": "VANCE",
+      "precinct": "TWN",
+      "votes": [
+        [283,746,21,0],
+        [316,515,12,0],
+        [14,19,0,0]
+      ]
+    },
+    {
+      "key": "VANCE|WH",
+      "county": "VANCE",
+      "precinct": "WH",
+      "votes": [
+        [271,823,20,0],
+        [231,590,18,0],
+        [17,31,0,0]
+      ]
+    }
+  ],
+  "other": [
+    {
+      "county": "NASH",
+      "label": "ABSENTEE",
+      "votes": [
+        [0,0,374,0],
+        [0,0,144,0],
+        [0,0,18,0]
+      ]
+    },
+    {
+      "county": "NASH",
+      "label": "MT. PLEASANT EV",
+      "votes": [
+        [0,1398,0,0],
+        [0,1764,0,0],
+        [0,61,0,0]
+      ]
+    },
+    {
+      "county": "NASH",
+      "label": "NASHVILLE EV",
+      "votes": [
+        [0,6644,0,0],
+        [0,8142,0,0],
+        [0,259,0,0]
+      ]
+    },
+    {
+      "county": "NASH",
+      "label": "PROVISIONAL",
+      "votes": [
+        [0,0,0,0],
+        [0,0,0,0],
+        [0,0,0,0]
+      ]
+    },
+    {
+      "county": "NASH",
+      "label": "ROCKY MOUNT EV",
+      "votes": [
+        [0,7610,0,0],
+        [0,1975,0,0],
+        [0,218,0,0]
+      ]
+    },
+    {
+      "county": "NASH",
+      "label": "SUPP ABSENTEE",
+      "votes": [
+        [0,0,0,0],
+        [0,0,0,0],
+        [0,0,0,0]
+      ]
+    },
+    {
+      "county": "NASH",
+      "label": "TRANSFER",
+      "votes": [
+        [0,0,0,0],
+        [0,0,0,0],
+        [0,0,0,0]
+      ]
+    }
+  ]
+}

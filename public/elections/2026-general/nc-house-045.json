@@ -1,0 +1,145 @@
+{
+  "raceId": "nc-house-045",
+  "candidates": [
+    {"name":"Frances Jackson","party":"D"}
+  ],
+  "precincts": [
+    {
+      "key": "CUMBERLAND|AH49",
+      "county": "CUMBERLAND",
+      "precinct": "AH49",
+      "votes": [
+        [427,705,22,0]
+      ]
+    },
+    {
+      "key": "CUMBERLAND|CU02",
+      "county": "CUMBERLAND",
+      "precinct": "CU02",
+      "votes": [
+        [306,295,16,0]
+      ]
+    },
+    {
+      "key": "CUMBERLAND|G10A",
+      "county": "CUMBERLAND",
+      "precinct": "G10A",
+      "votes": [
+        [388,1371,64,0]
+      ]
+    },
+    {
+      "key": "CUMBERLAND|G10B",
+      "county": "CUMBERLAND",
+      "precinct": "G10B",
+      "votes": [
+        [361,574,28,0]
+      ]
+    },
+    {
+      "key": "CUMBERLAND|G10C",
+      "county": "CUMBERLAND",
+      "precinct": "G10C",
+      "votes": [
+        [367,957,39,0]
+      ]
+    },
+    {
+      "key": "CUMBERLAND|G3A-1",
+      "county": "CUMBERLAND",
+      "precinct": "G3A-1",
+      "votes": [
+        [394,856,25,0]
+      ]
+    },
+    {
+      "key": "CUMBERLAND|G4C",
+      "county": "CUMBERLAND",
+      "precinct": "G4C",
+      "votes": [
+        [230,473,15,0]
+      ]
+    },
+    {
+      "key": "CUMBERLAND|G5A-1",
+      "county": "CUMBERLAND",
+      "precinct": "G5A-1",
+      "votes": [
+        [374,715,24,0]
+      ]
+    },
+    {
+      "key": "CUMBERLAND|G5A-2",
+      "county": "CUMBERLAND",
+      "precinct": "G5A-2",
+      "votes": [
+        [247,708,23,0]
+      ]
+    },
+    {
+      "key": "CUMBERLAND|G5B-2",
+      "county": "CUMBERLAND",
+      "precinct": "G5B-2",
+      "votes": [
+        [245,718,31,0]
+      ]
+    },
+    {
+      "key": "CUMBERLAND|G5C",
+      "county": "CUMBERLAND",
+      "precinct": "G5C",
+      "votes": [
+        [287,402,18,0]
+      ]
+    },
+    {
+      "key": "CUMBERLAND|G8A",
+      "county": "CUMBERLAND",
+      "precinct": "G8A",
+      "votes": [
+        [403,832,37,0]
+      ]
+    },
+    {
+      "key": "CUMBERLAND|G8B",
+      "county": "CUMBERLAND",
+      "precinct": "G8B",
+      "votes": [
+        [343,699,26,0]
+      ]
+    },
+    {
+      "key": "CUMBERLAND|G8C",
+      "county": "CUMBERLAND",
+      "precinct": "G8C",
+      "votes": [
+        [277,462,17,0]
+      ]
+    },
+    {
+      "key": "CUMBERLAND|G8D",
+      "county": "CUMBERLAND",
+      "precinct": "G8D",
+      "votes": [
+        [289,570,18,0]
+      ]
+    },
+    {
+      "key": "CUMBERLAND|G9A-3",
+      "county": "CUMBERLAND",
+      "precinct": "G9A-3",
+      "votes": [
+        [332,578,23,0]
+      ]
+    },
+    {
+      "key": "CUMBERLAND|G9B-1",
+      "county": "CUMBERLAND",
+      "precinct": "G9B-1",
+      "votes": [
+        [410,912,35,0]
+      ]
+    }
+  ],
+  "other": []
+}

@@ -1,0 +1,424 @@
+{
+  "raceId": "nc-senate-25",
+  "candidates": [
+    {"name":"Amy Scott Galey","party":"R"},
+    {"name":"Southey Blanton","party":"D"}
+  ],
+  "precincts": [
+    {
+      "key": "ALAMANCE|1",
+      "county": "ALAMANCE",
+      "precinct": "01",
+      "votes": [
+        [832,697,32,0],
+        [147,330,30,0]
+      ]
+    },
+    {
+      "key": "ALAMANCE|103",
+      "county": "ALAMANCE",
+      "precinct": "103",
+      "votes": [
+        [438,851,32,0],
+        [367,1317,57,0]
+      ]
+    },
+    {
+      "key": "ALAMANCE|104",
+      "county": "ALAMANCE",
+      "precinct": "104",
+      "votes": [
+        [129,249,10,0],
+        [189,742,26,0]
+      ]
+    },
+    {
+      "key": "ALAMANCE|10N",
+      "county": "ALAMANCE",
+      "precinct": "10N",
+      "votes": [
+        [343,827,20,0],
+        [213,882,42,0]
+      ]
+    },
+    {
+      "key": "ALAMANCE|10S1",
+      "county": "ALAMANCE",
+      "precinct": "10S1",
+      "votes": [
+        [387,881,17,0],
+        [483,1787,52,0]
+      ]
+    },
+    {
+      "key": "ALAMANCE|11",
+      "county": "ALAMANCE",
+      "precinct": "11",
+      "votes": [
+        [359,604,10,0],
+        [302,826,24,0]
+      ]
+    },
+    {
+      "key": "ALAMANCE|1210",
+      "county": "ALAMANCE",
+      "precinct": "1210",
+      "votes": [
+        [157,200,6,0],
+        [173,376,6,0]
+      ]
+    },
+    {
+      "key": "ALAMANCE|124",
+      "county": "ALAMANCE",
+      "precinct": "124",
+      "votes": [
+        [171,254,2,0],
+        [180,393,10,0]
+      ]
+    },
+    {
+      "key": "ALAMANCE|125",
+      "county": "ALAMANCE",
+      "precinct": "125",
+      "votes": [
+        [210,356,11,0],
+        [169,396,17,0]
+      ]
+    },
+    {
+      "key": "ALAMANCE|126",
+      "county": "ALAMANCE",
+      "precinct": "126",
+      "votes": [
+        [260,401,10,0],
+        [154,413,28,0]
+      ]
+    },
+    {
+      "key": "ALAMANCE|127",
+      "county": "ALAMANCE",
+      "precinct": "127",
+      "votes": [
+        [141,314,11,0],
+        [451,1257,12,0]
+      ]
+    },
+    {
+      "key": "ALAMANCE|128",
+      "county": "ALAMANCE",
+      "precinct": "128",
+      "votes": [
+        [45,134,5,0],
+        [170,475,16,0]
+      ]
+    },
+    {
+      "key": "ALAMANCE|129",
+      "county": "ALAMANCE",
+      "precinct": "129",
+      "votes": [
+        [253,396,7,0],
+        [120,343,24,0]
+      ]
+    },
+    {
+      "key": "ALAMANCE|12E",
+      "county": "ALAMANCE",
+      "precinct": "12E",
+      "votes": [
+        [66,114,2,0],
+        [163,379,6,0]
+      ]
+    },
+    {
+      "key": "ALAMANCE|12N",
+      "county": "ALAMANCE",
+      "precinct": "12N",
+      "votes": [
+        [71,132,17,0],
+        [465,973,25,0]
+      ]
+    },
+    {
+      "key": "ALAMANCE|12S",
+      "county": "ALAMANCE",
+      "precinct": "12S",
+      "votes": [
+        [51,71,3,0],
+        [153,283,5,0]
+      ]
+    },
+    {
+      "key": "ALAMANCE|12W",
+      "county": "ALAMANCE",
+      "precinct": "12W",
+      "votes": [
+        [181,267,6,0],
+        [212,471,28,0]
+      ]
+    },
+    {
+      "key": "ALAMANCE|13",
+      "county": "ALAMANCE",
+      "precinct": "13",
+      "votes": [
+        [298,495,21,0],
+        [290,940,32,0]
+      ]
+    },
+    {
+      "key": "ALAMANCE|2",
+      "county": "ALAMANCE",
+      "precinct": "02",
+      "votes": [
+        [831,905,24,0],
+        [143,382,20,0]
+      ]
+    },
+    {
+      "key": "ALAMANCE|35",
+      "county": "ALAMANCE",
+      "precinct": "035",
+      "votes": [
+        [370,739,18,0],
+        [320,863,46,0]
+      ]
+    },
+    {
+      "key": "ALAMANCE|3C",
+      "county": "ALAMANCE",
+      "precinct": "03C",
+      "votes": [
+        [353,526,23,0],
+        [168,559,55,0]
+      ]
+    },
+    {
+      "key": "ALAMANCE|3N",
+      "county": "ALAMANCE",
+      "precinct": "03N",
+      "votes": [
+        [249,550,16,0],
+        [179,635,48,0]
+      ]
+    },
+    {
+      "key": "ALAMANCE|3N2",
+      "county": "ALAMANCE",
+      "precinct": "03N2",
+      "votes": [
+        [153,82,5,0],
+        [182,215,18,0]
+      ]
+    },
+    {
+      "key": "ALAMANCE|3SE",
+      "county": "ALAMANCE",
+      "precinct": "03SE",
+      "votes": [
+        [264,583,15,0],
+        [295,940,46,0]
+      ]
+    },
+    {
+      "key": "ALAMANCE|3SM",
+      "county": "ALAMANCE",
+      "precinct": "03SM",
+      "votes": [
+        [355,591,17,0],
+        [361,1022,47,0]
+      ]
+    },
+    {
+      "key": "ALAMANCE|3W",
+      "county": "ALAMANCE",
+      "precinct": "03W",
+      "votes": [
+        [372,606,18,0],
+        [211,691,45,0]
+      ]
+    },
+    {
+      "key": "ALAMANCE|4",
+      "county": "ALAMANCE",
+      "precinct": "04",
+      "votes": [
+        [688,1079,7,0],
+        [147,453,29,0]
+      ]
+    },
+    {
+      "key": "ALAMANCE|5",
+      "county": "ALAMANCE",
+      "precinct": "05",
+      "votes": [
+        [664,613,14,0],
+        [114,271,8,0]
+      ]
+    },
+    {
+      "key": "ALAMANCE|63",
+      "county": "ALAMANCE",
+      "precinct": "063",
+      "votes": [
+        [124,190,6,0],
+        [341,607,25,0]
+      ]
+    },
+    {
+      "key": "ALAMANCE|64",
+      "county": "ALAMANCE",
+      "precinct": "064",
+      "votes": [
+        [579,930,32,0],
+        [394,1248,49,0]
+      ]
+    },
+    {
+      "key": "ALAMANCE|6E",
+      "county": "ALAMANCE",
+      "precinct": "06E",
+      "votes": [
+        [197,317,11,0],
+        [192,544,17,0]
+      ]
+    },
+    {
+      "key": "ALAMANCE|6N",
+      "county": "ALAMANCE",
+      "precinct": "06N",
+      "votes": [
+        [110,195,9,0],
+        [197,607,15,0]
+      ]
+    },
+    {
+      "key": "ALAMANCE|6S",
+      "county": "ALAMANCE",
+      "precinct": "06S",
+      "votes": [
+        [379,617,18,0],
+        [320,843,32,0]
+      ]
+    },
+    {
+      "key": "ALAMANCE|6W",
+      "county": "ALAMANCE",
+      "precinct": "06W",
+      "votes": [
+        [85,132,3,0],
+        [115,209,14,0]
+      ]
+    },
+    {
+      "key": "ALAMANCE|7",
+      "county": "ALAMANCE",
+      "precinct": "07",
+      "votes": [
+        [685,738,14,0],
+        [134,414,11,0]
+      ]
+    },
+    {
+      "key": "ALAMANCE|8N",
+      "county": "ALAMANCE",
+      "precinct": "08N",
+      "votes": [
+        [514,404,15,0],
+        [334,460,32,0]
+      ]
+    },
+    {
+      "key": "ALAMANCE|8S",
+      "county": "ALAMANCE",
+      "precinct": "08S",
+      "votes": [
+        [354,222,5,0],
+        [92,209,13,0]
+      ]
+    },
+    {
+      "key": "ALAMANCE|9N",
+      "county": "ALAMANCE",
+      "precinct": "09N",
+      "votes": [
+        [396,326,11,0],
+        [231,681,31,0]
+      ]
+    },
+    {
+      "key": "ALAMANCE|9S",
+      "county": "ALAMANCE",
+      "precinct": "09S",
+      "votes": [
+        [642,827,17,0],
+        [407,1018,54,0]
+      ]
+    },
+    {
+      "key": "RANDOLPH|AR",
+      "county": "RANDOLPH",
+      "precinct": "AR",
+      "votes": [
+        [700,1876,53,0],
+        [301,872,48,0]
+      ]
+    },
+    {
+      "key": "RANDOLPH|LB",
+      "county": "RANDOLPH",
+      "precinct": "LB",
+      "votes": [
+        [465,357,14,0],
+        [272,288,13,0]
+      ]
+    },
+    {
+      "key": "RANDOLPH|LC",
+      "county": "RANDOLPH",
+      "precinct": "LC",
+      "votes": [
+        [305,496,3,0],
+        [100,190,4,0]
+      ]
+    },
+    {
+      "key": "RANDOLPH|NM",
+      "county": "RANDOLPH",
+      "precinct": "NM",
+      "votes": [
+        [748,1023,5,0],
+        [127,240,12,0]
+      ]
+    },
+    {
+      "key": "RANDOLPH|PR",
+      "county": "RANDOLPH",
+      "precinct": "PR",
+      "votes": [
+        [856,1385,17,0],
+        [148,406,28,0]
+      ]
+    },
+    {
+      "key": "RANDOLPH|RN",
+      "county": "RANDOLPH",
+      "precinct": "RN",
+      "votes": [
+        [677,1154,12,0],
+        [240,628,23,0]
+      ]
+    },
+    {
+      "key": "RANDOLPH|ST",
+      "county": "RANDOLPH",
+      "precinct": "ST",
+      "votes": [
+        [447,354,5,0],
+        [137,133,9,0]
+      ]
+    }
+  ],
+  "other": []
+}

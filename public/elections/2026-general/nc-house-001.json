@@ -1,0 +1,526 @@
+{
+  "raceId": "nc-house-001",
+  "candidates": [
+    {"name":"Edward C. Goodwin","party":"R"},
+    {"name":"Miriam Rollin","party":"D"}
+  ],
+  "precincts": [
+    {
+      "key": "CHOWAN|1",
+      "county": "CHOWAN",
+      "precinct": "1",
+      "votes": [
+        [115,334,9,0],
+        [136,511,20,0]
+      ]
+    },
+    {
+      "key": "CHOWAN|2",
+      "county": "CHOWAN",
+      "precinct": "2",
+      "votes": [
+        [253,782,11,0],
+        [142,659,23,0]
+      ]
+    },
+    {
+      "key": "CHOWAN|3",
+      "county": "CHOWAN",
+      "precinct": "3",
+      "votes": [
+        [306,421,5,0],
+        [71,126,2,0]
+      ]
+    },
+    {
+      "key": "CHOWAN|4",
+      "county": "CHOWAN",
+      "precinct": "4",
+      "votes": [
+        [122,114,1,0],
+        [58,148,3,0]
+      ]
+    },
+    {
+      "key": "CHOWAN|5",
+      "county": "CHOWAN",
+      "precinct": "5",
+      "votes": [
+        [206,202,1,0],
+        [37,70,0,0]
+      ]
+    },
+    {
+      "key": "CHOWAN|6",
+      "county": "CHOWAN",
+      "precinct": "6",
+      "votes": [
+        [195,404,7,0],
+        [86,275,11,0]
+      ]
+    },
+    {
+      "key": "CURRITUCK|CB",
+      "county": "CURRITUCK",
+      "precinct": "CB",
+      "votes": [
+        [99,15,1,0],
+        [41,12,3,0]
+      ]
+    },
+    {
+      "key": "CURRITUCK|CH",
+      "county": "CURRITUCK",
+      "precinct": "CH",
+      "votes": [
+        [714,996,19,0],
+        [188,379,17,0]
+      ]
+    },
+    {
+      "key": "CURRITUCK|CO",
+      "county": "CURRITUCK",
+      "precinct": "CO",
+      "votes": [
+        [169,144,6,0],
+        [71,95,0,0]
+      ]
+    },
+    {
+      "key": "CURRITUCK|EM",
+      "county": "CURRITUCK",
+      "precinct": "EM",
+      "votes": [
+        [779,583,20,0],
+        [290,294,20,0]
+      ]
+    },
+    {
+      "key": "CURRITUCK|GW",
+      "county": "CURRITUCK",
+      "precinct": "GW",
+      "votes": [
+        [123,11,1,0],
+        [27,8,0,0]
+      ]
+    },
+    {
+      "key": "CURRITUCK|IR",
+      "county": "CURRITUCK",
+      "precinct": "IR",
+      "votes": [
+        [285,276,2,0],
+        [83,97,7,0]
+      ]
+    },
+    {
+      "key": "CURRITUCK|KI",
+      "county": "CURRITUCK",
+      "precinct": "KI",
+      "votes": [
+        [364,36,2,0],
+        [106,30,2,0]
+      ]
+    },
+    {
+      "key": "CURRITUCK|PB",
+      "county": "CURRITUCK",
+      "precinct": "PB",
+      "votes": [
+        [841,598,12,0],
+        [324,420,11,0]
+      ]
+    },
+    {
+      "key": "CURRITUCK|PP",
+      "county": "CURRITUCK",
+      "precinct": "PP",
+      "votes": [
+        [466,204,8,0],
+        [182,161,27,0]
+      ]
+    },
+    {
+      "key": "CURRITUCK|WH",
+      "county": "CURRITUCK",
+      "precinct": "WH",
+      "votes": [
+        [271,54,14,0],
+        [218,97,31,0]
+      ]
+    },
+    {
+      "key": "CURRITUCK|WM",
+      "county": "CURRITUCK",
+      "precinct": "WM",
+      "votes": [
+        [840,622,23,0],
+        [323,401,25,0]
+      ]
+    },
+    {
+      "key": "DARE|COL",
+      "county": "DARE",
+      "precinct": "COL",
+      "votes": [
+        [410,0,0,0],
+        [245,0,0,0]
+      ]
+    },
+    {
+      "key": "DARE|DUCK",
+      "county": "DARE",
+      "precinct": "DUCK",
+      "votes": [
+        [109,0,0,0],
+        [124,0,0,0]
+      ]
+    },
+    {
+      "key": "DARE|EL",
+      "county": "DARE",
+      "precinct": "EL",
+      "votes": [
+        [26,0,0,0],
+        [6,0,0,0]
+      ]
+    },
+    {
+      "key": "DARE|KTHK",
+      "county": "DARE",
+      "precinct": "KTHK",
+      "votes": [
+        [551,0,0,0],
+        [275,0,0,0]
+      ]
+    },
+    {
+      "key": "DARE|MH",
+      "county": "DARE",
+      "precinct": "MH",
+      "votes": [
+        [124,0,0,0],
+        [34,0,0,0]
+      ]
+    },
+    {
+      "key": "DARE|SOSH",
+      "county": "DARE",
+      "precinct": "SOSH",
+      "votes": [
+        [481,0,0,0],
+        [268,0,0,0]
+      ]
+    },
+    {
+      "key": "DARE|STPT",
+      "county": "DARE",
+      "precinct": "STPT",
+      "votes": [
+        [48,0,0,0],
+        [14,0,0,0]
+      ]
+    },
+    {
+      "key": "PERQUIMANS|BELVID",
+      "county": "PERQUIMANS",
+      "precinct": "BELVID",
+      "votes": [
+        [184,146,0,0],
+        [41,79,1,0]
+      ]
+    },
+    {
+      "key": "PERQUIMANS|BETHEL",
+      "county": "PERQUIMANS",
+      "precinct": "BETHEL",
+      "votes": [
+        [317,896,14,0],
+        [98,372,34,0]
+      ]
+    },
+    {
+      "key": "PERQUIMANS|EAST H",
+      "county": "PERQUIMANS",
+      "precinct": "EAST H",
+      "votes": [
+        [68,121,1,0],
+        [98,165,7,0]
+      ]
+    },
+    {
+      "key": "PERQUIMANS|NEW HO",
+      "county": "PERQUIMANS",
+      "precinct": "NEW HO",
+      "votes": [
+        [431,590,9,0],
+        [109,293,18,0]
+      ]
+    },
+    {
+      "key": "PERQUIMANS|NICANO",
+      "county": "PERQUIMANS",
+      "precinct": "NICANO",
+      "votes": [
+        [70,13,0,0],
+        [21,13,0,0]
+      ]
+    },
+    {
+      "key": "PERQUIMANS|PARKVI",
+      "county": "PERQUIMANS",
+      "precinct": "PARKVI",
+      "votes": [
+        [169,415,5,0],
+        [113,268,5,0]
+      ]
+    },
+    {
+      "key": "PERQUIMANS|WEST H",
+      "county": "PERQUIMANS",
+      "precinct": "WEST H",
+      "votes": [
+        [90,144,0,0],
+        [45,122,3,0]
+      ]
+    },
+    {
+      "key": "TYRRELL|1",
+      "county": "TYRRELL",
+      "precinct": "1",
+      "votes": [
+        [9,0,0,0],
+        [61,0,0,0]
+      ]
+    },
+    {
+      "key": "TYRRELL|14",
+      "county": "TYRRELL",
+      "precinct": "14",
+      "votes": [
+        [21,0,0,0],
+        [1,0,0,0]
+      ]
+    },
+    {
+      "key": "TYRRELL|15",
+      "county": "TYRRELL",
+      "precinct": "15",
+      "votes": [
+        [74,0,0,0],
+        [42,0,0,0]
+      ]
+    },
+    {
+      "key": "TYRRELL|16",
+      "county": "TYRRELL",
+      "precinct": "16",
+      "votes": [
+        [4,0,0,0],
+        [4,0,0,0]
+      ]
+    },
+    {
+      "key": "TYRRELL|2",
+      "county": "TYRRELL",
+      "precinct": "2",
+      "votes": [
+        [199,0,0,0],
+        [87,0,0,0]
+      ]
+    },
+    {
+      "key": "TYRRELL|3",
+      "county": "TYRRELL",
+      "precinct": "3",
+      "votes": [
+        [38,0,0,0],
+        [17,0,0,0]
+      ]
+    },
+    {
+      "key": "WASHINGTON|LM",
+      "county": "WASHINGTON",
+      "precinct": "LM",
+      "votes": [
+        [120,0,0,0],
+        [113,0,0,0]
+      ]
+    },
+    {
+      "key": "WASHINGTON|P1",
+      "county": "WASHINGTON",
+      "precinct": "P1",
+      "votes": [
+        [78,0,0,0],
+        [116,0,0,0]
+      ]
+    },
+    {
+      "key": "WASHINGTON|P2",
+      "county": "WASHINGTON",
+      "precinct": "P2",
+      "votes": [
+        [33,0,0,0],
+        [139,0,0,0]
+      ]
+    },
+    {
+      "key": "WASHINGTON|P3",
+      "county": "WASHINGTON",
+      "precinct": "P3",
+      "votes": [
+        [250,0,0,0],
+        [180,0,0,0]
+      ]
+    },
+    {
+      "key": "WASHINGTON|SC",
+      "county": "WASHINGTON",
+      "precinct": "SC",
+      "votes": [
+        [249,0,0,0],
+        [106,0,0,0]
+      ]
+    },
+    {
+      "key": "WASHINGTON|SK",
+      "county": "WASHINGTON",
+      "precinct": "SK",
+      "votes": [
+        [177,0,0,0],
+        [68,0,0,0]
+      ]
+    }
+  ],
+  "other": [
+    {
+      "county": "DARE",
+      "label": "ABSENTEE",
+      "votes": [
+        [0,0,74,0],
+        [0,0,156,0]
+      ]
+    },
+    {
+      "county": "DARE",
+      "label": "ABSENTEE SUP",
+      "votes": [
+        [0,0,0,0],
+        [0,0,0,0]
+      ]
+    },
+    {
+      "county": "DARE",
+      "label": "EV BOE",
+      "votes": [
+        [0,160,0,0],
+        [0,119,0,0]
+      ]
+    },
+    {
+      "county": "DARE",
+      "label": "EV FANX",
+      "votes": [
+        [0,0,0,0],
+        [0,1,0,0]
+      ]
+    },
+    {
+      "county": "DARE",
+      "label": "EV KDH TH",
+      "votes": [
+        [0,1996,0,0],
+        [0,2219,0,0]
+      ]
+    },
+    {
+      "county": "DARE",
+      "label": "PROVISIONAL",
+      "votes": [
+        [0,0,0,0],
+        [0,0,0,0]
+      ]
+    },
+    {
+      "county": "DARE",
+      "label": "SPARE",
+      "votes": [
+        [0,0,0,0],
+        [0,0,0,0]
+      ]
+    },
+    {
+      "county": "DARE",
+      "label": "TRANSFER",
+      "votes": [
+        [0,0,0,0],
+        [0,0,0,0]
+      ]
+    },
+    {
+      "county": "TYRRELL",
+      "label": "ABSENTEE",
+      "votes": [
+        [0,0,1,0],
+        [0,0,5,0]
+      ]
+    },
+    {
+      "county": "TYRRELL",
+      "label": "EARLY VOTING",
+      "votes": [
+        [0,437,0,0],
+        [0,334,0,0]
+      ]
+    },
+    {
+      "county": "TYRRELL",
+      "label": "PROVISIONAL",
+      "votes": [
+        [0,0,0,0],
+        [0,0,0,0]
+      ]
+    },
+    {
+      "county": "TYRRELL",
+      "label": "TRANSFER",
+      "votes": [
+        [0,0,0,0],
+        [0,0,0,0]
+      ]
+    },
+    {
+      "county": "WASHINGTON",
+      "label": "ABSENTEE",
+      "votes": [
+        [0,12,0,0],
+        [0,31,0,0]
+      ]
+    },
+    {
+      "county": "WASHINGTON",
+      "label": "EARLY VOTING",
+      "votes": [
+        [0,986,0,0],
+        [0,1842,0,0]
+      ]
+    },
+    {
+      "county": "WASHINGTON",
+      "label": "PROVISIONAL",
+      "votes": [
+        [0,0,0,0],
+        [0,0,0,0]
+      ]
+    },
+    {
+      "county": "WASHINGTON",
+      "label": "TRANSFER",
+      "votes": [
+        [0,0,0,0],
+        [0,0,0,0]
+      ]
+    }
+  ]
+}

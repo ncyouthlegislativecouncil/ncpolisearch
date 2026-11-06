@@ -1,0 +1,195 @@
+{
+  "raceId": "nc-house-087",
+  "candidates": [
+    {"name":"Destin Hall","party":"R"},
+    {"name":"Iris Bender","party":"D"}
+  ],
+  "precincts": [
+    {
+      "key": "CALDWELL|1",
+      "county": "CALDWELL",
+      "precinct": "1",
+      "votes": [
+        [541,0,0,0],
+        [175,0,0,0]
+      ]
+    },
+    {
+      "key": "CALDWELL|10",
+      "county": "CALDWELL",
+      "precinct": "10",
+      "votes": [
+        [469,0,0,0],
+        [113,0,0,0]
+      ]
+    },
+    {
+      "key": "CALDWELL|11",
+      "county": "CALDWELL",
+      "precinct": "11",
+      "votes": [
+        [454,0,0,0],
+        [111,0,0,0]
+      ]
+    },
+    {
+      "key": "CALDWELL|12",
+      "county": "CALDWELL",
+      "precinct": "12",
+      "votes": [
+        [435,0,0,0],
+        [91,0,0,0]
+      ]
+    },
+    {
+      "key": "CALDWELL|13",
+      "county": "CALDWELL",
+      "precinct": "13",
+      "votes": [
+        [632,0,0,0],
+        [208,0,0,0]
+      ]
+    },
+    {
+      "key": "CALDWELL|14",
+      "county": "CALDWELL",
+      "precinct": "14",
+      "votes": [
+        [693,0,0,0],
+        [185,0,0,0]
+      ]
+    },
+    {
+      "key": "CALDWELL|15",
+      "county": "CALDWELL",
+      "precinct": "15",
+      "votes": [
+        [301,0,0,0],
+        [71,0,0,0]
+      ]
+    },
+    {
+      "key": "CALDWELL|2",
+      "county": "CALDWELL",
+      "precinct": "2",
+      "votes": [
+        [385,0,0,0],
+        [80,0,0,0]
+      ]
+    },
+    {
+      "key": "CALDWELL|3",
+      "county": "CALDWELL",
+      "precinct": "3",
+      "votes": [
+        [209,0,0,0],
+        [58,0,0,0]
+      ]
+    },
+    {
+      "key": "CALDWELL|4",
+      "county": "CALDWELL",
+      "precinct": "4",
+      "votes": [
+        [467,0,0,0],
+        [76,0,0,0]
+      ]
+    },
+    {
+      "key": "CALDWELL|5",
+      "county": "CALDWELL",
+      "precinct": "5",
+      "votes": [
+        [306,0,0,0],
+        [112,0,0,0]
+      ]
+    },
+    {
+      "key": "CALDWELL|6",
+      "county": "CALDWELL",
+      "precinct": "6",
+      "votes": [
+        [315,0,0,0],
+        [266,0,0,0]
+      ]
+    },
+    {
+      "key": "CALDWELL|7",
+      "county": "CALDWELL",
+      "precinct": "7",
+      "votes": [
+        [414,0,0,0],
+        [261,0,0,0]
+      ]
+    },
+    {
+      "key": "CALDWELL|8",
+      "county": "CALDWELL",
+      "precinct": "8",
+      "votes": [
+        [419,0,0,0],
+        [135,0,0,0]
+      ]
+    },
+    {
+      "key": "CALDWELL|9",
+      "county": "CALDWELL",
+      "precinct": "9",
+      "votes": [
+        [470,0,0,0],
+        [97,0,0,0]
+      ]
+    },
+    {
+      "key": "WATAUGA|4",
+      "county": "WATAUGA",
+      "precinct": "04",
+      "votes": [
+        [411,651,32,0],
+        [231,960,56,0]
+      ]
+    }
+  ],
+  "other": [
+    {
+      "county": "CALDWELL",
+      "label": "ABSENTEE",
+      "votes": [
+        [0,0,210,0],
+        [0,0,251,0]
+      ]
+    },
+    {
+      "county": "CALDWELL",
+      "label": "EV CRC",
+      "votes": [
+        [0,6592,0,0],
+        [0,4180,0,0]
+      ]
+    },
+    {
+      "county": "CALDWELL",
+      "label": "EV SRC",
+      "votes": [
+        [0,5229,0,0],
+        [0,2117,0,0]
+      ]
+    },
+    {
+      "county": "CALDWELL",
+      "label": "PROVISIONAL",
+      "votes": [
+        [0,0,0,0],
+        [0,0,0,0]
+      ]
+    },
+    {
+      "county": "CALDWELL",
+      "label": "TRANSFER",
+      "votes": [
+        [0,0,0,0],
+        [0,0,0,0]
+      ]
+    }
+  ]
+}

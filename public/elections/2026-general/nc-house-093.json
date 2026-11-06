@@ -1,0 +1,403 @@
+{
+  "raceId": "nc-house-093",
+  "candidates": [
+    {"name":"Charlie Wallin","party":"D"},
+    {"name":"Ray Pickett","party":"R"}
+  ],
+  "precincts": [
+    {
+      "key": "ALLEGHANY|1",
+      "county": "ALLEGHANY",
+      "precinct": "01",
+      "votes": [
+        [49,0,0,0],
+        [177,0,0,0]
+      ]
+    },
+    {
+      "key": "ALLEGHANY|3A",
+      "county": "ALLEGHANY",
+      "precinct": "03A",
+      "votes": [
+        [130,0,0,0],
+        [408,0,0,0]
+      ]
+    },
+    {
+      "key": "ALLEGHANY|4",
+      "county": "ALLEGHANY",
+      "precinct": "04",
+      "votes": [
+        [39,0,0,0],
+        [284,0,0,0]
+      ]
+    },
+    {
+      "key": "ALLEGHANY|6A",
+      "county": "ALLEGHANY",
+      "precinct": "06A",
+      "votes": [
+        [97,0,0,0],
+        [311,0,0,0]
+      ]
+    },
+    {
+      "key": "ASHE|10",
+      "county": "ASHE",
+      "precinct": "10",
+      "votes": [
+        [18,13,3,0],
+        [53,32,0,0]
+      ]
+    },
+    {
+      "key": "ASHE|11",
+      "county": "ASHE",
+      "precinct": "11",
+      "votes": [
+        [105,259,14,0],
+        [391,355,4,0]
+      ]
+    },
+    {
+      "key": "ASHE|12",
+      "county": "ASHE",
+      "precinct": "12",
+      "votes": [
+        [55,72,7,0],
+        [165,57,2,0]
+      ]
+    },
+    {
+      "key": "ASHE|13",
+      "county": "ASHE",
+      "precinct": "13",
+      "votes": [
+        [78,152,8,0],
+        [286,201,1,0]
+      ]
+    },
+    {
+      "key": "ASHE|14",
+      "county": "ASHE",
+      "precinct": "14",
+      "votes": [
+        [97,434,21,0],
+        [329,597,10,0]
+      ]
+    },
+    {
+      "key": "ASHE|15",
+      "county": "ASHE",
+      "precinct": "15",
+      "votes": [
+        [44,83,3,0],
+        [207,179,3,0]
+      ]
+    },
+    {
+      "key": "ASHE|16",
+      "county": "ASHE",
+      "precinct": "16",
+      "votes": [
+        [155,340,21,0],
+        [372,481,9,0]
+      ]
+    },
+    {
+      "key": "ASHE|17",
+      "county": "ASHE",
+      "precinct": "17",
+      "votes": [
+        [55,51,3,0],
+        [188,127,0,0]
+      ]
+    },
+    {
+      "key": "ASHE|18",
+      "county": "ASHE",
+      "precinct": "18",
+      "votes": [
+        [12,10,2,0],
+        [47,10,0,0]
+      ]
+    },
+    {
+      "key": "ASHE|2",
+      "county": "ASHE",
+      "precinct": "02",
+      "votes": [
+        [42,127,4,0],
+        [228,239,4,0]
+      ]
+    },
+    {
+      "key": "ASHE|20",
+      "county": "ASHE",
+      "precinct": "20",
+      "votes": [
+        [206,456,13,0],
+        [437,573,7,0]
+      ]
+    },
+    {
+      "key": "ASHE|3",
+      "county": "ASHE",
+      "precinct": "03",
+      "votes": [
+        [35,47,5,0],
+        [123,82,2,0]
+      ]
+    },
+    {
+      "key": "ASHE|4",
+      "county": "ASHE",
+      "precinct": "04",
+      "votes": [
+        [57,101,1,0],
+        [112,51,3,0]
+      ]
+    },
+    {
+      "key": "ASHE|6",
+      "county": "ASHE",
+      "precinct": "06",
+      "votes": [
+        [28,43,3,0],
+        [124,73,1,0]
+      ]
+    },
+    {
+      "key": "ASHE|7",
+      "county": "ASHE",
+      "precinct": "07",
+      "votes": [
+        [20,45,7,0],
+        [83,36,2,0]
+      ]
+    },
+    {
+      "key": "ASHE|8",
+      "county": "ASHE",
+      "precinct": "08",
+      "votes": [
+        [14,27,4,0],
+        [18,41,1,0]
+      ]
+    },
+    {
+      "key": "ASHE|9",
+      "county": "ASHE",
+      "precinct": "09",
+      "votes": [
+        [182,498,19,0],
+        [471,737,14,0]
+      ]
+    },
+    {
+      "key": "WATAUGA|1",
+      "county": "WATAUGA",
+      "precinct": "01",
+      "votes": [
+        [43,130,8,0],
+        [69,108,9,0]
+      ]
+    },
+    {
+      "key": "WATAUGA|10",
+      "county": "WATAUGA",
+      "precinct": "10",
+      "votes": [
+        [81,244,12,0],
+        [135,138,3,0]
+      ]
+    },
+    {
+      "key": "WATAUGA|11",
+      "county": "WATAUGA",
+      "precinct": "11",
+      "votes": [
+        [153,523,19,0],
+        [329,436,8,0]
+      ]
+    },
+    {
+      "key": "WATAUGA|12",
+      "county": "WATAUGA",
+      "precinct": "12",
+      "votes": [
+        [204,847,11,0],
+        [44,72,1,0]
+      ]
+    },
+    {
+      "key": "WATAUGA|13",
+      "county": "WATAUGA",
+      "precinct": "13",
+      "votes": [
+        [265,771,21,0],
+        [133,160,4,0]
+      ]
+    },
+    {
+      "key": "WATAUGA|14",
+      "county": "WATAUGA",
+      "precinct": "14",
+      "votes": [
+        [326,993,38,0],
+        [201,323,17,0]
+      ]
+    },
+    {
+      "key": "WATAUGA|15",
+      "county": "WATAUGA",
+      "precinct": "15",
+      "votes": [
+        [308,1224,62,0],
+        [214,511,19,0]
+      ]
+    },
+    {
+      "key": "WATAUGA|16",
+      "county": "WATAUGA",
+      "precinct": "16",
+      "votes": [
+        [4,30,4,0],
+        [35,30,2,0]
+      ]
+    },
+    {
+      "key": "WATAUGA|17",
+      "county": "WATAUGA",
+      "precinct": "17",
+      "votes": [
+        [58,140,3,0],
+        [140,54,0,0]
+      ]
+    },
+    {
+      "key": "WATAUGA|18",
+      "county": "WATAUGA",
+      "precinct": "18",
+      "votes": [
+        [114,363,7,0],
+        [260,398,3,0]
+      ]
+    },
+    {
+      "key": "WATAUGA|19",
+      "county": "WATAUGA",
+      "precinct": "19",
+      "votes": [
+        [250,800,39,0],
+        [414,431,18,0]
+      ]
+    },
+    {
+      "key": "WATAUGA|2",
+      "county": "WATAUGA",
+      "precinct": "02",
+      "votes": [
+        [85,132,5,0],
+        [240,128,2,0]
+      ]
+    },
+    {
+      "key": "WATAUGA|20",
+      "county": "WATAUGA",
+      "precinct": "20",
+      "votes": [
+        [81,60,13,0],
+        [116,31,7,0]
+      ]
+    },
+    {
+      "key": "WATAUGA|3",
+      "county": "WATAUGA",
+      "precinct": "03",
+      "votes": [
+        [162,751,44,0],
+        [255,541,39,0]
+      ]
+    },
+    {
+      "key": "WATAUGA|5",
+      "county": "WATAUGA",
+      "precinct": "05",
+      "votes": [
+        [146,594,25,0],
+        [41,76,0,0]
+      ]
+    },
+    {
+      "key": "WATAUGA|6",
+      "county": "WATAUGA",
+      "precinct": "06",
+      "votes": [
+        [237,725,10,0],
+        [33,42,1,0]
+      ]
+    },
+    {
+      "key": "WATAUGA|7",
+      "county": "WATAUGA",
+      "precinct": "07",
+      "votes": [
+        [306,1054,31,0],
+        [219,367,9,0]
+      ]
+    },
+    {
+      "key": "WATAUGA|8",
+      "county": "WATAUGA",
+      "precinct": "08",
+      "votes": [
+        [133,428,15,0],
+        [332,461,3,0]
+      ]
+    },
+    {
+      "key": "WATAUGA|9",
+      "county": "WATAUGA",
+      "precinct": "09",
+      "votes": [
+        [63,149,14,0],
+        [91,117,6,0]
+      ]
+    }
+  ],
+  "other": [
+    {
+      "county": "ALLEGHANY",
+      "label": "ABSENTEE",
+      "votes": [
+        [0,0,45,0],
+        [0,0,41,0]
+      ]
+    },
+    {
+      "county": "ALLEGHANY",
+      "label": "EARLY VOTING",
+      "votes": [
+        [0,1058,0,0],
+        [0,1982,0,0]
+      ]
+    },
+    {
+      "county": "ALLEGHANY",
+      "label": "PROVISIONAL",
+      "votes": [
+        [0,0,0,0],
+        [0,0,0,0]
+      ]
+    },
+    {
+      "county": "ALLEGHANY",
+      "label": "TRANSFER",
+      "votes": [
+        [0,0,0,0],
+        [0,0,0,0]
+      ]
+    }
+  ]
+}

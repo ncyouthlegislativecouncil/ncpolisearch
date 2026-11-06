@@ -1,0 +1,305 @@
+{
+  "raceId": "nc-house-025",
+  "candidates": [
+    {"name":"Lorenza M. Wilkins","party":"D"},
+    {"name":"Allen Chesser","party":"R"},
+    {"name":"Nick Taylor","party":"L"}
+  ],
+  "precincts": [
+    {
+      "key": "NASH|P01A",
+      "county": "NASH",
+      "precinct": "P01A",
+      "votes": [
+        [247,0,0,0],
+        [489,0,0,0],
+        [15,0,0,0]
+      ]
+    },
+    {
+      "key": "NASH|P02A",
+      "county": "NASH",
+      "precinct": "P02A",
+      "votes": [
+        [223,0,0,0],
+        [467,0,0,0],
+        [19,0,0,0]
+      ]
+    },
+    {
+      "key": "NASH|P03A",
+      "county": "NASH",
+      "precinct": "P03A",
+      "votes": [
+        [139,0,0,0],
+        [356,0,0,0],
+        [18,0,0,0]
+      ]
+    },
+    {
+      "key": "NASH|P04A",
+      "county": "NASH",
+      "precinct": "P04A",
+      "votes": [
+        [109,0,0,0],
+        [250,0,0,0],
+        [11,0,0,0]
+      ]
+    },
+    {
+      "key": "NASH|P05A",
+      "county": "NASH",
+      "precinct": "P05A",
+      "votes": [
+        [89,0,0,0],
+        [595,0,0,0],
+        [20,0,0,0]
+      ]
+    },
+    {
+      "key": "NASH|P06A",
+      "county": "NASH",
+      "precinct": "P06A",
+      "votes": [
+        [279,0,0,0],
+        [366,0,0,0],
+        [17,0,0,0]
+      ]
+    },
+    {
+      "key": "NASH|P07A",
+      "county": "NASH",
+      "precinct": "P07A",
+      "votes": [
+        [45,0,0,0],
+        [214,0,0,0],
+        [3,0,0,0]
+      ]
+    },
+    {
+      "key": "NASH|P08A",
+      "county": "NASH",
+      "precinct": "P08A",
+      "votes": [
+        [350,0,0,0],
+        [503,0,0,0],
+        [42,0,0,0]
+      ]
+    },
+    {
+      "key": "NASH|P09A",
+      "county": "NASH",
+      "precinct": "P09A",
+      "votes": [
+        [116,0,0,0],
+        [210,0,0,0],
+        [16,0,0,0]
+      ]
+    },
+    {
+      "key": "NASH|P10A",
+      "county": "NASH",
+      "precinct": "P10A",
+      "votes": [
+        [177,0,0,0],
+        [123,0,0,0],
+        [22,0,0,0]
+      ]
+    },
+    {
+      "key": "NASH|P11A",
+      "county": "NASH",
+      "precinct": "P11A",
+      "votes": [
+        [147,0,0,0],
+        [522,0,0,0],
+        [40,0,0,0]
+      ]
+    },
+    {
+      "key": "NASH|P12A",
+      "county": "NASH",
+      "precinct": "P12A",
+      "votes": [
+        [145,0,0,0],
+        [173,0,0,0],
+        [8,0,0,0]
+      ]
+    },
+    {
+      "key": "NASH|P13A",
+      "county": "NASH",
+      "precinct": "P13A",
+      "votes": [
+        [126,0,0,0],
+        [47,0,0,0],
+        [6,0,0,0]
+      ]
+    },
+    {
+      "key": "NASH|P14A",
+      "county": "NASH",
+      "precinct": "P14A",
+      "votes": [
+        [130,0,0,0],
+        [225,0,0,0],
+        [15,0,0,0]
+      ]
+    },
+    {
+      "key": "NASH|P15A",
+      "county": "NASH",
+      "precinct": "P15A",
+      "votes": [
+        [213,0,0,0],
+        [370,0,0,0],
+        [13,0,0,0]
+      ]
+    },
+    {
+      "key": "NASH|P16A",
+      "county": "NASH",
+      "precinct": "P16A",
+      "votes": [
+        [204,0,0,0],
+        [188,0,0,0],
+        [14,0,0,0]
+      ]
+    },
+    {
+      "key": "NASH|P17A",
+      "county": "NASH",
+      "precinct": "P17A",
+      "votes": [
+        [430,0,0,0],
+        [204,0,0,0],
+        [21,0,0,0]
+      ]
+    },
+    {
+      "key": "NASH|P18A",
+      "county": "NASH",
+      "precinct": "P18A",
+      "votes": [
+        [228,0,0,0],
+        [126,0,0,0],
+        [13,0,0,0]
+      ]
+    },
+    {
+      "key": "NASH|P19A",
+      "county": "NASH",
+      "precinct": "P19A",
+      "votes": [
+        [394,0,0,0],
+        [514,0,0,0],
+        [26,0,0,0]
+      ]
+    },
+    {
+      "key": "NASH|P20A",
+      "county": "NASH",
+      "precinct": "P20A",
+      "votes": [
+        [223,0,0,0],
+        [212,0,0,0],
+        [16,0,0,0]
+      ]
+    },
+    {
+      "key": "NASH|P21A",
+      "county": "NASH",
+      "precinct": "P21A",
+      "votes": [
+        [246,0,0,0],
+        [112,0,0,0],
+        [10,0,0,0]
+      ]
+    },
+    {
+      "key": "NASH|P22A",
+      "county": "NASH",
+      "precinct": "P22A",
+      "votes": [
+        [197,0,0,0],
+        [20,0,0,0],
+        [1,0,0,0]
+      ]
+    },
+    {
+      "key": "NASH|P23A",
+      "county": "NASH",
+      "precinct": "P23A",
+      "votes": [
+        [383,0,0,0],
+        [51,0,0,0],
+        [10,0,0,0]
+      ]
+    }
+  ],
+  "other": [
+    {
+      "county": "NASH",
+      "label": "ABSENTEE",
+      "votes": [
+        [0,0,360,0],
+        [0,0,123,0],
+        [0,0,23,0]
+      ]
+    },
+    {
+      "county": "NASH",
+      "label": "MT. PLEASANT EV",
+      "votes": [
+        [0,1430,0,0],
+        [0,1728,0,0],
+        [0,45,0,0]
+      ]
+    },
+    {
+      "county": "NASH",
+      "label": "NASHVILLE EV",
+      "votes": [
+        [0,6492,0,0],
+        [0,7363,0,0],
+        [0,370,0,0]
+      ]
+    },
+    {
+      "county": "NASH",
+      "label": "PROVISIONAL",
+      "votes": [
+        [0,0,0,0],
+        [0,0,0,0],
+        [0,0,0,0]
+      ]
+    },
+    {
+      "county": "NASH",
+      "label": "ROCKY MOUNT EV",
+      "votes": [
+        [0,7298,0,0],
+        [0,1789,0,0],
+        [0,196,0,0]
+      ]
+    },
+    {
+      "county": "NASH",
+      "label": "SUPP ABSENTEE",
+      "votes": [
+        [0,0,0,0],
+        [0,0,0,0],
+        [0,0,0,0]
+      ]
+    },
+    {
+      "county": "NASH",
+      "label": "TRANSFER",
+      "votes": [
+        [0,0,0,0],
+        [0,0,0,0],
+        [0,0,0,0]
+      ]
+    }
+  ]
+}

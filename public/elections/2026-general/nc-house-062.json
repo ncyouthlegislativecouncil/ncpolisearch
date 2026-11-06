@@ -1,0 +1,259 @@
+{
+  "raceId": "nc-house-062",
+  "candidates": [
+    {"name":"Shelly Headen","party":"D"},
+    {"name":"John M. Blust","party":"R"}
+  ],
+  "precincts": [
+    {
+      "key": "GUILFORD|CG1",
+      "county": "GUILFORD",
+      "precinct": "CG1",
+      "votes": [
+        [228,0,0,0],
+        [128,0,0,0]
+      ]
+    },
+    {
+      "key": "GUILFORD|FR3",
+      "county": "GUILFORD",
+      "precinct": "FR3",
+      "votes": [
+        [231,0,0,0],
+        [182,0,0,0]
+      ]
+    },
+    {
+      "key": "GUILFORD|FR4",
+      "county": "GUILFORD",
+      "precinct": "FR4",
+      "votes": [
+        [121,0,0,0],
+        [150,0,0,0]
+      ]
+    },
+    {
+      "key": "GUILFORD|FR5A",
+      "county": "GUILFORD",
+      "precinct": "FR5A",
+      "votes": [
+        [219,0,0,0],
+        [221,0,0,0]
+      ]
+    },
+    {
+      "key": "GUILFORD|FR5B",
+      "county": "GUILFORD",
+      "precinct": "FR5B",
+      "votes": [
+        [137,0,0,0],
+        [164,0,0,0]
+      ]
+    },
+    {
+      "key": "GUILFORD|G41A",
+      "county": "GUILFORD",
+      "precinct": "G41A",
+      "votes": [
+        [160,0,0,0],
+        [105,0,0,0]
+      ]
+    },
+    {
+      "key": "GUILFORD|G41B",
+      "county": "GUILFORD",
+      "precinct": "G41B",
+      "votes": [
+        [191,0,0,0],
+        [175,0,0,0]
+      ]
+    },
+    {
+      "key": "GUILFORD|G42A",
+      "county": "GUILFORD",
+      "precinct": "G42A",
+      "votes": [
+        [168,0,0,0],
+        [134,0,0,0]
+      ]
+    },
+    {
+      "key": "GUILFORD|G43",
+      "county": "GUILFORD",
+      "precinct": "G43",
+      "votes": [
+        [333,0,0,0],
+        [116,0,0,0]
+      ]
+    },
+    {
+      "key": "GUILFORD|G64",
+      "county": "GUILFORD",
+      "precinct": "G64",
+      "votes": [
+        [416,0,0,0],
+        [97,0,0,0]
+      ]
+    },
+    {
+      "key": "GUILFORD|H23",
+      "county": "GUILFORD",
+      "precinct": "H23",
+      "votes": [
+        [99,0,0,0],
+        [145,0,0,0]
+      ]
+    },
+    {
+      "key": "GUILFORD|H24",
+      "county": "GUILFORD",
+      "precinct": "H24",
+      "votes": [
+        [172,0,0,0],
+        [199,0,0,0]
+      ]
+    },
+    {
+      "key": "GUILFORD|H25",
+      "county": "GUILFORD",
+      "precinct": "H25",
+      "votes": [
+        [252,0,0,0],
+        [347,0,0,0]
+      ]
+    },
+    {
+      "key": "GUILFORD|NCGR1",
+      "county": "GUILFORD",
+      "precinct": "NCGR1",
+      "votes": [
+        [243,0,0,0],
+        [578,0,0,0]
+      ]
+    },
+    {
+      "key": "GUILFORD|NCGR2",
+      "county": "GUILFORD",
+      "precinct": "NCGR2",
+      "votes": [
+        [157,0,0,0],
+        [439,0,0,0]
+      ]
+    },
+    {
+      "key": "GUILFORD|NDRI",
+      "county": "GUILFORD",
+      "precinct": "NDRI",
+      "votes": [
+        [242,0,0,0],
+        [461,0,0,0]
+      ]
+    },
+    {
+      "key": "GUILFORD|OR1",
+      "county": "GUILFORD",
+      "precinct": "OR1",
+      "votes": [
+        [186,0,0,0],
+        [497,0,0,0]
+      ]
+    },
+    {
+      "key": "GUILFORD|OR2",
+      "county": "GUILFORD",
+      "precinct": "OR2",
+      "votes": [
+        [159,0,0,0],
+        [403,0,0,0]
+      ]
+    },
+    {
+      "key": "GUILFORD|SDRI",
+      "county": "GUILFORD",
+      "precinct": "SDRI",
+      "votes": [
+        [543,0,0,0],
+        [744,0,0,0]
+      ]
+    },
+    {
+      "key": "GUILFORD|SF1",
+      "county": "GUILFORD",
+      "precinct": "SF1",
+      "votes": [
+        [199,0,0,0],
+        [552,0,0,0]
+      ]
+    },
+    {
+      "key": "GUILFORD|SF2",
+      "county": "GUILFORD",
+      "precinct": "SF2",
+      "votes": [
+        [118,0,0,0],
+        [363,0,0,0]
+      ]
+    },
+    {
+      "key": "GUILFORD|SF3",
+      "county": "GUILFORD",
+      "precinct": "SF3",
+      "votes": [
+        [268,0,0,0],
+        [311,0,0,0]
+      ]
+    },
+    {
+      "key": "GUILFORD|SF4",
+      "county": "GUILFORD",
+      "precinct": "SF4",
+      "votes": [
+        [280,0,0,0],
+        [507,0,0,0]
+      ]
+    },
+    {
+      "key": "GUILFORD|STOK",
+      "county": "GUILFORD",
+      "precinct": "STOK",
+      "votes": [
+        [246,0,0,0],
+        [772,0,0,0]
+      ]
+    }
+  ],
+  "other": [
+    {
+      "county": "GUILFORD",
+      "label": "ABSENTEE",
+      "votes": [
+        [0,0,681,0],
+        [0,0,270,0]
+      ]
+    },
+    {
+      "county": "GUILFORD",
+      "label": "EARLYVOTE",
+      "votes": [
+        [0,15318,0,0],
+        [0,13074,0,0]
+      ]
+    },
+    {
+      "county": "GUILFORD",
+      "label": "PROVISIONAL",
+      "votes": [
+        [0,0,0,0],
+        [0,0,0,0]
+      ]
+    },
+    {
+      "county": "GUILFORD",
+      "label": "TRANSFER",
+      "votes": [
+        [0,0,0,0],
+        [0,0,0,0]
+      ]
+    }
+  ]
+}

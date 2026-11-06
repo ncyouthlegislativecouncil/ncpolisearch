@@ -1,0 +1,265 @@
+{
+  "raceId": "nc-house-116",
+  "candidates": [
+    {"name":"Brian Turner","party":"D"}
+  ],
+  "precincts": [
+    {
+      "key": "BUNCOMBE|1.1",
+      "county": "BUNCOMBE",
+      "precinct": "01.1",
+      "votes": [
+        [286,891,51,0]
+      ]
+    },
+    {
+      "key": "BUNCOMBE|10.1",
+      "county": "BUNCOMBE",
+      "precinct": "10.1",
+      "votes": [
+        [198,626,45,0]
+      ]
+    },
+    {
+      "key": "BUNCOMBE|11.1",
+      "county": "BUNCOMBE",
+      "precinct": "11.1",
+      "votes": [
+        [213,689,31,0]
+      ]
+    },
+    {
+      "key": "BUNCOMBE|12.1",
+      "county": "BUNCOMBE",
+      "precinct": "12.1",
+      "votes": [
+        [364,1304,64,0]
+      ]
+    },
+    {
+      "key": "BUNCOMBE|13.1",
+      "county": "BUNCOMBE",
+      "precinct": "13.1",
+      "votes": [
+        [315,1035,52,0]
+      ]
+    },
+    {
+      "key": "BUNCOMBE|14.2",
+      "county": "BUNCOMBE",
+      "precinct": "14.2",
+      "votes": [
+        [290,1067,65,0]
+      ]
+    },
+    {
+      "key": "BUNCOMBE|14.3",
+      "county": "BUNCOMBE",
+      "precinct": "14.3",
+      "votes": [
+        [167,385,10,0]
+      ]
+    },
+    {
+      "key": "BUNCOMBE|15.1",
+      "county": "BUNCOMBE",
+      "precinct": "15.1",
+      "votes": [
+        [279,1186,61,0]
+      ]
+    },
+    {
+      "key": "BUNCOMBE|16.2",
+      "county": "BUNCOMBE",
+      "precinct": "16.2",
+      "votes": [
+        [342,1509,57,0]
+      ]
+    },
+    {
+      "key": "BUNCOMBE|17.1",
+      "county": "BUNCOMBE",
+      "precinct": "17.1",
+      "votes": [
+        [181,766,52,0]
+      ]
+    },
+    {
+      "key": "BUNCOMBE|2.1",
+      "county": "BUNCOMBE",
+      "precinct": "02.1",
+      "votes": [
+        [415,1418,82,0]
+      ]
+    },
+    {
+      "key": "BUNCOMBE|20.1",
+      "county": "BUNCOMBE",
+      "precinct": "20.1",
+      "votes": [
+        [126,564,19,0]
+      ]
+    },
+    {
+      "key": "BUNCOMBE|21.1",
+      "county": "BUNCOMBE",
+      "precinct": "21.1",
+      "votes": [
+        [250,1237,67,0]
+      ]
+    },
+    {
+      "key": "BUNCOMBE|22.2",
+      "county": "BUNCOMBE",
+      "precinct": "22.2",
+      "votes": [
+        [208,1284,86,0]
+      ]
+    },
+    {
+      "key": "BUNCOMBE|23.2",
+      "county": "BUNCOMBE",
+      "precinct": "23.2",
+      "votes": [
+        [43,350,21,0]
+      ]
+    },
+    {
+      "key": "BUNCOMBE|23.3",
+      "county": "BUNCOMBE",
+      "precinct": "23.3",
+      "votes": [
+        [102,438,16,0]
+      ]
+    },
+    {
+      "key": "BUNCOMBE|25.1",
+      "county": "BUNCOMBE",
+      "precinct": "25.1",
+      "votes": [
+        [191,1005,37,0]
+      ]
+    },
+    {
+      "key": "BUNCOMBE|26.1",
+      "county": "BUNCOMBE",
+      "precinct": "26.1",
+      "votes": [
+        [279,846,27,0]
+      ]
+    },
+    {
+      "key": "BUNCOMBE|27.2",
+      "county": "BUNCOMBE",
+      "precinct": "27.2",
+      "votes": [
+        [41,467,25,0]
+      ]
+    },
+    {
+      "key": "BUNCOMBE|28.1",
+      "county": "BUNCOMBE",
+      "precinct": "28.1",
+      "votes": [
+        [253,1099,54,0]
+      ]
+    },
+    {
+      "key": "BUNCOMBE|3.1",
+      "county": "BUNCOMBE",
+      "precinct": "03.1",
+      "votes": [
+        [294,1046,82,0]
+      ]
+    },
+    {
+      "key": "BUNCOMBE|31.1",
+      "county": "BUNCOMBE",
+      "precinct": "31.1",
+      "votes": [
+        [282,367,31,0]
+      ]
+    },
+    {
+      "key": "BUNCOMBE|4.1",
+      "county": "BUNCOMBE",
+      "precinct": "04.1",
+      "votes": [
+        [109,821,49,0]
+      ]
+    },
+    {
+      "key": "BUNCOMBE|42.1",
+      "county": "BUNCOMBE",
+      "precinct": "42.1",
+      "votes": [
+        [286,613,14,0]
+      ]
+    },
+    {
+      "key": "BUNCOMBE|43.2",
+      "county": "BUNCOMBE",
+      "precinct": "43.2",
+      "votes": [
+        [205,471,21,0]
+      ]
+    },
+    {
+      "key": "BUNCOMBE|5.1",
+      "county": "BUNCOMBE",
+      "precinct": "05.1",
+      "votes": [
+        [251,1468,104,0]
+      ]
+    },
+    {
+      "key": "BUNCOMBE|6.1",
+      "county": "BUNCOMBE",
+      "precinct": "06.1",
+      "votes": [
+        [140,756,33,0]
+      ]
+    },
+    {
+      "key": "BUNCOMBE|7.1",
+      "county": "BUNCOMBE",
+      "precinct": "07.1",
+      "votes": [
+        [304,877,38,0]
+      ]
+    },
+    {
+      "key": "BUNCOMBE|70.1",
+      "county": "BUNCOMBE",
+      "precinct": "70.1",
+      "votes": [
+        [365,1168,51,0]
+      ]
+    },
+    {
+      "key": "BUNCOMBE|8.2",
+      "county": "BUNCOMBE",
+      "precinct": "08.2",
+      "votes": [
+        [229,1141,28,0]
+      ]
+    },
+    {
+      "key": "BUNCOMBE|8.3",
+      "county": "BUNCOMBE",
+      "precinct": "08.3",
+      "votes": [
+        [278,1056,48,0]
+      ]
+    },
+    {
+      "key": "BUNCOMBE|9.1",
+      "county": "BUNCOMBE",
+      "precinct": "09.1",
+      "votes": [
+        [503,1526,46,0]
+      ]
+    }
+  ],
+  "other": []
+}

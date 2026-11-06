@@ -1,0 +1,181 @@
+{
+  "raceId": "nc-house-110",
+  "candidates": [
+    {"name":"Caroline Eason","party":"R"},
+    {"name":"Mary Silver","party":"D"}
+  ],
+  "precincts": [
+    {
+      "key": "CLEVELAND|CASAR",
+      "county": "CLEVELAND",
+      "precinct": "CASAR",
+      "votes": [
+        [558,131,3,0],
+        [44,39,5,0]
+      ]
+    },
+    {
+      "key": "CLEVELAND|FALSTN",
+      "county": "CLEVELAND",
+      "precinct": "FALSTN",
+      "votes": [
+        [479,172,3,0],
+        [75,64,13,0]
+      ]
+    },
+    {
+      "key": "CLEVELAND|KINGST",
+      "county": "CLEVELAND",
+      "precinct": "KINGST",
+      "votes": [
+        [84,94,1,0],
+        [135,160,1,0]
+      ]
+    },
+    {
+      "key": "CLEVELAND|LAWNDL",
+      "county": "CLEVELAND",
+      "precinct": "LAWNDL",
+      "votes": [
+        [292,158,3,0],
+        [159,230,8,0]
+      ]
+    },
+    {
+      "key": "CLEVELAND|MULLS",
+      "county": "CLEVELAND",
+      "precinct": "MULLS",
+      "votes": [
+        [646,175,6,0],
+        [108,108,11,0]
+      ]
+    },
+    {
+      "key": "CLEVELAND|POLKVL",
+      "county": "CLEVELAND",
+      "precinct": "POLKVL",
+      "votes": [
+        [633,332,3,0],
+        [135,142,2,0]
+      ]
+    },
+    {
+      "key": "CLEVELAND|S C",
+      "county": "CLEVELAND",
+      "precinct": "S C",
+      "votes": [
+        [481,929,42,0],
+        [463,1389,71,0]
+      ]
+    },
+    {
+      "key": "CLEVELAND|S E",
+      "county": "CLEVELAND",
+      "precinct": "S E",
+      "votes": [
+        [248,422,13,0],
+        [191,534,11,0]
+      ]
+    },
+    {
+      "key": "CLEVELAND|S N",
+      "county": "CLEVELAND",
+      "precinct": "S N",
+      "votes": [
+        [442,658,14,0],
+        [314,932,21,0]
+      ]
+    },
+    {
+      "key": "CLEVELAND|WACO",
+      "county": "CLEVELAND",
+      "precinct": "WACO",
+      "votes": [
+        [442,621,15,0],
+        [175,414,20,0]
+      ]
+    },
+    {
+      "key": "GASTON|10A",
+      "county": "GASTON",
+      "precinct": "10A",
+      "votes": [
+        [561,653,11,0],
+        [146,316,18,0]
+      ]
+    },
+    {
+      "key": "GASTON|11A",
+      "county": "GASTON",
+      "precinct": "11A",
+      "votes": [
+        [514,654,20,0],
+        [125,251,20,0]
+      ]
+    },
+    {
+      "key": "GASTON|12A",
+      "county": "GASTON",
+      "precinct": "12A",
+      "votes": [
+        [370,503,2,0],
+        [70,172,7,0]
+      ]
+    },
+    {
+      "key": "GASTON|15A",
+      "county": "GASTON",
+      "precinct": "15A",
+      "votes": [
+        [128,328,3,0],
+        [383,949,20,0]
+      ]
+    },
+    {
+      "key": "GASTON|5A",
+      "county": "GASTON",
+      "precinct": "5A",
+      "votes": [
+        [377,681,9,0],
+        [330,1005,21,0]
+      ]
+    },
+    {
+      "key": "GASTON|6A",
+      "county": "GASTON",
+      "precinct": "6A",
+      "votes": [
+        [544,777,13,0],
+        [254,589,19,0]
+      ]
+    },
+    {
+      "key": "GASTON|7A",
+      "county": "GASTON",
+      "precinct": "7A",
+      "votes": [
+        [225,290,2,0],
+        [172,369,6,0]
+      ]
+    },
+    {
+      "key": "GASTON|8A",
+      "county": "GASTON",
+      "precinct": "8A",
+      "votes": [
+        [487,642,14,0],
+        [186,400,14,0]
+      ]
+    },
+    {
+      "key": "GASTON|9A",
+      "county": "GASTON",
+      "precinct": "9A",
+      "votes": [
+        [313,473,10,0],
+        [82,181,2,0]
+      ]
+    }
+  ],
+  "other": []
+}

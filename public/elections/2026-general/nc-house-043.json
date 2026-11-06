@@ -1,0 +1,217 @@
+{
+  "raceId": "nc-house-043",
+  "candidates": [
+    {"name":"Janene Ackles","party":"D"},
+    {"name":"Diane Wheatley","party":"R"}
+  ],
+  "precincts": [
+    {
+      "key": "CUMBERLAND|AL51-1",
+      "county": "CUMBERLAND",
+      "precinct": "AL51-1",
+      "votes": [
+        [115,310,11,0],
+        [185,326,5,0]
+      ]
+    },
+    {
+      "key": "CUMBERLAND|AL51-2",
+      "county": "CUMBERLAND",
+      "precinct": "AL51-2",
+      "votes": [
+        [127,500,14,0],
+        [227,363,9,0]
+      ]
+    },
+    {
+      "key": "CUMBERLAND|AL51-3",
+      "county": "CUMBERLAND",
+      "precinct": "AL51-3",
+      "votes": [
+        [76,201,7,0],
+        [209,326,5,0]
+      ]
+    },
+    {
+      "key": "CUMBERLAND|CC22A",
+      "county": "CUMBERLAND",
+      "precinct": "CC22A",
+      "votes": [
+        [372,929,28,0],
+        [210,349,15,0]
+      ]
+    },
+    {
+      "key": "CUMBERLAND|CC23-2",
+      "county": "CUMBERLAND",
+      "precinct": "CC23-2",
+      "votes": [
+        [213,662,30,0],
+        [224,313,10,0]
+      ]
+    },
+    {
+      "key": "CUMBERLAND|EO01",
+      "county": "CUMBERLAND",
+      "precinct": "EO01",
+      "votes": [
+        [197,523,33,0],
+        [496,455,7,0]
+      ]
+    },
+    {
+      "key": "CUMBERLAND|EO02",
+      "county": "CUMBERLAND",
+      "precinct": "EO02",
+      "votes": [
+        [148,409,15,0],
+        [234,438,5,0]
+      ]
+    },
+    {
+      "key": "CUMBERLAND|G1A",
+      "county": "CUMBERLAND",
+      "precinct": "G1A",
+      "votes": [
+        [240,415,17,0],
+        [97,139,12,0]
+      ]
+    },
+    {
+      "key": "CUMBERLAND|G1B",
+      "county": "CUMBERLAND",
+      "precinct": "G1B",
+      "votes": [
+        [235,827,26,0],
+        [396,703,11,0]
+      ]
+    },
+    {
+      "key": "CUMBERLAND|G2C-1",
+      "county": "CUMBERLAND",
+      "precinct": "G2C-1",
+      "votes": [
+        [264,812,13,0],
+        [136,303,11,0]
+      ]
+    },
+    {
+      "key": "CUMBERLAND|G3A-2C",
+      "county": "CUMBERLAND",
+      "precinct": "G3A-2C",
+      "votes": [
+        [257,456,15,0],
+        [166,191,2,0]
+      ]
+    },
+    {
+      "key": "CUMBERLAND|G3B",
+      "county": "CUMBERLAND",
+      "precinct": "G3B",
+      "votes": [
+        [137,157,11,0],
+        [112,74,6,0]
+      ]
+    },
+    {
+      "key": "CUMBERLAND|G3C",
+      "county": "CUMBERLAND",
+      "precinct": "G3C",
+      "votes": [
+        [95,228,13,0],
+        [138,153,4,0]
+      ]
+    },
+    {
+      "key": "CUMBERLAND|G6A",
+      "county": "CUMBERLAND",
+      "precinct": "G6A",
+      "votes": [
+        [167,726,26,0],
+        [558,1003,21,0]
+      ]
+    },
+    {
+      "key": "CUMBERLAND|G6B",
+      "county": "CUMBERLAND",
+      "precinct": "G6B",
+      "votes": [
+        [58,122,1,0],
+        [325,134,1,0]
+      ]
+    },
+    {
+      "key": "CUMBERLAND|G6C",
+      "county": "CUMBERLAND",
+      "precinct": "G6C",
+      "votes": [
+        [162,277,10,0],
+        [347,241,7,0]
+      ]
+    },
+    {
+      "key": "CUMBERLAND|G7A",
+      "county": "CUMBERLAND",
+      "precinct": "G7A",
+      "votes": [
+        [137,64,3,0],
+        [393,130,2,0]
+      ]
+    },
+    {
+      "key": "CUMBERLAND|G7B",
+      "county": "CUMBERLAND",
+      "precinct": "G7B",
+      "votes": [
+        [70,127,2,0],
+        [294,198,2,0]
+      ]
+    },
+    {
+      "key": "CUMBERLAND|G9A-3",
+      "county": "CUMBERLAND",
+      "precinct": "G9A-3",
+      "votes": [
+        [5,24,1,0],
+        [7,3,0,0]
+      ]
+    },
+    {
+      "key": "CUMBERLAND|G9B-2",
+      "county": "CUMBERLAND",
+      "precinct": "G9B-2",
+      "votes": [
+        [369,998,34,0],
+        [388,515,18,0]
+      ]
+    },
+    {
+      "key": "CUMBERLAND|LI65",
+      "county": "CUMBERLAND",
+      "precinct": "LI65",
+      "votes": [
+        [226,533,28,0],
+        [604,598,20,0]
+      ]
+    },
+    {
+      "key": "CUMBERLAND|LO66A",
+      "county": "CUMBERLAND",
+      "precinct": "LO66A",
+      "votes": [
+        [370,1284,54,0],
+        [373,543,27,0]
+      ]
+    },
+    {
+      "key": "CUMBERLAND|SH77",
+      "county": "CUMBERLAND",
+      "precinct": "SH77",
+      "votes": [
+        [228,551,19,0],
+        [305,405,3,0]
+      ]
+    }
+  ],
+  "other": []
+}

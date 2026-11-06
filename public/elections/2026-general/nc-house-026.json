@@ -1,0 +1,191 @@
+{
+  "raceId": "nc-house-026",
+  "candidates": [
+    {"name":"L'Bertrice Solomon","party":"D"},
+    {"name":"Donna McDowell White","party":"R"}
+  ],
+  "precincts": [
+    {
+      "key": "JOHNSTON|PR09",
+      "county": "JOHNSTON",
+      "precinct": "PR09",
+      "votes": [
+        [441,0,0,0],
+        [615,0,0,0]
+      ]
+    },
+    {
+      "key": "JOHNSTON|PR10A",
+      "county": "JOHNSTON",
+      "precinct": "PR10A",
+      "votes": [
+        [367,0,0,0],
+        [313,0,0,0]
+      ]
+    },
+    {
+      "key": "JOHNSTON|PR10B",
+      "county": "JOHNSTON",
+      "precinct": "PR10B",
+      "votes": [
+        [289,0,0,0],
+        [399,0,0,0]
+      ]
+    },
+    {
+      "key": "JOHNSTON|PR11A",
+      "county": "JOHNSTON",
+      "precinct": "PR11A",
+      "votes": [
+        [190,0,0,0],
+        [303,0,0,0]
+      ]
+    },
+    {
+      "key": "JOHNSTON|PR11B",
+      "county": "JOHNSTON",
+      "precinct": "PR11B",
+      "votes": [
+        [439,0,0,0],
+        [453,0,0,0]
+      ]
+    },
+    {
+      "key": "JOHNSTON|PR12B",
+      "county": "JOHNSTON",
+      "precinct": "PR12B",
+      "votes": [
+        [404,0,0,0],
+        [566,0,0,0]
+      ]
+    },
+    {
+      "key": "JOHNSTON|PR20",
+      "county": "JOHNSTON",
+      "precinct": "PR20",
+      "votes": [
+        [469,0,0,0],
+        [768,0,0,0]
+      ]
+    },
+    {
+      "key": "JOHNSTON|PR21",
+      "county": "JOHNSTON",
+      "precinct": "PR21",
+      "votes": [
+        [150,0,0,0],
+        [721,0,0,0]
+      ]
+    },
+    {
+      "key": "JOHNSTON|PR29A",
+      "county": "JOHNSTON",
+      "precinct": "PR29A",
+      "votes": [
+        [512,0,0,0],
+        [801,0,0,0]
+      ]
+    },
+    {
+      "key": "JOHNSTON|PR29B",
+      "county": "JOHNSTON",
+      "precinct": "PR29B",
+      "votes": [
+        [1094,0,0,0],
+        [1240,0,0,0]
+      ]
+    },
+    {
+      "key": "JOHNSTON|PR32",
+      "county": "JOHNSTON",
+      "precinct": "PR32",
+      "votes": [
+        [313,0,0,0],
+        [641,0,0,0]
+      ]
+    },
+    {
+      "key": "JOHNSTON|PR34",
+      "county": "JOHNSTON",
+      "precinct": "PR34",
+      "votes": [
+        [544,0,0,0],
+        [485,0,0,0]
+      ]
+    }
+  ],
+  "other": [
+    {
+      "county": "JOHNSTON",
+      "label": "ABS-SUPPLEMENTAL",
+      "votes": [
+        [0,0,0,0],
+        [0,0,0,0]
+      ]
+    },
+    {
+      "county": "JOHNSTON",
+      "label": "ABSENTEE",
+      "votes": [
+        [0,0,637,0],
+        [0,0,271,0]
+      ]
+    },
+    {
+      "county": "JOHNSTON",
+      "label": "EV-ARCHER LODGE",
+      "votes": [
+        [0,6141,0,0],
+        [0,5342,0,0]
+      ]
+    },
+    {
+      "county": "JOHNSTON",
+      "label": "EV-BENSON",
+      "votes": [
+        [0,18,0,0],
+        [0,18,0,0]
+      ]
+    },
+    {
+      "county": "JOHNSTON",
+      "label": "EV-CLAYTON",
+      "votes": [
+        [0,7736,0,0],
+        [0,4720,0,0]
+      ]
+    },
+    {
+      "county": "JOHNSTON",
+      "label": "EV-CLEVELAND",
+      "votes": [
+        [0,1592,0,0],
+        [0,1270,0,0]
+      ]
+    },
+    {
+      "county": "JOHNSTON",
+      "label": "EV-SMITHFIELD",
+      "votes": [
+        [0,319,0,0],
+        [0,286,0,0]
+      ]
+    },
+    {
+      "county": "JOHNSTON",
+      "label": "PROVISIONAL",
+      "votes": [
+        [0,0,0,0],
+        [0,0,0,0]
+      ]
+    },
+    {
+      "county": "JOHNSTON",
+      "label": "TRANSFER",
+      "votes": [
+        [0,0,0,0],
+        [0,0,0,0]
+      ]
+    }
+  ]
+}

@@ -1,0 +1,217 @@
+{
+  "raceId": "nc-house-096",
+  "candidates": [
+    {"name":"Jay Adams","party":"R"},
+    {"name":"Park Inglefield","party":"D"}
+  ],
+  "precincts": [
+    {
+      "key": "CATAWBA|11",
+      "county": "CATAWBA",
+      "precinct": "11",
+      "votes": [
+        [99,134,6,0],
+        [92,203,22,1]
+      ]
+    },
+    {
+      "key": "CATAWBA|12",
+      "county": "CATAWBA",
+      "precinct": "12",
+      "votes": [
+        [57,81,1,0],
+        [175,376,7,0]
+      ]
+    },
+    {
+      "key": "CATAWBA|13",
+      "county": "CATAWBA",
+      "precinct": "13",
+      "votes": [
+        [104,124,2,0],
+        [144,272,6,1]
+      ]
+    },
+    {
+      "key": "CATAWBA|14",
+      "county": "CATAWBA",
+      "precinct": "14",
+      "votes": [
+        [233,221,4,0],
+        [186,342,20,0]
+      ]
+    },
+    {
+      "key": "CATAWBA|15",
+      "county": "CATAWBA",
+      "precinct": "15",
+      "votes": [
+        [11,22,0,0],
+        [81,136,3,0]
+      ]
+    },
+    {
+      "key": "CATAWBA|16",
+      "county": "CATAWBA",
+      "precinct": "16",
+      "votes": [
+        [175,404,3,1],
+        [200,507,9,3]
+      ]
+    },
+    {
+      "key": "CATAWBA|17",
+      "county": "CATAWBA",
+      "precinct": "17",
+      "votes": [
+        [209,150,3,0],
+        [144,211,7,0]
+      ]
+    },
+    {
+      "key": "CATAWBA|19",
+      "county": "CATAWBA",
+      "precinct": "19",
+      "votes": [
+        [144,167,1,0],
+        [83,177,1,0]
+      ]
+    },
+    {
+      "key": "CATAWBA|23",
+      "county": "CATAWBA",
+      "precinct": "23",
+      "votes": [
+        [513,1028,21,1],
+        [183,681,34,1]
+      ]
+    },
+    {
+      "key": "CATAWBA|24",
+      "county": "CATAWBA",
+      "precinct": "24",
+      "votes": [
+        [477,997,5,2],
+        [118,550,11,1]
+      ]
+    },
+    {
+      "key": "CATAWBA|26",
+      "county": "CATAWBA",
+      "precinct": "26",
+      "votes": [
+        [185,334,3,0],
+        [131,453,11,0]
+      ]
+    },
+    {
+      "key": "CATAWBA|28",
+      "county": "CATAWBA",
+      "precinct": "28",
+      "votes": [
+        [353,548,13,0],
+        [173,462,29,2]
+      ]
+    },
+    {
+      "key": "CATAWBA|29",
+      "county": "CATAWBA",
+      "precinct": "29",
+      "votes": [
+        [594,1033,19,0],
+        [195,663,33,2]
+      ]
+    },
+    {
+      "key": "CATAWBA|30",
+      "county": "CATAWBA",
+      "precinct": "30",
+      "votes": [
+        [292,580,51,1],
+        [226,641,49,5]
+      ]
+    },
+    {
+      "key": "CATAWBA|33",
+      "county": "CATAWBA",
+      "precinct": "33",
+      "votes": [
+        [582,959,15,0],
+        [209,608,40,3]
+      ]
+    },
+    {
+      "key": "CATAWBA|35",
+      "county": "CATAWBA",
+      "precinct": "35",
+      "votes": [
+        [335,604,31,0],
+        [244,496,31,1]
+      ]
+    },
+    {
+      "key": "CATAWBA|36",
+      "county": "CATAWBA",
+      "precinct": "36",
+      "votes": [
+        [307,451,27,0],
+        [184,532,39,0]
+      ]
+    },
+    {
+      "key": "CATAWBA|37",
+      "county": "CATAWBA",
+      "precinct": "37",
+      "votes": [
+        [198,404,20,0],
+        [166,549,22,1]
+      ]
+    },
+    {
+      "key": "CATAWBA|38",
+      "county": "CATAWBA",
+      "precinct": "38",
+      "votes": [
+        [387,651,13,0],
+        [192,742,25,0]
+      ]
+    },
+    {
+      "key": "CATAWBA|39",
+      "county": "CATAWBA",
+      "precinct": "39",
+      "votes": [
+        [300,627,18,0],
+        [113,481,20,0]
+      ]
+    },
+    {
+      "key": "CATAWBA|4",
+      "county": "CATAWBA",
+      "precinct": "04",
+      "votes": [
+        [91,117,0,0],
+        [85,160,8,0]
+      ]
+    },
+    {
+      "key": "CATAWBA|7",
+      "county": "CATAWBA",
+      "precinct": "07",
+      "votes": [
+        [251,503,8,2],
+        [171,523,18,4]
+      ]
+    },
+    {
+      "key": "CATAWBA|8",
+      "county": "CATAWBA",
+      "precinct": "08",
+      "votes": [
+        [280,692,9,0],
+        [132,469,18,2]
+      ]
+    }
+  ],
+  "other": []
+}

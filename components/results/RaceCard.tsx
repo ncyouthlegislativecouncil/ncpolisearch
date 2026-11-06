@@ -65,8 +65,16 @@ function CandidateRow({ c, showCheck }: { c: CandidateView; showCheck: boolean }
   );
 }
 
-export default function RaceCard({ race }: { race: RaceView }) {
+export default function RaceCard({
+  race,
+  showPrecinctLink = true,
+}: {
+  race: RaceView;
+  showPrecinctLink?: boolean;
+}) {
   const chip = STATUS_CHIP[race.status];
+  const precinctLink =
+    showPrecinctLink && (race.category === "nc-house" || race.category === "nc-senate");
   const showCheck = race.status === "winner" || race.status === "unopposed";
 
   let footer: React.ReactNode = null;
@@ -125,15 +133,22 @@ export default function RaceCard({ race }: { race: RaceView }) {
         ))}
       </ul>
 
-      {(footer || race.flip) && (
-        <footer className="border-t border-gray-100 px-4 py-2.5 text-xs text-navymuted">
-          {race.flip && (
-            <span className="mr-2 font-bold text-navy">
-              Flipped {race.flip.from} → {race.flip.to}
-              {footer ? " ·" : ""}
-            </span>
+      {(footer || race.flip || precinctLink) && (
+        <footer className="flex items-baseline justify-between gap-2 border-t border-gray-100 px-4 py-2.5 text-xs text-navymuted">
+          <span>
+            {race.flip && (
+              <span className="mr-2 font-bold text-navy">
+                Flipped {race.flip.from} → {race.flip.to}
+                {footer ? " ·" : ""}
+              </span>
+            )}
+            {footer}
+          </span>
+          {precinctLink && (
+            <Link href={`/results/${race.id}`} className="shrink-0 font-semibold text-navy hover:text-skyblue">
+              Precincts ›
+            </Link>
           )}
-          {footer}
         </footer>
       )}
     </article>

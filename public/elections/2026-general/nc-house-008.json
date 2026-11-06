@@ -1,0 +1,263 @@
+{
+  "raceId": "nc-house-008",
+  "candidates": [
+    {"name":"Gloristine Brown","party":"D"},
+    {"name":"Cathy Thorne Bynum","party":"R"}
+  ],
+  "precincts": [
+    {
+      "key": "PITT|101",
+      "county": "PITT",
+      "precinct": "0101",
+      "votes": [
+        [389,0,0,0],
+        [375,0,0,0]
+      ]
+    },
+    {
+      "key": "PITT|1501",
+      "county": "PITT",
+      "precinct": "1501",
+      "votes": [
+        [90,0,0,0],
+        [5,0,0,0]
+      ]
+    },
+    {
+      "key": "PITT|1503",
+      "county": "PITT",
+      "precinct": "1503",
+      "votes": [
+        [251,0,0,0],
+        [38,0,0,0]
+      ]
+    },
+    {
+      "key": "PITT|1504A",
+      "county": "PITT",
+      "precinct": "1504A",
+      "votes": [
+        [280,0,0,0],
+        [32,0,0,0]
+      ]
+    },
+    {
+      "key": "PITT|1504B",
+      "county": "PITT",
+      "precinct": "1504B",
+      "votes": [
+        [504,0,0,0],
+        [170,0,0,0]
+      ]
+    },
+    {
+      "key": "PITT|1505A",
+      "county": "PITT",
+      "precinct": "1505A",
+      "votes": [
+        [258,0,0,0],
+        [71,0,0,0]
+      ]
+    },
+    {
+      "key": "PITT|1505B",
+      "county": "PITT",
+      "precinct": "1505B",
+      "votes": [
+        [341,0,0,0],
+        [28,0,0,0]
+      ]
+    },
+    {
+      "key": "PITT|1506",
+      "county": "PITT",
+      "precinct": "1506",
+      "votes": [
+        [166,0,0,0],
+        [57,0,0,0]
+      ]
+    },
+    {
+      "key": "PITT|1507",
+      "county": "PITT",
+      "precinct": "1507",
+      "votes": [
+        [214,0,0,0],
+        [124,0,0,0]
+      ]
+    },
+    {
+      "key": "PITT|1507B",
+      "county": "PITT",
+      "precinct": "1507B",
+      "votes": [
+        [111,0,0,0],
+        [63,0,0,0]
+      ]
+    },
+    {
+      "key": "PITT|1508A",
+      "county": "PITT",
+      "precinct": "1508A",
+      "votes": [
+        [84,0,0,0],
+        [64,0,0,0]
+      ]
+    },
+    {
+      "key": "PITT|1508B",
+      "county": "PITT",
+      "precinct": "1508B",
+      "votes": [
+        [233,0,0,0],
+        [120,0,0,0]
+      ]
+    },
+    {
+      "key": "PITT|1509",
+      "county": "PITT",
+      "precinct": "1509",
+      "votes": [
+        [306,0,0,0],
+        [340,0,0,0]
+      ]
+    },
+    {
+      "key": "PITT|1512A",
+      "county": "PITT",
+      "precinct": "1512A",
+      "votes": [
+        [557,0,0,0],
+        [359,0,0,0]
+      ]
+    },
+    {
+      "key": "PITT|301",
+      "county": "PITT",
+      "precinct": "0301",
+      "votes": [
+        [339,0,0,0],
+        [249,0,0,0]
+      ]
+    },
+    {
+      "key": "PITT|401",
+      "county": "PITT",
+      "precinct": "0401",
+      "votes": [
+        [244,0,0,0],
+        [181,0,0,0]
+      ]
+    },
+    {
+      "key": "PITT|701",
+      "county": "PITT",
+      "precinct": "0701",
+      "votes": [
+        [155,0,0,0],
+        [400,0,0,0]
+      ]
+    },
+    {
+      "key": "PITT|800A",
+      "county": "PITT",
+      "precinct": "0800A",
+      "votes": [
+        [423,0,0,0],
+        [485,0,0,0]
+      ]
+    },
+    {
+      "key": "PITT|800B",
+      "county": "PITT",
+      "precinct": "0800B",
+      "votes": [
+        [351,0,0,0],
+        [361,0,0,0]
+      ]
+    },
+    {
+      "key": "PITT|901",
+      "county": "PITT",
+      "precinct": "0901",
+      "votes": [
+        [130,0,0,0],
+        [202,0,0,0]
+      ]
+    }
+  ],
+  "other": [
+    {
+      "county": "PITT",
+      "label": "ABSENTEE",
+      "votes": [
+        [0,0,300,0],
+        [0,0,82,0]
+      ]
+    },
+    {
+      "county": "PITT",
+      "label": "EV AG CENTER",
+      "votes": [
+        [0,2698,0,0],
+        [0,800,0,0]
+      ]
+    },
+    {
+      "county": "PITT",
+      "label": "EV COMMUNITY SCH",
+      "votes": [
+        [0,1157,0,0],
+        [0,580,0,0]
+      ]
+    },
+    {
+      "county": "PITT",
+      "label": "EV COUNTY OFFICE",
+      "votes": [
+        [0,3848,0,0],
+        [0,643,0,0]
+      ]
+    },
+    {
+      "county": "PITT",
+      "label": "EV EASTERN PITT",
+      "votes": [
+        [0,73,0,0],
+        [0,57,0,0]
+      ]
+    },
+    {
+      "county": "PITT",
+      "label": "EV STUDENT CENT",
+      "votes": [
+        [0,3134,0,0],
+        [0,617,0,0]
+      ]
+    },
+    {
+      "county": "PITT",
+      "label": "EV WINTERVILLE",
+      "votes": [
+        [0,1852,0,0],
+        [0,937,0,0]
+      ]
+    },
+    {
+      "county": "PITT",
+      "label": "PROVISIONAL",
+      "votes": [
+        [0,0,0,0],
+        [0,0,0,0]
+      ]
+    },
+    {
+      "county": "PITT",
+      "label": "TRANSFER",
+      "votes": [
+        [0,0,0,0],
+        [0,0,0,0]
+      ]
+    }
+  ]
+}

@@ -1,0 +1,501 @@
+{
+  "raceId": "nc-senate-45",
+  "candidates": [
+    {"name":"Mark Hollo","party":"R"},
+    {"name":"Greg Cranford","party":"D"}
+  ],
+  "precincts": [
+    {
+      "key": "CALDWELL|1",
+      "county": "CALDWELL",
+      "precinct": "1",
+      "votes": [
+        [529,0,0,0],
+        [184,0,0,0]
+      ]
+    },
+    {
+      "key": "CALDWELL|10",
+      "county": "CALDWELL",
+      "precinct": "10",
+      "votes": [
+        [467,0,0,0],
+        [107,0,0,0]
+      ]
+    },
+    {
+      "key": "CALDWELL|11",
+      "county": "CALDWELL",
+      "precinct": "11",
+      "votes": [
+        [451,0,0,0],
+        [106,0,0,0]
+      ]
+    },
+    {
+      "key": "CALDWELL|13",
+      "county": "CALDWELL",
+      "precinct": "13",
+      "votes": [
+        [636,0,0,0],
+        [204,0,0,0]
+      ]
+    },
+    {
+      "key": "CALDWELL|14",
+      "county": "CALDWELL",
+      "precinct": "14",
+      "votes": [
+        [692,0,0,0],
+        [182,0,0,0]
+      ]
+    },
+    {
+      "key": "CALDWELL|15",
+      "county": "CALDWELL",
+      "precinct": "15",
+      "votes": [
+        [303,0,0,0],
+        [65,0,0,0]
+      ]
+    },
+    {
+      "key": "CALDWELL|5",
+      "county": "CALDWELL",
+      "precinct": "5",
+      "votes": [
+        [312,0,0,0],
+        [107,0,0,0]
+      ]
+    },
+    {
+      "key": "CALDWELL|6",
+      "county": "CALDWELL",
+      "precinct": "6",
+      "votes": [
+        [128,0,0,0],
+        [131,0,0,0]
+      ]
+    },
+    {
+      "key": "CALDWELL|7",
+      "county": "CALDWELL",
+      "precinct": "7",
+      "votes": [
+        [410,0,0,0],
+        [263,0,0,0]
+      ]
+    },
+    {
+      "key": "CALDWELL|9",
+      "county": "CALDWELL",
+      "precinct": "9",
+      "votes": [
+        [471,0,0,0],
+        [96,0,0,0]
+      ]
+    },
+    {
+      "key": "CATAWBA|1",
+      "county": "CATAWBA",
+      "precinct": "01",
+      "votes": [
+        [559,922,12,0],
+        [104,254,31,0]
+      ]
+    },
+    {
+      "key": "CATAWBA|10",
+      "county": "CATAWBA",
+      "precinct": "10",
+      "votes": [
+        [38,56,1,1],
+        [46,118,2,0]
+      ]
+    },
+    {
+      "key": "CATAWBA|11",
+      "county": "CATAWBA",
+      "precinct": "11",
+      "votes": [
+        [98,131,7,0],
+        [92,208,21,1]
+      ]
+    },
+    {
+      "key": "CATAWBA|12",
+      "county": "CATAWBA",
+      "precinct": "12",
+      "votes": [
+        [54,74,1,0],
+        [177,383,7,0]
+      ]
+    },
+    {
+      "key": "CATAWBA|13",
+      "county": "CATAWBA",
+      "precinct": "13",
+      "votes": [
+        [105,126,2,0],
+        [141,270,6,1]
+      ]
+    },
+    {
+      "key": "CATAWBA|14",
+      "county": "CATAWBA",
+      "precinct": "14",
+      "votes": [
+        [225,213,4,0],
+        [188,353,20,0]
+      ]
+    },
+    {
+      "key": "CATAWBA|15",
+      "county": "CATAWBA",
+      "precinct": "15",
+      "votes": [
+        [10,18,0,0],
+        [86,138,3,0]
+      ]
+    },
+    {
+      "key": "CATAWBA|16",
+      "county": "CATAWBA",
+      "precinct": "16",
+      "votes": [
+        [176,396,4,2],
+        [197,516,8,2]
+      ]
+    },
+    {
+      "key": "CATAWBA|17",
+      "county": "CATAWBA",
+      "precinct": "17",
+      "votes": [
+        [209,151,2,0],
+        [144,208,8,0]
+      ]
+    },
+    {
+      "key": "CATAWBA|19",
+      "county": "CATAWBA",
+      "precinct": "19",
+      "votes": [
+        [144,164,1,0],
+        [80,180,1,0]
+      ]
+    },
+    {
+      "key": "CATAWBA|2",
+      "county": "CATAWBA",
+      "precinct": "02",
+      "votes": [
+        [414,521,8,0],
+        [92,193,7,0]
+      ]
+    },
+    {
+      "key": "CATAWBA|20",
+      "county": "CATAWBA",
+      "precinct": "20",
+      "votes": [
+        [528,623,5,0],
+        [191,351,11,2]
+      ]
+    },
+    {
+      "key": "CATAWBA|21",
+      "county": "CATAWBA",
+      "precinct": "21",
+      "votes": [
+        [381,606,2,1],
+        [61,294,13,0]
+      ]
+    },
+    {
+      "key": "CATAWBA|22",
+      "county": "CATAWBA",
+      "precinct": "22",
+      "votes": [
+        [470,650,16,2],
+        [187,420,27,2]
+      ]
+    },
+    {
+      "key": "CATAWBA|23",
+      "county": "CATAWBA",
+      "precinct": "23",
+      "votes": [
+        [513,1028,20,1],
+        [180,685,35,1]
+      ]
+    },
+    {
+      "key": "CATAWBA|24",
+      "county": "CATAWBA",
+      "precinct": "24",
+      "votes": [
+        [478,1004,5,2],
+        [119,549,11,1]
+      ]
+    },
+    {
+      "key": "CATAWBA|25",
+      "county": "CATAWBA",
+      "precinct": "25",
+      "votes": [
+        [178,292,7,1],
+        [135,299,17,4]
+      ]
+    },
+    {
+      "key": "CATAWBA|26",
+      "county": "CATAWBA",
+      "precinct": "26",
+      "votes": [
+        [192,334,3,0],
+        [122,456,11,0]
+      ]
+    },
+    {
+      "key": "CATAWBA|27",
+      "county": "CATAWBA",
+      "precinct": "27",
+      "votes": [
+        [617,766,17,0],
+        [157,361,21,0]
+      ]
+    },
+    {
+      "key": "CATAWBA|28",
+      "county": "CATAWBA",
+      "precinct": "28",
+      "votes": [
+        [350,544,10,0],
+        [176,455,32,2]
+      ]
+    },
+    {
+      "key": "CATAWBA|29",
+      "county": "CATAWBA",
+      "precinct": "29",
+      "votes": [
+        [598,1044,17,0],
+        [191,649,35,2]
+      ]
+    },
+    {
+      "key": "CATAWBA|3",
+      "county": "CATAWBA",
+      "precinct": "03",
+      "votes": [
+        [363,501,7,1],
+        [105,220,9,1]
+      ]
+    },
+    {
+      "key": "CATAWBA|30",
+      "county": "CATAWBA",
+      "precinct": "30",
+      "votes": [
+        [302,578,49,1],
+        [216,636,50,5]
+      ]
+    },
+    {
+      "key": "CATAWBA|31",
+      "county": "CATAWBA",
+      "precinct": "31",
+      "votes": [
+        [703,1620,29,1],
+        [220,898,58,1]
+      ]
+    },
+    {
+      "key": "CATAWBA|32",
+      "county": "CATAWBA",
+      "precinct": "32",
+      "votes": [
+        [367,505,6,1],
+        [191,504,23,1]
+      ]
+    },
+    {
+      "key": "CATAWBA|33",
+      "county": "CATAWBA",
+      "precinct": "33",
+      "votes": [
+        [579,964,15,0],
+        [214,602,39,3]
+      ]
+    },
+    {
+      "key": "CATAWBA|34",
+      "county": "CATAWBA",
+      "precinct": "34",
+      "votes": [
+        [587,993,7,0],
+        [194,599,23,2]
+      ]
+    },
+    {
+      "key": "CATAWBA|35",
+      "county": "CATAWBA",
+      "precinct": "35",
+      "votes": [
+        [347,606,31,0],
+        [229,495,31,1]
+      ]
+    },
+    {
+      "key": "CATAWBA|36",
+      "county": "CATAWBA",
+      "precinct": "36",
+      "votes": [
+        [305,455,26,0],
+        [184,521,38,0]
+      ]
+    },
+    {
+      "key": "CATAWBA|37",
+      "county": "CATAWBA",
+      "precinct": "37",
+      "votes": [
+        [206,397,20,0],
+        [159,545,22,1]
+      ]
+    },
+    {
+      "key": "CATAWBA|38",
+      "county": "CATAWBA",
+      "precinct": "38",
+      "votes": [
+        [389,661,14,0],
+        [191,729,25,0]
+      ]
+    },
+    {
+      "key": "CATAWBA|39",
+      "county": "CATAWBA",
+      "precinct": "39",
+      "votes": [
+        [311,636,20,0],
+        [102,471,18,0]
+      ]
+    },
+    {
+      "key": "CATAWBA|4",
+      "county": "CATAWBA",
+      "precinct": "04",
+      "votes": [
+        [93,117,0,0],
+        [84,161,8,0]
+      ]
+    },
+    {
+      "key": "CATAWBA|40",
+      "county": "CATAWBA",
+      "precinct": "40",
+      "votes": [
+        [115,318,8,1],
+        [76,333,14,1]
+      ]
+    },
+    {
+      "key": "CATAWBA|41",
+      "county": "CATAWBA",
+      "precinct": "41",
+      "votes": [
+        [575,1241,20,2],
+        [188,705,41,1]
+      ]
+    },
+    {
+      "key": "CATAWBA|5",
+      "county": "CATAWBA",
+      "precinct": "05",
+      "votes": [
+        [486,676,4,1],
+        [187,365,13,2]
+      ]
+    },
+    {
+      "key": "CATAWBA|6",
+      "county": "CATAWBA",
+      "precinct": "06",
+      "votes": [
+        [374,601,10,0],
+        [99,308,28,0]
+      ]
+    },
+    {
+      "key": "CATAWBA|7",
+      "county": "CATAWBA",
+      "precinct": "07",
+      "votes": [
+        [248,513,8,2],
+        [173,511,18,4]
+      ]
+    },
+    {
+      "key": "CATAWBA|8",
+      "county": "CATAWBA",
+      "precinct": "08",
+      "votes": [
+        [287,711,9,0],
+        [124,455,18,2]
+      ]
+    },
+    {
+      "key": "CATAWBA|9",
+      "county": "CATAWBA",
+      "precinct": "09",
+      "votes": [
+        [550,539,5,0],
+        [81,182,1,0]
+      ]
+    }
+  ],
+  "other": [
+    {
+      "county": "CALDWELL",
+      "label": "ABSENTEE",
+      "votes": [
+        [0,0,137,0],
+        [0,0,180,0]
+      ]
+    },
+    {
+      "county": "CALDWELL",
+      "label": "EV CRC",
+      "votes": [
+        [0,3419,0,0],
+        [0,2192,0,0]
+      ]
+    },
+    {
+      "county": "CALDWELL",
+      "label": "EV SRC",
+      "votes": [
+        [0,4813,0,0],
+        [0,1974,0,0]
+      ]
+    },
+    {
+      "county": "CALDWELL",
+      "label": "PROVISIONAL",
+      "votes": [
+        [0,0,0,0],
+        [0,0,0,0]
+      ]
+    },
+    {
+      "county": "CALDWELL",
+      "label": "TRANSFER",
+      "votes": [
+        [0,0,0,0],
+        [0,0,0,0]
+      ]
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "raceId": "nc-house-042",
+  "candidates": [
+    {"name":"Mike Colvin","party":"D"}
+  ],
+  "precincts": [
+    {
+      "key": "CUMBERLAND|CC16",
+      "county": "CUMBERLAND",
+      "precinct": "CC16",
+      "votes": [
+        [215,668,12,0]
+      ]
+    },
+    {
+      "key": "CUMBERLAND|CC27",
+      "county": "CUMBERLAND",
+      "precinct": "CC27",
+      "votes": [
+        [362,868,32,0]
+      ]
+    },
+    {
+      "key": "CUMBERLAND|CC519",
+      "county": "CUMBERLAND",
+      "precinct": "CC519",
+      "votes": [
+        [196,437,13,0]
+      ]
+    },
+    {
+      "key": "CUMBERLAND|CL57-1",
+      "county": "CUMBERLAND",
+      "precinct": "CL57-1",
+      "votes": [
+        [377,877,43,0]
+      ]
+    },
+    {
+      "key": "CUMBERLAND|CL57-2",
+      "county": "CUMBERLAND",
+      "precinct": "CL57-2",
+      "votes": [
+        [378,996,43,0]
+      ]
+    },
+    {
+      "key": "CUMBERLAND|G11B",
+      "county": "CUMBERLAND",
+      "precinct": "G11B",
+      "votes": [
+        [188,257,54,0]
+      ]
+    },
+    {
+      "key": "CUMBERLAND|G2A",
+      "county": "CUMBERLAND",
+      "precinct": "G2A",
+      "votes": [
+        [433,1444,67,0]
+      ]
+    },
+    {
+      "key": "CUMBERLAND|G2E-1",
+      "county": "CUMBERLAND",
+      "precinct": "G2E-1",
+      "votes": [
+        [202,543,21,0]
+      ]
+    },
+    {
+      "key": "CUMBERLAND|G5B-1",
+      "county": "CUMBERLAND",
+      "precinct": "G5B-1",
+      "votes": [
+        [344,888,34,0]
+      ]
+    },
+    {
+      "key": "CUMBERLAND|LR63",
+      "county": "CUMBERLAND",
+      "precinct": "LR63",
+      "votes": [
+        [573,1484,46,0]
+      ]
+    },
+    {
+      "key": "CUMBERLAND|MB62",
+      "county": "CUMBERLAND",
+      "precinct": "MB62",
+      "votes": [
+        [396,692,23,0]
+      ]
+    },
+    {
+      "key": "CUMBERLAND|SL78-3",
+      "county": "CUMBERLAND",
+      "precinct": "SL78-3",
+      "votes": [
+        [720,731,34,0]
+      ]
+    }
+  ],
+  "other": []
+}

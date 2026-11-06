@@ -1,0 +1,307 @@
+{
+  "raceId": "nc-house-119",
+  "candidates": [
+    {"name":"Mark Burrows","party":"D"},
+    {"name":"Anna Ferguson","party":"R"}
+  ],
+  "precincts": [
+    {
+      "key": "JACKSON|BCK",
+      "county": "JACKSON",
+      "precinct": "BCK",
+      "votes": [
+        [101,256,8,0],
+        [188,271,6,0]
+      ]
+    },
+    {
+      "key": "JACKSON|CAN",
+      "county": "JACKSON",
+      "precinct": "CAN",
+      "votes": [
+        [41,54,7,0],
+        [107,70,3,0]
+      ]
+    },
+    {
+      "key": "JACKSON|CAS",
+      "county": "JACKSON",
+      "precinct": "CAS",
+      "votes": [
+        [71,381,25,0],
+        [190,453,4,0]
+      ]
+    },
+    {
+      "key": "JACKSON|CFK",
+      "county": "JACKSON",
+      "precinct": "CFK",
+      "votes": [
+        [58,130,5,0],
+        [88,110,1,0]
+      ]
+    },
+    {
+      "key": "JACKSON|CUL",
+      "county": "JACKSON",
+      "precinct": "CUL",
+      "votes": [
+        [445,2004,30,0],
+        [195,503,13,0]
+      ]
+    },
+    {
+      "key": "JACKSON|GCK",
+      "county": "JACKSON",
+      "precinct": "GCK",
+      "votes": [
+        [91,253,9,0],
+        [152,160,3,0]
+      ]
+    },
+    {
+      "key": "JACKSON|GLV",
+      "county": "JACKSON",
+      "precinct": "GLV",
+      "votes": [
+        [87,306,16,0],
+        [257,413,4,0]
+      ]
+    },
+    {
+      "key": "JACKSON|QUA",
+      "county": "JACKSON",
+      "precinct": "QUA",
+      "votes": [
+        [256,614,14,0],
+        [350,532,14,0]
+      ]
+    },
+    {
+      "key": "JACKSON|RIV",
+      "county": "JACKSON",
+      "precinct": "RIV",
+      "votes": [
+        [40,170,6,0],
+        [108,136,4,0]
+      ]
+    },
+    {
+      "key": "JACKSON|SAV",
+      "county": "JACKSON",
+      "precinct": "SAV",
+      "votes": [
+        [93,181,9,0],
+        [213,177,4,0]
+      ]
+    },
+    {
+      "key": "JACKSON|SCC",
+      "county": "JACKSON",
+      "precinct": "SCC",
+      "votes": [
+        [107,353,10,0],
+        [257,310,8,0]
+      ]
+    },
+    {
+      "key": "JACKSON|SDC",
+      "county": "JACKSON",
+      "precinct": "SDC",
+      "votes": [
+        [315,1435,70,0],
+        [412,959,23,0]
+      ]
+    },
+    {
+      "key": "JACKSON|WEB",
+      "county": "JACKSON",
+      "precinct": "WEB",
+      "votes": [
+        [154,532,30,0],
+        [196,344,15,0]
+      ]
+    },
+    {
+      "key": "SWAIN|ALARKA",
+      "county": "SWAIN",
+      "precinct": "ALARKA",
+      "votes": [
+        [68,108,6,0],
+        [169,126,3,0]
+      ]
+    },
+    {
+      "key": "SWAIN|ALMOND",
+      "county": "SWAIN",
+      "precinct": "ALMOND",
+      "votes": [
+        [81,232,7,0],
+        [237,267,4,0]
+      ]
+    },
+    {
+      "key": "SWAIN|BC1",
+      "county": "SWAIN",
+      "precinct": "BC1",
+      "votes": [
+        [89,344,14,0],
+        [250,476,4,0]
+      ]
+    },
+    {
+      "key": "SWAIN|BC2",
+      "county": "SWAIN",
+      "precinct": "BC2",
+      "votes": [
+        [108,358,14,0],
+        [322,425,1,0]
+      ]
+    },
+    {
+      "key": "SWAIN|WHCH",
+      "county": "SWAIN",
+      "precinct": "WHCH",
+      "votes": [
+        [267,457,16,0],
+        [275,343,10,0]
+      ]
+    },
+    {
+      "key": "TRANSYLVANIA|B1",
+      "county": "TRANSYLVANIA",
+      "precinct": "B1",
+      "votes": [
+        [123,689,21,0],
+        [97,249,7,0]
+      ]
+    },
+    {
+      "key": "TRANSYLVANIA|B2",
+      "county": "TRANSYLVANIA",
+      "precinct": "B2",
+      "votes": [
+        [132,522,12,0],
+        [108,190,8,0]
+      ]
+    },
+    {
+      "key": "TRANSYLVANIA|B3",
+      "county": "TRANSYLVANIA",
+      "precinct": "B3",
+      "votes": [
+        [150,712,39,0],
+        [119,307,7,0]
+      ]
+    },
+    {
+      "key": "TRANSYLVANIA|B4",
+      "county": "TRANSYLVANIA",
+      "precinct": "B4",
+      "votes": [
+        [111,589,39,0],
+        [89,186,10,0]
+      ]
+    },
+    {
+      "key": "TRANSYLVANIA|BD",
+      "county": "TRANSYLVANIA",
+      "precinct": "BD",
+      "votes": [
+        [147,532,22,0],
+        [323,514,9,0]
+      ]
+    },
+    {
+      "key": "TRANSYLVANIA|CC.1",
+      "county": "TRANSYLVANIA",
+      "precinct": "CC.1",
+      "votes": [
+        [108,453,21,0],
+        [366,444,10,0]
+      ]
+    },
+    {
+      "key": "TRANSYLVANIA|CM",
+      "county": "TRANSYLVANIA",
+      "precinct": "CM",
+      "votes": [
+        [78,260,17,0],
+        [136,103,4,0]
+      ]
+    },
+    {
+      "key": "TRANSYLVANIA|DR",
+      "county": "TRANSYLVANIA",
+      "precinct": "DR",
+      "votes": [
+        [136,868,63,0],
+        [220,495,19,0]
+      ]
+    },
+    {
+      "key": "TRANSYLVANIA|EF",
+      "county": "TRANSYLVANIA",
+      "precinct": "EF",
+      "votes": [
+        [66,316,6,0],
+        [129,205,7,0]
+      ]
+    },
+    {
+      "key": "TRANSYLVANIA|LR",
+      "county": "TRANSYLVANIA",
+      "precinct": "LR",
+      "votes": [
+        [116,317,15,0],
+        [300,294,4,0]
+      ]
+    },
+    {
+      "key": "TRANSYLVANIA|PF",
+      "county": "TRANSYLVANIA",
+      "precinct": "PF",
+      "votes": [
+        [83,274,14,0],
+        [126,183,9,0]
+      ]
+    },
+    {
+      "key": "TRANSYLVANIA|RE.1",
+      "county": "TRANSYLVANIA",
+      "precinct": "RE.1",
+      "votes": [
+        [129,233,9,0],
+        [484,283,5,0]
+      ]
+    },
+    {
+      "key": "TRANSYLVANIA|TC1",
+      "county": "TRANSYLVANIA",
+      "precinct": "TC1",
+      "votes": [
+        [34,71,9,0],
+        [231,107,2,0]
+      ]
+    },
+    {
+      "key": "TRANSYLVANIA|TC7",
+      "county": "TRANSYLVANIA",
+      "precinct": "TC7",
+      "votes": [
+        [102,260,11,0],
+        [374,292,8,0]
+      ]
+    },
+    {
+      "key": "TRANSYLVANIA|WC",
+      "county": "TRANSYLVANIA",
+      "precinct": "WC",
+      "votes": [
+        [119,531,28,0],
+        [179,305,14,0]
+      ]
+    }
+  ],
+  "other": []
+}

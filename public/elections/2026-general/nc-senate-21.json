@@ -1,0 +1,491 @@
+{
+  "raceId": "nc-senate-21",
+  "candidates": [
+    {"name":"Tom McInnis","party":"R"},
+    {"name":"Paul Taylor","party":"D"}
+  ],
+  "precincts": [
+    {
+      "key": "CUMBERLAND|AL51-1",
+      "county": "CUMBERLAND",
+      "precinct": "AL51-1",
+      "votes": [
+        [188,328,3,0],
+        [112,310,13,0]
+      ]
+    },
+    {
+      "key": "CUMBERLAND|AL51-2",
+      "county": "CUMBERLAND",
+      "precinct": "AL51-2",
+      "votes": [
+        [220,367,9,0],
+        [134,496,14,0]
+      ]
+    },
+    {
+      "key": "CUMBERLAND|AL51-3",
+      "county": "CUMBERLAND",
+      "precinct": "AL51-3",
+      "votes": [
+        [208,328,5,0],
+        [78,197,7,0]
+      ]
+    },
+    {
+      "key": "CUMBERLAND|EO01",
+      "county": "CUMBERLAND",
+      "precinct": "EO01",
+      "votes": [
+        [496,455,8,0],
+        [199,525,32,0]
+      ]
+    },
+    {
+      "key": "CUMBERLAND|EO02",
+      "county": "CUMBERLAND",
+      "precinct": "EO02",
+      "votes": [
+        [238,433,5,0],
+        [146,418,15,0]
+      ]
+    },
+    {
+      "key": "CUMBERLAND|G10B",
+      "county": "CUMBERLAND",
+      "precinct": "G10B",
+      "votes": [
+        [227,244,7,0],
+        [295,541,27,0]
+      ]
+    },
+    {
+      "key": "CUMBERLAND|G10C",
+      "county": "CUMBERLAND",
+      "precinct": "G10C",
+      "votes": [
+        [344,537,8,0],
+        [282,880,37,0]
+      ]
+    },
+    {
+      "key": "CUMBERLAND|G11B",
+      "county": "CUMBERLAND",
+      "precinct": "G11B",
+      "votes": [
+        [75,93,13,0],
+        [166,229,51,0]
+      ]
+    },
+    {
+      "key": "CUMBERLAND|G1B",
+      "county": "CUMBERLAND",
+      "precinct": "G1B",
+      "votes": [
+        [393,679,9,0],
+        [238,847,28,0]
+      ]
+    },
+    {
+      "key": "CUMBERLAND|G6A",
+      "county": "CUMBERLAND",
+      "precinct": "G6A",
+      "votes": [
+        [554,984,24,0],
+        [173,743,24,0]
+      ]
+    },
+    {
+      "key": "CUMBERLAND|G6B",
+      "county": "CUMBERLAND",
+      "precinct": "G6B",
+      "votes": [
+        [322,134,1,0],
+        [61,122,1,0]
+      ]
+    },
+    {
+      "key": "CUMBERLAND|G6C",
+      "county": "CUMBERLAND",
+      "precinct": "G6C",
+      "votes": [
+        [344,244,7,0],
+        [162,274,10,0]
+      ]
+    },
+    {
+      "key": "CUMBERLAND|G7A",
+      "county": "CUMBERLAND",
+      "precinct": "G7A",
+      "votes": [
+        [396,126,2,0],
+        [134,68,3,0]
+      ]
+    },
+    {
+      "key": "CUMBERLAND|G7B",
+      "county": "CUMBERLAND",
+      "precinct": "G7B",
+      "votes": [
+        [281,192,2,0],
+        [82,133,2,0]
+      ]
+    },
+    {
+      "key": "CUMBERLAND|G8D",
+      "county": "CUMBERLAND",
+      "precinct": "G8D",
+      "votes": [
+        [212,303,6,0],
+        [258,533,17,0]
+      ]
+    },
+    {
+      "key": "CUMBERLAND|G9A-3",
+      "county": "CUMBERLAND",
+      "precinct": "G9A-3",
+      "votes": [
+        [235,267,5,0],
+        [270,531,23,0]
+      ]
+    },
+    {
+      "key": "CUMBERLAND|G9B-1",
+      "county": "CUMBERLAND",
+      "precinct": "G9B-1",
+      "votes": [
+        [329,450,8,0],
+        [326,801,33,0]
+      ]
+    },
+    {
+      "key": "CUMBERLAND|G9B-2",
+      "county": "CUMBERLAND",
+      "precinct": "G9B-2",
+      "votes": [
+        [383,514,19,0],
+        [375,1001,33,0]
+      ]
+    },
+    {
+      "key": "CUMBERLAND|LI65",
+      "county": "CUMBERLAND",
+      "precinct": "LI65",
+      "votes": [
+        [609,587,16,0],
+        [217,546,32,0]
+      ]
+    },
+    {
+      "key": "CUMBERLAND|LO66A",
+      "county": "CUMBERLAND",
+      "precinct": "LO66A",
+      "votes": [
+        [366,531,27,0],
+        [381,1297,54,0]
+      ]
+    },
+    {
+      "key": "CUMBERLAND|SH77",
+      "county": "CUMBERLAND",
+      "precinct": "SH77",
+      "votes": [
+        [297,395,4,0],
+        [237,555,19,0]
+      ]
+    },
+    {
+      "key": "CUMBERLAND|SL78-3",
+      "county": "CUMBERLAND",
+      "precinct": "SL78-3",
+      "votes": [
+        [197,98,4,0],
+        [660,710,34,0]
+      ]
+    },
+    {
+      "key": "MOORE|BEN",
+      "county": "MOORE",
+      "precinct": "BEN",
+      "votes": [
+        [432,0,0,0],
+        [118,0,0,0]
+      ]
+    },
+    {
+      "key": "MOORE|CAM",
+      "county": "MOORE",
+      "precinct": "CAM",
+      "votes": [
+        [398,0,0,0],
+        [107,0,0,0]
+      ]
+    },
+    {
+      "key": "MOORE|CAR",
+      "county": "MOORE",
+      "precinct": "CAR",
+      "votes": [
+        [688,0,0,0],
+        [222,0,0,0]
+      ]
+    },
+    {
+      "key": "MOORE|DHR",
+      "county": "MOORE",
+      "precinct": "DHR",
+      "votes": [
+        [423,0,0,0],
+        [69,0,0,0]
+      ]
+    },
+    {
+      "key": "MOORE|EAB",
+      "county": "MOORE",
+      "precinct": "EAB",
+      "votes": [
+        [305,0,0,0],
+        [242,0,0,0]
+      ]
+    },
+    {
+      "key": "MOORE|EKWD",
+      "county": "MOORE",
+      "precinct": "EKWD",
+      "votes": [
+        [199,0,0,0],
+        [67,0,0,0]
+      ]
+    },
+    {
+      "key": "MOORE|EUR-WP",
+      "county": "MOORE",
+      "precinct": "EUR-WP",
+      "votes": [
+        [938,0,0,0],
+        [304,0,0,0]
+      ]
+    },
+    {
+      "key": "MOORE|EWD",
+      "county": "MOORE",
+      "precinct": "EWD",
+      "votes": [
+        [325,0,0,0],
+        [124,0,0,0]
+      ]
+    },
+    {
+      "key": "MOORE|LTR",
+      "county": "MOORE",
+      "precinct": "LTR",
+      "votes": [
+        [426,0,0,0],
+        [152,0,0,0]
+      ]
+    },
+    {
+      "key": "MOORE|NSP",
+      "county": "MOORE",
+      "precinct": "NSP",
+      "votes": [
+        [250,0,0,0],
+        [295,0,0,0]
+      ]
+    },
+    {
+      "key": "MOORE|PBF",
+      "county": "MOORE",
+      "precinct": "PBF",
+      "votes": [
+        [305,0,0,0],
+        [165,0,0,0]
+      ]
+    },
+    {
+      "key": "MOORE|PDN",
+      "county": "MOORE",
+      "precinct": "PDN",
+      "votes": [
+        [393,0,0,0],
+        [276,0,0,0]
+      ]
+    },
+    {
+      "key": "MOORE|PHA1",
+      "county": "MOORE",
+      "precinct": "PHA1",
+      "votes": [
+        [515,0,0,0],
+        [260,0,0,0]
+      ]
+    },
+    {
+      "key": "MOORE|PHA2",
+      "county": "MOORE",
+      "precinct": "PHA2",
+      "votes": [
+        [506,0,0,0],
+        [168,0,0,0]
+      ]
+    },
+    {
+      "key": "MOORE|PHB1A",
+      "county": "MOORE",
+      "precinct": "PHB1A",
+      "votes": [
+        [461,0,0,0],
+        [165,0,0,0]
+      ]
+    },
+    {
+      "key": "MOORE|PHB2",
+      "county": "MOORE",
+      "precinct": "PHB2",
+      "votes": [
+        [352,0,0,0],
+        [114,0,0,0]
+      ]
+    },
+    {
+      "key": "MOORE|PHC",
+      "county": "MOORE",
+      "precinct": "PHC",
+      "votes": [
+        [660,0,0,0],
+        [317,0,0,0]
+      ]
+    },
+    {
+      "key": "MOORE|RBN",
+      "county": "MOORE",
+      "precinct": "RBN",
+      "votes": [
+        [256,0,0,0],
+        [99,0,0,0]
+      ]
+    },
+    {
+      "key": "MOORE|SLS",
+      "county": "MOORE",
+      "precinct": "SLS",
+      "votes": [
+        [821,0,0,0],
+        [292,0,0,0]
+      ]
+    },
+    {
+      "key": "MOORE|SSP",
+      "county": "MOORE",
+      "precinct": "SSP",
+      "votes": [
+        [336,0,0,0],
+        [354,0,0,0]
+      ]
+    },
+    {
+      "key": "MOORE|TLT",
+      "county": "MOORE",
+      "precinct": "TLT",
+      "votes": [
+        [38,0,0,0],
+        [123,0,0,0]
+      ]
+    },
+    {
+      "key": "MOORE|VSS",
+      "county": "MOORE",
+      "precinct": "VSS",
+      "votes": [
+        [342,0,0,0],
+        [121,0,0,0]
+      ]
+    },
+    {
+      "key": "MOORE|WAB",
+      "county": "MOORE",
+      "precinct": "WAB",
+      "votes": [
+        [312,0,0,0],
+        [228,0,0,0]
+      ]
+    },
+    {
+      "key": "MOORE|WEM",
+      "county": "MOORE",
+      "precinct": "WEM",
+      "votes": [
+        [670,0,0,0],
+        [111,0,0,0]
+      ]
+    },
+    {
+      "key": "MOORE|WKWD1",
+      "county": "MOORE",
+      "precinct": "WKWD1",
+      "votes": [
+        [413,0,0,0],
+        [147,0,0,0]
+      ]
+    },
+    {
+      "key": "MOORE|WND",
+      "county": "MOORE",
+      "precinct": "WND",
+      "votes": [
+        [509,0,0,0],
+        [186,0,0,0]
+      ]
+    }
+  ],
+  "other": [
+    {
+      "county": "MOORE",
+      "label": "ABSENTEE MAIL",
+      "votes": [
+        [0,0,583,0],
+        [0,0,997,0]
+      ]
+    },
+    {
+      "county": "MOORE",
+      "label": "BOE TRANSFER",
+      "votes": [
+        [0,0,0,0],
+        [0,0,0,0]
+      ]
+    },
+    {
+      "county": "MOORE",
+      "label": "EV AG",
+      "votes": [
+        [0,6419,0,0],
+        [0,4146,0,0]
+      ]
+    },
+    {
+      "county": "MOORE",
+      "label": "EV RS",
+      "votes": [
+        [0,6608,0,0],
+        [0,6775,0,0]
+      ]
+    },
+    {
+      "county": "MOORE",
+      "label": "EV VTH",
+      "votes": [
+        [0,1623,0,0],
+        [0,1153,0,0]
+      ]
+    },
+    {
+      "county": "MOORE",
+      "label": "PROVISIONAL",
+      "votes": [
+        [0,0,0,0],
+        [0,0,0,0]
+      ]
+    }
+  ]
+}

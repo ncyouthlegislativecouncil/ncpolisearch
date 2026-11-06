@@ -1,0 +1,379 @@
+{
+  "raceId": "nc-house-118",
+  "candidates": [
+    {"name":"James M. (Jimmy) Rogers","party":"R"},
+    {"name":"Danny E. Davis","party":"D"}
+  ],
+  "precincts": [
+    {
+      "key": "HAYWOOD|AC",
+      "county": "HAYWOOD",
+      "precinct": "AC",
+      "votes": [
+        [303,313,6,0],
+        [239,424,20,0]
+      ]
+    },
+    {
+      "key": "HAYWOOD|BC",
+      "county": "HAYWOOD",
+      "precinct": "BC",
+      "votes": [
+        [7,0,0,0],
+        [3,0,1,0]
+      ]
+    },
+    {
+      "key": "HAYWOOD|BE1",
+      "county": "HAYWOOD",
+      "precinct": "BE1",
+      "votes": [
+        [166,280,9,0],
+        [75,229,10,0]
+      ]
+    },
+    {
+      "key": "HAYWOOD|BE2",
+      "county": "HAYWOOD",
+      "precinct": "BE2",
+      "votes": [
+        [160,204,5,0],
+        [93,214,8,0]
+      ]
+    },
+    {
+      "key": "HAYWOOD|BE3",
+      "county": "HAYWOOD",
+      "precinct": "BE3",
+      "votes": [
+        [295,279,5,0],
+        [132,379,10,0]
+      ]
+    },
+    {
+      "key": "HAYWOOD|BE4",
+      "county": "HAYWOOD",
+      "precinct": "BE4",
+      "votes": [
+        [181,334,5,0],
+        [119,375,15,0]
+      ]
+    },
+    {
+      "key": "HAYWOOD|BE5-6",
+      "county": "HAYWOOD",
+      "precinct": "BE5-6",
+      "votes": [
+        [142,279,5,0],
+        [124,489,14,0]
+      ]
+    },
+    {
+      "key": "HAYWOOD|BE7",
+      "county": "HAYWOOD",
+      "precinct": "BE7",
+      "votes": [
+        [216,260,3,0],
+        [80,183,4,0]
+      ]
+    },
+    {
+      "key": "HAYWOOD|CE",
+      "county": "HAYWOOD",
+      "precinct": "CE",
+      "votes": [
+        [113,55,0,0],
+        [22,52,4,0]
+      ]
+    },
+    {
+      "key": "HAYWOOD|CLN",
+      "county": "HAYWOOD",
+      "precinct": "CLN",
+      "votes": [
+        [243,363,7,0],
+        [155,406,22,0]
+      ]
+    },
+    {
+      "key": "HAYWOOD|CLS",
+      "county": "HAYWOOD",
+      "precinct": "CLS",
+      "votes": [
+        [312,404,2,0],
+        [176,486,16,0]
+      ]
+    },
+    {
+      "key": "HAYWOOD|CR",
+      "county": "HAYWOOD",
+      "precinct": "CR",
+      "votes": [
+        [262,292,12,0],
+        [187,301,21,0]
+      ]
+    },
+    {
+      "key": "HAYWOOD|EF",
+      "county": "HAYWOOD",
+      "precinct": "EF",
+      "votes": [
+        [271,214,6,0],
+        [80,140,8,0]
+      ]
+    },
+    {
+      "key": "HAYWOOD|FC-1",
+      "county": "HAYWOOD",
+      "precinct": "FC-1",
+      "votes": [
+        [170,111,3,0],
+        [82,128,4,0]
+      ]
+    },
+    {
+      "key": "HAYWOOD|FC-2",
+      "county": "HAYWOOD",
+      "precinct": "FC-2",
+      "votes": [
+        [38,21,0,0],
+        [14,38,4,0]
+      ]
+    },
+    {
+      "key": "HAYWOOD|HA",
+      "county": "HAYWOOD",
+      "precinct": "HA",
+      "votes": [
+        [109,143,5,0],
+        [92,244,13,0]
+      ]
+    },
+    {
+      "key": "HAYWOOD|ID",
+      "county": "HAYWOOD",
+      "precinct": "ID",
+      "votes": [
+        [139,222,8,0],
+        [87,231,10,0]
+      ]
+    },
+    {
+      "key": "HAYWOOD|IH",
+      "county": "HAYWOOD",
+      "precinct": "IH",
+      "votes": [
+        [364,941,19,0],
+        [225,915,57,0]
+      ]
+    },
+    {
+      "key": "HAYWOOD|JC",
+      "county": "HAYWOOD",
+      "precinct": "JC",
+      "votes": [
+        [411,633,21,0],
+        [194,782,47,0]
+      ]
+    },
+    {
+      "key": "HAYWOOD|LJ",
+      "county": "HAYWOOD",
+      "precinct": "LJ",
+      "votes": [
+        [164,383,7,0],
+        [132,625,22,0]
+      ]
+    },
+    {
+      "key": "HAYWOOD|P",
+      "county": "HAYWOOD",
+      "precinct": "P",
+      "votes": [
+        [406,625,19,0],
+        [154,423,24,0]
+      ]
+    },
+    {
+      "key": "HAYWOOD|PC",
+      "county": "HAYWOOD",
+      "precinct": "PC",
+      "votes": [
+        [186,221,3,0],
+        [60,169,1,0]
+      ]
+    },
+    {
+      "key": "HAYWOOD|SA",
+      "county": "HAYWOOD",
+      "precinct": "SA",
+      "votes": [
+        [326,359,11,0],
+        [200,460,21,0]
+      ]
+    },
+    {
+      "key": "HAYWOOD|WC",
+      "county": "HAYWOOD",
+      "precinct": "WC",
+      "votes": [
+        [50,98,7,0],
+        [67,232,15,0]
+      ]
+    },
+    {
+      "key": "HAYWOOD|WE",
+      "county": "HAYWOOD",
+      "precinct": "WE",
+      "votes": [
+        [173,288,7,0],
+        [144,499,17,0]
+      ]
+    },
+    {
+      "key": "HAYWOOD|WO",
+      "county": "HAYWOOD",
+      "precinct": "WO",
+      "votes": [
+        [75,42,1,0],
+        [50,34,2,0]
+      ]
+    },
+    {
+      "key": "HAYWOOD|WS-1",
+      "county": "HAYWOOD",
+      "precinct": "WS-1",
+      "votes": [
+        [180,338,11,0],
+        [158,620,37,0]
+      ]
+    },
+    {
+      "key": "HAYWOOD|WS-2",
+      "county": "HAYWOOD",
+      "precinct": "WS-2",
+      "votes": [
+        [187,254,4,0],
+        [172,473,23,0]
+      ]
+    },
+    {
+      "key": "HAYWOOD|WW",
+      "county": "HAYWOOD",
+      "precinct": "WW",
+      "votes": [
+        [147,297,2,0],
+        [94,382,18,0]
+      ]
+    },
+    {
+      "key": "MADISON|BEECH",
+      "county": "MADISON",
+      "precinct": "BEECH",
+      "votes": [
+        [344,635,11,0],
+        [152,623,24,0]
+      ]
+    },
+    {
+      "key": "MADISON|EBBS C",
+      "county": "MADISON",
+      "precinct": "EBBS C",
+      "votes": [
+        [220,151,1,0],
+        [103,183,8,0]
+      ]
+    },
+    {
+      "key": "MADISON|GRAPEV",
+      "county": "MADISON",
+      "precinct": "GRAPEV",
+      "votes": [
+        [193,175,2,0],
+        [86,201,11,0]
+      ]
+    },
+    {
+      "key": "MADISON|HOT SP",
+      "county": "MADISON",
+      "precinct": "HOT SP",
+      "votes": [
+        [87,139,1,0],
+        [61,208,5,0]
+      ]
+    },
+    {
+      "key": "MADISON|LAUREL",
+      "county": "MADISON",
+      "precinct": "LAUREL",
+      "votes": [
+        [160,143,2,0],
+        [69,139,6,0]
+      ]
+    },
+    {
+      "key": "MADISON|MARS H",
+      "county": "MADISON",
+      "precinct": "MARS H",
+      "votes": [
+        [372,814,13,0],
+        [254,954,40,0]
+      ]
+    },
+    {
+      "key": "MADISON|NORTH",
+      "county": "MADISON",
+      "precinct": "NORTH",
+      "votes": [
+        [253,442,2,0],
+        [135,567,16,0]
+      ]
+    },
+    {
+      "key": "MADISON|REVERE",
+      "county": "MADISON",
+      "precinct": "REVERE",
+      "votes": [
+        [31,27,0,0],
+        [35,67,1,0]
+      ]
+    },
+    {
+      "key": "MADISON|SANDY",
+      "county": "MADISON",
+      "precinct": "SANDY",
+      "votes": [
+        [122,58,5,0],
+        [60,83,1,0]
+      ]
+    },
+    {
+      "key": "MADISON|SOUTH",
+      "county": "MADISON",
+      "precinct": "SOUTH",
+      "votes": [
+        [94,176,3,0],
+        [82,274,12,0]
+      ]
+    },
+    {
+      "key": "MADISON|SPRING",
+      "county": "MADISON",
+      "precinct": "SPRING",
+      "votes": [
+        [142,66,1,0],
+        [143,104,4,0]
+      ]
+    },
+    {
+      "key": "MADISON|WALNUT",
+      "county": "MADISON",
+      "precinct": "WALNUT",
+      "votes": [
+        [177,219,2,0],
+        [82,309,7,0]
+      ]
+    }
+  ],
+  "other": []
+}

@@ -1,0 +1,559 @@
+{
+  "raceId": "nc-senate-24",
+  "candidates": [
+    {"name":"Danny Earl Britt, Jr.","party":"R"},
+    {"name":"Catina Hamm","party":"D"}
+  ],
+  "precincts": [
+    {
+      "key": "HOKE|1",
+      "county": "HOKE",
+      "precinct": "01",
+      "votes": [
+        [68,39,0,0],
+        [32,37,0,0]
+      ]
+    },
+    {
+      "key": "HOKE|12",
+      "county": "HOKE",
+      "precinct": "12",
+      "votes": [
+        [316,591,11,0],
+        [262,768,22,0]
+      ]
+    },
+    {
+      "key": "HOKE|13",
+      "county": "HOKE",
+      "precinct": "13",
+      "votes": [
+        [168,232,2,0],
+        [79,211,4,0]
+      ]
+    },
+    {
+      "key": "HOKE|14",
+      "county": "HOKE",
+      "precinct": "14",
+      "votes": [
+        [233,369,7,0],
+        [405,1226,33,0]
+      ]
+    },
+    {
+      "key": "HOKE|15",
+      "county": "HOKE",
+      "precinct": "15",
+      "votes": [
+        [163,270,8,0],
+        [277,879,26,0]
+      ]
+    },
+    {
+      "key": "HOKE|2",
+      "county": "HOKE",
+      "precinct": "02",
+      "votes": [
+        [213,149,6,0],
+        [174,308,5,0]
+      ]
+    },
+    {
+      "key": "HOKE|3",
+      "county": "HOKE",
+      "precinct": "03",
+      "votes": [
+        [58,89,0,0],
+        [71,211,3,0]
+      ]
+    },
+    {
+      "key": "HOKE|4",
+      "county": "HOKE",
+      "precinct": "04",
+      "votes": [
+        [176,162,5,0],
+        [112,136,7,0]
+      ]
+    },
+    {
+      "key": "HOKE|5",
+      "county": "HOKE",
+      "precinct": "05",
+      "votes": [
+        [228,233,7,0],
+        [135,325,11,0]
+      ]
+    },
+    {
+      "key": "HOKE|61",
+      "county": "HOKE",
+      "precinct": "61",
+      "votes": [
+        [95,155,0,0],
+        [119,412,4,0]
+      ]
+    },
+    {
+      "key": "HOKE|62",
+      "county": "HOKE",
+      "precinct": "62",
+      "votes": [
+        [76,126,3,0],
+        [46,207,6,0]
+      ]
+    },
+    {
+      "key": "HOKE|63",
+      "county": "HOKE",
+      "precinct": "63",
+      "votes": [
+        [119,213,2,0],
+        [268,876,16,0]
+      ]
+    },
+    {
+      "key": "HOKE|64",
+      "county": "HOKE",
+      "precinct": "64",
+      "votes": [
+        [163,214,4,0],
+        [131,480,11,0]
+      ]
+    },
+    {
+      "key": "HOKE|65",
+      "county": "HOKE",
+      "precinct": "65",
+      "votes": [
+        [5,18,0,0],
+        [59,259,3,0]
+      ]
+    },
+    {
+      "key": "HOKE|6B",
+      "county": "HOKE",
+      "precinct": "06B",
+      "votes": [
+        [261,475,4,0],
+        [297,1030,31,0]
+      ]
+    },
+    {
+      "key": "ROBESON|1",
+      "county": "ROBESON",
+      "precinct": "01",
+      "votes": [
+        [160,128,3,0],
+        [45,78,0,0]
+      ]
+    },
+    {
+      "key": "ROBESON|10",
+      "county": "ROBESON",
+      "precinct": "10",
+      "votes": [
+        [144,96,0,0],
+        [104,120,3,0]
+      ]
+    },
+    {
+      "key": "ROBESON|11",
+      "county": "ROBESON",
+      "precinct": "11",
+      "votes": [
+        [563,746,20,0],
+        [179,424,23,0]
+      ]
+    },
+    {
+      "key": "ROBESON|11A",
+      "county": "ROBESON",
+      "precinct": "11A",
+      "votes": [
+        [234,196,1,0],
+        [69,143,1,0]
+      ]
+    },
+    {
+      "key": "ROBESON|12",
+      "county": "ROBESON",
+      "precinct": "12",
+      "votes": [
+        [122,180,2,0],
+        [129,374,8,0]
+      ]
+    },
+    {
+      "key": "ROBESON|13",
+      "county": "ROBESON",
+      "precinct": "13",
+      "votes": [
+        [141,212,2,0],
+        [156,244,7,0]
+      ]
+    },
+    {
+      "key": "ROBESON|14",
+      "county": "ROBESON",
+      "precinct": "14",
+      "votes": [
+        [99,94,0,0],
+        [78,119,1,0]
+      ]
+    },
+    {
+      "key": "ROBESON|15",
+      "county": "ROBESON",
+      "precinct": "15",
+      "votes": [
+        [19,59,0,0],
+        [66,170,4,0]
+      ]
+    },
+    {
+      "key": "ROBESON|16",
+      "county": "ROBESON",
+      "precinct": "16",
+      "votes": [
+        [12,71,1,0],
+        [75,216,2,0]
+      ]
+    },
+    {
+      "key": "ROBESON|17",
+      "county": "ROBESON",
+      "precinct": "17",
+      "votes": [
+        [33,29,0,0],
+        [22,37,2,0]
+      ]
+    },
+    {
+      "key": "ROBESON|18A",
+      "county": "ROBESON",
+      "precinct": "18A",
+      "votes": [
+        [165,203,1,0],
+        [81,269,8,0]
+      ]
+    },
+    {
+      "key": "ROBESON|19",
+      "county": "ROBESON",
+      "precinct": "19",
+      "votes": [
+        [171,221,3,0],
+        [219,532,6,0]
+      ]
+    },
+    {
+      "key": "ROBESON|2",
+      "county": "ROBESON",
+      "precinct": "02",
+      "votes": [
+        [253,282,0,0],
+        [134,282,6,0]
+      ]
+    },
+    {
+      "key": "ROBESON|20",
+      "county": "ROBESON",
+      "precinct": "20",
+      "votes": [
+        [208,99,1,0],
+        [71,128,6,0]
+      ]
+    },
+    {
+      "key": "ROBESON|21",
+      "county": "ROBESON",
+      "precinct": "21",
+      "votes": [
+        [305,222,5,0],
+        [190,281,4,0]
+      ]
+    },
+    {
+      "key": "ROBESON|22",
+      "county": "ROBESON",
+      "precinct": "22",
+      "votes": [
+        [265,369,4,0],
+        [82,280,4,0]
+      ]
+    },
+    {
+      "key": "ROBESON|23",
+      "county": "ROBESON",
+      "precinct": "23",
+      "votes": [
+        [387,570,0,0],
+        [112,258,4,0]
+      ]
+    },
+    {
+      "key": "ROBESON|24",
+      "county": "ROBESON",
+      "precinct": "24",
+      "votes": [
+        [180,123,1,0],
+        [52,100,1,0]
+      ]
+    },
+    {
+      "key": "ROBESON|25",
+      "county": "ROBESON",
+      "precinct": "25",
+      "votes": [
+        [188,189,5,0],
+        [94,122,2,0]
+      ]
+    },
+    {
+      "key": "ROBESON|26A",
+      "county": "ROBESON",
+      "precinct": "26A",
+      "votes": [
+        [224,225,3,0],
+        [235,622,8,0]
+      ]
+    },
+    {
+      "key": "ROBESON|28",
+      "county": "ROBESON",
+      "precinct": "28",
+      "votes": [
+        [205,90,1,0],
+        [86,75,3,0]
+      ]
+    },
+    {
+      "key": "ROBESON|29",
+      "county": "ROBESON",
+      "precinct": "29",
+      "votes": [
+        [156,98,0,0],
+        [217,155,2,0]
+      ]
+    },
+    {
+      "key": "ROBESON|3",
+      "county": "ROBESON",
+      "precinct": "03",
+      "votes": [
+        [315,244,1,0],
+        [87,151,2,0]
+      ]
+    },
+    {
+      "key": "ROBESON|30",
+      "county": "ROBESON",
+      "precinct": "30",
+      "votes": [
+        [440,350,4,0],
+        [149,229,2,0]
+      ]
+    },
+    {
+      "key": "ROBESON|32A",
+      "county": "ROBESON",
+      "precinct": "32A",
+      "votes": [
+        [438,585,6,0],
+        [332,681,19,0]
+      ]
+    },
+    {
+      "key": "ROBESON|33",
+      "county": "ROBESON",
+      "precinct": "33",
+      "votes": [
+        [84,45,0,0],
+        [56,66,0,0]
+      ]
+    },
+    {
+      "key": "ROBESON|34",
+      "county": "ROBESON",
+      "precinct": "34",
+      "votes": [
+        [219,165,1,0],
+        [40,90,1,0]
+      ]
+    },
+    {
+      "key": "ROBESON|35",
+      "county": "ROBESON",
+      "precinct": "35",
+      "votes": [
+        [402,424,1,0],
+        [67,90,1,0]
+      ]
+    },
+    {
+      "key": "ROBESON|36",
+      "county": "ROBESON",
+      "precinct": "36",
+      "votes": [
+        [162,95,0,0],
+        [71,153,2,0]
+      ]
+    },
+    {
+      "key": "ROBESON|37",
+      "county": "ROBESON",
+      "precinct": "37",
+      "votes": [
+        [161,76,0,0],
+        [14,22,2,0]
+      ]
+    },
+    {
+      "key": "ROBESON|38",
+      "county": "ROBESON",
+      "precinct": "38",
+      "votes": [
+        [102,37,1,0],
+        [14,31,0,0]
+      ]
+    },
+    {
+      "key": "ROBESON|39",
+      "county": "ROBESON",
+      "precinct": "39",
+      "votes": [
+        [239,133,0,0],
+        [119,121,2,0]
+      ]
+    },
+    {
+      "key": "ROBESON|4",
+      "county": "ROBESON",
+      "precinct": "04",
+      "votes": [
+        [337,268,0,0],
+        [79,114,3,0]
+      ]
+    },
+    {
+      "key": "ROBESON|40",
+      "county": "ROBESON",
+      "precinct": "40",
+      "votes": [
+        [93,51,0,0],
+        [45,50,1,0]
+      ]
+    },
+    {
+      "key": "ROBESON|41",
+      "county": "ROBESON",
+      "precinct": "41",
+      "votes": [
+        [565,418,4,0],
+        [131,176,5,0]
+      ]
+    },
+    {
+      "key": "ROBESON|5A",
+      "county": "ROBESON",
+      "precinct": "05A",
+      "votes": [
+        [269,572,2,0],
+        [193,454,4,0]
+      ]
+    },
+    {
+      "key": "ROBESON|7",
+      "county": "ROBESON",
+      "precinct": "07",
+      "votes": [
+        [106,78,3,0],
+        [62,74,1,0]
+      ]
+    },
+    {
+      "key": "ROBESON|8",
+      "county": "ROBESON",
+      "precinct": "08",
+      "votes": [
+        [366,274,2,0],
+        [62,120,3,0]
+      ]
+    },
+    {
+      "key": "ROBESON|9",
+      "county": "ROBESON",
+      "precinct": "09",
+      "votes": [
+        [194,144,3,0],
+        [97,214,4,0]
+      ]
+    },
+    {
+      "key": "SCOTLAND|1-16",
+      "county": "SCOTLAND",
+      "precinct": "01-16",
+      "votes": [
+        [114,188,2,0],
+        [278,760,13,0]
+      ]
+    },
+    {
+      "key": "SCOTLAND|2-25",
+      "county": "SCOTLAND",
+      "precinct": "02-25",
+      "votes": [
+        [197,462,8,0],
+        [142,613,7,0]
+      ]
+    },
+    {
+      "key": "SCOTLAND|3",
+      "county": "SCOTLAND",
+      "precinct": "03",
+      "votes": [
+        [239,522,7,0],
+        [231,576,20,0]
+      ]
+    },
+    {
+      "key": "SCOTLAND|4",
+      "county": "SCOTLAND",
+      "precinct": "04",
+      "votes": [
+        [320,728,16,0],
+        [187,711,33,0]
+      ]
+    },
+    {
+      "key": "SCOTLAND|5-10",
+      "county": "SCOTLAND",
+      "precinct": "05-10",
+      "votes": [
+        [232,253,3,0],
+        [140,233,2,0]
+      ]
+    },
+    {
+      "key": "SCOTLAND|6-89",
+      "county": "SCOTLAND",
+      "precinct": "06-89",
+      "votes": [
+        [387,533,7,0],
+        [157,383,15,0]
+      ]
+    },
+    {
+      "key": "SCOTLAND|7",
+      "county": "SCOTLAND",
+      "precinct": "07",
+      "votes": [
+        [265,364,9,0],
+        [276,653,12,0]
+      ]
+    }
+  ],
+  "other": []
+}

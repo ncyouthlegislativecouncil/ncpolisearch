@@ -13,12 +13,16 @@ import { dirname } from "path";
 import { formatDataFile } from "../lib/data/format";
 import type { ElectionCandidate, ElectionResults, Race, RaceCategory } from "../lib/data/types";
 import { unzip } from "../lib/zip";
+import { precinctKey, type MethodVotes, type RacePrecincts } from "../lib/precincts";
 
 const ELECTION = {
   date: "2026-11-03",
   name: "2026 General Election",
   url: "https://s3.amazonaws.com/dl.ncsbe.gov/ENRS/2026_11_03/results_pct_20261103.zip",
   file: "data/elections/2026-general.json",
+  // Per-race precinct detail for NC House/Senate races (fetched by the
+  // precinct pages and "Find my precinct", so it lives under public/).
+  precinctDir: "public/elections/2026-general",
 };
 
 const PARTY: Record<string, string> = { REP: "R", DEM: "D", LIB: "L", GRE: "G", UNA: "U" };
@@ -103,19 +107,35 @@ async function main() {
 
   const [header, ...rows] = txt.toString("utf8").split(/\r?\n/);
   const col = Object.fromEntries(header.split("\t").map((h, i) => [h.trim(), i]));
-  for (const needed of ["County", "Contest Name", "Choice", "Choice Party", "Total Votes"]) {
+  for (const needed of [
+    "County",
+    "Precinct",
+    "Contest Name",
+    "Choice",
+    "Choice Party",
+    "Election Day",
+    "Early Voting",
+    "Absentee by Mail",
+    "Provisional",
+    "Total Votes",
+    "Real Precinct",
+  ]) {
     if (!(needed in col)) throw new Error(`Results file is missing the "${needed}" column`);
   }
 
   // contest name -> { counties, choice -> { party, votes } }
   const totals = new Map<string, { counties: Set<string>; choices: Map<string, { party: string; votes: number }> }>();
+  // NC House/Senate contests only: contest -> row (county + precinct) -> choice -> votes by method.
+  type DetailRow = { county: string; precinct: string; real: boolean; byChoice: Map<string, MethodVotes> };
+  const detail = new Map<string, Map<string, DetailRow>>();
   for (const line of rows) {
     if (!line) continue;
     // Some cells carry stray control characters (e.g. a NUL as a write-in's
     // party), which would render inconsistently in the browser.
     const c = line.split("\t").map((cell) => cell.replace(/[\u0000-\u001f\u007f]/g, ""));
     const contest = c[col["Contest Name"]];
-    if (!classify(contest)) continue;
+    const info = classify(contest);
+    if (!info) continue;
     const entry = totals.get(contest) ?? { counties: new Set<string>(), choices: new Map() };
     entry.counties.add(c[col["County"]]);
     const choice = c[col["Choice"]].trim();
@@ -123,6 +143,27 @@ async function main() {
     t.votes += Number(c[col["Total Votes"]]) || 0;
     entry.choices.set(choice, t);
     totals.set(contest, entry);
+
+    if (info.category === "nc-house" || info.category === "nc-senate") {
+      const county = c[col["County"]].trim();
+      const precinct = c[col["Precinct"]].trim();
+      const rowsForContest = detail.get(contest) ?? new Map<string, DetailRow>();
+      const rowKey = `${county}|${precinct}`;
+      const row = rowsForContest.get(rowKey) ?? {
+        county,
+        precinct,
+        real: c[col["Real Precinct"]].trim() === "Y",
+        byChoice: new Map<string, MethodVotes>(),
+      };
+      const v = row.byChoice.get(choice) ?? [0, 0, 0, 0];
+      v[0] += Number(c[col["Election Day"]]) || 0;
+      v[1] += Number(c[col["Early Voting"]]) || 0;
+      v[2] += Number(c[col["Absentee by Mail"]]) || 0;
+      v[3] += Number(c[col["Provisional"]]) || 0;
+      row.byChoice.set(choice, v);
+      rowsForContest.set(rowKey, row);
+      detail.set(contest, rowsForContest);
+    }
   }
 
   // previousParty is set once (scripts/set-previous-parties.ts) and carried
@@ -170,6 +211,28 @@ async function main() {
 
   mkdirSync(dirname(ELECTION.file), { recursive: true });
   writeFileSync(ELECTION.file, formatDataFile(results));
+
+  // Precinct detail for each NC House/Senate race, candidates in the same
+  // (most votes first) order as the race.
+  mkdirSync(ELECTION.precinctDir, { recursive: true });
+  for (const race of races.filter((r) => r.category === "nc-house" || r.category === "nc-senate")) {
+    const rowsForRace = Array.from(detail.get(race.contest)?.values() ?? []);
+    const votesOf = (row: DetailRow): MethodVotes[] =>
+      race.candidates.map((cand) => row.byChoice.get(cand.name) ?? [0, 0, 0, 0]);
+    const out: RacePrecincts = {
+      raceId: race.id,
+      candidates: race.candidates.map((cand) => ({ name: cand.name, party: cand.party })),
+      precincts: rowsForRace
+        .filter((row) => row.real)
+        .map((row) => ({ key: precinctKey(row.county, row.precinct), county: row.county, precinct: row.precinct, votes: votesOf(row) }))
+        .sort((a, b) => a.key.localeCompare(b.key)),
+      other: rowsForRace
+        .filter((row) => !row.real)
+        .map((row) => ({ county: row.county, label: row.precinct, votes: votesOf(row) }))
+        .sort((a, b) => `${a.county}|${a.label}`.localeCompare(`${b.county}|${b.label}`)),
+    };
+    writeFileSync(`${ELECTION.precinctDir}/${race.id}.json`, formatDataFile(out));
+  }
   console.log(
     `Wrote ${ELECTION.file}: ${races.length} races (${order.map((c) => `${count(c)} ${c}`).join(", ")}); ` +
       `State Board file updated ${sourceUpdated}, ${results.certified ? "certified" : "unofficial"}.`

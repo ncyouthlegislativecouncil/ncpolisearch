@@ -1,0 +1,277 @@
+{
+  "raceId": "nc-house-059",
+  "candidates": [
+    {"name":"Elma Hairston","party":"D"},
+    {"name":"Alan Branson","party":"R"}
+  ],
+  "precincts": [
+    {
+      "key": "GUILFORD|FEN2",
+      "county": "GUILFORD",
+      "precinct": "FEN2",
+      "votes": [
+        [188,0,0,0],
+        [293,0,0,0]
+      ]
+    },
+    {
+      "key": "GUILFORD|GIB",
+      "county": "GUILFORD",
+      "precinct": "GIB",
+      "votes": [
+        [301,0,0,0],
+        [404,0,0,0]
+      ]
+    },
+    {
+      "key": "GUILFORD|GR",
+      "county": "GUILFORD",
+      "precinct": "GR",
+      "votes": [
+        [89,0,0,0],
+        [722,0,0,0]
+      ]
+    },
+    {
+      "key": "GUILFORD|H06",
+      "county": "GUILFORD",
+      "precinct": "H06",
+      "votes": [
+        [321,0,0,0],
+        [177,0,0,0]
+      ]
+    },
+    {
+      "key": "GUILFORD|JAM1",
+      "county": "GUILFORD",
+      "precinct": "JAM1",
+      "votes": [
+        [178,0,0,0],
+        [246,0,0,0]
+      ]
+    },
+    {
+      "key": "GUILFORD|JAM2",
+      "county": "GUILFORD",
+      "precinct": "JAM2",
+      "votes": [
+        [186,0,0,0],
+        [160,0,0,0]
+      ]
+    },
+    {
+      "key": "GUILFORD|JAM3",
+      "county": "GUILFORD",
+      "precinct": "JAM3",
+      "votes": [
+        [226,0,0,0],
+        [219,0,0,0]
+      ]
+    },
+    {
+      "key": "GUILFORD|JAM4",
+      "county": "GUILFORD",
+      "precinct": "JAM4",
+      "votes": [
+        [162,0,0,0],
+        [276,0,0,0]
+      ]
+    },
+    {
+      "key": "GUILFORD|JAM5",
+      "county": "GUILFORD",
+      "precinct": "JAM5",
+      "votes": [
+        [92,0,0,0],
+        [276,0,0,0]
+      ]
+    },
+    {
+      "key": "GUILFORD|JEF1",
+      "county": "GUILFORD",
+      "precinct": "JEF1",
+      "votes": [
+        [304,0,0,0],
+        [350,0,0,0]
+      ]
+    },
+    {
+      "key": "GUILFORD|JEF2",
+      "county": "GUILFORD",
+      "precinct": "JEF2",
+      "votes": [
+        [308,0,0,0],
+        [167,0,0,0]
+      ]
+    },
+    {
+      "key": "GUILFORD|JEF4",
+      "county": "GUILFORD",
+      "precinct": "JEF4",
+      "votes": [
+        [169,0,0,0],
+        [176,0,0,0]
+      ]
+    },
+    {
+      "key": "GUILFORD|MON2B",
+      "county": "GUILFORD",
+      "precinct": "MON2B",
+      "votes": [
+        [295,0,0,0],
+        [124,0,0,0]
+      ]
+    },
+    {
+      "key": "GUILFORD|MON3",
+      "county": "GUILFORD",
+      "precinct": "MON3",
+      "votes": [
+        [420,0,0,0],
+        [771,0,0,0]
+      ]
+    },
+    {
+      "key": "GUILFORD|NCLAY1",
+      "county": "GUILFORD",
+      "precinct": "NCLAY1",
+      "votes": [
+        [227,0,0,0],
+        [332,0,0,0]
+      ]
+    },
+    {
+      "key": "GUILFORD|NCLAY2",
+      "county": "GUILFORD",
+      "precinct": "NCLAY2",
+      "votes": [
+        [67,0,0,0],
+        [267,0,0,0]
+      ]
+    },
+    {
+      "key": "GUILFORD|NMAD",
+      "county": "GUILFORD",
+      "precinct": "NMAD",
+      "votes": [
+        [533,0,0,0],
+        [436,0,0,0]
+      ]
+    },
+    {
+      "key": "GUILFORD|NWASH",
+      "county": "GUILFORD",
+      "precinct": "NWASH",
+      "votes": [
+        [74,0,0,0],
+        [432,0,0,0]
+      ]
+    },
+    {
+      "key": "GUILFORD|PG1",
+      "county": "GUILFORD",
+      "precinct": "PG1",
+      "votes": [
+        [122,0,0,0],
+        [224,0,0,0]
+      ]
+    },
+    {
+      "key": "GUILFORD|PG2",
+      "county": "GUILFORD",
+      "precinct": "PG2",
+      "votes": [
+        [96,0,0,0],
+        [536,0,0,0]
+      ]
+    },
+    {
+      "key": "GUILFORD|RC1",
+      "county": "GUILFORD",
+      "precinct": "RC1",
+      "votes": [
+        [331,0,0,0],
+        [309,0,0,0]
+      ]
+    },
+    {
+      "key": "GUILFORD|RC2",
+      "county": "GUILFORD",
+      "precinct": "RC2",
+      "votes": [
+        [570,0,0,0],
+        [528,0,0,0]
+      ]
+    },
+    {
+      "key": "GUILFORD|SCLAY",
+      "county": "GUILFORD",
+      "precinct": "SCLAY",
+      "votes": [
+        [83,0,0,0],
+        [424,0,0,0]
+      ]
+    },
+    {
+      "key": "GUILFORD|SMAD",
+      "county": "GUILFORD",
+      "precinct": "SMAD",
+      "votes": [
+        [183,0,0,0],
+        [329,0,0,0]
+      ]
+    },
+    {
+      "key": "GUILFORD|SUM4",
+      "county": "GUILFORD",
+      "precinct": "SUM4",
+      "votes": [
+        [96,0,0,0],
+        [497,0,0,0]
+      ]
+    },
+    {
+      "key": "GUILFORD|SWASH",
+      "county": "GUILFORD",
+      "precinct": "SWASH",
+      "votes": [
+        [60,0,0,0],
+        [291,0,0,0]
+      ]
+    }
+  ],
+  "other": [
+    {
+      "county": "GUILFORD",
+      "label": "ABSENTEE",
+      "votes": [
+        [0,0,574,0],
+        [0,0,282,0]
+      ]
+    },
+    {
+      "county": "GUILFORD",
+      "label": "EARLYVOTE",
+      "votes": [
+        [0,16150,0,0],
+        [0,11564,0,0]
+      ]
+    },
+    {
+      "county": "GUILFORD",
+      "label": "PROVISIONAL",
+      "votes": [
+        [0,0,0,0],
+        [0,0,0,0]
+      ]
+    },
+    {
+      "county": "GUILFORD",
+      "label": "TRANSFER",
+      "votes": [
+        [0,0,0,0],
+        [0,0,0,0]
+      ]
+    }
+  ]
+}

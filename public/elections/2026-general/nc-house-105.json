@@ -1,0 +1,197 @@
+{
+  "raceId": "nc-house-105",
+  "candidates": [
+    {"name":"Ken McCool","party":"D"},
+    {"name":"Tricia Ann Cotham","party":"R"}
+  ],
+  "precincts": [
+    {
+      "key": "MECKLENBURG|112",
+      "county": "MECKLENBURG",
+      "precinct": "112",
+      "votes": [
+        [221,610,0,0],
+        [295,327,0,0]
+      ]
+    },
+    {
+      "key": "MECKLENBURG|113",
+      "county": "MECKLENBURG",
+      "precinct": "113",
+      "votes": [
+        [344,1018,0,0],
+        [417,498,0,0]
+      ]
+    },
+    {
+      "key": "MECKLENBURG|121",
+      "county": "MECKLENBURG",
+      "precinct": "121",
+      "votes": [
+        [292,1079,0,0],
+        [437,779,0,0]
+      ]
+    },
+    {
+      "key": "MECKLENBURG|131",
+      "county": "MECKLENBURG",
+      "precinct": "131",
+      "votes": [
+        [150,558,0,0],
+        [178,327,0,0]
+      ]
+    },
+    {
+      "key": "MECKLENBURG|136",
+      "county": "MECKLENBURG",
+      "precinct": "136",
+      "votes": [
+        [185,1068,0,0],
+        [212,637,0,0]
+      ]
+    },
+    {
+      "key": "MECKLENBURG|215",
+      "county": "MECKLENBURG",
+      "precinct": "215",
+      "votes": [
+        [369,1152,0,0],
+        [315,527,0,0]
+      ]
+    },
+    {
+      "key": "MECKLENBURG|218",
+      "county": "MECKLENBURG",
+      "precinct": "218",
+      "votes": [
+        [263,744,0,0],
+        [368,487,0,0]
+      ]
+    },
+    {
+      "key": "MECKLENBURG|219",
+      "county": "MECKLENBURG",
+      "precinct": "219",
+      "votes": [
+        [206,879,0,0],
+        [256,509,0,0]
+      ]
+    },
+    {
+      "key": "MECKLENBURG|220",
+      "county": "MECKLENBURG",
+      "precinct": "220",
+      "votes": [
+        [180,871,0,0],
+        [275,752,0,0]
+      ]
+    },
+    {
+      "key": "MECKLENBURG|221",
+      "county": "MECKLENBURG",
+      "precinct": "221",
+      "votes": [
+        [280,1181,0,0],
+        [565,1123,0,0]
+      ]
+    },
+    {
+      "key": "MECKLENBURG|232",
+      "county": "MECKLENBURG",
+      "precinct": "232",
+      "votes": [
+        [431,1329,0,0],
+        [550,609,0,0]
+      ]
+    },
+    {
+      "key": "MECKLENBURG|233",
+      "county": "MECKLENBURG",
+      "precinct": "233",
+      "votes": [
+        [403,1402,0,0],
+        [481,848,0,0]
+      ]
+    },
+    {
+      "key": "MECKLENBURG|234",
+      "county": "MECKLENBURG",
+      "precinct": "234",
+      "votes": [
+        [330,954,0,0],
+        [241,454,0,0]
+      ]
+    },
+    {
+      "key": "MECKLENBURG|236",
+      "county": "MECKLENBURG",
+      "precinct": "236",
+      "votes": [
+        [418,1605,0,0],
+        [684,1027,0,0]
+      ]
+    },
+    {
+      "key": "MECKLENBURG|69",
+      "county": "MECKLENBURG",
+      "precinct": "069",
+      "votes": [
+        [445,1236,0,0],
+        [565,694,0,0]
+      ]
+    },
+    {
+      "key": "MECKLENBURG|86",
+      "county": "MECKLENBURG",
+      "precinct": "086",
+      "votes": [
+        [203,503,0,0],
+        [336,391,0,0]
+      ]
+    },
+    {
+      "key": "MECKLENBURG|91",
+      "county": "MECKLENBURG",
+      "precinct": "091",
+      "votes": [
+        [391,1366,0,0],
+        [533,675,0,0]
+      ]
+    },
+    {
+      "key": "MECKLENBURG|93",
+      "county": "MECKLENBURG",
+      "precinct": "093",
+      "votes": [
+        [251,410,0,0],
+        [324,273,0,0]
+      ]
+    }
+  ],
+  "other": [
+    {
+      "county": "MECKLENBURG",
+      "label": "ABSENTEE BY MAIL",
+      "votes": [
+        [0,0,1281,0],
+        [0,0,510,0]
+      ]
+    },
+    {
+      "county": "MECKLENBURG",
+      "label": "PROVISIONALS",
+      "votes": [
+        [0,0,0,0],
+        [0,0,0,0]
+      ]
+    },
+    {
+      "county": "MECKLENBURG",
+      "label": "TRANSFERS",
+      "votes": [
+        [0,0,0,0],
+        [0,0,0,0]
+      ]
+    }
+  ]
+}

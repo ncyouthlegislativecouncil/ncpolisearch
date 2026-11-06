@@ -1,0 +1,277 @@
+{
+  "raceId": "nc-house-030",
+  "candidates": [
+    {"name":"Marcia Morey","party":"D"},
+    {"name":"Ray Ubinger","party":"L"}
+  ],
+  "precincts": [
+    {
+      "key": "DURHAM|1",
+      "county": "DURHAM",
+      "precinct": "01",
+      "votes": [
+        [168,0,0,0],
+        [18,0,0,0]
+      ]
+    },
+    {
+      "key": "DURHAM|17",
+      "county": "DURHAM",
+      "precinct": "17",
+      "votes": [
+        [460,0,0,0],
+        [36,0,0,0]
+      ]
+    },
+    {
+      "key": "DURHAM|19",
+      "county": "DURHAM",
+      "precinct": "19",
+      "votes": [
+        [517,0,0,0],
+        [53,0,0,0]
+      ]
+    },
+    {
+      "key": "DURHAM|2",
+      "county": "DURHAM",
+      "precinct": "02",
+      "votes": [
+        [390,0,0,0],
+        [29,0,0,0]
+      ]
+    },
+    {
+      "key": "DURHAM|20",
+      "county": "DURHAM",
+      "precinct": "20",
+      "votes": [
+        [313,0,0,0],
+        [22,0,0,0]
+      ]
+    },
+    {
+      "key": "DURHAM|21",
+      "county": "DURHAM",
+      "precinct": "21",
+      "votes": [
+        [381,0,0,0],
+        [32,0,0,0]
+      ]
+    },
+    {
+      "key": "DURHAM|22",
+      "county": "DURHAM",
+      "precinct": "22",
+      "votes": [
+        [539,0,0,0],
+        [30,0,0,0]
+      ]
+    },
+    {
+      "key": "DURHAM|24",
+      "county": "DURHAM",
+      "precinct": "24",
+      "votes": [
+        [496,0,0,0],
+        [91,0,0,0]
+      ]
+    },
+    {
+      "key": "DURHAM|3",
+      "county": "DURHAM",
+      "precinct": "03",
+      "votes": [
+        [325,0,0,0],
+        [37,0,0,0]
+      ]
+    },
+    {
+      "key": "DURHAM|37",
+      "county": "DURHAM",
+      "precinct": "37",
+      "votes": [
+        [778,0,0,0],
+        [233,0,0,0]
+      ]
+    },
+    {
+      "key": "DURHAM|4",
+      "county": "DURHAM",
+      "precinct": "04",
+      "votes": [
+        [300,0,0,0],
+        [32,0,0,0]
+      ]
+    },
+    {
+      "key": "DURHAM|40",
+      "county": "DURHAM",
+      "precinct": "40",
+      "votes": [
+        [300,0,0,0],
+        [21,0,0,0]
+      ]
+    },
+    {
+      "key": "DURHAM|43",
+      "county": "DURHAM",
+      "precinct": "43",
+      "votes": [
+        [730,0,0,0],
+        [165,0,0,0]
+      ]
+    },
+    {
+      "key": "DURHAM|5",
+      "county": "DURHAM",
+      "precinct": "05",
+      "votes": [
+        [478,0,0,0],
+        [36,0,0,0]
+      ]
+    },
+    {
+      "key": "DURHAM|50",
+      "county": "DURHAM",
+      "precinct": "50",
+      "votes": [
+        [598,0,0,0],
+        [136,0,0,0]
+      ]
+    },
+    {
+      "key": "DURHAM|6",
+      "county": "DURHAM",
+      "precinct": "06",
+      "votes": [
+        [218,0,0,0],
+        [21,0,0,0]
+      ]
+    },
+    {
+      "key": "DURHAM|7",
+      "county": "DURHAM",
+      "precinct": "07",
+      "votes": [
+        [361,0,0,0],
+        [30,0,0,0]
+      ]
+    },
+    {
+      "key": "DURHAM|8",
+      "county": "DURHAM",
+      "precinct": "08",
+      "votes": [
+        [464,0,0,0],
+        [35,0,0,0]
+      ]
+    }
+  ],
+  "other": [
+    {
+      "county": "DURHAM",
+      "label": "ABSENTEE",
+      "votes": [
+        [0,0,1333,0],
+        [0,0,59,0]
+      ]
+    },
+    {
+      "county": "DURHAM",
+      "label": "EV BOE",
+      "votes": [
+        [0,1055,0,0],
+        [0,50,0,0]
+      ]
+    },
+    {
+      "county": "DURHAM",
+      "label": "EV DUKE",
+      "votes": [
+        [0,8624,0,0],
+        [0,466,0,0]
+      ]
+    },
+    {
+      "county": "DURHAM",
+      "label": "EV ENO",
+      "votes": [
+        [0,2927,0,0],
+        [0,252,0,0]
+      ]
+    },
+    {
+      "county": "DURHAM",
+      "label": "EV ERL",
+      "votes": [
+        [0,313,0,0],
+        [0,17,0,0]
+      ]
+    },
+    {
+      "county": "DURHAM",
+      "label": "EV LRC",
+      "votes": [
+        [0,227,0,0],
+        [0,25,0,0]
+      ]
+    },
+    {
+      "county": "DURHAM",
+      "label": "EV MAIN",
+      "votes": [
+        [0,7562,0,0],
+        [0,238,0,0]
+      ]
+    },
+    {
+      "county": "DURHAM",
+      "label": "EV NCCU",
+      "votes": [
+        [0,877,0,0],
+        [0,20,0,0]
+      ]
+    },
+    {
+      "county": "DURHAM",
+      "label": "EV NRL",
+      "votes": [
+        [0,3135,0,0],
+        [0,402,0,0]
+      ]
+    },
+    {
+      "county": "DURHAM",
+      "label": "EV SHS",
+      "votes": [
+        [0,453,0,0],
+        [0,19,0,0]
+      ]
+    },
+    {
+      "county": "DURHAM",
+      "label": "EV SRL",
+      "votes": [
+        [0,381,0,0],
+        [0,22,0,0]
+      ]
+    },
+    {
+      "county": "DURHAM",
+      "label": "PROVISIONAL",
+      "votes": [
+        [0,0,0,0],
+        [0,0,0,0]
+      ]
+    },
+    {
+      "county": "DURHAM",
+      "label": "TRANSFER",
+      "votes": [
+        [0,0,0,0],
+        [0,0,0,0]
+      ]
+    }
+  ]
+}

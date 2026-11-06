@@ -1,0 +1,289 @@
+{
+  "raceId": "nc-house-086",
+  "candidates": [
+    {"name":"Hugh Blackwell","party":"R"},
+    {"name":"Wesley E. Hendrix","party":"D"}
+  ],
+  "precincts": [
+    {
+      "key": "BURKE|1",
+      "county": "BURKE",
+      "precinct": "0001",
+      "votes": [
+        [379,643,11,0],
+        [159,385,15,0]
+      ]
+    },
+    {
+      "key": "BURKE|11",
+      "county": "BURKE",
+      "precinct": "0011",
+      "votes": [
+        [370,673,4,0],
+        [98,219,20,0]
+      ]
+    },
+    {
+      "key": "BURKE|12",
+      "county": "BURKE",
+      "precinct": "0012",
+      "votes": [
+        [304,525,2,0],
+        [32,112,3,0]
+      ]
+    },
+    {
+      "key": "BURKE|13",
+      "county": "BURKE",
+      "precinct": "0013",
+      "votes": [
+        [280,787,9,0],
+        [95,198,10,0]
+      ]
+    },
+    {
+      "key": "BURKE|14",
+      "county": "BURKE",
+      "precinct": "0014",
+      "votes": [
+        [211,542,6,0],
+        [48,136,8,0]
+      ]
+    },
+    {
+      "key": "BURKE|15",
+      "county": "BURKE",
+      "precinct": "0015",
+      "votes": [
+        [200,276,6,0],
+        [66,121,1,0]
+      ]
+    },
+    {
+      "key": "BURKE|18",
+      "county": "BURKE",
+      "precinct": "0018",
+      "votes": [
+        [139,26,1,0],
+        [57,41,10,0]
+      ]
+    },
+    {
+      "key": "BURKE|19",
+      "county": "BURKE",
+      "precinct": "0019",
+      "votes": [
+        [108,157,5,0],
+        [36,112,7,0]
+      ]
+    },
+    {
+      "key": "BURKE|20",
+      "county": "BURKE",
+      "precinct": "0020",
+      "votes": [
+        [123,260,6,0],
+        [64,215,13,0]
+      ]
+    },
+    {
+      "key": "BURKE|21",
+      "county": "BURKE",
+      "precinct": "0021",
+      "votes": [
+        [174,305,5,0],
+        [56,166,9,0]
+      ]
+    },
+    {
+      "key": "BURKE|22",
+      "county": "BURKE",
+      "precinct": "0022",
+      "votes": [
+        [240,507,6,0],
+        [67,229,7,0]
+      ]
+    },
+    {
+      "key": "BURKE|24",
+      "county": "BURKE",
+      "precinct": "0024",
+      "votes": [
+        [285,645,7,0],
+        [70,346,10,0]
+      ]
+    },
+    {
+      "key": "BURKE|3",
+      "county": "BURKE",
+      "precinct": "0003",
+      "votes": [
+        [203,209,1,0],
+        [40,108,4,0]
+      ]
+    },
+    {
+      "key": "BURKE|31",
+      "county": "BURKE",
+      "precinct": "0031",
+      "votes": [
+        [100,188,5,0],
+        [142,612,21,0]
+      ]
+    },
+    {
+      "key": "BURKE|34",
+      "county": "BURKE",
+      "precinct": "0034",
+      "votes": [
+        [151,249,9,0],
+        [107,488,21,0]
+      ]
+    },
+    {
+      "key": "BURKE|35",
+      "county": "BURKE",
+      "precinct": "0035",
+      "votes": [
+        [88,200,10,0],
+        [114,363,20,0]
+      ]
+    },
+    {
+      "key": "BURKE|36",
+      "county": "BURKE",
+      "precinct": "0036",
+      "votes": [
+        [266,367,6,0],
+        [73,192,10,0]
+      ]
+    },
+    {
+      "key": "BURKE|38",
+      "county": "BURKE",
+      "precinct": "0038",
+      "votes": [
+        [267,377,8,0],
+        [149,347,4,0]
+      ]
+    },
+    {
+      "key": "BURKE|39",
+      "county": "BURKE",
+      "precinct": "0039",
+      "votes": [
+        [139,288,15,0],
+        [117,384,21,0]
+      ]
+    },
+    {
+      "key": "BURKE|40",
+      "county": "BURKE",
+      "precinct": "0040",
+      "votes": [
+        [175,360,4,0],
+        [82,269,16,0]
+      ]
+    },
+    {
+      "key": "BURKE|47-A",
+      "county": "BURKE",
+      "precinct": "0047-A",
+      "votes": [
+        [177,349,2,0],
+        [124,435,21,0]
+      ]
+    },
+    {
+      "key": "BURKE|47-B",
+      "county": "BURKE",
+      "precinct": "0047-B",
+      "votes": [
+        [191,230,3,0],
+        [69,225,4,0]
+      ]
+    },
+    {
+      "key": "BURKE|48",
+      "county": "BURKE",
+      "precinct": "0048",
+      "votes": [
+        [204,462,4,0],
+        [91,431,12,0]
+      ]
+    },
+    {
+      "key": "BURKE|51",
+      "county": "BURKE",
+      "precinct": "0051",
+      "votes": [
+        [346,744,15,0],
+        [148,527,18,0]
+      ]
+    },
+    {
+      "key": "BURKE|52",
+      "county": "BURKE",
+      "precinct": "0052",
+      "votes": [
+        [200,183,4,0],
+        [64,144,6,0]
+      ]
+    },
+    {
+      "key": "BURKE|62",
+      "county": "BURKE",
+      "precinct": "0062",
+      "votes": [
+        [145,173,1,0],
+        [50,94,2,0]
+      ]
+    },
+    {
+      "key": "BURKE|64",
+      "county": "BURKE",
+      "precinct": "0064",
+      "votes": [
+        [199,108,0,0],
+        [32,80,1,0]
+      ]
+    },
+    {
+      "key": "BURKE|66",
+      "county": "BURKE",
+      "precinct": "0066",
+      "votes": [
+        [300,339,7,0],
+        [101,193,10,0]
+      ]
+    },
+    {
+      "key": "BURKE|70",
+      "county": "BURKE",
+      "precinct": "0070",
+      "votes": [
+        [352,529,8,0],
+        [119,327,21,0]
+      ]
+    },
+    {
+      "key": "BURKE|71",
+      "county": "BURKE",
+      "precinct": "0071",
+      "votes": [
+        [340,430,8,0],
+        [69,188,19,0]
+      ]
+    },
+    {
+      "key": "BURKE|72",
+      "county": "BURKE",
+      "precinct": "0072",
+      "votes": [
+        [433,601,8,0],
+        [95,290,10,0]
+      ]
+    }
+  ],
+  "other": []
+}

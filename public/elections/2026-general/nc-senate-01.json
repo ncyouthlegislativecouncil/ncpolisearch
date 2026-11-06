@@ -1,0 +1,1067 @@
+{
+  "raceId": "nc-senate-01",
+  "candidates": [
+    {"name":"Jerry Tillett","party":"R"},
+    {"name":"Melissa Zehner","party":"D"}
+  ],
+  "precincts": [
+    {
+      "key": "BERTIE|C1",
+      "county": "BERTIE",
+      "precinct": "C1",
+      "votes": [
+        [152,0,0,0],
+        [57,0,0,0]
+      ]
+    },
+    {
+      "key": "BERTIE|C2",
+      "county": "BERTIE",
+      "precinct": "C2",
+      "votes": [
+        [71,0,0,0],
+        [118,0,0,0]
+      ]
+    },
+    {
+      "key": "BERTIE|IW",
+      "county": "BERTIE",
+      "precinct": "IW",
+      "votes": [
+        [9,0,0,0],
+        [70,0,0,0]
+      ]
+    },
+    {
+      "key": "BERTIE|M1",
+      "county": "BERTIE",
+      "precinct": "M1",
+      "votes": [
+        [114,0,0,0],
+        [59,0,0,0]
+      ]
+    },
+    {
+      "key": "BERTIE|M2",
+      "county": "BERTIE",
+      "precinct": "M2",
+      "votes": [
+        [81,0,0,0],
+        [119,0,0,0]
+      ]
+    },
+    {
+      "key": "BERTIE|MH",
+      "county": "BERTIE",
+      "precinct": "MH",
+      "votes": [
+        [101,0,0,0],
+        [87,0,0,0]
+      ]
+    },
+    {
+      "key": "BERTIE|RX",
+      "county": "BERTIE",
+      "precinct": "RX",
+      "votes": [
+        [68,0,0,0],
+        [144,0,0,0]
+      ]
+    },
+    {
+      "key": "BERTIE|SN",
+      "county": "BERTIE",
+      "precinct": "SN",
+      "votes": [
+        [27,0,0,0],
+        [84,0,0,0]
+      ]
+    },
+    {
+      "key": "BERTIE|W1",
+      "county": "BERTIE",
+      "precinct": "W1",
+      "votes": [
+        [208,0,0,0],
+        [283,0,0,0]
+      ]
+    },
+    {
+      "key": "BERTIE|W2",
+      "county": "BERTIE",
+      "precinct": "W2",
+      "votes": [
+        [240,0,0,0],
+        [8,0,0,0]
+      ]
+    },
+    {
+      "key": "BERTIE|WD",
+      "county": "BERTIE",
+      "precinct": "WD",
+      "votes": [
+        [17,0,0,0],
+        [81,0,0,0]
+      ]
+    },
+    {
+      "key": "BERTIE|WH",
+      "county": "BERTIE",
+      "precinct": "WH",
+      "votes": [
+        [166,0,0,0],
+        [77,0,0,0]
+      ]
+    },
+    {
+      "key": "CAMDEN|CH",
+      "county": "CAMDEN",
+      "precinct": "CH",
+      "votes": [
+        [415,719,8,0],
+        [155,422,13,0]
+      ]
+    },
+    {
+      "key": "CAMDEN|SH",
+      "county": "CAMDEN",
+      "precinct": "SH",
+      "votes": [
+        [433,341,9,0],
+        [91,222,12,0]
+      ]
+    },
+    {
+      "key": "CAMDEN|SM",
+      "county": "CAMDEN",
+      "precinct": "SM",
+      "votes": [
+        [655,477,3,0],
+        [214,264,17,0]
+      ]
+    },
+    {
+      "key": "CURRITUCK|CB",
+      "county": "CURRITUCK",
+      "precinct": "CB",
+      "votes": [
+        [98,15,1,0],
+        [43,12,3,0]
+      ]
+    },
+    {
+      "key": "CURRITUCK|CH",
+      "county": "CURRITUCK",
+      "precinct": "CH",
+      "votes": [
+        [720,1001,19,0],
+        [187,374,17,0]
+      ]
+    },
+    {
+      "key": "CURRITUCK|CO",
+      "county": "CURRITUCK",
+      "precinct": "CO",
+      "votes": [
+        [177,144,9,0],
+        [67,95,0,0]
+      ]
+    },
+    {
+      "key": "CURRITUCK|EM",
+      "county": "CURRITUCK",
+      "precinct": "EM",
+      "votes": [
+        [783,579,20,0],
+        [287,300,20,0]
+      ]
+    },
+    {
+      "key": "CURRITUCK|GW",
+      "county": "CURRITUCK",
+      "precinct": "GW",
+      "votes": [
+        [122,11,1,0],
+        [30,8,0,0]
+      ]
+    },
+    {
+      "key": "CURRITUCK|IR",
+      "county": "CURRITUCK",
+      "precinct": "IR",
+      "votes": [
+        [287,276,3,0],
+        [82,97,6,0]
+      ]
+    },
+    {
+      "key": "CURRITUCK|KI",
+      "county": "CURRITUCK",
+      "precinct": "KI",
+      "votes": [
+        [372,38,2,0],
+        [98,28,2,0]
+      ]
+    },
+    {
+      "key": "CURRITUCK|PB",
+      "county": "CURRITUCK",
+      "precinct": "PB",
+      "votes": [
+        [860,621,12,0],
+        [320,399,13,0]
+      ]
+    },
+    {
+      "key": "CURRITUCK|PP",
+      "county": "CURRITUCK",
+      "precinct": "PP",
+      "votes": [
+        [458,207,8,0],
+        [191,158,26,0]
+      ]
+    },
+    {
+      "key": "CURRITUCK|WH",
+      "county": "CURRITUCK",
+      "precinct": "WH",
+      "votes": [
+        [273,57,14,0],
+        [216,95,31,0]
+      ]
+    },
+    {
+      "key": "CURRITUCK|WM",
+      "county": "CURRITUCK",
+      "precinct": "WM",
+      "votes": [
+        [835,633,23,0],
+        [329,391,25,0]
+      ]
+    },
+    {
+      "key": "DARE|AVON",
+      "county": "DARE",
+      "precinct": "AVON",
+      "votes": [
+        [157,0,0,0],
+        [91,0,0,0]
+      ]
+    },
+    {
+      "key": "DARE|BUX",
+      "county": "DARE",
+      "precinct": "BUX",
+      "votes": [
+        [182,0,0,0],
+        [52,0,0,0]
+      ]
+    },
+    {
+      "key": "DARE|CHCA",
+      "county": "DARE",
+      "precinct": "CHCA",
+      "votes": [
+        [124,0,0,0],
+        [99,0,0,0]
+      ]
+    },
+    {
+      "key": "DARE|COL",
+      "county": "DARE",
+      "precinct": "COL",
+      "votes": [
+        [430,0,0,0],
+        [232,0,0,0]
+      ]
+    },
+    {
+      "key": "DARE|DUCK",
+      "county": "DARE",
+      "precinct": "DUCK",
+      "votes": [
+        [128,0,0,0],
+        [106,0,0,0]
+      ]
+    },
+    {
+      "key": "DARE|EL",
+      "county": "DARE",
+      "precinct": "EL",
+      "votes": [
+        [28,0,0,0],
+        [5,0,0,0]
+      ]
+    },
+    {
+      "key": "DARE|FRCO",
+      "county": "DARE",
+      "precinct": "FRCO",
+      "votes": [
+        [126,0,0,0],
+        [42,0,0,0]
+      ]
+    },
+    {
+      "key": "DARE|HAT",
+      "county": "DARE",
+      "precinct": "HAT",
+      "votes": [
+        [125,0,0,0],
+        [40,0,0,0]
+      ]
+    },
+    {
+      "key": "DARE|KDH",
+      "county": "DARE",
+      "precinct": "KDH",
+      "votes": [
+        [584,0,0,0],
+        [351,0,0,0]
+      ]
+    },
+    {
+      "key": "DARE|KTHK",
+      "county": "DARE",
+      "precinct": "KTHK",
+      "votes": [
+        [557,0,0,0],
+        [273,0,0,0]
+      ]
+    },
+    {
+      "key": "DARE|MATO",
+      "county": "DARE",
+      "precinct": "MATO",
+      "votes": [
+        [507,0,0,0],
+        [276,0,0,0]
+      ]
+    },
+    {
+      "key": "DARE|MH",
+      "county": "DARE",
+      "precinct": "MH",
+      "votes": [
+        [138,0,0,0],
+        [28,0,0,0]
+      ]
+    },
+    {
+      "key": "DARE|NGHD",
+      "county": "DARE",
+      "precinct": "NGHD",
+      "votes": [
+        [373,0,0,0],
+        [239,0,0,0]
+      ]
+    },
+    {
+      "key": "DARE|SOSH",
+      "county": "DARE",
+      "precinct": "SOSH",
+      "votes": [
+        [489,0,0,0],
+        [279,0,0,0]
+      ]
+    },
+    {
+      "key": "DARE|STPT",
+      "county": "DARE",
+      "precinct": "STPT",
+      "votes": [
+        [48,0,0,0],
+        [15,0,0,0]
+      ]
+    },
+    {
+      "key": "DARE|WAN",
+      "county": "DARE",
+      "precinct": "WAN",
+      "votes": [
+        [281,0,0,0],
+        [45,0,0,0]
+      ]
+    },
+    {
+      "key": "GATES|1",
+      "county": "GATES",
+      "precinct": "1",
+      "votes": [
+        [166,159,14,0],
+        [119,325,20,0]
+      ]
+    },
+    {
+      "key": "GATES|2",
+      "county": "GATES",
+      "precinct": "2",
+      "votes": [
+        [271,119,1,0],
+        [58,72,3,0]
+      ]
+    },
+    {
+      "key": "GATES|3",
+      "county": "GATES",
+      "precinct": "3",
+      "votes": [
+        [252,226,2,0],
+        [157,375,12,0]
+      ]
+    },
+    {
+      "key": "GATES|4N",
+      "county": "GATES",
+      "precinct": "4N",
+      "votes": [
+        [290,198,6,0],
+        [119,171,8,0]
+      ]
+    },
+    {
+      "key": "GATES|4S",
+      "county": "GATES",
+      "precinct": "4S",
+      "votes": [
+        [101,96,0,0],
+        [87,184,3,0]
+      ]
+    },
+    {
+      "key": "GATES|5",
+      "county": "GATES",
+      "precinct": "5",
+      "votes": [
+        [210,143,2,0],
+        [55,130,0,0]
+      ]
+    },
+    {
+      "key": "HERTFORD|A1",
+      "county": "HERTFORD",
+      "precinct": "A1",
+      "votes": [
+        [93,139,0,0],
+        [179,578,6,0]
+      ]
+    },
+    {
+      "key": "HERTFORD|A2",
+      "county": "HERTFORD",
+      "precinct": "A2",
+      "votes": [
+        [143,225,5,0],
+        [143,409,15,0]
+      ]
+    },
+    {
+      "key": "HERTFORD|A3",
+      "county": "HERTFORD",
+      "precinct": "A3",
+      "votes": [
+        [16,26,3,0],
+        [127,341,4,0]
+      ]
+    },
+    {
+      "key": "HERTFORD|BR",
+      "county": "HERTFORD",
+      "precinct": "BR",
+      "votes": [
+        [13,18,0,0],
+        [44,116,2,0]
+      ]
+    },
+    {
+      "key": "HERTFORD|CM",
+      "county": "HERTFORD",
+      "precinct": "CM",
+      "votes": [
+        [89,46,0,0],
+        [58,65,0,0]
+      ]
+    },
+    {
+      "key": "HERTFORD|CO",
+      "county": "HERTFORD",
+      "precinct": "CO",
+      "votes": [
+        [29,28,0,0],
+        [94,108,0,0]
+      ]
+    },
+    {
+      "key": "HERTFORD|HV",
+      "county": "HERTFORD",
+      "precinct": "HV",
+      "votes": [
+        [112,87,0,0],
+        [75,124,4,0]
+      ]
+    },
+    {
+      "key": "HERTFORD|M1",
+      "county": "HERTFORD",
+      "precinct": "M1",
+      "votes": [
+        [127,178,0,0],
+        [233,564,21,0]
+      ]
+    },
+    {
+      "key": "HERTFORD|M2",
+      "county": "HERTFORD",
+      "precinct": "M2",
+      "votes": [
+        [55,111,0,0],
+        [105,321,4,0]
+      ]
+    },
+    {
+      "key": "HERTFORD|ML",
+      "county": "HERTFORD",
+      "precinct": "ML",
+      "votes": [
+        [159,51,5,0],
+        [24,54,2,0]
+      ]
+    },
+    {
+      "key": "HERTFORD|SJ",
+      "county": "HERTFORD",
+      "precinct": "SJ",
+      "votes": [
+        [87,43,1,0],
+        [83,146,7,0]
+      ]
+    },
+    {
+      "key": "HERTFORD|UN",
+      "county": "HERTFORD",
+      "precinct": "UN",
+      "votes": [
+        [76,56,2,0],
+        [59,219,3,0]
+      ]
+    },
+    {
+      "key": "HERTFORD|WN",
+      "county": "HERTFORD",
+      "precinct": "WN",
+      "votes": [
+        [66,95,1,0],
+        [117,349,5,0]
+      ]
+    },
+    {
+      "key": "NORTHAMPTON|COMIPE",
+      "county": "NORTHAMPTON",
+      "precinct": "COMIPE",
+      "votes": [
+        [259,0,0,0],
+        [102,0,0,0]
+      ]
+    },
+    {
+      "key": "NORTHAMPTON|CREEKS",
+      "county": "NORTHAMPTON",
+      "precinct": "CREEKS",
+      "votes": [
+        [86,0,0,0],
+        [45,0,0,0]
+      ]
+    },
+    {
+      "key": "NORTHAMPTON|GALATI",
+      "county": "NORTHAMPTON",
+      "precinct": "GALATI",
+      "votes": [
+        [86,0,0,0],
+        [50,0,0,0]
+      ]
+    },
+    {
+      "key": "NORTHAMPTON|GAPL",
+      "county": "NORTHAMPTON",
+      "precinct": "GAPL",
+      "votes": [
+        [60,0,0,0],
+        [317,0,0,0]
+      ]
+    },
+    {
+      "key": "NORTHAMPTON|GASTON",
+      "county": "NORTHAMPTON",
+      "precinct": "GASTON",
+      "votes": [
+        [127,0,0,0],
+        [246,0,0,0]
+      ]
+    },
+    {
+      "key": "NORTHAMPTON|JARE",
+      "county": "NORTHAMPTON",
+      "precinct": "JARE",
+      "votes": [
+        [77,0,0,0],
+        [43,0,0,0]
+      ]
+    },
+    {
+      "key": "NORTHAMPTON|LAKE G",
+      "county": "NORTHAMPTON",
+      "precinct": "LAKE G",
+      "votes": [
+        [201,0,0,0],
+        [112,0,0,0]
+      ]
+    },
+    {
+      "key": "NORTHAMPTON|LASKER",
+      "county": "NORTHAMPTON",
+      "precinct": "LASKER",
+      "votes": [
+        [69,0,0,0],
+        [10,0,0,0]
+      ]
+    },
+    {
+      "key": "NORTHAMPTON|NEWTOW",
+      "county": "NORTHAMPTON",
+      "precinct": "NEWTOW",
+      "votes": [
+        [107,0,0,0],
+        [57,0,0,0]
+      ]
+    },
+    {
+      "key": "NORTHAMPTON|RICH S",
+      "county": "NORTHAMPTON",
+      "precinct": "RICH S",
+      "votes": [
+        [61,0,0,0],
+        [122,0,0,0]
+      ]
+    },
+    {
+      "key": "NORTHAMPTON|SEABOA",
+      "county": "NORTHAMPTON",
+      "precinct": "SEABOA",
+      "votes": [
+        [56,0,0,0],
+        [135,0,0,0]
+      ]
+    },
+    {
+      "key": "NORTHAMPTON|SEVERN",
+      "county": "NORTHAMPTON",
+      "precinct": "SEVERN",
+      "votes": [
+        [87,0,0,0],
+        [43,0,0,0]
+      ]
+    },
+    {
+      "key": "NORTHAMPTON|WOPO",
+      "county": "NORTHAMPTON",
+      "precinct": "WOPO",
+      "votes": [
+        [90,0,0,0],
+        [91,0,0,0]
+      ]
+    },
+    {
+      "key": "PASQUOTANK|EAST",
+      "county": "PASQUOTANK",
+      "precinct": "EAST",
+      "votes": [
+        [222,470,4,0],
+        [278,842,30,0]
+      ]
+    },
+    {
+      "key": "PASQUOTANK|MH",
+      "county": "PASQUOTANK",
+      "precinct": "MH",
+      "votes": [
+        [508,605,17,0],
+        [399,966,29,0]
+      ]
+    },
+    {
+      "key": "PASQUOTANK|NEW",
+      "county": "PASQUOTANK",
+      "precinct": "NEW",
+      "votes": [
+        [347,170,6,0],
+        [210,336,5,0]
+      ]
+    },
+    {
+      "key": "PASQUOTANK|NIX",
+      "county": "PASQUOTANK",
+      "precinct": "NIX",
+      "votes": [
+        [549,888,8,0],
+        [211,660,22,0]
+      ]
+    },
+    {
+      "key": "PASQUOTANK|NORTH",
+      "county": "PASQUOTANK",
+      "precinct": "NORTH",
+      "votes": [
+        [123,207,8,0],
+        [223,452,15,0]
+      ]
+    },
+    {
+      "key": "PASQUOTANK|PRO",
+      "county": "PASQUOTANK",
+      "precinct": "PRO",
+      "votes": [
+        [666,907,17,0],
+        [336,729,33,0]
+      ]
+    },
+    {
+      "key": "PASQUOTANK|SAL",
+      "county": "PASQUOTANK",
+      "precinct": "SAL",
+      "votes": [
+        [238,264,6,0],
+        [69,165,10,0]
+      ]
+    },
+    {
+      "key": "PASQUOTANK|SOUTH",
+      "county": "PASQUOTANK",
+      "precinct": "SOUTH",
+      "votes": [
+        [83,157,2,0],
+        [277,845,14,0]
+      ]
+    },
+    {
+      "key": "PASQUOTANK|WEST",
+      "county": "PASQUOTANK",
+      "precinct": "WEST",
+      "votes": [
+        [61,115,9,0],
+        [268,652,23,0]
+      ]
+    },
+    {
+      "key": "PERQUIMANS|BELVID",
+      "county": "PERQUIMANS",
+      "precinct": "BELVID",
+      "votes": [
+        [179,145,0,0],
+        [46,80,1,0]
+      ]
+    },
+    {
+      "key": "PERQUIMANS|BETHEL",
+      "county": "PERQUIMANS",
+      "precinct": "BETHEL",
+      "votes": [
+        [315,888,14,0],
+        [99,379,34,0]
+      ]
+    },
+    {
+      "key": "PERQUIMANS|EAST H",
+      "county": "PERQUIMANS",
+      "precinct": "EAST H",
+      "votes": [
+        [72,119,1,0],
+        [96,166,7,0]
+      ]
+    },
+    {
+      "key": "PERQUIMANS|NEW HO",
+      "county": "PERQUIMANS",
+      "precinct": "NEW HO",
+      "votes": [
+        [428,598,9,0],
+        [109,289,18,0]
+      ]
+    },
+    {
+      "key": "PERQUIMANS|NICANO",
+      "county": "PERQUIMANS",
+      "precinct": "NICANO",
+      "votes": [
+        [68,13,0,0],
+        [24,13,0,0]
+      ]
+    },
+    {
+      "key": "PERQUIMANS|PARKVI",
+      "county": "PERQUIMANS",
+      "precinct": "PARKVI",
+      "votes": [
+        [168,407,3,0],
+        [112,276,7,0]
+      ]
+    },
+    {
+      "key": "PERQUIMANS|WEST H",
+      "county": "PERQUIMANS",
+      "precinct": "WEST H",
+      "votes": [
+        [88,146,0,0],
+        [48,120,3,0]
+      ]
+    },
+    {
+      "key": "TYRRELL|1",
+      "county": "TYRRELL",
+      "precinct": "1",
+      "votes": [
+        [9,0,0,0],
+        [61,0,0,0]
+      ]
+    },
+    {
+      "key": "TYRRELL|14",
+      "county": "TYRRELL",
+      "precinct": "14",
+      "votes": [
+        [21,0,0,0],
+        [1,0,0,0]
+      ]
+    },
+    {
+      "key": "TYRRELL|15",
+      "county": "TYRRELL",
+      "precinct": "15",
+      "votes": [
+        [74,0,0,0],
+        [40,0,0,0]
+      ]
+    },
+    {
+      "key": "TYRRELL|16",
+      "county": "TYRRELL",
+      "precinct": "16",
+      "votes": [
+        [4,0,0,0],
+        [4,0,0,0]
+      ]
+    },
+    {
+      "key": "TYRRELL|2",
+      "county": "TYRRELL",
+      "precinct": "2",
+      "votes": [
+        [202,0,0,0],
+        [87,0,0,0]
+      ]
+    },
+    {
+      "key": "TYRRELL|3",
+      "county": "TYRRELL",
+      "precinct": "3",
+      "votes": [
+        [39,0,0,0],
+        [17,0,0,0]
+      ]
+    }
+  ],
+  "other": [
+    {
+      "county": "BERTIE",
+      "label": "ABSENTEE",
+      "votes": [
+        [0,0,3,0],
+        [0,0,48,0]
+      ]
+    },
+    {
+      "county": "BERTIE",
+      "label": "EV-LOB",
+      "votes": [
+        [0,858,0,0],
+        [0,1630,0,0]
+      ]
+    },
+    {
+      "county": "BERTIE",
+      "label": "EV-LW",
+      "votes": [
+        [0,68,0,0],
+        [0,596,0,0]
+      ]
+    },
+    {
+      "county": "BERTIE",
+      "label": "EV-POW",
+      "votes": [
+        [0,303,0,0],
+        [0,652,0,0]
+      ]
+    },
+    {
+      "county": "BERTIE",
+      "label": "PROVISIONAL",
+      "votes": [
+        [0,0,0,0],
+        [0,0,0,0]
+      ]
+    },
+    {
+      "county": "BERTIE",
+      "label": "TRANSFER",
+      "votes": [
+        [0,0,0,0],
+        [0,0,0,0]
+      ]
+    },
+    {
+      "county": "DARE",
+      "label": "ABSENTEE",
+      "votes": [
+        [0,0,164,0],
+        [0,0,326,0]
+      ]
+    },
+    {
+      "county": "DARE",
+      "label": "ABSENTEE SUP",
+      "votes": [
+        [0,0,0,0],
+        [0,0,0,0]
+      ]
+    },
+    {
+      "county": "DARE",
+      "label": "EV BOE",
+      "votes": [
+        [0,1955,0,0],
+        [0,1500,0,0]
+      ]
+    },
+    {
+      "county": "DARE",
+      "label": "EV FANX",
+      "votes": [
+        [0,640,0,0],
+        [0,605,0,0]
+      ]
+    },
+    {
+      "county": "DARE",
+      "label": "EV KDH TH",
+      "votes": [
+        [0,3460,0,0],
+        [0,3903,0,0]
+      ]
+    },
+    {
+      "county": "DARE",
+      "label": "PROVISIONAL",
+      "votes": [
+        [0,0,0,0],
+        [0,0,0,0]
+      ]
+    },
+    {
+      "county": "DARE",
+      "label": "SPARE",
+      "votes": [
+        [0,0,0,0],
+        [0,0,0,0]
+      ]
+    },
+    {
+      "county": "DARE",
+      "label": "TRANSFER",
+      "votes": [
+        [0,0,0,0],
+        [0,0,0,0]
+      ]
+    },
+    {
+      "county": "NORTHAMPTON",
+      "label": "ABSENTEE",
+      "votes": [
+        [0,0,22,0],
+        [0,0,48,0]
+      ]
+    },
+    {
+      "county": "NORTHAMPTON",
+      "label": "EV GASTON",
+      "votes": [
+        [0,544,0,0],
+        [0,1248,0,0]
+      ]
+    },
+    {
+      "county": "NORTHAMPTON",
+      "label": "EV JACKSON",
+      "votes": [
+        [0,605,0,0],
+        [0,1023,0,0]
+      ]
+    },
+    {
+      "county": "NORTHAMPTON",
+      "label": "EV RICH SQUARE",
+      "votes": [
+        [0,125,0,0],
+        [0,548,0,0]
+      ]
+    },
+    {
+      "county": "NORTHAMPTON",
+      "label": "PROVISIONAL",
+      "votes": [
+        [0,0,0,0],
+        [0,0,0,0]
+      ]
+    },
+    {
+      "county": "NORTHAMPTON",
+      "label": "TRANSFER",
+      "votes": [
+        [0,0,0,0],
+        [0,0,0,0]
+      ]
+    },
+    {
+      "county": "TYRRELL",
+      "label": "ABSENTEE",
+      "votes": [
+        [0,0,1,0],
+        [0,0,5,0]
+      ]
+    },
+    {
+      "county": "TYRRELL",
+      "label": "EARLY VOTING",
+      "votes": [
+        [0,432,0,0],
+        [0,337,0,0]
+      ]
+    },
+    {
+      "county": "TYRRELL",
+      "label": "PROVISIONAL",
+      "votes": [
+        [0,0,0,0],
+        [0,0,0,0]
+      ]
+    },
+    {
+      "county": "TYRRELL",
+      "label": "TRANSFER",
+      "votes": [
+        [0,0,0,0],
+        [0,0,0,0]
+      ]
+    }
+  ]
+}

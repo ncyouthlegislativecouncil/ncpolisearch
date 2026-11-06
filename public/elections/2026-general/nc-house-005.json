@@ -1,0 +1,289 @@
+{
+  "raceId": "nc-house-005",
+  "candidates": [
+    {"name":"Sam Davis III","party":"D"},
+    {"name":"Bill Ward","party":"R"}
+  ],
+  "precincts": [
+    {
+      "key": "CAMDEN|CH",
+      "county": "CAMDEN",
+      "precinct": "CH",
+      "votes": [
+        [151,405,11,0],
+        [418,747,10,0]
+      ]
+    },
+    {
+      "key": "CAMDEN|SH",
+      "county": "CAMDEN",
+      "precinct": "SH",
+      "votes": [
+        [99,202,13,0],
+        [430,368,8,0]
+      ]
+    },
+    {
+      "key": "CAMDEN|SM",
+      "county": "CAMDEN",
+      "precinct": "SM",
+      "votes": [
+        [215,250,18,0],
+        [668,493,2,0]
+      ]
+    },
+    {
+      "key": "GATES|1",
+      "county": "GATES",
+      "precinct": "1",
+      "votes": [
+        [116,326,20,0],
+        [168,158,13,0]
+      ]
+    },
+    {
+      "key": "GATES|2",
+      "county": "GATES",
+      "precinct": "2",
+      "votes": [
+        [53,65,4,0],
+        [276,127,0,0]
+      ]
+    },
+    {
+      "key": "GATES|3",
+      "county": "GATES",
+      "precinct": "3",
+      "votes": [
+        [152,370,12,0],
+        [259,227,2,0]
+      ]
+    },
+    {
+      "key": "GATES|4N",
+      "county": "GATES",
+      "precinct": "4N",
+      "votes": [
+        [117,169,8,0],
+        [294,201,6,0]
+      ]
+    },
+    {
+      "key": "GATES|4S",
+      "county": "GATES",
+      "precinct": "4S",
+      "votes": [
+        [86,185,3,0],
+        [102,94,0,0]
+      ]
+    },
+    {
+      "key": "GATES|5",
+      "county": "GATES",
+      "precinct": "5",
+      "votes": [
+        [52,127,0,0],
+        [210,145,2,0]
+      ]
+    },
+    {
+      "key": "HERTFORD|A1",
+      "county": "HERTFORD",
+      "precinct": "A1",
+      "votes": [
+        [182,570,6,0],
+        [94,152,0,0]
+      ]
+    },
+    {
+      "key": "HERTFORD|A2",
+      "county": "HERTFORD",
+      "precinct": "A2",
+      "votes": [
+        [141,396,16,0],
+        [146,237,4,0]
+      ]
+    },
+    {
+      "key": "HERTFORD|A3",
+      "county": "HERTFORD",
+      "precinct": "A3",
+      "votes": [
+        [127,344,5,0],
+        [17,27,2,0]
+      ]
+    },
+    {
+      "key": "HERTFORD|BR",
+      "county": "HERTFORD",
+      "precinct": "BR",
+      "votes": [
+        [43,117,2,0],
+        [14,17,0,0]
+      ]
+    },
+    {
+      "key": "HERTFORD|CM",
+      "county": "HERTFORD",
+      "precinct": "CM",
+      "votes": [
+        [58,64,0,0],
+        [90,46,0,0]
+      ]
+    },
+    {
+      "key": "HERTFORD|CO",
+      "county": "HERTFORD",
+      "precinct": "CO",
+      "votes": [
+        [95,110,0,0],
+        [27,30,0,0]
+      ]
+    },
+    {
+      "key": "HERTFORD|HV",
+      "county": "HERTFORD",
+      "precinct": "HV",
+      "votes": [
+        [74,119,4,0],
+        [114,92,0,0]
+      ]
+    },
+    {
+      "key": "HERTFORD|M1",
+      "county": "HERTFORD",
+      "precinct": "M1",
+      "votes": [
+        [226,552,21,0],
+        [135,189,0,0]
+      ]
+    },
+    {
+      "key": "HERTFORD|M2",
+      "county": "HERTFORD",
+      "precinct": "M2",
+      "votes": [
+        [105,318,4,0],
+        [53,115,0,0]
+      ]
+    },
+    {
+      "key": "HERTFORD|ML",
+      "county": "HERTFORD",
+      "precinct": "ML",
+      "votes": [
+        [24,54,2,0],
+        [160,51,5,0]
+      ]
+    },
+    {
+      "key": "HERTFORD|SJ",
+      "county": "HERTFORD",
+      "precinct": "SJ",
+      "votes": [
+        [83,141,7,0],
+        [91,50,1,0]
+      ]
+    },
+    {
+      "key": "HERTFORD|UN",
+      "county": "HERTFORD",
+      "precinct": "UN",
+      "votes": [
+        [56,220,3,0],
+        [80,57,2,0]
+      ]
+    },
+    {
+      "key": "HERTFORD|WN",
+      "county": "HERTFORD",
+      "precinct": "WN",
+      "votes": [
+        [115,345,5,0],
+        [69,102,1,0]
+      ]
+    },
+    {
+      "key": "PASQUOTANK|EAST",
+      "county": "PASQUOTANK",
+      "precinct": "EAST",
+      "votes": [
+        [285,848,28,0],
+        [220,470,5,0]
+      ]
+    },
+    {
+      "key": "PASQUOTANK|MH",
+      "county": "PASQUOTANK",
+      "precinct": "MH",
+      "votes": [
+        [417,948,30,0],
+        [496,627,16,0]
+      ]
+    },
+    {
+      "key": "PASQUOTANK|NEW",
+      "county": "PASQUOTANK",
+      "precinct": "NEW",
+      "votes": [
+        [203,337,4,0],
+        [355,172,6,0]
+      ]
+    },
+    {
+      "key": "PASQUOTANK|NIX",
+      "county": "PASQUOTANK",
+      "precinct": "NIX",
+      "votes": [
+        [216,675,22,0],
+        [548,875,10,0]
+      ]
+    },
+    {
+      "key": "PASQUOTANK|NORTH",
+      "county": "PASQUOTANK",
+      "precinct": "NORTH",
+      "votes": [
+        [213,455,14,0],
+        [131,205,8,0]
+      ]
+    },
+    {
+      "key": "PASQUOTANK|PRO",
+      "county": "PASQUOTANK",
+      "precinct": "PRO",
+      "votes": [
+        [330,723,33,0],
+        [664,914,18,0]
+      ]
+    },
+    {
+      "key": "PASQUOTANK|SAL",
+      "county": "PASQUOTANK",
+      "precinct": "SAL",
+      "votes": [
+        [66,167,9,0],
+        [241,259,7,0]
+      ]
+    },
+    {
+      "key": "PASQUOTANK|SOUTH",
+      "county": "PASQUOTANK",
+      "precinct": "SOUTH",
+      "votes": [
+        [280,845,15,0],
+        [81,165,1,0]
+      ]
+    },
+    {
+      "key": "PASQUOTANK|WEST",
+      "county": "PASQUOTANK",
+      "precinct": "WEST",
+      "votes": [
+        [270,640,26,0],
+        [61,126,6,0]
+      ]
+    }
+  ],
+  "other": []
+}

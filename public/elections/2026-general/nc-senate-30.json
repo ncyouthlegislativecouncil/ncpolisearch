@@ -1,0 +1,572 @@
+{
+  "raceId": "nc-senate-30",
+  "candidates": [
+    {"name":"Steve Jarvis","party":"R"},
+    {"name":"Pamela D. McAfee","party":"D"}
+  ],
+  "precincts": [
+    {
+      "key": "DAVIDSON|10",
+      "county": "DAVIDSON",
+      "precinct": "10",
+      "votes": [
+        [467,450,0,0],
+        [158,225,0,0]
+      ]
+    },
+    {
+      "key": "DAVIDSON|12",
+      "county": "DAVIDSON",
+      "precinct": "12",
+      "votes": [
+        [129,174,0,0],
+        [35,72,0,0]
+      ]
+    },
+    {
+      "key": "DAVIDSON|14",
+      "county": "DAVIDSON",
+      "precinct": "14",
+      "votes": [
+        [292,487,0,0],
+        [45,98,0,0]
+      ]
+    },
+    {
+      "key": "DAVIDSON|16",
+      "county": "DAVIDSON",
+      "precinct": "16",
+      "votes": [
+        [471,765,0,0],
+        [131,265,0,0]
+      ]
+    },
+    {
+      "key": "DAVIDSON|18",
+      "county": "DAVIDSON",
+      "precinct": "18",
+      "votes": [
+        [401,605,0,0],
+        [69,189,0,0]
+      ]
+    },
+    {
+      "key": "DAVIDSON|20",
+      "county": "DAVIDSON",
+      "precinct": "20",
+      "votes": [
+        [579,577,0,0],
+        [114,192,0,0]
+      ]
+    },
+    {
+      "key": "DAVIDSON|22",
+      "county": "DAVIDSON",
+      "precinct": "22",
+      "votes": [
+        [181,154,0,0],
+        [74,81,0,0]
+      ]
+    },
+    {
+      "key": "DAVIDSON|24",
+      "county": "DAVIDSON",
+      "precinct": "24",
+      "votes": [
+        [258,294,0,0],
+        [121,252,0,0]
+      ]
+    },
+    {
+      "key": "DAVIDSON|26",
+      "county": "DAVIDSON",
+      "precinct": "26",
+      "votes": [
+        [186,184,0,0],
+        [111,169,0,0]
+      ]
+    },
+    {
+      "key": "DAVIDSON|28",
+      "county": "DAVIDSON",
+      "precinct": "28",
+      "votes": [
+        [439,496,0,0],
+        [190,342,0,0]
+      ]
+    },
+    {
+      "key": "DAVIDSON|30",
+      "county": "DAVIDSON",
+      "precinct": "30",
+      "votes": [
+        [61,69,0,0],
+        [221,491,0,0]
+      ]
+    },
+    {
+      "key": "DAVIDSON|32",
+      "county": "DAVIDSON",
+      "precinct": "32",
+      "votes": [
+        [98,127,0,0],
+        [205,266,0,0]
+      ]
+    },
+    {
+      "key": "DAVIDSON|34",
+      "county": "DAVIDSON",
+      "precinct": "34",
+      "votes": [
+        [142,193,0,0],
+        [184,292,0,0]
+      ]
+    },
+    {
+      "key": "DAVIDSON|36",
+      "county": "DAVIDSON",
+      "precinct": "36",
+      "votes": [
+        [102,111,0,0],
+        [131,286,0,0]
+      ]
+    },
+    {
+      "key": "DAVIDSON|38",
+      "county": "DAVIDSON",
+      "precinct": "38",
+      "votes": [
+        [45,43,0,0],
+        [111,222,0,0]
+      ]
+    },
+    {
+      "key": "DAVIDSON|4",
+      "county": "DAVIDSON",
+      "precinct": "04",
+      "votes": [
+        [632,1741,0,0],
+        [284,1073,0,0]
+      ]
+    },
+    {
+      "key": "DAVIDSON|40",
+      "county": "DAVIDSON",
+      "precinct": "40",
+      "votes": [
+        [253,239,0,0],
+        [224,368,0,0]
+      ]
+    },
+    {
+      "key": "DAVIDSON|42",
+      "county": "DAVIDSON",
+      "precinct": "42",
+      "votes": [
+        [487,456,0,0],
+        [67,119,0,0]
+      ]
+    },
+    {
+      "key": "DAVIDSON|44",
+      "county": "DAVIDSON",
+      "precinct": "44",
+      "votes": [
+        [423,1086,0,0],
+        [133,500,0,0]
+      ]
+    },
+    {
+      "key": "DAVIDSON|46",
+      "county": "DAVIDSON",
+      "precinct": "46",
+      "votes": [
+        [313,711,0,0],
+        [92,273,0,0]
+      ]
+    },
+    {
+      "key": "DAVIDSON|48",
+      "county": "DAVIDSON",
+      "precinct": "48",
+      "votes": [
+        [502,453,0,0],
+        [109,208,0,0]
+      ]
+    },
+    {
+      "key": "DAVIDSON|50",
+      "county": "DAVIDSON",
+      "precinct": "50",
+      "votes": [
+        [474,973,0,0],
+        [122,279,0,0]
+      ]
+    },
+    {
+      "key": "DAVIDSON|52",
+      "county": "DAVIDSON",
+      "precinct": "52",
+      "votes": [
+        [731,1103,0,0],
+        [177,436,0,0]
+      ]
+    },
+    {
+      "key": "DAVIDSON|54",
+      "county": "DAVIDSON",
+      "precinct": "54",
+      "votes": [
+        [344,389,0,0],
+        [48,59,0,0]
+      ]
+    },
+    {
+      "key": "DAVIDSON|56",
+      "county": "DAVIDSON",
+      "precinct": "56",
+      "votes": [
+        [258,287,0,0],
+        [32,81,0,0]
+      ]
+    },
+    {
+      "key": "DAVIDSON|58",
+      "county": "DAVIDSON",
+      "precinct": "58",
+      "votes": [
+        [652,764,0,0],
+        [142,297,0,0]
+      ]
+    },
+    {
+      "key": "DAVIDSON|6",
+      "county": "DAVIDSON",
+      "precinct": "06",
+      "votes": [
+        [646,459,0,0],
+        [169,205,0,0]
+      ]
+    },
+    {
+      "key": "DAVIDSON|60",
+      "county": "DAVIDSON",
+      "precinct": "60",
+      "votes": [
+        [344,629,0,0],
+        [321,689,0,0]
+      ]
+    },
+    {
+      "key": "DAVIDSON|62",
+      "county": "DAVIDSON",
+      "precinct": "62",
+      "votes": [
+        [92,89,0,0],
+        [183,277,0,0]
+      ]
+    },
+    {
+      "key": "DAVIDSON|64",
+      "county": "DAVIDSON",
+      "precinct": "64",
+      "votes": [
+        [36,91,0,0],
+        [196,355,0,0]
+      ]
+    },
+    {
+      "key": "DAVIDSON|66",
+      "county": "DAVIDSON",
+      "precinct": "66",
+      "votes": [
+        [135,233,0,0],
+        [119,255,0,0]
+      ]
+    },
+    {
+      "key": "DAVIDSON|68",
+      "county": "DAVIDSON",
+      "precinct": "68",
+      "votes": [
+        [167,291,0,0],
+        [188,321,0,0]
+      ]
+    },
+    {
+      "key": "DAVIDSON|70",
+      "county": "DAVIDSON",
+      "precinct": "70",
+      "votes": [
+        [379,542,0,0],
+        [108,187,0,0]
+      ]
+    },
+    {
+      "key": "DAVIDSON|72",
+      "county": "DAVIDSON",
+      "precinct": "72",
+      "votes": [
+        [573,584,0,0],
+        [161,312,0,0]
+      ]
+    },
+    {
+      "key": "DAVIDSON|74",
+      "county": "DAVIDSON",
+      "precinct": "74",
+      "votes": [
+        [620,779,0,0],
+        [151,313,0,0]
+      ]
+    },
+    {
+      "key": "DAVIDSON|76",
+      "county": "DAVIDSON",
+      "precinct": "76",
+      "votes": [
+        [484,710,0,0],
+        [147,289,0,0]
+      ]
+    },
+    {
+      "key": "DAVIDSON|78",
+      "county": "DAVIDSON",
+      "precinct": "78",
+      "votes": [
+        [641,647,0,0],
+        [181,245,0,0]
+      ]
+    },
+    {
+      "key": "DAVIDSON|8",
+      "county": "DAVIDSON",
+      "precinct": "08",
+      "votes": [
+        [161,219,0,0],
+        [71,130,0,0]
+      ]
+    },
+    {
+      "key": "DAVIDSON|80A",
+      "county": "DAVIDSON",
+      "precinct": "80A",
+      "votes": [
+        [884,1509,0,0],
+        [237,552,0,0]
+      ]
+    },
+    {
+      "key": "DAVIDSON|82",
+      "county": "DAVIDSON",
+      "precinct": "82",
+      "votes": [
+        [455,694,0,0],
+        [131,269,0,0]
+      ]
+    },
+    {
+      "key": "DAVIDSON|84",
+      "county": "DAVIDSON",
+      "precinct": "84",
+      "votes": [
+        [654,1616,0,0],
+        [296,975,0,0]
+      ]
+    },
+    {
+      "key": "DAVIDSON|86A",
+      "county": "DAVIDSON",
+      "precinct": "86A",
+      "votes": [
+        [479,441,0,0],
+        [426,490,0,0]
+      ]
+    },
+    {
+      "key": "DAVIDSON|88",
+      "county": "DAVIDSON",
+      "precinct": "88",
+      "votes": [
+        [492,520,0,0],
+        [204,301,0,0]
+      ]
+    },
+    {
+      "key": "DAVIE|1",
+      "county": "DAVIE",
+      "precinct": "01",
+      "votes": [
+        [324,158,0,0],
+        [71,111,0,0]
+      ]
+    },
+    {
+      "key": "DAVIE|10",
+      "county": "DAVIE",
+      "precinct": "10",
+      "votes": [
+        [542,611,0,0],
+        [132,393,0,0]
+      ]
+    },
+    {
+      "key": "DAVIE|11",
+      "county": "DAVIE",
+      "precinct": "11",
+      "votes": [
+        [320,419,0,0],
+        [70,165,0,0]
+      ]
+    },
+    {
+      "key": "DAVIE|12",
+      "county": "DAVIE",
+      "precinct": "12",
+      "votes": [
+        [513,990,0,0],
+        [144,561,0,0]
+      ]
+    },
+    {
+      "key": "DAVIE|13",
+      "county": "DAVIE",
+      "precinct": "13",
+      "votes": [
+        [363,1065,0,0],
+        [136,732,0,0]
+      ]
+    },
+    {
+      "key": "DAVIE|14",
+      "county": "DAVIE",
+      "precinct": "14",
+      "votes": [
+        [468,504,0,0],
+        [127,328,0,0]
+      ]
+    },
+    {
+      "key": "DAVIE|2",
+      "county": "DAVIE",
+      "precinct": "02",
+      "votes": [
+        [251,188,0,0],
+        [62,94,0,0]
+      ]
+    },
+    {
+      "key": "DAVIE|3",
+      "county": "DAVIE",
+      "precinct": "03",
+      "votes": [
+        [673,501,0,0],
+        [122,201,0,0]
+      ]
+    },
+    {
+      "key": "DAVIE|4",
+      "county": "DAVIE",
+      "precinct": "04",
+      "votes": [
+        [234,304,0,0],
+        [101,159,0,0]
+      ]
+    },
+    {
+      "key": "DAVIE|5",
+      "county": "DAVIE",
+      "precinct": "05",
+      "votes": [
+        [508,695,0,0],
+        [101,320,0,0]
+      ]
+    },
+    {
+      "key": "DAVIE|6",
+      "county": "DAVIE",
+      "precinct": "06",
+      "votes": [
+        [373,315,0,0],
+        [89,167,0,0]
+      ]
+    },
+    {
+      "key": "DAVIE|7",
+      "county": "DAVIE",
+      "precinct": "07",
+      "votes": [
+        [295,342,0,0],
+        [86,205,0,0]
+      ]
+    },
+    {
+      "key": "DAVIE|8",
+      "county": "DAVIE",
+      "precinct": "08",
+      "votes": [
+        [233,330,0,0],
+        [190,414,0,0]
+      ]
+    },
+    {
+      "key": "DAVIE|9",
+      "county": "DAVIE",
+      "precinct": "09",
+      "votes": [
+        [332,447,0,0],
+        [152,314,0,0]
+      ]
+    }
+  ],
+  "other": [
+    {
+      "county": "DAVIDSON",
+      "label": "ABSENTEE",
+      "votes": [
+        [0,0,589,0],
+        [0,0,876,0]
+      ]
+    },
+    {
+      "county": "DAVIDSON",
+      "label": "PROVISIONAL",
+      "votes": [
+        [0,0,0,0],
+        [0,0,0,0]
+      ]
+    },
+    {
+      "county": "DAVIDSON",
+      "label": "TRANSFER",
+      "votes": [
+        [0,0,0,0],
+        [0,0,0,0]
+      ]
+    },
+    {
+      "county": "DAVIE",
+      "label": "ABSENTEE",
+      "votes": [
+        [0,0,147,0],
+        [0,0,199,0]
+      ]
+    },
+    {
+      "county": "DAVIE",
+      "label": "PROVISIONAL",
+      "votes": [
+        [0,0,0,0],
+        [0,0,0,0]
+      ]
+    },
+    {
+      "county": "DAVIE",
+      "label": "TRANSFER",
+      "votes": [
+        [0,0,0,0],
+        [0,0,0,0]
+      ]
+    }
+  ]
+}

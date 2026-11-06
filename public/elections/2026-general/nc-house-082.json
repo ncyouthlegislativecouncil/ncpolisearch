@@ -1,0 +1,160 @@
+{
+  "raceId": "nc-house-082",
+  "candidates": [
+    {"name":"Chris Bishopp","party":"D"},
+    {"name":"Brian Echevarria","party":"R"}
+  ],
+  "precincts": [
+    {
+      "key": "CABARRUS|1-02",
+      "county": "CABARRUS",
+      "precinct": "01-02",
+      "votes": [
+        [276,0,0,0],
+        [585,0,0,0]
+      ]
+    },
+    {
+      "key": "CABARRUS|1-04",
+      "county": "CABARRUS",
+      "precinct": "01-04",
+      "votes": [
+        [750,0,0,0],
+        [705,0,0,0]
+      ]
+    },
+    {
+      "key": "CABARRUS|1-07",
+      "county": "CABARRUS",
+      "precinct": "01-07",
+      "votes": [
+        [315,0,0,0],
+        [488,0,0,0]
+      ]
+    },
+    {
+      "key": "CABARRUS|1-10",
+      "county": "CABARRUS",
+      "precinct": "01-10",
+      "votes": [
+        [412,0,0,0],
+        [405,0,0,0]
+      ]
+    },
+    {
+      "key": "CABARRUS|1-11",
+      "county": "CABARRUS",
+      "precinct": "01-11",
+      "votes": [
+        [583,0,0,0],
+        [630,0,0,0]
+      ]
+    },
+    {
+      "key": "CABARRUS|10-00",
+      "county": "CABARRUS",
+      "precinct": "10-00",
+      "votes": [
+        [467,0,0,0],
+        [1206,0,0,0]
+      ]
+    },
+    {
+      "key": "CABARRUS|12-09",
+      "county": "CABARRUS",
+      "precinct": "12-09",
+      "votes": [
+        [271,0,0,0],
+        [318,0,0,0]
+      ]
+    },
+    {
+      "key": "CABARRUS|2-02",
+      "county": "CABARRUS",
+      "precinct": "02-02",
+      "votes": [
+        [523,0,0,0],
+        [491,0,0,0]
+      ]
+    },
+    {
+      "key": "CABARRUS|2-03",
+      "county": "CABARRUS",
+      "precinct": "02-03",
+      "votes": [
+        [635,0,0,0],
+        [668,0,0,0]
+      ]
+    },
+    {
+      "key": "CABARRUS|2-08",
+      "county": "CABARRUS",
+      "precinct": "02-08",
+      "votes": [
+        [959,0,0,0],
+        [672,0,0,0]
+      ]
+    },
+    {
+      "key": "CABARRUS|2-09",
+      "county": "CABARRUS",
+      "precinct": "02-09",
+      "votes": [
+        [992,0,0,0],
+        [670,0,0,0]
+      ]
+    },
+    {
+      "key": "CABARRUS|8-00",
+      "county": "CABARRUS",
+      "precinct": "08-00",
+      "votes": [
+        [169,0,0,0],
+        [690,0,0,0]
+      ]
+    },
+    {
+      "key": "CABARRUS|9-00",
+      "county": "CABARRUS",
+      "precinct": "09-00",
+      "votes": [
+        [150,0,0,0],
+        [636,0,0,0]
+      ]
+    }
+  ],
+  "other": [
+    {
+      "county": "CABARRUS",
+      "label": "ABSENTEE",
+      "votes": [
+        [0,0,912,0],
+        [0,0,322,0]
+      ]
+    },
+    {
+      "county": "CABARRUS",
+      "label": "EARLY VOTING",
+      "votes": [
+        [0,13542,0,0],
+        [0,7995,0,0]
+      ]
+    },
+    {
+      "county": "CABARRUS",
+      "label": "PROVISIONAL",
+      "votes": [
+        [0,0,0,0],
+        [0,0,0,0]
+      ]
+    },
+    {
+      "county": "CABARRUS",
+      "label": "TRANSFER",
+      "votes": [
+        [0,0,0,0],
+        [0,0,0,0]
+      ]
+    }
+  ]
+}

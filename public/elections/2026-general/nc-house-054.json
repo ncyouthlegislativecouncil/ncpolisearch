@@ -1,0 +1,169 @@
+{
+  "raceId": "nc-house-054",
+  "candidates": [
+    {"name":"Robert T. Reives II","party":"D"}
+  ],
+  "precincts": [
+    {
+      "key": "CHATHAM|15",
+      "county": "CHATHAM",
+      "precinct": "15",
+      "votes": [
+        [220,998,40,0]
+      ]
+    },
+    {
+      "key": "CHATHAM|21",
+      "county": "CHATHAM",
+      "precinct": "21",
+      "votes": [
+        [203,450,15,0]
+      ]
+    },
+    {
+      "key": "CHATHAM|3",
+      "county": "CHATHAM",
+      "precinct": "3",
+      "votes": [
+        [156,322,5,0]
+      ]
+    },
+    {
+      "key": "CHATHAM|30",
+      "county": "CHATHAM",
+      "precinct": "30",
+      "votes": [
+        [131,534,21,0]
+      ]
+    },
+    {
+      "key": "CHATHAM|42",
+      "county": "CHATHAM",
+      "precinct": "42",
+      "votes": [
+        [182,825,34,0]
+      ]
+    },
+    {
+      "key": "CHATHAM|75",
+      "county": "CHATHAM",
+      "precinct": "75",
+      "votes": [
+        [353,1967,168,0]
+      ]
+    },
+    {
+      "key": "CHATHAM|78",
+      "county": "CHATHAM",
+      "precinct": "78",
+      "votes": [
+        [279,2907,217,0]
+      ]
+    },
+    {
+      "key": "CHATHAM|9",
+      "county": "CHATHAM",
+      "precinct": "9",
+      "votes": [
+        [127,236,7,0]
+      ]
+    },
+    {
+      "key": "CHATHAM|CRD118",
+      "county": "CHATHAM",
+      "precinct": "CRD118",
+      "votes": [
+        [112,151,1,0]
+      ]
+    },
+    {
+      "key": "CHATHAM|ECL109",
+      "county": "CHATHAM",
+      "precinct": "ECL109",
+      "votes": [
+        [390,3235,149,0]
+      ]
+    },
+    {
+      "key": "CHATHAM|EPP112",
+      "county": "CHATHAM",
+      "precinct": "EPP112",
+      "votes": [
+        [352,1758,81,0]
+      ]
+    },
+    {
+      "key": "CHATHAM|ESC111",
+      "county": "CHATHAM",
+      "precinct": "ESC111",
+      "votes": [
+        [317,1136,20,0]
+      ]
+    },
+    {
+      "key": "CHATHAM|GLD118",
+      "county": "CHATHAM",
+      "precinct": "GLD118",
+      "votes": [
+        [188,810,15,0]
+      ]
+    },
+    {
+      "key": "CHATHAM|MON113",
+      "county": "CHATHAM",
+      "precinct": "MON113",
+      "votes": [
+        [217,452,18,0]
+      ]
+    },
+    {
+      "key": "CHATHAM|NWM117",
+      "county": "CHATHAM",
+      "precinct": "NWM117",
+      "votes": [
+        [393,2973,228,0]
+      ]
+    },
+    {
+      "key": "CHATHAM|WCL108",
+      "county": "CHATHAM",
+      "precinct": "WCL108",
+      "votes": [
+        [304,1808,124,0]
+      ]
+    },
+    {
+      "key": "CHATHAM|WPP114",
+      "county": "CHATHAM",
+      "precinct": "WPP114",
+      "votes": [
+        [412,2251,81,0]
+      ]
+    },
+    {
+      "key": "CHATHAM|WSC112",
+      "county": "CHATHAM",
+      "precinct": "WSC112",
+      "votes": [
+        [238,684,18,0]
+      ]
+    },
+    {
+      "key": "RANDOLPH|LB",
+      "county": "RANDOLPH",
+      "precinct": "LB",
+      "votes": [
+        [391,354,16,0]
+      ]
+    },
+    {
+      "key": "RANDOLPH|ST",
+      "county": "RANDOLPH",
+      "precinct": "ST",
+      "votes": [
+        [246,189,10,0]
+      ]
+    }
+  ],
+  "other": []
+}

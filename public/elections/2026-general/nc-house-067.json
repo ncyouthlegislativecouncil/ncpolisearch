@@ -1,0 +1,374 @@
+{
+  "raceId": "nc-house-067",
+  "candidates": [
+    {"name":"Cody Huneycutt","party":"R"},
+    {"name":"Jocelyn Torres","party":"D"}
+  ],
+  "precincts": [
+    {
+      "key": "MONTGOMERY|BIS",
+      "county": "MONTGOMERY",
+      "precinct": "BIS",
+      "votes": [
+        [139,164,7,0],
+        [116,309,15,0]
+      ]
+    },
+    {
+      "key": "MONTGOMERY|CAN",
+      "county": "MONTGOMERY",
+      "precinct": "CAN",
+      "votes": [
+        [176,130,0,0],
+        [164,188,2,0]
+      ]
+    },
+    {
+      "key": "MONTGOMERY|CHE",
+      "county": "MONTGOMERY",
+      "precinct": "CHE",
+      "votes": [
+        [154,104,0,0],
+        [35,41,4,0]
+      ]
+    },
+    {
+      "key": "MONTGOMERY|ELD",
+      "county": "MONTGOMERY",
+      "precinct": "ELD",
+      "votes": [
+        [486,341,15,0],
+        [92,143,16,0]
+      ]
+    },
+    {
+      "key": "MONTGOMERY|LIT",
+      "county": "MONTGOMERY",
+      "precinct": "LIT",
+      "votes": [
+        [149,81,1,0],
+        [21,31,0,0]
+      ]
+    },
+    {
+      "key": "MONTGOMERY|MTG",
+      "county": "MONTGOMERY",
+      "precinct": "MTG",
+      "votes": [
+        [155,151,1,0],
+        [226,330,3,0]
+      ]
+    },
+    {
+      "key": "MONTGOMERY|OPH",
+      "county": "MONTGOMERY",
+      "precinct": "OPH",
+      "votes": [
+        [83,36,1,0],
+        [11,9,0,0]
+      ]
+    },
+    {
+      "key": "MONTGOMERY|PEE",
+      "county": "MONTGOMERY",
+      "precinct": "PEE",
+      "votes": [
+        [345,361,11,0],
+        [61,165,9,0]
+      ]
+    },
+    {
+      "key": "MONTGOMERY|ROC",
+      "county": "MONTGOMERY",
+      "precinct": "ROC",
+      "votes": [
+        [88,52,0,0],
+        [118,115,3,0]
+      ]
+    },
+    {
+      "key": "MONTGOMERY|STA",
+      "county": "MONTGOMERY",
+      "precinct": "STA",
+      "votes": [
+        [307,242,5,0],
+        [93,130,4,0]
+      ]
+    },
+    {
+      "key": "MONTGOMERY|T1",
+      "county": "MONTGOMERY",
+      "precinct": "T1",
+      "votes": [
+        [265,270,5,0],
+        [143,256,3,0]
+      ]
+    },
+    {
+      "key": "MONTGOMERY|T2",
+      "county": "MONTGOMERY",
+      "precinct": "T2",
+      "votes": [
+        [202,264,8,0],
+        [70,175,5,0]
+      ]
+    },
+    {
+      "key": "MONTGOMERY|UWH",
+      "county": "MONTGOMERY",
+      "precinct": "UWH",
+      "votes": [
+        [200,376,4,0],
+        [36,157,10,0]
+      ]
+    },
+    {
+      "key": "MONTGOMERY|WAD",
+      "county": "MONTGOMERY",
+      "precinct": "WAD",
+      "votes": [
+        [61,22,0,0],
+        [53,72,0,0]
+      ]
+    },
+    {
+      "key": "STANLY|107",
+      "county": "STANLY",
+      "precinct": "0107",
+      "votes": [
+        [261,0,0,0],
+        [191,0,0,0]
+      ]
+    },
+    {
+      "key": "STANLY|108",
+      "county": "STANLY",
+      "precinct": "0108",
+      "votes": [
+        [31,0,0,0],
+        [232,0,0,0]
+      ]
+    },
+    {
+      "key": "STANLY|11",
+      "county": "STANLY",
+      "precinct": "0011",
+      "votes": [
+        [176,0,0,0],
+        [53,0,0,0]
+      ]
+    },
+    {
+      "key": "STANLY|110",
+      "county": "STANLY",
+      "precinct": "0110",
+      "votes": [
+        [190,0,0,0],
+        [166,0,0,0]
+      ]
+    },
+    {
+      "key": "STANLY|113",
+      "county": "STANLY",
+      "precinct": "0113",
+      "votes": [
+        [242,0,0,0],
+        [65,0,0,0]
+      ]
+    },
+    {
+      "key": "STANLY|120",
+      "county": "STANLY",
+      "precinct": "0120",
+      "votes": [
+        [634,0,0,0],
+        [83,0,0,0]
+      ]
+    },
+    {
+      "key": "STANLY|126",
+      "county": "STANLY",
+      "precinct": "0126",
+      "votes": [
+        [537,0,0,0],
+        [104,0,0,0]
+      ]
+    },
+    {
+      "key": "STANLY|127",
+      "county": "STANLY",
+      "precinct": "0127",
+      "votes": [
+        [739,0,0,0],
+        [198,0,0,0]
+      ]
+    },
+    {
+      "key": "STANLY|14",
+      "county": "STANLY",
+      "precinct": "0014",
+      "votes": [
+        [240,0,0,0],
+        [37,0,0,0]
+      ]
+    },
+    {
+      "key": "STANLY|15",
+      "county": "STANLY",
+      "precinct": "0015",
+      "votes": [
+        [269,0,0,0],
+        [127,0,0,0]
+      ]
+    },
+    {
+      "key": "STANLY|16",
+      "county": "STANLY",
+      "precinct": "0016",
+      "votes": [
+        [206,0,0,0],
+        [77,0,0,0]
+      ]
+    },
+    {
+      "key": "STANLY|17",
+      "county": "STANLY",
+      "precinct": "0017",
+      "votes": [
+        [538,0,0,0],
+        [86,0,0,0]
+      ]
+    },
+    {
+      "key": "STANLY|18",
+      "county": "STANLY",
+      "precinct": "0018",
+      "votes": [
+        [298,0,0,0],
+        [66,0,0,0]
+      ]
+    },
+    {
+      "key": "STANLY|19",
+      "county": "STANLY",
+      "precinct": "0019",
+      "votes": [
+        [466,0,0,0],
+        [52,0,0,0]
+      ]
+    },
+    {
+      "key": "STANLY|21",
+      "county": "STANLY",
+      "precinct": "0021",
+      "votes": [
+        [367,0,0,0],
+        [25,0,0,0]
+      ]
+    },
+    {
+      "key": "STANLY|212",
+      "county": "STANLY",
+      "precinct": "0212",
+      "votes": [
+        [300,0,0,0],
+        [115,0,0,0]
+      ]
+    },
+    {
+      "key": "STANLY|22",
+      "county": "STANLY",
+      "precinct": "0022",
+      "votes": [
+        [453,0,0,0],
+        [136,0,0,0]
+      ]
+    },
+    {
+      "key": "STANLY|23",
+      "county": "STANLY",
+      "precinct": "0023",
+      "votes": [
+        [644,0,0,0],
+        [110,0,0,0]
+      ]
+    },
+    {
+      "key": "STANLY|24",
+      "county": "STANLY",
+      "precinct": "0024",
+      "votes": [
+        [614,0,0,0],
+        [169,0,0,0]
+      ]
+    },
+    {
+      "key": "STANLY|25",
+      "county": "STANLY",
+      "precinct": "0025",
+      "votes": [
+        [678,0,0,0],
+        [134,0,0,0]
+      ]
+    },
+    {
+      "key": "STANLY|3",
+      "county": "STANLY",
+      "precinct": "0003",
+      "votes": [
+        [221,0,0,0],
+        [153,0,0,0]
+      ]
+    }
+  ],
+  "other": [
+    {
+      "county": "STANLY",
+      "label": "ABSENTEE",
+      "votes": [
+        [0,0,170,0],
+        [0,0,218,0]
+      ]
+    },
+    {
+      "county": "STANLY",
+      "label": "ABSENTEE SUP",
+      "votes": [
+        [0,0,0,0],
+        [0,0,0,0]
+      ]
+    },
+    {
+      "county": "STANLY",
+      "label": "EV BOE",
+      "votes": [
+        [0,5351,0,0],
+        [0,3459,0,0]
+      ]
+    },
+    {
+      "county": "STANLY",
+      "label": "EV LOC",
+      "votes": [
+        [0,3388,0,0],
+        [0,1141,0,0]
+      ]
+    },
+    {
+      "county": "STANLY",
+      "label": "PROVISIONAL",
+      "votes": [
+        [0,0,0,0],
+        [0,0,0,0]
+      ]
+    },
+    {
+      "county": "STANLY",
+      "label": "TRANSFER",
+      "votes": [
+        [0,0,0,0],
+        [0,0,0,0]
+      ]
+    }
+  ]
+}

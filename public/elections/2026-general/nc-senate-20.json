@@ -1,0 +1,421 @@
+{
+  "raceId": "nc-senate-20",
+  "candidates": [
+    {"name":"Natalie S. Murdock","party":"D"}
+  ],
+  "precincts": [
+    {
+      "key": "CHATHAM|15",
+      "county": "CHATHAM",
+      "precinct": "15",
+      "votes": [
+        [220,995,40,0]
+      ]
+    },
+    {
+      "key": "CHATHAM|21",
+      "county": "CHATHAM",
+      "precinct": "21",
+      "votes": [
+        [201,450,15,0]
+      ]
+    },
+    {
+      "key": "CHATHAM|3",
+      "county": "CHATHAM",
+      "precinct": "3",
+      "votes": [
+        [149,312,5,0]
+      ]
+    },
+    {
+      "key": "CHATHAM|30",
+      "county": "CHATHAM",
+      "precinct": "30",
+      "votes": [
+        [120,529,21,0]
+      ]
+    },
+    {
+      "key": "CHATHAM|42",
+      "county": "CHATHAM",
+      "precinct": "42",
+      "votes": [
+        [186,816,34,0]
+      ]
+    },
+    {
+      "key": "CHATHAM|75",
+      "county": "CHATHAM",
+      "precinct": "75",
+      "votes": [
+        [356,1975,166,0]
+      ]
+    },
+    {
+      "key": "CHATHAM|78",
+      "county": "CHATHAM",
+      "precinct": "78",
+      "votes": [
+        [274,2907,222,0]
+      ]
+    },
+    {
+      "key": "CHATHAM|9",
+      "county": "CHATHAM",
+      "precinct": "9",
+      "votes": [
+        [120,232,7,0]
+      ]
+    },
+    {
+      "key": "CHATHAM|CRD118",
+      "county": "CHATHAM",
+      "precinct": "CRD118",
+      "votes": [
+        [100,146,0,0]
+      ]
+    },
+    {
+      "key": "CHATHAM|ECL109",
+      "county": "CHATHAM",
+      "precinct": "ECL109",
+      "votes": [
+        [393,3236,149,0]
+      ]
+    },
+    {
+      "key": "CHATHAM|EPP112",
+      "county": "CHATHAM",
+      "precinct": "EPP112",
+      "votes": [
+        [352,1751,83,0]
+      ]
+    },
+    {
+      "key": "CHATHAM|ESC111",
+      "county": "CHATHAM",
+      "precinct": "ESC111",
+      "votes": [
+        [313,1126,20,0]
+      ]
+    },
+    {
+      "key": "CHATHAM|GLD118",
+      "county": "CHATHAM",
+      "precinct": "GLD118",
+      "votes": [
+        [188,783,16,0]
+      ]
+    },
+    {
+      "key": "CHATHAM|MON113",
+      "county": "CHATHAM",
+      "precinct": "MON113",
+      "votes": [
+        [213,447,18,0]
+      ]
+    },
+    {
+      "key": "CHATHAM|NWM117",
+      "county": "CHATHAM",
+      "precinct": "NWM117",
+      "votes": [
+        [392,2950,229,0]
+      ]
+    },
+    {
+      "key": "CHATHAM|WCL108",
+      "county": "CHATHAM",
+      "precinct": "WCL108",
+      "votes": [
+        [308,1799,125,0]
+      ]
+    },
+    {
+      "key": "CHATHAM|WPP114",
+      "county": "CHATHAM",
+      "precinct": "WPP114",
+      "votes": [
+        [400,2216,79,0]
+      ]
+    },
+    {
+      "key": "CHATHAM|WSC112",
+      "county": "CHATHAM",
+      "precinct": "WSC112",
+      "votes": [
+        [237,669,21,0]
+      ]
+    },
+    {
+      "key": "DURHAM|12",
+      "county": "DURHAM",
+      "precinct": "12",
+      "votes": [
+        [125,0,0,0]
+      ]
+    },
+    {
+      "key": "DURHAM|13",
+      "county": "DURHAM",
+      "precinct": "13",
+      "votes": [
+        [117,0,0,0]
+      ]
+    },
+    {
+      "key": "DURHAM|27",
+      "county": "DURHAM",
+      "precinct": "27",
+      "votes": [
+        [436,0,0,0]
+      ]
+    },
+    {
+      "key": "DURHAM|30-4",
+      "county": "DURHAM",
+      "precinct": "30-4",
+      "votes": [
+        [685,0,0,0]
+      ]
+    },
+    {
+      "key": "DURHAM|31",
+      "county": "DURHAM",
+      "precinct": "31",
+      "votes": [
+        [975,0,0,0]
+      ]
+    },
+    {
+      "key": "DURHAM|33-1",
+      "county": "DURHAM",
+      "precinct": "33-1",
+      "votes": [
+        [763,0,0,0]
+      ]
+    },
+    {
+      "key": "DURHAM|33-2",
+      "county": "DURHAM",
+      "precinct": "33-2",
+      "votes": [
+        [724,0,0,0]
+      ]
+    },
+    {
+      "key": "DURHAM|34-1",
+      "county": "DURHAM",
+      "precinct": "34-1",
+      "votes": [
+        [493,0,0,0]
+      ]
+    },
+    {
+      "key": "DURHAM|34-2",
+      "county": "DURHAM",
+      "precinct": "34-2",
+      "votes": [
+        [654,0,0,0]
+      ]
+    },
+    {
+      "key": "DURHAM|35-4",
+      "county": "DURHAM",
+      "precinct": "35-4",
+      "votes": [
+        [453,0,0,0]
+      ]
+    },
+    {
+      "key": "DURHAM|35-5",
+      "county": "DURHAM",
+      "precinct": "35-5",
+      "votes": [
+        [492,0,0,0]
+      ]
+    },
+    {
+      "key": "DURHAM|38",
+      "county": "DURHAM",
+      "precinct": "38",
+      "votes": [
+        [760,0,0,0]
+      ]
+    },
+    {
+      "key": "DURHAM|41",
+      "county": "DURHAM",
+      "precinct": "41",
+      "votes": [
+        [215,0,0,0]
+      ]
+    },
+    {
+      "key": "DURHAM|42",
+      "county": "DURHAM",
+      "precinct": "42",
+      "votes": [
+        [195,0,0,0]
+      ]
+    },
+    {
+      "key": "DURHAM|47",
+      "county": "DURHAM",
+      "precinct": "47",
+      "votes": [
+        [285,0,0,0]
+      ]
+    },
+    {
+      "key": "DURHAM|51",
+      "county": "DURHAM",
+      "precinct": "51",
+      "votes": [
+        [606,0,0,0]
+      ]
+    },
+    {
+      "key": "DURHAM|53-2",
+      "county": "DURHAM",
+      "precinct": "53-2",
+      "votes": [
+        [644,0,0,0]
+      ]
+    },
+    {
+      "key": "DURHAM|54",
+      "county": "DURHAM",
+      "precinct": "54",
+      "votes": [
+        [821,0,0,0]
+      ]
+    },
+    {
+      "key": "DURHAM|55-11",
+      "county": "DURHAM",
+      "precinct": "55-11",
+      "votes": [
+        [213,0,0,0]
+      ]
+    },
+    {
+      "key": "DURHAM|55-49",
+      "county": "DURHAM",
+      "precinct": "55-49",
+      "votes": [
+        [170,0,0,0]
+      ]
+    },
+    {
+      "key": "DURHAM|56",
+      "county": "DURHAM",
+      "precinct": "56",
+      "votes": [
+        [665,0,0,0]
+      ]
+    },
+    {
+      "key": "DURHAM|57",
+      "county": "DURHAM",
+      "precinct": "57",
+      "votes": [
+        [711,0,0,0]
+      ]
+    }
+  ],
+  "other": [
+    {
+      "county": "DURHAM",
+      "label": "ABSENTEE",
+      "votes": [
+        [0,0,1610,0]
+      ]
+    },
+    {
+      "county": "DURHAM",
+      "label": "EV BOE",
+      "votes": [
+        [0,8385,0,0]
+      ]
+    },
+    {
+      "county": "DURHAM",
+      "label": "EV DUKE",
+      "votes": [
+        [0,1166,0,0]
+      ]
+    },
+    {
+      "county": "DURHAM",
+      "label": "EV ENO",
+      "votes": [
+        [0,7685,0,0]
+      ]
+    },
+    {
+      "county": "DURHAM",
+      "label": "EV ERL",
+      "votes": [
+        [0,3730,0,0]
+      ]
+    },
+    {
+      "county": "DURHAM",
+      "label": "EV LRC",
+      "votes": [
+        [0,18,0,0]
+      ]
+    },
+    {
+      "county": "DURHAM",
+      "label": "EV MAIN",
+      "votes": [
+        [0,1597,0,0]
+      ]
+    },
+    {
+      "county": "DURHAM",
+      "label": "EV NCCU",
+      "votes": [
+        [0,3905,0,0]
+      ]
+    },
+    {
+      "county": "DURHAM",
+      "label": "EV NRL",
+      "votes": [
+        [0,188,0,0]
+      ]
+    },
+    {
+      "county": "DURHAM",
+      "label": "EV SHS",
+      "votes": [
+        [0,273,0,0]
+      ]
+    },
+    {
+      "county": "DURHAM",
+      "label": "EV SRL",
+      "votes": [
+        [0,16501,0,0]
+      ]
+    },
+    {
+      "county": "DURHAM",
+      "label": "PROVISIONAL",
+      "votes": [
+        [0,0,0,0]
+      ]
+    },
+    {
+      "county": "DURHAM",
+      "label": "TRANSFER",
+      "votes": [
+        [0,0,0,0]
+      ]
+    }
+  ]
+}

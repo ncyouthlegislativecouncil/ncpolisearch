@@ -1,0 +1,289 @@
+{
+  "raceId": "nc-house-047",
+  "candidates": [
+    {"name":"John L. Lowery","party":"R"},
+    {"name":"Eshonda Hooper","party":"D"}
+  ],
+  "precincts": [
+    {
+      "key": "ROBESON|1",
+      "county": "ROBESON",
+      "precinct": "01",
+      "votes": [
+        [152,130,3,0],
+        [51,79,0,0]
+      ]
+    },
+    {
+      "key": "ROBESON|11",
+      "county": "ROBESON",
+      "precinct": "11",
+      "votes": [
+        [537,678,20,0],
+        [197,477,23,0]
+      ]
+    },
+    {
+      "key": "ROBESON|11A",
+      "county": "ROBESON",
+      "precinct": "11A",
+      "votes": [
+        [219,185,1,0],
+        [80,154,1,0]
+      ]
+    },
+    {
+      "key": "ROBESON|12",
+      "county": "ROBESON",
+      "precinct": "12",
+      "votes": [
+        [114,157,2,0],
+        [137,398,8,0]
+      ]
+    },
+    {
+      "key": "ROBESON|13",
+      "county": "ROBESON",
+      "precinct": "13",
+      "votes": [
+        [132,182,3,0],
+        [162,261,6,0]
+      ]
+    },
+    {
+      "key": "ROBESON|14",
+      "county": "ROBESON",
+      "precinct": "14",
+      "votes": [
+        [91,87,0,0],
+        [84,129,1,0]
+      ]
+    },
+    {
+      "key": "ROBESON|15",
+      "county": "ROBESON",
+      "precinct": "15",
+      "votes": [
+        [17,50,0,0],
+        [67,176,4,0]
+      ]
+    },
+    {
+      "key": "ROBESON|16",
+      "county": "ROBESON",
+      "precinct": "16",
+      "votes": [
+        [9,40,1,0],
+        [77,241,2,0]
+      ]
+    },
+    {
+      "key": "ROBESON|17",
+      "county": "ROBESON",
+      "precinct": "17",
+      "votes": [
+        [33,28,0,0],
+        [21,36,2,0]
+      ]
+    },
+    {
+      "key": "ROBESON|18A",
+      "county": "ROBESON",
+      "precinct": "18A",
+      "votes": [
+        [148,176,1,0],
+        [97,297,8,0]
+      ]
+    },
+    {
+      "key": "ROBESON|19",
+      "county": "ROBESON",
+      "precinct": "19",
+      "votes": [
+        [166,221,3,0],
+        [224,535,6,0]
+      ]
+    },
+    {
+      "key": "ROBESON|2",
+      "county": "ROBESON",
+      "precinct": "02",
+      "votes": [
+        [222,257,0,0],
+        [158,303,6,0]
+      ]
+    },
+    {
+      "key": "ROBESON|22",
+      "county": "ROBESON",
+      "precinct": "22",
+      "votes": [
+        [254,349,4,0],
+        [86,296,4,0]
+      ]
+    },
+    {
+      "key": "ROBESON|23",
+      "county": "ROBESON",
+      "precinct": "23",
+      "votes": [
+        [369,544,0,0],
+        [128,287,4,0]
+      ]
+    },
+    {
+      "key": "ROBESON|24",
+      "county": "ROBESON",
+      "precinct": "24",
+      "votes": [
+        [175,117,1,0],
+        [53,105,1,0]
+      ]
+    },
+    {
+      "key": "ROBESON|25",
+      "county": "ROBESON",
+      "precinct": "25",
+      "votes": [
+        [177,170,3,0],
+        [104,143,4,0]
+      ]
+    },
+    {
+      "key": "ROBESON|26A",
+      "county": "ROBESON",
+      "precinct": "26A",
+      "votes": [
+        [211,256,4,0],
+        [252,621,9,0]
+      ]
+    },
+    {
+      "key": "ROBESON|28",
+      "county": "ROBESON",
+      "precinct": "28",
+      "votes": [
+        [0,0,0,0],
+        [0,0,0,0]
+      ]
+    },
+    {
+      "key": "ROBESON|29",
+      "county": "ROBESON",
+      "precinct": "29",
+      "votes": [
+        [151,89,1,0],
+        [224,171,1,0]
+      ]
+    },
+    {
+      "key": "ROBESON|3",
+      "county": "ROBESON",
+      "precinct": "03",
+      "votes": [
+        [0,1,0,0],
+        [0,0,0,0]
+      ]
+    },
+    {
+      "key": "ROBESON|30",
+      "county": "ROBESON",
+      "precinct": "30",
+      "votes": [
+        [398,328,4,0],
+        [180,246,3,0]
+      ]
+    },
+    {
+      "key": "ROBESON|34",
+      "county": "ROBESON",
+      "precinct": "34",
+      "votes": [
+        [215,162,0,0],
+        [42,88,1,0]
+      ]
+    },
+    {
+      "key": "ROBESON|35",
+      "county": "ROBESON",
+      "precinct": "35",
+      "votes": [
+        [386,408,1,0],
+        [71,98,1,0]
+      ]
+    },
+    {
+      "key": "ROBESON|36",
+      "county": "ROBESON",
+      "precinct": "36",
+      "votes": [
+        [152,77,0,0],
+        [80,169,2,0]
+      ]
+    },
+    {
+      "key": "ROBESON|38",
+      "county": "ROBESON",
+      "precinct": "38",
+      "votes": [
+        [91,38,1,0],
+        [22,28,0,0]
+      ]
+    },
+    {
+      "key": "ROBESON|39",
+      "county": "ROBESON",
+      "precinct": "39",
+      "votes": [
+        [230,123,0,0],
+        [125,126,2,0]
+      ]
+    },
+    {
+      "key": "ROBESON|4",
+      "county": "ROBESON",
+      "precinct": "04",
+      "votes": [
+        [325,248,0,0],
+        [94,126,3,0]
+      ]
+    },
+    {
+      "key": "ROBESON|40",
+      "county": "ROBESON",
+      "precinct": "40",
+      "votes": [
+        [88,46,0,0],
+        [49,56,1,0]
+      ]
+    },
+    {
+      "key": "ROBESON|41",
+      "county": "ROBESON",
+      "precinct": "41",
+      "votes": [
+        [0,0,0,0],
+        [0,0,0,0]
+      ]
+    },
+    {
+      "key": "ROBESON|5A",
+      "county": "ROBESON",
+      "precinct": "05A",
+      "votes": [
+        [243,503,2,0],
+        [216,532,4,0]
+      ]
+    },
+    {
+      "key": "ROBESON|7",
+      "county": "ROBESON",
+      "precinct": "07",
+      "votes": [
+        [90,69,4,0],
+        [80,85,0,0]
+      ]
+    }
+  ],
+  "other": []
+}

@@ -1,0 +1,413 @@
+{
+  "raceId": "nc-house-034",
+  "candidates": [
+    {"name":"Tim Longest","party":"D"},
+    {"name":"Ed George","party":"L"}
+  ],
+  "precincts": [
+    {
+      "key": "WAKE|1-05",
+      "county": "WAKE",
+      "precinct": "01-05",
+      "votes": [
+        [293,0,0,0],
+        [117,0,0,0]
+      ]
+    },
+    {
+      "key": "WAKE|1-06",
+      "county": "WAKE",
+      "precinct": "01-06",
+      "votes": [
+        [597,0,0,0],
+        [105,0,0,0]
+      ]
+    },
+    {
+      "key": "WAKE|1-09",
+      "county": "WAKE",
+      "precinct": "01-09",
+      "votes": [
+        [409,0,0,0],
+        [72,0,0,0]
+      ]
+    },
+    {
+      "key": "WAKE|1-10",
+      "county": "WAKE",
+      "precinct": "01-10",
+      "votes": [
+        [422,0,0,0],
+        [123,0,0,0]
+      ]
+    },
+    {
+      "key": "WAKE|1-11",
+      "county": "WAKE",
+      "precinct": "01-11",
+      "votes": [
+        [459,0,0,0],
+        [234,0,0,0]
+      ]
+    },
+    {
+      "key": "WAKE|1-12",
+      "county": "WAKE",
+      "precinct": "01-12",
+      "votes": [
+        [526,0,0,0],
+        [159,0,0,0]
+      ]
+    },
+    {
+      "key": "WAKE|1-15",
+      "county": "WAKE",
+      "precinct": "01-15",
+      "votes": [
+        [429,0,0,0],
+        [172,0,0,0]
+      ]
+    },
+    {
+      "key": "WAKE|1-17",
+      "county": "WAKE",
+      "precinct": "01-17",
+      "votes": [
+        [206,0,0,0],
+        [107,0,0,0]
+      ]
+    },
+    {
+      "key": "WAKE|1-18",
+      "county": "WAKE",
+      "precinct": "01-18",
+      "votes": [
+        [447,0,0,0],
+        [172,0,0,0]
+      ]
+    },
+    {
+      "key": "WAKE|1-30",
+      "county": "WAKE",
+      "precinct": "01-30",
+      "votes": [
+        [236,0,0,0],
+        [112,0,0,0]
+      ]
+    },
+    {
+      "key": "WAKE|1-36",
+      "county": "WAKE",
+      "precinct": "01-36",
+      "votes": [
+        [371,0,0,0],
+        [222,0,0,0]
+      ]
+    },
+    {
+      "key": "WAKE|1-37",
+      "county": "WAKE",
+      "precinct": "01-37",
+      "votes": [
+        [303,0,0,0],
+        [133,0,0,0]
+      ]
+    },
+    {
+      "key": "WAKE|1-38",
+      "county": "WAKE",
+      "precinct": "01-38",
+      "votes": [
+        [427,0,0,0],
+        [91,0,0,0]
+      ]
+    },
+    {
+      "key": "WAKE|1-39",
+      "county": "WAKE",
+      "precinct": "01-39",
+      "votes": [
+        [274,0,0,0],
+        [98,0,0,0]
+      ]
+    },
+    {
+      "key": "WAKE|1-42",
+      "county": "WAKE",
+      "precinct": "01-42",
+      "votes": [
+        [360,0,0,0],
+        [221,0,0,0]
+      ]
+    },
+    {
+      "key": "WAKE|1-43",
+      "county": "WAKE",
+      "precinct": "01-43",
+      "votes": [
+        [400,0,0,0],
+        [131,0,0,0]
+      ]
+    },
+    {
+      "key": "WAKE|1-44",
+      "county": "WAKE",
+      "precinct": "01-44",
+      "votes": [
+        [494,0,0,0],
+        [120,0,0,0]
+      ]
+    },
+    {
+      "key": "WAKE|1-45",
+      "county": "WAKE",
+      "precinct": "01-45",
+      "votes": [
+        [257,0,0,0],
+        [132,0,0,0]
+      ]
+    },
+    {
+      "key": "WAKE|1-46",
+      "county": "WAKE",
+      "precinct": "01-46",
+      "votes": [
+        [448,0,0,0],
+        [52,0,0,0]
+      ]
+    },
+    {
+      "key": "WAKE|1-47",
+      "county": "WAKE",
+      "precinct": "01-47",
+      "votes": [
+        [342,0,0,0],
+        [191,0,0,0]
+      ]
+    },
+    {
+      "key": "WAKE|1-51",
+      "county": "WAKE",
+      "precinct": "01-51",
+      "votes": [
+        [188,0,0,0],
+        [68,0,0,0]
+      ]
+    },
+    {
+      "key": "WAKE|13-02",
+      "county": "WAKE",
+      "precinct": "13-02",
+      "votes": [
+        [297,0,0,0],
+        [180,0,0,0]
+      ]
+    },
+    {
+      "key": "WAKE|13-05",
+      "county": "WAKE",
+      "precinct": "13-05",
+      "votes": [
+        [393,0,0,0],
+        [72,0,0,0]
+      ]
+    },
+    {
+      "key": "WAKE|7-03",
+      "county": "WAKE",
+      "precinct": "07-03",
+      "votes": [
+        [202,0,0,0],
+        [90,0,0,0]
+      ]
+    },
+    {
+      "key": "WAKE|7-04",
+      "county": "WAKE",
+      "precinct": "07-04",
+      "votes": [
+        [561,0,0,0],
+        [179,0,0,0]
+      ]
+    },
+    {
+      "key": "WAKE|7-09",
+      "county": "WAKE",
+      "precinct": "07-09",
+      "votes": [
+        [443,0,0,0],
+        [181,0,0,0]
+      ]
+    }
+  ],
+  "other": [
+    {
+      "county": "WAKE",
+      "label": "ABSEN",
+      "votes": [
+        [0,0,1165,0],
+        [0,0,171,0]
+      ]
+    },
+    {
+      "county": "WAKE",
+      "label": "EVAB",
+      "votes": [
+        [0,2082,0,0],
+        [0,476,0,0]
+      ]
+    },
+    {
+      "county": "WAKE",
+      "label": "EVAV",
+      "votes": [
+        [0,83,0,0],
+        [0,5,0,0]
+      ]
+    },
+    {
+      "county": "WAKE",
+      "label": "EVBB",
+      "votes": [
+        [0,17,0,0],
+        [0,3,0,0]
+      ]
+    },
+    {
+      "county": "WAKE",
+      "label": "EVCA",
+      "votes": [
+        [0,93,0,0],
+        [0,10,0,0]
+      ]
+    },
+    {
+      "county": "WAKE",
+      "label": "EVCH",
+      "votes": [
+        [0,1601,0,0],
+        [0,62,0,0]
+      ]
+    },
+    {
+      "county": "WAKE",
+      "label": "EVCM",
+      "votes": [
+        [0,326,0,0],
+        [0,31,0,0]
+      ]
+    },
+    {
+      "county": "WAKE",
+      "label": "EVCS",
+      "votes": [
+        [0,59,0,0],
+        [0,7,0,0]
+      ]
+    },
+    {
+      "county": "WAKE",
+      "label": "EVHS",
+      "votes": [
+        [0,15,0,0],
+        [0,3,0,0]
+      ]
+    },
+    {
+      "county": "WAKE",
+      "label": "EVHT",
+      "votes": [
+        [0,16,0,0],
+        [0,1,0,0]
+      ]
+    },
+    {
+      "county": "WAKE",
+      "label": "EVJB",
+      "votes": [
+        [0,29,0,0],
+        [0,6,0,0]
+      ]
+    },
+    {
+      "county": "WAKE",
+      "label": "EVJP",
+      "votes": [
+        [0,55,0,0],
+        [0,9,0,0]
+      ]
+    },
+    {
+      "county": "WAKE",
+      "label": "EVKD",
+      "votes": [
+        [0,80,0,0],
+        [0,10,0,0]
+      ]
+    },
+    {
+      "county": "WAKE",
+      "label": "EVLH",
+      "votes": [
+        [0,2033,0,0],
+        [0,378,0,0]
+      ]
+    },
+    {
+      "county": "WAKE",
+      "label": "EVLL",
+      "votes": [
+        [0,1105,0,0],
+        [0,183,0,0]
+      ]
+    },
+    {
+      "county": "WAKE",
+      "label": "EVOP",
+      "votes": [
+        [0,10141,0,0],
+        [0,1743,0,0]
+      ]
+    },
+    {
+      "county": "WAKE",
+      "label": "EVWA",
+      "votes": [
+        [0,36,0,0],
+        [0,4,0,0]
+      ]
+    },
+    {
+      "county": "WAKE",
+      "label": "EVWB",
+      "votes": [
+        [0,1062,0,0],
+        [0,86,0,0]
+      ]
+    },
+    {
+      "county": "WAKE",
+      "label": "EVWD",
+      "votes": [
+        [0,31,0,0],
+        [0,9,0,0]
+      ]
+    },
+    {
+      "county": "WAKE",
+      "label": "PROVI",
+      "votes": [
+        [0,0,0,0],
+        [0,0,0,0]
+      ]
+    },
+    {
+      "county": "WAKE",
+      "label": "TRANS",
+      "votes": [
+        [0,0,0,0],
+        [0,0,0,0]
+      ]
+    }
+  ]
+}

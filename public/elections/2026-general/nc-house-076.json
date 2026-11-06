@@ -1,0 +1,235 @@
+{
+  "raceId": "nc-house-076",
+  "candidates": [
+    {"name":"Greg Edds","party":"R"},
+    {"name":"Scott Huffman","party":"D"}
+  ],
+  "precincts": [
+    {
+      "key": "ROWAN|1",
+      "county": "ROWAN",
+      "precinct": "01",
+      "votes": [
+        [294,370,4,0],
+        [77,115,23,0]
+      ]
+    },
+    {
+      "key": "ROWAN|10",
+      "county": "ROWAN",
+      "precinct": "10",
+      "votes": [
+        [576,636,12,0],
+        [165,352,18,0]
+      ]
+    },
+    {
+      "key": "ROWAN|11",
+      "county": "ROWAN",
+      "precinct": "11",
+      "votes": [
+        [458,456,5,0],
+        [215,441,30,0]
+      ]
+    },
+    {
+      "key": "ROWAN|12",
+      "county": "ROWAN",
+      "precinct": "12",
+      "votes": [
+        [194,224,10,0],
+        [165,442,12,0]
+      ]
+    },
+    {
+      "key": "ROWAN|14A",
+      "county": "ROWAN",
+      "precinct": "14A",
+      "votes": [
+        [577,925,9,0],
+        [212,543,13,0]
+      ]
+    },
+    {
+      "key": "ROWAN|15",
+      "county": "ROWAN",
+      "precinct": "15",
+      "votes": [
+        [540,702,19,0],
+        [206,411,23,0]
+      ]
+    },
+    {
+      "key": "ROWAN|18",
+      "county": "ROWAN",
+      "precinct": "18",
+      "votes": [
+        [24,12,0,0],
+        [188,187,13,0]
+      ]
+    },
+    {
+      "key": "ROWAN|21",
+      "county": "ROWAN",
+      "precinct": "21",
+      "votes": [
+        [488,436,5,0],
+        [197,418,13,0]
+      ]
+    },
+    {
+      "key": "ROWAN|22",
+      "county": "ROWAN",
+      "precinct": "22",
+      "votes": [
+        [229,199,3,0],
+        [30,50,3,0]
+      ]
+    },
+    {
+      "key": "ROWAN|23",
+      "county": "ROWAN",
+      "precinct": "23",
+      "votes": [
+        [361,328,6,0],
+        [64,93,4,0]
+      ]
+    },
+    {
+      "key": "ROWAN|25",
+      "county": "ROWAN",
+      "precinct": "25",
+      "votes": [
+        [425,870,14,0],
+        [114,332,14,0]
+      ]
+    },
+    {
+      "key": "ROWAN|26",
+      "county": "ROWAN",
+      "precinct": "26",
+      "votes": [
+        [281,502,4,0],
+        [61,148,4,0]
+      ]
+    },
+    {
+      "key": "ROWAN|28",
+      "county": "ROWAN",
+      "precinct": "28",
+      "votes": [
+        [251,159,4,0],
+        [373,372,10,0]
+      ]
+    },
+    {
+      "key": "ROWAN|30",
+      "county": "ROWAN",
+      "precinct": "30",
+      "votes": [
+        [213,313,8,0],
+        [204,318,19,0]
+      ]
+    },
+    {
+      "key": "ROWAN|31",
+      "county": "ROWAN",
+      "precinct": "31",
+      "votes": [
+        [351,178,11,0],
+        [154,215,7,0]
+      ]
+    },
+    {
+      "key": "ROWAN|34",
+      "county": "ROWAN",
+      "precinct": "34",
+      "votes": [
+        [229,221,7,0],
+        [339,533,23,0]
+      ]
+    },
+    {
+      "key": "ROWAN|35",
+      "county": "ROWAN",
+      "precinct": "35",
+      "votes": [
+        [84,74,5,0],
+        [145,323,22,0]
+      ]
+    },
+    {
+      "key": "ROWAN|36",
+      "county": "ROWAN",
+      "precinct": "36",
+      "votes": [
+        [146,264,31,0],
+        [308,642,32,0]
+      ]
+    },
+    {
+      "key": "ROWAN|38",
+      "county": "ROWAN",
+      "precinct": "38",
+      "votes": [
+        [154,211,16,0],
+        [325,535,23,0]
+      ]
+    },
+    {
+      "key": "ROWAN|39",
+      "county": "ROWAN",
+      "precinct": "39",
+      "votes": [
+        [200,243,18,0],
+        [136,377,19,0]
+      ]
+    },
+    {
+      "key": "ROWAN|40",
+      "county": "ROWAN",
+      "precinct": "40",
+      "votes": [
+        [275,245,8,0],
+        [292,457,21,0]
+      ]
+    },
+    {
+      "key": "ROWAN|41",
+      "county": "ROWAN",
+      "precinct": "41",
+      "votes": [
+        [224,308,21,0],
+        [253,542,28,0]
+      ]
+    },
+    {
+      "key": "ROWAN|42",
+      "county": "ROWAN",
+      "precinct": "42",
+      "votes": [
+        [15,12,0,0],
+        [216,372,5,0]
+      ]
+    },
+    {
+      "key": "ROWAN|45",
+      "county": "ROWAN",
+      "precinct": "45",
+      "votes": [
+        [185,155,2,0],
+        [149,271,4,0]
+      ]
+    },
+    {
+      "key": "ROWAN|8",
+      "county": "ROWAN",
+      "precinct": "08",
+      "votes": [
+        [420,620,12,0],
+        [181,514,11,0]
+      ]
+    }
+  ],
+  "other": []
+}

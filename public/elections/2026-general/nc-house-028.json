@@ -1,0 +1,236 @@
+{
+  "raceId": "nc-house-028",
+  "candidates": [
+    {"name":"Larry C. Strickland","party":"R"},
+    {"name":"D. Matthew Bailey","party":"D"}
+  ],
+  "precincts": [
+    {
+      "key": "JOHNSTON|PR04",
+      "county": "JOHNSTON",
+      "precinct": "PR04",
+      "votes": [
+        [311,0,0,0],
+        [98,0,0,0]
+      ]
+    },
+    {
+      "key": "JOHNSTON|PR07",
+      "county": "JOHNSTON",
+      "precinct": "PR07",
+      "votes": [
+        [796,0,0,0],
+        [226,0,0,0]
+      ]
+    },
+    {
+      "key": "JOHNSTON|PR08",
+      "county": "JOHNSTON",
+      "precinct": "PR08",
+      "votes": [
+        [576,0,0,0],
+        [128,0,0,0]
+      ]
+    },
+    {
+      "key": "JOHNSTON|PR12B",
+      "county": "JOHNSTON",
+      "precinct": "PR12B",
+      "votes": [
+        [0,0,0,0],
+        [0,0,0,0]
+      ]
+    },
+    {
+      "key": "JOHNSTON|PR13",
+      "county": "JOHNSTON",
+      "precinct": "PR13",
+      "votes": [
+        [829,0,0,0],
+        [341,0,0,0]
+      ]
+    },
+    {
+      "key": "JOHNSTON|PR14",
+      "county": "JOHNSTON",
+      "precinct": "PR14",
+      "votes": [
+        [542,0,0,0],
+        [146,0,0,0]
+      ]
+    },
+    {
+      "key": "JOHNSTON|PR19",
+      "county": "JOHNSTON",
+      "precinct": "PR19",
+      "votes": [
+        [496,0,0,0],
+        [165,0,0,0]
+      ]
+    },
+    {
+      "key": "JOHNSTON|PR22",
+      "county": "JOHNSTON",
+      "precinct": "PR22",
+      "votes": [
+        [653,0,0,0],
+        [214,0,0,0]
+      ]
+    },
+    {
+      "key": "JOHNSTON|PR26",
+      "county": "JOHNSTON",
+      "precinct": "PR26",
+      "votes": [
+        [155,0,0,0],
+        [210,0,0,0]
+      ]
+    },
+    {
+      "key": "JOHNSTON|PR28",
+      "county": "JOHNSTON",
+      "precinct": "PR28",
+      "votes": [
+        [540,0,0,0],
+        [290,0,0,0]
+      ]
+    },
+    {
+      "key": "JOHNSTON|PR30",
+      "county": "JOHNSTON",
+      "precinct": "PR30",
+      "votes": [
+        [443,0,0,0],
+        [532,0,0,0]
+      ]
+    },
+    {
+      "key": "JOHNSTON|PR35",
+      "county": "JOHNSTON",
+      "precinct": "PR35",
+      "votes": [
+        [784,0,0,0],
+        [280,0,0,0]
+      ]
+    },
+    {
+      "key": "JOHNSTON|PR36",
+      "county": "JOHNSTON",
+      "precinct": "PR36",
+      "votes": [
+        [695,0,0,0],
+        [274,0,0,0]
+      ]
+    },
+    {
+      "key": "JOHNSTON|PR37",
+      "county": "JOHNSTON",
+      "precinct": "PR37",
+      "votes": [
+        [790,0,0,0],
+        [335,0,0,0]
+      ]
+    },
+    {
+      "key": "JOHNSTON|PR38",
+      "county": "JOHNSTON",
+      "precinct": "PR38",
+      "votes": [
+        [575,0,0,0],
+        [102,0,0,0]
+      ]
+    },
+    {
+      "key": "JOHNSTON|PR39",
+      "county": "JOHNSTON",
+      "precinct": "PR39",
+      "votes": [
+        [488,0,0,0],
+        [617,0,0,0]
+      ]
+    },
+    {
+      "key": "JOHNSTON|PR40",
+      "county": "JOHNSTON",
+      "precinct": "PR40",
+      "votes": [
+        [404,0,0,0],
+        [361,0,0,0]
+      ]
+    }
+  ],
+  "other": [
+    {
+      "county": "JOHNSTON",
+      "label": "ABS-SUPPLEMENTAL",
+      "votes": [
+        [0,0,0,0],
+        [0,0,0,0]
+      ]
+    },
+    {
+      "county": "JOHNSTON",
+      "label": "ABSENTEE",
+      "votes": [
+        [0,0,161,0],
+        [0,0,328,0]
+      ]
+    },
+    {
+      "county": "JOHNSTON",
+      "label": "EV-ARCHER LODGE",
+      "votes": [
+        [0,199,0,0],
+        [0,289,0,0]
+      ]
+    },
+    {
+      "county": "JOHNSTON",
+      "label": "EV-BENSON",
+      "votes": [
+        [0,2528,0,0],
+        [0,1292,0,0]
+      ]
+    },
+    {
+      "county": "JOHNSTON",
+      "label": "EV-CLAYTON",
+      "votes": [
+        [0,494,0,0],
+        [0,812,0,0]
+      ]
+    },
+    {
+      "county": "JOHNSTON",
+      "label": "EV-CLEVELAND",
+      "votes": [
+        [0,677,0,0],
+        [0,624,0,0]
+      ]
+    },
+    {
+      "county": "JOHNSTON",
+      "label": "EV-SMITHFIELD",
+      "votes": [
+        [0,3981,0,0],
+        [0,4577,0,0]
+      ]
+    },
+    {
+      "county": "JOHNSTON",
+      "label": "PROVISIONAL",
+      "votes": [
+        [0,0,0,0],
+        [0,0,0,0]
+      ]
+    },
+    {
+      "county": "JOHNSTON",
+      "label": "TRANSFER",
+      "votes": [
+        [0,0,0,0],
+        [0,0,0,0]
+      ]
+    }
+  ]
+}

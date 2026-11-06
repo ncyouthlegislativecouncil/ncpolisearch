@@ -1,0 +1,81 @@
+{
+  "raceId": "nc-house-014",
+  "candidates": [
+    {"name":"Wyatt Gable","party":"R"}
+  ],
+  "precincts": [
+    {
+      "key": "ONSLOW|BC21",
+      "county": "ONSLOW",
+      "precinct": "BC21",
+      "votes": [
+        [647,1230,38,0]
+      ]
+    },
+    {
+      "key": "ONSLOW|BM08",
+      "county": "ONSLOW",
+      "precinct": "BM08",
+      "votes": [
+        [587,1064,30,0]
+      ]
+    },
+    {
+      "key": "ONSLOW|HU20",
+      "county": "ONSLOW",
+      "precinct": "HU20",
+      "votes": [
+        [564,685,18,0]
+      ]
+    },
+    {
+      "key": "ONSLOW|JA01",
+      "county": "ONSLOW",
+      "precinct": "JA01",
+      "votes": [
+        [340,358,21,0]
+      ]
+    },
+    {
+      "key": "ONSLOW|ML23",
+      "county": "ONSLOW",
+      "precinct": "ML23",
+      "votes": [
+        [292,120,6,0]
+      ]
+    },
+    {
+      "key": "ONSLOW|MT24",
+      "county": "ONSLOW",
+      "precinct": "MT24",
+      "votes": [
+        [489,530,11,0]
+      ]
+    },
+    {
+      "key": "ONSLOW|NE22A",
+      "county": "ONSLOW",
+      "precinct": "NE22A",
+      "votes": [
+        [508,517,28,0]
+      ]
+    },
+    {
+      "key": "ONSLOW|NR02",
+      "county": "ONSLOW",
+      "precinct": "NR02",
+      "votes": [
+        [61,68,17,0]
+      ]
+    },
+    {
+      "key": "ONSLOW|SW19",
+      "county": "ONSLOW",
+      "precinct": "SW19",
+      "votes": [
+        [749,1535,44,0]
+      ]
+    }
+  ],
+  "other": []
+}

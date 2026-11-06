@@ -1,0 +1,397 @@
+{
+  "raceId": "nc-house-120",
+  "candidates": [
+    {"name":"Karl Gillespie","party":"R"},
+    {"name":"Caleb Brown","party":"D"}
+  ],
+  "precincts": [
+    {
+      "key": "CHEROKEE|ANSW",
+      "county": "CHEROKEE",
+      "precinct": "ANSW",
+      "votes": [
+        [360,176,7,0],
+        [121,104,8,0]
+      ]
+    },
+    {
+      "key": "CHEROKEE|ANW",
+      "county": "CHEROKEE",
+      "precinct": "ANW",
+      "votes": [
+        [435,279,7,0],
+        [115,116,11,0]
+      ]
+    },
+    {
+      "key": "CHEROKEE|BELL",
+      "county": "CHEROKEE",
+      "precinct": "BELL",
+      "votes": [
+        [226,293,2,0],
+        [78,132,16,0]
+      ]
+    },
+    {
+      "key": "CHEROKEE|BRAS",
+      "county": "CHEROKEE",
+      "precinct": "BRAS",
+      "votes": [
+        [189,214,4,0],
+        [55,108,16,0]
+      ]
+    },
+    {
+      "key": "CHEROKEE|CSON",
+      "county": "CHEROKEE",
+      "precinct": "CSON",
+      "votes": [
+        [214,186,3,0],
+        [55,86,9,0]
+      ]
+    },
+    {
+      "key": "CHEROKEE|GCRK",
+      "county": "CHEROKEE",
+      "precinct": "GCRK",
+      "votes": [
+        [137,101,0,0],
+        [27,37,3,0]
+      ]
+    },
+    {
+      "key": "CHEROKEE|HANG",
+      "county": "CHEROKEE",
+      "precinct": "HANG",
+      "votes": [
+        [178,155,2,0],
+        [33,51,3,0]
+      ]
+    },
+    {
+      "key": "CHEROKEE|HIWA",
+      "county": "CHEROKEE",
+      "precinct": "HIWA",
+      "votes": [
+        [449,518,12,0],
+        [92,215,15,0]
+      ]
+    },
+    {
+      "key": "CHEROKEE|HOTH",
+      "county": "CHEROKEE",
+      "precinct": "HOTH",
+      "votes": [
+        [287,372,5,0],
+        [54,163,6,0]
+      ]
+    },
+    {
+      "key": "CHEROKEE|MARB",
+      "county": "CHEROKEE",
+      "precinct": "MARB",
+      "votes": [
+        [285,230,0,0],
+        [54,94,6,0]
+      ]
+    },
+    {
+      "key": "CHEROKEE|MURN",
+      "county": "CHEROKEE",
+      "precinct": "MURN",
+      "votes": [
+        [238,450,17,0],
+        [109,220,13,0]
+      ]
+    },
+    {
+      "key": "CHEROKEE|MURS",
+      "county": "CHEROKEE",
+      "precinct": "MURS",
+      "votes": [
+        [285,635,16,0],
+        [112,276,21,0]
+      ]
+    },
+    {
+      "key": "CHEROKEE|PCHT",
+      "county": "CHEROKEE",
+      "precinct": "PCHT",
+      "votes": [
+        [412,486,9,0],
+        [101,204,14,0]
+      ]
+    },
+    {
+      "key": "CHEROKEE|RGER",
+      "county": "CHEROKEE",
+      "precinct": "RGER",
+      "votes": [
+        [346,439,14,0],
+        [99,177,16,0]
+      ]
+    },
+    {
+      "key": "CHEROKEE|UNKA",
+      "county": "CHEROKEE",
+      "precinct": "UNKA",
+      "votes": [
+        [158,121,3,0],
+        [44,51,3,0]
+      ]
+    },
+    {
+      "key": "CLAY|BRAS",
+      "county": "CLAY",
+      "precinct": "BRAS",
+      "votes": [
+        [217,146,6,0],
+        [58,106,5,0]
+      ]
+    },
+    {
+      "key": "CLAY|HAY1",
+      "county": "CLAY",
+      "precinct": "HAY1",
+      "votes": [
+        [171,345,3,0],
+        [50,176,5,0]
+      ]
+    },
+    {
+      "key": "CLAY|HAY2",
+      "county": "CLAY",
+      "precinct": "HAY2",
+      "votes": [
+        [200,419,6,0],
+        [50,270,14,0]
+      ]
+    },
+    {
+      "key": "CLAY|HAYC",
+      "county": "CLAY",
+      "precinct": "HAYC",
+      "votes": [
+        [53,113,1,0],
+        [18,58,2,0]
+      ]
+    },
+    {
+      "key": "CLAY|HIAW",
+      "county": "CLAY",
+      "precinct": "HIAW",
+      "votes": [
+        [282,408,4,0],
+        [80,230,14,0]
+      ]
+    },
+    {
+      "key": "CLAY|SHCR",
+      "county": "CLAY",
+      "precinct": "SHCR",
+      "votes": [
+        [253,310,6,0],
+        [37,142,5,0]
+      ]
+    },
+    {
+      "key": "CLAY|SWEE",
+      "county": "CLAY",
+      "precinct": "SWEE",
+      "votes": [
+        [132,175,2,0],
+        [41,100,6,0]
+      ]
+    },
+    {
+      "key": "CLAY|TUSQ",
+      "county": "CLAY",
+      "precinct": "TUSQ",
+      "votes": [
+        [118,202,1,0],
+        [43,119,8,0]
+      ]
+    },
+    {
+      "key": "CLAY|WARN",
+      "county": "CLAY",
+      "precinct": "WARN",
+      "votes": [
+        [176,148,5,0],
+        [47,105,4,0]
+      ]
+    },
+    {
+      "key": "GRAHAM|EAST",
+      "county": "GRAHAM",
+      "precinct": "EAST",
+      "votes": [
+        [452,659,21,0],
+        [81,207,20,0]
+      ]
+    },
+    {
+      "key": "GRAHAM|STEC",
+      "county": "GRAHAM",
+      "precinct": "STEC",
+      "votes": [
+        [325,202,8,0],
+        [101,106,7,0]
+      ]
+    },
+    {
+      "key": "GRAHAM|TAPO",
+      "county": "GRAHAM",
+      "precinct": "TAPO",
+      "votes": [
+        [106,105,10,0],
+        [14,27,4,0]
+      ]
+    },
+    {
+      "key": "GRAHAM|WEST",
+      "county": "GRAHAM",
+      "precinct": "WEST",
+      "votes": [
+        [372,492,9,0],
+        [88,176,8,0]
+      ]
+    },
+    {
+      "key": "MACON|1",
+      "county": "MACON",
+      "precinct": "01",
+      "votes": [
+        [257,514,17,0],
+        [106,417,31,0]
+      ]
+    },
+    {
+      "key": "MACON|10",
+      "county": "MACON",
+      "precinct": "10",
+      "votes": [
+        [90,71,0,0],
+        [65,76,3,0]
+      ]
+    },
+    {
+      "key": "MACON|11",
+      "county": "MACON",
+      "precinct": "11",
+      "votes": [
+        [429,740,19,0],
+        [135,447,30,0]
+      ]
+    },
+    {
+      "key": "MACON|12",
+      "county": "MACON",
+      "precinct": "12",
+      "votes": [
+        [283,520,18,0],
+        [111,363,18,0]
+      ]
+    },
+    {
+      "key": "MACON|13",
+      "county": "MACON",
+      "precinct": "13",
+      "votes": [
+        [218,43,10,0],
+        [68,32,1,0]
+      ]
+    },
+    {
+      "key": "MACON|14",
+      "county": "MACON",
+      "precinct": "14",
+      "votes": [
+        [176,169,8,0],
+        [45,97,3,0]
+      ]
+    },
+    {
+      "key": "MACON|15",
+      "county": "MACON",
+      "precinct": "15",
+      "votes": [
+        [431,439,5,0],
+        [136,314,18,0]
+      ]
+    },
+    {
+      "key": "MACON|2",
+      "county": "MACON",
+      "precinct": "02",
+      "votes": [
+        [129,227,8,0],
+        [63,206,5,0]
+      ]
+    },
+    {
+      "key": "MACON|3",
+      "county": "MACON",
+      "precinct": "03",
+      "votes": [
+        [232,642,22,0],
+        [93,447,37,0]
+      ]
+    },
+    {
+      "key": "MACON|4",
+      "county": "MACON",
+      "precinct": "04",
+      "votes": [
+        [255,297,9,0],
+        [89,261,11,0]
+      ]
+    },
+    {
+      "key": "MACON|5",
+      "county": "MACON",
+      "precinct": "05",
+      "votes": [
+        [281,706,14,0],
+        [112,444,23,0]
+      ]
+    },
+    {
+      "key": "MACON|6",
+      "county": "MACON",
+      "precinct": "06",
+      "votes": [
+        [314,572,10,0],
+        [129,324,22,0]
+      ]
+    },
+    {
+      "key": "MACON|7",
+      "county": "MACON",
+      "precinct": "07",
+      "votes": [
+        [365,469,13,0],
+        [111,301,24,0]
+      ]
+    },
+    {
+      "key": "MACON|8",
+      "county": "MACON",
+      "precinct": "08",
+      "votes": [
+        [93,99,5,0],
+        [39,65,5,0]
+      ]
+    },
+    {
+      "key": "MACON|9",
+      "county": "MACON",
+      "precinct": "09",
+      "votes": [
+        [182,585,15,0],
+        [150,639,29,0]
+      ]
+    }
+  ],
+  "other": []
+}

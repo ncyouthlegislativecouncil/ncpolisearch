@@ -1,0 +1,193 @@
+{
+  "raceId": "nc-house-065",
+  "candidates": [
+    {"name":"Seth Woodall","party":"R"},
+    {"name":"Gavin McGaughey","party":"D"}
+  ],
+  "precincts": [
+    {
+      "key": "ROCKINGHAM|DR",
+      "county": "ROCKINGHAM",
+      "precinct": "DR",
+      "votes": [
+        [353,0,0,0],
+        [162,0,0,0]
+      ]
+    },
+    {
+      "key": "ROCKINGHAM|EC",
+      "county": "ROCKINGHAM",
+      "precinct": "EC",
+      "votes": [
+        [489,0,0,0],
+        [207,0,0,0]
+      ]
+    },
+    {
+      "key": "ROCKINGHAM|ED",
+      "county": "ROCKINGHAM",
+      "precinct": "ED",
+      "votes": [
+        [677,0,0,0],
+        [314,0,0,0]
+      ]
+    },
+    {
+      "key": "ROCKINGHAM|HO-1",
+      "county": "ROCKINGHAM",
+      "precinct": "HO-1",
+      "votes": [
+        [535,0,0,0],
+        [151,0,0,0]
+      ]
+    },
+    {
+      "key": "ROCKINGHAM|HU-1",
+      "county": "ROCKINGHAM",
+      "precinct": "HU-1",
+      "votes": [
+        [698,0,0,0],
+        [170,0,0,0]
+      ]
+    },
+    {
+      "key": "ROCKINGHAM|LI-1",
+      "county": "ROCKINGHAM",
+      "precinct": "LI-1",
+      "votes": [
+        [732,0,0,0],
+        [173,0,0,0]
+      ]
+    },
+    {
+      "key": "ROCKINGHAM|MO",
+      "county": "ROCKINGHAM",
+      "precinct": "MO",
+      "votes": [
+        [608,0,0,0],
+        [159,0,0,0]
+      ]
+    },
+    {
+      "key": "ROCKINGHAM|NB",
+      "county": "ROCKINGHAM",
+      "precinct": "NB",
+      "votes": [
+        [688,0,0,0],
+        [167,0,0,0]
+      ]
+    },
+    {
+      "key": "ROCKINGHAM|RC",
+      "county": "ROCKINGHAM",
+      "precinct": "RC",
+      "votes": [
+        [583,0,0,0],
+        [184,0,0,0]
+      ]
+    },
+    {
+      "key": "ROCKINGHAM|RE-1",
+      "county": "ROCKINGHAM",
+      "precinct": "RE-1",
+      "votes": [
+        [396,0,0,0],
+        [395,0,0,0]
+      ]
+    },
+    {
+      "key": "ROCKINGHAM|RE-2",
+      "county": "ROCKINGHAM",
+      "precinct": "RE-2",
+      "votes": [
+        [439,0,0,0],
+        [321,0,0,0]
+      ]
+    },
+    {
+      "key": "ROCKINGHAM|ST",
+      "county": "ROCKINGHAM",
+      "precinct": "ST",
+      "votes": [
+        [722,0,0,0],
+        [242,0,0,0]
+      ]
+    },
+    {
+      "key": "ROCKINGHAM|WI",
+      "county": "ROCKINGHAM",
+      "precinct": "WI",
+      "votes": [
+        [457,0,0,0],
+        [207,0,0,0]
+      ]
+    },
+    {
+      "key": "ROCKINGHAM|WS-1",
+      "county": "ROCKINGHAM",
+      "precinct": "WS-1",
+      "votes": [
+        [629,0,0,0],
+        [225,0,0,0]
+      ]
+    }
+  ],
+  "other": [
+    {
+      "county": "ROCKINGHAM",
+      "label": "ABSENTEE",
+      "votes": [
+        [0,0,125,0],
+        [0,0,268,0]
+      ]
+    },
+    {
+      "county": "ROCKINGHAM",
+      "label": "EARLY VOTING 1",
+      "votes": [
+        [0,2803,0,0],
+        [0,1936,0,0]
+      ]
+    },
+    {
+      "county": "ROCKINGHAM",
+      "label": "EARLY VOTING 2",
+      "votes": [
+        [0,3489,0,0],
+        [0,3751,0,0]
+      ]
+    },
+    {
+      "county": "ROCKINGHAM",
+      "label": "EARLY VOTING 3",
+      "votes": [
+        [0,3041,0,0],
+        [0,1256,0,0]
+      ]
+    },
+    {
+      "county": "ROCKINGHAM",
+      "label": "EARLY VOTING 4",
+      "votes": [
+        [0,3949,0,0],
+        [0,2168,0,0]
+      ]
+    },
+    {
+      "county": "ROCKINGHAM",
+      "label": "PROVISIONAL",
+      "votes": [
+        [0,0,0,0],
+        [0,0,0,0]
+      ]
+    },
+    {
+      "county": "ROCKINGHAM",
+      "label": "TRANSFER",
+      "votes": [
+        [0,0,0,0],
+        [0,0,0,0]
+      ]
+    }
+  ]
+}

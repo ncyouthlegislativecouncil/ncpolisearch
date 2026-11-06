@@ -1,0 +1,253 @@
+{
+  "raceId": "nc-house-117",
+  "candidates": [
+    {"name":"Lynne Russo","party":"D"},
+    {"name":"Chelsea Walsh","party":"R"}
+  ],
+  "precincts": [
+    {
+      "key": "HENDERSON|BC",
+      "county": "HENDERSON",
+      "precinct": "BC",
+      "votes": [
+        [76,201,12,0],
+        [152,151,11,0]
+      ]
+    },
+    {
+      "key": "HENDERSON|BK",
+      "county": "HENDERSON",
+      "precinct": "BK",
+      "votes": [
+        [157,407,16,0],
+        [188,282,3,0]
+      ]
+    },
+    {
+      "key": "HENDERSON|CC",
+      "county": "HENDERSON",
+      "precinct": "CC",
+      "votes": [
+        [201,800,60,0],
+        [517,787,23,0]
+      ]
+    },
+    {
+      "key": "HENDERSON|CV",
+      "county": "HENDERSON",
+      "precinct": "CV",
+      "votes": [
+        [205,64,2,0],
+        [135,27,2,0]
+      ]
+    },
+    {
+      "key": "HENDERSON|ED",
+      "county": "HENDERSON",
+      "precinct": "ED",
+      "votes": [
+        [176,653,43,0],
+        [429,849,12,0]
+      ]
+    },
+    {
+      "key": "HENDERSON|ES",
+      "county": "HENDERSON",
+      "precinct": "ES",
+      "votes": [
+        [104,588,28,0],
+        [258,554,8,0]
+      ]
+    },
+    {
+      "key": "HENDERSON|EV",
+      "county": "HENDERSON",
+      "precinct": "EV",
+      "votes": [
+        [90,692,36,0],
+        [239,822,9,0]
+      ]
+    },
+    {
+      "key": "HENDERSON|FL",
+      "county": "HENDERSON",
+      "precinct": "FL",
+      "votes": [
+        [278,1280,71,0],
+        [290,828,16,0]
+      ]
+    },
+    {
+      "key": "HENDERSON|GM",
+      "county": "HENDERSON",
+      "precinct": "GM",
+      "votes": [
+        [133,364,27,0],
+        [184,232,4,0]
+      ]
+    },
+    {
+      "key": "HENDERSON|HC",
+      "county": "HENDERSON",
+      "precinct": "HC",
+      "votes": [
+        [168,863,39,0],
+        [339,793,11,0]
+      ]
+    },
+    {
+      "key": "HENDERSON|HS",
+      "county": "HENDERSON",
+      "precinct": "HS",
+      "votes": [
+        [140,766,41,0],
+        [276,666,17,0]
+      ]
+    },
+    {
+      "key": "HENDERSON|HV-1",
+      "county": "HENDERSON",
+      "precinct": "HV-1",
+      "votes": [
+        [172,840,67,0],
+        [146,420,16,0]
+      ]
+    },
+    {
+      "key": "HENDERSON|HV-2",
+      "county": "HENDERSON",
+      "precinct": "HV-2",
+      "votes": [
+        [194,736,78,0],
+        [146,343,32,0]
+      ]
+    },
+    {
+      "key": "HENDERSON|HV-3",
+      "county": "HENDERSON",
+      "precinct": "HV-3",
+      "votes": [
+        [221,838,44,0],
+        [167,309,17,0]
+      ]
+    },
+    {
+      "key": "HENDERSON|LJ",
+      "county": "HENDERSON",
+      "precinct": "LJ",
+      "votes": [
+        [151,681,55,0],
+        [183,461,16,0]
+      ]
+    },
+    {
+      "key": "HENDERSON|LP",
+      "county": "HENDERSON",
+      "precinct": "LP",
+      "votes": [
+        [180,639,46,0],
+        [179,329,17,0]
+      ]
+    },
+    {
+      "key": "HENDERSON|MG",
+      "county": "HENDERSON",
+      "precinct": "MG",
+      "votes": [
+        [88,233,18,0],
+        [157,210,3,0]
+      ]
+    },
+    {
+      "key": "HENDERSON|NB",
+      "county": "HENDERSON",
+      "precinct": "NB",
+      "votes": [
+        [280,705,35,0],
+        [504,859,18,0]
+      ]
+    },
+    {
+      "key": "HENDERSON|NE",
+      "county": "HENDERSON",
+      "precinct": "NE",
+      "votes": [
+        [234,646,48,0],
+        [281,377,20,0]
+      ]
+    },
+    {
+      "key": "HENDERSON|NM",
+      "county": "HENDERSON",
+      "precinct": "NM",
+      "votes": [
+        [210,791,53,0],
+        [429,725,26,0]
+      ]
+    },
+    {
+      "key": "HENDERSON|NW",
+      "county": "HENDERSON",
+      "precinct": "NW",
+      "votes": [
+        [174,532,39,0],
+        [206,341,15,0]
+      ]
+    },
+    {
+      "key": "HENDERSON|PR",
+      "county": "HENDERSON",
+      "precinct": "PR",
+      "votes": [
+        [186,643,40,0],
+        [346,515,14,0]
+      ]
+    },
+    {
+      "key": "HENDERSON|PV",
+      "county": "HENDERSON",
+      "precinct": "PV",
+      "votes": [
+        [157,606,42,0],
+        [218,419,20,0]
+      ]
+    },
+    {
+      "key": "HENDERSON|RG",
+      "county": "HENDERSON",
+      "precinct": "RG",
+      "votes": [
+        [152,563,50,0],
+        [265,549,19,0]
+      ]
+    },
+    {
+      "key": "HENDERSON|SE",
+      "county": "HENDERSON",
+      "precinct": "SE",
+      "votes": [
+        [97,333,12,0],
+        [143,306,3,0]
+      ]
+    },
+    {
+      "key": "HENDERSON|SM",
+      "county": "HENDERSON",
+      "precinct": "SM",
+      "votes": [
+        [219,815,62,0],
+        [539,979,11,0]
+      ]
+    },
+    {
+      "key": "HENDERSON|SW",
+      "county": "HENDERSON",
+      "precinct": "SW",
+      "votes": [
+        [213,664,47,0],
+        [248,503,17,0]
+      ]
+    }
+  ],
+  "other": []
+}

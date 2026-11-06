@@ -1,0 +1,206 @@
+{
+  "raceId": "nc-house-088",
+  "candidates": [
+    {"name":"Mary Belk","party":"D"},
+    {"name":"Ray Craig","party":"R"}
+  ],
+  "precincts": [
+    {
+      "key": "MECKLENBURG|10",
+      "county": "MECKLENBURG",
+      "precinct": "010",
+      "votes": [
+        [388,1079,0,0],
+        [282,175,0,0]
+      ]
+    },
+    {
+      "key": "MECKLENBURG|120",
+      "county": "MECKLENBURG",
+      "precinct": "120",
+      "votes": [
+        [223,393,0,0],
+        [57,47,0,0]
+      ]
+    },
+    {
+      "key": "MECKLENBURG|147",
+      "county": "MECKLENBURG",
+      "precinct": "147",
+      "votes": [
+        [471,1101,0,0],
+        [96,116,0,0]
+      ]
+    },
+    {
+      "key": "MECKLENBURG|20",
+      "county": "MECKLENBURG",
+      "precinct": "020",
+      "votes": [
+        [319,845,0,0],
+        [247,207,0,0]
+      ]
+    },
+    {
+      "key": "MECKLENBURG|21",
+      "county": "MECKLENBURG",
+      "precinct": "021",
+      "votes": [
+        [419,752,0,0],
+        [221,178,0,0]
+      ]
+    },
+    {
+      "key": "MECKLENBURG|37",
+      "county": "MECKLENBURG",
+      "precinct": "037",
+      "votes": [
+        [232,714,0,0],
+        [212,215,0,0]
+      ]
+    },
+    {
+      "key": "MECKLENBURG|38",
+      "county": "MECKLENBURG",
+      "precinct": "038",
+      "votes": [
+        [328,620,0,0],
+        [174,110,0,0]
+      ]
+    },
+    {
+      "key": "MECKLENBURG|49",
+      "county": "MECKLENBURG",
+      "precinct": "049",
+      "votes": [
+        [375,1061,0,0],
+        [243,256,0,0]
+      ]
+    },
+    {
+      "key": "MECKLENBURG|50",
+      "county": "MECKLENBURG",
+      "precinct": "050",
+      "votes": [
+        [217,641,0,0],
+        [152,179,0,0]
+      ]
+    },
+    {
+      "key": "MECKLENBURG|51",
+      "county": "MECKLENBURG",
+      "precinct": "051",
+      "votes": [
+        [390,932,0,0],
+        [260,243,0,0]
+      ]
+    },
+    {
+      "key": "MECKLENBURG|52",
+      "county": "MECKLENBURG",
+      "precinct": "052",
+      "votes": [
+        [561,1192,0,0],
+        [182,124,0,0]
+      ]
+    },
+    {
+      "key": "MECKLENBURG|58",
+      "county": "MECKLENBURG",
+      "precinct": "058",
+      "votes": [
+        [319,687,0,0],
+        [199,178,0,0]
+      ]
+    },
+    {
+      "key": "MECKLENBURG|59",
+      "county": "MECKLENBURG",
+      "precinct": "059",
+      "votes": [
+        [177,395,0,0],
+        [143,101,0,0]
+      ]
+    },
+    {
+      "key": "MECKLENBURG|76",
+      "county": "MECKLENBURG",
+      "precinct": "076",
+      "votes": [
+        [354,897,0,0],
+        [317,384,0,0]
+      ]
+    },
+    {
+      "key": "MECKLENBURG|77",
+      "county": "MECKLENBURG",
+      "precinct": "077",
+      "votes": [
+        [509,936,0,0],
+        [65,37,0,0]
+      ]
+    },
+    {
+      "key": "MECKLENBURG|78.1",
+      "county": "MECKLENBURG",
+      "precinct": "078.1",
+      "votes": [
+        [487,1015,0,0],
+        [124,99,0,0]
+      ]
+    },
+    {
+      "key": "MECKLENBURG|9",
+      "county": "MECKLENBURG",
+      "precinct": "009",
+      "votes": [
+        [729,1383,0,0],
+        [403,256,0,0]
+      ]
+    },
+    {
+      "key": "MECKLENBURG|97",
+      "county": "MECKLENBURG",
+      "precinct": "097",
+      "votes": [
+        [163,386,0,0],
+        [40,33,0,0]
+      ]
+    },
+    {
+      "key": "MECKLENBURG|98",
+      "county": "MECKLENBURG",
+      "precinct": "098",
+      "votes": [
+        [411,785,0,0],
+        [97,64,0,0]
+      ]
+    }
+  ],
+  "other": [
+    {
+      "county": "MECKLENBURG",
+      "label": "ABSENTEE BY MAIL",
+      "votes": [
+        [0,0,651,0],
+        [0,0,124,0]
+      ]
+    },
+    {
+      "county": "MECKLENBURG",
+      "label": "PROVISIONALS",
+      "votes": [
+        [0,0,0,0],
+        [0,0,0,0]
+      ]
+    },
+    {
+      "county": "MECKLENBURG",
+      "label": "TRANSFERS",
+      "votes": [
+        [0,0,0,0],
+        [0,0,0,0]
+      ]
+    }
+  ]
+}

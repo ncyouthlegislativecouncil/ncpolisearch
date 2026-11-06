@@ -1,0 +1,181 @@
+{
+  "raceId": "nc-house-069",
+  "candidates": [
+    {"name":"Dean Arp","party":"R"},
+    {"name":"Heidi Sinsley","party":"D"}
+  ],
+  "precincts": [
+    {
+      "key": "UNION|12",
+      "county": "UNION",
+      "precinct": "012",
+      "votes": [
+        [570,717,8,0],
+        [57,188,2,0]
+      ]
+    },
+    {
+      "key": "UNION|13",
+      "county": "UNION",
+      "precinct": "013",
+      "votes": [
+        [650,690,9,0],
+        [68,203,7,0]
+      ]
+    },
+    {
+      "key": "UNION|14",
+      "county": "UNION",
+      "precinct": "014",
+      "votes": [
+        [171,275,5,0],
+        [153,338,7,0]
+      ]
+    },
+    {
+      "key": "UNION|15",
+      "county": "UNION",
+      "precinct": "015",
+      "votes": [
+        [453,799,23,0],
+        [334,1143,40,0]
+      ]
+    },
+    {
+      "key": "UNION|16",
+      "county": "UNION",
+      "precinct": "016",
+      "votes": [
+        [606,1120,24,0],
+        [406,1354,55,0]
+      ]
+    },
+    {
+      "key": "UNION|29A",
+      "county": "UNION",
+      "precinct": "029A",
+      "votes": [
+        [407,776,11,0],
+        [456,1227,54,0]
+      ]
+    },
+    {
+      "key": "UNION|29B",
+      "county": "UNION",
+      "precinct": "029B",
+      "votes": [
+        [256,269,4,0],
+        [200,295,13,0]
+      ]
+    },
+    {
+      "key": "UNION|29C",
+      "county": "UNION",
+      "precinct": "029C",
+      "votes": [
+        [331,732,13,0],
+        [198,738,33,0]
+      ]
+    },
+    {
+      "key": "UNION|30",
+      "county": "UNION",
+      "precinct": "0030",
+      "votes": [
+        [461,880,20,0],
+        [340,883,40,0]
+      ]
+    },
+    {
+      "key": "UNION|32",
+      "county": "UNION",
+      "precinct": "032",
+      "votes": [
+        [375,1057,16,0],
+        [127,690,42,0]
+      ]
+    },
+    {
+      "key": "UNION|35",
+      "county": "UNION",
+      "precinct": "035",
+      "votes": [
+        [245,472,12,0],
+        [147,461,18,0]
+      ]
+    },
+    {
+      "key": "UNION|37A",
+      "county": "UNION",
+      "precinct": "037A",
+      "votes": [
+        [552,978,15,0],
+        [457,1264,43,0]
+      ]
+    },
+    {
+      "key": "UNION|37B",
+      "county": "UNION",
+      "precinct": "037B",
+      "votes": [
+        [247,330,5,0],
+        [108,272,15,0]
+      ]
+    },
+    {
+      "key": "UNION|38A",
+      "county": "UNION",
+      "precinct": "038A",
+      "votes": [
+        [379,472,11,0],
+        [314,670,27,0]
+      ]
+    },
+    {
+      "key": "UNION|38B",
+      "county": "UNION",
+      "precinct": "038B",
+      "votes": [
+        [395,280,5,0],
+        [248,377,25,0]
+      ]
+    },
+    {
+      "key": "UNION|39",
+      "county": "UNION",
+      "precinct": "039",
+      "votes": [
+        [454,688,10,0],
+        [247,540,28,0]
+      ]
+    },
+    {
+      "key": "UNION|40",
+      "county": "UNION",
+      "precinct": "040",
+      "votes": [
+        [564,814,13,0],
+        [297,904,66,0]
+      ]
+    },
+    {
+      "key": "UNION|5",
+      "county": "UNION",
+      "precinct": "0005",
+      "votes": [
+        [366,655,7,0],
+        [263,793,40,0]
+      ]
+    },
+    {
+      "key": "UNION|6",
+      "county": "UNION",
+      "precinct": "006",
+      "votes": [
+        [401,471,6,0],
+        [176,417,12,0]
+      ]
+    }
+  ],
+  "other": []
+}

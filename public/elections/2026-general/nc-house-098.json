@@ -1,0 +1,134 @@
+{
+  "raceId": "nc-house-098",
+  "candidates": [
+    {"name":"Beth Helfrich","party":"D"},
+    {"name":"John Rhodes","party":"R"}
+  ],
+  "precincts": [
+    {
+      "key": "MECKLENBURG|127",
+      "county": "MECKLENBURG",
+      "precinct": "127",
+      "votes": [
+        [558,1859,0,0],
+        [681,818,0,0]
+      ]
+    },
+    {
+      "key": "MECKLENBURG|133",
+      "county": "MECKLENBURG",
+      "precinct": "133",
+      "votes": [
+        [455,1515,0,0],
+        [534,802,0,0]
+      ]
+    },
+    {
+      "key": "MECKLENBURG|142",
+      "county": "MECKLENBURG",
+      "precinct": "142",
+      "votes": [
+        [603,1788,0,0],
+        [756,982,0,0]
+      ]
+    },
+    {
+      "key": "MECKLENBURG|143",
+      "county": "MECKLENBURG",
+      "precinct": "143",
+      "votes": [
+        [572,1556,0,0],
+        [681,851,0,0]
+      ]
+    },
+    {
+      "key": "MECKLENBURG|202",
+      "county": "MECKLENBURG",
+      "precinct": "202",
+      "votes": [
+        [746,2874,0,0],
+        [650,1480,0,0]
+      ]
+    },
+    {
+      "key": "MECKLENBURG|206",
+      "county": "MECKLENBURG",
+      "precinct": "206",
+      "votes": [
+        [714,2583,0,0],
+        [423,667,0,0]
+      ]
+    },
+    {
+      "key": "MECKLENBURG|207",
+      "county": "MECKLENBURG",
+      "precinct": "207",
+      "votes": [
+        [605,1683,0,0],
+        [667,765,0,0]
+      ]
+    },
+    {
+      "key": "MECKLENBURG|208",
+      "county": "MECKLENBURG",
+      "precinct": "208",
+      "votes": [
+        [390,962,0,0],
+        [702,921,0,0]
+      ]
+    },
+    {
+      "key": "MECKLENBURG|240",
+      "county": "MECKLENBURG",
+      "precinct": "240",
+      "votes": [
+        [441,1471,0,0],
+        [570,954,0,0]
+      ]
+    },
+    {
+      "key": "MECKLENBURG|241",
+      "county": "MECKLENBURG",
+      "precinct": "241",
+      "votes": [
+        [29,123,0,0],
+        [31,56,0,0]
+      ]
+    },
+    {
+      "key": "MECKLENBURG|242",
+      "county": "MECKLENBURG",
+      "precinct": "242",
+      "votes": [
+        [216,618,0,0],
+        [503,758,0,0]
+      ]
+    }
+  ],
+  "other": [
+    {
+      "county": "MECKLENBURG",
+      "label": "ABSENTEE BY MAIL",
+      "votes": [
+        [0,0,1086,0],
+        [0,0,337,0]
+      ]
+    },
+    {
+      "county": "MECKLENBURG",
+      "label": "PROVISIONALS",
+      "votes": [
+        [0,0,0,0],
+        [0,0,0,0]
+      ]
+    },
+    {
+      "county": "MECKLENBURG",
+      "label": "TRANSFERS",
+      "votes": [
+        [0,0,0,0],
+        [0,0,0,0]
+      ]
+    }
+  ]
+}

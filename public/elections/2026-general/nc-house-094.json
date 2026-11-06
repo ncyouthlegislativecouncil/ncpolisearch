@@ -1,0 +1,328 @@
+{
+  "raceId": "nc-house-094",
+  "candidates": [
+    {"name":"Blair Eddins","party":"R"},
+    {"name":"Andy Warren","party":"D"}
+  ],
+  "precincts": [
+    {
+      "key": "ALEXANDER|B1",
+      "county": "ALEXANDER",
+      "precinct": "B1",
+      "votes": [
+        [454,751,4,0],
+        [114,348,17,0]
+      ]
+    },
+    {
+      "key": "ALEXANDER|B2",
+      "county": "ALEXANDER",
+      "precinct": "B2",
+      "votes": [
+        [521,862,9,0],
+        [125,437,11,0]
+      ]
+    },
+    {
+      "key": "ALEXANDER|E",
+      "county": "ALEXANDER",
+      "precinct": "E",
+      "votes": [
+        [389,570,2,0],
+        [81,246,8,0]
+      ]
+    },
+    {
+      "key": "ALEXANDER|G1G2",
+      "county": "ALEXANDER",
+      "precinct": "G1G2",
+      "votes": [
+        [339,356,1,0],
+        [51,115,7,0]
+      ]
+    },
+    {
+      "key": "ALEXANDER|LRSL",
+      "county": "ALEXANDER",
+      "precinct": "LRSL",
+      "votes": [
+        [384,482,4,0],
+        [51,125,4,0]
+      ]
+    },
+    {
+      "key": "ALEXANDER|M",
+      "county": "ALEXANDER",
+      "precinct": "M",
+      "votes": [
+        [317,292,4,0],
+        [89,145,3,0]
+      ]
+    },
+    {
+      "key": "ALEXANDER|S1S2",
+      "county": "ALEXANDER",
+      "precinct": "S1S2",
+      "votes": [
+        [408,676,1,0],
+        [85,212,7,0]
+      ]
+    },
+    {
+      "key": "ALEXANDER|T1T4T5",
+      "county": "ALEXANDER",
+      "precinct": "T1T4T5",
+      "votes": [
+        [488,906,9,0],
+        [126,390,14,0]
+      ]
+    },
+    {
+      "key": "ALEXANDER|T2T3",
+      "county": "ALEXANDER",
+      "precinct": "T2T3",
+      "votes": [
+        [312,565,4,0],
+        [93,335,5,0]
+      ]
+    },
+    {
+      "key": "ALEXANDER|W",
+      "county": "ALEXANDER",
+      "precinct": "W",
+      "votes": [
+        [332,490,9,0],
+        [81,145,6,0]
+      ]
+    },
+    {
+      "key": "WILKES|101",
+      "county": "WILKES",
+      "precinct": "101",
+      "votes": [
+        [197,0,0,0],
+        [50,0,0,0]
+      ]
+    },
+    {
+      "key": "WILKES|102",
+      "county": "WILKES",
+      "precinct": "102",
+      "votes": [
+        [324,0,0,0],
+        [116,0,0,0]
+      ]
+    },
+    {
+      "key": "WILKES|103",
+      "county": "WILKES",
+      "precinct": "103",
+      "votes": [
+        [180,0,0,0],
+        [19,0,0,0]
+      ]
+    },
+    {
+      "key": "WILKES|104",
+      "county": "WILKES",
+      "precinct": "104",
+      "votes": [
+        [306,0,0,0],
+        [83,0,0,0]
+      ]
+    },
+    {
+      "key": "WILKES|108",
+      "county": "WILKES",
+      "precinct": "108",
+      "votes": [
+        [254,0,0,0],
+        [91,0,0,0]
+      ]
+    },
+    {
+      "key": "WILKES|109",
+      "county": "WILKES",
+      "precinct": "109",
+      "votes": [
+        [193,0,0,0],
+        [52,0,0,0]
+      ]
+    },
+    {
+      "key": "WILKES|111",
+      "county": "WILKES",
+      "precinct": "111",
+      "votes": [
+        [384,0,0,0],
+        [104,0,0,0]
+      ]
+    },
+    {
+      "key": "WILKES|112",
+      "county": "WILKES",
+      "precinct": "112",
+      "votes": [
+        [496,0,0,0],
+        [102,0,0,0]
+      ]
+    },
+    {
+      "key": "WILKES|113A",
+      "county": "WILKES",
+      "precinct": "113A",
+      "votes": [
+        [389,0,0,0],
+        [77,0,0,0]
+      ]
+    },
+    {
+      "key": "WILKES|114",
+      "county": "WILKES",
+      "precinct": "114",
+      "votes": [
+        [258,0,0,0],
+        [42,0,0,0]
+      ]
+    },
+    {
+      "key": "WILKES|115A",
+      "county": "WILKES",
+      "precinct": "115A",
+      "votes": [
+        [760,0,0,0],
+        [169,0,0,0]
+      ]
+    },
+    {
+      "key": "WILKES|117",
+      "county": "WILKES",
+      "precinct": "117",
+      "votes": [
+        [384,0,0,0],
+        [79,0,0,0]
+      ]
+    },
+    {
+      "key": "WILKES|118",
+      "county": "WILKES",
+      "precinct": "118",
+      "votes": [
+        [257,0,0,0],
+        [179,0,0,0]
+      ]
+    },
+    {
+      "key": "WILKES|119",
+      "county": "WILKES",
+      "precinct": "119",
+      "votes": [
+        [682,0,0,0],
+        [178,0,0,0]
+      ]
+    },
+    {
+      "key": "WILKES|122",
+      "county": "WILKES",
+      "precinct": "122",
+      "votes": [
+        [348,0,0,0],
+        [19,0,0,0]
+      ]
+    },
+    {
+      "key": "WILKES|125",
+      "county": "WILKES",
+      "precinct": "125",
+      "votes": [
+        [252,0,0,0],
+        [40,0,0,0]
+      ]
+    },
+    {
+      "key": "WILKES|127",
+      "county": "WILKES",
+      "precinct": "127",
+      "votes": [
+        [300,0,0,0],
+        [178,0,0,0]
+      ]
+    },
+    {
+      "key": "WILKES|128",
+      "county": "WILKES",
+      "precinct": "128",
+      "votes": [
+        [579,0,0,0],
+        [172,0,0,0]
+      ]
+    },
+    {
+      "key": "WILKES|129",
+      "county": "WILKES",
+      "precinct": "129",
+      "votes": [
+        [385,0,0,0],
+        [145,0,0,0]
+      ]
+    }
+  ],
+  "other": [
+    {
+      "county": "WILKES",
+      "label": "ABSENTEE",
+      "votes": [
+        [0,0,169,0],
+        [0,0,193,0]
+      ]
+    },
+    {
+      "county": "WILKES",
+      "label": "ABSENTEE SUP",
+      "votes": [
+        [0,0,0,0],
+        [0,0,0,0]
+      ]
+    },
+    {
+      "county": "WILKES",
+      "label": "EV CFD",
+      "votes": [
+        [0,1071,0,0],
+        [0,361,0,0]
+      ]
+    },
+    {
+      "county": "WILKES",
+      "label": "EV OFFICE",
+      "votes": [
+        [0,4230,0,0],
+        [0,2501,0,0]
+      ]
+    },
+    {
+      "county": "WILKES",
+      "label": "EV PHFD",
+      "votes": [
+        [0,93,0,0],
+        [0,53,0,0]
+      ]
+    },
+    {
+      "county": "WILKES",
+      "label": "PROVISIONAL",
+      "votes": [
+        [0,0,0,0],
+        [0,0,0,0]
+      ]
+    },
+    {
+      "county": "WILKES",
+      "label": "TRANSFER",
+      "votes": [
+        [0,0,0,0],
+        [0,0,0,0]
+      ]
+    }
+  ]
+}

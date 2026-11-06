@@ -1,0 +1,239 @@
+{
+  "raceId": "nc-house-078",
+  "candidates": [
+    {"name":"Neal Jackson","party":"R"},
+    {"name":"Matt Holway","party":"D"}
+  ],
+  "precincts": [
+    {
+      "key": "MOORE|BEN",
+      "county": "MOORE",
+      "precinct": "BEN",
+      "votes": [
+        [429,0,0,0],
+        [124,0,0,0]
+      ]
+    },
+    {
+      "key": "MOORE|DHR",
+      "county": "MOORE",
+      "precinct": "DHR",
+      "votes": [
+        [419,0,0,0],
+        [74,0,0,0]
+      ]
+    },
+    {
+      "key": "MOORE|PHA1",
+      "county": "MOORE",
+      "precinct": "PHA1",
+      "votes": [
+        [493,0,0,0],
+        [275,0,0,0]
+      ]
+    },
+    {
+      "key": "MOORE|PHA2",
+      "county": "MOORE",
+      "precinct": "PHA2",
+      "votes": [
+        [498,0,0,0],
+        [174,0,0,0]
+      ]
+    },
+    {
+      "key": "MOORE|PHB1A",
+      "county": "MOORE",
+      "precinct": "PHB1A",
+      "votes": [
+        [445,0,0,0],
+        [177,0,0,0]
+      ]
+    },
+    {
+      "key": "MOORE|PHB2",
+      "county": "MOORE",
+      "precinct": "PHB2",
+      "votes": [
+        [348,0,0,0],
+        [117,0,0,0]
+      ]
+    },
+    {
+      "key": "MOORE|PHC",
+      "county": "MOORE",
+      "precinct": "PHC",
+      "votes": [
+        [630,0,0,0],
+        [342,0,0,0]
+      ]
+    },
+    {
+      "key": "MOORE|RBN",
+      "county": "MOORE",
+      "precinct": "RBN",
+      "votes": [
+        [248,0,0,0],
+        [105,0,0,0]
+      ]
+    },
+    {
+      "key": "MOORE|SLS",
+      "county": "MOORE",
+      "precinct": "SLS",
+      "votes": [
+        [794,0,0,0],
+        [318,0,0,0]
+      ]
+    },
+    {
+      "key": "MOORE|TLT",
+      "county": "MOORE",
+      "precinct": "TLT",
+      "votes": [
+        [34,0,0,0],
+        [127,0,0,0]
+      ]
+    },
+    {
+      "key": "MOORE|WEM",
+      "county": "MOORE",
+      "precinct": "WEM",
+      "votes": [
+        [641,0,0,0],
+        [135,0,0,0]
+      ]
+    },
+    {
+      "key": "MOORE|WND",
+      "county": "MOORE",
+      "precinct": "WND",
+      "votes": [
+        [502,0,0,0],
+        [192,0,0,0]
+      ]
+    },
+    {
+      "key": "RANDOLPH|DR",
+      "county": "RANDOLPH",
+      "precinct": "DR",
+      "votes": [
+        [618,1038,8,0],
+        [149,371,18,0]
+      ]
+    },
+    {
+      "key": "RANDOLPH|GR",
+      "county": "RANDOLPH",
+      "precinct": "GR",
+      "votes": [
+        [542,907,21,0],
+        [112,364,22,0]
+      ]
+    },
+    {
+      "key": "RANDOLPH|PR",
+      "county": "RANDOLPH",
+      "precinct": "PR",
+      "votes": [
+        [853,1369,17,0],
+        [155,419,28,0]
+      ]
+    },
+    {
+      "key": "RANDOLPH|RM",
+      "county": "RANDOLPH",
+      "precinct": "RM",
+      "votes": [
+        [340,574,1,0],
+        [145,391,15,0]
+      ]
+    },
+    {
+      "key": "RANDOLPH|SE",
+      "county": "RANDOLPH",
+      "precinct": "SE",
+      "votes": [
+        [511,395,7,0],
+        [64,120,4,0]
+      ]
+    },
+    {
+      "key": "RANDOLPH|SO",
+      "county": "RANDOLPH",
+      "precinct": "SO",
+      "votes": [
+        [734,667,10,0],
+        [148,236,18,0]
+      ]
+    },
+    {
+      "key": "RANDOLPH|SW",
+      "county": "RANDOLPH",
+      "precinct": "SW",
+      "votes": [
+        [721,462,10,0],
+        [96,114,6,0]
+      ]
+    },
+    {
+      "key": "RANDOLPH|UG",
+      "county": "RANDOLPH",
+      "precinct": "UG",
+      "votes": [
+        [956,1865,20,0],
+        [225,691,42,0]
+      ]
+    }
+  ],
+  "other": [
+    {
+      "county": "MOORE",
+      "label": "ABSENTEE MAIL",
+      "votes": [
+        [0,0,225,0],
+        [0,0,433,0]
+      ]
+    },
+    {
+      "county": "MOORE",
+      "label": "BOE TRANSFER",
+      "votes": [
+        [0,0,0,0],
+        [0,0,0,0]
+      ]
+    },
+    {
+      "county": "MOORE",
+      "label": "EV AG",
+      "votes": [
+        [0,2964,0,0],
+        [0,2055,0,0]
+      ]
+    },
+    {
+      "county": "MOORE",
+      "label": "EV RS",
+      "votes": [
+        [0,3123,0,0],
+        [0,2743,0,0]
+      ]
+    },
+    {
+      "county": "MOORE",
+      "label": "EV VTH",
+      "votes": [
+        [0,82,0,0],
+        [0,86,0,0]
+      ]
+    },
+    {
+      "county": "MOORE",
+      "label": "PROVISIONAL",
+      "votes": [
+        [0,0,0,0],
+        [0,0,0,0]
+      ]
+    }
+  ]
+}

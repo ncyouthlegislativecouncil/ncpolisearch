@@ -1,0 +1,617 @@
+{
+  "raceId": "nc-senate-04",
+  "candidates": [
+    {"name":"Jessica (Jess) Rivera","party":"D"},
+    {"name":"Buck Newton","party":"R"}
+  ],
+  "precincts": [
+    {
+      "key": "GREENE|ARBA",
+      "county": "GREENE",
+      "precinct": "ARBA",
+      "votes": [
+        [69,208,5,0],
+        [112,132,0,0]
+      ]
+    },
+    {
+      "key": "GREENE|BEAR",
+      "county": "GREENE",
+      "precinct": "BEAR",
+      "votes": [
+        [33,155,6,0],
+        [117,188,1,0]
+      ]
+    },
+    {
+      "key": "GREENE|BULL",
+      "county": "GREENE",
+      "precinct": "BULL",
+      "votes": [
+        [63,164,2,0],
+        [97,112,2,0]
+      ]
+    },
+    {
+      "key": "GREENE|CAST",
+      "county": "GREENE",
+      "precinct": "CAST",
+      "votes": [
+        [43,117,5,0],
+        [127,156,2,0]
+      ]
+    },
+    {
+      "key": "GREENE|HOOK",
+      "county": "GREENE",
+      "precinct": "HOOK",
+      "votes": [
+        [81,102,7,0],
+        [129,117,5,0]
+      ]
+    },
+    {
+      "key": "GREENE|MAUR",
+      "county": "GREENE",
+      "precinct": "MAUR",
+      "votes": [
+        [129,229,9,0],
+        [270,223,3,0]
+      ]
+    },
+    {
+      "key": "GREENE|SH#1",
+      "county": "GREENE",
+      "precinct": "SH#1",
+      "votes": [
+        [96,380,59,0],
+        [122,310,3,0]
+      ]
+    },
+    {
+      "key": "GREENE|SHIN",
+      "county": "GREENE",
+      "precinct": "SHIN",
+      "votes": [
+        [119,233,5,0],
+        [245,273,0,0]
+      ]
+    },
+    {
+      "key": "GREENE|SUGG",
+      "county": "GREENE",
+      "precinct": "SUGG",
+      "votes": [
+        [60,214,3,0],
+        [112,168,0,0]
+      ]
+    },
+    {
+      "key": "GREENE|WALS",
+      "county": "GREENE",
+      "precinct": "WALS",
+      "votes": [
+        [124,161,3,0],
+        [188,117,0,0]
+      ]
+    },
+    {
+      "key": "WAYNE|1",
+      "county": "WAYNE",
+      "precinct": "01",
+      "votes": [
+        [179,0,0,0],
+        [426,0,0,0]
+      ]
+    },
+    {
+      "key": "WAYNE|10",
+      "county": "WAYNE",
+      "precinct": "10",
+      "votes": [
+        [138,0,0,0],
+        [50,0,0,0]
+      ]
+    },
+    {
+      "key": "WAYNE|11",
+      "county": "WAYNE",
+      "precinct": "11",
+      "votes": [
+        [184,0,0,0],
+        [85,0,0,0]
+      ]
+    },
+    {
+      "key": "WAYNE|12",
+      "county": "WAYNE",
+      "precinct": "12",
+      "votes": [
+        [241,0,0,0],
+        [151,0,0,0]
+      ]
+    },
+    {
+      "key": "WAYNE|13",
+      "county": "WAYNE",
+      "precinct": "13",
+      "votes": [
+        [159,0,0,0],
+        [57,0,0,0]
+      ]
+    },
+    {
+      "key": "WAYNE|14",
+      "county": "WAYNE",
+      "precinct": "14",
+      "votes": [
+        [153,0,0,0],
+        [449,0,0,0]
+      ]
+    },
+    {
+      "key": "WAYNE|15",
+      "county": "WAYNE",
+      "precinct": "15",
+      "votes": [
+        [160,0,0,0],
+        [357,0,0,0]
+      ]
+    },
+    {
+      "key": "WAYNE|16",
+      "county": "WAYNE",
+      "precinct": "16",
+      "votes": [
+        [122,0,0,0],
+        [234,0,0,0]
+      ]
+    },
+    {
+      "key": "WAYNE|17",
+      "county": "WAYNE",
+      "precinct": "17",
+      "votes": [
+        [82,0,0,0],
+        [15,0,0,0]
+      ]
+    },
+    {
+      "key": "WAYNE|18",
+      "county": "WAYNE",
+      "precinct": "18",
+      "votes": [
+        [93,0,0,0],
+        [30,0,0,0]
+      ]
+    },
+    {
+      "key": "WAYNE|1920",
+      "county": "WAYNE",
+      "precinct": "1920",
+      "votes": [
+        [290,0,0,0],
+        [37,0,0,0]
+      ]
+    },
+    {
+      "key": "WAYNE|2",
+      "county": "WAYNE",
+      "precinct": "02",
+      "votes": [
+        [204,0,0,0],
+        [518,0,0,0]
+      ]
+    },
+    {
+      "key": "WAYNE|21",
+      "county": "WAYNE",
+      "precinct": "21",
+      "votes": [
+        [123,0,0,0],
+        [72,0,0,0]
+      ]
+    },
+    {
+      "key": "WAYNE|22",
+      "county": "WAYNE",
+      "precinct": "22",
+      "votes": [
+        [102,0,0,0],
+        [106,0,0,0]
+      ]
+    },
+    {
+      "key": "WAYNE|23",
+      "county": "WAYNE",
+      "precinct": "23",
+      "votes": [
+        [124,0,0,0],
+        [156,0,0,0]
+      ]
+    },
+    {
+      "key": "WAYNE|24",
+      "county": "WAYNE",
+      "precinct": "24",
+      "votes": [
+        [80,0,0,0],
+        [572,0,0,0]
+      ]
+    },
+    {
+      "key": "WAYNE|2530",
+      "county": "WAYNE",
+      "precinct": "2530",
+      "votes": [
+        [193,0,0,0],
+        [241,0,0,0]
+      ]
+    },
+    {
+      "key": "WAYNE|26",
+      "county": "WAYNE",
+      "precinct": "26",
+      "votes": [
+        [216,0,0,0],
+        [161,0,0,0]
+      ]
+    },
+    {
+      "key": "WAYNE|27",
+      "county": "WAYNE",
+      "precinct": "27",
+      "votes": [
+        [134,0,0,0],
+        [51,0,0,0]
+      ]
+    },
+    {
+      "key": "WAYNE|28",
+      "county": "WAYNE",
+      "precinct": "28",
+      "votes": [
+        [248,0,0,0],
+        [293,0,0,0]
+      ]
+    },
+    {
+      "key": "WAYNE|29",
+      "county": "WAYNE",
+      "precinct": "29",
+      "votes": [
+        [111,0,0,0],
+        [48,0,0,0]
+      ]
+    },
+    {
+      "key": "WAYNE|3",
+      "county": "WAYNE",
+      "precinct": "03",
+      "votes": [
+        [179,0,0,0],
+        [500,0,0,0]
+      ]
+    },
+    {
+      "key": "WAYNE|4",
+      "county": "WAYNE",
+      "precinct": "04",
+      "votes": [
+        [261,0,0,0],
+        [690,0,0,0]
+      ]
+    },
+    {
+      "key": "WAYNE|5",
+      "county": "WAYNE",
+      "precinct": "05",
+      "votes": [
+        [163,0,0,0],
+        [400,0,0,0]
+      ]
+    },
+    {
+      "key": "WAYNE|6",
+      "county": "WAYNE",
+      "precinct": "06",
+      "votes": [
+        [133,0,0,0],
+        [157,0,0,0]
+      ]
+    },
+    {
+      "key": "WAYNE|7",
+      "county": "WAYNE",
+      "precinct": "07",
+      "votes": [
+        [216,0,0,0],
+        [410,0,0,0]
+      ]
+    },
+    {
+      "key": "WAYNE|8",
+      "county": "WAYNE",
+      "precinct": "08",
+      "votes": [
+        [81,0,0,0],
+        [414,0,0,0]
+      ]
+    },
+    {
+      "key": "WAYNE|9",
+      "county": "WAYNE",
+      "precinct": "09",
+      "votes": [
+        [123,0,0,0],
+        [328,0,0,0]
+      ]
+    },
+    {
+      "key": "WILSON|PRBL",
+      "county": "WILSON",
+      "precinct": "PRBL",
+      "votes": [
+        [195,269,2,0],
+        [509,396,7,0]
+      ]
+    },
+    {
+      "key": "WILSON|PRCR",
+      "county": "WILSON",
+      "precinct": "PRCR",
+      "votes": [
+        [125,251,5,0],
+        [423,342,9,0]
+      ]
+    },
+    {
+      "key": "WILSON|PRGA",
+      "county": "WILSON",
+      "precinct": "PRGA",
+      "votes": [
+        [179,427,8,0],
+        [362,265,2,0]
+      ]
+    },
+    {
+      "key": "WILSON|PROL",
+      "county": "WILSON",
+      "precinct": "PROL",
+      "votes": [
+        [246,653,16,0],
+        [710,898,11,0]
+      ]
+    },
+    {
+      "key": "WILSON|PRSA",
+      "county": "WILSON",
+      "precinct": "PRSA",
+      "votes": [
+        [122,163,5,0],
+        [178,63,2,0]
+      ]
+    },
+    {
+      "key": "WILSON|PRSP",
+      "county": "WILSON",
+      "precinct": "PRSP",
+      "votes": [
+        [141,266,5,0],
+        [426,289,8,0]
+      ]
+    },
+    {
+      "key": "WILSON|PRST",
+      "county": "WILSON",
+      "precinct": "PRST",
+      "votes": [
+        [167,248,13,0],
+        [175,129,4,0]
+      ]
+    },
+    {
+      "key": "WILSON|PRTA",
+      "county": "WILSON",
+      "precinct": "PRTA",
+      "votes": [
+        [514,1430,33,0],
+        [602,1219,25,0]
+      ]
+    },
+    {
+      "key": "WILSON|PRTO",
+      "county": "WILSON",
+      "precinct": "PRTO",
+      "votes": [
+        [307,641,13,0],
+        [448,520,10,0]
+      ]
+    },
+    {
+      "key": "WILSON|PRWA",
+      "county": "WILSON",
+      "precinct": "PRWA",
+      "votes": [
+        [108,218,4,0],
+        [36,35,3,0]
+      ]
+    },
+    {
+      "key": "WILSON|PRWB",
+      "county": "WILSON",
+      "precinct": "PRWB",
+      "votes": [
+        [108,257,6,0],
+        [9,12,0,0]
+      ]
+    },
+    {
+      "key": "WILSON|PRWC",
+      "county": "WILSON",
+      "precinct": "PRWC",
+      "votes": [
+        [207,465,9,0],
+        [26,49,0,0]
+      ]
+    },
+    {
+      "key": "WILSON|PRWD",
+      "county": "WILSON",
+      "precinct": "PRWD",
+      "votes": [
+        [133,330,19,0],
+        [251,351,8,0]
+      ]
+    },
+    {
+      "key": "WILSON|PRWE",
+      "county": "WILSON",
+      "precinct": "PRWE",
+      "votes": [
+        [147,306,9,0],
+        [55,93,1,0]
+      ]
+    },
+    {
+      "key": "WILSON|PRWH",
+      "county": "WILSON",
+      "precinct": "PRWH",
+      "votes": [
+        [106,196,7,0],
+        [9,8,1,0]
+      ]
+    },
+    {
+      "key": "WILSON|PRWI",
+      "county": "WILSON",
+      "precinct": "PRWI",
+      "votes": [
+        [153,463,16,0],
+        [78,117,5,0]
+      ]
+    },
+    {
+      "key": "WILSON|PRWJ",
+      "county": "WILSON",
+      "precinct": "PRWJ",
+      "votes": [
+        [331,1082,42,0],
+        [206,448,12,0]
+      ]
+    },
+    {
+      "key": "WILSON|PRWK",
+      "county": "WILSON",
+      "precinct": "PRWK",
+      "votes": [
+        [105,309,11,0],
+        [230,306,5,0]
+      ]
+    },
+    {
+      "key": "WILSON|PRWL",
+      "county": "WILSON",
+      "precinct": "PRWL",
+      "votes": [
+        [226,526,20,0],
+        [254,400,11,0]
+      ]
+    },
+    {
+      "key": "WILSON|PRWM",
+      "county": "WILSON",
+      "precinct": "PRWM",
+      "votes": [
+        [324,1089,26,0],
+        [339,760,17,0]
+      ]
+    },
+    {
+      "key": "WILSON|PRWN",
+      "county": "WILSON",
+      "precinct": "PRWN",
+      "votes": [
+        [303,734,26,0],
+        [31,30,0,0]
+      ]
+    },
+    {
+      "key": "WILSON|PRWP",
+      "county": "WILSON",
+      "precinct": "PRWP",
+      "votes": [
+        [123,342,10,0],
+        [195,310,4,0]
+      ]
+    },
+    {
+      "key": "WILSON|PRWQ",
+      "county": "WILSON",
+      "precinct": "PRWQ",
+      "votes": [
+        [77,188,8,0],
+        [3,6,0,0]
+      ]
+    },
+    {
+      "key": "WILSON|PRWR",
+      "county": "WILSON",
+      "precinct": "PRWR",
+      "votes": [
+        [136,393,8,0],
+        [20,39,0,0]
+      ]
+    }
+  ],
+  "other": [
+    {
+      "county": "WAYNE",
+      "label": "ABSENTEE",
+      "votes": [
+        [0,0,428,0],
+        [0,0,186,0]
+      ]
+    },
+    {
+      "county": "WAYNE",
+      "label": "EV GBORO LIBRARY",
+      "votes": [
+        [0,7201,0,0],
+        [0,3085,0,0]
+      ]
+    },
+    {
+      "county": "WAYNE",
+      "label": "EV MAXWELL CENTER",
+      "votes": [
+        [0,4979,0,0],
+        [0,8160,0,0]
+      ]
+    },
+    {
+      "county": "WAYNE",
+      "label": "EV MT O LIBRARY",
+      "votes": [
+        [0,1405,0,0],
+        [0,1387,0,0]
+      ]
+    },
+    {
+      "county": "WAYNE",
+      "label": "PROVISIONAL",
+      "votes": [
+        [0,0,0,0],
+        [0,0,0,0]
+      ]
+    },
+    {
+      "county": "WAYNE",
+      "label": "TRANSFER",
+      "votes": [
+        [0,0,0,0],
+        [0,0,0,0]
+      ]
+    }
+  ]
+}

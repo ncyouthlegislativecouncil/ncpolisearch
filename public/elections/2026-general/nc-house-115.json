@@ -1,0 +1,199 @@
+{
+  "raceId": "nc-house-115",
+  "candidates": [
+    {"name":"Lindsey Prather","party":"D"},
+    {"name":"Anthony J. Penland","party":"R"}
+  ],
+  "precincts": [
+    {
+      "key": "BUNCOMBE|40.2",
+      "county": "BUNCOMBE",
+      "precinct": "40.2",
+      "votes": [
+        [202,1030,41,0],
+        [407,735,11,0]
+      ]
+    },
+    {
+      "key": "BUNCOMBE|41.1",
+      "county": "BUNCOMBE",
+      "precinct": "41.1",
+      "votes": [
+        [185,819,33,0],
+        [346,597,14,0]
+      ]
+    },
+    {
+      "key": "BUNCOMBE|45.1",
+      "county": "BUNCOMBE",
+      "precinct": "45.1",
+      "votes": [
+        [317,1428,83,0],
+        [270,600,23,0]
+      ]
+    },
+    {
+      "key": "BUNCOMBE|47.1",
+      "county": "BUNCOMBE",
+      "precinct": "47.1",
+      "votes": [
+        [258,888,24,0],
+        [491,783,13,0]
+      ]
+    },
+    {
+      "key": "BUNCOMBE|48.1",
+      "county": "BUNCOMBE",
+      "precinct": "48.1",
+      "votes": [
+        [263,1028,58,0],
+        [340,691,10,0]
+      ]
+    },
+    {
+      "key": "BUNCOMBE|49.1",
+      "county": "BUNCOMBE",
+      "precinct": "49.1",
+      "votes": [
+        [279,918,26,0],
+        [501,678,12,0]
+      ]
+    },
+    {
+      "key": "BUNCOMBE|50.1",
+      "county": "BUNCOMBE",
+      "precinct": "50.1",
+      "votes": [
+        [144,270,18,0],
+        [274,138,3,0]
+      ]
+    },
+    {
+      "key": "BUNCOMBE|51.2",
+      "county": "BUNCOMBE",
+      "precinct": "51.2",
+      "votes": [
+        [142,573,18,0],
+        [242,351,3,0]
+      ]
+    },
+    {
+      "key": "BUNCOMBE|52.1",
+      "county": "BUNCOMBE",
+      "precinct": "52.1",
+      "votes": [
+        [212,1002,29,0],
+        [384,819,5,0]
+      ]
+    },
+    {
+      "key": "BUNCOMBE|53.1",
+      "county": "BUNCOMBE",
+      "precinct": "53.1",
+      "votes": [
+        [185,741,27,0],
+        [332,699,13,0]
+      ]
+    },
+    {
+      "key": "BUNCOMBE|58.1",
+      "county": "BUNCOMBE",
+      "precinct": "58.1",
+      "votes": [
+        [193,944,53,0],
+        [166,414,15,0]
+      ]
+    },
+    {
+      "key": "BUNCOMBE|59.1",
+      "county": "BUNCOMBE",
+      "precinct": "59.1",
+      "votes": [
+        [208,1684,78,0],
+        [288,643,15,0]
+      ]
+    },
+    {
+      "key": "BUNCOMBE|61.1",
+      "county": "BUNCOMBE",
+      "precinct": "61.1",
+      "votes": [
+        [208,912,57,0],
+        [215,378,9,0]
+      ]
+    },
+    {
+      "key": "BUNCOMBE|63.1",
+      "county": "BUNCOMBE",
+      "precinct": "63.1",
+      "votes": [
+        [72,109,8,0],
+        [113,51,0,0]
+      ]
+    },
+    {
+      "key": "BUNCOMBE|65.1",
+      "county": "BUNCOMBE",
+      "precinct": "65.1",
+      "votes": [
+        [207,1118,35,0],
+        [158,455,12,0]
+      ]
+    },
+    {
+      "key": "BUNCOMBE|66.1",
+      "county": "BUNCOMBE",
+      "precinct": "66.1",
+      "votes": [
+        [125,579,49,0],
+        [111,223,12,0]
+      ]
+    },
+    {
+      "key": "BUNCOMBE|67.1",
+      "county": "BUNCOMBE",
+      "precinct": "67.1",
+      "votes": [
+        [156,1263,47,0],
+        [104,336,13,0]
+      ]
+    },
+    {
+      "key": "BUNCOMBE|68.1",
+      "county": "BUNCOMBE",
+      "precinct": "68.1",
+      "votes": [
+        [372,1143,40,0],
+        [361,608,15,0]
+      ]
+    },
+    {
+      "key": "BUNCOMBE|681",
+      "county": "BUNCOMBE",
+      "precinct": "681",
+      "votes": [
+        [37,66,2,0],
+        [99,36,2,0]
+      ]
+    },
+    {
+      "key": "BUNCOMBE|69.1",
+      "county": "BUNCOMBE",
+      "precinct": "69.1",
+      "votes": [
+        [255,998,33,0],
+        [283,494,6,0]
+      ]
+    },
+    {
+      "key": "BUNCOMBE|71.1",
+      "county": "BUNCOMBE",
+      "precinct": "71.1",
+      "votes": [
+        [286,1750,79,0],
+        [201,607,8,0]
+      ]
+    }
+  ],
+  "other": []
+}

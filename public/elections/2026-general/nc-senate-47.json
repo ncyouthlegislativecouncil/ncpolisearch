@@ -1,0 +1,1060 @@
+{
+  "raceId": "nc-senate-47",
+  "candidates": [
+    {"name":"Ralph Hise","party":"R"},
+    {"name":"Frank Patton Hughes III","party":"D"}
+  ],
+  "precincts": [
+    {
+      "key": "ALLEGHANY|1",
+      "county": "ALLEGHANY",
+      "precinct": "01",
+      "votes": [
+        [181,0,0,0],
+        [45,0,0,0]
+      ]
+    },
+    {
+      "key": "ALLEGHANY|3A",
+      "county": "ALLEGHANY",
+      "precinct": "03A",
+      "votes": [
+        [405,0,0,0],
+        [131,0,0,0]
+      ]
+    },
+    {
+      "key": "ALLEGHANY|4",
+      "county": "ALLEGHANY",
+      "precinct": "04",
+      "votes": [
+        [279,0,0,0],
+        [40,0,0,0]
+      ]
+    },
+    {
+      "key": "ALLEGHANY|6A",
+      "county": "ALLEGHANY",
+      "precinct": "06A",
+      "votes": [
+        [318,0,0,0],
+        [87,0,0,0]
+      ]
+    },
+    {
+      "key": "ASHE|10",
+      "county": "ASHE",
+      "precinct": "10",
+      "votes": [
+        [54,32,0,0],
+        [18,13,3,0]
+      ]
+    },
+    {
+      "key": "ASHE|11",
+      "county": "ASHE",
+      "precinct": "11",
+      "votes": [
+        [391,351,4,0],
+        [100,258,14,0]
+      ]
+    },
+    {
+      "key": "ASHE|12",
+      "county": "ASHE",
+      "precinct": "12",
+      "votes": [
+        [163,57,2,0],
+        [55,72,7,0]
+      ]
+    },
+    {
+      "key": "ASHE|13",
+      "county": "ASHE",
+      "precinct": "13",
+      "votes": [
+        [283,200,1,0],
+        [79,150,8,0]
+      ]
+    },
+    {
+      "key": "ASHE|14",
+      "county": "ASHE",
+      "precinct": "14",
+      "votes": [
+        [324,592,8,0],
+        [99,429,23,0]
+      ]
+    },
+    {
+      "key": "ASHE|15",
+      "county": "ASHE",
+      "precinct": "15",
+      "votes": [
+        [203,182,3,0],
+        [45,82,3,0]
+      ]
+    },
+    {
+      "key": "ASHE|16",
+      "county": "ASHE",
+      "precinct": "16",
+      "votes": [
+        [386,474,9,0],
+        [141,343,21,0]
+      ]
+    },
+    {
+      "key": "ASHE|17",
+      "county": "ASHE",
+      "precinct": "17",
+      "votes": [
+        [188,126,0,0],
+        [51,50,3,0]
+      ]
+    },
+    {
+      "key": "ASHE|18",
+      "county": "ASHE",
+      "precinct": "18",
+      "votes": [
+        [45,10,0,0],
+        [12,10,2,0]
+      ]
+    },
+    {
+      "key": "ASHE|2",
+      "county": "ASHE",
+      "precinct": "02",
+      "votes": [
+        [228,239,3,0],
+        [39,132,5,0]
+      ]
+    },
+    {
+      "key": "ASHE|20",
+      "county": "ASHE",
+      "precinct": "20",
+      "votes": [
+        [453,577,9,0],
+        [189,447,11,0]
+      ]
+    },
+    {
+      "key": "ASHE|3",
+      "county": "ASHE",
+      "precinct": "03",
+      "votes": [
+        [122,82,2,0],
+        [37,47,5,0]
+      ]
+    },
+    {
+      "key": "ASHE|4",
+      "county": "ASHE",
+      "precinct": "04",
+      "votes": [
+        [112,49,3,0],
+        [56,102,1,0]
+      ]
+    },
+    {
+      "key": "ASHE|6",
+      "county": "ASHE",
+      "precinct": "06",
+      "votes": [
+        [121,74,1,0],
+        [31,41,3,0]
+      ]
+    },
+    {
+      "key": "ASHE|7",
+      "county": "ASHE",
+      "precinct": "07",
+      "votes": [
+        [85,34,2,0],
+        [17,47,7,0]
+      ]
+    },
+    {
+      "key": "ASHE|8",
+      "county": "ASHE",
+      "precinct": "08",
+      "votes": [
+        [18,40,1,0],
+        [14,27,4,0]
+      ]
+    },
+    {
+      "key": "ASHE|9",
+      "county": "ASHE",
+      "precinct": "09",
+      "votes": [
+        [467,726,13,0],
+        [173,506,21,0]
+      ]
+    },
+    {
+      "key": "AVERY|1",
+      "county": "AVERY",
+      "precinct": "01",
+      "votes": [
+        [245,0,0,0],
+        [64,0,0,0]
+      ]
+    },
+    {
+      "key": "AVERY|10",
+      "county": "AVERY",
+      "precinct": "10",
+      "votes": [
+        [252,0,0,0],
+        [49,0,0,0]
+      ]
+    },
+    {
+      "key": "AVERY|11",
+      "county": "AVERY",
+      "precinct": "11",
+      "votes": [
+        [75,0,0,0],
+        [43,0,0,0]
+      ]
+    },
+    {
+      "key": "AVERY|12",
+      "county": "AVERY",
+      "precinct": "12",
+      "votes": [
+        [64,0,0,0],
+        [12,0,0,0]
+      ]
+    },
+    {
+      "key": "AVERY|13",
+      "county": "AVERY",
+      "precinct": "13",
+      "votes": [
+        [108,0,0,0],
+        [45,0,0,0]
+      ]
+    },
+    {
+      "key": "AVERY|14",
+      "county": "AVERY",
+      "precinct": "14",
+      "votes": [
+        [159,0,0,0],
+        [54,0,0,0]
+      ]
+    },
+    {
+      "key": "AVERY|15",
+      "county": "AVERY",
+      "precinct": "15",
+      "votes": [
+        [128,0,0,0],
+        [31,0,0,0]
+      ]
+    },
+    {
+      "key": "AVERY|16",
+      "county": "AVERY",
+      "precinct": "16",
+      "votes": [
+        [231,0,0,0],
+        [82,0,0,0]
+      ]
+    },
+    {
+      "key": "AVERY|17",
+      "county": "AVERY",
+      "precinct": "17",
+      "votes": [
+        [203,0,0,0],
+        [38,0,0,0]
+      ]
+    },
+    {
+      "key": "AVERY|18",
+      "county": "AVERY",
+      "precinct": "18",
+      "votes": [
+        [105,0,0,0],
+        [15,0,0,0]
+      ]
+    },
+    {
+      "key": "AVERY|19",
+      "county": "AVERY",
+      "precinct": "19",
+      "votes": [
+        [84,0,0,0],
+        [5,0,0,0]
+      ]
+    },
+    {
+      "key": "AVERY|2",
+      "county": "AVERY",
+      "precinct": "02",
+      "votes": [
+        [381,0,0,0],
+        [196,0,0,0]
+      ]
+    },
+    {
+      "key": "AVERY|3",
+      "county": "AVERY",
+      "precinct": "03",
+      "votes": [
+        [154,0,0,0],
+        [22,0,0,0]
+      ]
+    },
+    {
+      "key": "AVERY|4",
+      "county": "AVERY",
+      "precinct": "04",
+      "votes": [
+        [24,0,0,0],
+        [4,0,0,0]
+      ]
+    },
+    {
+      "key": "AVERY|5",
+      "county": "AVERY",
+      "precinct": "05",
+      "votes": [
+        [87,0,0,0],
+        [8,0,0,0]
+      ]
+    },
+    {
+      "key": "AVERY|6",
+      "county": "AVERY",
+      "precinct": "06",
+      "votes": [
+        [159,0,0,0],
+        [31,0,0,0]
+      ]
+    },
+    {
+      "key": "AVERY|7",
+      "county": "AVERY",
+      "precinct": "07",
+      "votes": [
+        [77,0,0,0],
+        [10,0,0,0]
+      ]
+    },
+    {
+      "key": "AVERY|8",
+      "county": "AVERY",
+      "precinct": "08",
+      "votes": [
+        [100,0,0,0],
+        [20,0,0,0]
+      ]
+    },
+    {
+      "key": "AVERY|9",
+      "county": "AVERY",
+      "precinct": "09",
+      "votes": [
+        [105,0,0,0],
+        [7,0,0,0]
+      ]
+    },
+    {
+      "key": "CALDWELL|12",
+      "county": "CALDWELL",
+      "precinct": "12",
+      "votes": [
+        [432,0,0,0],
+        [96,0,0,0]
+      ]
+    },
+    {
+      "key": "CALDWELL|2",
+      "county": "CALDWELL",
+      "precinct": "2",
+      "votes": [
+        [389,0,0,0],
+        [74,0,0,0]
+      ]
+    },
+    {
+      "key": "CALDWELL|3",
+      "county": "CALDWELL",
+      "precinct": "3",
+      "votes": [
+        [208,0,0,0],
+        [56,0,0,0]
+      ]
+    },
+    {
+      "key": "CALDWELL|4",
+      "county": "CALDWELL",
+      "precinct": "4",
+      "votes": [
+        [463,0,0,0],
+        [74,0,0,0]
+      ]
+    },
+    {
+      "key": "CALDWELL|6",
+      "county": "CALDWELL",
+      "precinct": "6",
+      "votes": [
+        [185,0,0,0],
+        [137,0,0,0]
+      ]
+    },
+    {
+      "key": "CALDWELL|8",
+      "county": "CALDWELL",
+      "precinct": "8",
+      "votes": [
+        [411,0,0,0],
+        [127,0,0,0]
+      ]
+    },
+    {
+      "key": "HAYWOOD|BE1",
+      "county": "HAYWOOD",
+      "precinct": "BE1",
+      "votes": [
+        [169,289,10,0],
+        [68,214,9,0]
+      ]
+    },
+    {
+      "key": "HAYWOOD|BE2",
+      "county": "HAYWOOD",
+      "precinct": "BE2",
+      "votes": [
+        [167,207,5,0],
+        [82,211,8,0]
+      ]
+    },
+    {
+      "key": "HAYWOOD|BE3",
+      "county": "HAYWOOD",
+      "precinct": "BE3",
+      "votes": [
+        [302,283,3,0],
+        [117,372,12,0]
+      ]
+    },
+    {
+      "key": "HAYWOOD|BE4",
+      "county": "HAYWOOD",
+      "precinct": "BE4",
+      "votes": [
+        [182,335,5,0],
+        [117,361,15,0]
+      ]
+    },
+    {
+      "key": "HAYWOOD|CLN",
+      "county": "HAYWOOD",
+      "precinct": "CLN",
+      "votes": [
+        [247,384,7,0],
+        [147,383,21,0]
+      ]
+    },
+    {
+      "key": "HAYWOOD|CLS",
+      "county": "HAYWOOD",
+      "precinct": "CLS",
+      "votes": [
+        [323,432,2,0],
+        [162,458,16,0]
+      ]
+    },
+    {
+      "key": "HAYWOOD|CR",
+      "county": "HAYWOOD",
+      "precinct": "CR",
+      "votes": [
+        [285,310,11,0],
+        [156,282,22,0]
+      ]
+    },
+    {
+      "key": "HAYWOOD|FC-1",
+      "county": "HAYWOOD",
+      "precinct": "FC-1",
+      "votes": [
+        [168,116,3,0],
+        [77,119,4,0]
+      ]
+    },
+    {
+      "key": "MADISON|BEECH",
+      "county": "MADISON",
+      "precinct": "BEECH",
+      "votes": [
+        [344,640,10,0],
+        [149,619,25,0]
+      ]
+    },
+    {
+      "key": "MADISON|EBBS C",
+      "county": "MADISON",
+      "precinct": "EBBS C",
+      "votes": [
+        [226,149,1,0],
+        [98,183,8,0]
+      ]
+    },
+    {
+      "key": "MADISON|GRAPEV",
+      "county": "MADISON",
+      "precinct": "GRAPEV",
+      "votes": [
+        [198,177,2,0],
+        [82,198,11,0]
+      ]
+    },
+    {
+      "key": "MADISON|HOT SP",
+      "county": "MADISON",
+      "precinct": "HOT SP",
+      "votes": [
+        [87,151,1,0],
+        [62,200,5,0]
+      ]
+    },
+    {
+      "key": "MADISON|LAUREL",
+      "county": "MADISON",
+      "precinct": "LAUREL",
+      "votes": [
+        [158,146,2,0],
+        [71,136,5,0]
+      ]
+    },
+    {
+      "key": "MADISON|MARS H",
+      "county": "MADISON",
+      "precinct": "MARS H",
+      "votes": [
+        [382,820,14,0],
+        [241,950,37,0]
+      ]
+    },
+    {
+      "key": "MADISON|NORTH",
+      "county": "MADISON",
+      "precinct": "NORTH",
+      "votes": [
+        [251,449,3,0],
+        [139,562,16,0]
+      ]
+    },
+    {
+      "key": "MADISON|REVERE",
+      "county": "MADISON",
+      "precinct": "REVERE",
+      "votes": [
+        [35,28,0,0],
+        [32,65,1,0]
+      ]
+    },
+    {
+      "key": "MADISON|SANDY",
+      "county": "MADISON",
+      "precinct": "SANDY",
+      "votes": [
+        [121,60,5,0],
+        [61,82,1,0]
+      ]
+    },
+    {
+      "key": "MADISON|SOUTH",
+      "county": "MADISON",
+      "precinct": "SOUTH",
+      "votes": [
+        [95,175,4,0],
+        [80,274,11,0]
+      ]
+    },
+    {
+      "key": "MADISON|SPRING",
+      "county": "MADISON",
+      "precinct": "SPRING",
+      "votes": [
+        [141,61,1,0],
+        [144,109,2,0]
+      ]
+    },
+    {
+      "key": "MADISON|WALNUT",
+      "county": "MADISON",
+      "precinct": "WALNUT",
+      "votes": [
+        [176,219,2,0],
+        [88,309,7,0]
+      ]
+    },
+    {
+      "key": "MITCHELL|1-A",
+      "county": "MITCHELL",
+      "precinct": "01-A",
+      "votes": [
+        [219,410,6,0],
+        [62,214,2,0]
+      ]
+    },
+    {
+      "key": "MITCHELL|2",
+      "county": "MITCHELL",
+      "precinct": "02",
+      "votes": [
+        [76,50,0,0],
+        [10,8,0,0]
+      ]
+    },
+    {
+      "key": "MITCHELL|3",
+      "county": "MITCHELL",
+      "precinct": "03",
+      "votes": [
+        [104,118,2,0],
+        [24,65,3,0]
+      ]
+    },
+    {
+      "key": "MITCHELL|4",
+      "county": "MITCHELL",
+      "precinct": "04",
+      "votes": [
+        [749,1465,16,0],
+        [215,776,25,0]
+      ]
+    },
+    {
+      "key": "MITCHELL|5",
+      "county": "MITCHELL",
+      "precinct": "05",
+      "votes": [
+        [219,111,2,0],
+        [28,74,7,0]
+      ]
+    },
+    {
+      "key": "MITCHELL|6",
+      "county": "MITCHELL",
+      "precinct": "06",
+      "votes": [
+        [104,133,2,0],
+        [15,58,2,0]
+      ]
+    },
+    {
+      "key": "MITCHELL|7",
+      "county": "MITCHELL",
+      "precinct": "07",
+      "votes": [
+        [45,18,0,0],
+        [10,6,0,0]
+      ]
+    },
+    {
+      "key": "MITCHELL|9",
+      "county": "MITCHELL",
+      "precinct": "09",
+      "votes": [
+        [166,291,6,0],
+        [44,213,8,0]
+      ]
+    },
+    {
+      "key": "WATAUGA|1",
+      "county": "WATAUGA",
+      "precinct": "01",
+      "votes": [
+        [69,112,9,0],
+        [43,127,8,0]
+      ]
+    },
+    {
+      "key": "WATAUGA|10",
+      "county": "WATAUGA",
+      "precinct": "10",
+      "votes": [
+        [142,139,4,0],
+        [74,240,11,0]
+      ]
+    },
+    {
+      "key": "WATAUGA|11",
+      "county": "WATAUGA",
+      "precinct": "11",
+      "votes": [
+        [337,438,8,0],
+        [143,516,19,0]
+      ]
+    },
+    {
+      "key": "WATAUGA|12",
+      "county": "WATAUGA",
+      "precinct": "12",
+      "votes": [
+        [47,74,1,0],
+        [197,847,11,0]
+      ]
+    },
+    {
+      "key": "WATAUGA|13",
+      "county": "WATAUGA",
+      "precinct": "13",
+      "votes": [
+        [125,150,4,0],
+        [272,776,21,0]
+      ]
+    },
+    {
+      "key": "WATAUGA|14",
+      "county": "WATAUGA",
+      "precinct": "14",
+      "votes": [
+        [205,325,17,0],
+        [317,998,38,0]
+      ]
+    },
+    {
+      "key": "WATAUGA|15",
+      "county": "WATAUGA",
+      "precinct": "15",
+      "votes": [
+        [217,507,18,0],
+        [305,1216,61,0]
+      ]
+    },
+    {
+      "key": "WATAUGA|16",
+      "county": "WATAUGA",
+      "precinct": "16",
+      "votes": [
+        [31,34,2,0],
+        [5,26,4,0]
+      ]
+    },
+    {
+      "key": "WATAUGA|17",
+      "county": "WATAUGA",
+      "precinct": "17",
+      "votes": [
+        [139,57,0,0],
+        [59,137,3,0]
+      ]
+    },
+    {
+      "key": "WATAUGA|18",
+      "county": "WATAUGA",
+      "precinct": "18",
+      "votes": [
+        [266,402,2,0],
+        [110,351,8,0]
+      ]
+    },
+    {
+      "key": "WATAUGA|19",
+      "county": "WATAUGA",
+      "precinct": "19",
+      "votes": [
+        [420,429,18,0],
+        [245,800,39,0]
+      ]
+    },
+    {
+      "key": "WATAUGA|2",
+      "county": "WATAUGA",
+      "precinct": "02",
+      "votes": [
+        [250,139,3,0],
+        [72,124,5,0]
+      ]
+    },
+    {
+      "key": "WATAUGA|20",
+      "county": "WATAUGA",
+      "precinct": "20",
+      "votes": [
+        [113,34,7,0],
+        [81,57,13,0]
+      ]
+    },
+    {
+      "key": "WATAUGA|3",
+      "county": "WATAUGA",
+      "precinct": "03",
+      "votes": [
+        [253,528,39,0],
+        [162,764,43,0]
+      ]
+    },
+    {
+      "key": "WATAUGA|4",
+      "county": "WATAUGA",
+      "precinct": "04",
+      "votes": [
+        [409,653,31,0],
+        [238,964,57,0]
+      ]
+    },
+    {
+      "key": "WATAUGA|5",
+      "county": "WATAUGA",
+      "precinct": "05",
+      "votes": [
+        [45,78,0,0],
+        [145,589,25,0]
+      ]
+    },
+    {
+      "key": "WATAUGA|6",
+      "county": "WATAUGA",
+      "precinct": "06",
+      "votes": [
+        [39,50,1,0],
+        [230,719,10,0]
+      ]
+    },
+    {
+      "key": "WATAUGA|7",
+      "county": "WATAUGA",
+      "precinct": "07",
+      "votes": [
+        [225,359,7,0],
+        [297,1058,33,0]
+      ]
+    },
+    {
+      "key": "WATAUGA|8",
+      "county": "WATAUGA",
+      "precinct": "08",
+      "votes": [
+        [336,462,6,0],
+        [126,422,12,0]
+      ]
+    },
+    {
+      "key": "WATAUGA|9",
+      "county": "WATAUGA",
+      "precinct": "09",
+      "votes": [
+        [93,121,6,0],
+        [61,145,14,0]
+      ]
+    },
+    {
+      "key": "YANCEY|1 BUR",
+      "county": "YANCEY",
+      "precinct": "01 BUR",
+      "votes": [
+        [246,635,3,0],
+        [140,784,39,0]
+      ]
+    },
+    {
+      "key": "YANCEY|10 PEN",
+      "county": "YANCEY",
+      "precinct": "10 PEN",
+      "votes": [
+        [124,84,3,0],
+        [49,71,5,0]
+      ]
+    },
+    {
+      "key": "YANCEY|11 PRI",
+      "county": "YANCEY",
+      "precinct": "11 PRI",
+      "votes": [
+        [186,306,9,0],
+        [51,189,10,0]
+      ]
+    },
+    {
+      "key": "YANCEY|2 CAN",
+      "county": "YANCEY",
+      "precinct": "02 CAN",
+      "votes": [
+        [228,242,3,0],
+        [83,263,7,0]
+      ]
+    },
+    {
+      "key": "YANCEY|3 EGY",
+      "county": "YANCEY",
+      "precinct": "03 EGY",
+      "votes": [
+        [57,123,2,0],
+        [11,111,7,0]
+      ]
+    },
+    {
+      "key": "YANCEY|4 RAM",
+      "county": "YANCEY",
+      "precinct": "04 RAM",
+      "votes": [
+        [47,54,2,0],
+        [25,32,4,0]
+      ]
+    },
+    {
+      "key": "YANCEY|5 GRE",
+      "county": "YANCEY",
+      "precinct": "05 GRE",
+      "votes": [
+        [53,119,6,0],
+        [14,81,7,0]
+      ]
+    },
+    {
+      "key": "YANCEY|6 JAC",
+      "county": "YANCEY",
+      "precinct": "06 JAC",
+      "votes": [
+        [126,305,8,0],
+        [71,288,16,0]
+      ]
+    },
+    {
+      "key": "YANCEY|7 BRU",
+      "county": "YANCEY",
+      "precinct": "07 BRU",
+      "votes": [
+        [78,83,0,0],
+        [31,74,4,0]
+      ]
+    },
+    {
+      "key": "YANCEY|8 CRA",
+      "county": "YANCEY",
+      "precinct": "08 CRA",
+      "votes": [
+        [358,500,6,0],
+        [149,366,33,0]
+      ]
+    },
+    {
+      "key": "YANCEY|9 SOU",
+      "county": "YANCEY",
+      "precinct": "09 SOU",
+      "votes": [
+        [226,354,11,0],
+        [119,511,27,0]
+      ]
+    }
+  ],
+  "other": [
+    {
+      "county": "ALLEGHANY",
+      "label": "ABSENTEE",
+      "votes": [
+        [0,0,45,0],
+        [0,0,43,0]
+      ]
+    },
+    {
+      "county": "ALLEGHANY",
+      "label": "EARLY VOTING",
+      "votes": [
+        [0,1982,0,0],
+        [0,1062,0,0]
+      ]
+    },
+    {
+      "county": "ALLEGHANY",
+      "label": "PROVISIONAL",
+      "votes": [
+        [0,0,0,0],
+        [0,0,0,0]
+      ]
+    },
+    {
+      "county": "ALLEGHANY",
+      "label": "TRANSFER",
+      "votes": [
+        [0,0,0,0],
+        [0,0,0,0]
+      ]
+    },
+    {
+      "county": "AVERY",
+      "label": "ABSENTEE",
+      "votes": [
+        [0,0,57,0],
+        [0,0,39,0]
+      ]
+    },
+    {
+      "county": "AVERY",
+      "label": "EARLY VOTING",
+      "votes": [
+        [0,1730,0,0],
+        [0,1302,0,0]
+      ]
+    },
+    {
+      "county": "AVERY",
+      "label": "PROVISONAL",
+      "votes": [
+        [0,0,0,0],
+        [0,0,0,0]
+      ]
+    },
+    {
+      "county": "AVERY",
+      "label": "TRANSFER",
+      "votes": [
+        [0,0,0,0],
+        [0,0,0,0]
+      ]
+    },
+    {
+      "county": "CALDWELL",
+      "label": "ABSENTEE",
+      "votes": [
+        [0,0,62,0],
+        [0,0,77,0]
+      ]
+    },
+    {
+      "county": "CALDWELL",
+      "label": "EV CRC",
+      "votes": [
+        [0,3130,0,0],
+        [0,1997,0,0]
+      ]
+    },
+    {
+      "county": "CALDWELL",
+      "label": "EV SRC",
+      "votes": [
+        [0,423,0,0],
+        [0,123,0,0]
+      ]
+    },
+    {
+      "county": "CALDWELL",
+      "label": "PROVISIONAL",
+      "votes": [
+        [0,0,0,0],
+        [0,0,0,0]
+      ]
+    },
+    {
+      "county": "CALDWELL",
+      "label": "TRANSFER",
+      "votes": [
+        [0,0,0,0],
+        [0,0,0,0]
+      ]
+    }
+  ]
+}

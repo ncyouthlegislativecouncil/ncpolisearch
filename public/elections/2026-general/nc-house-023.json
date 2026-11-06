@@ -1,0 +1,485 @@
+{
+  "raceId": "nc-house-023",
+  "candidates": [
+    {"name":"Patricia Smith","party":"D"},
+    {"name":"Brent Roberson","party":"R"}
+  ],
+  "precincts": [
+    {
+      "key": "BERTIE|C1",
+      "county": "BERTIE",
+      "precinct": "C1",
+      "votes": [
+        [56,0,0,0],
+        [154,0,0,0]
+      ]
+    },
+    {
+      "key": "BERTIE|C2",
+      "county": "BERTIE",
+      "precinct": "C2",
+      "votes": [
+        [122,0,0,0],
+        [68,0,0,0]
+      ]
+    },
+    {
+      "key": "BERTIE|IW",
+      "county": "BERTIE",
+      "precinct": "IW",
+      "votes": [
+        [70,0,0,0],
+        [9,0,0,0]
+      ]
+    },
+    {
+      "key": "BERTIE|M1",
+      "county": "BERTIE",
+      "precinct": "M1",
+      "votes": [
+        [59,0,0,0],
+        [114,0,0,0]
+      ]
+    },
+    {
+      "key": "BERTIE|M2",
+      "county": "BERTIE",
+      "precinct": "M2",
+      "votes": [
+        [112,0,0,0],
+        [89,0,0,0]
+      ]
+    },
+    {
+      "key": "BERTIE|MH",
+      "county": "BERTIE",
+      "precinct": "MH",
+      "votes": [
+        [84,0,0,0],
+        [104,0,0,0]
+      ]
+    },
+    {
+      "key": "BERTIE|RX",
+      "county": "BERTIE",
+      "precinct": "RX",
+      "votes": [
+        [143,0,0,0],
+        [68,0,0,0]
+      ]
+    },
+    {
+      "key": "BERTIE|SN",
+      "county": "BERTIE",
+      "precinct": "SN",
+      "votes": [
+        [88,0,0,0],
+        [26,0,0,0]
+      ]
+    },
+    {
+      "key": "BERTIE|W1",
+      "county": "BERTIE",
+      "precinct": "W1",
+      "votes": [
+        [282,0,0,0],
+        [211,0,0,0]
+      ]
+    },
+    {
+      "key": "BERTIE|W2",
+      "county": "BERTIE",
+      "precinct": "W2",
+      "votes": [
+        [7,0,0,0],
+        [242,0,0,0]
+      ]
+    },
+    {
+      "key": "BERTIE|WD",
+      "county": "BERTIE",
+      "precinct": "WD",
+      "votes": [
+        [79,0,0,0],
+        [20,0,0,0]
+      ]
+    },
+    {
+      "key": "BERTIE|WH",
+      "county": "BERTIE",
+      "precinct": "WH",
+      "votes": [
+        [75,0,0,0],
+        [168,0,0,0]
+      ]
+    },
+    {
+      "key": "EDGECOMBE|1001",
+      "county": "EDGECOMBE",
+      "precinct": "1001",
+      "votes": [
+        [157,0,0,0],
+        [207,0,0,0]
+      ]
+    },
+    {
+      "key": "EDGECOMBE|101",
+      "county": "EDGECOMBE",
+      "precinct": "0101",
+      "votes": [
+        [232,0,0,0],
+        [48,0,0,0]
+      ]
+    },
+    {
+      "key": "EDGECOMBE|102",
+      "county": "EDGECOMBE",
+      "precinct": "0102",
+      "votes": [
+        [273,0,0,0],
+        [171,0,0,0]
+      ]
+    },
+    {
+      "key": "EDGECOMBE|103",
+      "county": "EDGECOMBE",
+      "precinct": "0103",
+      "votes": [
+        [187,0,0,0],
+        [208,0,0,0]
+      ]
+    },
+    {
+      "key": "EDGECOMBE|104",
+      "county": "EDGECOMBE",
+      "precinct": "0104",
+      "votes": [
+        [215,0,0,0],
+        [148,0,0,0]
+      ]
+    },
+    {
+      "key": "EDGECOMBE|1101",
+      "county": "EDGECOMBE",
+      "precinct": "1101",
+      "votes": [
+        [62,0,0,0],
+        [137,0,0,0]
+      ]
+    },
+    {
+      "key": "EDGECOMBE|1201",
+      "county": "EDGECOMBE",
+      "precinct": "1201",
+      "votes": [
+        [393,0,0,0],
+        [20,0,0,0]
+      ]
+    },
+    {
+      "key": "EDGECOMBE|1202",
+      "county": "EDGECOMBE",
+      "precinct": "1202",
+      "votes": [
+        [164,0,0,0],
+        [9,0,0,0]
+      ]
+    },
+    {
+      "key": "EDGECOMBE|1203",
+      "county": "EDGECOMBE",
+      "precinct": "1203",
+      "votes": [
+        [247,0,0,0],
+        [300,0,0,0]
+      ]
+    },
+    {
+      "key": "EDGECOMBE|1204",
+      "county": "EDGECOMBE",
+      "precinct": "1204",
+      "votes": [
+        [145,0,0,0],
+        [13,0,0,0]
+      ]
+    },
+    {
+      "key": "EDGECOMBE|1205",
+      "county": "EDGECOMBE",
+      "precinct": "1205",
+      "votes": [
+        [120,0,0,0],
+        [5,0,0,0]
+      ]
+    },
+    {
+      "key": "EDGECOMBE|1301",
+      "county": "EDGECOMBE",
+      "precinct": "1301",
+      "votes": [
+        [58,0,0,0],
+        [168,0,0,0]
+      ]
+    },
+    {
+      "key": "EDGECOMBE|1401",
+      "county": "EDGECOMBE",
+      "precinct": "1401",
+      "votes": [
+        [40,0,0,0],
+        [212,0,0,0]
+      ]
+    },
+    {
+      "key": "EDGECOMBE|201",
+      "county": "EDGECOMBE",
+      "precinct": "0201",
+      "votes": [
+        [107,0,0,0],
+        [149,0,0,0]
+      ]
+    },
+    {
+      "key": "EDGECOMBE|301",
+      "county": "EDGECOMBE",
+      "precinct": "0301",
+      "votes": [
+        [45,0,0,0],
+        [49,0,0,0]
+      ]
+    },
+    {
+      "key": "EDGECOMBE|401",
+      "county": "EDGECOMBE",
+      "precinct": "0401",
+      "votes": [
+        [73,0,0,0],
+        [63,0,0,0]
+      ]
+    },
+    {
+      "key": "EDGECOMBE|501",
+      "county": "EDGECOMBE",
+      "precinct": "0501",
+      "votes": [
+        [75,0,0,0],
+        [65,0,0,0]
+      ]
+    },
+    {
+      "key": "EDGECOMBE|601",
+      "county": "EDGECOMBE",
+      "precinct": "0601",
+      "votes": [
+        [168,0,0,0],
+        [63,0,0,0]
+      ]
+    },
+    {
+      "key": "EDGECOMBE|701",
+      "county": "EDGECOMBE",
+      "precinct": "0701",
+      "votes": [
+        [188,0,0,0],
+        [75,0,0,0]
+      ]
+    },
+    {
+      "key": "EDGECOMBE|801",
+      "county": "EDGECOMBE",
+      "precinct": "0801",
+      "votes": [
+        [94,0,0,0],
+        [198,0,0,0]
+      ]
+    },
+    {
+      "key": "EDGECOMBE|901",
+      "county": "EDGECOMBE",
+      "precinct": "0901",
+      "votes": [
+        [54,0,0,0],
+        [235,0,0,0]
+      ]
+    },
+    {
+      "key": "MARTIN|BG",
+      "county": "MARTIN",
+      "precinct": "BG",
+      "votes": [
+        [87,138,5,0],
+        [449,265,0,0]
+      ]
+    },
+    {
+      "key": "MARTIN|CR",
+      "county": "MARTIN",
+      "precinct": "CR",
+      "votes": [
+        [95,186,8,0],
+        [181,126,0,0]
+      ]
+    },
+    {
+      "key": "MARTIN|GRF",
+      "county": "MARTIN",
+      "precinct": "GRF",
+      "votes": [
+        [81,130,1,0],
+        [446,207,2,0]
+      ]
+    },
+    {
+      "key": "MARTIN|GSN",
+      "county": "MARTIN",
+      "precinct": "GSN",
+      "votes": [
+        [173,169,3,0],
+        [191,60,6,0]
+      ]
+    },
+    {
+      "key": "MARTIN|HMT",
+      "county": "MARTIN",
+      "precinct": "HMT",
+      "votes": [
+        [153,173,1,0],
+        [141,85,1,0]
+      ]
+    },
+    {
+      "key": "MARTIN|JMV",
+      "county": "MARTIN",
+      "precinct": "JMV",
+      "votes": [
+        [115,283,7,0],
+        [386,388,7,0]
+      ]
+    },
+    {
+      "key": "MARTIN|RBV",
+      "county": "MARTIN",
+      "precinct": "RBV",
+      "votes": [
+        [306,454,6,0],
+        [264,157,3,0]
+      ]
+    },
+    {
+      "key": "MARTIN|WM1",
+      "county": "MARTIN",
+      "precinct": "WM1",
+      "votes": [
+        [180,641,21,0],
+        [262,476,10,0]
+      ]
+    },
+    {
+      "key": "MARTIN|WM2",
+      "county": "MARTIN",
+      "precinct": "WM2",
+      "votes": [
+        [226,768,19,0],
+        [200,375,7,0]
+      ]
+    }
+  ],
+  "other": [
+    {
+      "county": "BERTIE",
+      "label": "ABSENTEE",
+      "votes": [
+        [0,0,47,0],
+        [0,0,4,0]
+      ]
+    },
+    {
+      "county": "BERTIE",
+      "label": "EV-LOB",
+      "votes": [
+        [0,1635,0,0],
+        [0,863,0,0]
+      ]
+    },
+    {
+      "county": "BERTIE",
+      "label": "EV-LW",
+      "votes": [
+        [0,595,0,0],
+        [0,69,0,0]
+      ]
+    },
+    {
+      "county": "BERTIE",
+      "label": "EV-POW",
+      "votes": [
+        [0,648,0,0],
+        [0,306,0,0]
+      ]
+    },
+    {
+      "county": "BERTIE",
+      "label": "PROVISIONAL",
+      "votes": [
+        [0,0,0,0],
+        [0,0,0,0]
+      ]
+    },
+    {
+      "county": "BERTIE",
+      "label": "TRANSFER",
+      "votes": [
+        [0,0,0,0],
+        [0,0,0,0]
+      ]
+    },
+    {
+      "county": "EDGECOMBE",
+      "label": "ABSENTEE",
+      "votes": [
+        [0,0,118,0],
+        [0,0,33,0]
+      ]
+    },
+    {
+      "county": "EDGECOMBE",
+      "label": "EV-BOE",
+      "votes": [
+        [0,3699,0,0],
+        [0,1728,0,0]
+      ]
+    },
+    {
+      "county": "EDGECOMBE",
+      "label": "EV-PINETOPS",
+      "votes": [
+        [0,861,0,0],
+        [0,809,0,0]
+      ]
+    },
+    {
+      "county": "EDGECOMBE",
+      "label": "EV-ROCKY MT",
+      "votes": [
+        [0,4373,0,0],
+        [0,645,0,0]
+      ]
+    },
+    {
+      "county": "EDGECOMBE",
+      "label": "PROVISIONAL",
+      "votes": [
+        [0,0,0,0],
+        [0,0,0,0]
+      ]
+    },
+    {
+      "county": "EDGECOMBE",
+      "label": "TRANSFER",
+      "votes": [
+        [0,0,0,0],
+        [0,0,0,0]
+      ]
+    }
+  ]
+}

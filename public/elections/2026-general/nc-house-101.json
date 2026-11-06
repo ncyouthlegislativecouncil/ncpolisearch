@@ -1,0 +1,111 @@
+{
+  "raceId": "nc-house-101",
+  "candidates": [
+    {"name":"Carolyn G. Logan","party":"D"}
+  ],
+  "precincts": [
+    {
+      "key": "MECKLENBURG|134",
+      "county": "MECKLENBURG",
+      "precinct": "134",
+      "votes": [
+        [910,2071,0,0]
+      ]
+    },
+    {
+      "key": "MECKLENBURG|150",
+      "county": "MECKLENBURG",
+      "precinct": "150",
+      "votes": [
+        [522,1363,0,0]
+      ]
+    },
+    {
+      "key": "MECKLENBURG|209",
+      "county": "MECKLENBURG",
+      "precinct": "209",
+      "votes": [
+        [598,1602,0,0]
+      ]
+    },
+    {
+      "key": "MECKLENBURG|211",
+      "county": "MECKLENBURG",
+      "precinct": "211",
+      "votes": [
+        [1451,4141,0,0]
+      ]
+    },
+    {
+      "key": "MECKLENBURG|223.1",
+      "county": "MECKLENBURG",
+      "precinct": "223.1",
+      "votes": [
+        [1068,2830,0,0]
+      ]
+    },
+    {
+      "key": "MECKLENBURG|224",
+      "county": "MECKLENBURG",
+      "precinct": "224",
+      "votes": [
+        [574,1025,0,0]
+      ]
+    },
+    {
+      "key": "MECKLENBURG|79",
+      "county": "MECKLENBURG",
+      "precinct": "079",
+      "votes": [
+        [403,655,0,0]
+      ]
+    },
+    {
+      "key": "MECKLENBURG|80",
+      "county": "MECKLENBURG",
+      "precinct": "080",
+      "votes": [
+        [734,1229,0,0]
+      ]
+    },
+    {
+      "key": "MECKLENBURG|81",
+      "county": "MECKLENBURG",
+      "precinct": "081",
+      "votes": [
+        [697,1523,0,0]
+      ]
+    },
+    {
+      "key": "MECKLENBURG|89",
+      "county": "MECKLENBURG",
+      "precinct": "089",
+      "votes": [
+        [944,2117,0,0]
+      ]
+    }
+  ],
+  "other": [
+    {
+      "county": "MECKLENBURG",
+      "label": "ABSENTEE BY MAIL",
+      "votes": [
+        [0,0,564,0]
+      ]
+    },
+    {
+      "county": "MECKLENBURG",
+      "label": "PROVISIONALS",
+      "votes": [
+        [0,0,0,0]
+      ]
+    },
+    {
+      "county": "MECKLENBURG",
+      "label": "TRANSFERS",
+      "votes": [
+        [0,0,0,0]
+      ]
+    }
+  ]
+}

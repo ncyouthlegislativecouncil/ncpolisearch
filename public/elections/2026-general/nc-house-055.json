@@ -1,0 +1,253 @@
+{
+  "raceId": "nc-house-055",
+  "candidates": [
+    {"name":"Clancy Baucom","party":"R"},
+    {"name":"John J. Kirkpatrick IV","party":"D"}
+  ],
+  "precincts": [
+    {
+      "key": "ANSON|ANS",
+      "county": "ANSON",
+      "precinct": "ANS",
+      "votes": [
+        [262,80,2,0],
+        [172,83,1,0]
+      ]
+    },
+    {
+      "key": "ANSON|BURN",
+      "county": "ANSON",
+      "precinct": "BURN",
+      "votes": [
+        [435,158,0,0],
+        [103,86,2,0]
+      ]
+    },
+    {
+      "key": "ANSON|GULL",
+      "county": "ANSON",
+      "precinct": "GULL",
+      "votes": [
+        [148,100,0,0],
+        [93,206,4,0]
+      ]
+    },
+    {
+      "key": "ANSON|LILE",
+      "county": "ANSON",
+      "precinct": "LILE",
+      "votes": [
+        [268,221,6,0],
+        [214,530,12,0]
+      ]
+    },
+    {
+      "key": "ANSON|MM",
+      "county": "ANSON",
+      "precinct": "MM",
+      "votes": [
+        [60,71,0,0],
+        [142,310,2,0]
+      ]
+    },
+    {
+      "key": "ANSON|PEAC",
+      "county": "ANSON",
+      "precinct": "PEAC",
+      "votes": [
+        [369,149,0,0],
+        [101,55,1,0]
+      ]
+    },
+    {
+      "key": "ANSON|POLK",
+      "county": "ANSON",
+      "precinct": "POLK",
+      "votes": [
+        [154,89,3,0],
+        [99,69,0,0]
+      ]
+    },
+    {
+      "key": "ANSON|WADES",
+      "county": "ANSON",
+      "precinct": "WADES",
+      "votes": [
+        [339,721,7,0],
+        [423,1390,18,0]
+      ]
+    },
+    {
+      "key": "ANSON|WS",
+      "county": "ANSON",
+      "precinct": "WS",
+      "votes": [
+        [106,24,0,0],
+        [46,15,0,0]
+      ]
+    },
+    {
+      "key": "UNION|1",
+      "county": "UNION",
+      "precinct": "001",
+      "votes": [
+        [35,53,0,0],
+        [110,252,4,0]
+      ]
+    },
+    {
+      "key": "UNION|10",
+      "county": "UNION",
+      "precinct": "010",
+      "votes": [
+        [52,140,4,0],
+        [114,344,4,0]
+      ]
+    },
+    {
+      "key": "UNION|11",
+      "county": "UNION",
+      "precinct": "011",
+      "votes": [
+        [825,658,2,0],
+        [57,166,10,0]
+      ]
+    },
+    {
+      "key": "UNION|2",
+      "county": "UNION",
+      "precinct": "002",
+      "votes": [
+        [95,166,5,0],
+        [137,455,6,0]
+      ]
+    },
+    {
+      "key": "UNION|21",
+      "county": "UNION",
+      "precinct": "021",
+      "votes": [
+        [448,732,4,0],
+        [85,294,10,0]
+      ]
+    },
+    {
+      "key": "UNION|23",
+      "county": "UNION",
+      "precinct": "023",
+      "votes": [
+        [357,392,14,0],
+        [106,344,10,0]
+      ]
+    },
+    {
+      "key": "UNION|24",
+      "county": "UNION",
+      "precinct": "024",
+      "votes": [
+        [435,517,9,0],
+        [76,200,13,0]
+      ]
+    },
+    {
+      "key": "UNION|25",
+      "county": "UNION",
+      "precinct": "025",
+      "votes": [
+        [342,434,8,0],
+        [126,321,13,0]
+      ]
+    },
+    {
+      "key": "UNION|26",
+      "county": "UNION",
+      "precinct": "026",
+      "votes": [
+        [427,329,3,0],
+        [81,190,4,0]
+      ]
+    },
+    {
+      "key": "UNION|27",
+      "county": "UNION",
+      "precinct": "027",
+      "votes": [
+        [364,395,10,0],
+        [67,165,5,0]
+      ]
+    },
+    {
+      "key": "UNION|3",
+      "county": "UNION",
+      "precinct": "003",
+      "votes": [
+        [69,160,6,0],
+        [78,287,8,0]
+      ]
+    },
+    {
+      "key": "UNION|34",
+      "county": "UNION",
+      "precinct": "034",
+      "votes": [
+        [724,937,15,0],
+        [148,487,14,0]
+      ]
+    },
+    {
+      "key": "UNION|36",
+      "county": "UNION",
+      "precinct": "036",
+      "votes": [
+        [327,519,2,0],
+        [104,313,4,0]
+      ]
+    },
+    {
+      "key": "UNION|4",
+      "county": "UNION",
+      "precinct": "004",
+      "votes": [
+        [23,54,6,0],
+        [171,348,14,0]
+      ]
+    },
+    {
+      "key": "UNION|43",
+      "county": "UNION",
+      "precinct": "043",
+      "votes": [
+        [19,38,0,0],
+        [88,219,4,0]
+      ]
+    },
+    {
+      "key": "UNION|7",
+      "county": "UNION",
+      "precinct": "007",
+      "votes": [
+        [443,915,16,0],
+        [310,902,21,0]
+      ]
+    },
+    {
+      "key": "UNION|8",
+      "county": "UNION",
+      "precinct": "008",
+      "votes": [
+        [171,198,4,0],
+        [258,419,9,0]
+      ]
+    },
+    {
+      "key": "UNION|9",
+      "county": "UNION",
+      "precinct": "009",
+      "votes": [
+        [98,124,12,0],
+        [162,268,12,0]
+      ]
+    }
+  ],
+  "other": []
+}

@@ -1,0 +1,638 @@
+{
+  "raceId": "nc-senate-09",
+  "candidates": [
+    {"name":"Brent Jackson","party":"R"}
+  ],
+  "precincts": [
+    {
+      "key": "BLADEN|P10",
+      "county": "BLADEN",
+      "precinct": "P10",
+      "votes": [
+        [125,108,1,0]
+      ]
+    },
+    {
+      "key": "BLADEN|P15",
+      "county": "BLADEN",
+      "precinct": "P15",
+      "votes": [
+        [537,526,11,0]
+      ]
+    },
+    {
+      "key": "BLADEN|P201",
+      "county": "BLADEN",
+      "precinct": "P201",
+      "votes": [
+        [272,316,2,0]
+      ]
+    },
+    {
+      "key": "BLADEN|P202",
+      "county": "BLADEN",
+      "precinct": "P202",
+      "votes": [
+        [341,522,4,0]
+      ]
+    },
+    {
+      "key": "BLADEN|P25",
+      "county": "BLADEN",
+      "precinct": "P25",
+      "votes": [
+        [185,105,2,0]
+      ]
+    },
+    {
+      "key": "BLADEN|P30",
+      "county": "BLADEN",
+      "precinct": "P30",
+      "votes": [
+        [60,117,1,0]
+      ]
+    },
+    {
+      "key": "BLADEN|P35",
+      "county": "BLADEN",
+      "precinct": "P35",
+      "votes": [
+        [51,93,2,0]
+      ]
+    },
+    {
+      "key": "BLADEN|P40",
+      "county": "BLADEN",
+      "precinct": "P40",
+      "votes": [
+        [345,367,0,0]
+      ]
+    },
+    {
+      "key": "BLADEN|P45",
+      "county": "BLADEN",
+      "precinct": "P45",
+      "votes": [
+        [112,60,0,0]
+      ]
+    },
+    {
+      "key": "BLADEN|P501",
+      "county": "BLADEN",
+      "precinct": "P501",
+      "votes": [
+        [230,535,13,0]
+      ]
+    },
+    {
+      "key": "BLADEN|P502",
+      "county": "BLADEN",
+      "precinct": "P502",
+      "votes": [
+        [131,293,11,0]
+      ]
+    },
+    {
+      "key": "BLADEN|P55",
+      "county": "BLADEN",
+      "precinct": "P55",
+      "votes": [
+        [161,33,0,0]
+      ]
+    },
+    {
+      "key": "BLADEN|P60",
+      "county": "BLADEN",
+      "precinct": "P60",
+      "votes": [
+        [287,140,11,0]
+      ]
+    },
+    {
+      "key": "BLADEN|P65",
+      "county": "BLADEN",
+      "precinct": "P65",
+      "votes": [
+        [172,111,3,0]
+      ]
+    },
+    {
+      "key": "BLADEN|P70",
+      "county": "BLADEN",
+      "precinct": "P70",
+      "votes": [
+        [79,61,0,0]
+      ]
+    },
+    {
+      "key": "BLADEN|P75",
+      "county": "BLADEN",
+      "precinct": "P75",
+      "votes": [
+        [121,114,2,0]
+      ]
+    },
+    {
+      "key": "BLADEN|P80",
+      "county": "BLADEN",
+      "precinct": "P80",
+      "votes": [
+        [191,214,2,0]
+      ]
+    },
+    {
+      "key": "DUPLIN|ALBE",
+      "county": "DUPLIN",
+      "precinct": "ALBE",
+      "votes": [
+        [365,148,1,0]
+      ]
+    },
+    {
+      "key": "DUPLIN|BEUL",
+      "county": "DUPLIN",
+      "precinct": "BEUL",
+      "votes": [
+        [610,636,7,0]
+      ]
+    },
+    {
+      "key": "DUPLIN|CALY",
+      "county": "DUPLIN",
+      "precinct": "CALY",
+      "votes": [
+        [269,50,1,0]
+      ]
+    },
+    {
+      "key": "DUPLIN|CFRK",
+      "county": "DUPLIN",
+      "precinct": "CFRK",
+      "votes": [
+        [244,87,3,0]
+      ]
+    },
+    {
+      "key": "DUPLIN|CHAR",
+      "county": "DUPLIN",
+      "precinct": "CHAR",
+      "votes": [
+        [129,198,1,0]
+      ]
+    },
+    {
+      "key": "DUPLIN|CHIN",
+      "county": "DUPLIN",
+      "precinct": "CHIN",
+      "votes": [
+        [237,134,3,0]
+      ]
+    },
+    {
+      "key": "DUPLIN|CYCK",
+      "county": "DUPLIN",
+      "precinct": "CYCK",
+      "votes": [
+        [449,181,4,0]
+      ]
+    },
+    {
+      "key": "DUPLIN|FAIS",
+      "county": "DUPLIN",
+      "precinct": "FAIS",
+      "votes": [
+        [266,163,1,0]
+      ]
+    },
+    {
+      "key": "DUPLIN|GLIS",
+      "county": "DUPLIN",
+      "precinct": "GLIS",
+      "votes": [
+        [199,89,3,0]
+      ]
+    },
+    {
+      "key": "DUPLIN|HALL",
+      "county": "DUPLIN",
+      "precinct": "HALL",
+      "votes": [
+        [273,234,7,0]
+      ]
+    },
+    {
+      "key": "DUPLIN|KENA",
+      "county": "DUPLIN",
+      "precinct": "KENA",
+      "votes": [
+        [306,607,6,0]
+      ]
+    },
+    {
+      "key": "DUPLIN|MAGN",
+      "county": "DUPLIN",
+      "precinct": "MAGN",
+      "votes": [
+        [167,184,1,0]
+      ]
+    },
+    {
+      "key": "DUPLIN|ROSE",
+      "county": "DUPLIN",
+      "precinct": "ROSE",
+      "votes": [
+        [285,189,13,0]
+      ]
+    },
+    {
+      "key": "DUPLIN|SMCA",
+      "county": "DUPLIN",
+      "precinct": "SMCA",
+      "votes": [
+        [281,266,0,0]
+      ]
+    },
+    {
+      "key": "DUPLIN|WARS",
+      "county": "DUPLIN",
+      "precinct": "WARS",
+      "votes": [
+        [260,395,4,0]
+      ]
+    },
+    {
+      "key": "DUPLIN|WLLC",
+      "county": "DUPLIN",
+      "precinct": "WLLC",
+      "votes": [
+        [623,1364,46,0]
+      ]
+    },
+    {
+      "key": "DUPLIN|WOLF",
+      "county": "DUPLIN",
+      "precinct": "WOLF",
+      "votes": [
+        [405,209,0,0]
+      ]
+    },
+    {
+      "key": "JONES|P01",
+      "county": "JONES",
+      "precinct": "P01",
+      "votes": [
+        [155,0,0,0]
+      ]
+    },
+    {
+      "key": "JONES|P02",
+      "county": "JONES",
+      "precinct": "P02",
+      "votes": [
+        [117,0,0,0]
+      ]
+    },
+    {
+      "key": "JONES|P03",
+      "county": "JONES",
+      "precinct": "P03",
+      "votes": [
+        [151,0,0,0]
+      ]
+    },
+    {
+      "key": "JONES|P04",
+      "county": "JONES",
+      "precinct": "P04",
+      "votes": [
+        [377,0,0,0]
+      ]
+    },
+    {
+      "key": "JONES|P05",
+      "county": "JONES",
+      "precinct": "P05",
+      "votes": [
+        [162,0,0,0]
+      ]
+    },
+    {
+      "key": "JONES|P06",
+      "county": "JONES",
+      "precinct": "P06",
+      "votes": [
+        [156,0,0,0]
+      ]
+    },
+    {
+      "key": "JONES|P07",
+      "county": "JONES",
+      "precinct": "P07",
+      "votes": [
+        [215,0,0,0]
+      ]
+    },
+    {
+      "key": "PENDER|BW01",
+      "county": "PENDER",
+      "precinct": "BW01",
+      "votes": [
+        [473,1290,29,0]
+      ]
+    },
+    {
+      "key": "PENDER|CL05",
+      "county": "PENDER",
+      "precinct": "CL05",
+      "votes": [
+        [174,178,3,0]
+      ]
+    },
+    {
+      "key": "PENDER|LT18",
+      "county": "PENDER",
+      "precinct": "LT18",
+      "votes": [
+        [716,1567,39,0]
+      ]
+    },
+    {
+      "key": "PENDER|MC07",
+      "county": "PENDER",
+      "precinct": "MC07",
+      "votes": [
+        [313,482,5,0]
+      ]
+    },
+    {
+      "key": "PENDER|MT19",
+      "county": "PENDER",
+      "precinct": "MT19",
+      "votes": [
+        [448,1158,18,0]
+      ]
+    },
+    {
+      "key": "PENDER|PL18",
+      "county": "PENDER",
+      "precinct": "PL18",
+      "votes": [
+        [416,500,6,0]
+      ]
+    },
+    {
+      "key": "PENDER|RP21",
+      "county": "PENDER",
+      "precinct": "RP21",
+      "votes": [
+        [780,1383,38,0]
+      ]
+    },
+    {
+      "key": "PENDER|SC13",
+      "county": "PENDER",
+      "precinct": "SC13",
+      "votes": [
+        [736,969,28,0]
+      ]
+    },
+    {
+      "key": "PENDER|SH12",
+      "county": "PENDER",
+      "precinct": "SH12",
+      "votes": [
+        [478,760,15,0]
+      ]
+    },
+    {
+      "key": "PENDER|SP15",
+      "county": "PENDER",
+      "precinct": "SP15",
+      "votes": [
+        [688,1095,39,0]
+      ]
+    },
+    {
+      "key": "PENDER|UH08",
+      "county": "PENDER",
+      "precinct": "UH08",
+      "votes": [
+        [96,59,2,0]
+      ]
+    },
+    {
+      "key": "PENDER|UT14",
+      "county": "PENDER",
+      "precinct": "UT14",
+      "votes": [
+        [679,1310,41,0]
+      ]
+    },
+    {
+      "key": "SAMPSON|AUTR",
+      "county": "SAMPSON",
+      "precinct": "AUTR",
+      "votes": [
+        [394,241,8,0]
+      ]
+    },
+    {
+      "key": "SAMPSON|CLCE",
+      "county": "SAMPSON",
+      "precinct": "CLCE",
+      "votes": [
+        [45,66,1,0]
+      ]
+    },
+    {
+      "key": "SAMPSON|CLEA",
+      "county": "SAMPSON",
+      "precinct": "CLEA",
+      "votes": [
+        [267,419,3,0]
+      ]
+    },
+    {
+      "key": "SAMPSON|CLEM",
+      "county": "SAMPSON",
+      "precinct": "CLEM",
+      "votes": [
+        [418,178,3,0]
+      ]
+    },
+    {
+      "key": "SAMPSON|CLNE",
+      "county": "SAMPSON",
+      "precinct": "CLNE",
+      "votes": [
+        [206,429,2,0]
+      ]
+    },
+    {
+      "key": "SAMPSON|CLSW",
+      "county": "SAMPSON",
+      "precinct": "CLSW",
+      "votes": [
+        [156,297,3,0]
+      ]
+    },
+    {
+      "key": "SAMPSON|CLWE",
+      "county": "SAMPSON",
+      "precinct": "CLWE",
+      "votes": [
+        [262,434,4,0]
+      ]
+    },
+    {
+      "key": "SAMPSON|GARL",
+      "county": "SAMPSON",
+      "precinct": "GARL",
+      "votes": [
+        [197,99,4,0]
+      ]
+    },
+    {
+      "key": "SAMPSON|GIDD",
+      "county": "SAMPSON",
+      "precinct": "GIDD",
+      "votes": [
+        [175,175,3,0]
+      ]
+    },
+    {
+      "key": "SAMPSON|HARR",
+      "county": "SAMPSON",
+      "precinct": "HARR",
+      "votes": [
+        [169,227,5,0]
+      ]
+    },
+    {
+      "key": "SAMPSON|HERR",
+      "county": "SAMPSON",
+      "precinct": "HERR",
+      "votes": [
+        [218,144,5,0]
+      ]
+    },
+    {
+      "key": "SAMPSON|INGO",
+      "county": "SAMPSON",
+      "precinct": "INGO",
+      "votes": [
+        [134,179,3,0]
+      ]
+    },
+    {
+      "key": "SAMPSON|KEEN",
+      "county": "SAMPSON",
+      "precinct": "KEEN",
+      "votes": [
+        [258,211,1,0]
+      ]
+    },
+    {
+      "key": "SAMPSON|KFRK",
+      "county": "SAMPSON",
+      "precinct": "KFRK",
+      "votes": [
+        [177,402,12,0]
+      ]
+    },
+    {
+      "key": "SAMPSON|LAKE",
+      "county": "SAMPSON",
+      "precinct": "LAKE",
+      "votes": [
+        [270,332,7,0]
+      ]
+    },
+    {
+      "key": "SAMPSON|MING",
+      "county": "SAMPSON",
+      "precinct": "MING",
+      "votes": [
+        [615,405,10,0]
+      ]
+    },
+    {
+      "key": "SAMPSON|NGRV",
+      "county": "SAMPSON",
+      "precinct": "NGRV",
+      "votes": [
+        [241,268,2,0]
+      ]
+    },
+    {
+      "key": "SAMPSON|ROSE",
+      "county": "SAMPSON",
+      "precinct": "ROSE",
+      "votes": [
+        [287,150,2,0]
+      ]
+    },
+    {
+      "key": "SAMPSON|ROWA",
+      "county": "SAMPSON",
+      "precinct": "ROWA",
+      "votes": [
+        [198,297,1,0]
+      ]
+    },
+    {
+      "key": "SAMPSON|SBRG",
+      "county": "SAMPSON",
+      "precinct": "SBRG",
+      "votes": [
+        [258,126,4,0]
+      ]
+    },
+    {
+      "key": "SAMPSON|TURK",
+      "county": "SAMPSON",
+      "precinct": "TURK",
+      "votes": [
+        [178,146,4,0]
+      ]
+    },
+    {
+      "key": "SAMPSON|WBRK",
+      "county": "SAMPSON",
+      "precinct": "WBRK",
+      "votes": [
+        [288,269,1,0]
+      ]
+    }
+  ],
+  "other": [
+    {
+      "county": "JONES",
+      "label": "ABSENTEE",
+      "votes": [
+        [0,0,27,0]
+      ]
+    },
+    {
+      "county": "JONES",
+      "label": "EARLY VOTING",
+      "votes": [
+        [0,1239,0,0]
+      ]
+    },
+    {
+      "county": "JONES",
+      "label": "PROVISIONAL",
+      "votes": [
+        [0,0,0,0]
+      ]
+    },
+    {
+      "county": "JONES",
+      "label": "TRANSFER",
+      "votes": [
+        [0,0,0,0]
+      ]
+    }
+  ]
+}

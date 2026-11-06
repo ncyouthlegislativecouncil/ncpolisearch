@@ -1,0 +1,237 @@
+{
+  "raceId": "nc-house-031",
+  "candidates": [
+    {"name":"Zack Hawkins","party":"D"}
+  ],
+  "precincts": [
+    {
+      "key": "DURHAM|10",
+      "county": "DURHAM",
+      "precinct": "10",
+      "votes": [
+        [386,0,0,0]
+      ]
+    },
+    {
+      "key": "DURHAM|12",
+      "county": "DURHAM",
+      "precinct": "12",
+      "votes": [
+        [124,0,0,0]
+      ]
+    },
+    {
+      "key": "DURHAM|13",
+      "county": "DURHAM",
+      "precinct": "13",
+      "votes": [
+        [116,0,0,0]
+      ]
+    },
+    {
+      "key": "DURHAM|14",
+      "county": "DURHAM",
+      "precinct": "14",
+      "votes": [
+        [348,0,0,0]
+      ]
+    },
+    {
+      "key": "DURHAM|15",
+      "county": "DURHAM",
+      "precinct": "15",
+      "votes": [
+        [221,0,0,0]
+      ]
+    },
+    {
+      "key": "DURHAM|18",
+      "county": "DURHAM",
+      "precinct": "18",
+      "votes": [
+        [294,0,0,0]
+      ]
+    },
+    {
+      "key": "DURHAM|30-2",
+      "county": "DURHAM",
+      "precinct": "30-2",
+      "votes": [
+        [881,0,0,0]
+      ]
+    },
+    {
+      "key": "DURHAM|30-3",
+      "county": "DURHAM",
+      "precinct": "30-3",
+      "votes": [
+        [607,0,0,0]
+      ]
+    },
+    {
+      "key": "DURHAM|30-4",
+      "county": "DURHAM",
+      "precinct": "30-4",
+      "votes": [
+        [684,0,0,0]
+      ]
+    },
+    {
+      "key": "DURHAM|31",
+      "county": "DURHAM",
+      "precinct": "31",
+      "votes": [
+        [968,0,0,0]
+      ]
+    },
+    {
+      "key": "DURHAM|32",
+      "county": "DURHAM",
+      "precinct": "32",
+      "votes": [
+        [617,0,0,0]
+      ]
+    },
+    {
+      "key": "DURHAM|33-1",
+      "county": "DURHAM",
+      "precinct": "33-1",
+      "votes": [
+        [758,0,0,0]
+      ]
+    },
+    {
+      "key": "DURHAM|33-2",
+      "county": "DURHAM",
+      "precinct": "33-2",
+      "votes": [
+        [715,0,0,0]
+      ]
+    },
+    {
+      "key": "DURHAM|47",
+      "county": "DURHAM",
+      "precinct": "47",
+      "votes": [
+        [281,0,0,0]
+      ]
+    },
+    {
+      "key": "DURHAM|52",
+      "county": "DURHAM",
+      "precinct": "52",
+      "votes": [
+        [409,0,0,0]
+      ]
+    },
+    {
+      "key": "DURHAM|55-11",
+      "county": "DURHAM",
+      "precinct": "55-11",
+      "votes": [
+        [211,0,0,0]
+      ]
+    },
+    {
+      "key": "DURHAM|55-49",
+      "county": "DURHAM",
+      "precinct": "55-49",
+      "votes": [
+        [167,0,0,0]
+      ]
+    }
+  ],
+  "other": [
+    {
+      "county": "DURHAM",
+      "label": "ABSENTEE",
+      "votes": [
+        [0,0,878,0]
+      ]
+    },
+    {
+      "county": "DURHAM",
+      "label": "EV BOE",
+      "votes": [
+        [0,1186,0,0]
+      ]
+    },
+    {
+      "county": "DURHAM",
+      "label": "EV DUKE",
+      "votes": [
+        [0,606,0,0]
+      ]
+    },
+    {
+      "county": "DURHAM",
+      "label": "EV ENO",
+      "votes": [
+        [0,201,0,0]
+      ]
+    },
+    {
+      "county": "DURHAM",
+      "label": "EV ERL",
+      "votes": [
+        [0,11632,0,0]
+      ]
+    },
+    {
+      "county": "DURHAM",
+      "label": "EV LRC",
+      "votes": [
+        [0,16,0,0]
+      ]
+    },
+    {
+      "county": "DURHAM",
+      "label": "EV MAIN",
+      "votes": [
+        [0,2881,0,0]
+      ]
+    },
+    {
+      "county": "DURHAM",
+      "label": "EV NCCU",
+      "votes": [
+        [0,3045,0,0]
+      ]
+    },
+    {
+      "county": "DURHAM",
+      "label": "EV NRL",
+      "votes": [
+        [0,210,0,0]
+      ]
+    },
+    {
+      "county": "DURHAM",
+      "label": "EV SHS",
+      "votes": [
+        [0,2504,0,0]
+      ]
+    },
+    {
+      "county": "DURHAM",
+      "label": "EV SRL",
+      "votes": [
+        [0,6066,0,0]
+      ]
+    },
+    {
+      "county": "DURHAM",
+      "label": "PROVISIONAL",
+      "votes": [
+        [0,0,0,0]
+      ]
+    },
+    {
+      "county": "DURHAM",
+      "label": "TRANSFER",
+      "votes": [
+        [0,0,0,0]
+      ]
+    }
+  ]
+}

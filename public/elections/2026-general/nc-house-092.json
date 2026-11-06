@@ -1,0 +1,103 @@
+{
+  "raceId": "nc-house-092",
+  "candidates": [
+    {"name":"Terry Brown","party":"D"}
+  ],
+  "precincts": [
+    {
+      "key": "MECKLENBURG|122",
+      "county": "MECKLENBURG",
+      "precinct": "122",
+      "votes": [
+        [758,1663,0,0]
+      ]
+    },
+    {
+      "key": "MECKLENBURG|138",
+      "county": "MECKLENBURG",
+      "precinct": "138",
+      "votes": [
+        [570,1017,0,0]
+      ]
+    },
+    {
+      "key": "MECKLENBURG|200",
+      "county": "MECKLENBURG",
+      "precinct": "200",
+      "votes": [
+        [580,1222,0,0]
+      ]
+    },
+    {
+      "key": "MECKLENBURG|228",
+      "county": "MECKLENBURG",
+      "precinct": "228",
+      "votes": [
+        [688,1341,0,0]
+      ]
+    },
+    {
+      "key": "MECKLENBURG|229",
+      "county": "MECKLENBURG",
+      "precinct": "229",
+      "votes": [
+        [1878,5620,0,0]
+      ]
+    },
+    {
+      "key": "MECKLENBURG|230",
+      "county": "MECKLENBURG",
+      "precinct": "230",
+      "votes": [
+        [1544,3734,0,0]
+      ]
+    },
+    {
+      "key": "MECKLENBURG|243",
+      "county": "MECKLENBURG",
+      "precinct": "243",
+      "votes": [
+        [1286,4092,0,0]
+      ]
+    },
+    {
+      "key": "MECKLENBURG|39",
+      "county": "MECKLENBURG",
+      "precinct": "039",
+      "votes": [
+        [413,843,0,0]
+      ]
+    },
+    {
+      "key": "MECKLENBURG|53",
+      "county": "MECKLENBURG",
+      "precinct": "053",
+      "votes": [
+        [550,974,0,0]
+      ]
+    }
+  ],
+  "other": [
+    {
+      "county": "MECKLENBURG",
+      "label": "ABSENTEE BY MAIL",
+      "votes": [
+        [0,0,801,0]
+      ]
+    },
+    {
+      "county": "MECKLENBURG",
+      "label": "PROVISIONALS",
+      "votes": [
+        [0,0,0,0]
+      ]
+    },
+    {
+      "county": "MECKLENBURG",
+      "label": "TRANSFERS",
+      "votes": [
+        [0,0,0,0]
+      ]
+    }
+  ]
+}

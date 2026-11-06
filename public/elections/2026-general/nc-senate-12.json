@@ -1,0 +1,244 @@
+{
+  "raceId": "nc-senate-12",
+  "candidates": [
+    {"name":"Jim Burgin","party":"R"},
+    {"name":"Tanya White Anderson","party":"D"}
+  ],
+  "precincts": [
+    {
+      "key": "HARNETT|PR08",
+      "county": "HARNETT",
+      "precinct": "PR08",
+      "votes": [
+        [986,1798,41,0],
+        [673,2109,120,0]
+      ]
+    },
+    {
+      "key": "HARNETT|PR23",
+      "county": "HARNETT",
+      "precinct": "PR23",
+      "votes": [
+        [871,1146,24,0],
+        [388,939,36,0]
+      ]
+    },
+    {
+      "key": "HARNETT|PR24",
+      "county": "HARNETT",
+      "precinct": "PR24",
+      "votes": [
+        [963,1422,27,0],
+        [377,826,33,0]
+      ]
+    },
+    {
+      "key": "HARNETT|PR25",
+      "county": "HARNETT",
+      "precinct": "PR25",
+      "votes": [
+        [389,446,12,0],
+        [264,526,17,0]
+      ]
+    },
+    {
+      "key": "HARNETT|PR26",
+      "county": "HARNETT",
+      "precinct": "PR26",
+      "votes": [
+        [467,848,18,0],
+        [204,520,23,0]
+      ]
+    },
+    {
+      "key": "HARNETT|PR28",
+      "county": "HARNETT",
+      "precinct": "PR28",
+      "votes": [
+        [1364,1677,54,0],
+        [632,1595,103,0]
+      ]
+    },
+    {
+      "key": "HARNETT|PR29",
+      "county": "HARNETT",
+      "precinct": "PR29",
+      "votes": [
+        [542,875,24,0],
+        [339,674,51,0]
+      ]
+    },
+    {
+      "key": "HARNETT|PR32",
+      "county": "HARNETT",
+      "precinct": "PR32",
+      "votes": [
+        [579,985,31,0],
+        [286,889,44,0]
+      ]
+    },
+    {
+      "key": "HARNETT|PR33",
+      "county": "HARNETT",
+      "precinct": "PR33",
+      "votes": [
+        [575,977,31,0],
+        [401,1215,56,0]
+      ]
+    },
+    {
+      "key": "HARNETT|PR34",
+      "county": "HARNETT",
+      "precinct": "PR34",
+      "votes": [
+        [562,935,41,0],
+        [420,1164,117,0]
+      ]
+    },
+    {
+      "key": "HARNETT|PR35",
+      "county": "HARNETT",
+      "precinct": "PR35",
+      "votes": [
+        [331,588,17,0],
+        [186,528,28,0]
+      ]
+    },
+    {
+      "key": "HARNETT|PR36",
+      "county": "HARNETT",
+      "precinct": "PR36",
+      "votes": [
+        [420,856,30,0],
+        [433,1439,89,0]
+      ]
+    },
+    {
+      "key": "HARNETT|PR37",
+      "county": "HARNETT",
+      "precinct": "PR37",
+      "votes": [
+        [573,673,40,0],
+        [525,947,71,0]
+      ]
+    },
+    {
+      "key": "HARNETT|PR38",
+      "county": "HARNETT",
+      "precinct": "PR38",
+      "votes": [
+        [341,334,5,0],
+        [327,629,3,0]
+      ]
+    },
+    {
+      "key": "HARNETT|PR39",
+      "county": "HARNETT",
+      "precinct": "PR39",
+      "votes": [
+        [284,399,8,0],
+        [240,668,12,0]
+      ]
+    },
+    {
+      "key": "LEE|A1",
+      "county": "LEE",
+      "precinct": "A1",
+      "votes": [
+        [289,572,5,0],
+        [395,1163,63,0]
+      ]
+    },
+    {
+      "key": "LEE|A2",
+      "county": "LEE",
+      "precinct": "A2",
+      "votes": [
+        [221,495,12,0],
+        [485,1305,37,0]
+      ]
+    },
+    {
+      "key": "LEE|B1",
+      "county": "LEE",
+      "precinct": "B1",
+      "votes": [
+        [423,382,13,0],
+        [198,365,16,0]
+      ]
+    },
+    {
+      "key": "LEE|B2",
+      "county": "LEE",
+      "precinct": "B2",
+      "votes": [
+        [168,269,7,0],
+        [242,573,15,0]
+      ]
+    },
+    {
+      "key": "LEE|C1",
+      "county": "LEE",
+      "precinct": "C1",
+      "votes": [
+        [463,731,13,0],
+        [317,657,23,0]
+      ]
+    },
+    {
+      "key": "LEE|C2",
+      "county": "LEE",
+      "precinct": "C2",
+      "votes": [
+        [411,975,20,0],
+        [224,599,30,0]
+      ]
+    },
+    {
+      "key": "LEE|D1",
+      "county": "LEE",
+      "precinct": "D1",
+      "votes": [
+        [453,885,14,0],
+        [253,867,41,0]
+      ]
+    },
+    {
+      "key": "LEE|D2",
+      "county": "LEE",
+      "precinct": "D2",
+      "votes": [
+        [445,893,13,0],
+        [282,858,38,0]
+      ]
+    },
+    {
+      "key": "LEE|E1",
+      "county": "LEE",
+      "precinct": "E1",
+      "votes": [
+        [492,475,8,0],
+        [182,320,10,0]
+      ]
+    },
+    {
+      "key": "LEE|E2",
+      "county": "LEE",
+      "precinct": "E2",
+      "votes": [
+        [309,664,25,0],
+        [329,968,59,0]
+      ]
+    },
+    {
+      "key": "SAMPSON|PLVW",
+      "county": "SAMPSON",
+      "precinct": "PLVW",
+      "votes": [
+        [635,389,5,0],
+        [127,147,4,0]
+      ]
+    }
+  ],
+  "other": []
+}

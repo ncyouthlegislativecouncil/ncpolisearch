@@ -1,0 +1,511 @@
+{
+  "raceId": "nc-house-027",
+  "candidates": [
+    {"name":"Rodney D. Pierce","party":"D"},
+    {"name":"David Woodson","party":"R"}
+  ],
+  "precincts": [
+    {
+      "key": "HALIFAX|BUTWD",
+      "county": "HALIFAX",
+      "precinct": "BUTWD",
+      "votes": [
+        [42,0,0,0],
+        [59,0,0,0]
+      ]
+    },
+    {
+      "key": "HALIFAX|CONC",
+      "county": "HALIFAX",
+      "precinct": "CONC",
+      "votes": [
+        [52,0,0,0],
+        [27,0,0,0]
+      ]
+    },
+    {
+      "key": "HALIFAX|ENF",
+      "county": "HALIFAX",
+      "precinct": "ENF",
+      "votes": [
+        [610,0,0,0],
+        [116,0,0,0]
+      ]
+    },
+    {
+      "key": "HALIFAX|FAUCT",
+      "county": "HALIFAX",
+      "precinct": "FAUCT",
+      "votes": [
+        [75,0,0,0],
+        [184,0,0,0]
+      ]
+    },
+    {
+      "key": "HALIFAX|HAL",
+      "county": "HALIFAX",
+      "precinct": "HAL",
+      "votes": [
+        [141,0,0,0],
+        [77,0,0,0]
+      ]
+    },
+    {
+      "key": "HALIFAX|HOL",
+      "county": "HALIFAX",
+      "precinct": "HOL",
+      "votes": [
+        [329,0,0,0],
+        [51,0,0,0]
+      ]
+    },
+    {
+      "key": "HALIFAX|HPR",
+      "county": "HALIFAX",
+      "precinct": "HPR",
+      "votes": [
+        [126,0,0,0],
+        [138,0,0,0]
+      ]
+    },
+    {
+      "key": "HALIFAX|LIT",
+      "county": "HALIFAX",
+      "precinct": "LIT",
+      "votes": [
+        [321,0,0,0],
+        [397,0,0,0]
+      ]
+    },
+    {
+      "key": "HALIFAX|RINGW",
+      "county": "HALIFAX",
+      "precinct": "RINGW",
+      "votes": [
+        [188,0,0,0],
+        [33,0,0,0]
+      ]
+    },
+    {
+      "key": "HALIFAX|RR 10",
+      "county": "HALIFAX",
+      "precinct": "RR 10",
+      "votes": [
+        [199,0,0,0],
+        [322,0,0,0]
+      ]
+    },
+    {
+      "key": "HALIFAX|RR 11",
+      "county": "HALIFAX",
+      "precinct": "RR 11",
+      "votes": [
+        [172,0,0,0],
+        [353,0,0,0]
+      ]
+    },
+    {
+      "key": "HALIFAX|RR1-4",
+      "county": "HALIFAX",
+      "precinct": "RR1-4",
+      "votes": [
+        [209,0,0,0],
+        [410,0,0,0]
+      ]
+    },
+    {
+      "key": "HALIFAX|RR7-9",
+      "county": "HALIFAX",
+      "precinct": "RR7-9",
+      "votes": [
+        [412,0,0,0],
+        [176,0,0,0]
+      ]
+    },
+    {
+      "key": "HALIFAX|RRCE",
+      "county": "HALIFAX",
+      "precinct": "RRCE",
+      "votes": [
+        [196,0,0,0],
+        [320,0,0,0]
+      ]
+    },
+    {
+      "key": "HALIFAX|SN",
+      "county": "HALIFAX",
+      "precinct": "SN",
+      "votes": [
+        [196,0,0,0],
+        [120,0,0,0]
+      ]
+    },
+    {
+      "key": "HALIFAX|WEL 3",
+      "county": "HALIFAX",
+      "precinct": "WEL 3",
+      "votes": [
+        [199,0,0,0],
+        [101,0,0,0]
+      ]
+    },
+    {
+      "key": "HALIFAX|WEL1-2",
+      "county": "HALIFAX",
+      "precinct": "WEL1-2",
+      "votes": [
+        [164,0,0,0],
+        [63,0,0,0]
+      ]
+    },
+    {
+      "key": "NORTHAMPTON|COMIPE",
+      "county": "NORTHAMPTON",
+      "precinct": "COMIPE",
+      "votes": [
+        [108,0,0,0],
+        [250,0,0,0]
+      ]
+    },
+    {
+      "key": "NORTHAMPTON|CREEKS",
+      "county": "NORTHAMPTON",
+      "precinct": "CREEKS",
+      "votes": [
+        [46,0,0,0],
+        [84,0,0,0]
+      ]
+    },
+    {
+      "key": "NORTHAMPTON|GALATI",
+      "county": "NORTHAMPTON",
+      "precinct": "GALATI",
+      "votes": [
+        [53,0,0,0],
+        [85,0,0,0]
+      ]
+    },
+    {
+      "key": "NORTHAMPTON|GAPL",
+      "county": "NORTHAMPTON",
+      "precinct": "GAPL",
+      "votes": [
+        [320,0,0,0],
+        [57,0,0,0]
+      ]
+    },
+    {
+      "key": "NORTHAMPTON|GASTON",
+      "county": "NORTHAMPTON",
+      "precinct": "GASTON",
+      "votes": [
+        [254,0,0,0],
+        [123,0,0,0]
+      ]
+    },
+    {
+      "key": "NORTHAMPTON|JARE",
+      "county": "NORTHAMPTON",
+      "precinct": "JARE",
+      "votes": [
+        [45,0,0,0],
+        [76,0,0,0]
+      ]
+    },
+    {
+      "key": "NORTHAMPTON|LAKE G",
+      "county": "NORTHAMPTON",
+      "precinct": "LAKE G",
+      "votes": [
+        [110,0,0,0],
+        [203,0,0,0]
+      ]
+    },
+    {
+      "key": "NORTHAMPTON|LASKER",
+      "county": "NORTHAMPTON",
+      "precinct": "LASKER",
+      "votes": [
+        [12,0,0,0],
+        [67,0,0,0]
+      ]
+    },
+    {
+      "key": "NORTHAMPTON|NEWTOW",
+      "county": "NORTHAMPTON",
+      "precinct": "NEWTOW",
+      "votes": [
+        [59,0,0,0],
+        [107,0,0,0]
+      ]
+    },
+    {
+      "key": "NORTHAMPTON|RICH S",
+      "county": "NORTHAMPTON",
+      "precinct": "RICH S",
+      "votes": [
+        [122,0,0,0],
+        [61,0,0,0]
+      ]
+    },
+    {
+      "key": "NORTHAMPTON|SEABOA",
+      "county": "NORTHAMPTON",
+      "precinct": "SEABOA",
+      "votes": [
+        [134,0,0,0],
+        [56,0,0,0]
+      ]
+    },
+    {
+      "key": "NORTHAMPTON|SEVERN",
+      "county": "NORTHAMPTON",
+      "precinct": "SEVERN",
+      "votes": [
+        [46,0,0,0],
+        [87,0,0,0]
+      ]
+    },
+    {
+      "key": "NORTHAMPTON|WOPO",
+      "county": "NORTHAMPTON",
+      "precinct": "WOPO",
+      "votes": [
+        [96,0,0,0],
+        [85,0,0,0]
+      ]
+    },
+    {
+      "key": "WARREN|1",
+      "county": "WARREN",
+      "precinct": "001",
+      "votes": [
+        [95,191,13,0],
+        [275,177,4,0]
+      ]
+    },
+    {
+      "key": "WARREN|10",
+      "county": "WARREN",
+      "precinct": "010",
+      "votes": [
+        [158,555,10,0],
+        [63,147,1,0]
+      ]
+    },
+    {
+      "key": "WARREN|11",
+      "county": "WARREN",
+      "precinct": "011",
+      "votes": [
+        [30,73,3,0],
+        [58,21,0,0]
+      ]
+    },
+    {
+      "key": "WARREN|12",
+      "county": "WARREN",
+      "precinct": "012",
+      "votes": [
+        [91,131,10,0],
+        [255,182,11,0]
+      ]
+    },
+    {
+      "key": "WARREN|13",
+      "county": "WARREN",
+      "precinct": "013",
+      "votes": [
+        [58,131,1,0],
+        [73,42,0,0]
+      ]
+    },
+    {
+      "key": "WARREN|14",
+      "county": "WARREN",
+      "precinct": "014",
+      "votes": [
+        [107,387,6,0],
+        [62,137,4,0]
+      ]
+    },
+    {
+      "key": "WARREN|2",
+      "county": "WARREN",
+      "precinct": "002",
+      "votes": [
+        [66,162,9,0],
+        [178,209,5,0]
+      ]
+    },
+    {
+      "key": "WARREN|3",
+      "county": "WARREN",
+      "precinct": "003",
+      "votes": [
+        [110,214,5,0],
+        [113,87,0,0]
+      ]
+    },
+    {
+      "key": "WARREN|4",
+      "county": "WARREN",
+      "precinct": "004",
+      "votes": [
+        [74,186,6,0],
+        [96,110,0,0]
+      ]
+    },
+    {
+      "key": "WARREN|5",
+      "county": "WARREN",
+      "precinct": "005",
+      "votes": [
+        [159,374,6,0],
+        [60,107,5,0]
+      ]
+    },
+    {
+      "key": "WARREN|6",
+      "county": "WARREN",
+      "precinct": "006",
+      "votes": [
+        [158,304,6,0],
+        [107,90,0,0]
+      ]
+    },
+    {
+      "key": "WARREN|7",
+      "county": "WARREN",
+      "precinct": "007",
+      "votes": [
+        [78,217,2,0],
+        [35,115,2,0]
+      ]
+    },
+    {
+      "key": "WARREN|8",
+      "county": "WARREN",
+      "precinct": "008",
+      "votes": [
+        [235,345,13,0],
+        [48,59,6,0]
+      ]
+    },
+    {
+      "key": "WARREN|9",
+      "county": "WARREN",
+      "precinct": "009",
+      "votes": [
+        [58,123,4,0],
+        [64,73,2,0]
+      ]
+    }
+  ],
+  "other": [
+    {
+      "county": "HALIFAX",
+      "label": "ABSENTEE",
+      "votes": [
+        [0,0,151,0],
+        [0,0,52,0]
+      ]
+    },
+    {
+      "county": "HALIFAX",
+      "label": "EV HAL",
+      "votes": [
+        [0,2020,0,0],
+        [0,624,0,0]
+      ]
+    },
+    {
+      "county": "HALIFAX",
+      "label": "EV RING",
+      "votes": [
+        [0,1407,0,0],
+        [0,132,0,0]
+      ]
+    },
+    {
+      "county": "HALIFAX",
+      "label": "EV RRA",
+      "votes": [
+        [0,3385,0,0],
+        [0,2214,0,0]
+      ]
+    },
+    {
+      "county": "HALIFAX",
+      "label": "EV SN",
+      "votes": [
+        [0,816,0,0],
+        [0,184,0,0]
+      ]
+    },
+    {
+      "county": "HALIFAX",
+      "label": "PROVISIONAL",
+      "votes": [
+        [0,0,0,0],
+        [0,0,0,0]
+      ]
+    },
+    {
+      "county": "HALIFAX",
+      "label": "TRANSFER",
+      "votes": [
+        [0,0,0,0],
+        [0,0,0,0]
+      ]
+    },
+    {
+      "county": "NORTHAMPTON",
+      "label": "ABSENTEE",
+      "votes": [
+        [0,0,50,0],
+        [0,0,20,0]
+      ]
+    },
+    {
+      "county": "NORTHAMPTON",
+      "label": "EV GASTON",
+      "votes": [
+        [0,1260,0,0],
+        [0,534,0,0]
+      ]
+    },
+    {
+      "county": "NORTHAMPTON",
+      "label": "EV JACKSON",
+      "votes": [
+        [0,1019,0,0],
+        [0,608,0,0]
+      ]
+    },
+    {
+      "county": "NORTHAMPTON",
+      "label": "EV RICH SQUARE",
+      "votes": [
+        [0,549,0,0],
+        [0,125,0,0]
+      ]
+    },
+    {
+      "county": "NORTHAMPTON",
+      "label": "PROVISIONAL",
+      "votes": [
+        [0,0,0,0],
+        [0,0,0,0]
+      ]
+    },
+    {
+      "county": "NORTHAMPTON",
+      "label": "TRANSFER",
+      "votes": [
+        [0,0,0,0],
+        [0,0,0,0]
+      ]
+    }
+  ]
+}

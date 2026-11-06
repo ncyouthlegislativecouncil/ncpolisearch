@@ -1,0 +1,211 @@
+{
+  "raceId": "nc-house-003",
+  "candidates": [
+    {"name":"Steve Tyson","party":"R"},
+    {"name":"Diannia Bright","party":"D"},
+    {"name":"Angela Humphries","party":"L"}
+  ],
+  "precincts": [
+    {
+      "key": "CRAVEN|11",
+      "county": "CRAVEN",
+      "precinct": "11",
+      "votes": [
+        [408,671,12,0],
+        [94,284,16,0],
+        [14,26,0,0]
+      ]
+    },
+    {
+      "key": "CRAVEN|16",
+      "county": "CRAVEN",
+      "precinct": "16",
+      "votes": [
+        [693,813,20,0],
+        [242,592,61,0],
+        [43,32,1,0]
+      ]
+    },
+    {
+      "key": "CRAVEN|17",
+      "county": "CRAVEN",
+      "precinct": "17",
+      "votes": [
+        [439,459,19,0],
+        [143,285,17,0],
+        [32,19,0,0]
+      ]
+    },
+    {
+      "key": "CRAVEN|2",
+      "county": "CRAVEN",
+      "precinct": "02",
+      "votes": [
+        [256,771,12,0],
+        [148,470,32,0],
+        [29,27,0,0]
+      ]
+    },
+    {
+      "key": "CRAVEN|20",
+      "county": "CRAVEN",
+      "precinct": "20",
+      "votes": [
+        [607,802,37,0],
+        [250,603,44,0],
+        [26,18,2,0]
+      ]
+    },
+    {
+      "key": "CRAVEN|21",
+      "county": "CRAVEN",
+      "precinct": "21",
+      "votes": [
+        [661,870,40,0],
+        [203,566,49,0],
+        [23,22,1,0]
+      ]
+    },
+    {
+      "key": "CRAVEN|23",
+      "county": "CRAVEN",
+      "precinct": "23",
+      "votes": [
+        [642,1651,54,0],
+        [263,1195,76,0],
+        [49,38,4,0]
+      ]
+    },
+    {
+      "key": "CRAVEN|3",
+      "county": "CRAVEN",
+      "precinct": "03",
+      "votes": [
+        [761,994,43,0],
+        [172,477,44,0],
+        [23,25,1,0]
+      ]
+    },
+    {
+      "key": "CRAVEN|5",
+      "county": "CRAVEN",
+      "precinct": "05",
+      "votes": [
+        [531,456,17,0],
+        [191,378,28,0],
+        [39,16,2,0]
+      ]
+    },
+    {
+      "key": "CRAVEN|7",
+      "county": "CRAVEN",
+      "precinct": "07",
+      "votes": [
+        [284,512,9,0],
+        [165,324,10,0],
+        [9,12,0,0]
+      ]
+    },
+    {
+      "key": "CRAVEN|CFB8",
+      "county": "CRAVEN",
+      "precinct": "CFB8",
+      "votes": [
+        [137,436,2,0],
+        [66,209,0,0],
+        [5,11,0,0]
+      ]
+    },
+    {
+      "key": "CRAVEN|CLR4",
+      "county": "CRAVEN",
+      "precinct": "CLR4",
+      "votes": [
+        [385,426,4,0],
+        [267,548,24,0],
+        [28,28,0,0]
+      ]
+    },
+    {
+      "key": "CRAVEN|DFB9",
+      "county": "CRAVEN",
+      "precinct": "DFB9",
+      "votes": [
+        [133,118,1,0],
+        [109,122,2,0],
+        [6,4,0,0]
+      ]
+    },
+    {
+      "key": "CRAVEN|N1",
+      "county": "CRAVEN",
+      "precinct": "N1",
+      "votes": [
+        [159,331,6,0],
+        [151,533,43,0],
+        [14,11,1,0]
+      ]
+    },
+    {
+      "key": "CRAVEN|N2",
+      "county": "CRAVEN",
+      "precinct": "N2",
+      "votes": [
+        [96,166,3,0],
+        [221,649,14,0],
+        [12,13,0,0]
+      ]
+    },
+    {
+      "key": "CRAVEN|N3N5",
+      "county": "CRAVEN",
+      "precinct": "N3N5",
+      "votes": [
+        [279,387,19,0],
+        [308,833,33,0],
+        [24,23,0,0]
+      ]
+    },
+    {
+      "key": "CRAVEN|N4",
+      "county": "CRAVEN",
+      "precinct": "N4",
+      "votes": [
+        [324,496,18,0],
+        [432,1075,45,0],
+        [20,23,3,0]
+      ]
+    },
+    {
+      "key": "CRAVEN|N6",
+      "county": "CRAVEN",
+      "precinct": "N6",
+      "votes": [
+        [436,945,37,0],
+        [324,1024,49,0],
+        [23,35,4,0]
+      ]
+    },
+    {
+      "key": "CRAVEN|TE13",
+      "county": "CRAVEN",
+      "precinct": "TE13",
+      "votes": [
+        [220,371,3,0],
+        [41,104,7,0],
+        [11,13,0,0]
+      ]
+    },
+    {
+      "key": "CRAVEN|VE14",
+      "county": "CRAVEN",
+      "precinct": "VE14",
+      "votes": [
+        [335,1066,2,0],
+        [165,714,13,0],
+        [15,27,1,0]
+      ]
+    }
+  ],
+  "other": []
+}

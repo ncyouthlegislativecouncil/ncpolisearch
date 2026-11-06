@@ -1,0 +1,466 @@
+{
+  "raceId": "nc-senate-35",
+  "candidates": [
+    {"name":"Todd Johnson","party":"R"},
+    {"name":"Christine E. Winward","party":"D"}
+  ],
+  "precincts": [
+    {
+      "key": "CABARRUS|1-02",
+      "county": "CABARRUS",
+      "precinct": "01-02",
+      "votes": [
+        [129,0,0,0],
+        [34,0,0,0]
+      ]
+    },
+    {
+      "key": "CABARRUS|1-04",
+      "county": "CABARRUS",
+      "precinct": "01-04",
+      "votes": [
+        [709,0,0,0],
+        [739,0,0,0]
+      ]
+    },
+    {
+      "key": "CABARRUS|10-00",
+      "county": "CABARRUS",
+      "precinct": "10-00",
+      "votes": [
+        [274,0,0,0],
+        [86,0,0,0]
+      ]
+    },
+    {
+      "key": "UNION|11",
+      "county": "UNION",
+      "precinct": "011",
+      "votes": [
+        [815,638,2,0],
+        [63,182,10,0]
+      ]
+    },
+    {
+      "key": "UNION|12",
+      "county": "UNION",
+      "precinct": "012",
+      "votes": [
+        [573,708,8,0],
+        [53,200,2,0]
+      ]
+    },
+    {
+      "key": "UNION|13",
+      "county": "UNION",
+      "precinct": "013",
+      "votes": [
+        [648,675,9,0],
+        [69,216,7,0]
+      ]
+    },
+    {
+      "key": "UNION|14",
+      "county": "UNION",
+      "precinct": "014",
+      "votes": [
+        [175,274,5,0],
+        [151,339,7,0]
+      ]
+    },
+    {
+      "key": "UNION|15",
+      "county": "UNION",
+      "precinct": "015",
+      "votes": [
+        [460,792,21,0],
+        [327,1150,41,0]
+      ]
+    },
+    {
+      "key": "UNION|16",
+      "county": "UNION",
+      "precinct": "016",
+      "votes": [
+        [597,1124,23,0],
+        [418,1350,56,0]
+      ]
+    },
+    {
+      "key": "UNION|17A",
+      "county": "UNION",
+      "precinct": "017A",
+      "votes": [
+        [462,999,11,0],
+        [242,778,47,0]
+      ]
+    },
+    {
+      "key": "UNION|17B",
+      "county": "UNION",
+      "precinct": "017B",
+      "votes": [
+        [537,1062,22,0],
+        [313,1059,52,0]
+      ]
+    },
+    {
+      "key": "UNION|18",
+      "county": "UNION",
+      "precinct": "018",
+      "votes": [
+        [564,631,18,0],
+        [274,701,45,0]
+      ]
+    },
+    {
+      "key": "UNION|19",
+      "county": "UNION",
+      "precinct": "0019",
+      "votes": [
+        [469,1093,18,0],
+        [220,964,42,0]
+      ]
+    },
+    {
+      "key": "UNION|2",
+      "county": "UNION",
+      "precinct": "002",
+      "votes": [
+        [92,170,5,0],
+        [140,451,6,0]
+      ]
+    },
+    {
+      "key": "UNION|20A",
+      "county": "UNION",
+      "precinct": "0020A",
+      "votes": [
+        [340,704,32,0],
+        [271,882,36,0]
+      ]
+    },
+    {
+      "key": "UNION|20B",
+      "county": "UNION",
+      "precinct": "0020B",
+      "votes": [
+        [492,1053,29,0],
+        [226,918,57,0]
+      ]
+    },
+    {
+      "key": "UNION|21",
+      "county": "UNION",
+      "precinct": "021",
+      "votes": [
+        [440,733,4,0],
+        [93,290,9,0]
+      ]
+    },
+    {
+      "key": "UNION|22",
+      "county": "UNION",
+      "precinct": "022",
+      "votes": [
+        [527,709,15,0],
+        [120,297,30,0]
+      ]
+    },
+    {
+      "key": "UNION|23",
+      "county": "UNION",
+      "precinct": "023",
+      "votes": [
+        [365,393,14,0],
+        [100,345,10,0]
+      ]
+    },
+    {
+      "key": "UNION|24",
+      "county": "UNION",
+      "precinct": "024",
+      "votes": [
+        [431,515,9,0],
+        [77,198,13,0]
+      ]
+    },
+    {
+      "key": "UNION|28A",
+      "county": "UNION",
+      "precinct": "028A",
+      "votes": [
+        [539,1183,33,0],
+        [369,1368,92,0]
+      ]
+    },
+    {
+      "key": "UNION|28B",
+      "county": "UNION",
+      "precinct": "028B",
+      "votes": [
+        [522,752,24,0],
+        [321,980,99,0]
+      ]
+    },
+    {
+      "key": "UNION|28C",
+      "county": "UNION",
+      "precinct": "028C",
+      "votes": [
+        [377,824,24,0],
+        [253,857,59,0]
+      ]
+    },
+    {
+      "key": "UNION|28D",
+      "county": "UNION",
+      "precinct": "028D",
+      "votes": [
+        [592,867,23,0],
+        [396,1121,40,0]
+      ]
+    },
+    {
+      "key": "UNION|29A",
+      "county": "UNION",
+      "precinct": "029A",
+      "votes": [
+        [402,775,12,0],
+        [459,1230,53,0]
+      ]
+    },
+    {
+      "key": "UNION|29B",
+      "county": "UNION",
+      "precinct": "029B",
+      "votes": [
+        [257,262,4,0],
+        [202,301,13,0]
+      ]
+    },
+    {
+      "key": "UNION|29C",
+      "county": "UNION",
+      "precinct": "029C",
+      "votes": [
+        [334,728,11,0],
+        [199,740,33,0]
+      ]
+    },
+    {
+      "key": "UNION|30",
+      "county": "UNION",
+      "precinct": "0030",
+      "votes": [
+        [456,878,20,0],
+        [344,886,40,0]
+      ]
+    },
+    {
+      "key": "UNION|31",
+      "county": "UNION",
+      "precinct": "031",
+      "votes": [
+        [462,529,10,0],
+        [353,776,40,0]
+      ]
+    },
+    {
+      "key": "UNION|32",
+      "county": "UNION",
+      "precinct": "032",
+      "votes": [
+        [369,1058,14,0],
+        [129,688,44,0]
+      ]
+    },
+    {
+      "key": "UNION|33",
+      "county": "UNION",
+      "precinct": "033",
+      "votes": [
+        [329,576,10,0],
+        [154,423,18,0]
+      ]
+    },
+    {
+      "key": "UNION|34",
+      "county": "UNION",
+      "precinct": "034",
+      "votes": [
+        [719,926,13,0],
+        [151,496,17,0]
+      ]
+    },
+    {
+      "key": "UNION|35",
+      "county": "UNION",
+      "precinct": "035",
+      "votes": [
+        [243,465,12,0],
+        [152,465,18,0]
+      ]
+    },
+    {
+      "key": "UNION|37A",
+      "county": "UNION",
+      "precinct": "037A",
+      "votes": [
+        [554,987,14,0],
+        [452,1256,44,0]
+      ]
+    },
+    {
+      "key": "UNION|37B",
+      "county": "UNION",
+      "precinct": "037B",
+      "votes": [
+        [247,326,5,0],
+        [109,272,15,0]
+      ]
+    },
+    {
+      "key": "UNION|38A",
+      "county": "UNION",
+      "precinct": "038A",
+      "votes": [
+        [376,467,11,0],
+        [316,674,27,0]
+      ]
+    },
+    {
+      "key": "UNION|38B",
+      "county": "UNION",
+      "precinct": "038B",
+      "votes": [
+        [383,283,4,0],
+        [255,370,26,0]
+      ]
+    },
+    {
+      "key": "UNION|39",
+      "county": "UNION",
+      "precinct": "039",
+      "votes": [
+        [457,687,10,0],
+        [241,530,29,0]
+      ]
+    },
+    {
+      "key": "UNION|4",
+      "county": "UNION",
+      "precinct": "004",
+      "votes": [
+        [26,58,3,0],
+        [169,338,15,0]
+      ]
+    },
+    {
+      "key": "UNION|40",
+      "county": "UNION",
+      "precinct": "040",
+      "votes": [
+        [566,810,15,0],
+        [293,906,64,0]
+      ]
+    },
+    {
+      "key": "UNION|41",
+      "county": "UNION",
+      "precinct": "041",
+      "votes": [
+        [547,912,18,0],
+        [355,889,76,0]
+      ]
+    },
+    {
+      "key": "UNION|42",
+      "county": "UNION",
+      "precinct": "042",
+      "votes": [
+        [308,330,5,0],
+        [170,350,13,0]
+      ]
+    },
+    {
+      "key": "UNION|44",
+      "county": "UNION",
+      "precinct": "0044",
+      "votes": [
+        [494,533,7,0],
+        [312,774,31,0]
+      ]
+    },
+    {
+      "key": "UNION|45",
+      "county": "UNION",
+      "precinct": "0045",
+      "votes": [
+        [325,686,11,0],
+        [161,659,24,0]
+      ]
+    },
+    {
+      "key": "UNION|5",
+      "county": "UNION",
+      "precinct": "0005",
+      "votes": [
+        [365,657,9,0],
+        [264,789,38,0]
+      ]
+    },
+    {
+      "key": "UNION|6",
+      "county": "UNION",
+      "precinct": "006",
+      "votes": [
+        [403,471,8,0],
+        [176,419,10,0]
+      ]
+    },
+    {
+      "key": "UNION|7",
+      "county": "UNION",
+      "precinct": "007",
+      "votes": [
+        [452,919,16,0],
+        [298,890,21,0]
+      ]
+    }
+  ],
+  "other": [
+    {
+      "county": "CABARRUS",
+      "label": "ABSENTEE",
+      "votes": [
+        [0,0,45,0],
+        [0,0,146,0]
+      ]
+    },
+    {
+      "county": "CABARRUS",
+      "label": "EARLY VOTING",
+      "votes": [
+        [0,1005,0,0],
+        [0,1878,0,0]
+      ]
+    },
+    {
+      "county": "CABARRUS",
+      "label": "PROVISIONAL",
+      "votes": [
+        [0,0,0,0],
+        [0,0,0,0]
+      ]
+    },
+    {
+      "county": "CABARRUS",
+      "label": "TRANSFER",
+      "votes": [
+        [0,0,0,0],
+        [0,0,0,0]
+      ]
+    }
+  ]
+}

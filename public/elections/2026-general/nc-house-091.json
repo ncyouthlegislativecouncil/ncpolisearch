@@ -1,0 +1,311 @@
+{
+  "raceId": "nc-house-091",
+  "candidates": [
+    {"name":"Kyle Hall","party":"R"},
+    {"name":"Lucille Puckett","party":"D"}
+  ],
+  "precincts": [
+    {
+      "key": "FORSYTH|111",
+      "county": "FORSYTH",
+      "precinct": "111",
+      "votes": [
+        [321,408,7,0],
+        [80,215,19,0]
+      ]
+    },
+    {
+      "key": "FORSYTH|112",
+      "county": "FORSYTH",
+      "precinct": "112",
+      "votes": [
+        [306,707,15,0],
+        [133,581,24,0]
+      ]
+    },
+    {
+      "key": "FORSYTH|207",
+      "county": "FORSYTH",
+      "precinct": "207",
+      "votes": [
+        [57,72,2,0],
+        [299,702,13,0]
+      ]
+    },
+    {
+      "key": "FORSYTH|31",
+      "county": "FORSYTH",
+      "precinct": "031",
+      "votes": [
+        [194,454,7,0],
+        [109,473,14,0]
+      ]
+    },
+    {
+      "key": "FORSYTH|33",
+      "county": "FORSYTH",
+      "precinct": "033",
+      "votes": [
+        [170,269,11,0],
+        [231,658,28,0]
+      ]
+    },
+    {
+      "key": "FORSYTH|34",
+      "county": "FORSYTH",
+      "precinct": "034",
+      "votes": [
+        [194,431,9,0],
+        [145,477,9,0]
+      ]
+    },
+    {
+      "key": "FORSYTH|81",
+      "county": "FORSYTH",
+      "precinct": "081",
+      "votes": [
+        [187,311,7,0],
+        [358,1012,35,0]
+      ]
+    },
+    {
+      "key": "FORSYTH|83",
+      "county": "FORSYTH",
+      "precinct": "083",
+      "votes": [
+        [124,190,3,0],
+        [188,601,19,0]
+      ]
+    },
+    {
+      "key": "FORSYTH|84",
+      "county": "FORSYTH",
+      "precinct": "084",
+      "votes": [
+        [105,225,6,0],
+        [189,889,34,0]
+      ]
+    },
+    {
+      "key": "FORSYTH|85",
+      "county": "FORSYTH",
+      "precinct": "085",
+      "votes": [
+        [177,445,11,0],
+        [118,586,24,0]
+      ]
+    },
+    {
+      "key": "STOKES|1",
+      "county": "STOKES",
+      "precinct": "01",
+      "votes": [
+        [182,0,0,0],
+        [26,0,0,0]
+      ]
+    },
+    {
+      "key": "STOKES|10",
+      "county": "STOKES",
+      "precinct": "10",
+      "votes": [
+        [564,0,0,0],
+        [163,0,0,0]
+      ]
+    },
+    {
+      "key": "STOKES|11",
+      "county": "STOKES",
+      "precinct": "11",
+      "votes": [
+        [461,0,0,0],
+        [115,0,0,0]
+      ]
+    },
+    {
+      "key": "STOKES|12",
+      "county": "STOKES",
+      "precinct": "12",
+      "votes": [
+        [401,0,0,0],
+        [71,0,0,0]
+      ]
+    },
+    {
+      "key": "STOKES|13",
+      "county": "STOKES",
+      "precinct": "13",
+      "votes": [
+        [312,0,0,0],
+        [71,0,0,0]
+      ]
+    },
+    {
+      "key": "STOKES|140",
+      "county": "STOKES",
+      "precinct": "140",
+      "votes": [
+        [352,0,0,0],
+        [57,0,0,0]
+      ]
+    },
+    {
+      "key": "STOKES|150",
+      "county": "STOKES",
+      "precinct": "150",
+      "votes": [
+        [262,0,0,0],
+        [65,0,0,0]
+      ]
+    },
+    {
+      "key": "STOKES|1618",
+      "county": "STOKES",
+      "precinct": "1618",
+      "votes": [
+        [241,0,0,0],
+        [100,0,0,0]
+      ]
+    },
+    {
+      "key": "STOKES|17",
+      "county": "STOKES",
+      "precinct": "17",
+      "votes": [
+        [248,0,0,0],
+        [51,0,0,0]
+      ]
+    },
+    {
+      "key": "STOKES|1819",
+      "county": "STOKES",
+      "precinct": "1819",
+      "votes": [
+        [263,0,0,0],
+        [52,0,0,0]
+      ]
+    },
+    {
+      "key": "STOKES|2",
+      "county": "STOKES",
+      "precinct": "02",
+      "votes": [
+        [464,0,0,0],
+        [69,0,0,0]
+      ]
+    },
+    {
+      "key": "STOKES|20",
+      "county": "STOKES",
+      "precinct": "20",
+      "votes": [
+        [309,0,0,0],
+        [73,0,0,0]
+      ]
+    },
+    {
+      "key": "STOKES|3",
+      "county": "STOKES",
+      "precinct": "03",
+      "votes": [
+        [314,0,0,0],
+        [53,0,0,0]
+      ]
+    },
+    {
+      "key": "STOKES|4",
+      "county": "STOKES",
+      "precinct": "04",
+      "votes": [
+        [331,0,0,0],
+        [55,0,0,0]
+      ]
+    },
+    {
+      "key": "STOKES|506",
+      "county": "STOKES",
+      "precinct": "0506",
+      "votes": [
+        [432,0,0,0],
+        [99,0,0,0]
+      ]
+    },
+    {
+      "key": "STOKES|7",
+      "county": "STOKES",
+      "precinct": "07",
+      "votes": [
+        [165,0,0,0],
+        [45,0,0,0]
+      ]
+    },
+    {
+      "key": "STOKES|8",
+      "county": "STOKES",
+      "precinct": "08",
+      "votes": [
+        [329,0,0,0],
+        [54,0,0,0]
+      ]
+    },
+    {
+      "key": "STOKES|9",
+      "county": "STOKES",
+      "precinct": "09",
+      "votes": [
+        [412,0,0,0],
+        [88,0,0,0]
+      ]
+    }
+  ],
+  "other": [
+    {
+      "county": "STOKES",
+      "label": "ABSENTEE",
+      "votes": [
+        [0,0,131,0],
+        [0,0,147,0]
+      ]
+    },
+    {
+      "county": "STOKES",
+      "label": "EV DANBURY",
+      "votes": [
+        [0,1036,0,0],
+        [0,369,0,0]
+      ]
+    },
+    {
+      "county": "STOKES",
+      "label": "EV KING",
+      "votes": [
+        [0,4006,0,0],
+        [0,1660,0,0]
+      ]
+    },
+    {
+      "county": "STOKES",
+      "label": "EV WALNUT COVE",
+      "votes": [
+        [0,1765,0,0],
+        [0,947,0,0]
+      ]
+    },
+    {
+      "county": "STOKES",
+      "label": "PROVISIONAL",
+      "votes": [
+        [0,0,0,0],
+        [0,0,0,0]
+      ]
+    },
+    {
+      "county": "STOKES",
+      "label": "TRANSFER",
+      "votes": [
+        [0,0,0,0],
+        [0,0,0,0]
+      ]
+    }
+  ]
+}

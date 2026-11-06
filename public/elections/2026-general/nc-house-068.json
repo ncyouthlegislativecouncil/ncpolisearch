@@ -1,0 +1,163 @@
+{
+  "raceId": "nc-house-068",
+  "candidates": [
+    {"name":"David Willis","party":"R"},
+    {"name":"Derek Warriner","party":"D"}
+  ],
+  "precincts": [
+    {
+      "key": "UNION|17A",
+      "county": "UNION",
+      "precinct": "017A",
+      "votes": [
+        [460,993,11,0],
+        [242,780,47,0]
+      ]
+    },
+    {
+      "key": "UNION|17B",
+      "county": "UNION",
+      "precinct": "017B",
+      "votes": [
+        [542,1050,27,0],
+        [306,1064,47,0]
+      ]
+    },
+    {
+      "key": "UNION|18",
+      "county": "UNION",
+      "precinct": "018",
+      "votes": [
+        [571,635,18,0],
+        [266,696,45,0]
+      ]
+    },
+    {
+      "key": "UNION|19",
+      "county": "UNION",
+      "precinct": "0019",
+      "votes": [
+        [474,1086,20,0],
+        [216,971,40,0]
+      ]
+    },
+    {
+      "key": "UNION|20A",
+      "county": "UNION",
+      "precinct": "0020A",
+      "votes": [
+        [351,708,31,0],
+        [266,876,34,0]
+      ]
+    },
+    {
+      "key": "UNION|20B",
+      "county": "UNION",
+      "precinct": "0020B",
+      "votes": [
+        [489,1043,32,0],
+        [220,925,54,0]
+      ]
+    },
+    {
+      "key": "UNION|22",
+      "county": "UNION",
+      "precinct": "022",
+      "votes": [
+        [520,708,16,0],
+        [128,295,29,0]
+      ]
+    },
+    {
+      "key": "UNION|28A",
+      "county": "UNION",
+      "precinct": "028A",
+      "votes": [
+        [541,1176,31,0],
+        [367,1376,95,0]
+      ]
+    },
+    {
+      "key": "UNION|28B",
+      "county": "UNION",
+      "precinct": "028B",
+      "votes": [
+        [533,759,28,0],
+        [315,965,96,0]
+      ]
+    },
+    {
+      "key": "UNION|28C",
+      "county": "UNION",
+      "precinct": "028C",
+      "votes": [
+        [383,829,29,0],
+        [246,848,56,0]
+      ]
+    },
+    {
+      "key": "UNION|28D",
+      "county": "UNION",
+      "precinct": "028D",
+      "votes": [
+        [584,868,20,0],
+        [403,1111,44,0]
+      ]
+    },
+    {
+      "key": "UNION|31",
+      "county": "UNION",
+      "precinct": "031",
+      "votes": [
+        [456,536,9,0],
+        [353,766,41,0]
+      ]
+    },
+    {
+      "key": "UNION|33",
+      "county": "UNION",
+      "precinct": "033",
+      "votes": [
+        [330,573,10,0],
+        [148,425,18,0]
+      ]
+    },
+    {
+      "key": "UNION|41",
+      "county": "UNION",
+      "precinct": "041",
+      "votes": [
+        [537,916,20,0],
+        [363,879,75,0]
+      ]
+    },
+    {
+      "key": "UNION|42",
+      "county": "UNION",
+      "precinct": "042",
+      "votes": [
+        [308,329,5,0],
+        [169,351,12,0]
+      ]
+    },
+    {
+      "key": "UNION|44",
+      "county": "UNION",
+      "precinct": "0044",
+      "votes": [
+        [490,541,6,0],
+        [311,764,33,0]
+      ]
+    },
+    {
+      "key": "UNION|45",
+      "county": "UNION",
+      "precinct": "0045",
+      "votes": [
+        [333,682,11,0],
+        [153,663,24,0]
+      ]
+    }
+  ],
+  "other": []
+}

@@ -1,0 +1,181 @@
+{
+  "raceId": "nc-house-064",
+  "candidates": [
+    {"name":"LeVon Barnes","party":"D"},
+    {"name":"Dennis Riddell","party":"R"}
+  ],
+  "precincts": [
+    {
+      "key": "ALAMANCE|1",
+      "county": "ALAMANCE",
+      "precinct": "01",
+      "votes": [
+        [138,308,28,0],
+        [839,714,34,0]
+      ]
+    },
+    {
+      "key": "ALAMANCE|103",
+      "county": "ALAMANCE",
+      "precinct": "103",
+      "votes": [
+        [352,1288,58,0],
+        [454,868,30,0]
+      ]
+    },
+    {
+      "key": "ALAMANCE|104",
+      "county": "ALAMANCE",
+      "precinct": "104",
+      "votes": [
+        [182,710,26,0],
+        [132,273,10,0]
+      ]
+    },
+    {
+      "key": "ALAMANCE|10N",
+      "county": "ALAMANCE",
+      "precinct": "10N",
+      "votes": [
+        [216,855,41,0],
+        [341,839,21,0]
+      ]
+    },
+    {
+      "key": "ALAMANCE|10S1",
+      "county": "ALAMANCE",
+      "precinct": "10S1",
+      "votes": [
+        [472,1751,52,0],
+        [394,900,17,0]
+      ]
+    },
+    {
+      "key": "ALAMANCE|12E",
+      "county": "ALAMANCE",
+      "precinct": "12E",
+      "votes": [
+        [161,369,5,0],
+        [68,122,3,0]
+      ]
+    },
+    {
+      "key": "ALAMANCE|12S",
+      "county": "ALAMANCE",
+      "precinct": "12S",
+      "votes": [
+        [153,276,5,0],
+        [51,74,3,0]
+      ]
+    },
+    {
+      "key": "ALAMANCE|13",
+      "county": "ALAMANCE",
+      "precinct": "13",
+      "votes": [
+        [284,922,34,0],
+        [299,507,18,0]
+      ]
+    },
+    {
+      "key": "ALAMANCE|63",
+      "county": "ALAMANCE",
+      "precinct": "063",
+      "votes": [
+        [337,598,26,0],
+        [128,189,5,0]
+      ]
+    },
+    {
+      "key": "ALAMANCE|64",
+      "county": "ALAMANCE",
+      "precinct": "064",
+      "votes": [
+        [368,1208,49,0],
+        [603,960,30,0]
+      ]
+    },
+    {
+      "key": "ALAMANCE|6E",
+      "county": "ALAMANCE",
+      "precinct": "06E",
+      "votes": [
+        [181,532,16,0],
+        [205,327,14,0]
+      ]
+    },
+    {
+      "key": "ALAMANCE|6N",
+      "county": "ALAMANCE",
+      "precinct": "06N",
+      "votes": [
+        [194,593,15,0],
+        [115,203,9,0]
+      ]
+    },
+    {
+      "key": "ALAMANCE|6S",
+      "county": "ALAMANCE",
+      "precinct": "06S",
+      "votes": [
+        [306,826,32,0],
+        [393,632,19,0]
+      ]
+    },
+    {
+      "key": "ALAMANCE|6W",
+      "county": "ALAMANCE",
+      "precinct": "06W",
+      "votes": [
+        [121,208,14,0],
+        [80,131,3,0]
+      ]
+    },
+    {
+      "key": "ALAMANCE|7",
+      "county": "ALAMANCE",
+      "precinct": "07",
+      "votes": [
+        [117,392,11,0],
+        [699,759,14,0]
+      ]
+    },
+    {
+      "key": "ALAMANCE|8N",
+      "county": "ALAMANCE",
+      "precinct": "08N",
+      "votes": [
+        [319,447,29,0],
+        [522,416,18,0]
+      ]
+    },
+    {
+      "key": "ALAMANCE|8S",
+      "county": "ALAMANCE",
+      "precinct": "08S",
+      "votes": [
+        [91,203,13,0],
+        [357,228,5,0]
+      ]
+    },
+    {
+      "key": "ALAMANCE|9N",
+      "county": "ALAMANCE",
+      "precinct": "09N",
+      "votes": [
+        [216,649,31,0],
+        [407,355,9,0]
+      ]
+    },
+    {
+      "key": "ALAMANCE|9S",
+      "county": "ALAMANCE",
+      "precinct": "09S",
+      "votes": [
+        [392,987,54,0],
+        [647,862,18,0]
+      ]
+    }
+  ],
+  "other": []
+}

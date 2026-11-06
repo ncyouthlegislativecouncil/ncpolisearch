@@ -1,0 +1,217 @@
+{
+  "raceId": "nc-house-097",
+  "candidates": [
+    {"name":"Heather Rhyne","party":"R"},
+    {"name":"Greg McBryde","party":"D"}
+  ],
+  "precincts": [
+    {
+      "key": "LINCOLN|AS25",
+      "county": "LINCOLN",
+      "precinct": "AS25",
+      "votes": [
+        [387,612,8,0],
+        [126,255,10,0]
+      ]
+    },
+    {
+      "key": "LINCOLN|BC13",
+      "county": "LINCOLN",
+      "precinct": "BC13",
+      "votes": [
+        [145,226,4,0],
+        [137,242,10,0]
+      ]
+    },
+    {
+      "key": "LINCOLN|BS26",
+      "county": "LINCOLN",
+      "precinct": "BS26",
+      "votes": [
+        [312,490,5,0],
+        [88,334,11,0]
+      ]
+    },
+    {
+      "key": "LINCOLN|CF19",
+      "county": "LINCOLN",
+      "precinct": "CF19",
+      "votes": [
+        [167,617,15,0],
+        [57,286,22,0]
+      ]
+    },
+    {
+      "key": "LINCOLN|DN29",
+      "county": "LINCOLN",
+      "precinct": "DN29",
+      "votes": [
+        [501,825,12,0],
+        [134,455,22,0]
+      ]
+    },
+    {
+      "key": "LINCOLN|DV08",
+      "county": "LINCOLN",
+      "precinct": "DV08",
+      "votes": [
+        [598,661,3,0],
+        [100,275,10,0]
+      ]
+    },
+    {
+      "key": "LINCOLN|DW28",
+      "county": "LINCOLN",
+      "precinct": "DW28",
+      "votes": [
+        [460,831,18,0],
+        [121,487,21,0]
+      ]
+    },
+    {
+      "key": "LINCOLN|HC33",
+      "county": "LINCOLN",
+      "precinct": "HC33",
+      "votes": [
+        [599,825,12,0],
+        [122,388,10,0]
+      ]
+    },
+    {
+      "key": "LINCOLN|IS20",
+      "county": "LINCOLN",
+      "precinct": "IS20",
+      "votes": [
+        [307,400,4,0],
+        [53,158,6,0]
+      ]
+    },
+    {
+      "key": "LINCOLN|IS23",
+      "county": "LINCOLN",
+      "precinct": "IS23",
+      "votes": [
+        [417,612,8,0],
+        [116,329,10,0]
+      ]
+    },
+    {
+      "key": "LINCOLN|LB34",
+      "county": "LINCOLN",
+      "precinct": "LB34",
+      "votes": [
+        [456,508,13,0],
+        [129,184,13,0]
+      ]
+    },
+    {
+      "key": "LINCOLN|LI14",
+      "county": "LINCOLN",
+      "precinct": "LI14",
+      "votes": [
+        [195,378,9,0],
+        [74,181,4,0]
+      ]
+    },
+    {
+      "key": "LINCOLN|LN11",
+      "county": "LINCOLN",
+      "precinct": "LN11",
+      "votes": [
+        [210,232,4,0],
+        [145,313,7,0]
+      ]
+    },
+    {
+      "key": "LINCOLN|LS12",
+      "county": "LINCOLN",
+      "precinct": "LS12",
+      "votes": [
+        [216,227,5,0],
+        [147,256,11,0]
+      ]
+    },
+    {
+      "key": "LINCOLN|LW18",
+      "county": "LINCOLN",
+      "precinct": "LW18",
+      "votes": [
+        [202,433,6,0],
+        [89,311,15,0]
+      ]
+    },
+    {
+      "key": "LINCOLN|LW31",
+      "county": "LINCOLN",
+      "precinct": "LW31",
+      "votes": [
+        [566,1468,25,0],
+        [181,1196,73,0]
+      ]
+    },
+    {
+      "key": "LINCOLN|NB35",
+      "county": "LINCOLN",
+      "precinct": "NB35",
+      "votes": [
+        [724,911,8,0],
+        [117,291,16,0]
+      ]
+    },
+    {
+      "key": "LINCOLN|OB21",
+      "county": "LINCOLN",
+      "precinct": "OB21",
+      "votes": [
+        [457,557,4,0],
+        [83,210,7,0]
+      ]
+    },
+    {
+      "key": "LINCOLN|PC22",
+      "county": "LINCOLN",
+      "precinct": "PC22",
+      "votes": [
+        [481,581,13,0],
+        [120,265,24,0]
+      ]
+    },
+    {
+      "key": "LINCOLN|SL24",
+      "county": "LINCOLN",
+      "precinct": "SL24",
+      "votes": [
+        [217,508,3,0],
+        [65,224,5,0]
+      ]
+    },
+    {
+      "key": "LINCOLN|ST36",
+      "county": "LINCOLN",
+      "precinct": "ST36",
+      "votes": [
+        [557,671,13,0],
+        [175,472,12,0]
+      ]
+    },
+    {
+      "key": "LINCOLN|TA37",
+      "county": "LINCOLN",
+      "precinct": "TA37",
+      "votes": [
+        [561,1421,17,0],
+        [198,935,35,0]
+      ]
+    },
+    {
+      "key": "LINCOLN|WP32",
+      "county": "LINCOLN",
+      "precinct": "WP32",
+      "votes": [
+        [787,1729,36,0],
+        [296,1212,59,0]
+      ]
+    }
+  ],
+  "other": []
+}

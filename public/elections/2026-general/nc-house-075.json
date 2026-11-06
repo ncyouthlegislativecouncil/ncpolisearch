@@ -1,0 +1,199 @@
+{
+  "raceId": "nc-house-075",
+  "candidates": [
+    {"name":"Jen Wiles","party":"D"},
+    {"name":"Donny C. Lambeth","party":"R"}
+  ],
+  "precincts": [
+    {
+      "key": "FORSYTH|12",
+      "county": "FORSYTH",
+      "precinct": "012",
+      "votes": [
+        [210,451,21,0],
+        [380,638,22,0]
+      ]
+    },
+    {
+      "key": "FORSYTH|13",
+      "county": "FORSYTH",
+      "precinct": "013",
+      "votes": [
+        [295,965,46,0],
+        [363,706,21,0]
+      ]
+    },
+    {
+      "key": "FORSYTH|14",
+      "county": "FORSYTH",
+      "precinct": "014",
+      "votes": [
+        [115,484,39,0],
+        [185,516,20,0]
+      ]
+    },
+    {
+      "key": "FORSYTH|15",
+      "county": "FORSYTH",
+      "precinct": "015",
+      "votes": [
+        [359,1195,46,0],
+        [384,788,26,0]
+      ]
+    },
+    {
+      "key": "FORSYTH|16",
+      "county": "FORSYTH",
+      "precinct": "016",
+      "votes": [
+        [234,770,20,0],
+        [276,441,18,0]
+      ]
+    },
+    {
+      "key": "FORSYTH|17",
+      "county": "FORSYTH",
+      "precinct": "017",
+      "votes": [
+        [163,483,25,0],
+        [207,346,15,0]
+      ]
+    },
+    {
+      "key": "FORSYTH|21",
+      "county": "FORSYTH",
+      "precinct": "021",
+      "votes": [
+        [190,518,29,0],
+        [700,865,20,0]
+      ]
+    },
+    {
+      "key": "FORSYTH|42",
+      "county": "FORSYTH",
+      "precinct": "042",
+      "votes": [
+        [393,990,28,0],
+        [283,362,12,0]
+      ]
+    },
+    {
+      "key": "FORSYTH|43",
+      "county": "FORSYTH",
+      "precinct": "043",
+      "votes": [
+        [242,563,11,0],
+        [265,330,10,0]
+      ]
+    },
+    {
+      "key": "FORSYTH|505",
+      "county": "FORSYTH",
+      "precinct": "505",
+      "votes": [
+        [246,473,12,0],
+        [67,78,2,0]
+      ]
+    },
+    {
+      "key": "FORSYTH|506",
+      "county": "FORSYTH",
+      "precinct": "506",
+      "votes": [
+        [239,573,16,0],
+        [133,130,1,0]
+      ]
+    },
+    {
+      "key": "FORSYTH|508",
+      "county": "FORSYTH",
+      "precinct": "508",
+      "votes": [
+        [327,831,30,0],
+        [130,201,5,0]
+      ]
+    },
+    {
+      "key": "FORSYTH|509",
+      "county": "FORSYTH",
+      "precinct": "509",
+      "votes": [
+        [331,667,17,0],
+        [183,190,5,0]
+      ]
+    },
+    {
+      "key": "FORSYTH|61",
+      "county": "FORSYTH",
+      "precinct": "061",
+      "votes": [
+        [138,523,29,0],
+        [210,416,12,0]
+      ]
+    },
+    {
+      "key": "FORSYTH|62",
+      "county": "FORSYTH",
+      "precinct": "062",
+      "votes": [
+        [145,390,22,0],
+        [295,382,3,0]
+      ]
+    },
+    {
+      "key": "FORSYTH|63",
+      "county": "FORSYTH",
+      "precinct": "063",
+      "votes": [
+        [266,700,36,0],
+        [405,850,22,0]
+      ]
+    },
+    {
+      "key": "FORSYTH|64",
+      "county": "FORSYTH",
+      "precinct": "064",
+      "votes": [
+        [109,246,8,0],
+        [133,229,6,0]
+      ]
+    },
+    {
+      "key": "FORSYTH|65",
+      "county": "FORSYTH",
+      "precinct": "065",
+      "votes": [
+        [301,978,54,0],
+        [525,819,46,0]
+      ]
+    },
+    {
+      "key": "FORSYTH|66",
+      "county": "FORSYTH",
+      "precinct": "066",
+      "votes": [
+        [197,410,18,0],
+        [336,470,8,0]
+      ]
+    },
+    {
+      "key": "FORSYTH|67",
+      "county": "FORSYTH",
+      "precinct": "067",
+      "votes": [
+        [143,378,14,0],
+        [151,263,10,0]
+      ]
+    },
+    {
+      "key": "FORSYTH|68",
+      "county": "FORSYTH",
+      "precinct": "068",
+      "votes": [
+        [178,547,26,0],
+        [379,474,14,0]
+      ]
+    }
+  ],
+  "other": []
+}

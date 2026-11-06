@@ -1,0 +1,91 @@
+{
+  "raceId": "nc-house-095",
+  "candidates": [
+    {"name":"Richard (Todd) Carver","party":"R"},
+    {"name":"Michael Robinson","party":"D"}
+  ],
+  "precincts": [
+    {
+      "key": "IREDELL|CC1",
+      "county": "IREDELL",
+      "precinct": "CC1",
+      "votes": [
+        [874,978,19,0],
+        [578,1103,53,0]
+      ]
+    },
+    {
+      "key": "IREDELL|CC2",
+      "county": "IREDELL",
+      "precinct": "CC2",
+      "votes": [
+        [665,891,32,0],
+        [496,1168,70,0]
+      ]
+    },
+    {
+      "key": "IREDELL|CC3-1",
+      "county": "IREDELL",
+      "precinct": "CC3-1",
+      "votes": [
+        [978,1803,33,0],
+        [638,2127,93,0]
+      ]
+    },
+    {
+      "key": "IREDELL|CC4-1",
+      "county": "IREDELL",
+      "precinct": "CC4-1",
+      "votes": [
+        [610,963,36,0],
+        [327,901,75,0]
+      ]
+    },
+    {
+      "key": "IREDELL|DV1A1A",
+      "county": "IREDELL",
+      "precinct": "DV1A1A",
+      "votes": [
+        [959,1195,41,0],
+        [378,857,66,0]
+      ]
+    },
+    {
+      "key": "IREDELL|DV1B-1",
+      "county": "IREDELL",
+      "precinct": "DV1B-1",
+      "votes": [
+        [1106,3021,100,0],
+        [360,1683,177,0]
+      ]
+    },
+    {
+      "key": "IREDELL|DV2A-1",
+      "county": "IREDELL",
+      "precinct": "DV2A-1",
+      "votes": [
+        [738,1135,36,0],
+        [373,896,78,0]
+      ]
+    },
+    {
+      "key": "IREDELL|DV2B-1",
+      "county": "IREDELL",
+      "precinct": "DV2B-1",
+      "votes": [
+        [775,1459,40,0],
+        [470,1420,106,0]
+      ]
+    },
+    {
+      "key": "IREDELL|DV3A",
+      "county": "IREDELL",
+      "precinct": "DV3A",
+      "votes": [
+        [607,828,41,0],
+        [388,829,57,0]
+      ]
+    }
+  ],
+  "other": []
+}

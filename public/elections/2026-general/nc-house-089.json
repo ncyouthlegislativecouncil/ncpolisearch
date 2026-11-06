@@ -1,0 +1,181 @@
+{
+  "raceId": "nc-house-089",
+  "candidates": [
+    {"name":"Mitchell Smith Setzer","party":"R"},
+    {"name":"Robert (Spider) Thompson","party":"D"}
+  ],
+  "precincts": [
+    {
+      "key": "CATAWBA|1",
+      "county": "CATAWBA",
+      "precinct": "01",
+      "votes": [
+        [561,934,13,0],
+        [106,247,30,0]
+      ]
+    },
+    {
+      "key": "CATAWBA|10",
+      "county": "CATAWBA",
+      "precinct": "10",
+      "votes": [
+        [41,56,1,1],
+        [42,118,2,0]
+      ]
+    },
+    {
+      "key": "CATAWBA|2",
+      "county": "CATAWBA",
+      "precinct": "02",
+      "votes": [
+        [424,519,9,0],
+        [85,194,6,0]
+      ]
+    },
+    {
+      "key": "CATAWBA|20",
+      "county": "CATAWBA",
+      "precinct": "20",
+      "votes": [
+        [531,623,6,0],
+        [187,347,11,1]
+      ]
+    },
+    {
+      "key": "CATAWBA|21",
+      "county": "CATAWBA",
+      "precinct": "21",
+      "votes": [
+        [381,622,2,1],
+        [64,284,13,0]
+      ]
+    },
+    {
+      "key": "CATAWBA|22",
+      "county": "CATAWBA",
+      "precinct": "22",
+      "votes": [
+        [471,654,16,2],
+        [183,413,27,2]
+      ]
+    },
+    {
+      "key": "CATAWBA|25",
+      "county": "CATAWBA",
+      "precinct": "25",
+      "votes": [
+        [179,299,7,1],
+        [136,299,17,4]
+      ]
+    },
+    {
+      "key": "CATAWBA|27",
+      "county": "CATAWBA",
+      "precinct": "27",
+      "votes": [
+        [624,775,17,0],
+        [148,359,21,0]
+      ]
+    },
+    {
+      "key": "CATAWBA|3",
+      "county": "CATAWBA",
+      "precinct": "03",
+      "votes": [
+        [367,502,7,1],
+        [102,219,9,1]
+      ]
+    },
+    {
+      "key": "CATAWBA|31",
+      "county": "CATAWBA",
+      "precinct": "31",
+      "votes": [
+        [710,1629,30,1],
+        [217,889,57,1]
+      ]
+    },
+    {
+      "key": "CATAWBA|32",
+      "county": "CATAWBA",
+      "precinct": "32",
+      "votes": [
+        [371,523,4,1],
+        [181,482,24,1]
+      ]
+    },
+    {
+      "key": "CATAWBA|34",
+      "county": "CATAWBA",
+      "precinct": "34",
+      "votes": [
+        [584,1009,7,0],
+        [198,584,22,2]
+      ]
+    },
+    {
+      "key": "CATAWBA|40",
+      "county": "CATAWBA",
+      "precinct": "40",
+      "votes": [
+        [117,334,10,1],
+        [72,313,12,1]
+      ]
+    },
+    {
+      "key": "CATAWBA|41",
+      "county": "CATAWBA",
+      "precinct": "41",
+      "votes": [
+        [571,1245,21,2],
+        [198,706,40,1]
+      ]
+    },
+    {
+      "key": "CATAWBA|5",
+      "county": "CATAWBA",
+      "precinct": "05",
+      "votes": [
+        [502,688,6,1],
+        [172,352,11,2]
+      ]
+    },
+    {
+      "key": "CATAWBA|6",
+      "county": "CATAWBA",
+      "precinct": "06",
+      "votes": [
+        [386,609,11,0],
+        [89,296,28,0]
+      ]
+    },
+    {
+      "key": "CATAWBA|9",
+      "county": "CATAWBA",
+      "precinct": "09",
+      "votes": [
+        [556,542,5,0],
+        [78,178,1,0]
+      ]
+    },
+    {
+      "key": "IREDELL|FT",
+      "county": "IREDELL",
+      "precinct": "FT",
+      "votes": [
+        [1172,2344,55,0],
+        [475,1617,81,0]
+      ]
+    },
+    {
+      "key": "IREDELL|SH-B",
+      "county": "IREDELL",
+      "precinct": "SH-B",
+      "votes": [
+        [669,536,6,0],
+        [199,217,14,0]
+      ]
+    }
+  ],
+  "other": []
+}

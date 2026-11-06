@@ -1,0 +1,617 @@
+{
+  "raceId": "nc-senate-31",
+  "candidates": [
+    {"name":"Dana Caudill Jones","party":"R"},
+    {"name":"Andy Bowline","party":"D"}
+  ],
+  "precincts": [
+    {
+      "key": "FORSYTH|101",
+      "county": "FORSYTH",
+      "precinct": "101",
+      "votes": [
+        [184,271,8,0],
+        [225,673,36,0]
+      ]
+    },
+    {
+      "key": "FORSYTH|111",
+      "county": "FORSYTH",
+      "precinct": "111",
+      "votes": [
+        [324,413,7,0],
+        [77,213,17,0]
+      ]
+    },
+    {
+      "key": "FORSYTH|112",
+      "county": "FORSYTH",
+      "precinct": "112",
+      "votes": [
+        [306,719,15,0],
+        [138,566,24,0]
+      ]
+    },
+    {
+      "key": "FORSYTH|12",
+      "county": "FORSYTH",
+      "precinct": "012",
+      "votes": [
+        [392,645,21,0],
+        [196,444,22,0]
+      ]
+    },
+    {
+      "key": "FORSYTH|13",
+      "county": "FORSYTH",
+      "precinct": "013",
+      "votes": [
+        [376,724,24,0],
+        [286,945,43,0]
+      ]
+    },
+    {
+      "key": "FORSYTH|131",
+      "county": "FORSYTH",
+      "precinct": "131",
+      "votes": [
+        [368,685,41,0],
+        [282,1083,57,0]
+      ]
+    },
+    {
+      "key": "FORSYTH|132",
+      "county": "FORSYTH",
+      "precinct": "132",
+      "votes": [
+        [479,755,25,0],
+        [387,1263,74,0]
+      ]
+    },
+    {
+      "key": "FORSYTH|134",
+      "county": "FORSYTH",
+      "precinct": "134",
+      "votes": [
+        [413,756,26,0],
+        [183,794,47,0]
+      ]
+    },
+    {
+      "key": "FORSYTH|135",
+      "county": "FORSYTH",
+      "precinct": "135",
+      "votes": [
+        [315,705,36,0],
+        [209,1040,68,0]
+      ]
+    },
+    {
+      "key": "FORSYTH|14",
+      "county": "FORSYTH",
+      "precinct": "014",
+      "votes": [
+        [190,545,22,0],
+        [113,457,37,0]
+      ]
+    },
+    {
+      "key": "FORSYTH|15",
+      "county": "FORSYTH",
+      "precinct": "015",
+      "votes": [
+        [402,810,28,0],
+        [337,1174,44,0]
+      ]
+    },
+    {
+      "key": "FORSYTH|16",
+      "county": "FORSYTH",
+      "precinct": "016",
+      "votes": [
+        [277,454,17,0],
+        [228,752,21,0]
+      ]
+    },
+    {
+      "key": "FORSYTH|17",
+      "county": "FORSYTH",
+      "precinct": "017",
+      "votes": [
+        [224,353,17,0],
+        [144,478,23,0]
+      ]
+    },
+    {
+      "key": "FORSYTH|21",
+      "county": "FORSYTH",
+      "precinct": "021",
+      "votes": [
+        [716,882,19,0],
+        [174,505,29,0]
+      ]
+    },
+    {
+      "key": "FORSYTH|31",
+      "county": "FORSYTH",
+      "precinct": "031",
+      "votes": [
+        [191,457,7,0],
+        [107,469,14,0]
+      ]
+    },
+    {
+      "key": "FORSYTH|32",
+      "county": "FORSYTH",
+      "precinct": "032",
+      "votes": [
+        [284,617,16,0],
+        [238,780,21,0]
+      ]
+    },
+    {
+      "key": "FORSYTH|33",
+      "county": "FORSYTH",
+      "precinct": "033",
+      "votes": [
+        [172,276,12,0],
+        [233,651,27,0]
+      ]
+    },
+    {
+      "key": "FORSYTH|34",
+      "county": "FORSYTH",
+      "precinct": "034",
+      "votes": [
+        [189,428,8,0],
+        [143,475,10,0]
+      ]
+    },
+    {
+      "key": "FORSYTH|43",
+      "county": "FORSYTH",
+      "precinct": "043",
+      "votes": [
+        [266,341,9,0],
+        [243,550,12,0]
+      ]
+    },
+    {
+      "key": "FORSYTH|508",
+      "county": "FORSYTH",
+      "precinct": "508",
+      "votes": [
+        [146,208,2,0],
+        [313,827,33,0]
+      ]
+    },
+    {
+      "key": "FORSYTH|509",
+      "county": "FORSYTH",
+      "precinct": "509",
+      "votes": [
+        [190,203,5,0],
+        [324,652,17,0]
+      ]
+    },
+    {
+      "key": "FORSYTH|51",
+      "county": "FORSYTH",
+      "precinct": "051",
+      "votes": [
+        [339,584,19,0],
+        [202,848,46,0]
+      ]
+    },
+    {
+      "key": "FORSYTH|52",
+      "county": "FORSYTH",
+      "precinct": "052",
+      "votes": [
+        [173,206,9,0],
+        [112,289,12,0]
+      ]
+    },
+    {
+      "key": "FORSYTH|53",
+      "county": "FORSYTH",
+      "precinct": "053",
+      "votes": [
+        [408,629,19,0],
+        [164,609,39,0]
+      ]
+    },
+    {
+      "key": "FORSYTH|54",
+      "county": "FORSYTH",
+      "precinct": "054",
+      "votes": [
+        [282,607,22,0],
+        [154,659,42,0]
+      ]
+    },
+    {
+      "key": "FORSYTH|55",
+      "county": "FORSYTH",
+      "precinct": "055",
+      "votes": [
+        [398,837,29,0],
+        [249,975,70,0]
+      ]
+    },
+    {
+      "key": "FORSYTH|61",
+      "county": "FORSYTH",
+      "precinct": "061",
+      "votes": [
+        [218,421,12,0],
+        [131,512,29,0]
+      ]
+    },
+    {
+      "key": "FORSYTH|62",
+      "county": "FORSYTH",
+      "precinct": "062",
+      "votes": [
+        [305,402,4,0],
+        [132,372,21,0]
+      ]
+    },
+    {
+      "key": "FORSYTH|63",
+      "county": "FORSYTH",
+      "precinct": "063",
+      "votes": [
+        [423,867,23,0],
+        [250,683,35,0]
+      ]
+    },
+    {
+      "key": "FORSYTH|64",
+      "county": "FORSYTH",
+      "precinct": "064",
+      "votes": [
+        [137,245,6,0],
+        [105,235,8,0]
+      ]
+    },
+    {
+      "key": "FORSYTH|65",
+      "county": "FORSYTH",
+      "precinct": "065",
+      "votes": [
+        [543,856,45,0],
+        [285,944,55,0]
+      ]
+    },
+    {
+      "key": "FORSYTH|66",
+      "county": "FORSYTH",
+      "precinct": "066",
+      "votes": [
+        [346,485,8,0],
+        [191,396,18,0]
+      ]
+    },
+    {
+      "key": "FORSYTH|67",
+      "county": "FORSYTH",
+      "precinct": "067",
+      "votes": [
+        [159,276,11,0],
+        [134,365,14,0]
+      ]
+    },
+    {
+      "key": "FORSYTH|68",
+      "county": "FORSYTH",
+      "precinct": "068",
+      "votes": [
+        [394,495,15,0],
+        [165,526,25,0]
+      ]
+    },
+    {
+      "key": "FORSYTH|71",
+      "county": "FORSYTH",
+      "precinct": "071",
+      "votes": [
+        [322,815,25,0],
+        [243,971,46,0]
+      ]
+    },
+    {
+      "key": "FORSYTH|73",
+      "county": "FORSYTH",
+      "precinct": "073",
+      "votes": [
+        [527,913,17,0],
+        [192,733,31,0]
+      ]
+    },
+    {
+      "key": "FORSYTH|74",
+      "county": "FORSYTH",
+      "precinct": "074",
+      "votes": [
+        [296,577,13,0],
+        [284,1057,71,0]
+      ]
+    },
+    {
+      "key": "FORSYTH|75",
+      "county": "FORSYTH",
+      "precinct": "075",
+      "votes": [
+        [125,200,5,0],
+        [39,136,5,0]
+      ]
+    },
+    {
+      "key": "FORSYTH|76",
+      "county": "FORSYTH",
+      "precinct": "076",
+      "votes": [
+        [288,635,18,0],
+        [170,704,39,0]
+      ]
+    },
+    {
+      "key": "FORSYTH|77",
+      "county": "FORSYTH",
+      "precinct": "077",
+      "votes": [
+        [221,467,14,0],
+        [192,723,33,0]
+      ]
+    },
+    {
+      "key": "FORSYTH|84",
+      "county": "FORSYTH",
+      "precinct": "084",
+      "votes": [
+        [108,232,6,0],
+        [188,883,33,0]
+      ]
+    },
+    {
+      "key": "FORSYTH|85",
+      "county": "FORSYTH",
+      "precinct": "085",
+      "votes": [
+        [179,448,11,0],
+        [118,586,24,0]
+      ]
+    },
+    {
+      "key": "FORSYTH|91",
+      "county": "FORSYTH",
+      "precinct": "091",
+      "votes": [
+        [425,392,14,0],
+        [115,282,8,0]
+      ]
+    },
+    {
+      "key": "FORSYTH|92",
+      "county": "FORSYTH",
+      "precinct": "092",
+      "votes": [
+        [395,351,11,0],
+        [112,242,21,0]
+      ]
+    },
+    {
+      "key": "STOKES|1",
+      "county": "STOKES",
+      "precinct": "01",
+      "votes": [
+        [177,0,0,0],
+        [31,0,0,0]
+      ]
+    },
+    {
+      "key": "STOKES|10",
+      "county": "STOKES",
+      "precinct": "10",
+      "votes": [
+        [548,0,0,0],
+        [176,0,0,0]
+      ]
+    },
+    {
+      "key": "STOKES|11",
+      "county": "STOKES",
+      "precinct": "11",
+      "votes": [
+        [448,0,0,0],
+        [126,0,0,0]
+      ]
+    },
+    {
+      "key": "STOKES|12",
+      "county": "STOKES",
+      "precinct": "12",
+      "votes": [
+        [394,0,0,0],
+        [72,0,0,0]
+      ]
+    },
+    {
+      "key": "STOKES|13",
+      "county": "STOKES",
+      "precinct": "13",
+      "votes": [
+        [316,0,0,0],
+        [69,0,0,0]
+      ]
+    },
+    {
+      "key": "STOKES|140",
+      "county": "STOKES",
+      "precinct": "140",
+      "votes": [
+        [338,0,0,0],
+        [63,0,0,0]
+      ]
+    },
+    {
+      "key": "STOKES|150",
+      "county": "STOKES",
+      "precinct": "150",
+      "votes": [
+        [257,0,0,0],
+        [69,0,0,0]
+      ]
+    },
+    {
+      "key": "STOKES|1618",
+      "county": "STOKES",
+      "precinct": "1618",
+      "votes": [
+        [239,0,0,0],
+        [101,0,0,0]
+      ]
+    },
+    {
+      "key": "STOKES|17",
+      "county": "STOKES",
+      "precinct": "17",
+      "votes": [
+        [239,0,0,0],
+        [52,0,0,0]
+      ]
+    },
+    {
+      "key": "STOKES|1819",
+      "county": "STOKES",
+      "precinct": "1819",
+      "votes": [
+        [249,0,0,0],
+        [64,0,0,0]
+      ]
+    },
+    {
+      "key": "STOKES|2",
+      "county": "STOKES",
+      "precinct": "02",
+      "votes": [
+        [447,0,0,0],
+        [81,0,0,0]
+      ]
+    },
+    {
+      "key": "STOKES|20",
+      "county": "STOKES",
+      "precinct": "20",
+      "votes": [
+        [305,0,0,0],
+        [77,0,0,0]
+      ]
+    },
+    {
+      "key": "STOKES|3",
+      "county": "STOKES",
+      "precinct": "03",
+      "votes": [
+        [307,0,0,0],
+        [52,0,0,0]
+      ]
+    },
+    {
+      "key": "STOKES|4",
+      "county": "STOKES",
+      "precinct": "04",
+      "votes": [
+        [324,0,0,0],
+        [58,0,0,0]
+      ]
+    },
+    {
+      "key": "STOKES|506",
+      "county": "STOKES",
+      "precinct": "0506",
+      "votes": [
+        [417,0,0,0],
+        [109,0,0,0]
+      ]
+    },
+    {
+      "key": "STOKES|7",
+      "county": "STOKES",
+      "precinct": "07",
+      "votes": [
+        [167,0,0,0],
+        [42,0,0,0]
+      ]
+    },
+    {
+      "key": "STOKES|8",
+      "county": "STOKES",
+      "precinct": "08",
+      "votes": [
+        [323,0,0,0],
+        [56,0,0,0]
+      ]
+    },
+    {
+      "key": "STOKES|9",
+      "county": "STOKES",
+      "precinct": "09",
+      "votes": [
+        [394,0,0,0],
+        [104,0,0,0]
+      ]
+    }
+  ],
+  "other": [
+    {
+      "county": "STOKES",
+      "label": "ABSENTEE",
+      "votes": [
+        [0,0,126,0],
+        [0,0,151,0]
+      ]
+    },
+    {
+      "county": "STOKES",
+      "label": "EV DANBURY",
+      "votes": [
+        [0,1001,0,0],
+        [0,394,0,0]
+      ]
+    },
+    {
+      "county": "STOKES",
+      "label": "EV KING",
+      "votes": [
+        [0,3869,0,0],
+        [0,1771,0,0]
+      ]
+    },
+    {
+      "county": "STOKES",
+      "label": "EV WALNUT COVE",
+      "votes": [
+        [0,1733,0,0],
+        [0,963,0,0]
+      ]
+    },
+    {
+      "county": "STOKES",
+      "label": "PROVISIONAL",
+      "votes": [
+        [0,0,0,0],
+        [0,0,0,0]
+      ]
+    },
+    {
+      "county": "STOKES",
+      "label": "TRANSFER",
+      "votes": [
+        [0,0,0,0],
+        [0,0,0,0]
+      ]
+    }
+  ]
+}

@@ -1,0 +1,785 @@
+{
+  "raceId": "nc-senate-36",
+  "candidates": [
+    {"name":"Eddie Settle","party":"R"},
+    {"name":"Trevor Cole Hardwick","party":"D"}
+  ],
+  "precincts": [
+    {
+      "key": "ALEXANDER|B1",
+      "county": "ALEXANDER",
+      "precinct": "B1",
+      "votes": [
+        [455,759,5,0],
+        [112,339,17,0]
+      ]
+    },
+    {
+      "key": "ALEXANDER|B2",
+      "county": "ALEXANDER",
+      "precinct": "B2",
+      "votes": [
+        [524,873,9,0],
+        [122,424,11,0]
+      ]
+    },
+    {
+      "key": "ALEXANDER|E",
+      "county": "ALEXANDER",
+      "precinct": "E",
+      "votes": [
+        [392,578,2,0],
+        [79,240,8,0]
+      ]
+    },
+    {
+      "key": "ALEXANDER|G1G2",
+      "county": "ALEXANDER",
+      "precinct": "G1G2",
+      "votes": [
+        [346,365,1,0],
+        [46,107,7,0]
+      ]
+    },
+    {
+      "key": "ALEXANDER|LRSL",
+      "county": "ALEXANDER",
+      "precinct": "LRSL",
+      "votes": [
+        [388,487,4,0],
+        [48,121,3,0]
+      ]
+    },
+    {
+      "key": "ALEXANDER|M",
+      "county": "ALEXANDER",
+      "precinct": "M",
+      "votes": [
+        [321,297,4,0],
+        [83,143,3,0]
+      ]
+    },
+    {
+      "key": "ALEXANDER|S1S2",
+      "county": "ALEXANDER",
+      "precinct": "S1S2",
+      "votes": [
+        [414,692,2,0],
+        [78,201,6,0]
+      ]
+    },
+    {
+      "key": "ALEXANDER|T1T4T5",
+      "county": "ALEXANDER",
+      "precinct": "T1T4T5",
+      "votes": [
+        [490,924,9,0],
+        [124,371,14,0]
+      ]
+    },
+    {
+      "key": "ALEXANDER|T2T3",
+      "county": "ALEXANDER",
+      "precinct": "T2T3",
+      "votes": [
+        [320,574,4,0],
+        [86,327,5,0]
+      ]
+    },
+    {
+      "key": "ALEXANDER|W",
+      "county": "ALEXANDER",
+      "precinct": "W",
+      "votes": [
+        [343,499,9,0],
+        [71,140,6,0]
+      ]
+    },
+    {
+      "key": "SURRY|1",
+      "county": "SURRY",
+      "precinct": "01",
+      "votes": [
+        [385,0,0,0],
+        [72,0,0,0]
+      ]
+    },
+    {
+      "key": "SURRY|10",
+      "county": "SURRY",
+      "precinct": "10",
+      "votes": [
+        [220,0,0,0],
+        [32,0,0,0]
+      ]
+    },
+    {
+      "key": "SURRY|11",
+      "county": "SURRY",
+      "precinct": "11",
+      "votes": [
+        [141,0,0,0],
+        [57,0,0,0]
+      ]
+    },
+    {
+      "key": "SURRY|12",
+      "county": "SURRY",
+      "precinct": "12",
+      "votes": [
+        [192,0,0,0],
+        [100,0,0,0]
+      ]
+    },
+    {
+      "key": "SURRY|15",
+      "county": "SURRY",
+      "precinct": "15",
+      "votes": [
+        [225,0,0,0],
+        [109,0,0,0]
+      ]
+    },
+    {
+      "key": "SURRY|16",
+      "county": "SURRY",
+      "precinct": "16",
+      "votes": [
+        [221,0,0,0],
+        [45,0,0,0]
+      ]
+    },
+    {
+      "key": "SURRY|17",
+      "county": "SURRY",
+      "precinct": "17",
+      "votes": [
+        [169,0,0,0],
+        [43,0,0,0]
+      ]
+    },
+    {
+      "key": "SURRY|18",
+      "county": "SURRY",
+      "precinct": "18",
+      "votes": [
+        [224,0,0,0],
+        [61,0,0,0]
+      ]
+    },
+    {
+      "key": "SURRY|19",
+      "county": "SURRY",
+      "precinct": "19",
+      "votes": [
+        [308,0,0,0],
+        [124,0,0,0]
+      ]
+    },
+    {
+      "key": "SURRY|22",
+      "county": "SURRY",
+      "precinct": "22",
+      "votes": [
+        [187,0,0,0],
+        [45,0,0,0]
+      ]
+    },
+    {
+      "key": "SURRY|23",
+      "county": "SURRY",
+      "precinct": "23",
+      "votes": [
+        [322,0,0,0],
+        [64,0,0,0]
+      ]
+    },
+    {
+      "key": "SURRY|24",
+      "county": "SURRY",
+      "precinct": "24",
+      "votes": [
+        [167,0,0,0],
+        [36,0,0,0]
+      ]
+    },
+    {
+      "key": "SURRY|25",
+      "county": "SURRY",
+      "precinct": "25",
+      "votes": [
+        [209,0,0,0],
+        [57,0,0,0]
+      ]
+    },
+    {
+      "key": "SURRY|26",
+      "county": "SURRY",
+      "precinct": "26",
+      "votes": [
+        [334,0,0,0],
+        [63,0,0,0]
+      ]
+    },
+    {
+      "key": "SURRY|27",
+      "county": "SURRY",
+      "precinct": "27",
+      "votes": [
+        [283,0,0,0],
+        [57,0,0,0]
+      ]
+    },
+    {
+      "key": "SURRY|28",
+      "county": "SURRY",
+      "precinct": "28",
+      "votes": [
+        [158,0,0,0],
+        [54,0,0,0]
+      ]
+    },
+    {
+      "key": "SURRY|29",
+      "county": "SURRY",
+      "precinct": "29",
+      "votes": [
+        [285,0,0,0],
+        [114,0,0,0]
+      ]
+    },
+    {
+      "key": "SURRY|30",
+      "county": "SURRY",
+      "precinct": "30",
+      "votes": [
+        [435,0,0,0],
+        [184,0,0,0]
+      ]
+    },
+    {
+      "key": "SURRY|32",
+      "county": "SURRY",
+      "precinct": "32",
+      "votes": [
+        [378,0,0,0],
+        [129,0,0,0]
+      ]
+    },
+    {
+      "key": "SURRY|34",
+      "county": "SURRY",
+      "precinct": "34",
+      "votes": [
+        [485,0,0,0],
+        [206,0,0,0]
+      ]
+    },
+    {
+      "key": "SURRY|4",
+      "county": "SURRY",
+      "precinct": "04",
+      "votes": [
+        [199,0,0,0],
+        [70,0,0,0]
+      ]
+    },
+    {
+      "key": "SURRY|5",
+      "county": "SURRY",
+      "precinct": "05",
+      "votes": [
+        [364,0,0,0],
+        [61,0,0,0]
+      ]
+    },
+    {
+      "key": "SURRY|9",
+      "county": "SURRY",
+      "precinct": "09",
+      "votes": [
+        [241,0,0,0],
+        [41,0,0,0]
+      ]
+    },
+    {
+      "key": "WILKES|101",
+      "county": "WILKES",
+      "precinct": "101",
+      "votes": [
+        [212,0,0,0],
+        [38,0,0,0]
+      ]
+    },
+    {
+      "key": "WILKES|102",
+      "county": "WILKES",
+      "precinct": "102",
+      "votes": [
+        [333,0,0,0],
+        [108,0,0,0]
+      ]
+    },
+    {
+      "key": "WILKES|103",
+      "county": "WILKES",
+      "precinct": "103",
+      "votes": [
+        [177,0,0,0],
+        [22,0,0,0]
+      ]
+    },
+    {
+      "key": "WILKES|104",
+      "county": "WILKES",
+      "precinct": "104",
+      "votes": [
+        [304,0,0,0],
+        [81,0,0,0]
+      ]
+    },
+    {
+      "key": "WILKES|105",
+      "county": "WILKES",
+      "precinct": "105",
+      "votes": [
+        [323,0,0,0],
+        [39,0,0,0]
+      ]
+    },
+    {
+      "key": "WILKES|106",
+      "county": "WILKES",
+      "precinct": "106",
+      "votes": [
+        [250,0,0,0],
+        [54,0,0,0]
+      ]
+    },
+    {
+      "key": "WILKES|107",
+      "county": "WILKES",
+      "precinct": "107",
+      "votes": [
+        [526,0,0,0],
+        [94,0,0,0]
+      ]
+    },
+    {
+      "key": "WILKES|108",
+      "county": "WILKES",
+      "precinct": "108",
+      "votes": [
+        [253,0,0,0],
+        [92,0,0,0]
+      ]
+    },
+    {
+      "key": "WILKES|109",
+      "county": "WILKES",
+      "precinct": "109",
+      "votes": [
+        [190,0,0,0],
+        [55,0,0,0]
+      ]
+    },
+    {
+      "key": "WILKES|111",
+      "county": "WILKES",
+      "precinct": "111",
+      "votes": [
+        [387,0,0,0],
+        [100,0,0,0]
+      ]
+    },
+    {
+      "key": "WILKES|112",
+      "county": "WILKES",
+      "precinct": "112",
+      "votes": [
+        [499,0,0,0],
+        [99,0,0,0]
+      ]
+    },
+    {
+      "key": "WILKES|113A",
+      "county": "WILKES",
+      "precinct": "113A",
+      "votes": [
+        [395,0,0,0],
+        [75,0,0,0]
+      ]
+    },
+    {
+      "key": "WILKES|114",
+      "county": "WILKES",
+      "precinct": "114",
+      "votes": [
+        [254,0,0,0],
+        [44,0,0,0]
+      ]
+    },
+    {
+      "key": "WILKES|115A",
+      "county": "WILKES",
+      "precinct": "115A",
+      "votes": [
+        [763,0,0,0],
+        [165,0,0,0]
+      ]
+    },
+    {
+      "key": "WILKES|117",
+      "county": "WILKES",
+      "precinct": "117",
+      "votes": [
+        [393,0,0,0],
+        [70,0,0,0]
+      ]
+    },
+    {
+      "key": "WILKES|118",
+      "county": "WILKES",
+      "precinct": "118",
+      "votes": [
+        [266,0,0,0],
+        [174,0,0,0]
+      ]
+    },
+    {
+      "key": "WILKES|119",
+      "county": "WILKES",
+      "precinct": "119",
+      "votes": [
+        [680,0,0,0],
+        [170,0,0,0]
+      ]
+    },
+    {
+      "key": "WILKES|120A",
+      "county": "WILKES",
+      "precinct": "120A",
+      "votes": [
+        [799,0,0,0],
+        [156,0,0,0]
+      ]
+    },
+    {
+      "key": "WILKES|122",
+      "county": "WILKES",
+      "precinct": "122",
+      "votes": [
+        [345,0,0,0],
+        [26,0,0,0]
+      ]
+    },
+    {
+      "key": "WILKES|123A",
+      "county": "WILKES",
+      "precinct": "123A",
+      "votes": [
+        [533,0,0,0],
+        [81,0,0,0]
+      ]
+    },
+    {
+      "key": "WILKES|125",
+      "county": "WILKES",
+      "precinct": "125",
+      "votes": [
+        [252,0,0,0],
+        [39,0,0,0]
+      ]
+    },
+    {
+      "key": "WILKES|126",
+      "county": "WILKES",
+      "precinct": "126",
+      "votes": [
+        [257,0,0,0],
+        [33,0,0,0]
+      ]
+    },
+    {
+      "key": "WILKES|127",
+      "county": "WILKES",
+      "precinct": "127",
+      "votes": [
+        [293,0,0,0],
+        [185,0,0,0]
+      ]
+    },
+    {
+      "key": "WILKES|128",
+      "county": "WILKES",
+      "precinct": "128",
+      "votes": [
+        [587,0,0,0],
+        [164,0,0,0]
+      ]
+    },
+    {
+      "key": "WILKES|129",
+      "county": "WILKES",
+      "precinct": "129",
+      "votes": [
+        [395,0,0,0],
+        [131,0,0,0]
+      ]
+    },
+    {
+      "key": "YADKIN|BNVL",
+      "county": "YADKIN",
+      "precinct": "BNVL",
+      "votes": [
+        [537,0,0,0],
+        [164,0,0,0]
+      ]
+    },
+    {
+      "key": "YADKIN|DCRK",
+      "county": "YADKIN",
+      "precinct": "DCRK",
+      "votes": [
+        [344,0,0,0],
+        [97,0,0,0]
+      ]
+    },
+    {
+      "key": "YADKIN|EBND",
+      "county": "YADKIN",
+      "precinct": "EBND",
+      "votes": [
+        [569,0,0,0],
+        [146,0,0,0]
+      ]
+    },
+    {
+      "key": "YADKIN|FBSH",
+      "county": "YADKIN",
+      "precinct": "FBSH",
+      "votes": [
+        [667,0,0,0],
+        [151,0,0,0]
+      ]
+    },
+    {
+      "key": "YADKIN|NBCK",
+      "county": "YADKIN",
+      "precinct": "NBCK",
+      "votes": [
+        [382,0,0,0],
+        [75,0,0,0]
+      ]
+    },
+    {
+      "key": "YADKIN|NFAL",
+      "county": "YADKIN",
+      "precinct": "NFAL",
+      "votes": [
+        [289,0,0,0],
+        [53,0,0,0]
+      ]
+    },
+    {
+      "key": "YADKIN|NKNB",
+      "county": "YADKIN",
+      "precinct": "NKNB",
+      "votes": [
+        [668,0,0,0],
+        [226,0,0,0]
+      ]
+    },
+    {
+      "key": "YADKIN|NLIB",
+      "county": "YADKIN",
+      "precinct": "NLIB",
+      "votes": [
+        [452,0,0,0],
+        [152,0,0,0]
+      ]
+    },
+    {
+      "key": "YADKIN|SBCK",
+      "county": "YADKIN",
+      "precinct": "SBCK",
+      "votes": [
+        [232,0,0,0],
+        [53,0,0,0]
+      ]
+    },
+    {
+      "key": "YADKIN|SFAL",
+      "county": "YADKIN",
+      "precinct": "SFAL",
+      "votes": [
+        [357,0,0,0],
+        [69,0,0,0]
+      ]
+    },
+    {
+      "key": "YADKIN|SKNB",
+      "county": "YADKIN",
+      "precinct": "SKNB",
+      "votes": [
+        [349,0,0,0],
+        [46,0,0,0]
+      ]
+    },
+    {
+      "key": "YADKIN|SLIB",
+      "county": "YADKIN",
+      "precinct": "SLIB",
+      "votes": [
+        [444,0,0,0],
+        [73,0,0,0]
+      ]
+    }
+  ],
+  "other": [
+    {
+      "county": "SURRY",
+      "label": "ABSENTEE",
+      "votes": [
+        [0,0,245,0],
+        [0,0,295,0]
+      ]
+    },
+    {
+      "county": "SURRY",
+      "label": "DOB EV",
+      "votes": [
+        [0,2468,0,0],
+        [0,1263,0,0]
+      ]
+    },
+    {
+      "county": "SURRY",
+      "label": "ELK EV",
+      "votes": [
+        [0,1410,0,0],
+        [0,890,0,0]
+      ]
+    },
+    {
+      "county": "SURRY",
+      "label": "MA EV",
+      "votes": [
+        [0,5036,0,0],
+        [0,2571,0,0]
+      ]
+    },
+    {
+      "county": "SURRY",
+      "label": "PM EV",
+      "votes": [
+        [0,1233,0,0],
+        [0,550,0,0]
+      ]
+    },
+    {
+      "county": "SURRY",
+      "label": "PROVISIONAL",
+      "votes": [
+        [0,0,0,0],
+        [0,0,0,0]
+      ]
+    },
+    {
+      "county": "SURRY",
+      "label": "TRANSFER",
+      "votes": [
+        [0,0,0,0],
+        [0,0,0,0]
+      ]
+    },
+    {
+      "county": "WILKES",
+      "label": "ABSENTEE",
+      "votes": [
+        [0,0,242,0],
+        [0,0,221,0]
+      ]
+    },
+    {
+      "county": "WILKES",
+      "label": "ABSENTEE SUP",
+      "votes": [
+        [0,0,0,0],
+        [0,0,0,0]
+      ]
+    },
+    {
+      "county": "WILKES",
+      "label": "EV CFD",
+      "votes": [
+        [0,1084,0,0],
+        [0,354,0,0]
+      ]
+    },
+    {
+      "county": "WILKES",
+      "label": "EV OFFICE",
+      "votes": [
+        [0,4983,0,0],
+        [0,2745,0,0]
+      ]
+    },
+    {
+      "county": "WILKES",
+      "label": "EV PHFD",
+      "votes": [
+        [0,1340,0,0],
+        [0,446,0,0]
+      ]
+    },
+    {
+      "county": "WILKES",
+      "label": "PROVISIONAL",
+      "votes": [
+        [0,0,0,0],
+        [0,0,0,0]
+      ]
+    },
+    {
+      "county": "WILKES",
+      "label": "TRANSFER",
+      "votes": [
+        [0,0,0,0],
+        [0,0,0,0]
+      ]
+    },
+    {
+      "county": "YADKIN",
+      "label": "ABSENTEE",
+      "votes": [
+        [0,0,108,0],
+        [0,0,118,0]
+      ]
+    },
+    {
+      "county": "YADKIN",
+      "label": "EARLY VOTING",
+      "votes": [
+        [0,4738,0,0],
+        [0,1896,0,0]
+      ]
+    },
+    {
+      "county": "YADKIN",
+      "label": "PROVISIONAL",
+      "votes": [
+        [0,0,0,0],
+        [0,0,0,0]
+      ]
+    },
+    {
+      "county": "YADKIN",
+      "label": "TRANSFER",
+      "votes": [
+        [0,0,0,0],
+        [0,0,0,0]
+      ]
+    }
+  ]
+}

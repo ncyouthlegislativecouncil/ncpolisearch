@@ -1,0 +1,249 @@
+{
+  "raceId": "nc-house-072",
+  "candidates": [
+    {"name":"Amber M. Baker","party":"D"}
+  ],
+  "precincts": [
+    {
+      "key": "FORSYTH|202",
+      "county": "FORSYTH",
+      "precinct": "202",
+      "votes": [
+        [203,756,41,0]
+      ]
+    },
+    {
+      "key": "FORSYTH|203",
+      "county": "FORSYTH",
+      "precinct": "203",
+      "votes": [
+        [267,404,6,0]
+      ]
+    },
+    {
+      "key": "FORSYTH|204",
+      "county": "FORSYTH",
+      "precinct": "204",
+      "votes": [
+        [190,465,9,0]
+      ]
+    },
+    {
+      "key": "FORSYTH|205",
+      "county": "FORSYTH",
+      "precinct": "205",
+      "votes": [
+        [138,173,7,0]
+      ]
+    },
+    {
+      "key": "FORSYTH|206",
+      "county": "FORSYTH",
+      "precinct": "206",
+      "votes": [
+        [198,553,16,0]
+      ]
+    },
+    {
+      "key": "FORSYTH|208",
+      "county": "FORSYTH",
+      "precinct": "208",
+      "votes": [
+        [200,506,18,0]
+      ]
+    },
+    {
+      "key": "FORSYTH|301",
+      "county": "FORSYTH",
+      "precinct": "301",
+      "votes": [
+        [111,193,3,0]
+      ]
+    },
+    {
+      "key": "FORSYTH|302",
+      "county": "FORSYTH",
+      "precinct": "302",
+      "votes": [
+        [106,248,4,0]
+      ]
+    },
+    {
+      "key": "FORSYTH|303",
+      "county": "FORSYTH",
+      "precinct": "303",
+      "votes": [
+        [74,147,3,0]
+      ]
+    },
+    {
+      "key": "FORSYTH|304",
+      "county": "FORSYTH",
+      "precinct": "304",
+      "votes": [
+        [206,678,16,0]
+      ]
+    },
+    {
+      "key": "FORSYTH|305",
+      "county": "FORSYTH",
+      "precinct": "305",
+      "votes": [
+        [169,626,7,0]
+      ]
+    },
+    {
+      "key": "FORSYTH|306",
+      "county": "FORSYTH",
+      "precinct": "306",
+      "votes": [
+        [192,401,9,0]
+      ]
+    },
+    {
+      "key": "FORSYTH|401",
+      "county": "FORSYTH",
+      "precinct": "401",
+      "votes": [
+        [147,526,31,0]
+      ]
+    },
+    {
+      "key": "FORSYTH|402",
+      "county": "FORSYTH",
+      "precinct": "402",
+      "votes": [
+        [154,297,5,0]
+      ]
+    },
+    {
+      "key": "FORSYTH|403",
+      "county": "FORSYTH",
+      "precinct": "403",
+      "votes": [
+        [204,479,13,0]
+      ]
+    },
+    {
+      "key": "FORSYTH|404",
+      "county": "FORSYTH",
+      "precinct": "404",
+      "votes": [
+        [293,681,30,0]
+      ]
+    },
+    {
+      "key": "FORSYTH|801",
+      "county": "FORSYTH",
+      "precinct": "801",
+      "votes": [
+        [140,502,23,0]
+      ]
+    },
+    {
+      "key": "FORSYTH|802",
+      "county": "FORSYTH",
+      "precinct": "802",
+      "votes": [
+        [227,586,40,0]
+      ]
+    },
+    {
+      "key": "FORSYTH|803",
+      "county": "FORSYTH",
+      "precinct": "803",
+      "votes": [
+        [256,521,47,0]
+      ]
+    },
+    {
+      "key": "FORSYTH|804",
+      "county": "FORSYTH",
+      "precinct": "804",
+      "votes": [
+        [194,447,26,0]
+      ]
+    },
+    {
+      "key": "FORSYTH|805",
+      "county": "FORSYTH",
+      "precinct": "805",
+      "votes": [
+        [322,871,75,0]
+      ]
+    },
+    {
+      "key": "FORSYTH|809",
+      "county": "FORSYTH",
+      "precinct": "809",
+      "votes": [
+        [308,1067,73,0]
+      ]
+    },
+    {
+      "key": "FORSYTH|901",
+      "county": "FORSYTH",
+      "precinct": "901",
+      "votes": [
+        [272,737,45,0]
+      ]
+    },
+    {
+      "key": "FORSYTH|902",
+      "county": "FORSYTH",
+      "precinct": "902",
+      "votes": [
+        [310,768,36,0]
+      ]
+    },
+    {
+      "key": "FORSYTH|903",
+      "county": "FORSYTH",
+      "precinct": "903",
+      "votes": [
+        [302,747,89,0]
+      ]
+    },
+    {
+      "key": "FORSYTH|904",
+      "county": "FORSYTH",
+      "precinct": "904",
+      "votes": [
+        [275,772,32,0]
+      ]
+    },
+    {
+      "key": "FORSYTH|905",
+      "county": "FORSYTH",
+      "precinct": "905",
+      "votes": [
+        [285,762,50,0]
+      ]
+    },
+    {
+      "key": "FORSYTH|906",
+      "county": "FORSYTH",
+      "precinct": "906",
+      "votes": [
+        [370,1232,67,0]
+      ]
+    },
+    {
+      "key": "FORSYTH|907",
+      "county": "FORSYTH",
+      "precinct": "907",
+      "votes": [
+        [222,698,40,0]
+      ]
+    },
+    {
+      "key": "FORSYTH|909",
+      "county": "FORSYTH",
+      "precinct": "909",
+      "votes": [
+        [151,438,27,0]
+      ]
+    }
+  ],
+  "other": []
+}

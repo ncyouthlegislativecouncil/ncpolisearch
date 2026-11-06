@@ -1,0 +1,163 @@
+{
+  "raceId": "nc-house-111",
+  "candidates": [
+    {"name":"Paul Scott","party":"R"},
+    {"name":"Jerry Blake","party":"D"}
+  ],
+  "precincts": [
+    {
+      "key": "CLEVELAND|BETHWR",
+      "county": "CLEVELAND",
+      "precinct": "BETHWR",
+      "votes": [
+        [378,324,2,0],
+        [86,185,2,0]
+      ]
+    },
+    {
+      "key": "CLEVELAND|BR",
+      "county": "CLEVELAND",
+      "precinct": "BR",
+      "votes": [
+        [593,1084,14,0],
+        [190,608,15,0]
+      ]
+    },
+    {
+      "key": "CLEVELAND|GROVER",
+      "county": "CLEVELAND",
+      "precinct": "GROVER",
+      "votes": [
+        [579,484,10,0],
+        [159,300,21,0]
+      ]
+    },
+    {
+      "key": "CLEVELAND|KM N",
+      "county": "CLEVELAND",
+      "precinct": "KM N",
+      "votes": [
+        [535,879,23,0],
+        [251,787,35,0]
+      ]
+    },
+    {
+      "key": "CLEVELAND|KM S",
+      "county": "CLEVELAND",
+      "precinct": "KM S",
+      "votes": [
+        [484,760,13,0],
+        [252,753,31,0]
+      ]
+    },
+    {
+      "key": "CLEVELAND|LATT",
+      "county": "CLEVELAND",
+      "precinct": "LATT",
+      "votes": [
+        [455,502,8,0],
+        [128,266,7,0]
+      ]
+    },
+    {
+      "key": "CLEVELAND|MRB-YO",
+      "county": "CLEVELAND",
+      "precinct": "MRB-YO",
+      "votes": [
+        [316,309,3,0],
+        [67,119,1,0]
+      ]
+    },
+    {
+      "key": "CLEVELAND|OAKGRV",
+      "county": "CLEVELAND",
+      "precinct": "OAKGRV",
+      "votes": [
+        [646,765,16,0],
+        [163,331,16,0]
+      ]
+    },
+    {
+      "key": "CLEVELAND|RIPPY",
+      "county": "CLEVELAND",
+      "precinct": "RIPPY",
+      "votes": [
+        [595,478,9,0],
+        [227,428,14,0]
+      ]
+    },
+    {
+      "key": "CLEVELAND|S S",
+      "county": "CLEVELAND",
+      "precinct": "S S",
+      "votes": [
+        [415,837,20,0],
+        [445,1263,37,0]
+      ]
+    },
+    {
+      "key": "CLEVELAND|SHANGI",
+      "county": "CLEVELAND",
+      "precinct": "SHANGI",
+      "votes": [
+        [334,554,7,0],
+        [116,372,5,0]
+      ]
+    },
+    {
+      "key": "RUTHERFORD|10A",
+      "county": "RUTHERFORD",
+      "precinct": "10A",
+      "votes": [
+        [368,230,6,0],
+        [57,93,5,0]
+      ]
+    },
+    {
+      "key": "RUTHERFORD|11",
+      "county": "RUTHERFORD",
+      "precinct": "11",
+      "votes": [
+        [889,1001,22,0],
+        [193,405,13,0]
+      ]
+    },
+    {
+      "key": "RUTHERFORD|19",
+      "county": "RUTHERFORD",
+      "precinct": "19",
+      "votes": [
+        [391,306,2,0],
+        [100,129,3,0]
+      ]
+    },
+    {
+      "key": "RUTHERFORD|3A",
+      "county": "RUTHERFORD",
+      "precinct": "03A",
+      "votes": [
+        [474,415,4,0],
+        [73,143,8,0]
+      ]
+    },
+    {
+      "key": "RUTHERFORD|5A",
+      "county": "RUTHERFORD",
+      "precinct": "05A",
+      "votes": [
+        [442,359,7,0],
+        [150,180,9,0]
+      ]
+    },
+    {
+      "key": "RUTHERFORD|9A",
+      "county": "RUTHERFORD",
+      "precinct": "09A",
+      "votes": [
+        [533,724,15,0],
+        [109,237,11,0]
+      ]
+    }
+  ],
+  "other": []
+}

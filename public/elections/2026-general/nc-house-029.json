@@ -1,0 +1,221 @@
+{
+  "raceId": "nc-house-029",
+  "candidates": [
+    {"name":"Vernetta Alston","party":"D"}
+  ],
+  "precincts": [
+    {
+      "key": "DURHAM|27",
+      "county": "DURHAM",
+      "precinct": "27",
+      "votes": [
+        [429,0,0,0]
+      ]
+    },
+    {
+      "key": "DURHAM|34-1",
+      "county": "DURHAM",
+      "precinct": "34-1",
+      "votes": [
+        [495,0,0,0]
+      ]
+    },
+    {
+      "key": "DURHAM|34-2",
+      "county": "DURHAM",
+      "precinct": "34-2",
+      "votes": [
+        [656,0,0,0]
+      ]
+    },
+    {
+      "key": "DURHAM|35-4",
+      "county": "DURHAM",
+      "precinct": "35-4",
+      "votes": [
+        [453,0,0,0]
+      ]
+    },
+    {
+      "key": "DURHAM|35-5",
+      "county": "DURHAM",
+      "precinct": "35-5",
+      "votes": [
+        [489,0,0,0]
+      ]
+    },
+    {
+      "key": "DURHAM|36",
+      "county": "DURHAM",
+      "precinct": "36",
+      "votes": [
+        [365,0,0,0]
+      ]
+    },
+    {
+      "key": "DURHAM|38",
+      "county": "DURHAM",
+      "precinct": "38",
+      "votes": [
+        [758,0,0,0]
+      ]
+    },
+    {
+      "key": "DURHAM|41",
+      "county": "DURHAM",
+      "precinct": "41",
+      "votes": [
+        [214,0,0,0]
+      ]
+    },
+    {
+      "key": "DURHAM|42",
+      "county": "DURHAM",
+      "precinct": "42",
+      "votes": [
+        [196,0,0,0]
+      ]
+    },
+    {
+      "key": "DURHAM|51",
+      "county": "DURHAM",
+      "precinct": "51",
+      "votes": [
+        [606,0,0,0]
+      ]
+    },
+    {
+      "key": "DURHAM|53-2",
+      "county": "DURHAM",
+      "precinct": "53-2",
+      "votes": [
+        [638,0,0,0]
+      ]
+    },
+    {
+      "key": "DURHAM|54",
+      "county": "DURHAM",
+      "precinct": "54",
+      "votes": [
+        [816,0,0,0]
+      ]
+    },
+    {
+      "key": "DURHAM|56",
+      "county": "DURHAM",
+      "precinct": "56",
+      "votes": [
+        [665,0,0,0]
+      ]
+    },
+    {
+      "key": "DURHAM|57",
+      "county": "DURHAM",
+      "precinct": "57",
+      "votes": [
+        [708,0,0,0]
+      ]
+    },
+    {
+      "key": "DURHAM|9",
+      "county": "DURHAM",
+      "precinct": "09",
+      "votes": [
+        [413,0,0,0]
+      ]
+    }
+  ],
+  "other": [
+    {
+      "county": "DURHAM",
+      "label": "ABSENTEE",
+      "votes": [
+        [0,0,1298,0]
+      ]
+    },
+    {
+      "county": "DURHAM",
+      "label": "EV BOE",
+      "votes": [
+        [0,8425,0,0]
+      ]
+    },
+    {
+      "county": "DURHAM",
+      "label": "EV DUKE",
+      "votes": [
+        [0,1315,0,0]
+      ]
+    },
+    {
+      "county": "DURHAM",
+      "label": "EV ENO",
+      "votes": [
+        [0,7969,0,0]
+      ]
+    },
+    {
+      "county": "DURHAM",
+      "label": "EV ERL",
+      "votes": [
+        [0,111,0,0]
+      ]
+    },
+    {
+      "county": "DURHAM",
+      "label": "EV LRC",
+      "votes": [
+        [0,15,0,0]
+      ]
+    },
+    {
+      "county": "DURHAM",
+      "label": "EV MAIN",
+      "votes": [
+        [0,1070,0,0]
+      ]
+    },
+    {
+      "county": "DURHAM",
+      "label": "EV NCCU",
+      "votes": [
+        [0,1698,0,0]
+      ]
+    },
+    {
+      "county": "DURHAM",
+      "label": "EV NRL",
+      "votes": [
+        [0,109,0,0]
+      ]
+    },
+    {
+      "county": "DURHAM",
+      "label": "EV SHS",
+      "votes": [
+        [0,55,0,0]
+      ]
+    },
+    {
+      "county": "DURHAM",
+      "label": "EV SRL",
+      "votes": [
+        [0,10969,0,0]
+      ]
+    },
+    {
+      "county": "DURHAM",
+      "label": "PROVISIONAL",
+      "votes": [
+        [0,0,0,0]
+      ]
+    },
+    {
+      "county": "DURHAM",
+      "label": "TRANSFER",
+      "votes": [
+        [0,0,0,0]
+      ]
+    }
+  ]
+}

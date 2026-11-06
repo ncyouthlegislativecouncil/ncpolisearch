@@ -1,0 +1,431 @@
+{
+  "raceId": "nc-senate-42",
+  "candidates": [
+    {"name":"Mrs. Woodson Bradley","party":"D"},
+    {"name":"Stacie McGinn","party":"R"}
+  ],
+  "precincts": [
+    {
+      "key": "MECKLENBURG|100",
+      "county": "MECKLENBURG",
+      "precinct": "100",
+      "votes": [
+        [348,841,0,0],
+        [335,359,0,0]
+      ]
+    },
+    {
+      "key": "MECKLENBURG|101",
+      "county": "MECKLENBURG",
+      "precinct": "101",
+      "votes": [
+        [219,544,0,0],
+        [285,305,0,0]
+      ]
+    },
+    {
+      "key": "MECKLENBURG|103",
+      "county": "MECKLENBURG",
+      "precinct": "103",
+      "votes": [
+        [318,990,0,0],
+        [453,444,0,0]
+      ]
+    },
+    {
+      "key": "MECKLENBURG|110",
+      "county": "MECKLENBURG",
+      "precinct": "110",
+      "votes": [
+        [149,413,0,0],
+        [194,172,0,0]
+      ]
+    },
+    {
+      "key": "MECKLENBURG|112",
+      "county": "MECKLENBURG",
+      "precinct": "112",
+      "votes": [
+        [218,595,0,0],
+        [295,343,0,0]
+      ]
+    },
+    {
+      "key": "MECKLENBURG|113",
+      "county": "MECKLENBURG",
+      "precinct": "113",
+      "votes": [
+        [326,1009,0,0],
+        [437,508,0,0]
+      ]
+    },
+    {
+      "key": "MECKLENBURG|114",
+      "county": "MECKLENBURG",
+      "precinct": "114",
+      "votes": [
+        [290,811,0,0],
+        [348,411,0,0]
+      ]
+    },
+    {
+      "key": "MECKLENBURG|118",
+      "county": "MECKLENBURG",
+      "precinct": "118",
+      "votes": [
+        [308,853,0,0],
+        [304,332,0,0]
+      ]
+    },
+    {
+      "key": "MECKLENBURG|121",
+      "county": "MECKLENBURG",
+      "precinct": "121",
+      "votes": [
+        [294,1076,0,0],
+        [435,782,0,0]
+      ]
+    },
+    {
+      "key": "MECKLENBURG|131",
+      "county": "MECKLENBURG",
+      "precinct": "131",
+      "votes": [
+        [144,562,0,0],
+        [182,325,0,0]
+      ]
+    },
+    {
+      "key": "MECKLENBURG|136",
+      "county": "MECKLENBURG",
+      "precinct": "136",
+      "votes": [
+        [169,1059,0,0],
+        [228,646,0,0]
+      ]
+    },
+    {
+      "key": "MECKLENBURG|137",
+      "county": "MECKLENBURG",
+      "precinct": "137",
+      "votes": [
+        [456,1752,0,0],
+        [573,1096,0,0]
+      ]
+    },
+    {
+      "key": "MECKLENBURG|139.1",
+      "county": "MECKLENBURG",
+      "precinct": "139.1",
+      "votes": [
+        [366,938,0,0],
+        [317,450,0,0]
+      ]
+    },
+    {
+      "key": "MECKLENBURG|140",
+      "county": "MECKLENBURG",
+      "precinct": "140",
+      "votes": [
+        [561,1392,0,0],
+        [510,658,0,0]
+      ]
+    },
+    {
+      "key": "MECKLENBURG|144",
+      "county": "MECKLENBURG",
+      "precinct": "144",
+      "votes": [
+        [411,1066,0,0],
+        [439,439,0,0]
+      ]
+    },
+    {
+      "key": "MECKLENBURG|18",
+      "county": "MECKLENBURG",
+      "precinct": "018",
+      "votes": [
+        [241,347,0,0],
+        [363,202,0,0]
+      ]
+    },
+    {
+      "key": "MECKLENBURG|215",
+      "county": "MECKLENBURG",
+      "precinct": "215",
+      "votes": [
+        [343,1139,0,0],
+        [345,532,0,0]
+      ]
+    },
+    {
+      "key": "MECKLENBURG|216",
+      "county": "MECKLENBURG",
+      "precinct": "216",
+      "votes": [
+        [458,1695,0,0],
+        [391,698,0,0]
+      ]
+    },
+    {
+      "key": "MECKLENBURG|217",
+      "county": "MECKLENBURG",
+      "precinct": "217",
+      "votes": [
+        [235,758,0,0],
+        [264,257,0,0]
+      ]
+    },
+    {
+      "key": "MECKLENBURG|218",
+      "county": "MECKLENBURG",
+      "precinct": "218",
+      "votes": [
+        [261,734,0,0],
+        [371,506,0,0]
+      ]
+    },
+    {
+      "key": "MECKLENBURG|219",
+      "county": "MECKLENBURG",
+      "precinct": "219",
+      "votes": [
+        [203,876,0,0],
+        [260,506,0,0]
+      ]
+    },
+    {
+      "key": "MECKLENBURG|220",
+      "county": "MECKLENBURG",
+      "precinct": "220",
+      "votes": [
+        [184,858,0,0],
+        [272,757,0,0]
+      ]
+    },
+    {
+      "key": "MECKLENBURG|221",
+      "county": "MECKLENBURG",
+      "precinct": "221",
+      "votes": [
+        [275,1155,0,0],
+        [568,1150,0,0]
+      ]
+    },
+    {
+      "key": "MECKLENBURG|226",
+      "county": "MECKLENBURG",
+      "precinct": "226",
+      "votes": [
+        [345,1016,0,0],
+        [349,481,0,0]
+      ]
+    },
+    {
+      "key": "MECKLENBURG|227",
+      "county": "MECKLENBURG",
+      "precinct": "227",
+      "votes": [
+        [690,2090,0,0],
+        [682,892,0,0]
+      ]
+    },
+    {
+      "key": "MECKLENBURG|232",
+      "county": "MECKLENBURG",
+      "precinct": "232",
+      "votes": [
+        [428,1313,0,0],
+        [551,625,0,0]
+      ]
+    },
+    {
+      "key": "MECKLENBURG|233",
+      "county": "MECKLENBURG",
+      "precinct": "233",
+      "votes": [
+        [363,1369,0,0],
+        [509,881,0,0]
+      ]
+    },
+    {
+      "key": "MECKLENBURG|234",
+      "county": "MECKLENBURG",
+      "precinct": "234",
+      "votes": [
+        [323,951,0,0],
+        [247,459,0,0]
+      ]
+    },
+    {
+      "key": "MECKLENBURG|235",
+      "county": "MECKLENBURG",
+      "precinct": "235",
+      "votes": [
+        [313,850,0,0],
+        [251,410,0,0]
+      ]
+    },
+    {
+      "key": "MECKLENBURG|236",
+      "county": "MECKLENBURG",
+      "precinct": "236",
+      "votes": [
+        [408,1589,0,0],
+        [697,1039,0,0]
+      ]
+    },
+    {
+      "key": "MECKLENBURG|32",
+      "county": "MECKLENBURG",
+      "precinct": "032",
+      "votes": [
+        [256,413,0,0],
+        [384,282,0,0]
+      ]
+    },
+    {
+      "key": "MECKLENBURG|48",
+      "county": "MECKLENBURG",
+      "precinct": "048",
+      "votes": [
+        [249,405,0,0],
+        [337,304,0,0]
+      ]
+    },
+    {
+      "key": "MECKLENBURG|69",
+      "county": "MECKLENBURG",
+      "precinct": "069",
+      "votes": [
+        [423,1223,0,0],
+        [581,703,0,0]
+      ]
+    },
+    {
+      "key": "MECKLENBURG|70",
+      "county": "MECKLENBURG",
+      "precinct": "070",
+      "votes": [
+        [271,614,0,0],
+        [356,341,0,0]
+      ]
+    },
+    {
+      "key": "MECKLENBURG|71",
+      "county": "MECKLENBURG",
+      "precinct": "071",
+      "votes": [
+        [224,528,0,0],
+        [322,300,0,0]
+      ]
+    },
+    {
+      "key": "MECKLENBURG|74",
+      "county": "MECKLENBURG",
+      "precinct": "074",
+      "votes": [
+        [323,957,0,0],
+        [346,416,0,0]
+      ]
+    },
+    {
+      "key": "MECKLENBURG|75",
+      "county": "MECKLENBURG",
+      "precinct": "075",
+      "votes": [
+        [305,983,0,0],
+        [407,510,0,0]
+      ]
+    },
+    {
+      "key": "MECKLENBURG|76",
+      "county": "MECKLENBURG",
+      "precinct": "076",
+      "votes": [
+        [353,881,0,0],
+        [316,395,0,0]
+      ]
+    },
+    {
+      "key": "MECKLENBURG|8",
+      "county": "MECKLENBURG",
+      "precinct": "008",
+      "votes": [
+        [221,584,0,0],
+        [331,356,0,0]
+      ]
+    },
+    {
+      "key": "MECKLENBURG|86",
+      "county": "MECKLENBURG",
+      "precinct": "086",
+      "votes": [
+        [195,494,0,0],
+        [343,402,0,0]
+      ]
+    },
+    {
+      "key": "MECKLENBURG|90",
+      "county": "MECKLENBURG",
+      "precinct": "090",
+      "votes": [
+        [177,432,0,0],
+        [176,182,0,0]
+      ]
+    },
+    {
+      "key": "MECKLENBURG|91",
+      "county": "MECKLENBURG",
+      "precinct": "091",
+      "votes": [
+        [372,1345,0,0],
+        [550,694,0,0]
+      ]
+    },
+    {
+      "key": "MECKLENBURG|92",
+      "county": "MECKLENBURG",
+      "precinct": "092",
+      "votes": [
+        [373,781,0,0],
+        [413,410,0,0]
+      ]
+    },
+    {
+      "key": "MECKLENBURG|93",
+      "county": "MECKLENBURG",
+      "precinct": "093",
+      "votes": [
+        [242,414,0,0],
+        [335,265,0,0]
+      ]
+    }
+  ],
+  "other": [
+    {
+      "county": "MECKLENBURG",
+      "label": "ABSENTEE BY MAIL",
+      "votes": [
+        [0,0,2877,0],
+        [0,0,1064,0]
+      ]
+    },
+    {
+      "county": "MECKLENBURG",
+      "label": "PROVISIONALS",
+      "votes": [
+        [0,0,0,0],
+        [0,0,0,0]
+      ]
+    },
+    {
+      "county": "MECKLENBURG",
+      "label": "TRANSFERS",
+      "votes": [
+        [0,0,0,0],
+        [0,0,0,0]
+      ]
+    }
+  ]
+}

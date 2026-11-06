@@ -1,0 +1,214 @@
+{
+  "raceId": "nc-house-073",
+  "candidates": [
+    {"name":"Thomas J. Monks","party":"D"},
+    {"name":"Jonathan Almond","party":"R"}
+  ],
+  "precincts": [
+    {
+      "key": "CABARRUS|1-08",
+      "county": "CABARRUS",
+      "precinct": "01-08",
+      "votes": [
+        [552,0,0,0],
+        [509,0,0,0]
+      ]
+    },
+    {
+      "key": "CABARRUS|11-01",
+      "county": "CABARRUS",
+      "precinct": "11-01",
+      "votes": [
+        [646,0,0,0],
+        [408,0,0,0]
+      ]
+    },
+    {
+      "key": "CABARRUS|11-02",
+      "county": "CABARRUS",
+      "precinct": "11-02",
+      "votes": [
+        [221,0,0,0],
+        [562,0,0,0]
+      ]
+    },
+    {
+      "key": "CABARRUS|12-03",
+      "county": "CABARRUS",
+      "precinct": "12-03",
+      "votes": [
+        [198,0,0,0],
+        [304,0,0,0]
+      ]
+    },
+    {
+      "key": "CABARRUS|12-04",
+      "county": "CABARRUS",
+      "precinct": "12-04",
+      "votes": [
+        [234,0,0,0],
+        [225,0,0,0]
+      ]
+    },
+    {
+      "key": "CABARRUS|12-05",
+      "county": "CABARRUS",
+      "precinct": "12-05",
+      "votes": [
+        [191,0,0,0],
+        [386,0,0,0]
+      ]
+    },
+    {
+      "key": "CABARRUS|12-08",
+      "county": "CABARRUS",
+      "precinct": "12-08",
+      "votes": [
+        [147,0,0,0],
+        [118,0,0,0]
+      ]
+    },
+    {
+      "key": "CABARRUS|12-11",
+      "county": "CABARRUS",
+      "precinct": "12-11",
+      "votes": [
+        [174,0,0,0],
+        [178,0,0,0]
+      ]
+    },
+    {
+      "key": "CABARRUS|12-12",
+      "county": "CABARRUS",
+      "precinct": "12-12",
+      "votes": [
+        [228,0,0,0],
+        [260,0,0,0]
+      ]
+    },
+    {
+      "key": "CABARRUS|12-13",
+      "county": "CABARRUS",
+      "precinct": "12-13",
+      "votes": [
+        [523,0,0,0],
+        [156,0,0,0]
+      ]
+    },
+    {
+      "key": "CABARRUS|12-14",
+      "county": "CABARRUS",
+      "precinct": "12-14",
+      "votes": [
+        [298,0,0,0],
+        [375,0,0,0]
+      ]
+    },
+    {
+      "key": "CABARRUS|2-01",
+      "county": "CABARRUS",
+      "precinct": "02-01",
+      "votes": [
+        [294,0,0,0],
+        [382,0,0,0]
+      ]
+    },
+    {
+      "key": "CABARRUS|2-06",
+      "county": "CABARRUS",
+      "precinct": "02-06",
+      "votes": [
+        [453,0,0,0],
+        [268,0,0,0]
+      ]
+    },
+    {
+      "key": "CABARRUS|2-10",
+      "county": "CABARRUS",
+      "precinct": "02-10",
+      "votes": [
+        [622,0,0,0],
+        [884,0,0,0]
+      ]
+    },
+    {
+      "key": "CABARRUS|4-08",
+      "county": "CABARRUS",
+      "precinct": "04-08",
+      "votes": [
+        [217,0,0,0],
+        [256,0,0,0]
+      ]
+    },
+    {
+      "key": "CABARRUS|5-00",
+      "county": "CABARRUS",
+      "precinct": "05-00",
+      "votes": [
+        [138,0,0,0],
+        [519,0,0,0]
+      ]
+    },
+    {
+      "key": "CABARRUS|6-00",
+      "county": "CABARRUS",
+      "precinct": "06-00",
+      "votes": [
+        [80,0,0,0],
+        [743,0,0,0]
+      ]
+    },
+    {
+      "key": "CABARRUS|7-00",
+      "county": "CABARRUS",
+      "precinct": "07-00",
+      "votes": [
+        [51,0,0,0],
+        [408,0,0,0]
+      ]
+    },
+    {
+      "key": "CABARRUS|8-00",
+      "county": "CABARRUS",
+      "precinct": "08-00",
+      "votes": [
+        [15,0,0,0],
+        [162,0,0,0]
+      ]
+    }
+  ],
+  "other": [
+    {
+      "county": "CABARRUS",
+      "label": "ABSENTEE",
+      "votes": [
+        [0,0,601,0],
+        [0,0,291,0]
+      ]
+    },
+    {
+      "county": "CABARRUS",
+      "label": "EARLY VOTING",
+      "votes": [
+        [0,11450,0,0],
+        [0,7490,0,0]
+      ]
+    },
+    {
+      "county": "CABARRUS",
+      "label": "PROVISIONAL",
+      "votes": [
+        [0,0,0,0],
+        [0,0,0,0]
+      ]
+    },
+    {
+      "county": "CABARRUS",
+      "label": "TRANSFER",
+      "votes": [
+        [0,0,0,0],
+        [0,0,0,0]
+      ]
+    }
+  ]
+}

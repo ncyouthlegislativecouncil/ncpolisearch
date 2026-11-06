@@ -1,0 +1,109 @@
+{
+  "raceId": "nc-house-015",
+  "candidates": [
+    {"name":"Phillip Shepard","party":"R"},
+    {"name":"Christopher Schulte","party":"D"}
+  ],
+  "precincts": [
+    {
+      "key": "ONSLOW|CL10",
+      "county": "ONSLOW",
+      "precinct": "CL10",
+      "votes": [
+        [460,505,10,0],
+        [139,274,12,0]
+      ]
+    },
+    {
+      "key": "ONSLOW|CR07",
+      "county": "ONSLOW",
+      "precinct": "CR07",
+      "votes": [
+        [558,782,17,0],
+        [216,525,27,0]
+      ]
+    },
+    {
+      "key": "ONSLOW|EN03",
+      "county": "ONSLOW",
+      "precinct": "EN03",
+      "votes": [
+        [554,1119,38,0],
+        [618,1912,115,0]
+      ]
+    },
+    {
+      "key": "ONSLOW|GB12",
+      "county": "ONSLOW",
+      "precinct": "GB12",
+      "votes": [
+        [559,1041,18,0],
+        [236,772,37,0]
+      ]
+    },
+    {
+      "key": "ONSLOW|HM05",
+      "county": "ONSLOW",
+      "precinct": "HM05",
+      "votes": [
+        [456,613,9,0],
+        [247,750,41,0]
+      ]
+    },
+    {
+      "key": "ONSLOW|NE22B",
+      "county": "ONSLOW",
+      "precinct": "NE22B",
+      "votes": [
+        [628,667,19,0],
+        [376,872,48,0]
+      ]
+    },
+    {
+      "key": "ONSLOW|NM13",
+      "county": "ONSLOW",
+      "precinct": "NM13",
+      "votes": [
+        [323,151,1,0],
+        [30,71,9,0]
+      ]
+    },
+    {
+      "key": "ONSLOW|RL09",
+      "county": "ONSLOW",
+      "precinct": "RL09",
+      "votes": [
+        [573,1226,16,0],
+        [201,777,18,0]
+      ]
+    },
+    {
+      "key": "ONSLOW|TL06",
+      "county": "ONSLOW",
+      "precinct": "TL06",
+      "votes": [
+        [488,628,14,0],
+        [167,477,22,0]
+      ]
+    },
+    {
+      "key": "ONSLOW|VR15",
+      "county": "ONSLOW",
+      "precinct": "VR15",
+      "votes": [
+        [368,272,11,0],
+        [111,173,11,0]
+      ]
+    },
+    {
+      "key": "ONSLOW|WN04",
+      "county": "ONSLOW",
+      "precinct": "WN04",
+      "votes": [
+        [569,897,20,0],
+        [268,731,45,0]
+      ]
+    }
+  ],
+  "other": []
+}

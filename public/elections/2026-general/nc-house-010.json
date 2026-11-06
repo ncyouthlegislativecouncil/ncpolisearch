@@ -1,0 +1,248 @@
+{
+  "raceId": "nc-house-010",
+  "candidates": [
+    {"name":"John Bell","party":"R"},
+    {"name":"Zyaire Webb","party":"D"}
+  ],
+  "precincts": [
+    {
+      "key": "WAYNE|1",
+      "county": "WAYNE",
+      "precinct": "01",
+      "votes": [
+        [434,0,0,0],
+        [173,0,0,0]
+      ]
+    },
+    {
+      "key": "WAYNE|10",
+      "county": "WAYNE",
+      "precinct": "10",
+      "votes": [
+        [61,0,0,0],
+        [130,0,0,0]
+      ]
+    },
+    {
+      "key": "WAYNE|11",
+      "county": "WAYNE",
+      "precinct": "11",
+      "votes": [
+        [97,0,0,0],
+        [177,0,0,0]
+      ]
+    },
+    {
+      "key": "WAYNE|12",
+      "county": "WAYNE",
+      "precinct": "12",
+      "votes": [
+        [169,0,0,0],
+        [222,0,0,0]
+      ]
+    },
+    {
+      "key": "WAYNE|13",
+      "county": "WAYNE",
+      "precinct": "13",
+      "votes": [
+        [59,0,0,0],
+        [157,0,0,0]
+      ]
+    },
+    {
+      "key": "WAYNE|14",
+      "county": "WAYNE",
+      "precinct": "14",
+      "votes": [
+        [464,0,0,0],
+        [141,0,0,0]
+      ]
+    },
+    {
+      "key": "WAYNE|15",
+      "county": "WAYNE",
+      "precinct": "15",
+      "votes": [
+        [53,0,0,0],
+        [35,0,0,0]
+      ]
+    },
+    {
+      "key": "WAYNE|18",
+      "county": "WAYNE",
+      "precinct": "18",
+      "votes": [
+        [34,0,0,0],
+        [92,0,0,0]
+      ]
+    },
+    {
+      "key": "WAYNE|1920",
+      "county": "WAYNE",
+      "precinct": "1920",
+      "votes": [
+        [69,0,0,0],
+        [259,0,0,0]
+      ]
+    },
+    {
+      "key": "WAYNE|2",
+      "county": "WAYNE",
+      "precinct": "02",
+      "votes": [
+        [526,0,0,0],
+        [190,0,0,0]
+      ]
+    },
+    {
+      "key": "WAYNE|21",
+      "county": "WAYNE",
+      "precinct": "21",
+      "votes": [
+        [76,0,0,0],
+        [115,0,0,0]
+      ]
+    },
+    {
+      "key": "WAYNE|22",
+      "county": "WAYNE",
+      "precinct": "22",
+      "votes": [
+        [110,0,0,0],
+        [100,0,0,0]
+      ]
+    },
+    {
+      "key": "WAYNE|23",
+      "county": "WAYNE",
+      "precinct": "23",
+      "votes": [
+        [161,0,0,0],
+        [120,0,0,0]
+      ]
+    },
+    {
+      "key": "WAYNE|29",
+      "county": "WAYNE",
+      "precinct": "29",
+      "votes": [
+        [58,0,0,0],
+        [102,0,0,0]
+      ]
+    },
+    {
+      "key": "WAYNE|3",
+      "county": "WAYNE",
+      "precinct": "03",
+      "votes": [
+        [507,0,0,0],
+        [172,0,0,0]
+      ]
+    },
+    {
+      "key": "WAYNE|4",
+      "county": "WAYNE",
+      "precinct": "04",
+      "votes": [
+        [704,0,0,0],
+        [252,0,0,0]
+      ]
+    },
+    {
+      "key": "WAYNE|5",
+      "county": "WAYNE",
+      "precinct": "05",
+      "votes": [
+        [406,0,0,0],
+        [160,0,0,0]
+      ]
+    },
+    {
+      "key": "WAYNE|6",
+      "county": "WAYNE",
+      "precinct": "06",
+      "votes": [
+        [167,0,0,0],
+        [122,0,0,0]
+      ]
+    },
+    {
+      "key": "WAYNE|7",
+      "county": "WAYNE",
+      "precinct": "07",
+      "votes": [
+        [430,0,0,0],
+        [198,0,0,0]
+      ]
+    },
+    {
+      "key": "WAYNE|8",
+      "county": "WAYNE",
+      "precinct": "08",
+      "votes": [
+        [420,0,0,0],
+        [78,0,0,0]
+      ]
+    },
+    {
+      "key": "WAYNE|9",
+      "county": "WAYNE",
+      "precinct": "09",
+      "votes": [
+        [342,0,0,0],
+        [105,0,0,0]
+      ]
+    }
+  ],
+  "other": [
+    {
+      "county": "WAYNE",
+      "label": "ABSENTEE",
+      "votes": [
+        [0,0,161,0],
+        [0,0,344,0]
+      ]
+    },
+    {
+      "county": "WAYNE",
+      "label": "EV GBORO LIBRARY",
+      "votes": [
+        [0,2844,0,0],
+        [0,5371,0,0]
+      ]
+    },
+    {
+      "county": "WAYNE",
+      "label": "EV MAXWELL CENTER",
+      "votes": [
+        [0,7610,0,0],
+        [0,4301,0,0]
+      ]
+    },
+    {
+      "county": "WAYNE",
+      "label": "EV MT O LIBRARY",
+      "votes": [
+        [0,57,0,0],
+        [0,64,0,0]
+      ]
+    },
+    {
+      "county": "WAYNE",
+      "label": "PROVISIONAL",
+      "votes": [
+        [0,0,0,0],
+        [0,0,0,0]
+      ]
+    },
+    {
+      "county": "WAYNE",
+      "label": "TRANSFER",
+      "votes": [
+        [0,0,0,0],
+        [0,0,0,0]
+      ]
+    }
+  ]
+}

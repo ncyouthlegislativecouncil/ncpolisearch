@@ -1,0 +1,297 @@
+{
+  "raceId": "nc-house-050",
+  "candidates": [
+    {"name":"Renee A. Price","party":"D"}
+  ],
+  "precincts": [
+    {
+      "key": "CASWELL|ANDE",
+      "county": "CASWELL",
+      "precinct": "ANDE",
+      "votes": [
+        [103,120,4,0]
+      ]
+    },
+    {
+      "key": "CASWELL|LEAS",
+      "county": "CASWELL",
+      "precinct": "LEAS",
+      "votes": [
+        [107,114,4,0]
+      ]
+    },
+    {
+      "key": "CASWELL|LOCU",
+      "county": "CASWELL",
+      "precinct": "LOCU",
+      "votes": [
+        [257,548,10,0]
+      ]
+    },
+    {
+      "key": "CASWELL|MILT",
+      "county": "CASWELL",
+      "precinct": "MILT",
+      "votes": [
+        [300,434,11,0]
+      ]
+    },
+    {
+      "key": "CASWELL|PELH",
+      "county": "CASWELL",
+      "precinct": "PELH",
+      "votes": [
+        [336,464,19,0]
+      ]
+    },
+    {
+      "key": "CASWELL|PH",
+      "county": "CASWELL",
+      "precinct": "PH",
+      "votes": [
+        [231,378,11,0]
+      ]
+    },
+    {
+      "key": "CASWELL|PROVI",
+      "county": "CASWELL",
+      "precinct": "PROVI",
+      "votes": [
+        [90,156,1,0]
+      ]
+    },
+    {
+      "key": "CASWELL|STON",
+      "county": "CASWELL",
+      "precinct": "STON",
+      "votes": [
+        [295,313,11,0]
+      ]
+    },
+    {
+      "key": "CASWELL|YANC",
+      "county": "CASWELL",
+      "precinct": "YANC",
+      "votes": [
+        [184,590,13,0]
+      ]
+    },
+    {
+      "key": "ORANGE|CA",
+      "county": "ORANGE",
+      "precinct": "CA",
+      "votes": [
+        [157,0,0,0]
+      ]
+    },
+    {
+      "key": "ORANGE|CG",
+      "county": "ORANGE",
+      "precinct": "CG",
+      "votes": [
+        [201,0,0,0]
+      ]
+    },
+    {
+      "key": "ORANGE|CS1",
+      "county": "ORANGE",
+      "precinct": "CS1",
+      "votes": [
+        [184,0,0,0]
+      ]
+    },
+    {
+      "key": "ORANGE|CW",
+      "county": "ORANGE",
+      "precinct": "CW",
+      "votes": [
+        [356,0,0,0]
+      ]
+    },
+    {
+      "key": "ORANGE|CX",
+      "county": "ORANGE",
+      "precinct": "CX",
+      "votes": [
+        [642,0,0,0]
+      ]
+    },
+    {
+      "key": "ORANGE|EF",
+      "county": "ORANGE",
+      "precinct": "EF",
+      "votes": [
+        [206,0,0,0]
+      ]
+    },
+    {
+      "key": "ORANGE|ENO",
+      "county": "ORANGE",
+      "precinct": "ENO",
+      "votes": [
+        [289,0,0,0]
+      ]
+    },
+    {
+      "key": "ORANGE|GB",
+      "county": "ORANGE",
+      "precinct": "GB",
+      "votes": [
+        [511,0,0,0]
+      ]
+    },
+    {
+      "key": "ORANGE|H",
+      "county": "ORANGE",
+      "precinct": "H",
+      "votes": [
+        [146,0,0,0]
+      ]
+    },
+    {
+      "key": "ORANGE|HE",
+      "county": "ORANGE",
+      "precinct": "HE",
+      "votes": [
+        [269,0,0,0]
+      ]
+    },
+    {
+      "key": "ORANGE|HN",
+      "county": "ORANGE",
+      "precinct": "HN",
+      "votes": [
+        [277,0,0,0]
+      ]
+    },
+    {
+      "key": "ORANGE|OG",
+      "county": "ORANGE",
+      "precinct": "OG",
+      "votes": [
+        [404,0,0,0]
+      ]
+    },
+    {
+      "key": "ORANGE|PA",
+      "county": "ORANGE",
+      "precinct": "PA",
+      "votes": [
+        [282,0,0,0]
+      ]
+    },
+    {
+      "key": "ORANGE|SM",
+      "county": "ORANGE",
+      "precinct": "SM",
+      "votes": [
+        [278,0,0,0]
+      ]
+    },
+    {
+      "key": "ORANGE|TO",
+      "county": "ORANGE",
+      "precinct": "TO",
+      "votes": [
+        [198,0,0,0]
+      ]
+    },
+    {
+      "key": "ORANGE|WC",
+      "county": "ORANGE",
+      "precinct": "WC",
+      "votes": [
+        [284,0,0,0]
+      ]
+    },
+    {
+      "key": "ORANGE|WD",
+      "county": "ORANGE",
+      "precinct": "WD",
+      "votes": [
+        [269,0,0,0]
+      ]
+    },
+    {
+      "key": "ORANGE|WDS",
+      "county": "ORANGE",
+      "precinct": "WDS",
+      "votes": [
+        [236,0,0,0]
+      ]
+    },
+    {
+      "key": "ORANGE|WH",
+      "county": "ORANGE",
+      "precinct": "WH",
+      "votes": [
+        [283,0,0,0]
+      ]
+    }
+  ],
+  "other": [
+    {
+      "county": "ORANGE",
+      "label": "ABSENTEE",
+      "votes": [
+        [0,0,958,0]
+      ]
+    },
+    {
+      "county": "ORANGE",
+      "label": "EV CHL",
+      "votes": [
+        [0,1016,0,0]
+      ]
+    },
+    {
+      "county": "ORANGE",
+      "label": "EV COTC",
+      "votes": [
+        [0,229,0,0]
+      ]
+    },
+    {
+      "county": "ORANGE",
+      "label": "EV DL",
+      "votes": [
+        [0,871,0,0]
+      ]
+    },
+    {
+      "county": "ORANGE",
+      "label": "EV EFC",
+      "votes": [
+        [0,3701,0,0]
+      ]
+    },
+    {
+      "county": "ORANGE",
+      "label": "EV OW",
+      "votes": [
+        [0,9838,0,0]
+      ]
+    },
+    {
+      "county": "ORANGE",
+      "label": "EV SC",
+      "votes": [
+        [0,2787,0,0]
+      ]
+    },
+    {
+      "county": "ORANGE",
+      "label": "PROVISIONAL",
+      "votes": [
+        [0,0,0,0]
+      ]
+    },
+    {
+      "county": "ORANGE",
+      "label": "TRANSFER",
+      "votes": [
+        [0,0,0,0]
+      ]
+    }
+  ]
+}

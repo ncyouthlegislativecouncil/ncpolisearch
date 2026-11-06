@@ -1,0 +1,127 @@
+{
+  "raceId": "nc-house-103",
+  "candidates": [
+    {"name":"Laura Budd","party":"D"}
+  ],
+  "precincts": [
+    {
+      "key": "MECKLENBURG|129",
+      "county": "MECKLENBURG",
+      "precinct": "129",
+      "votes": [
+        [161,318,0,0]
+      ]
+    },
+    {
+      "key": "MECKLENBURG|137",
+      "county": "MECKLENBURG",
+      "precinct": "137",
+      "votes": [
+        [637,2057,0,0]
+      ]
+    },
+    {
+      "key": "MECKLENBURG|139.1",
+      "county": "MECKLENBURG",
+      "precinct": "139.1",
+      "votes": [
+        [455,1080,0,0]
+      ]
+    },
+    {
+      "key": "MECKLENBURG|140",
+      "county": "MECKLENBURG",
+      "precinct": "140",
+      "votes": [
+        [752,1589,0,0]
+      ]
+    },
+    {
+      "key": "MECKLENBURG|144",
+      "county": "MECKLENBURG",
+      "precinct": "144",
+      "votes": [
+        [554,1188,0,0]
+      ]
+    },
+    {
+      "key": "MECKLENBURG|148",
+      "county": "MECKLENBURG",
+      "precinct": "148",
+      "votes": [
+        [1429,3649,0,0]
+      ]
+    },
+    {
+      "key": "MECKLENBURG|225",
+      "county": "MECKLENBURG",
+      "precinct": "225",
+      "votes": [
+        [362,991,0,0]
+      ]
+    },
+    {
+      "key": "MECKLENBURG|226",
+      "county": "MECKLENBURG",
+      "precinct": "226",
+      "votes": [
+        [440,1139,0,0]
+      ]
+    },
+    {
+      "key": "MECKLENBURG|227",
+      "county": "MECKLENBURG",
+      "precinct": "227",
+      "votes": [
+        [947,2329,0,0]
+      ]
+    },
+    {
+      "key": "MECKLENBURG|231",
+      "county": "MECKLENBURG",
+      "precinct": "231",
+      "votes": [
+        [582,1508,0,0]
+      ]
+    },
+    {
+      "key": "MECKLENBURG|87",
+      "county": "MECKLENBURG",
+      "precinct": "087",
+      "votes": [
+        [381,798,0,0]
+      ]
+    },
+    {
+      "key": "MECKLENBURG|88",
+      "county": "MECKLENBURG",
+      "precinct": "088",
+      "votes": [
+        [475,796,0,0]
+      ]
+    }
+  ],
+  "other": [
+    {
+      "county": "MECKLENBURG",
+      "label": "ABSENTEE BY MAIL",
+      "votes": [
+        [0,0,1028,0]
+      ]
+    },
+    {
+      "county": "MECKLENBURG",
+      "label": "PROVISIONALS",
+      "votes": [
+        [0,0,0,0]
+      ]
+    },
+    {
+      "county": "MECKLENBURG",
+      "label": "TRANSFERS",
+      "votes": [
+        [0,0,0,0]
+      ]
+    }
+  ]
+}

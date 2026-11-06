@@ -1,0 +1,199 @@
+{
+  "raceId": "nc-house-032",
+  "candidates": [
+    {"name":"Bryan K. Cohn","party":"D"},
+    {"name":"Frank Sossamon","party":"R"}
+  ],
+  "precincts": [
+    {
+      "key": "GRANVILLE|ANTI",
+      "county": "GRANVILLE",
+      "precinct": "ANTI",
+      "votes": [
+        [117,317,2,0],
+        [85,169,1,0]
+      ]
+    },
+    {
+      "key": "GRANVILLE|BERE",
+      "county": "GRANVILLE",
+      "precinct": "BERE",
+      "votes": [
+        [134,287,12,0],
+        [286,282,5,0]
+      ]
+    },
+    {
+      "key": "GRANVILLE|BTNR",
+      "county": "GRANVILLE",
+      "precinct": "BTNR",
+      "votes": [
+        [235,673,32,0],
+        [186,345,9,0]
+      ]
+    },
+    {
+      "key": "GRANVILLE|CORI",
+      "county": "GRANVILLE",
+      "precinct": "CORI",
+      "votes": [
+        [159,643,13,0],
+        [182,622,2,0]
+      ]
+    },
+    {
+      "key": "GRANVILLE|CRDL",
+      "county": "GRANVILLE",
+      "precinct": "CRDL",
+      "votes": [
+        [181,612,11,0],
+        [89,207,3,0]
+      ]
+    },
+    {
+      "key": "GRANVILLE|CRDM",
+      "county": "GRANVILLE",
+      "precinct": "CRDM",
+      "votes": [
+        [317,1294,35,0],
+        [273,905,16,0]
+      ]
+    },
+    {
+      "key": "GRANVILLE|EAOX",
+      "county": "GRANVILLE",
+      "precinct": "EAOX",
+      "votes": [
+        [158,611,8,0],
+        [104,266,1,0]
+      ]
+    },
+    {
+      "key": "GRANVILLE|MTEN",
+      "county": "GRANVILLE",
+      "precinct": "MTEN",
+      "votes": [
+        [277,1253,44,0],
+        [433,1152,35,0]
+      ]
+    },
+    {
+      "key": "GRANVILLE|OKHL",
+      "county": "GRANVILLE",
+      "precinct": "OKHL",
+      "votes": [
+        [102,227,13,0],
+        [212,182,4,0]
+      ]
+    },
+    {
+      "key": "GRANVILLE|SALM",
+      "county": "GRANVILLE",
+      "precinct": "SALM",
+      "votes": [
+        [118,415,8,0],
+        [211,380,5,0]
+      ]
+    },
+    {
+      "key": "GRANVILLE|SASS",
+      "county": "GRANVILLE",
+      "precinct": "SASS",
+      "votes": [
+        [77,395,4,0],
+        [209,510,4,0]
+      ]
+    },
+    {
+      "key": "GRANVILLE|SOOX",
+      "county": "GRANVILLE",
+      "precinct": "SOOX",
+      "votes": [
+        [173,515,8,0],
+        [63,126,2,0]
+      ]
+    },
+    {
+      "key": "GRANVILLE|TYHO",
+      "county": "GRANVILLE",
+      "precinct": "TYHO",
+      "votes": [
+        [199,742,19,0],
+        [388,1124,14,0]
+      ]
+    },
+    {
+      "key": "GRANVILLE|WILT",
+      "county": "GRANVILLE",
+      "precinct": "WILT",
+      "votes": [
+        [287,1193,75,0],
+        [632,1683,35,0]
+      ]
+    },
+    {
+      "key": "GRANVILLE|WOEL",
+      "county": "GRANVILLE",
+      "precinct": "WOEL",
+      "votes": [
+        [113,440,11,0],
+        [86,206,1,0]
+      ]
+    },
+    {
+      "key": "VANCE|CH",
+      "county": "VANCE",
+      "precinct": "CH",
+      "votes": [
+        [301,1019,11,0],
+        [44,79,3,0]
+      ]
+    },
+    {
+      "key": "VANCE|MIDD",
+      "county": "VANCE",
+      "precinct": "MIDD",
+      "votes": [
+        [266,586,10,0],
+        [282,405,12,0]
+      ]
+    },
+    {
+      "key": "VANCE|NV",
+      "county": "VANCE",
+      "precinct": "NV",
+      "votes": [
+        [67,266,8,0],
+        [65,134,2,0]
+      ]
+    },
+    {
+      "key": "VANCE|SH",
+      "county": "VANCE",
+      "precinct": "SH",
+      "votes": [
+        [278,786,14,0],
+        [124,253,1,0]
+      ]
+    },
+    {
+      "key": "VANCE|TWN",
+      "county": "VANCE",
+      "precinct": "TWN",
+      "votes": [
+        [299,749,22,0],
+        [311,522,11,0]
+      ]
+    },
+    {
+      "key": "VANCE|WH",
+      "county": "VANCE",
+      "precinct": "WH",
+      "votes": [
+        [275,872,22,0],
+        [240,586,18,0]
+      ]
+    }
+  ],
+  "other": []
+}

@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import ResultsExplorer from "../../components/results/ResultsExplorer";
+import FindMyPrecinct from "../../components/results/FindMyPrecinct";
 import { partyColor } from "../../components/results/RaceCard";
 import { CURRENT_ELECTION, chamberTally, raceView, type ChamberTally, type RaceView } from "../../lib/elections";
 import { electionResults } from "../../lib/data/store";
@@ -165,6 +166,10 @@ export default function ResultsPage() {
             recountSeats={races.filter((r) => r.category === "nc-senate" && r.status === "recount").length}
             flips={flipSummary(races, "nc-senate")}
           />
+        </div>
+
+        <div className="mt-8">
+          <FindMyPrecinct />
         </div>
 
         <div className="mt-8">

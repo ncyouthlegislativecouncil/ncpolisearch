@@ -1,0 +1,225 @@
+{
+  "raceId": "nc-house-114",
+  "candidates": [
+    {"name":"Eric Ager","party":"D"}
+  ],
+  "precincts": [
+    {
+      "key": "BUNCOMBE|18.2",
+      "county": "BUNCOMBE",
+      "precinct": "18.2",
+      "votes": [
+        [321,2092,216,0]
+      ]
+    },
+    {
+      "key": "BUNCOMBE|19.1",
+      "county": "BUNCOMBE",
+      "precinct": "19.1",
+      "votes": [
+        [133,530,45,0]
+      ]
+    },
+    {
+      "key": "BUNCOMBE|24.1",
+      "county": "BUNCOMBE",
+      "precinct": "24.1",
+      "votes": [
+        [236,963,27,0]
+      ]
+    },
+    {
+      "key": "BUNCOMBE|29.2",
+      "county": "BUNCOMBE",
+      "precinct": "29.2",
+      "votes": [
+        [280,1300,147,0]
+      ]
+    },
+    {
+      "key": "BUNCOMBE|30.2",
+      "county": "BUNCOMBE",
+      "precinct": "30.2",
+      "votes": [
+        [341,1050,58,0]
+      ]
+    },
+    {
+      "key": "BUNCOMBE|30.3",
+      "county": "BUNCOMBE",
+      "precinct": "30.3",
+      "votes": [
+        [330,1207,74,0]
+      ]
+    },
+    {
+      "key": "BUNCOMBE|32.1",
+      "county": "BUNCOMBE",
+      "precinct": "32.1",
+      "votes": [
+        [132,821,43,0]
+      ]
+    },
+    {
+      "key": "BUNCOMBE|33.2",
+      "county": "BUNCOMBE",
+      "precinct": "33.2",
+      "votes": [
+        [120,601,23,0]
+      ]
+    },
+    {
+      "key": "BUNCOMBE|33.3",
+      "county": "BUNCOMBE",
+      "precinct": "33.3",
+      "votes": [
+        [238,761,21,0]
+      ]
+    },
+    {
+      "key": "BUNCOMBE|34.1",
+      "county": "BUNCOMBE",
+      "precinct": "34.1",
+      "votes": [
+        [106,561,30,0]
+      ]
+    },
+    {
+      "key": "BUNCOMBE|35.1",
+      "county": "BUNCOMBE",
+      "precinct": "35.1",
+      "votes": [
+        [118,918,58,0]
+      ]
+    },
+    {
+      "key": "BUNCOMBE|36.1",
+      "county": "BUNCOMBE",
+      "precinct": "36.1",
+      "votes": [
+        [185,690,35,0]
+      ]
+    },
+    {
+      "key": "BUNCOMBE|37.1",
+      "county": "BUNCOMBE",
+      "precinct": "37.1",
+      "votes": [
+        [96,453,25,0]
+      ]
+    },
+    {
+      "key": "BUNCOMBE|38.2",
+      "county": "BUNCOMBE",
+      "precinct": "38.2",
+      "votes": [
+        [166,595,28,0]
+      ]
+    },
+    {
+      "key": "BUNCOMBE|38.3",
+      "county": "BUNCOMBE",
+      "precinct": "38.3",
+      "votes": [
+        [249,1096,52,0]
+      ]
+    },
+    {
+      "key": "BUNCOMBE|39.2",
+      "county": "BUNCOMBE",
+      "precinct": "39.2",
+      "votes": [
+        [152,620,27,0]
+      ]
+    },
+    {
+      "key": "BUNCOMBE|39.3",
+      "county": "BUNCOMBE",
+      "precinct": "39.3",
+      "votes": [
+        [212,1095,42,0]
+      ]
+    },
+    {
+      "key": "BUNCOMBE|44.1",
+      "county": "BUNCOMBE",
+      "precinct": "44.1",
+      "votes": [
+        [408,2458,115,0]
+      ]
+    },
+    {
+      "key": "BUNCOMBE|46.1",
+      "county": "BUNCOMBE",
+      "precinct": "46.1",
+      "votes": [
+        [177,539,12,0]
+      ]
+    },
+    {
+      "key": "BUNCOMBE|54.2",
+      "county": "BUNCOMBE",
+      "precinct": "54.2",
+      "votes": [
+        [451,1321,74,0]
+      ]
+    },
+    {
+      "key": "BUNCOMBE|55.1",
+      "county": "BUNCOMBE",
+      "precinct": "55.1",
+      "votes": [
+        [346,1042,49,0]
+      ]
+    },
+    {
+      "key": "BUNCOMBE|56.2",
+      "county": "BUNCOMBE",
+      "precinct": "56.2",
+      "votes": [
+        [233,800,28,0]
+      ]
+    },
+    {
+      "key": "BUNCOMBE|57.1",
+      "county": "BUNCOMBE",
+      "precinct": "57.1",
+      "votes": [
+        [246,1139,47,0]
+      ]
+    },
+    {
+      "key": "BUNCOMBE|60.2",
+      "county": "BUNCOMBE",
+      "precinct": "60.2",
+      "votes": [
+        [124,526,20,0]
+      ]
+    },
+    {
+      "key": "BUNCOMBE|60.4",
+      "county": "BUNCOMBE",
+      "precinct": "60.4",
+      "votes": [
+        [154,766,38,0]
+      ]
+    },
+    {
+      "key": "BUNCOMBE|62.1",
+      "county": "BUNCOMBE",
+      "precinct": "62.1",
+      "votes": [
+        [220,911,70,0]
+      ]
+    },
+    {
+      "key": "BUNCOMBE|64.1",
+      "county": "BUNCOMBE",
+      "precinct": "64.1",
+      "votes": [
+        [155,631,14,0]
+      ]
+    }
+  ],
+  "other": []
+}

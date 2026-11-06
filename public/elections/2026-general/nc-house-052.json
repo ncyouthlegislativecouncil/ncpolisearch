@@ -1,0 +1,248 @@
+{
+  "raceId": "nc-house-052",
+  "candidates": [
+    {"name":"Ben Moss","party":"R"},
+    {"name":"Joe Parfitt","party":"D"}
+  ],
+  "precincts": [
+    {
+      "key": "MOORE|EAB",
+      "county": "MOORE",
+      "precinct": "EAB",
+      "votes": [
+        [290,0,0,0],
+        [256,0,0,0]
+      ]
+    },
+    {
+      "key": "MOORE|EKWD",
+      "county": "MOORE",
+      "precinct": "EKWD",
+      "votes": [
+        [193,0,0,0],
+        [71,0,0,0]
+      ]
+    },
+    {
+      "key": "MOORE|EUR-WP",
+      "county": "MOORE",
+      "precinct": "EUR-WP",
+      "votes": [
+        [922,0,0,0],
+        [316,0,0,0]
+      ]
+    },
+    {
+      "key": "MOORE|EWD",
+      "county": "MOORE",
+      "precinct": "EWD",
+      "votes": [
+        [323,0,0,0],
+        [129,0,0,0]
+      ]
+    },
+    {
+      "key": "MOORE|NSP",
+      "county": "MOORE",
+      "precinct": "NSP",
+      "votes": [
+        [248,0,0,0],
+        [296,0,0,0]
+      ]
+    },
+    {
+      "key": "MOORE|PBF",
+      "county": "MOORE",
+      "precinct": "PBF",
+      "votes": [
+        [304,0,0,0],
+        [166,0,0,0]
+      ]
+    },
+    {
+      "key": "MOORE|PDN",
+      "county": "MOORE",
+      "precinct": "PDN",
+      "votes": [
+        [366,0,0,0],
+        [299,0,0,0]
+      ]
+    },
+    {
+      "key": "MOORE|SSP",
+      "county": "MOORE",
+      "precinct": "SSP",
+      "votes": [
+        [322,0,0,0],
+        [361,0,0,0]
+      ]
+    },
+    {
+      "key": "MOORE|WAB",
+      "county": "MOORE",
+      "precinct": "WAB",
+      "votes": [
+        [308,0,0,0],
+        [231,0,0,0]
+      ]
+    },
+    {
+      "key": "MOORE|WKWD1",
+      "county": "MOORE",
+      "precinct": "WKWD1",
+      "votes": [
+        [389,0,0,0],
+        [168,0,0,0]
+      ]
+    },
+    {
+      "key": "RICHMOND|1",
+      "county": "RICHMOND",
+      "precinct": "01",
+      "votes": [
+        [238,392,5,0],
+        [359,805,16,0]
+      ]
+    },
+    {
+      "key": "RICHMOND|10",
+      "county": "RICHMOND",
+      "precinct": "10",
+      "votes": [
+        [106,58,3,0],
+        [184,107,2,0]
+      ]
+    },
+    {
+      "key": "RICHMOND|14",
+      "county": "RICHMOND",
+      "precinct": "14",
+      "votes": [
+        [17,2,0,0],
+        [41,4,0,0]
+      ]
+    },
+    {
+      "key": "RICHMOND|2",
+      "county": "RICHMOND",
+      "precinct": "02",
+      "votes": [
+        [482,959,11,0],
+        [280,695,6,0]
+      ]
+    },
+    {
+      "key": "RICHMOND|21",
+      "county": "RICHMOND",
+      "precinct": "21",
+      "votes": [
+        [294,408,1,0],
+        [124,310,9,0]
+      ]
+    },
+    {
+      "key": "RICHMOND|22",
+      "county": "RICHMOND",
+      "precinct": "22",
+      "votes": [
+        [198,283,1,0],
+        [209,372,2,0]
+      ]
+    },
+    {
+      "key": "RICHMOND|23",
+      "county": "RICHMOND",
+      "precinct": "23",
+      "votes": [
+        [177,307,2,0],
+        [98,220,7,0]
+      ]
+    },
+    {
+      "key": "RICHMOND|24",
+      "county": "RICHMOND",
+      "precinct": "24",
+      "votes": [
+        [362,226,1,0],
+        [202,171,1,0]
+      ]
+    },
+    {
+      "key": "RICHMOND|25",
+      "county": "RICHMOND",
+      "precinct": "25",
+      "votes": [
+        [211,93,0,0],
+        [109,86,1,0]
+      ]
+    },
+    {
+      "key": "RICHMOND|8",
+      "county": "RICHMOND",
+      "precinct": "08",
+      "votes": [
+        [276,476,11,0],
+        [268,657,8,0]
+      ]
+    },
+    {
+      "key": "RICHMOND|9",
+      "county": "RICHMOND",
+      "precinct": "09",
+      "votes": [
+        [585,665,5,0],
+        [363,708,9,0]
+      ]
+    }
+  ],
+  "other": [
+    {
+      "county": "MOORE",
+      "label": "ABSENTEE MAIL",
+      "votes": [
+        [0,0,248,0],
+        [0,0,490,0]
+      ]
+    },
+    {
+      "county": "MOORE",
+      "label": "BOE TRANSFER",
+      "votes": [
+        [0,0,0,0],
+        [0,0,0,0]
+      ]
+    },
+    {
+      "county": "MOORE",
+      "label": "EV AG",
+      "votes": [
+        [0,1536,0,0],
+        [0,1192,0,0]
+      ]
+    },
+    {
+      "county": "MOORE",
+      "label": "EV RS",
+      "votes": [
+        [0,3215,0,0],
+        [0,4063,0,0]
+      ]
+    },
+    {
+      "county": "MOORE",
+      "label": "EV VTH",
+      "votes": [
+        [0,370,0,0],
+        [0,370,0,0]
+      ]
+    },
+    {
+      "county": "MOORE",
+      "label": "PROVISIONAL",
+      "votes": [
+        [0,0,0,0],
+        [0,0,0,0]
+      ]
+    }
+  ]
+}

@@ -1,0 +1,159 @@
+{
+  "raceId": "nc-house-112",
+  "candidates": [
+    {"name":"Jordan Lopez","party":"D"}
+  ],
+  "precincts": [
+    {
+      "key": "MECKLENBURG|104",
+      "county": "MECKLENBURG",
+      "precinct": "104",
+      "votes": [
+        [399,928,0,0]
+      ]
+    },
+    {
+      "key": "MECKLENBURG|108",
+      "county": "MECKLENBURG",
+      "precinct": "108",
+      "votes": [
+        [290,673,0,0]
+      ]
+    },
+    {
+      "key": "MECKLENBURG|116",
+      "county": "MECKLENBURG",
+      "precinct": "116",
+      "votes": [
+        [202,492,0,0]
+      ]
+    },
+    {
+      "key": "MECKLENBURG|123",
+      "county": "MECKLENBURG",
+      "precinct": "123",
+      "votes": [
+        [431,956,0,0]
+      ]
+    },
+    {
+      "key": "MECKLENBURG|124",
+      "county": "MECKLENBURG",
+      "precinct": "124",
+      "votes": [
+        [408,852,0,0]
+      ]
+    },
+    {
+      "key": "MECKLENBURG|201",
+      "county": "MECKLENBURG",
+      "precinct": "201",
+      "votes": [
+        [1194,3532,0,0]
+      ]
+    },
+    {
+      "key": "MECKLENBURG|203",
+      "county": "MECKLENBURG",
+      "precinct": "203",
+      "votes": [
+        [1463,3252,0,0]
+      ]
+    },
+    {
+      "key": "MECKLENBURG|205",
+      "county": "MECKLENBURG",
+      "precinct": "205",
+      "votes": [
+        [840,1711,0,0]
+      ]
+    },
+    {
+      "key": "MECKLENBURG|3",
+      "county": "MECKLENBURG",
+      "precinct": "003",
+      "votes": [
+        [280,576,0,0]
+      ]
+    },
+    {
+      "key": "MECKLENBURG|4",
+      "county": "MECKLENBURG",
+      "precinct": "004",
+      "votes": [
+        [344,639,0,0]
+      ]
+    },
+    {
+      "key": "MECKLENBURG|43",
+      "county": "MECKLENBURG",
+      "precinct": "043",
+      "votes": [
+        [386,897,0,0]
+      ]
+    },
+    {
+      "key": "MECKLENBURG|45",
+      "county": "MECKLENBURG",
+      "precinct": "045",
+      "votes": [
+        [371,581,0,0]
+      ]
+    },
+    {
+      "key": "MECKLENBURG|60",
+      "county": "MECKLENBURG",
+      "precinct": "060",
+      "votes": [
+        [278,683,0,0]
+      ]
+    },
+    {
+      "key": "MECKLENBURG|61",
+      "county": "MECKLENBURG",
+      "precinct": "061",
+      "votes": [
+        [317,908,0,0]
+      ]
+    },
+    {
+      "key": "MECKLENBURG|84",
+      "county": "MECKLENBURG",
+      "precinct": "084",
+      "votes": [
+        [266,770,0,0]
+      ]
+    },
+    {
+      "key": "MECKLENBURG|95",
+      "county": "MECKLENBURG",
+      "precinct": "095",
+      "votes": [
+        [259,564,0,0]
+      ]
+    }
+  ],
+  "other": [
+    {
+      "county": "MECKLENBURG",
+      "label": "ABSENTEE BY MAIL",
+      "votes": [
+        [0,0,582,0]
+      ]
+    },
+    {
+      "county": "MECKLENBURG",
+      "label": "PROVISIONALS",
+      "votes": [
+        [0,0,0,0]
+      ]
+    },
+    {
+      "county": "MECKLENBURG",
+      "label": "TRANSFERS",
+      "votes": [
+        [0,0,0,0]
+      ]
+    }
+  ]
+}

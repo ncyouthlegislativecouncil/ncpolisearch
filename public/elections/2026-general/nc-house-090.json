@@ -1,0 +1,384 @@
+{
+  "raceId": "nc-house-090",
+  "candidates": [
+    {"name":"Dan Kiger","party":"R"},
+    {"name":"Ken Badgett","party":"D"}
+  ],
+  "precincts": [
+    {
+      "key": "SURRY|1",
+      "county": "SURRY",
+      "precinct": "01",
+      "votes": [
+        [390,0,0,0],
+        [69,0,0,0]
+      ]
+    },
+    {
+      "key": "SURRY|10",
+      "county": "SURRY",
+      "precinct": "10",
+      "votes": [
+        [215,0,0,0],
+        [38,0,0,0]
+      ]
+    },
+    {
+      "key": "SURRY|11",
+      "county": "SURRY",
+      "precinct": "11",
+      "votes": [
+        [141,0,0,0],
+        [61,0,0,0]
+      ]
+    },
+    {
+      "key": "SURRY|12",
+      "county": "SURRY",
+      "precinct": "12",
+      "votes": [
+        [192,0,0,0],
+        [104,0,0,0]
+      ]
+    },
+    {
+      "key": "SURRY|15",
+      "county": "SURRY",
+      "precinct": "15",
+      "votes": [
+        [232,0,0,0],
+        [105,0,0,0]
+      ]
+    },
+    {
+      "key": "SURRY|16",
+      "county": "SURRY",
+      "precinct": "16",
+      "votes": [
+        [219,0,0,0],
+        [45,0,0,0]
+      ]
+    },
+    {
+      "key": "SURRY|17",
+      "county": "SURRY",
+      "precinct": "17",
+      "votes": [
+        [165,0,0,0],
+        [47,0,0,0]
+      ]
+    },
+    {
+      "key": "SURRY|18",
+      "county": "SURRY",
+      "precinct": "18",
+      "votes": [
+        [222,0,0,0],
+        [63,0,0,0]
+      ]
+    },
+    {
+      "key": "SURRY|19",
+      "county": "SURRY",
+      "precinct": "19",
+      "votes": [
+        [306,0,0,0],
+        [129,0,0,0]
+      ]
+    },
+    {
+      "key": "SURRY|22",
+      "county": "SURRY",
+      "precinct": "22",
+      "votes": [
+        [189,0,0,0],
+        [44,0,0,0]
+      ]
+    },
+    {
+      "key": "SURRY|23",
+      "county": "SURRY",
+      "precinct": "23",
+      "votes": [
+        [317,0,0,0],
+        [72,0,0,0]
+      ]
+    },
+    {
+      "key": "SURRY|24",
+      "county": "SURRY",
+      "precinct": "24",
+      "votes": [
+        [164,0,0,0],
+        [41,0,0,0]
+      ]
+    },
+    {
+      "key": "SURRY|25",
+      "county": "SURRY",
+      "precinct": "25",
+      "votes": [
+        [210,0,0,0],
+        [59,0,0,0]
+      ]
+    },
+    {
+      "key": "SURRY|26",
+      "county": "SURRY",
+      "precinct": "26",
+      "votes": [
+        [327,0,0,0],
+        [66,0,0,0]
+      ]
+    },
+    {
+      "key": "SURRY|27",
+      "county": "SURRY",
+      "precinct": "27",
+      "votes": [
+        [280,0,0,0],
+        [61,0,0,0]
+      ]
+    },
+    {
+      "key": "SURRY|28",
+      "county": "SURRY",
+      "precinct": "28",
+      "votes": [
+        [159,0,0,0],
+        [54,0,0,0]
+      ]
+    },
+    {
+      "key": "SURRY|29",
+      "county": "SURRY",
+      "precinct": "29",
+      "votes": [
+        [283,0,0,0],
+        [115,0,0,0]
+      ]
+    },
+    {
+      "key": "SURRY|30",
+      "county": "SURRY",
+      "precinct": "30",
+      "votes": [
+        [435,0,0,0],
+        [184,0,0,0]
+      ]
+    },
+    {
+      "key": "SURRY|32",
+      "county": "SURRY",
+      "precinct": "32",
+      "votes": [
+        [383,0,0,0],
+        [121,0,0,0]
+      ]
+    },
+    {
+      "key": "SURRY|34",
+      "county": "SURRY",
+      "precinct": "34",
+      "votes": [
+        [482,0,0,0],
+        [212,0,0,0]
+      ]
+    },
+    {
+      "key": "SURRY|4",
+      "county": "SURRY",
+      "precinct": "04",
+      "votes": [
+        [197,0,0,0],
+        [72,0,0,0]
+      ]
+    },
+    {
+      "key": "SURRY|5",
+      "county": "SURRY",
+      "precinct": "05",
+      "votes": [
+        [361,0,0,0],
+        [64,0,0,0]
+      ]
+    },
+    {
+      "key": "SURRY|9",
+      "county": "SURRY",
+      "precinct": "09",
+      "votes": [
+        [245,0,0,0],
+        [38,0,0,0]
+      ]
+    },
+    {
+      "key": "WILKES|105",
+      "county": "WILKES",
+      "precinct": "105",
+      "votes": [
+        [326,0,0,0],
+        [36,0,0,0]
+      ]
+    },
+    {
+      "key": "WILKES|106",
+      "county": "WILKES",
+      "precinct": "106",
+      "votes": [
+        [247,0,0,0],
+        [55,0,0,0]
+      ]
+    },
+    {
+      "key": "WILKES|107",
+      "county": "WILKES",
+      "precinct": "107",
+      "votes": [
+        [513,0,0,0],
+        [100,0,0,0]
+      ]
+    },
+    {
+      "key": "WILKES|120A",
+      "county": "WILKES",
+      "precinct": "120A",
+      "votes": [
+        [792,0,0,0],
+        [157,0,0,0]
+      ]
+    },
+    {
+      "key": "WILKES|123A",
+      "county": "WILKES",
+      "precinct": "123A",
+      "votes": [
+        [538,0,0,0],
+        [80,0,0,0]
+      ]
+    },
+    {
+      "key": "WILKES|126",
+      "county": "WILKES",
+      "precinct": "126",
+      "votes": [
+        [250,0,0,0],
+        [35,0,0,0]
+      ]
+    }
+  ],
+  "other": [
+    {
+      "county": "SURRY",
+      "label": "ABSENTEE",
+      "votes": [
+        [0,0,243,0],
+        [0,0,295,0]
+      ]
+    },
+    {
+      "county": "SURRY",
+      "label": "DOB EV",
+      "votes": [
+        [0,2450,0,0],
+        [0,1280,0,0]
+      ]
+    },
+    {
+      "county": "SURRY",
+      "label": "ELK EV",
+      "votes": [
+        [0,1377,0,0],
+        [0,920,0,0]
+      ]
+    },
+    {
+      "county": "SURRY",
+      "label": "MA EV",
+      "votes": [
+        [0,5029,0,0],
+        [0,2588,0,0]
+      ]
+    },
+    {
+      "county": "SURRY",
+      "label": "PM EV",
+      "votes": [
+        [0,1219,0,0],
+        [0,566,0,0]
+      ]
+    },
+    {
+      "county": "SURRY",
+      "label": "PROVISIONAL",
+      "votes": [
+        [0,0,0,0],
+        [0,0,0,0]
+      ]
+    },
+    {
+      "county": "SURRY",
+      "label": "TRANSFER",
+      "votes": [
+        [0,0,0,0],
+        [0,0,0,0]
+      ]
+    },
+    {
+      "county": "WILKES",
+      "label": "ABSENTEE",
+      "votes": [
+        [0,0,51,0],
+        [0,0,46,0]
+      ]
+    },
+    {
+      "county": "WILKES",
+      "label": "ABSENTEE SUP",
+      "votes": [
+        [0,0,0,0],
+        [0,0,0,0]
+      ]
+    },
+    {
+      "county": "WILKES",
+      "label": "EV CFD",
+      "votes": [
+        [0,16,0,0],
+        [0,0,0,0]
+      ]
+    },
+    {
+      "county": "WILKES",
+      "label": "EV OFFICE",
+      "votes": [
+        [0,695,0,0],
+        [0,294,0,0]
+      ]
+    },
+    {
+      "county": "WILKES",
+      "label": "EV PHFD",
+      "votes": [
+        [0,1260,0,0],
+        [0,387,0,0]
+      ]
+    },
+    {
+      "county": "WILKES",
+      "label": "PROVISIONAL",
+      "votes": [
+        [0,0,0,0],
+        [0,0,0,0]
+      ]
+    },
+    {
+      "county": "WILKES",
+      "label": "TRANSFER",
+      "votes": [
+        [0,0,0,0],
+        [0,0,0,0]
+      ]
+    }
+  ]
+}

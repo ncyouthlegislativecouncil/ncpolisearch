@@ -1,0 +1,203 @@
+{
+  "raceId": "nc-house-053",
+  "candidates": [
+    {"name":"Howard L. Penny, Jr.","party":"R"},
+    {"name":"Kevin G. Thurman","party":"D"},
+    {"name":"Christopher Sessions","party":"L"}
+  ],
+  "precincts": [
+    {
+      "key": "HARNETT|PR08",
+      "county": "HARNETT",
+      "precinct": "PR08",
+      "votes": [
+        [939,1782,39,0],
+        [655,2058,116,0],
+        [65,69,5,0]
+      ]
+    },
+    {
+      "key": "HARNETT|PR24",
+      "county": "HARNETT",
+      "precinct": "PR24",
+      "votes": [
+        [944,1407,28,0],
+        [358,807,30,0],
+        [32,33,2,0]
+      ]
+    },
+    {
+      "key": "HARNETT|PR25",
+      "county": "HARNETT",
+      "precinct": "PR25",
+      "votes": [
+        [384,438,11,0],
+        [255,522,18,0],
+        [9,11,0,0]
+      ]
+    },
+    {
+      "key": "HARNETT|PR29",
+      "county": "HARNETT",
+      "precinct": "PR29",
+      "votes": [
+        [524,866,25,0],
+        [332,669,49,0],
+        [21,17,0,0]
+      ]
+    },
+    {
+      "key": "HARNETT|PR32",
+      "county": "HARNETT",
+      "precinct": "PR32",
+      "votes": [
+        [552,965,27,0],
+        [286,870,44,0],
+        [27,38,2,0]
+      ]
+    },
+    {
+      "key": "JOHNSTON|PR12A",
+      "county": "JOHNSTON",
+      "precinct": "PR12A",
+      "votes": [
+        [492,0,0,0],
+        [507,0,0,0],
+        [29,0,0,0]
+      ]
+    },
+    {
+      "key": "JOHNSTON|PR23A",
+      "county": "JOHNSTON",
+      "precinct": "PR23A",
+      "votes": [
+        [814,0,0,0],
+        [412,0,0,0],
+        [33,0,0,0]
+      ]
+    },
+    {
+      "key": "JOHNSTON|PR23B",
+      "county": "JOHNSTON",
+      "precinct": "PR23B",
+      "votes": [
+        [738,0,0,0],
+        [362,0,0,0],
+        [33,0,0,0]
+      ]
+    },
+    {
+      "key": "JOHNSTON|PR31A",
+      "county": "JOHNSTON",
+      "precinct": "PR31A",
+      "votes": [
+        [364,0,0,0],
+        [227,0,0,0],
+        [21,0,0,0]
+      ]
+    },
+    {
+      "key": "JOHNSTON|PR31B",
+      "county": "JOHNSTON",
+      "precinct": "PR31B",
+      "votes": [
+        [688,0,0,0],
+        [575,0,0,0],
+        [42,0,0,0]
+      ]
+    },
+    {
+      "key": "JOHNSTON|PR33",
+      "county": "JOHNSTON",
+      "precinct": "PR33",
+      "votes": [
+        [896,0,0,0],
+        [327,0,0,0],
+        [41,0,0,0]
+      ]
+    }
+  ],
+  "other": [
+    {
+      "county": "JOHNSTON",
+      "label": "ABS-SUPPLEMENTAL",
+      "votes": [
+        [0,0,0,0],
+        [0,0,0,0],
+        [0,0,0,0]
+      ]
+    },
+    {
+      "county": "JOHNSTON",
+      "label": "ABSENTEE",
+      "votes": [
+        [0,0,118,0],
+        [0,0,279,0],
+        [0,0,8,0]
+      ]
+    },
+    {
+      "county": "JOHNSTON",
+      "label": "EV-ARCHER LODGE",
+      "votes": [
+        [0,14,0,0],
+        [0,37,0,0],
+        [0,3,0,0]
+      ]
+    },
+    {
+      "county": "JOHNSTON",
+      "label": "EV-BENSON",
+      "votes": [
+        [0,628,0,0],
+        [0,386,0,0],
+        [0,15,0,0]
+      ]
+    },
+    {
+      "county": "JOHNSTON",
+      "label": "EV-CLAYTON",
+      "votes": [
+        [0,534,0,0],
+        [0,904,0,0],
+        [0,23,0,0]
+      ]
+    },
+    {
+      "county": "JOHNSTON",
+      "label": "EV-CLEVELAND",
+      "votes": [
+        [0,3273,0,0],
+        [0,4627,0,0],
+        [0,143,0,0]
+      ]
+    },
+    {
+      "county": "JOHNSTON",
+      "label": "EV-SMITHFIELD",
+      "votes": [
+        [0,80,0,0],
+        [0,75,0,0],
+        [0,0,0,0]
+      ]
+    },
+    {
+      "county": "JOHNSTON",
+      "label": "PROVISIONAL",
+      "votes": [
+        [0,0,0,0],
+        [0,0,0,0],
+        [0,0,0,0]
+      ]
+    },
+    {
+      "county": "JOHNSTON",
+      "label": "TRANSFER",
+      "votes": [
+        [0,0,0,0],
+        [0,0,0,0],
+        [0,0,0,0]
+      ]
+    }
+  ]
+}

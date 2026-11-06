@@ -1,0 +1,246 @@
+{
+  "raceId": "nc-house-019",
+  "candidates": [
+    {"name":"Charlie Miller","party":"R"},
+    {"name":"Scott Nasiff","party":"D"}
+  ],
+  "precincts": [
+    {
+      "key": "BRUNSWICK|CB04",
+      "county": "BRUNSWICK",
+      "precinct": "CB04",
+      "votes": [
+        [612,1057,30,0],
+        [195,529,36,0]
+      ]
+    },
+    {
+      "key": "BRUNSWICK|CB05",
+      "county": "BRUNSWICK",
+      "precinct": "CB05",
+      "votes": [
+        [381,871,14,0],
+        [108,381,31,0]
+      ]
+    },
+    {
+      "key": "BRUNSWICK|CB06",
+      "county": "BRUNSWICK",
+      "precinct": "CB06",
+      "votes": [
+        [888,1959,37,0],
+        [343,1544,61,0]
+      ]
+    },
+    {
+      "key": "BRUNSWICK|SB01",
+      "county": "BRUNSWICK",
+      "precinct": "SB01",
+      "votes": [
+        [255,488,7,0],
+        [123,331,18,0]
+      ]
+    },
+    {
+      "key": "BRUNSWICK|SB02",
+      "county": "BRUNSWICK",
+      "precinct": "SB02",
+      "votes": [
+        [851,929,20,0],
+        [334,717,48,0]
+      ]
+    },
+    {
+      "key": "BRUNSWICK|SB03",
+      "county": "BRUNSWICK",
+      "precinct": "SB03",
+      "votes": [
+        [588,3276,90,0],
+        [288,2854,183,0]
+      ]
+    },
+    {
+      "key": "BRUNSWICK|SB04",
+      "county": "BRUNSWICK",
+      "precinct": "SB04",
+      "votes": [
+        [491,681,62,0],
+        [293,817,90,0]
+      ]
+    },
+    {
+      "key": "BRUNSWICK|SB05",
+      "county": "BRUNSWICK",
+      "precinct": "SB05",
+      "votes": [
+        [479,662,22,0],
+        [271,738,49,0]
+      ]
+    },
+    {
+      "key": "BRUNSWICK|SB06",
+      "county": "BRUNSWICK",
+      "precinct": "SB06",
+      "votes": [
+        [713,736,29,0],
+        [270,586,40,0]
+      ]
+    },
+    {
+      "key": "BRUNSWICK|SB07",
+      "county": "BRUNSWICK",
+      "precinct": "SB07",
+      "votes": [
+        [647,625,19,0],
+        [310,546,31,0]
+      ]
+    },
+    {
+      "key": "BRUNSWICK|SB08",
+      "county": "BRUNSWICK",
+      "precinct": "SB08",
+      "votes": [
+        [408,437,20,0],
+        [164,428,26,0]
+      ]
+    },
+    {
+      "key": "NEW HANOVER|FP03",
+      "county": "NEW HANOVER",
+      "precinct": "FP03",
+      "votes": [
+        [270,0,0,0],
+        [186,0,0,0]
+      ]
+    },
+    {
+      "key": "NEW HANOVER|FP04",
+      "county": "NEW HANOVER",
+      "precinct": "FP04",
+      "votes": [
+        [773,0,0,0],
+        [469,0,0,0]
+      ]
+    },
+    {
+      "key": "NEW HANOVER|FP06",
+      "county": "NEW HANOVER",
+      "precinct": "FP06",
+      "votes": [
+        [446,0,0,0],
+        [369,0,0,0]
+      ]
+    },
+    {
+      "key": "NEW HANOVER|FP07",
+      "county": "NEW HANOVER",
+      "precinct": "FP07",
+      "votes": [
+        [533,0,0,0],
+        [349,0,0,0]
+      ]
+    },
+    {
+      "key": "NEW HANOVER|FP08",
+      "county": "NEW HANOVER",
+      "precinct": "FP08",
+      "votes": [
+        [559,0,0,0],
+        [344,0,0,0]
+      ]
+    },
+    {
+      "key": "NEW HANOVER|M04",
+      "county": "NEW HANOVER",
+      "precinct": "M04",
+      "votes": [
+        [604,0,0,0],
+        [576,0,0,0]
+      ]
+    },
+    {
+      "key": "NEW HANOVER|M06",
+      "county": "NEW HANOVER",
+      "precinct": "M06",
+      "votes": [
+        [315,0,0,0],
+        [223,0,0,0]
+      ]
+    },
+    {
+      "key": "NEW HANOVER|M07",
+      "county": "NEW HANOVER",
+      "precinct": "M07",
+      "votes": [
+        [344,0,0,0],
+        [204,0,0,0]
+      ]
+    }
+  ],
+  "other": [
+    {
+      "county": "NEW HANOVER",
+      "label": "ABSENTEE MAIL",
+      "votes": [
+        [0,0,204,0],
+        [0,0,482,0]
+      ]
+    },
+    {
+      "county": "NEW HANOVER",
+      "label": "EV BOE",
+      "votes": [
+        [0,194,0,0],
+        [0,284,0,0]
+      ]
+    },
+    {
+      "county": "NEW HANOVER",
+      "label": "EV CAB",
+      "votes": [
+        [0,4424,0,0],
+        [0,3912,0,0]
+      ]
+    },
+    {
+      "county": "NEW HANOVER",
+      "label": "EV MLK",
+      "votes": [
+        [0,31,0,0],
+        [0,178,0,0]
+      ]
+    },
+    {
+      "county": "NEW HANOVER",
+      "label": "EV NLB",
+      "votes": [
+        [0,110,0,0],
+        [0,174,0,0]
+      ]
+    },
+    {
+      "county": "NEW HANOVER",
+      "label": "EV PVL",
+      "votes": [
+        [0,2544,0,0],
+        [0,3560,0,0]
+      ]
+    },
+    {
+      "county": "NEW HANOVER",
+      "label": "PROVISIONAL",
+      "votes": [
+        [0,0,0,0],
+        [0,0,0,0]
+      ]
+    },
+    {
+      "county": "NEW HANOVER",
+      "label": "TRANSFER",
+      "votes": [
+        [0,0,0,0],
+        [0,0,0,0]
+      ]
+    }
+  ]
+}

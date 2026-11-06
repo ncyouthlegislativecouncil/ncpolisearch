@@ -1,0 +1,119 @@
+{
+  "raceId": "nc-house-106",
+  "candidates": [
+    {"name":"Rodney Sadler","party":"D"}
+  ],
+  "precincts": [
+    {
+      "key": "MECKLENBURG|107.1",
+      "county": "MECKLENBURG",
+      "precinct": "107.1",
+      "votes": [
+        [686,1293,0,0]
+      ]
+    },
+    {
+      "key": "MECKLENBURG|126",
+      "county": "MECKLENBURG",
+      "precinct": "126",
+      "votes": [
+        [774,1577,0,0]
+      ]
+    },
+    {
+      "key": "MECKLENBURG|128",
+      "county": "MECKLENBURG",
+      "precinct": "128",
+      "votes": [
+        [447,1074,0,0]
+      ]
+    },
+    {
+      "key": "MECKLENBURG|135",
+      "county": "MECKLENBURG",
+      "precinct": "135",
+      "votes": [
+        [1256,2846,0,0]
+      ]
+    },
+    {
+      "key": "MECKLENBURG|145",
+      "county": "MECKLENBURG",
+      "precinct": "145",
+      "votes": [
+        [1560,4035,0,0]
+      ]
+    },
+    {
+      "key": "MECKLENBURG|146",
+      "county": "MECKLENBURG",
+      "precinct": "146",
+      "votes": [
+        [567,1457,0,0]
+      ]
+    },
+    {
+      "key": "MECKLENBURG|151",
+      "county": "MECKLENBURG",
+      "precinct": "151",
+      "votes": [
+        [933,2333,0,0]
+      ]
+    },
+    {
+      "key": "MECKLENBURG|214",
+      "county": "MECKLENBURG",
+      "precinct": "214",
+      "votes": [
+        [573,1492,0,0]
+      ]
+    },
+    {
+      "key": "MECKLENBURG|238.1",
+      "county": "MECKLENBURG",
+      "precinct": "238.1",
+      "votes": [
+        [618,1091,0,0]
+      ]
+    },
+    {
+      "key": "MECKLENBURG|239",
+      "county": "MECKLENBURG",
+      "precinct": "239",
+      "votes": [
+        [726,1958,0,0]
+      ]
+    },
+    {
+      "key": "MECKLENBURG|241",
+      "county": "MECKLENBURG",
+      "precinct": "241",
+      "votes": [
+        [1143,3915,0,0]
+      ]
+    }
+  ],
+  "other": [
+    {
+      "county": "MECKLENBURG",
+      "label": "ABSENTEE BY MAIL",
+      "votes": [
+        [0,0,877,0]
+      ]
+    },
+    {
+      "county": "MECKLENBURG",
+      "label": "PROVISIONALS",
+      "votes": [
+        [0,0,0,0]
+      ]
+    },
+    {
+      "county": "MECKLENBURG",
+      "label": "TRANSFERS",
+      "votes": [
+        [0,0,0,0]
+      ]
+    }
+  ]
+}

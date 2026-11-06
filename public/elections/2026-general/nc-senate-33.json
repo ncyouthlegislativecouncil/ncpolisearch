@@ -1,0 +1,617 @@
+{
+  "raceId": "nc-senate-33",
+  "candidates": [
+    {"name":"Carl Ford","party":"R"},
+    {"name":"Gary R. Weart","party":"D"}
+  ],
+  "precincts": [
+    {
+      "key": "ROWAN|1",
+      "county": "ROWAN",
+      "precinct": "01",
+      "votes": [
+        [298,375,7,0],
+        [72,112,20,0]
+      ]
+    },
+    {
+      "key": "ROWAN|10",
+      "county": "ROWAN",
+      "precinct": "10",
+      "votes": [
+        [592,647,12,0],
+        [157,349,18,0]
+      ]
+    },
+    {
+      "key": "ROWAN|11",
+      "county": "ROWAN",
+      "precinct": "11",
+      "votes": [
+        [474,471,5,0],
+        [206,424,30,0]
+      ]
+    },
+    {
+      "key": "ROWAN|12",
+      "county": "ROWAN",
+      "precinct": "12",
+      "votes": [
+        [193,231,10,0],
+        [166,434,13,0]
+      ]
+    },
+    {
+      "key": "ROWAN|13",
+      "county": "ROWAN",
+      "precinct": "13",
+      "votes": [
+        [486,486,10,0],
+        [94,144,13,0]
+      ]
+    },
+    {
+      "key": "ROWAN|14A",
+      "county": "ROWAN",
+      "precinct": "14A",
+      "votes": [
+        [575,946,11,0],
+        [216,527,12,0]
+      ]
+    },
+    {
+      "key": "ROWAN|15",
+      "county": "ROWAN",
+      "precinct": "15",
+      "votes": [
+        [552,737,19,0],
+        [201,385,23,0]
+      ]
+    },
+    {
+      "key": "ROWAN|16",
+      "county": "ROWAN",
+      "precinct": "16",
+      "votes": [
+        [280,197,10,0],
+        [318,343,22,0]
+      ]
+    },
+    {
+      "key": "ROWAN|17",
+      "county": "ROWAN",
+      "precinct": "17",
+      "votes": [
+        [332,313,4,0],
+        [276,355,12,0]
+      ]
+    },
+    {
+      "key": "ROWAN|18",
+      "county": "ROWAN",
+      "precinct": "18",
+      "votes": [
+        [26,11,0,0],
+        [184,188,13,0]
+      ]
+    },
+    {
+      "key": "ROWAN|19A",
+      "county": "ROWAN",
+      "precinct": "19A",
+      "votes": [
+        [553,925,15,0],
+        [224,560,20,0]
+      ]
+    },
+    {
+      "key": "ROWAN|2",
+      "county": "ROWAN",
+      "precinct": "02",
+      "votes": [
+        [139,164,5,0],
+        [158,218,10,0]
+      ]
+    },
+    {
+      "key": "ROWAN|21",
+      "county": "ROWAN",
+      "precinct": "21",
+      "votes": [
+        [497,454,6,0],
+        [194,404,12,0]
+      ]
+    },
+    {
+      "key": "ROWAN|22",
+      "county": "ROWAN",
+      "precinct": "22",
+      "votes": [
+        [233,202,3,0],
+        [25,48,3,0]
+      ]
+    },
+    {
+      "key": "ROWAN|23",
+      "county": "ROWAN",
+      "precinct": "23",
+      "votes": [
+        [368,345,7,0],
+        [59,86,4,0]
+      ]
+    },
+    {
+      "key": "ROWAN|24",
+      "county": "ROWAN",
+      "precinct": "24",
+      "votes": [
+        [512,222,11,0],
+        [98,111,5,0]
+      ]
+    },
+    {
+      "key": "ROWAN|25",
+      "county": "ROWAN",
+      "precinct": "25",
+      "votes": [
+        [435,904,13,0],
+        [108,310,15,0]
+      ]
+    },
+    {
+      "key": "ROWAN|26",
+      "county": "ROWAN",
+      "precinct": "26",
+      "votes": [
+        [290,514,4,0],
+        [57,136,4,0]
+      ]
+    },
+    {
+      "key": "ROWAN|27",
+      "county": "ROWAN",
+      "precinct": "27",
+      "votes": [
+        [396,88,1,0],
+        [84,93,1,0]
+      ]
+    },
+    {
+      "key": "ROWAN|28",
+      "county": "ROWAN",
+      "precinct": "28",
+      "votes": [
+        [254,160,4,0],
+        [375,371,9,0]
+      ]
+    },
+    {
+      "key": "ROWAN|29",
+      "county": "ROWAN",
+      "precinct": "29",
+      "votes": [
+        [267,197,2,0],
+        [76,107,3,0]
+      ]
+    },
+    {
+      "key": "ROWAN|3",
+      "county": "ROWAN",
+      "precinct": "03",
+      "votes": [
+        [430,499,16,0],
+        [87,155,11,0]
+      ]
+    },
+    {
+      "key": "ROWAN|30",
+      "county": "ROWAN",
+      "precinct": "30",
+      "votes": [
+        [215,311,9,0],
+        [202,319,18,0]
+      ]
+    },
+    {
+      "key": "ROWAN|31",
+      "county": "ROWAN",
+      "precinct": "31",
+      "votes": [
+        [409,232,11,0],
+        [117,180,7,0]
+      ]
+    },
+    {
+      "key": "ROWAN|32",
+      "county": "ROWAN",
+      "precinct": "32",
+      "votes": [
+        [426,199,7,0],
+        [130,148,2,0]
+      ]
+    },
+    {
+      "key": "ROWAN|33",
+      "county": "ROWAN",
+      "precinct": "33",
+      "votes": [
+        [364,386,7,0],
+        [66,111,12,0]
+      ]
+    },
+    {
+      "key": "ROWAN|34",
+      "county": "ROWAN",
+      "precinct": "34",
+      "votes": [
+        [229,234,7,0],
+        [343,520,23,0]
+      ]
+    },
+    {
+      "key": "ROWAN|35",
+      "county": "ROWAN",
+      "precinct": "35",
+      "votes": [
+        [75,67,6,0],
+        [152,332,20,0]
+      ]
+    },
+    {
+      "key": "ROWAN|36",
+      "county": "ROWAN",
+      "precinct": "36",
+      "votes": [
+        [148,266,35,0],
+        [306,641,29,0]
+      ]
+    },
+    {
+      "key": "ROWAN|38",
+      "county": "ROWAN",
+      "precinct": "38",
+      "votes": [
+        [161,213,19,0],
+        [322,532,21,0]
+      ]
+    },
+    {
+      "key": "ROWAN|39",
+      "county": "ROWAN",
+      "precinct": "39",
+      "votes": [
+        [189,232,19,0],
+        [148,389,18,0]
+      ]
+    },
+    {
+      "key": "ROWAN|4",
+      "county": "ROWAN",
+      "precinct": "04",
+      "votes": [
+        [686,1086,18,0],
+        [138,382,23,0]
+      ]
+    },
+    {
+      "key": "ROWAN|40",
+      "county": "ROWAN",
+      "precinct": "40",
+      "votes": [
+        [266,226,6,0],
+        [299,473,23,0]
+      ]
+    },
+    {
+      "key": "ROWAN|41",
+      "county": "ROWAN",
+      "precinct": "41",
+      "votes": [
+        [221,287,19,0],
+        [259,559,30,0]
+      ]
+    },
+    {
+      "key": "ROWAN|42",
+      "county": "ROWAN",
+      "precinct": "42",
+      "votes": [
+        [17,14,0,0],
+        [215,373,5,0]
+      ]
+    },
+    {
+      "key": "ROWAN|44",
+      "county": "ROWAN",
+      "precinct": "44",
+      "votes": [
+        [536,518,7,0],
+        [104,175,12,0]
+      ]
+    },
+    {
+      "key": "ROWAN|45",
+      "county": "ROWAN",
+      "precinct": "45",
+      "votes": [
+        [189,159,3,0],
+        [149,268,3,0]
+      ]
+    },
+    {
+      "key": "ROWAN|5A",
+      "county": "ROWAN",
+      "precinct": "05A",
+      "votes": [
+        [528,966,16,0],
+        [263,629,19,0]
+      ]
+    },
+    {
+      "key": "ROWAN|7",
+      "county": "ROWAN",
+      "precinct": "07",
+      "votes": [
+        [485,136,1,0],
+        [204,168,7,0]
+      ]
+    },
+    {
+      "key": "ROWAN|8",
+      "county": "ROWAN",
+      "precinct": "08",
+      "votes": [
+        [419,630,13,0],
+        [185,517,10,0]
+      ]
+    },
+    {
+      "key": "ROWAN|9",
+      "county": "ROWAN",
+      "precinct": "09",
+      "votes": [
+        [374,387,1,0],
+        [95,158,9,0]
+      ]
+    },
+    {
+      "key": "STANLY|107",
+      "county": "STANLY",
+      "precinct": "0107",
+      "votes": [
+        [260,0,0,0],
+        [186,0,0,0]
+      ]
+    },
+    {
+      "key": "STANLY|108",
+      "county": "STANLY",
+      "precinct": "0108",
+      "votes": [
+        [32,0,0,0],
+        [233,0,0,0]
+      ]
+    },
+    {
+      "key": "STANLY|11",
+      "county": "STANLY",
+      "precinct": "0011",
+      "votes": [
+        [171,0,0,0],
+        [57,0,0,0]
+      ]
+    },
+    {
+      "key": "STANLY|110",
+      "county": "STANLY",
+      "precinct": "0110",
+      "votes": [
+        [182,0,0,0],
+        [173,0,0,0]
+      ]
+    },
+    {
+      "key": "STANLY|113",
+      "county": "STANLY",
+      "precinct": "0113",
+      "votes": [
+        [243,0,0,0],
+        [64,0,0,0]
+      ]
+    },
+    {
+      "key": "STANLY|120",
+      "county": "STANLY",
+      "precinct": "0120",
+      "votes": [
+        [623,0,0,0],
+        [92,0,0,0]
+      ]
+    },
+    {
+      "key": "STANLY|126",
+      "county": "STANLY",
+      "precinct": "0126",
+      "votes": [
+        [531,0,0,0],
+        [109,0,0,0]
+      ]
+    },
+    {
+      "key": "STANLY|127",
+      "county": "STANLY",
+      "precinct": "0127",
+      "votes": [
+        [720,0,0,0],
+        [215,0,0,0]
+      ]
+    },
+    {
+      "key": "STANLY|14",
+      "county": "STANLY",
+      "precinct": "0014",
+      "votes": [
+        [233,0,0,0],
+        [46,0,0,0]
+      ]
+    },
+    {
+      "key": "STANLY|15",
+      "county": "STANLY",
+      "precinct": "0015",
+      "votes": [
+        [259,0,0,0],
+        [135,0,0,0]
+      ]
+    },
+    {
+      "key": "STANLY|16",
+      "county": "STANLY",
+      "precinct": "0016",
+      "votes": [
+        [203,0,0,0],
+        [80,0,0,0]
+      ]
+    },
+    {
+      "key": "STANLY|17",
+      "county": "STANLY",
+      "precinct": "0017",
+      "votes": [
+        [520,0,0,0],
+        [104,0,0,0]
+      ]
+    },
+    {
+      "key": "STANLY|18",
+      "county": "STANLY",
+      "precinct": "0018",
+      "votes": [
+        [283,0,0,0],
+        [80,0,0,0]
+      ]
+    },
+    {
+      "key": "STANLY|19",
+      "county": "STANLY",
+      "precinct": "0019",
+      "votes": [
+        [456,0,0,0],
+        [64,0,0,0]
+      ]
+    },
+    {
+      "key": "STANLY|21",
+      "county": "STANLY",
+      "precinct": "0021",
+      "votes": [
+        [354,0,0,0],
+        [36,0,0,0]
+      ]
+    },
+    {
+      "key": "STANLY|212",
+      "county": "STANLY",
+      "precinct": "0212",
+      "votes": [
+        [286,0,0,0],
+        [128,0,0,0]
+      ]
+    },
+    {
+      "key": "STANLY|22",
+      "county": "STANLY",
+      "precinct": "0022",
+      "votes": [
+        [450,0,0,0],
+        [143,0,0,0]
+      ]
+    },
+    {
+      "key": "STANLY|23",
+      "county": "STANLY",
+      "precinct": "0023",
+      "votes": [
+        [622,0,0,0],
+        [127,0,0,0]
+      ]
+    },
+    {
+      "key": "STANLY|24",
+      "county": "STANLY",
+      "precinct": "0024",
+      "votes": [
+        [612,0,0,0],
+        [172,0,0,0]
+      ]
+    },
+    {
+      "key": "STANLY|25",
+      "county": "STANLY",
+      "precinct": "0025",
+      "votes": [
+        [671,0,0,0],
+        [142,0,0,0]
+      ]
+    },
+    {
+      "key": "STANLY|3",
+      "county": "STANLY",
+      "precinct": "0003",
+      "votes": [
+        [216,0,0,0],
+        [158,0,0,0]
+      ]
+    }
+  ],
+  "other": [
+    {
+      "county": "STANLY",
+      "label": "ABSENTEE",
+      "votes": [
+        [0,0,159,0],
+        [0,0,233,0]
+      ]
+    },
+    {
+      "county": "STANLY",
+      "label": "ABSENTEE SUP",
+      "votes": [
+        [0,0,0,0],
+        [0,0,0,0]
+      ]
+    },
+    {
+      "county": "STANLY",
+      "label": "EV BOE",
+      "votes": [
+        [0,5186,0,0],
+        [0,3649,0,0]
+      ]
+    },
+    {
+      "county": "STANLY",
+      "label": "EV LOC",
+      "votes": [
+        [0,3314,0,0],
+        [0,1218,0,0]
+      ]
+    },
+    {
+      "county": "STANLY",
+      "label": "PROVISIONAL",
+      "votes": [
+        [0,0,0,0],
+        [0,0,0,0]
+      ]
+    },
+    {
+      "county": "STANLY",
+      "label": "TRANSFER",
+      "votes": [
+        [0,0,0,0],
+        [0,0,0,0]
+      ]
+    }
+  ]
+}

@@ -1,0 +1,514 @@
+{
+  "raceId": "nc-senate-19",
+  "candidates": [
+    {"name":"Val Applewhite","party":"D"},
+    {"name":"Venus de la Cruz","party":"R"}
+  ],
+  "precincts": [
+    {
+      "key": "CUMBERLAND|AH49",
+      "county": "CUMBERLAND",
+      "precinct": "AH49",
+      "votes": [
+        [388,677,22,0],
+        [151,152,4,0]
+      ]
+    },
+    {
+      "key": "CUMBERLAND|CC01",
+      "county": "CUMBERLAND",
+      "precinct": "CC01",
+      "votes": [
+        [241,514,15,0],
+        [27,57,0,0]
+      ]
+    },
+    {
+      "key": "CUMBERLAND|CC03",
+      "county": "CUMBERLAND",
+      "precinct": "CC03",
+      "votes": [
+        [123,242,15,0],
+        [72,73,4,0]
+      ]
+    },
+    {
+      "key": "CUMBERLAND|CC04",
+      "county": "CUMBERLAND",
+      "precinct": "CC04",
+      "votes": [
+        [129,225,17,0],
+        [111,88,2,0]
+      ]
+    },
+    {
+      "key": "CUMBERLAND|CC06",
+      "county": "CUMBERLAND",
+      "precinct": "CC06",
+      "votes": [
+        [129,183,11,0],
+        [100,113,7,0]
+      ]
+    },
+    {
+      "key": "CUMBERLAND|CC07",
+      "county": "CUMBERLAND",
+      "precinct": "CC07",
+      "votes": [
+        [112,180,6,0],
+        [122,136,4,0]
+      ]
+    },
+    {
+      "key": "CUMBERLAND|CC08",
+      "county": "CUMBERLAND",
+      "precinct": "CC08",
+      "votes": [
+        [99,251,17,0],
+        [210,240,4,0]
+      ]
+    },
+    {
+      "key": "CUMBERLAND|CC10",
+      "county": "CUMBERLAND",
+      "precinct": "CC10",
+      "votes": [
+        [166,175,5,0],
+        [95,85,1,0]
+      ]
+    },
+    {
+      "key": "CUMBERLAND|CC12",
+      "county": "CUMBERLAND",
+      "precinct": "CC12",
+      "votes": [
+        [137,287,21,0],
+        [326,289,12,0]
+      ]
+    },
+    {
+      "key": "CUMBERLAND|CC13",
+      "county": "CUMBERLAND",
+      "precinct": "CC13",
+      "votes": [
+        [153,493,16,0],
+        [7,17,2,0]
+      ]
+    },
+    {
+      "key": "CUMBERLAND|CC14",
+      "county": "CUMBERLAND",
+      "precinct": "CC14",
+      "votes": [
+        [168,476,22,0],
+        [254,409,12,0]
+      ]
+    },
+    {
+      "key": "CUMBERLAND|CC15",
+      "county": "CUMBERLAND",
+      "precinct": "CC15",
+      "votes": [
+        [252,454,25,0],
+        [277,350,9,0]
+      ]
+    },
+    {
+      "key": "CUMBERLAND|CC16",
+      "county": "CUMBERLAND",
+      "precinct": "CC16",
+      "votes": [
+        [220,669,12,0],
+        [7,16,0,0]
+      ]
+    },
+    {
+      "key": "CUMBERLAND|CC17",
+      "county": "CUMBERLAND",
+      "precinct": "CC17",
+      "votes": [
+        [235,664,20,0],
+        [54,72,2,0]
+      ]
+    },
+    {
+      "key": "CUMBERLAND|CC18",
+      "county": "CUMBERLAND",
+      "precinct": "CC18",
+      "votes": [
+        [139,213,11,0],
+        [223,259,8,0]
+      ]
+    },
+    {
+      "key": "CUMBERLAND|CC21",
+      "county": "CUMBERLAND",
+      "precinct": "CC21",
+      "votes": [
+        [367,743,27,0],
+        [132,163,5,0]
+      ]
+    },
+    {
+      "key": "CUMBERLAND|CC22A",
+      "county": "CUMBERLAND",
+      "precinct": "CC22A",
+      "votes": [
+        [381,971,32,0],
+        [203,307,13,0]
+      ]
+    },
+    {
+      "key": "CUMBERLAND|CC23-2",
+      "county": "CUMBERLAND",
+      "precinct": "CC23-2",
+      "votes": [
+        [236,681,34,0],
+        [200,293,6,0]
+      ]
+    },
+    {
+      "key": "CUMBERLAND|CC24",
+      "county": "CUMBERLAND",
+      "precinct": "CC24",
+      "votes": [
+        [151,279,15,0],
+        [91,66,5,0]
+      ]
+    },
+    {
+      "key": "CUMBERLAND|CC25",
+      "county": "CUMBERLAND",
+      "precinct": "CC25",
+      "votes": [
+        [216,385,25,0],
+        [129,131,2,0]
+      ]
+    },
+    {
+      "key": "CUMBERLAND|CC26",
+      "county": "CUMBERLAND",
+      "precinct": "CC26",
+      "votes": [
+        [414,811,32,0],
+        [115,126,8,0]
+      ]
+    },
+    {
+      "key": "CUMBERLAND|CC27",
+      "county": "CUMBERLAND",
+      "precinct": "CC27",
+      "votes": [
+        [344,816,31,0],
+        [69,172,5,0]
+      ]
+    },
+    {
+      "key": "CUMBERLAND|CC29",
+      "county": "CUMBERLAND",
+      "precinct": "CC29",
+      "votes": [
+        [201,398,19,0],
+        [88,89,3,0]
+      ]
+    },
+    {
+      "key": "CUMBERLAND|CC31",
+      "county": "CUMBERLAND",
+      "precinct": "CC31",
+      "votes": [
+        [190,295,12,0],
+        [142,111,1,0]
+      ]
+    },
+    {
+      "key": "CUMBERLAND|CC32",
+      "county": "CUMBERLAND",
+      "precinct": "CC32",
+      "votes": [
+        [147,273,13,0],
+        [27,51,3,0]
+      ]
+    },
+    {
+      "key": "CUMBERLAND|CC33",
+      "county": "CUMBERLAND",
+      "precinct": "CC33",
+      "votes": [
+        [259,504,22,0],
+        [171,132,6,0]
+      ]
+    },
+    {
+      "key": "CUMBERLAND|CC34",
+      "county": "CUMBERLAND",
+      "precinct": "CC34",
+      "votes": [
+        [168,383,13,0],
+        [261,272,12,0]
+      ]
+    },
+    {
+      "key": "CUMBERLAND|CC519",
+      "county": "CUMBERLAND",
+      "precinct": "CC519",
+      "votes": [
+        [286,600,15,0],
+        [48,45,3,0]
+      ]
+    },
+    {
+      "key": "CUMBERLAND|CL57-1",
+      "county": "CUMBERLAND",
+      "precinct": "CL57-1",
+      "votes": [
+        [343,852,43,0],
+        [121,157,6,0]
+      ]
+    },
+    {
+      "key": "CUMBERLAND|CL57-2",
+      "county": "CUMBERLAND",
+      "precinct": "CL57-2",
+      "votes": [
+        [353,976,42,0],
+        [108,120,7,0]
+      ]
+    },
+    {
+      "key": "CUMBERLAND|CU02",
+      "county": "CUMBERLAND",
+      "precinct": "CU02",
+      "votes": [
+        [255,276,15,0],
+        [179,90,2,0]
+      ]
+    },
+    {
+      "key": "CUMBERLAND|G10A",
+      "county": "CUMBERLAND",
+      "precinct": "G10A",
+      "votes": [
+        [340,1270,61,0],
+        [315,720,21,0]
+      ]
+    },
+    {
+      "key": "CUMBERLAND|G1A",
+      "county": "CUMBERLAND",
+      "precinct": "G1A",
+      "votes": [
+        [244,429,18,0],
+        [91,124,10,0]
+      ]
+    },
+    {
+      "key": "CUMBERLAND|G2A",
+      "county": "CUMBERLAND",
+      "precinct": "G2A",
+      "votes": [
+        [384,1381,65,0],
+        [176,296,8,0]
+      ]
+    },
+    {
+      "key": "CUMBERLAND|G2C-1",
+      "county": "CUMBERLAND",
+      "precinct": "G2C-1",
+      "votes": [
+        [267,832,13,0],
+        [133,280,11,0]
+      ]
+    },
+    {
+      "key": "CUMBERLAND|G2E-1",
+      "county": "CUMBERLAND",
+      "precinct": "G2E-1",
+      "votes": [
+        [182,521,21,0],
+        [63,92,5,0]
+      ]
+    },
+    {
+      "key": "CUMBERLAND|G2E-2",
+      "county": "CUMBERLAND",
+      "precinct": "G2E-2",
+      "votes": [
+        [263,619,6,0],
+        [52,77,1,0]
+      ]
+    },
+    {
+      "key": "CUMBERLAND|G3A-1",
+      "county": "CUMBERLAND",
+      "precinct": "G3A-1",
+      "votes": [
+        [378,800,26,0],
+        [128,209,3,0]
+      ]
+    },
+    {
+      "key": "CUMBERLAND|G3A-2C",
+      "county": "CUMBERLAND",
+      "precinct": "G3A-2C",
+      "votes": [
+        [271,476,15,0],
+        [153,171,2,0]
+      ]
+    },
+    {
+      "key": "CUMBERLAND|G3B",
+      "county": "CUMBERLAND",
+      "precinct": "G3B",
+      "votes": [
+        [141,167,11,0],
+        [106,66,6,0]
+      ]
+    },
+    {
+      "key": "CUMBERLAND|G3C",
+      "county": "CUMBERLAND",
+      "precinct": "G3C",
+      "votes": [
+        [104,249,14,0],
+        [128,131,3,0]
+      ]
+    },
+    {
+      "key": "CUMBERLAND|G4A",
+      "county": "CUMBERLAND",
+      "precinct": "G4A",
+      "votes": [
+        [179,237,12,0],
+        [102,87,6,0]
+      ]
+    },
+    {
+      "key": "CUMBERLAND|G4B",
+      "county": "CUMBERLAND",
+      "precinct": "G4B",
+      "votes": [
+        [188,205,7,0],
+        [192,123,6,0]
+      ]
+    },
+    {
+      "key": "CUMBERLAND|G4C",
+      "county": "CUMBERLAND",
+      "precinct": "G4C",
+      "votes": [
+        [213,461,15,0],
+        [85,84,2,0]
+      ]
+    },
+    {
+      "key": "CUMBERLAND|G5A-1",
+      "county": "CUMBERLAND",
+      "precinct": "G5A-1",
+      "votes": [
+        [341,700,25,0],
+        [140,115,4,0]
+      ]
+    },
+    {
+      "key": "CUMBERLAND|G5A-2",
+      "county": "CUMBERLAND",
+      "precinct": "G5A-2",
+      "votes": [
+        [224,671,25,0],
+        [134,210,5,0]
+      ]
+    },
+    {
+      "key": "CUMBERLAND|G5B-1",
+      "county": "CUMBERLAND",
+      "precinct": "G5B-1",
+      "votes": [
+        [331,867,33,0],
+        [57,75,9,0]
+      ]
+    },
+    {
+      "key": "CUMBERLAND|G5B-2",
+      "county": "CUMBERLAND",
+      "precinct": "G5B-2",
+      "votes": [
+        [237,694,31,0],
+        [59,95,6,0]
+      ]
+    },
+    {
+      "key": "CUMBERLAND|G5C",
+      "county": "CUMBERLAND",
+      "precinct": "G5C",
+      "votes": [
+        [256,382,16,0],
+        [119,71,5,0]
+      ]
+    },
+    {
+      "key": "CUMBERLAND|G8A",
+      "county": "CUMBERLAND",
+      "precinct": "G8A",
+      "votes": [
+        [358,794,37,0],
+        [186,240,4,0]
+      ]
+    },
+    {
+      "key": "CUMBERLAND|G8B",
+      "county": "CUMBERLAND",
+      "precinct": "G8B",
+      "votes": [
+        [291,668,25,0],
+        [212,221,4,0]
+      ]
+    },
+    {
+      "key": "CUMBERLAND|G8C",
+      "county": "CUMBERLAND",
+      "precinct": "G8C",
+      "votes": [
+        [240,434,17,0],
+        [141,146,1,0]
+      ]
+    },
+    {
+      "key": "CUMBERLAND|G9A-3",
+      "county": "CUMBERLAND",
+      "precinct": "G9A-3",
+      "votes": [
+        [5,25,1,0],
+        [7,2,0,0]
+      ]
+    },
+    {
+      "key": "CUMBERLAND|LR63",
+      "county": "CUMBERLAND",
+      "precinct": "LR63",
+      "votes": [
+        [526,1446,46,0],
+        [146,181,10,0]
+      ]
+    },
+    {
+      "key": "CUMBERLAND|MB62",
+      "county": "CUMBERLAND",
+      "precinct": "MB62",
+      "votes": [
+        [375,668,23,0],
+        [87,96,2,0]
+      ]
+    },
+    {
+      "key": "CUMBERLAND|MR02",
+      "county": "CUMBERLAND",
+      "precinct": "MR02",
+      "votes": [
+        [310,596,31,0],
+        [160,136,6,0]
+      ]
+    }
+  ],
+  "other": []
+}

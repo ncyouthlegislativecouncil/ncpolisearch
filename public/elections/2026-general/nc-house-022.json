@@ -1,0 +1,329 @@
+{
+  "raceId": "nc-house-022",
+  "candidates": [
+    {"name":"Wellie Jackson","party":"R"}
+  ],
+  "precincts": [
+    {
+      "key": "BLADEN|P10",
+      "county": "BLADEN",
+      "precinct": "P10",
+      "votes": [
+        [125,104,1,0]
+      ]
+    },
+    {
+      "key": "BLADEN|P15",
+      "county": "BLADEN",
+      "precinct": "P15",
+      "votes": [
+        [536,532,11,0]
+      ]
+    },
+    {
+      "key": "BLADEN|P201",
+      "county": "BLADEN",
+      "precinct": "P201",
+      "votes": [
+        [272,305,2,0]
+      ]
+    },
+    {
+      "key": "BLADEN|P202",
+      "county": "BLADEN",
+      "precinct": "P202",
+      "votes": [
+        [344,518,5,0]
+      ]
+    },
+    {
+      "key": "BLADEN|P25",
+      "county": "BLADEN",
+      "precinct": "P25",
+      "votes": [
+        [176,106,2,0]
+      ]
+    },
+    {
+      "key": "BLADEN|P30",
+      "county": "BLADEN",
+      "precinct": "P30",
+      "votes": [
+        [63,115,1,0]
+      ]
+    },
+    {
+      "key": "BLADEN|P35",
+      "county": "BLADEN",
+      "precinct": "P35",
+      "votes": [
+        [50,88,1,0]
+      ]
+    },
+    {
+      "key": "BLADEN|P40",
+      "county": "BLADEN",
+      "precinct": "P40",
+      "votes": [
+        [346,361,0,0]
+      ]
+    },
+    {
+      "key": "BLADEN|P45",
+      "county": "BLADEN",
+      "precinct": "P45",
+      "votes": [
+        [108,61,0,0]
+      ]
+    },
+    {
+      "key": "BLADEN|P501",
+      "county": "BLADEN",
+      "precinct": "P501",
+      "votes": [
+        [226,539,15,0]
+      ]
+    },
+    {
+      "key": "BLADEN|P502",
+      "county": "BLADEN",
+      "precinct": "P502",
+      "votes": [
+        [133,298,10,0]
+      ]
+    },
+    {
+      "key": "BLADEN|P55",
+      "county": "BLADEN",
+      "precinct": "P55",
+      "votes": [
+        [160,33,0,0]
+      ]
+    },
+    {
+      "key": "BLADEN|P60",
+      "county": "BLADEN",
+      "precinct": "P60",
+      "votes": [
+        [283,136,11,0]
+      ]
+    },
+    {
+      "key": "BLADEN|P65",
+      "county": "BLADEN",
+      "precinct": "P65",
+      "votes": [
+        [163,109,3,0]
+      ]
+    },
+    {
+      "key": "BLADEN|P70",
+      "county": "BLADEN",
+      "precinct": "P70",
+      "votes": [
+        [78,64,0,0]
+      ]
+    },
+    {
+      "key": "BLADEN|P75",
+      "county": "BLADEN",
+      "precinct": "P75",
+      "votes": [
+        [122,113,2,0]
+      ]
+    },
+    {
+      "key": "BLADEN|P80",
+      "county": "BLADEN",
+      "precinct": "P80",
+      "votes": [
+        [185,213,2,0]
+      ]
+    },
+    {
+      "key": "SAMPSON|AUTR",
+      "county": "SAMPSON",
+      "precinct": "AUTR",
+      "votes": [
+        [379,234,8,0]
+      ]
+    },
+    {
+      "key": "SAMPSON|CLCE",
+      "county": "SAMPSON",
+      "precinct": "CLCE",
+      "votes": [
+        [42,67,1,0]
+      ]
+    },
+    {
+      "key": "SAMPSON|CLEA",
+      "county": "SAMPSON",
+      "precinct": "CLEA",
+      "votes": [
+        [270,417,3,0]
+      ]
+    },
+    {
+      "key": "SAMPSON|CLEM",
+      "county": "SAMPSON",
+      "precinct": "CLEM",
+      "votes": [
+        [417,178,3,0]
+      ]
+    },
+    {
+      "key": "SAMPSON|CLNE",
+      "county": "SAMPSON",
+      "precinct": "CLNE",
+      "votes": [
+        [210,421,2,0]
+      ]
+    },
+    {
+      "key": "SAMPSON|CLSW",
+      "county": "SAMPSON",
+      "precinct": "CLSW",
+      "votes": [
+        [153,287,4,0]
+      ]
+    },
+    {
+      "key": "SAMPSON|CLWE",
+      "county": "SAMPSON",
+      "precinct": "CLWE",
+      "votes": [
+        [265,431,4,0]
+      ]
+    },
+    {
+      "key": "SAMPSON|GARL",
+      "county": "SAMPSON",
+      "precinct": "GARL",
+      "votes": [
+        [200,108,5,0]
+      ]
+    },
+    {
+      "key": "SAMPSON|GIDD",
+      "county": "SAMPSON",
+      "precinct": "GIDD",
+      "votes": [
+        [177,174,3,0]
+      ]
+    },
+    {
+      "key": "SAMPSON|HARR",
+      "county": "SAMPSON",
+      "precinct": "HARR",
+      "votes": [
+        [167,218,4,0]
+      ]
+    },
+    {
+      "key": "SAMPSON|HERR",
+      "county": "SAMPSON",
+      "precinct": "HERR",
+      "votes": [
+        [218,139,5,0]
+      ]
+    },
+    {
+      "key": "SAMPSON|INGO",
+      "county": "SAMPSON",
+      "precinct": "INGO",
+      "votes": [
+        [132,173,3,0]
+      ]
+    },
+    {
+      "key": "SAMPSON|KEEN",
+      "county": "SAMPSON",
+      "precinct": "KEEN",
+      "votes": [
+        [257,221,0,0]
+      ]
+    },
+    {
+      "key": "SAMPSON|KFRK",
+      "county": "SAMPSON",
+      "precinct": "KFRK",
+      "votes": [
+        [180,397,12,0]
+      ]
+    },
+    {
+      "key": "SAMPSON|LAKE",
+      "county": "SAMPSON",
+      "precinct": "LAKE",
+      "votes": [
+        [262,330,7,0]
+      ]
+    },
+    {
+      "key": "SAMPSON|MING",
+      "county": "SAMPSON",
+      "precinct": "MING",
+      "votes": [
+        [599,388,9,0]
+      ]
+    },
+    {
+      "key": "SAMPSON|NGRV",
+      "county": "SAMPSON",
+      "precinct": "NGRV",
+      "votes": [
+        [248,263,2,0]
+      ]
+    },
+    {
+      "key": "SAMPSON|PLVW",
+      "county": "SAMPSON",
+      "precinct": "PLVW",
+      "votes": [
+        [685,419,5,0]
+      ]
+    },
+    {
+      "key": "SAMPSON|ROSE",
+      "county": "SAMPSON",
+      "precinct": "ROSE",
+      "votes": [
+        [288,149,2,0]
+      ]
+    },
+    {
+      "key": "SAMPSON|ROWA",
+      "county": "SAMPSON",
+      "precinct": "ROWA",
+      "votes": [
+        [194,287,1,0]
+      ]
+    },
+    {
+      "key": "SAMPSON|SBRG",
+      "county": "SAMPSON",
+      "precinct": "SBRG",
+      "votes": [
+        [255,125,4,0]
+      ]
+    },
+    {
+      "key": "SAMPSON|TURK",
+      "county": "SAMPSON",
+      "precinct": "TURK",
+      "votes": [
+        [182,137,4,0]
+      ]
+    },
+    {
+      "key": "SAMPSON|WBRK",
+      "county": "SAMPSON",
+      "precinct": "WBRK",
+      "votes": [
+        [281,259,1,0]
+      ]
+    }
+  ],
+  "other": []
+}

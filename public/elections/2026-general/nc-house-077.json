@@ -1,0 +1,346 @@
+{
+  "raceId": "nc-house-077",
+  "candidates": [
+    {"name":"Julia Howard","party":"R"},
+    {"name":"Sabrina Harris","party":"D"}
+  ],
+  "precincts": [
+    {
+      "key": "DAVIE|1",
+      "county": "DAVIE",
+      "precinct": "01",
+      "votes": [
+        [326,155,0,0],
+        [68,115,0,0]
+      ]
+    },
+    {
+      "key": "DAVIE|10",
+      "county": "DAVIE",
+      "precinct": "10",
+      "votes": [
+        [534,608,0,0],
+        [135,394,0,0]
+      ]
+    },
+    {
+      "key": "DAVIE|11",
+      "county": "DAVIE",
+      "precinct": "11",
+      "votes": [
+        [320,427,0,0],
+        [69,158,0,0]
+      ]
+    },
+    {
+      "key": "DAVIE|12",
+      "county": "DAVIE",
+      "precinct": "12",
+      "votes": [
+        [518,990,0,0],
+        [144,570,0,0]
+      ]
+    },
+    {
+      "key": "DAVIE|13",
+      "county": "DAVIE",
+      "precinct": "13",
+      "votes": [
+        [363,1069,0,0],
+        [136,728,0,0]
+      ]
+    },
+    {
+      "key": "DAVIE|14",
+      "county": "DAVIE",
+      "precinct": "14",
+      "votes": [
+        [467,519,0,0],
+        [127,312,0,0]
+      ]
+    },
+    {
+      "key": "DAVIE|2",
+      "county": "DAVIE",
+      "precinct": "02",
+      "votes": [
+        [253,190,0,0],
+        [58,95,0,0]
+      ]
+    },
+    {
+      "key": "DAVIE|3",
+      "county": "DAVIE",
+      "precinct": "03",
+      "votes": [
+        [669,496,0,0],
+        [128,201,0,0]
+      ]
+    },
+    {
+      "key": "DAVIE|4",
+      "county": "DAVIE",
+      "precinct": "04",
+      "votes": [
+        [236,307,0,0],
+        [100,157,0,0]
+      ]
+    },
+    {
+      "key": "DAVIE|5",
+      "county": "DAVIE",
+      "precinct": "05",
+      "votes": [
+        [505,688,0,0],
+        [102,327,0,0]
+      ]
+    },
+    {
+      "key": "DAVIE|6",
+      "county": "DAVIE",
+      "precinct": "06",
+      "votes": [
+        [378,312,0,0],
+        [85,165,0,0]
+      ]
+    },
+    {
+      "key": "DAVIE|7",
+      "county": "DAVIE",
+      "precinct": "07",
+      "votes": [
+        [299,341,0,0],
+        [82,203,0,0]
+      ]
+    },
+    {
+      "key": "DAVIE|8",
+      "county": "DAVIE",
+      "precinct": "08",
+      "votes": [
+        [241,352,0,0],
+        [183,396,0,0]
+      ]
+    },
+    {
+      "key": "DAVIE|9",
+      "county": "DAVIE",
+      "precinct": "09",
+      "votes": [
+        [333,468,0,0],
+        [151,295,0,0]
+      ]
+    },
+    {
+      "key": "ROWAN|24",
+      "county": "ROWAN",
+      "precinct": "24",
+      "votes": [
+        [507,223,11,0],
+        [99,111,5,0]
+      ]
+    },
+    {
+      "key": "ROWAN|27",
+      "county": "ROWAN",
+      "precinct": "27",
+      "votes": [
+        [395,88,1,0],
+        [83,92,1,0]
+      ]
+    },
+    {
+      "key": "ROWAN|29",
+      "county": "ROWAN",
+      "precinct": "29",
+      "votes": [
+        [266,196,2,0],
+        [75,107,3,0]
+      ]
+    },
+    {
+      "key": "ROWAN|32",
+      "county": "ROWAN",
+      "precinct": "32",
+      "votes": [
+        [418,199,7,0],
+        [139,147,2,0]
+      ]
+    },
+    {
+      "key": "ROWAN|7",
+      "county": "ROWAN",
+      "precinct": "07",
+      "votes": [
+        [489,137,1,0],
+        [199,166,7,0]
+      ]
+    },
+    {
+      "key": "YADKIN|BNVL",
+      "county": "YADKIN",
+      "precinct": "BNVL",
+      "votes": [
+        [523,0,0,0],
+        [171,0,0,0]
+      ]
+    },
+    {
+      "key": "YADKIN|DCRK",
+      "county": "YADKIN",
+      "precinct": "DCRK",
+      "votes": [
+        [350,0,0,0],
+        [91,0,0,0]
+      ]
+    },
+    {
+      "key": "YADKIN|EBND",
+      "county": "YADKIN",
+      "precinct": "EBND",
+      "votes": [
+        [566,0,0,0],
+        [147,0,0,0]
+      ]
+    },
+    {
+      "key": "YADKIN|FBSH",
+      "county": "YADKIN",
+      "precinct": "FBSH",
+      "votes": [
+        [669,0,0,0],
+        [150,0,0,0]
+      ]
+    },
+    {
+      "key": "YADKIN|NBCK",
+      "county": "YADKIN",
+      "precinct": "NBCK",
+      "votes": [
+        [379,0,0,0],
+        [80,0,0,0]
+      ]
+    },
+    {
+      "key": "YADKIN|NFAL",
+      "county": "YADKIN",
+      "precinct": "NFAL",
+      "votes": [
+        [289,0,0,0],
+        [52,0,0,0]
+      ]
+    },
+    {
+      "key": "YADKIN|NKNB",
+      "county": "YADKIN",
+      "precinct": "NKNB",
+      "votes": [
+        [642,0,0,0],
+        [244,0,0,0]
+      ]
+    },
+    {
+      "key": "YADKIN|NLIB",
+      "county": "YADKIN",
+      "precinct": "NLIB",
+      "votes": [
+        [442,0,0,0],
+        [159,0,0,0]
+      ]
+    },
+    {
+      "key": "YADKIN|SBCK",
+      "county": "YADKIN",
+      "precinct": "SBCK",
+      "votes": [
+        [221,0,0,0],
+        [65,0,0,0]
+      ]
+    },
+    {
+      "key": "YADKIN|SFAL",
+      "county": "YADKIN",
+      "precinct": "SFAL",
+      "votes": [
+        [352,0,0,0],
+        [72,0,0,0]
+      ]
+    },
+    {
+      "key": "YADKIN|SKNB",
+      "county": "YADKIN",
+      "precinct": "SKNB",
+      "votes": [
+        [351,0,0,0],
+        [44,0,0,0]
+      ]
+    },
+    {
+      "key": "YADKIN|SLIB",
+      "county": "YADKIN",
+      "precinct": "SLIB",
+      "votes": [
+        [443,0,0,0],
+        [71,0,0,0]
+      ]
+    }
+  ],
+  "other": [
+    {
+      "county": "DAVIE",
+      "label": "ABSENTEE",
+      "votes": [
+        [0,0,145,0],
+        [0,0,198,0]
+      ]
+    },
+    {
+      "county": "DAVIE",
+      "label": "PROVISIONAL",
+      "votes": [
+        [0,0,0,0],
+        [0,0,0,0]
+      ]
+    },
+    {
+      "county": "DAVIE",
+      "label": "TRANSFER",
+      "votes": [
+        [0,0,0,0],
+        [0,0,0,0]
+      ]
+    },
+    {
+      "county": "YADKIN",
+      "label": "ABSENTEE",
+      "votes": [
+        [0,0,106,0],
+        [0,0,121,0]
+      ]
+    },
+    {
+      "county": "YADKIN",
+      "label": "EARLY VOTING",
+      "votes": [
+        [0,4688,0,0],
+        [0,1926,0,0]
+      ]
+    },
+    {
+      "county": "YADKIN",
+      "label": "PROVISIONAL",
+      "votes": [
+        [0,0,0,0],
+        [0,0,0,0]
+      ]
+    },
+    {
+      "county": "YADKIN",
+      "label": "TRANSFER",
+      "votes": [
+        [0,0,0,0],
+        [0,0,0,0]
+      ]
+    }
+  ]
+}

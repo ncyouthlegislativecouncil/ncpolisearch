@@ -1,0 +1,230 @@
+{
+  "raceId": "nc-house-058",
+  "candidates": [
+    {"name":"Amos Quick","party":"D"}
+  ],
+  "precincts": [
+    {
+      "key": "GUILFORD|FEN1",
+      "county": "GUILFORD",
+      "precinct": "FEN1",
+      "votes": [
+        [405,0,0,0]
+      ]
+    },
+    {
+      "key": "GUILFORD|FR1",
+      "county": "GUILFORD",
+      "precinct": "FR1",
+      "votes": [
+        [653,0,0,0]
+      ]
+    },
+    {
+      "key": "GUILFORD|G46",
+      "county": "GUILFORD",
+      "precinct": "G46",
+      "votes": [
+        [426,0,0,0]
+      ]
+    },
+    {
+      "key": "GUILFORD|G47",
+      "county": "GUILFORD",
+      "precinct": "G47",
+      "votes": [
+        [430,0,0,0]
+      ]
+    },
+    {
+      "key": "GUILFORD|G51",
+      "county": "GUILFORD",
+      "precinct": "G51",
+      "votes": [
+        [317,0,0,0]
+      ]
+    },
+    {
+      "key": "GUILFORD|G52",
+      "county": "GUILFORD",
+      "precinct": "G52",
+      "votes": [
+        [260,0,0,0]
+      ]
+    },
+    {
+      "key": "GUILFORD|G53",
+      "county": "GUILFORD",
+      "precinct": "G53",
+      "votes": [
+        [384,0,0,0]
+      ]
+    },
+    {
+      "key": "GUILFORD|G54",
+      "county": "GUILFORD",
+      "precinct": "G54",
+      "votes": [
+        [373,0,0,0]
+      ]
+    },
+    {
+      "key": "GUILFORD|G55",
+      "county": "GUILFORD",
+      "precinct": "G55",
+      "votes": [
+        [372,0,0,0]
+      ]
+    },
+    {
+      "key": "GUILFORD|G56",
+      "county": "GUILFORD",
+      "precinct": "G56",
+      "votes": [
+        [269,0,0,0]
+      ]
+    },
+    {
+      "key": "GUILFORD|G57",
+      "county": "GUILFORD",
+      "precinct": "G57",
+      "votes": [
+        [261,0,0,0]
+      ]
+    },
+    {
+      "key": "GUILFORD|G58",
+      "county": "GUILFORD",
+      "precinct": "G58",
+      "votes": [
+        [254,0,0,0]
+      ]
+    },
+    {
+      "key": "GUILFORD|G59",
+      "county": "GUILFORD",
+      "precinct": "G59",
+      "votes": [
+        [238,0,0,0]
+      ]
+    },
+    {
+      "key": "GUILFORD|G60",
+      "county": "GUILFORD",
+      "precinct": "G60",
+      "votes": [
+        [255,0,0,0]
+      ]
+    },
+    {
+      "key": "GUILFORD|G61",
+      "county": "GUILFORD",
+      "precinct": "G61",
+      "votes": [
+        [342,0,0,0]
+      ]
+    },
+    {
+      "key": "GUILFORD|G62",
+      "county": "GUILFORD",
+      "precinct": "G62",
+      "votes": [
+        [275,0,0,0]
+      ]
+    },
+    {
+      "key": "GUILFORD|G65",
+      "county": "GUILFORD",
+      "precinct": "G65",
+      "votes": [
+        [355,0,0,0]
+      ]
+    },
+    {
+      "key": "GUILFORD|G66",
+      "county": "GUILFORD",
+      "precinct": "G66",
+      "votes": [
+        [358,0,0,0]
+      ]
+    },
+    {
+      "key": "GUILFORD|G73",
+      "county": "GUILFORD",
+      "precinct": "G73",
+      "votes": [
+        [250,0,0,0]
+      ]
+    },
+    {
+      "key": "GUILFORD|G75",
+      "county": "GUILFORD",
+      "precinct": "G75",
+      "votes": [
+        [220,0,0,0]
+      ]
+    },
+    {
+      "key": "GUILFORD|JEF3",
+      "county": "GUILFORD",
+      "precinct": "JEF3",
+      "votes": [
+        [562,0,0,0]
+      ]
+    },
+    {
+      "key": "GUILFORD|SUM1",
+      "county": "GUILFORD",
+      "precinct": "SUM1",
+      "votes": [
+        [346,0,0,0]
+      ]
+    },
+    {
+      "key": "GUILFORD|SUM2",
+      "county": "GUILFORD",
+      "precinct": "SUM2",
+      "votes": [
+        [400,0,0,0]
+      ]
+    },
+    {
+      "key": "GUILFORD|SUM3",
+      "county": "GUILFORD",
+      "precinct": "SUM3",
+      "votes": [
+        [103,0,0,0]
+      ]
+    }
+  ],
+  "other": [
+    {
+      "county": "GUILFORD",
+      "label": "ABSENTEE",
+      "votes": [
+        [0,0,353,0]
+      ]
+    },
+    {
+      "county": "GUILFORD",
+      "label": "EARLYVOTE",
+      "votes": [
+        [0,16530,0,0]
+      ]
+    },
+    {
+      "county": "GUILFORD",
+      "label": "PROVISIONAL",
+      "votes": [
+        [0,0,0,0]
+      ]
+    },
+    {
+      "county": "GUILFORD",
+      "label": "TRANSFER",
+      "votes": [
+        [0,0,0,0]
+      ]
+    }
+  ]
+}
