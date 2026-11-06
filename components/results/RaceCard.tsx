@@ -89,7 +89,17 @@ export default function RaceCard({ race }: { race: RaceView }) {
   }
 
   return (
-    <article className="flex h-full flex-col rounded-lg border border-gray-200 bg-white shadow-sm">
+    <article
+      className={`flex h-full flex-col rounded-lg border bg-white ${
+        race.flip
+          ? race.flip.to === "D"
+            ? "border-democrat ring-2 ring-democrat/60 shadow-[0_0_22px_rgba(42,161,255,0.55)]"
+            : race.flip.to === "R"
+              ? "border-republican ring-2 ring-republican/60 shadow-[0_0_22px_rgba(215,38,47,0.55)]"
+              : "border-navymuted ring-2 ring-navymuted/60 shadow-[0_0_22px_rgba(122,126,184,0.55)]"
+          : "border-gray-200 shadow-sm"
+      }`}
+    >
       <header className="flex items-start justify-between gap-3 border-b border-gray-100 px-4 pb-3 pt-4">
         <div className="min-w-0">
           <h3 className="font-serif text-lg font-bold leading-tight text-navy">{race.title}</h3>
@@ -99,16 +109,6 @@ export default function RaceCard({ race }: { race: RaceView }) {
           {chip && (
             <span className={`rounded px-2 py-0.5 text-[11px] font-bold uppercase tracking-wide ${chip.className}`}>
               {chip.label}
-            </span>
-          )}
-          {race.flip && (
-            <span
-              className={`rounded px-2 py-0.5 text-[11px] font-bold uppercase tracking-wide text-white ${
-                race.flip.to === "D" ? "bg-democrat" : race.flip.to === "R" ? "bg-republican" : "bg-navymuted"
-              }`}
-              title={`Held by ${race.flip.from} before the election; ${race.flip.to} leads now`}
-            >
-              Flip {race.flip.from} → {race.flip.to}
             </span>
           )}
           {race.openSeat && (
@@ -125,7 +125,17 @@ export default function RaceCard({ race }: { race: RaceView }) {
         ))}
       </ul>
 
-      {footer && <footer className="border-t border-gray-100 px-4 py-2.5 text-xs text-navymuted">{footer}</footer>}
+      {(footer || race.flip) && (
+        <footer className="border-t border-gray-100 px-4 py-2.5 text-xs text-navymuted">
+          {race.flip && (
+            <span className="mr-2 font-bold text-navy">
+              Flipped {race.flip.from} → {race.flip.to}
+              {footer ? " ·" : ""}
+            </span>
+          )}
+          {footer}
+        </footer>
+      )}
     </article>
   );
 }

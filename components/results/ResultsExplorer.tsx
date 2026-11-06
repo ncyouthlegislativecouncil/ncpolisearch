@@ -4,24 +4,14 @@ import { useMemo, useState } from "react";
 import RaceCard from "./RaceCard";
 import type { RaceView } from "../../lib/elections";
 
-type TabKey =
-  | "federal"
-  | "courts"
-  | "amendments"
-  | "battleground-senate"
-  | "battleground-house"
-  | "nc-senate"
-  | "nc-house"
-  | "flips";
+type TabKey = "federal" | "courts" | "amendments" | "nc-senate" | "nc-house" | "flips";
 
 const TABS: { key: TabKey; label: string }[] = [
   { key: "federal", label: "Federal" },
   { key: "courts", label: "Courts" },
   { key: "amendments", label: "Amendments" },
-  { key: "battleground-senate", label: "Battleground Senate" },
-  { key: "battleground-house", label: "Battleground House" },
-  { key: "nc-senate", label: "All NC Senate" },
-  { key: "nc-house", label: "All NC House" },
+  { key: "nc-senate", label: "NC Senate" },
+  { key: "nc-house", label: "NC House" },
   { key: "flips", label: "Flips" },
 ];
 
@@ -29,25 +19,13 @@ const TABS: { key: TabKey; label: string }[] = [
 // based on the actual result rather than anyone's pre-election ratings.
 const BATTLEGROUND_MARGIN_PTS = 10;
 
+const isBattleground = (r: RaceView) => r.marginPts != null && r.marginPts < BATTLEGROUND_MARGIN_PTS;
+
 function inTab(r: RaceView, key: TabKey): boolean {
-  switch (key) {
-    case "battleground-senate":
-    case "battleground-house":
-      return (
-        r.category === (key === "battleground-senate" ? "nc-senate" : "nc-house") &&
-        r.marginPts != null &&
-        r.marginPts < BATTLEGROUND_MARGIN_PTS
-      );
-    case "flips":
-      return r.flip != null;
-    default:
-      return r.category === key;
-  }
+  return key === "flips" ? r.flip != null : r.category === key;
 }
 
 const TAB_NOTES: Partial<Record<TabKey, string>> = {
-  "battleground-senate": `NC Senate races decided by fewer than ${BATTLEGROUND_MARGIN_PTS} points, closest first.`,
-  "battleground-house": `NC House races decided by fewer than ${BATTLEGROUND_MARGIN_PTS} points, closest first.`,
   flips: "Seats where the leading candidate's party differs from the party that held the seat before the election.",
 };
 
@@ -64,6 +42,8 @@ function matches(race: RaceView, query: string): boolean {
 export default function ResultsExplorer({ races }: { races: RaceView[] }) {
   const [tab, setTab] = useState<TabKey>("federal");
   const [query, setQuery] = useState("");
+  const [battlegroundOnly, setBattlegroundOnly] = useState(false);
+  const chamberTab = tab === "nc-senate" || tab === "nc-house";
 
   const counts = useMemo(() => {
     const c = {} as Record<TabKey, number>;
@@ -73,8 +53,8 @@ export default function ResultsExplorer({ races }: { races: RaceView[] }) {
 
   // Searching looks across every race, regardless of the selected tab.
   let shown = query.trim() ? races.filter((r) => matches(r, query)) : races.filter((r) => inTab(r, tab));
-  if (!query.trim() && tab.startsWith("battleground")) {
-    shown = [...shown].sort((a, b) => (a.marginPts ?? 0) - (b.marginPts ?? 0));
+  if (!query.trim() && chamberTab && battlegroundOnly) {
+    shown = shown.filter(isBattleground).sort((a, b) => (a.marginPts ?? 0) - (b.marginPts ?? 0));
   }
 
   return (
@@ -104,6 +84,29 @@ export default function ResultsExplorer({ races }: { races: RaceView[] }) {
         })}
       </div>
 
+      {chamberTab && !query.trim() && (
+        <div className="relative mt-4 inline-flex">
+          {battlegroundOnly && (
+            <span
+              aria-hidden
+              className="absolute -inset-1 rounded-lg bg-gradient-to-r from-republican to-democrat opacity-70 blur-md"
+            />
+          )}
+          <button
+            type="button"
+            onClick={() => setBattlegroundOnly((v) => !v)}
+            aria-pressed={battlegroundOnly}
+            className={`relative rounded-md px-4 py-2 text-sm font-semibold transition-all ${
+              battlegroundOnly
+                ? "bg-white text-navy ring-2 ring-navy"
+                : "border border-gray-300 bg-white text-gray-700 hover:border-navy hover:text-navy"
+            }`}
+          >
+            Battleground only ({races.filter((r) => r.category === tab && isBattleground(r)).length})
+          </button>
+        </div>
+      )}
+
       <div className="mt-4">
         <label htmlFor="race-search" className="sr-only">
           Search races
@@ -119,7 +122,9 @@ export default function ResultsExplorer({ races }: { races: RaceView[] }) {
         <p className="mt-2 text-xs text-navymuted">
           {query.trim()
             ? `${shown.length} race${shown.length === 1 ? "" : "s"} matching “${query.trim()}”`
-            : TAB_NOTES[tab] ?? "Incumbent names link to their legislator profile."}
+            : chamberTab && battlegroundOnly
+              ? `Races decided by fewer than ${BATTLEGROUND_MARGIN_PTS} points, closest first.`
+              : TAB_NOTES[tab] ?? "Incumbent names link to their legislator profile."}
         </p>
       </div>
 
