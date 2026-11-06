@@ -6,6 +6,7 @@ import SearchBar from "../components/SearchBar";
 import StatsBar from "../components/StatsBar";
 import ActivityTicker from "../components/ActivityTicker";
 import SponsorLeaderboard from "../components/SponsorLeaderboard";
+import ResultsPromo from "../components/ResultsPromo";
 import {
   getHomeStats,
   getHomeFeed,
@@ -30,6 +31,7 @@ export default async function Home() {
 
   return (
     <main>
+      <ResultsPromo />
       {/* HERO — navy bleed from the nav, with a faint animated line pattern. */}
       <section className="relative overflow-hidden bg-navy">
         {/* NC State Capitol backdrop, anchored center/bottom so the dome shows. */}
