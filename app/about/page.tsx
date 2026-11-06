@@ -300,11 +300,11 @@ export default async function AboutPage() {
       <section className="mx-auto max-w-4xl px-6 pb-16">
         <div className="grid gap-4 sm:grid-cols-3">
           <StatCard
-            value={stats.totalBills.toLocaleString()}
+            value={stats.totalBills.toLocaleString("en-US")}
             label="Bills Tracked"
           />
           <StatCard
-            value={stats.legislators.toLocaleString()}
+            value={stats.legislators.toLocaleString("en-US")}
             label="Legislators"
           />
           <StatCard value="100%" label="Nonpartisan" />

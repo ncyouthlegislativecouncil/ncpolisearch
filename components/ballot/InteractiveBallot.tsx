@@ -130,10 +130,10 @@ function VoteBar({ result, certified }: { result: Result; certified: boolean }) 
       <div className="mt-2 flex justify-between gap-3 text-sm">
         <span>
           <span className="font-semibold text-lowrisk">For {pctLabel(result.forPct)}</span>{" "}
-          <span className="text-navymuted">{result.forVotes.toLocaleString()}</span>
+          <span className="text-navymuted">{result.forVotes.toLocaleString("en-US")}</span>
         </span>
         <span className="text-right">
-          <span className="text-navymuted">{result.againstVotes.toLocaleString()}</span>{" "}
+          <span className="text-navymuted">{result.againstVotes.toLocaleString("en-US")}</span>{" "}
           <span className="font-semibold text-ncred">Against {pctLabel(1 - result.forPct)}</span>
         </span>
       </div>

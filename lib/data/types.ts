@@ -68,20 +68,22 @@ export type Legislator = {
 // Results of one election, built from the NC State Board of Elections'
 // precinct results file by scripts/update-election-results.ts.
 export type ElectionCandidate = {
-  name: string;
-  party: string | null; // "R", "D", "L", "G", or the State Board's code
+  name: string; // for amendments, the choice: "For" / "Against"
+  party: string | null; // "R", "D", "L", "G", "U" (unaffiliated), or the State Board's code
   votes: number;
 };
 
-export type LegislativeContest = {
-  district: number;
-  candidates: ElectionCandidate[]; // most votes first
-};
+export type RaceCategory = "federal" | "courts" | "amendments" | "nc-senate" | "nc-house";
 
-export type AmendmentResult = {
-  contest: string; // State Board contest name, e.g. "CONSTITUTIONAL AMENDMENT - PROPERTY TAX LEVY LIMIT"
-  for: number;
-  against: number;
+export type Race = {
+  id: string; // "us-senate", "us-house-01", "nc-house-067", ...
+  category: RaceCategory;
+  contest: string; // State Board contest name, e.g. "NC HOUSE OF REPRESENTATIVES DISTRICT 067"
+  title: string; // "NC House District 67"
+  district: number | null;
+  area: string; // "Statewide", "Wake County", or "7 counties"
+  statewide: boolean;
+  candidates: ElectionCandidate[]; // most votes first
 };
 
 export type ElectionResults = {
@@ -93,7 +95,5 @@ export type ElectionResults = {
   // False until the State Board certifies the results; while false the daily
   // update keeps refreshing them.
   certified: boolean;
-  amendments: AmendmentResult[];
-  house: LegislativeContest[];
-  senate: LegislativeContest[];
+  races: Race[];
 };

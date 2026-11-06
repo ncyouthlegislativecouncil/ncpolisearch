@@ -76,7 +76,7 @@ export default async function BillsPage({
       </div>
 
       <p className="mt-6 text-sm text-navymuted">
-        {total === 0 ? "No bills found" : `Showing ${start}–${end} of ${total.toLocaleString()} bills`}
+        {total === 0 ? "No bills found" : `Showing ${start}–${end} of ${total.toLocaleString("en-US")} bills`}
       </p>
 
       {bills.length > 0 ? (

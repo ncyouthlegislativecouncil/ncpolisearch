@@ -143,9 +143,9 @@ export default function VotingRecord({
         <>
           {/* Summary strip. */}
           <div className="mt-4 flex flex-wrap divide-x divide-gray-200 overflow-hidden rounded-md border border-gray-200 bg-white">
-            <SummaryCell value={summary.total.toLocaleString()} label="Votes Cast" />
-            <SummaryCell value={summary.yea.toLocaleString()} label="Yea" />
-            <SummaryCell value={summary.nay.toLocaleString()} label="Nay" />
+            <SummaryCell value={summary.total.toLocaleString("en-US")} label="Votes Cast" />
+            <SummaryCell value={summary.yea.toLocaleString("en-US")} label="Yea" />
+            <SummaryCell value={summary.nay.toLocaleString("en-US")} label="Nay" />
             <SummaryCell value={participationPct} label="Participation" />
           </div>
 

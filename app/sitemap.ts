@@ -5,7 +5,7 @@ const BASE = "https://www.ncpolisearch.com";
 
 // Built at deploy time from the bill data files.
 export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
-  const pages = ["", "/bills", "/legislators", "/map", "/ballot", "/compare", "/write", "/about"];
+  const pages = ["", "/bills", "/legislators", "/map", "/results", "/ballot", "/compare", "/write", "/about"];
   const billIds = await getAllBillIds();
 
   return [

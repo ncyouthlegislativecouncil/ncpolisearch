@@ -4,880 +4,405 @@
   "source": "https://s3.amazonaws.com/dl.ncsbe.gov/ENRS/2026_11_03/results_pct_20261103.zip",
   "sourceUpdated": "2026-11-05T21:45:49.000Z",
   "certified": false,
-  "amendments": [
-    {"contest":"CONSTITUTIONAL AMENDMENT - MAXIMUM INCOME TAX RATE OF 3.5%","for":2559740,"against":1574257},
-    {"contest":"CONSTITUTIONAL AMENDMENT - PROPERTY TAX LEVY LIMIT","for":2492891,"against":1632769},
-    {"contest":"CONSTITUTIONAL AMENDMENT - REQUIRE PHOTO ID FOR VOTING","for":2463276,"against":1669764}
-  ],
-  "house": [
+  "races": [
     {
-      "district": 1,
+      "id": "us-senate",
+      "category": "federal",
+      "title": "US Senate",
+      "district": null,
+      "contest": "US SENATE",
+      "area": "Statewide",
+      "statewide": true,
       "candidates": [
-        {"name":"Edward C. Goodwin","party":"R","votes":22436},
-        {"name":"Miriam Rollin","party":"D","votes":14880}
+        {"name":"Roy Cooper","party":"D","votes":2467963},
+        {"name":"Michael Whatley","party":"R","votes":1643088},
+        {"name":"Shannon W. Bray","party":"L","votes":55726},
+        {"name":"Michael Dublin","party":"G","votes":36404}
       ]
     },
     {
+      "id": "us-house-01",
+      "category": "federal",
+      "title": "US House District 1",
+      "district": 1,
+      "contest": "US HOUSE OF REPRESENTATIVES DISTRICT 01",
+      "area": "25 counties",
+      "statewide": false,
+      "candidates": [
+        {"name":"Don Davis","party":"D","votes":156564},
+        {"name":"Laurie Buckhout","party":"R","votes":146259},
+        {"name":"Tom Bailey","party":"L","votes":9880}
+      ]
+    },
+    {
+      "id": "us-house-02",
+      "category": "federal",
+      "title": "US House District 2",
       "district": 2,
+      "contest": "US HOUSE OF REPRESENTATIVES DISTRICT 02",
+      "area": "Wake County",
+      "statewide": false,
       "candidates": [
-        {"name":"Ray Jeffers","party":"D","votes":28177}
+        {"name":"Deborah K. Ross","party":"D","votes":245402},
+        {"name":"Eugene F. Douglass","party":"R","votes":76763},
+        {"name":"Matthew Laszacs","party":"L","votes":4267},
+        {"name":"Write-In (Miscellaneous)","party":null,"votes":530}
       ]
     },
     {
+      "id": "us-house-03",
+      "category": "federal",
+      "title": "US House District 3",
       "district": 3,
+      "contest": "US HOUSE OF REPRESENTATIVES DISTRICT 03",
+      "area": "9 counties",
+      "statewide": false,
       "candidates": [
-        {"name":"Steve Tyson","party":"R","votes":20885},
-        {"name":"Diannia Bright","party":"D","votes":15547},
-        {"name":"Angela Humphries","party":"L","votes":888}
+        {"name":"Greg Murphy","party":"R","votes":117583},
+        {"name":"Raymond Smith","party":"D","votes":117350},
+        {"name":"Daniel Cavender","party":"L","votes":2971}
       ]
     },
     {
+      "id": "us-house-04",
+      "category": "federal",
+      "title": "US House District 4",
       "district": 4,
+      "contest": "US HOUSE OF REPRESENTATIVES DISTRICT 04",
+      "area": "4 counties",
+      "statewide": false,
       "candidates": [
-        {"name":"Jimmy Dixon","party":"R","votes":13780},
-        {"name":"Vernon Moore","party":"D","votes":11204}
+        {"name":"Valerie P. Foushee","party":"D","votes":283255},
+        {"name":"Mahesh (Max) Ganorkar","party":"R","votes":67799},
+        {"name":"Guy Meilleur","party":"L","votes":6961}
       ]
     },
     {
+      "id": "us-house-05",
+      "category": "federal",
+      "title": "US House District 5",
       "district": 5,
+      "contest": "US HOUSE OF REPRESENTATIVES DISTRICT 05",
+      "area": "10 counties",
+      "statewide": false,
       "candidates": [
-        {"name":"Sam Davis III","party":"D","votes":16082},
-        {"name":"Bill Ward","party":"R","votes":14385}
+        {"name":"Chuck Hubbard","party":"D","votes":139034},
+        {"name":"Virginia Foxx","party":"R","votes":138935},
+        {"name":"Robert B. Luffman","party":"L","votes":7529}
       ]
     },
     {
+      "id": "us-house-06",
+      "category": "federal",
+      "title": "US House District 6",
       "district": 6,
+      "contest": "US HOUSE OF REPRESENTATIVES DISTRICT 06",
+      "area": "6 counties",
+      "statewide": false,
       "candidates": [
-        {"name":"Joe Pike","party":"R","votes":14489},
-        {"name":"Tony Spears","party":"D","votes":13887}
+        {"name":"Cyril Jefferson","party":"D","votes":140001},
+        {"name":"Addison McDowell","party":"R","votes":133737}
       ]
     },
     {
+      "id": "us-house-07",
+      "category": "federal",
+      "title": "US House District 7",
       "district": 7,
+      "contest": "US HOUSE OF REPRESENTATIVES DISTRICT 07",
+      "area": "8 counties",
+      "statewide": false,
       "candidates": [
-        {"name":"Mark Speed","party":"D","votes":19901},
-        {"name":"Cory Thornton","party":"R","votes":18698}
+        {"name":"David Rouzer","party":"R","votes":159985},
+        {"name":"Kimberly Hardy","party":"D","votes":157560},
+        {"name":"Maad Abu-Ghazalah","party":"L","votes":3135}
       ]
     },
     {
+      "id": "us-house-08",
+      "category": "federal",
+      "title": "US House District 8",
       "district": 8,
+      "contest": "US HOUSE OF REPRESENTATIVES DISTRICT 08",
+      "area": "9 counties",
+      "statewide": false,
       "candidates": [
-        {"name":"Gloristine Brown","party":"D","votes":18488},
-        {"name":"Cathy Thorne Bynum","party":"R","votes":7440}
+        {"name":"Mark Harris","party":"R","votes":147094},
+        {"name":"Colby Watson","party":"D","votes":141915},
+        {"name":"Bo Whitehead","party":"G","votes":2890}
       ]
     },
     {
+      "id": "us-house-09",
+      "category": "federal",
+      "title": "US House District 9",
       "district": 9,
+      "contest": "US HOUSE OF REPRESENTATIVES DISTRICT 09",
+      "area": "7 counties",
+      "statewide": false,
       "candidates": [
-        {"name":"Claire Kempner","party":"D","votes":18187},
-        {"name":"Timothy Reeder","party":"R","votes":18012}
+        {"name":"Richard N. Ojeda II","party":"D","votes":138707},
+        {"name":"Richard Hudson","party":"R","votes":132692}
       ]
     },
     {
+      "id": "us-house-10",
+      "category": "federal",
+      "title": "US House District 10",
       "district": 10,
+      "contest": "US HOUSE OF REPRESENTATIVES DISTRICT 10",
+      "area": "5 counties",
+      "statewide": false,
       "candidates": [
-        {"name":"John Bell","party":"R","votes":16019},
-        {"name":"Zyaire Webb","party":"D","votes":13180}
+        {"name":"Pat Harrigan","party":"R","votes":146166},
+        {"name":"Ashley Bell","party":"D","votes":143137},
+        {"name":"Steven Feldman","party":"L","votes":4673}
       ]
     },
     {
+      "id": "us-house-11",
+      "category": "federal",
+      "title": "US House District 11",
       "district": 11,
+      "contest": "US HOUSE OF REPRESENTATIVES DISTRICT 11",
+      "area": "16 counties",
+      "statewide": false,
       "candidates": [
-        {"name":"Allison A. Dahle","party":"D","votes":30013},
-        {"name":"Matthew Kordon","party":"L","votes":6854}
+        {"name":"Jamie Ager","party":"D","votes":195637},
+        {"name":"Jennifer Capps Balkcom","party":"R","votes":141427},
+        {"name":"Travis Groo","party":"L","votes":5345}
       ]
     },
     {
+      "id": "us-house-12",
+      "category": "federal",
+      "title": "US House District 12",
       "district": 12,
+      "contest": "US HOUSE OF REPRESENTATIVES DISTRICT 12",
+      "area": "Mecklenburg County",
+      "statewide": false,
       "candidates": [
-        {"name":"Chris Humphrey","party":"R","votes":15422},
-        {"name":"Don Hardy","party":"D","votes":14153}
+        {"name":"Alma S. Adams","party":"D","votes":219672},
+        {"name":"Jack Codiga","party":"R","votes":50864}
       ]
     },
     {
+      "id": "us-house-13",
+      "category": "federal",
+      "title": "US House District 13",
       "district": 13,
+      "contest": "US HOUSE OF REPRESENTATIVES DISTRICT 13",
+      "area": "8 counties",
+      "statewide": false,
       "candidates": [
-        {"name":"Celeste Cairns","party":"R","votes":25511},
-        {"name":"Jason Moore","party":"D","votes":13595}
+        {"name":"Paul Barringer","party":"D","votes":159981},
+        {"name":"Brad Knott","party":"R","votes":152329},
+        {"name":"Steven Swinton","party":"L","votes":4479}
       ]
     },
     {
+      "id": "us-house-14",
+      "category": "federal",
+      "title": "US House District 14",
       "district": 14,
+      "contest": "US HOUSE OF REPRESENTATIVES DISTRICT 14",
+      "area": "6 counties",
+      "statewide": false,
       "candidates": [
-        {"name":"Wyatt Gable","party":"R","votes":10557}
+        {"name":"Lakesha Womack","party":"D","votes":147388},
+        {"name":"Tim Moore","party":"R","votes":140973}
       ]
     },
     {
-      "district": 15,
+      "id": "nc-supreme-court-01",
+      "category": "courts",
+      "title": "NC Supreme Court",
+      "district": null,
+      "contest": "NC SUPREME COURT ASSOCIATE JUSTICE SEAT 01",
+      "area": "Statewide",
+      "statewide": true,
       "candidates": [
-        {"name":"Phillip Shepard","party":"R","votes":13610},
-        {"name":"Christopher Schulte","party":"D","votes":10328}
+        {"name":"Anita Earls","party":"D","votes":2456843},
+        {"name":"Sarah Stevens","party":"R","votes":1717025}
       ]
     },
     {
-      "district": 16,
+      "id": "nc-court-of-appeals-01",
+      "category": "courts",
+      "title": "NC Court of Appeals · Seat 1",
+      "district": null,
+      "contest": "NC COURT OF APPEALS JUDGE SEAT 01",
+      "area": "Statewide",
+      "statewide": true,
       "candidates": [
-        {"name":"Carson Smith","party":"R","votes":21921},
-        {"name":"Jim Harris","party":"D","votes":13111}
+        {"name":"John S. Arrowood","party":"D","votes":2362158},
+        {"name":"Michael C. Byrne","party":"R","votes":1798802}
       ]
     },
     {
-      "district": 17,
+      "id": "nc-court-of-appeals-02",
+      "category": "courts",
+      "title": "NC Court of Appeals · Seat 2",
+      "district": null,
+      "contest": "NC COURT OF APPEALS JUDGE SEAT 02",
+      "area": "Statewide",
+      "statewide": true,
       "candidates": [
-        {"name":"Frank Iler","party":"R","votes":29965},
-        {"name":"Dennis A. Breen","party":"D","votes":25019}
+        {"name":"Tobias (Toby) Hampson","party":"D","votes":2360500},
+        {"name":"George Cooper Bell","party":"R","votes":1796378}
       ]
     },
     {
-      "district": 18,
+      "id": "nc-court-of-appeals-03",
+      "category": "courts",
+      "title": "NC Court of Appeals · Seat 3",
+      "district": null,
+      "contest": "NC COURT OF APPEALS JUDGE SEAT 03",
+      "area": "Statewide",
+      "statewide": true,
       "candidates": [
-        {"name":"Deb Butler","party":"D","votes":24899},
-        {"name":"Latisha Grady","party":"R","votes":10460}
+        {"name":"Christine Marie Walczyk","party":"D","votes":2372412},
+        {"name":"Craig Collins","party":"R","votes":1780878}
       ]
     },
     {
-      "district": 19,
+      "id": "amendment-maximum-income-tax-rate-of-3-5",
+      "category": "amendments",
+      "title": "Income Tax Cap Amendment",
+      "district": null,
+      "contest": "CONSTITUTIONAL AMENDMENT - MAXIMUM INCOME TAX RATE OF 3.5%",
+      "area": "Statewide",
+      "statewide": true,
       "candidates": [
-        {"name":"Charlie Miller","party":"R","votes":29735},
-        {"name":"Scott Nasiff","party":"D","votes":24093}
+        {"name":"For","party":null,"votes":2559740},
+        {"name":"Against","party":null,"votes":1574257}
       ]
     },
     {
-      "district": 20,
+      "id": "amendment-property-tax-levy-limit",
+      "category": "amendments",
+      "title": "Property Tax Limit Amendment",
+      "district": null,
+      "contest": "CONSTITUTIONAL AMENDMENT - PROPERTY TAX LEVY LIMIT",
+      "area": "Statewide",
+      "statewide": true,
       "candidates": [
-        {"name":"Tim Merrick","party":"D","votes":22054},
-        {"name":"Dane Scalise","party":"R","votes":21953}
+        {"name":"For","party":null,"votes":2492891},
+        {"name":"Against","party":null,"votes":1632769}
       ]
     },
     {
-      "district": 21,
+      "id": "amendment-require-photo-id-for-voting",
+      "category": "amendments",
+      "title": "Photo Voter ID Amendment",
+      "district": null,
+      "contest": "CONSTITUTIONAL AMENDMENT - REQUIRE PHOTO ID FOR VOTING",
+      "area": "Statewide",
+      "statewide": true,
       "candidates": [
-        {"name":"Ya Liu","party":"D","votes":29171},
-        {"name":"Bryson Johnson","party":"R","votes":11722}
+        {"name":"For","party":null,"votes":2463276},
+        {"name":"Against","party":null,"votes":1669764}
       ]
     },
     {
-      "district": 22,
-      "candidates": [
-        {"name":"Wellie Jackson","party":"R","votes":19106}
-      ]
-    },
-    {
-      "district": 23,
-      "candidates": [
-        {"name":"Patricia Smith","party":"D","votes":20679},
-        {"name":"Brent Roberson","party":"R","votes":12968}
-      ]
-    },
-    {
-      "district": 24,
-      "candidates": [
-        {"name":"Dante Pittman","party":"D","votes":18017},
-        {"name":"Blake Boykin","party":"R","votes":12910}
-      ]
-    },
-    {
-      "district": 25,
-      "candidates": [
-        {"name":"Lorenza M. Wilkins","party":"D","votes":20420},
-        {"name":"Allen Chesser","party":"R","votes":17340},
-        {"name":"Nick Taylor","party":"L","votes":1010}
-      ]
-    },
-    {
-      "district": 26,
-      "candidates": [
-        {"name":"L'Bertrice Solomon","party":"D","votes":21655},
-        {"name":"Donna McDowell White","party":"R","votes":19212}
-      ]
-    },
-    {
-      "district": 27,
-      "candidates": [
-        {"name":"Rodney D. Pierce","party":"D","votes":20657},
-        {"name":"David Woodson","party":"R","votes":11864}
-      ]
-    },
-    {
-      "district": 28,
-      "candidates": [
-        {"name":"Larry C. Strickland","party":"R","votes":17117},
-        {"name":"D. Matthew Bailey","party":"D","votes":12241}
-      ]
-    },
-    {
-      "district": 29,
-      "candidates": [
-        {"name":"Vernetta Alston","party":"D","votes":40935}
-      ]
-    },
-    {
-      "district": 30,
-      "candidates": [
-        {"name":"Marcia Morey","party":"D","votes":34703},
-        {"name":"Ray Ubinger","party":"L","votes":2627}
-      ]
-    },
-    {
-      "district": 31,
-      "candidates": [
-        {"name":"Zack Hawkins","party":"D","votes":37012}
-      ]
-    },
-    {
-      "district": 32,
-      "candidates": [
-        {"name":"Bryan K. Cohn","party":"D","votes":18410},
-        {"name":"Frank Sossamon","party":"R","votes":14827}
-      ]
-    },
-    {
-      "district": 33,
-      "candidates": [
-        {"name":"Monika Johnson-Hostler","party":"D","votes":29474},
-        {"name":"Matthew Orr","party":"R","votes":7793}
-      ]
-    },
-    {
-      "district": 34,
-      "candidates": [
-        {"name":"Tim Longest","party":"D","votes":29813},
-        {"name":"Ed George","party":"L","votes":6731}
-      ]
-    },
-    {
-      "district": 35,
-      "candidates": [
-        {"name":"Evonne S. Hopkins","party":"D","votes":25607},
-        {"name":"Mike Schietzelt","party":"R","votes":20994}
-      ]
-    },
-    {
-      "district": 36,
-      "candidates": [
-        {"name":"Julie von Haefen","party":"D","votes":26677},
-        {"name":"Mary Insprucker","party":"R","votes":15686}
-      ]
-    },
-    {
-      "district": 37,
-      "candidates": [
-        {"name":"Winn Decker","party":"D","votes":26678},
-        {"name":"Erin Pare","party":"R","votes":22074}
-      ]
-    },
-    {
-      "district": 38,
-      "candidates": [
-        {"name":"Abe Jones","party":"D","votes":27817}
-      ]
-    },
-    {
-      "district": 39,
-      "candidates": [
-        {"name":"James A. Roberson","party":"D","votes":29894},
-        {"name":"Jorge Cordova","party":"R","votes":10332},
-        {"name":"Wayne Cockrell","party":"L","votes":962}
-      ]
-    },
-    {
-      "district": 40,
-      "candidates": [
-        {"name":"Phil Rubin","party":"D","votes":31473},
-        {"name":"Lucas Everett Jones","party":"L","votes":7478}
-      ]
-    },
-    {
-      "district": 41,
-      "candidates": [
-        {"name":"Maria Cervania","party":"D","votes":27656},
-        {"name":"Bruce Forster","party":"R","votes":8619}
-      ]
-    },
-    {
-      "district": 42,
-      "candidates": [
-        {"name":"Mike Colvin","party":"D","votes":14691}
-      ]
-    },
-    {
-      "district": 43,
-      "candidates": [
-        {"name":"Janene Ackles","party":"D","votes":15814},
-        {"name":"Diane Wheatley","party":"R","votes":14530}
-      ]
-    },
-    {
-      "district": 44,
-      "candidates": [
-        {"name":"Charles Smith","party":"D","votes":17814}
-      ]
-    },
-    {
-      "district": 45,
-      "candidates": [
-        {"name":"Frances Jackson","party":"D","votes":17968}
-      ]
-    },
-    {
-      "district": 46,
-      "candidates": [
-        {"name":"Brenden H. Jones","party":"R","votes":15074},
-        {"name":"Brittany Newton","party":"D","votes":10273}
-      ]
-    },
-    {
-      "district": 47,
-      "candidates": [
-        {"name":"John L. Lowery","party":"R","votes":11173},
-        {"name":"Eshonda Hooper","party":"D","votes":9531}
-      ]
-    },
-    {
-      "district": 48,
-      "candidates": [
-        {"name":"Garland E. Pierce","party":"D","votes":15926},
-        {"name":"Ralph Carter","party":"R","votes":10324}
-      ]
-    },
-    {
-      "district": 49,
-      "candidates": [
-        {"name":"Cynthia Ball","party":"D","votes":25262},
-        {"name":"Daran Thomas","party":"R","votes":6711}
-      ]
-    },
-    {
-      "district": 50,
-      "candidates": [
-        {"name":"Renee A. Price","party":"D","votes":29976}
-      ]
-    },
-    {
-      "district": 51,
-      "candidates": [
-        {"name":"April Montgomery","party":"UNA","votes":13919},
-        {"name":"Charles M. Taylor","party":"R","votes":13537}
-      ]
-    },
-    {
-      "district": 52,
-      "candidates": [
-        {"name":"Ben Moss","party":"R","votes":15889},
-        {"name":"Joe Parfitt","party":"D","votes":14841}
-      ]
-    },
-    {
-      "district": 53,
-      "candidates": [
-        {"name":"Howard L. Penny, Jr.","party":"R","votes":17570},
-        {"name":"Kevin G. Thurman","party":"D","votes":15787},
-        {"name":"Christopher Sessions","party":"L","votes":722}
-      ]
-    },
-    {
-      "district": 54,
-      "candidates": [
-        {"name":"Robert T. Reives II","party":"D","votes":30519}
-      ]
-    },
-    {
-      "district": 55,
-      "candidates": [
-        {"name":"Clancy Baucom","party":"R","votes":15907},
-        {"name":"John J. Kirkpatrick IV","party":"D","votes":12594}
-      ]
-    },
-    {
-      "district": 56,
-      "candidates": [
-        {"name":"Allen Buansi","party":"D","votes":35365},
-        {"name":"Matthew P. Clements","party":"L","votes":2616}
-      ]
-    },
-    {
-      "district": 57,
-      "candidates": [
-        {"name":"Tracy Clark","party":"D","votes":28829}
-      ]
-    },
-    {
-      "district": 58,
-      "candidates": [
-        {"name":"Amos Quick","party":"D","votes":24991}
-      ]
-    },
-    {
-      "district": 59,
-      "candidates": [
-        {"name":"Elma Hairston","party":"D","votes":22405},
-        {"name":"Alan Branson","party":"R","votes":20812}
-      ]
-    },
-    {
-      "district": 60,
-      "candidates": [
-        {"name":"Amanda Cook","party":"D","votes":20212},
-        {"name":"Joseph Perrotta","party":"R","votes":7650}
-      ]
-    },
-    {
-      "district": 61,
-      "candidates": [
-        {"name":"Mary Price (Pricey) Harrison","party":"D","votes":28790}
-      ]
-    },
-    {
-      "district": 62,
-      "candidates": [
-        {"name":"Shelly Headen","party":"D","votes":21367},
-        {"name":"John M. Blust","party":"R","votes":21134}
-      ]
-    },
-    {
-      "district": 63,
-      "candidates": [
-        {"name":"Ian Baltutis","party":"D","votes":16479},
-        {"name":"Ryan Moffitt","party":"R","votes":16243}
-      ]
-    },
-    {
-      "district": 64,
-      "candidates": [
-        {"name":"LeVon Barnes","party":"D","votes":18261},
-        {"name":"Dennis Riddell","party":"R","votes":16373}
-      ]
-    },
-    {
-      "district": 65,
-      "candidates": [
-        {"name":"Seth Woodall","party":"R","votes":21413},
-        {"name":"Gavin McGaughey","party":"D","votes":12456}
-      ]
-    },
-    {
-      "district": 66,
-      "candidates": [
-        {"name":"Sarah Crawford","party":"D","votes":29620}
-      ]
-    },
-    {
-      "district": 67,
-      "candidates": [
-        {"name":"Cody Huneycutt","party":"R","votes":22475},
-        {"name":"Jocelyn Torres","party":"D","votes":10631}
-      ]
-    },
-    {
-      "district": 68,
-      "candidates": [
-        {"name":"David Willis","party":"R","votes":21658},
-        {"name":"Derek Warriner","party":"D","votes":19017}
-      ]
-    },
-    {
-      "district": 69,
-      "candidates": [
-        {"name":"Dean Arp","party":"R","votes":20575},
-        {"name":"Heidi Sinsley","party":"D","votes":17920}
-      ]
-    },
-    {
-      "district": 70,
-      "candidates": [
-        {"name":"Brian Biggs","party":"R","votes":18928},
-        {"name":"William (Bill) McCaskill","party":"D","votes":9291}
-      ]
-    },
-    {
-      "district": 71,
-      "candidates": [
-        {"name":"Kanika Brown","party":"D","votes":25156},
-        {"name":"Mathew Mena","party":"G","votes":3410}
-      ]
-    },
-    {
-      "district": 72,
-      "candidates": [
-        {"name":"Amber M. Baker","party":"D","votes":24655}
-      ]
-    },
-    {
-      "district": 73,
-      "candidates": [
-        {"name":"Thomas J. Monks","party":"D","votes":17333},
-        {"name":"Jonathan Almond","party":"R","votes":14884}
-      ]
-    },
-    {
-      "district": 74,
-      "candidates": [
-        {"name":"Amy Taylor North","party":"D","votes":23443},
-        {"name":"Jeff Zenger","party":"R","votes":17638}
-      ]
-    },
-    {
-      "district": 75,
-      "candidates": [
-        {"name":"Jen Wiles","party":"D","votes":18503},
-        {"name":"Donny C. Lambeth","party":"R","votes":15782}
-      ]
-    },
-    {
-      "district": 76,
-      "candidates": [
-        {"name":"Greg Edds","party":"R","votes":16091},
-        {"name":"Scott Huffman","party":"D","votes":14166}
-      ]
-    },
-    {
-      "district": 77,
-      "candidates": [
-        {"name":"Julia Howard","party":"R","votes":25470},
-        {"name":"Sabrina Harris","party":"D","votes":10511}
-      ]
-    },
-    {
-      "district": 78,
-      "candidates": [
-        {"name":"Neal Jackson","party":"R","votes":24521},
-        {"name":"Matt Holway","party":"D","votes":11430}
-      ]
-    },
-    {
-      "district": 79,
-      "candidates": [
-        {"name":"Darren Armstrong","party":"R","votes":26370}
-      ]
-    },
-    {
-      "district": 80,
-      "candidates": [
-        {"name":"Sam Watford","party":"R","votes":19706},
-        {"name":"JacQuez Johnson","party":"D","votes":9272}
-      ]
-    },
-    {
-      "district": 81,
-      "candidates": [
-        {"name":"Larry W. Potts","party":"R","votes":19943},
-        {"name":"Dylan R. Tucker","party":"D","votes":11521}
-      ]
-    },
-    {
-      "district": 82,
-      "candidates": [
-        {"name":"Chris Bishopp","party":"D","votes":20956},
-        {"name":"Brian Echevarria","party":"R","votes":16481}
-      ]
-    },
-    {
-      "district": 83,
-      "candidates": [
-        {"name":"Grant Campbell","party":"R","votes":18240},
-        {"name":"Johnnie Jones","party":"D","votes":14126}
-      ]
-    },
-    {
-      "district": 84,
-      "candidates": [
-        {"name":"Jeffrey C. McNeely","party":"R","votes":22235}
-      ]
-    },
-    {
-      "district": 85,
-      "candidates": [
-        {"name":"Dudley Greene","party":"R","votes":23012},
-        {"name":"Suzanne Gavenus","party":"D","votes":12416}
-      ]
-    },
-    {
-      "district": 86,
-      "candidates": [
-        {"name":"Hugh Blackwell","party":"R","votes":19007},
-        {"name":"Wesley E. Hendrix","party":"D","votes":10965}
-      ]
-    },
-    {
-      "district": 87,
-      "candidates": [
-        {"name":"Destin Hall","party":"R","votes":19635},
-        {"name":"Iris Bender","party":"D","votes":9834}
-      ]
-    },
-    {
-      "district": 88,
-      "candidates": [
-        {"name":"Mary Belk","party":"D","votes":23537},
-        {"name":"Ray Craig","party":"R","votes":6640}
-      ]
-    },
-    {
-      "district": 89,
-      "candidates": [
-        {"name":"Mitchell Smith Setzer","party":"R","votes":23905},
-        {"name":"Robert (Spider) Thompson","party":"D","votes":11488}
-      ]
-    },
-    {
-      "district": 90,
-      "candidates": [
-        {"name":"Dan Kiger","party":"R","votes":21120},
-        {"name":"Ken Badgett","party":"D","votes":8703}
-      ]
-    },
-    {
-      "district": 91,
-      "candidates": [
-        {"name":"Kyle Hall","party":"R","votes":18405},
-        {"name":"Lucille Puckett","party":"D","votes":12693}
-      ]
-    },
-    {
-      "district": 92,
-      "candidates": [
-        {"name":"Terry Brown","party":"D","votes":29574}
-      ]
-    },
-    {
-      "district": 93,
-      "candidates": [
-        {"name":"Charlie Wallin","party":"D","votes":18875},
-        {"name":"Ray Pickett","party":"R","votes":18647}
-      ]
-    },
-    {
-      "district": 94,
-      "candidates": [
-        {"name":"Blair Eddins","party":"R","votes":22432},
-        {"name":"Andy Warren","party":"D","votes":8479}
-      ]
-    },
-    {
-      "district": 95,
-      "candidates": [
-        {"name":"Richard (Todd) Carver","party":"R","votes":19963},
-        {"name":"Michael Robinson","party":"D","votes":15767}
-      ]
-    },
-    {
-      "district": 96,
-      "candidates": [
-        {"name":"Jay Adams","party":"R","votes":17288},
-        {"name":"Park Inglefield","party":"D","votes":14351}
-      ]
-    },
-    {
-      "district": 97,
-      "candidates": [
-        {"name":"Heather Rhyne","party":"R","votes":25490},
-        {"name":"Greg McBryde","party":"D","votes":12545}
-      ]
-    },
-    {
-      "district": 98,
-      "candidates": [
-        {"name":"Beth Helfrich","party":"D","votes":23447},
-        {"name":"John Rhodes","party":"R","votes":15589}
-      ]
-    },
-    {
-      "district": 99,
-      "candidates": [
-        {"name":"Veleria M. Levy","party":"D","votes":23971}
-      ]
-    },
-    {
-      "district": 100,
-      "candidates": [
-        {"name":"Julia Greenfield","party":"D","votes":22364}
-      ]
-    },
-    {
-      "district": 101,
-      "candidates": [
-        {"name":"Carolyn G. Logan","party":"D","votes":27021}
-      ]
-    },
-    {
-      "district": 102,
-      "candidates": [
-        {"name":"Becky Carney","party":"D","votes":31920}
-      ]
-    },
-    {
-      "district": 103,
-      "candidates": [
-        {"name":"Laura Budd","party":"D","votes":25645}
-      ]
-    },
-    {
-      "district": 104,
-      "candidates": [
-        {"name":"Brandon Lofton","party":"D","votes":24901},
-        {"name":"Trina Boyd","party":"R","votes":13432}
-      ]
-    },
-    {
-      "district": 105,
-      "candidates": [
-        {"name":"Ken McCool","party":"D","votes":24608},
-        {"name":"Tricia Ann Cotham","party":"R","votes":18479}
-      ]
-    },
-    {
-      "district": 106,
-      "candidates": [
-        {"name":"Rodney Sadler","party":"D","votes":33231}
-      ]
-    },
-    {
-      "district": 107,
-      "candidates": [
-        {"name":"Aisha O. Dew","party":"D","votes":29696}
-      ]
-    },
-    {
-      "district": 108,
-      "candidates": [
-        {"name":"John A. Torbett","party":"R","votes":16794},
-        {"name":"Sydnie Hutchinson","party":"D","votes":14304}
-      ]
-    },
-    {
-      "district": 109,
-      "candidates": [
-        {"name":"Mark D. Carver","party":"D","votes":18775},
-        {"name":"Donnie Loftis","party":"R","votes":17598}
-      ]
-    },
-    {
-      "district": 110,
-      "candidates": [
-        {"name":"Caroline Eason","party":"R","votes":16704},
-        {"name":"Mary Silver","party":"D","votes":12081}
-      ]
-    },
-    {
-      "district": 111,
-      "candidates": [
-        {"name":"Paul Scott","party":"R","votes":18619},
-        {"name":"Jerry Blake","party":"D","votes":9598}
-      ]
-    },
-    {
-      "district": 112,
-      "candidates": [
-        {"name":"Jordan Lopez","party":"D","votes":26324}
-      ]
-    },
-    {
-      "district": 113,
-      "candidates": [
-        {"name":"Jake Johnson","party":"R","votes":23090},
-        {"name":"John Morgan","party":"D","votes":16343}
-      ]
-    },
-    {
-      "district": 114,
-      "candidates": [
-        {"name":"Eric Ager","party":"D","votes":32833}
-      ]
-    },
-    {
-      "district": 115,
-      "candidates": [
-        {"name":"Lindsey Prather","party":"D","votes":24407},
-        {"name":"Anthony J. Penland","party":"R","votes":16236}
-      ]
-    },
-    {
-      "district": 116,
-      "candidates": [
-        {"name":"Brian Turner","party":"D","votes":38732}
-      ]
-    },
-    {
-      "district": 117,
-      "candidates": [
-        {"name":"Lynne Russo","party":"D","votes":22710},
-        {"name":"Chelsea Walsh","party":"R","votes":21180}
-      ]
-    },
-    {
-      "district": 118,
-      "candidates": [
-        {"name":"James M. (Jimmy) Rogers","party":"R","votes":19525},
-        {"name":"Danny E. Davis","party":"D","votes":18920}
-      ]
-    },
-    {
-      "district": 119,
-      "candidates": [
-        {"name":"Mark Burrows","party":"D","votes":19523},
-        {"name":"Anna Ferguson","party":"R","votes":17726}
-      ]
-    },
-    {
-      "district": 120,
-      "candidates": [
-        {"name":"Karl Gillespie","party":"R","votes":25619},
-        {"name":"Caleb Brown","party":"D","votes":12120}
-      ]
-    }
-  ],
-  "senate": [
-    {
+      "id": "nc-senate-01",
+      "category": "nc-senate",
+      "title": "NC Senate District 1",
       "district": 1,
+      "contest": "NC STATE SENATE DISTRICT 01",
+      "area": "10 counties",
+      "statewide": false,
       "candidates": [
         {"name":"Jerry Tillett","party":"R","votes":42924},
         {"name":"Melissa Zehner","party":"D","votes":39504}
       ]
     },
     {
+      "id": "nc-senate-02",
+      "category": "nc-senate",
+      "title": "NC Senate District 2",
       "district": 2,
+      "contest": "NC STATE SENATE DISTRICT 02",
+      "area": "8 counties",
+      "statewide": false,
       "candidates": [
         {"name":"Norman Sanderson","party":"R","votes":47147},
         {"name":"Roy Surrett","party":"D","votes":40520}
       ]
     },
     {
+      "id": "nc-senate-03",
+      "category": "nc-senate",
+      "title": "NC Senate District 3",
       "district": 3,
+      "contest": "NC STATE SENATE DISTRICT 03",
+      "area": "3 counties",
+      "statewide": false,
       "candidates": [
         {"name":"Bob Brinson","party":"R","votes":44365},
         {"name":"Charles Dudley","party":"D","votes":36279}
       ]
     },
     {
+      "id": "nc-senate-04",
+      "category": "nc-senate",
+      "title": "NC Senate District 4",
       "district": 4,
+      "contest": "NC STATE SENATE DISTRICT 04",
+      "area": "3 counties",
+      "statewide": false,
       "candidates": [
         {"name":"Jessica (Jess) Rivera","party":"D","votes":37539},
         {"name":"Buck Newton","party":"R","votes":35962}
       ]
     },
     {
+      "id": "nc-senate-05",
+      "category": "nc-senate",
+      "title": "NC Senate District 5",
       "district": 5,
+      "contest": "NC STATE SENATE DISTRICT 05",
+      "area": "2 counties",
+      "statewide": false,
       "candidates": [
         {"name":"Kandie D. Smith","party":"D","votes":49446},
         {"name":"Henry Hostetler","party":"R","votes":30638}
       ]
     },
     {
+      "id": "nc-senate-06",
+      "category": "nc-senate",
+      "title": "NC Senate District 6",
       "district": 6,
+      "contest": "NC STATE SENATE DISTRICT 06",
+      "area": "Onslow County",
+      "statewide": false,
       "candidates": [
         {"name":"Michael Anthony Lazzara","party":"R","votes":30152},
         {"name":"Andi Morrow","party":"D","votes":19841}
       ]
     },
     {
+      "id": "nc-senate-07",
+      "category": "nc-senate",
+      "title": "NC Senate District 7",
       "district": 7,
+      "contest": "NC STATE SENATE DISTRICT 07",
+      "area": "New Hanover County",
+      "statewide": false,
       "candidates": [
         {"name":"Jessica Bichler","party":"D","votes":48310},
         {"name":"Michael Lee","party":"R","votes":43469}
       ]
     },
     {
+      "id": "nc-senate-08",
+      "category": "nc-senate",
+      "title": "NC Senate District 8",
       "district": 8,
+      "contest": "NC STATE SENATE DISTRICT 08",
+      "area": "3 counties",
+      "statewide": false,
       "candidates": [
         {"name":"Bill Rabon","party":"R","votes":59369},
         {"name":"Richard (Rick) Combes","party":"D","votes":51954},
@@ -885,13 +410,25 @@
       ]
     },
     {
+      "id": "nc-senate-09",
+      "category": "nc-senate",
+      "title": "NC Senate District 9",
       "district": 9,
+      "contest": "NC STATE SENATE DISTRICT 09",
+      "area": "5 counties",
+      "statewide": false,
       "candidates": [
         {"name":"Brent Jackson","party":"R","votes":48386}
       ]
     },
     {
+      "id": "nc-senate-10",
+      "category": "nc-senate",
+      "title": "NC Senate District 10",
       "district": 10,
+      "contest": "NC STATE SENATE DISTRICT 10",
+      "area": "Johnston County",
+      "statewide": false,
       "candidates": [
         {"name":"Benton Sawrey","party":"R","votes":43863},
         {"name":"Pat LeGrand","party":"D","votes":42609},
@@ -899,7 +436,13 @@
       ]
     },
     {
+      "id": "nc-senate-11",
+      "category": "nc-senate",
+      "title": "NC Senate District 11",
       "district": 11,
+      "contest": "NC STATE SENATE DISTRICT 11",
+      "area": "3 counties",
+      "statewide": false,
       "candidates": [
         {"name":"James D. Gailliard","party":"D","votes":45342},
         {"name":"Lisa Stone Barnes","party":"R","votes":40845},
@@ -907,35 +450,65 @@
       ]
     },
     {
+      "id": "nc-senate-12",
+      "category": "nc-senate",
+      "title": "NC Senate District 12",
       "district": 12,
+      "contest": "NC STATE SENATE DISTRICT 12",
+      "area": "3 counties",
+      "statewide": false,
       "candidates": [
         {"name":"Jim Burgin","party":"R","votes":34783},
         {"name":"Tanya White Anderson","party":"D","votes":32358}
       ]
     },
     {
+      "id": "nc-senate-13",
+      "category": "nc-senate",
+      "title": "NC Senate District 13",
       "district": 13,
+      "contest": "NC STATE SENATE DISTRICT 13",
+      "area": "Wake County",
+      "statewide": false,
       "candidates": [
         {"name":"Lisa Grafstein","party":"D","votes":63834},
         {"name":"Robert van Brederode","party":"R","votes":41169}
       ]
     },
     {
+      "id": "nc-senate-14",
+      "category": "nc-senate",
+      "title": "NC Senate District 14",
       "district": 14,
+      "contest": "NC STATE SENATE DISTRICT 14",
+      "area": "Wake County",
+      "statewide": false,
       "candidates": [
         {"name":"Dan Blue","party":"D","votes":67944},
         {"name":"Angela B. McCarty","party":"R","votes":14912}
       ]
     },
     {
+      "id": "nc-senate-15",
+      "category": "nc-senate",
+      "title": "NC Senate District 15",
       "district": 15,
+      "contest": "NC STATE SENATE DISTRICT 15",
+      "area": "Wake County",
+      "statewide": false,
       "candidates": [
         {"name":"Jay J. Chaudhuri","party":"D","votes":61375},
         {"name":"David Bankert","party":"R","votes":20368}
       ]
     },
     {
+      "id": "nc-senate-16",
+      "category": "nc-senate",
+      "title": "NC Senate District 16",
       "district": 16,
+      "contest": "NC STATE SENATE DISTRICT 16",
+      "area": "Wake County",
+      "statewide": false,
       "candidates": [
         {"name":"Gale Adcock","party":"D","votes":66706},
         {"name":"Philip Hensley","party":"R","votes":20952},
@@ -943,7 +516,13 @@
       ]
     },
     {
+      "id": "nc-senate-17",
+      "category": "nc-senate",
+      "title": "NC Senate District 17",
       "district": 17,
+      "contest": "NC STATE SENATE DISTRICT 17",
+      "area": "Wake County",
+      "statewide": false,
       "candidates": [
         {"name":"Mrs. Sydney Batch","party":"D","votes":61644},
         {"name":"Shirley Johnson","party":"R","votes":21392},
@@ -951,7 +530,13 @@
       ]
     },
     {
+      "id": "nc-senate-18",
+      "category": "nc-senate",
+      "title": "NC Senate District 18",
       "district": 18,
+      "contest": "NC STATE SENATE DISTRICT 18",
+      "area": "2 counties",
+      "statewide": false,
       "candidates": [
         {"name":"Haseeb Fatmi","party":"D","votes":54157},
         {"name":"Chris Stock","party":"R","votes":42310},
@@ -959,95 +544,179 @@
       ]
     },
     {
+      "id": "nc-senate-19",
+      "category": "nc-senate",
+      "title": "NC Senate District 19",
       "district": 19,
+      "contest": "NC STATE SENATE DISTRICT 19",
+      "area": "Cumberland County",
+      "statewide": false,
       "candidates": [
         {"name":"Val Applewhite","party":"D","votes":45407},
         {"name":"Venus de la Cruz","party":"R","votes":16319}
       ]
     },
     {
+      "id": "nc-senate-20",
+      "category": "nc-senate",
+      "title": "NC Senate District 20",
       "district": 20,
+      "contest": "NC STATE SENATE DISTRICT 20",
+      "area": "2 counties",
+      "statewide": false,
       "candidates": [
         {"name":"Natalie S. Murdock","party":"D","votes":85371}
       ]
     },
     {
+      "id": "nc-senate-21",
+      "category": "nc-senate",
+      "title": "NC Senate District 21",
       "district": 21,
+      "contest": "NC STATE SENATE DISTRICT 21",
+      "area": "2 counties",
+      "statewide": false,
       "candidates": [
         {"name":"Tom McInnis","party":"R","votes":41901},
         {"name":"Paul Taylor","party":"D","votes":35149}
       ]
     },
     {
+      "id": "nc-senate-22",
+      "category": "nc-senate",
+      "title": "NC Senate District 22",
       "district": 22,
+      "contest": "NC STATE SENATE DISTRICT 22",
+      "area": "Durham County",
+      "statewide": false,
       "candidates": [
         {"name":"Sophia Chitlik","party":"D","votes":72857},
         {"name":"LaKeshia M. Alston","party":"R","votes":12600}
       ]
     },
     {
+      "id": "nc-senate-23",
+      "category": "nc-senate",
+      "title": "NC Senate District 23",
       "district": 23,
+      "contest": "NC STATE SENATE DISTRICT 23",
+      "area": "3 counties",
+      "statewide": false,
       "candidates": [
         {"name":"Jonah Garson","party":"D","votes":69311},
         {"name":"Laura Pichardo","party":"R","votes":26191}
       ]
     },
     {
+      "id": "nc-senate-24",
+      "category": "nc-senate",
+      "title": "NC Senate District 24",
       "district": 24,
+      "contest": "NC STATE SENATE DISTRICT 24",
+      "area": "3 counties",
+      "statewide": false,
       "candidates": [
         {"name":"Danny Earl Britt, Jr.","party":"R","votes":27860},
         {"name":"Catina Hamm","party":"D","votes":27592}
       ]
     },
     {
+      "id": "nc-senate-25",
+      "category": "nc-senate",
+      "title": "NC Senate District 25",
       "district": 25,
+      "contest": "NC STATE SENATE DISTRICT 25",
+      "area": "2 counties",
+      "statewide": false,
       "candidates": [
         {"name":"Amy Scott Galey","party":"R","votes":42643},
         {"name":"Southey Blanton","party":"D","votes":40046}
       ]
     },
     {
+      "id": "nc-senate-26",
+      "category": "nc-senate",
+      "title": "NC Senate District 26",
       "district": 26,
+      "contest": "NC STATE SENATE DISTRICT 26",
+      "area": "2 counties",
+      "statewide": false,
       "candidates": [
         {"name":"Sam Page","party":"R","votes":50217},
         {"name":"Steve Luking","party":"D","votes":43202}
       ]
     },
     {
+      "id": "nc-senate-27",
+      "category": "nc-senate",
+      "title": "NC Senate District 27",
       "district": 27,
+      "contest": "NC STATE SENATE DISTRICT 27",
+      "area": "Guilford County",
+      "statewide": false,
       "candidates": [
         {"name":"Michael K. Garrett","party":"D","votes":61203}
       ]
     },
     {
+      "id": "nc-senate-28",
+      "category": "nc-senate",
+      "title": "NC Senate District 28",
       "district": 28,
+      "contest": "NC STATE SENATE DISTRICT 28",
+      "area": "Guilford County",
+      "statewide": false,
       "candidates": [
         {"name":"Gladys A. Robinson","party":"D","votes":61097}
       ]
     },
     {
+      "id": "nc-senate-29",
+      "category": "nc-senate",
+      "title": "NC Senate District 29",
       "district": 29,
+      "contest": "NC STATE SENATE DISTRICT 29",
+      "area": "5 counties",
+      "statewide": false,
       "candidates": [
         {"name":"Dave Craven","party":"R","votes":43081},
         {"name":"Judy Little","party":"D","votes":27537}
       ]
     },
     {
+      "id": "nc-senate-30",
+      "category": "nc-senate",
+      "title": "NC Senate District 30",
       "district": 30,
+      "contest": "NC STATE SENATE DISTRICT 30",
+      "area": "2 counties",
+      "statewide": false,
       "candidates": [
         {"name":"Steve Jarvis","party":"R","votes":52180},
         {"name":"Pamela D. McAfee","party":"D","votes":26741}
       ]
     },
     {
+      "id": "nc-senate-31",
+      "category": "nc-senate",
+      "title": "NC Senate District 31",
       "district": 31,
+      "contest": "NC STATE SENATE DISTRICT 31",
+      "area": "2 counties",
+      "statewide": false,
       "candidates": [
         {"name":"Dana Caudill Jones","party":"R","votes":49941},
         {"name":"Andy Bowline","party":"D","votes":43110}
       ]
     },
     {
+      "id": "nc-senate-32",
+      "category": "nc-senate",
+      "title": "NC Senate District 32",
       "district": 32,
+      "contest": "NC STATE SENATE DISTRICT 32",
+      "area": "Forsyth County",
+      "statewide": false,
       "candidates": [
         {"name":"Paul Lowe, Jr.","party":"D","votes":56997},
         {"name":"Peter Antinozzi","party":"R","votes":16728},
@@ -1055,127 +724,1770 @@
       ]
     },
     {
+      "id": "nc-senate-33",
+      "category": "nc-senate",
+      "title": "NC Senate District 33",
       "district": 33,
+      "contest": "NC STATE SENATE DISTRICT 33",
+      "area": "2 counties",
+      "statewide": false,
       "candidates": [
         {"name":"Carl Ford","party":"R","votes":46721},
         {"name":"Gary R. Weart","party":"D","votes":28074}
       ]
     },
     {
+      "id": "nc-senate-34",
+      "category": "nc-senate",
+      "title": "NC Senate District 34",
       "district": 34,
+      "contest": "NC STATE SENATE DISTRICT 34",
+      "area": "Cabarrus County",
+      "statewide": false,
       "candidates": [
         {"name":"April Cook","party":"D","votes":46750},
         {"name":"Kevin Crutchfield","party":"R","votes":34328}
       ]
     },
     {
+      "id": "nc-senate-35",
+      "category": "nc-senate",
+      "title": "NC Senate District 35",
       "district": 35,
+      "contest": "NC STATE SENATE DISTRICT 35",
+      "area": "2 counties",
+      "statewide": false,
       "candidates": [
         {"name":"Todd Johnson","party":"R","votes":52066},
         {"name":"Christine E. Winward","party":"D","votes":44329}
       ]
     },
     {
+      "id": "nc-senate-36",
+      "category": "nc-senate",
+      "title": "NC Senate District 36",
       "district": 36,
+      "contest": "NC STATE SENATE DISTRICT 36",
+      "area": "4 counties",
+      "statewide": false,
       "candidates": [
         {"name":"Eddie Settle","party":"R","votes":54065},
         {"name":"Trevor Cole Hardwick","party":"D","votes":20115}
       ]
     },
     {
+      "id": "nc-senate-37",
+      "category": "nc-senate",
+      "title": "NC Senate District 37",
       "district": 37,
+      "contest": "NC STATE SENATE DISTRICT 37",
+      "area": "2 counties",
+      "statewide": false,
       "candidates": [
         {"name":"Vickie Sawyer","party":"R","votes":51692},
         {"name":"Raygan J. Angel","party":"D","votes":39588}
       ]
     },
     {
+      "id": "nc-senate-38",
+      "category": "nc-senate",
+      "title": "NC Senate District 38",
       "district": 38,
+      "contest": "NC STATE SENATE DISTRICT 38",
+      "area": "Mecklenburg County",
+      "statewide": false,
       "candidates": [
         {"name":"Mujtaba A. Mohammed","party":"D","votes":75088}
       ]
     },
     {
+      "id": "nc-senate-39",
+      "category": "nc-senate",
+      "title": "NC Senate District 39",
       "district": 39,
+      "contest": "NC STATE SENATE DISTRICT 39",
+      "area": "Mecklenburg County",
+      "statewide": false,
       "candidates": [
         {"name":"DeAndrea Salvador","party":"D","votes":69536}
       ]
     },
     {
+      "id": "nc-senate-40",
+      "category": "nc-senate",
+      "title": "NC Senate District 40",
       "district": 40,
+      "contest": "NC STATE SENATE DISTRICT 40",
+      "area": "Mecklenburg County",
+      "statewide": false,
       "candidates": [
         {"name":"Joyce Waddell","party":"D","votes":56925},
         {"name":"Bobbie Shields","party":"R","votes":11203}
       ]
     },
     {
+      "id": "nc-senate-41",
+      "category": "nc-senate",
+      "title": "NC Senate District 41",
       "district": 41,
+      "contest": "NC STATE SENATE DISTRICT 41",
+      "area": "Mecklenburg County",
+      "statewide": false,
       "candidates": [
         {"name":"Caleb Theodros","party":"D","votes":69771},
         {"name":"Kevin Gray","party":"R","votes":12764}
       ]
     },
     {
+      "id": "nc-senate-42",
+      "category": "nc-senate",
+      "title": "NC Senate District 42",
       "district": 42,
+      "contest": "NC STATE SENATE DISTRICT 42",
+      "area": "Mecklenburg County",
+      "statewide": false,
       "candidates": [
         {"name":"Mrs. Woodson Bradley","party":"D","votes":57203},
         {"name":"Stacie McGinn","party":"R","votes":39941}
       ]
     },
     {
+      "id": "nc-senate-43",
+      "category": "nc-senate",
+      "title": "NC Senate District 43",
       "district": 43,
+      "contest": "NC STATE SENATE DISTRICT 43",
+      "area": "Gaston County",
+      "statewide": false,
       "candidates": [
         {"name":"Brad Overcash","party":"R","votes":39155},
         {"name":"Steve Rutherford","party":"D","votes":37758}
       ]
     },
     {
+      "id": "nc-senate-44",
+      "category": "nc-senate",
+      "title": "NC Senate District 44",
       "district": 44,
+      "contest": "NC STATE SENATE DISTRICT 44",
+      "area": "3 counties",
+      "statewide": false,
       "candidates": [
         {"name":"Ted Alexander","party":"R","votes":50272},
         {"name":"Rod Powell","party":"D","votes":27752}
       ]
     },
     {
+      "id": "nc-senate-45",
+      "category": "nc-senate",
+      "title": "NC Senate District 45",
       "district": 45,
+      "contest": "NC STATE SENATE DISTRICT 45",
+      "area": "2 counties",
+      "statewide": false,
       "candidates": [
         {"name":"Mark Hollo","party":"R","votes":49039},
         {"name":"Greg Cranford","party":"D","votes":29101}
       ]
     },
     {
+      "id": "nc-senate-46",
+      "category": "nc-senate",
+      "title": "NC Senate District 46",
       "district": 46,
+      "contest": "NC STATE SENATE DISTRICT 46",
+      "area": "3 counties",
+      "statewide": false,
       "candidates": [
         {"name":"Warren Daniel","party":"R","votes":42610},
         {"name":"Kyle Whisnant","party":"D","votes":33287}
       ]
     },
     {
+      "id": "nc-senate-47",
+      "category": "nc-senate",
+      "title": "NC Senate District 47",
       "district": 47,
+      "contest": "NC STATE SENATE DISTRICT 47",
+      "area": "9 counties",
+      "statewide": false,
       "candidates": [
         {"name":"Ralph Hise","party":"R","votes":48503},
         {"name":"Frank Patton Hughes III","party":"D","votes":38829}
       ]
     },
     {
+      "id": "nc-senate-48",
+      "category": "nc-senate",
+      "title": "NC Senate District 48",
       "district": 48,
+      "contest": "NC STATE SENATE DISTRICT 48",
+      "area": "3 counties",
+      "statewide": false,
       "candidates": [
         {"name":"Tim Moffitt","party":"R","votes":49359},
         {"name":"Doyle G. Brown, Jr.","party":"D","votes":40065}
       ]
     },
     {
+      "id": "nc-senate-49",
+      "category": "nc-senate",
+      "title": "NC Senate District 49",
       "district": 49,
+      "contest": "NC STATE SENATE DISTRICT 49",
+      "area": "Buncombe County",
+      "statewide": false,
       "candidates": [
         {"name":"Julie Mayfield","party":"D","votes":77184},
         {"name":"CJ Domingo","party":"R","votes":22866}
       ]
     },
     {
+      "id": "nc-senate-50",
+      "category": "nc-senate",
+      "title": "NC Senate District 50",
       "district": 50,
+      "contest": "NC STATE SENATE DISTRICT 50",
+      "area": "8 counties",
+      "statewide": false,
       "candidates": [
         {"name":"Kevin Corbin","party":"R","votes":55374},
         {"name":"Tom Downing","party":"D","votes":39781}
+      ]
+    },
+    {
+      "id": "nc-house-001",
+      "category": "nc-house",
+      "title": "NC House District 1",
+      "district": 1,
+      "contest": "NC HOUSE OF REPRESENTATIVES DISTRICT 001",
+      "area": "6 counties",
+      "statewide": false,
+      "candidates": [
+        {"name":"Edward C. Goodwin","party":"R","votes":22436},
+        {"name":"Miriam Rollin","party":"D","votes":14880}
+      ]
+    },
+    {
+      "id": "nc-house-002",
+      "category": "nc-house",
+      "title": "NC House District 2",
+      "district": 2,
+      "contest": "NC HOUSE OF REPRESENTATIVES DISTRICT 002",
+      "area": "2 counties",
+      "statewide": false,
+      "candidates": [
+        {"name":"Ray Jeffers","party":"D","votes":28177}
+      ]
+    },
+    {
+      "id": "nc-house-003",
+      "category": "nc-house",
+      "title": "NC House District 3",
+      "district": 3,
+      "contest": "NC HOUSE OF REPRESENTATIVES DISTRICT 003",
+      "area": "Craven County",
+      "statewide": false,
+      "candidates": [
+        {"name":"Steve Tyson","party":"R","votes":20885},
+        {"name":"Diannia Bright","party":"D","votes":15547},
+        {"name":"Angela Humphries","party":"L","votes":888}
+      ]
+    },
+    {
+      "id": "nc-house-004",
+      "category": "nc-house",
+      "title": "NC House District 4",
+      "district": 4,
+      "contest": "NC HOUSE OF REPRESENTATIVES DISTRICT 004",
+      "area": "2 counties",
+      "statewide": false,
+      "candidates": [
+        {"name":"Jimmy Dixon","party":"R","votes":13780},
+        {"name":"Vernon Moore","party":"D","votes":11204}
+      ]
+    },
+    {
+      "id": "nc-house-005",
+      "category": "nc-house",
+      "title": "NC House District 5",
+      "district": 5,
+      "contest": "NC HOUSE OF REPRESENTATIVES DISTRICT 005",
+      "area": "4 counties",
+      "statewide": false,
+      "candidates": [
+        {"name":"Sam Davis III","party":"D","votes":16082},
+        {"name":"Bill Ward","party":"R","votes":14385}
+      ]
+    },
+    {
+      "id": "nc-house-006",
+      "category": "nc-house",
+      "title": "NC House District 6",
+      "district": 6,
+      "contest": "NC HOUSE OF REPRESENTATIVES DISTRICT 006",
+      "area": "Harnett County",
+      "statewide": false,
+      "candidates": [
+        {"name":"Joe Pike","party":"R","votes":14489},
+        {"name":"Tony Spears","party":"D","votes":13887}
+      ]
+    },
+    {
+      "id": "nc-house-007",
+      "category": "nc-house",
+      "title": "NC House District 7",
+      "district": 7,
+      "contest": "NC HOUSE OF REPRESENTATIVES DISTRICT 007",
+      "area": "2 counties",
+      "statewide": false,
+      "candidates": [
+        {"name":"Mark Speed","party":"D","votes":19901},
+        {"name":"Cory Thornton","party":"R","votes":18698}
+      ]
+    },
+    {
+      "id": "nc-house-008",
+      "category": "nc-house",
+      "title": "NC House District 8",
+      "district": 8,
+      "contest": "NC HOUSE OF REPRESENTATIVES DISTRICT 008",
+      "area": "Pitt County",
+      "statewide": false,
+      "candidates": [
+        {"name":"Gloristine Brown","party":"D","votes":18488},
+        {"name":"Cathy Thorne Bynum","party":"R","votes":7440}
+      ]
+    },
+    {
+      "id": "nc-house-009",
+      "category": "nc-house",
+      "title": "NC House District 9",
+      "district": 9,
+      "contest": "NC HOUSE OF REPRESENTATIVES DISTRICT 009",
+      "area": "Pitt County",
+      "statewide": false,
+      "candidates": [
+        {"name":"Claire Kempner","party":"D","votes":18187},
+        {"name":"Timothy Reeder","party":"R","votes":18012}
+      ]
+    },
+    {
+      "id": "nc-house-010",
+      "category": "nc-house",
+      "title": "NC House District 10",
+      "district": 10,
+      "contest": "NC HOUSE OF REPRESENTATIVES DISTRICT 010",
+      "area": "Wayne County",
+      "statewide": false,
+      "candidates": [
+        {"name":"John Bell","party":"R","votes":16019},
+        {"name":"Zyaire Webb","party":"D","votes":13180}
+      ]
+    },
+    {
+      "id": "nc-house-011",
+      "category": "nc-house",
+      "title": "NC House District 11",
+      "district": 11,
+      "contest": "NC HOUSE OF REPRESENTATIVES DISTRICT 011",
+      "area": "Wake County",
+      "statewide": false,
+      "candidates": [
+        {"name":"Allison A. Dahle","party":"D","votes":30013},
+        {"name":"Matthew Kordon","party":"L","votes":6854}
+      ]
+    },
+    {
+      "id": "nc-house-012",
+      "category": "nc-house",
+      "title": "NC House District 12",
+      "district": 12,
+      "contest": "NC HOUSE OF REPRESENTATIVES DISTRICT 012",
+      "area": "3 counties",
+      "statewide": false,
+      "candidates": [
+        {"name":"Chris Humphrey","party":"R","votes":15422},
+        {"name":"Don Hardy","party":"D","votes":14153}
+      ]
+    },
+    {
+      "id": "nc-house-013",
+      "category": "nc-house",
+      "title": "NC House District 13",
+      "district": 13,
+      "contest": "NC HOUSE OF REPRESENTATIVES DISTRICT 013",
+      "area": "2 counties",
+      "statewide": false,
+      "candidates": [
+        {"name":"Celeste Cairns","party":"R","votes":25511},
+        {"name":"Jason Moore","party":"D","votes":13595}
+      ]
+    },
+    {
+      "id": "nc-house-014",
+      "category": "nc-house",
+      "title": "NC House District 14",
+      "district": 14,
+      "contest": "NC HOUSE OF REPRESENTATIVES DISTRICT 014",
+      "area": "Onslow County",
+      "statewide": false,
+      "candidates": [
+        {"name":"Wyatt Gable","party":"R","votes":10557}
+      ]
+    },
+    {
+      "id": "nc-house-015",
+      "category": "nc-house",
+      "title": "NC House District 15",
+      "district": 15,
+      "contest": "NC HOUSE OF REPRESENTATIVES DISTRICT 015",
+      "area": "Onslow County",
+      "statewide": false,
+      "candidates": [
+        {"name":"Phillip Shepard","party":"R","votes":13610},
+        {"name":"Christopher Schulte","party":"D","votes":10328}
+      ]
+    },
+    {
+      "id": "nc-house-016",
+      "category": "nc-house",
+      "title": "NC House District 16",
+      "district": 16,
+      "contest": "NC HOUSE OF REPRESENTATIVES DISTRICT 016",
+      "area": "2 counties",
+      "statewide": false,
+      "candidates": [
+        {"name":"Carson Smith","party":"R","votes":21921},
+        {"name":"Jim Harris","party":"D","votes":13111}
+      ]
+    },
+    {
+      "id": "nc-house-017",
+      "category": "nc-house",
+      "title": "NC House District 17",
+      "district": 17,
+      "contest": "NC HOUSE OF REPRESENTATIVES DISTRICT 017",
+      "area": "Brunswick County",
+      "statewide": false,
+      "candidates": [
+        {"name":"Frank Iler","party":"R","votes":29965},
+        {"name":"Dennis A. Breen","party":"D","votes":25019}
+      ]
+    },
+    {
+      "id": "nc-house-018",
+      "category": "nc-house",
+      "title": "NC House District 18",
+      "district": 18,
+      "contest": "NC HOUSE OF REPRESENTATIVES DISTRICT 018",
+      "area": "New Hanover County",
+      "statewide": false,
+      "candidates": [
+        {"name":"Deb Butler","party":"D","votes":24899},
+        {"name":"Latisha Grady","party":"R","votes":10460}
+      ]
+    },
+    {
+      "id": "nc-house-019",
+      "category": "nc-house",
+      "title": "NC House District 19",
+      "district": 19,
+      "contest": "NC HOUSE OF REPRESENTATIVES DISTRICT 019",
+      "area": "2 counties",
+      "statewide": false,
+      "candidates": [
+        {"name":"Charlie Miller","party":"R","votes":29735},
+        {"name":"Scott Nasiff","party":"D","votes":24093}
+      ]
+    },
+    {
+      "id": "nc-house-020",
+      "category": "nc-house",
+      "title": "NC House District 20",
+      "district": 20,
+      "contest": "NC HOUSE OF REPRESENTATIVES DISTRICT 020",
+      "area": "New Hanover County",
+      "statewide": false,
+      "candidates": [
+        {"name":"Tim Merrick","party":"D","votes":22054},
+        {"name":"Dane Scalise","party":"R","votes":21953}
+      ]
+    },
+    {
+      "id": "nc-house-021",
+      "category": "nc-house",
+      "title": "NC House District 21",
+      "district": 21,
+      "contest": "NC HOUSE OF REPRESENTATIVES DISTRICT 021",
+      "area": "Wake County",
+      "statewide": false,
+      "candidates": [
+        {"name":"Ya Liu","party":"D","votes":29171},
+        {"name":"Bryson Johnson","party":"R","votes":11722}
+      ]
+    },
+    {
+      "id": "nc-house-022",
+      "category": "nc-house",
+      "title": "NC House District 22",
+      "district": 22,
+      "contest": "NC HOUSE OF REPRESENTATIVES DISTRICT 022",
+      "area": "2 counties",
+      "statewide": false,
+      "candidates": [
+        {"name":"Wellie Jackson","party":"R","votes":19106}
+      ]
+    },
+    {
+      "id": "nc-house-023",
+      "category": "nc-house",
+      "title": "NC House District 23",
+      "district": 23,
+      "contest": "NC HOUSE OF REPRESENTATIVES DISTRICT 023",
+      "area": "3 counties",
+      "statewide": false,
+      "candidates": [
+        {"name":"Patricia Smith","party":"D","votes":20679},
+        {"name":"Brent Roberson","party":"R","votes":12968}
+      ]
+    },
+    {
+      "id": "nc-house-024",
+      "category": "nc-house",
+      "title": "NC House District 24",
+      "district": 24,
+      "contest": "NC HOUSE OF REPRESENTATIVES DISTRICT 024",
+      "area": "2 counties",
+      "statewide": false,
+      "candidates": [
+        {"name":"Dante Pittman","party":"D","votes":18017},
+        {"name":"Blake Boykin","party":"R","votes":12910}
+      ]
+    },
+    {
+      "id": "nc-house-025",
+      "category": "nc-house",
+      "title": "NC House District 25",
+      "district": 25,
+      "contest": "NC HOUSE OF REPRESENTATIVES DISTRICT 025",
+      "area": "Nash County",
+      "statewide": false,
+      "candidates": [
+        {"name":"Lorenza M. Wilkins","party":"D","votes":20420},
+        {"name":"Allen Chesser","party":"R","votes":17340},
+        {"name":"Nick Taylor","party":"L","votes":1010}
+      ]
+    },
+    {
+      "id": "nc-house-026",
+      "category": "nc-house",
+      "title": "NC House District 26",
+      "district": 26,
+      "contest": "NC HOUSE OF REPRESENTATIVES DISTRICT 026",
+      "area": "Johnston County",
+      "statewide": false,
+      "candidates": [
+        {"name":"L'Bertrice Solomon","party":"D","votes":21655},
+        {"name":"Donna McDowell White","party":"R","votes":19212}
+      ]
+    },
+    {
+      "id": "nc-house-027",
+      "category": "nc-house",
+      "title": "NC House District 27",
+      "district": 27,
+      "contest": "NC HOUSE OF REPRESENTATIVES DISTRICT 027",
+      "area": "3 counties",
+      "statewide": false,
+      "candidates": [
+        {"name":"Rodney D. Pierce","party":"D","votes":20657},
+        {"name":"David Woodson","party":"R","votes":11864}
+      ]
+    },
+    {
+      "id": "nc-house-028",
+      "category": "nc-house",
+      "title": "NC House District 28",
+      "district": 28,
+      "contest": "NC HOUSE OF REPRESENTATIVES DISTRICT 028",
+      "area": "Johnston County",
+      "statewide": false,
+      "candidates": [
+        {"name":"Larry C. Strickland","party":"R","votes":17117},
+        {"name":"D. Matthew Bailey","party":"D","votes":12241}
+      ]
+    },
+    {
+      "id": "nc-house-029",
+      "category": "nc-house",
+      "title": "NC House District 29",
+      "district": 29,
+      "contest": "NC HOUSE OF REPRESENTATIVES DISTRICT 029",
+      "area": "Durham County",
+      "statewide": false,
+      "candidates": [
+        {"name":"Vernetta Alston","party":"D","votes":40935}
+      ]
+    },
+    {
+      "id": "nc-house-030",
+      "category": "nc-house",
+      "title": "NC House District 30",
+      "district": 30,
+      "contest": "NC HOUSE OF REPRESENTATIVES DISTRICT 030",
+      "area": "Durham County",
+      "statewide": false,
+      "candidates": [
+        {"name":"Marcia Morey","party":"D","votes":34703},
+        {"name":"Ray Ubinger","party":"L","votes":2627}
+      ]
+    },
+    {
+      "id": "nc-house-031",
+      "category": "nc-house",
+      "title": "NC House District 31",
+      "district": 31,
+      "contest": "NC HOUSE OF REPRESENTATIVES DISTRICT 031",
+      "area": "Durham County",
+      "statewide": false,
+      "candidates": [
+        {"name":"Zack Hawkins","party":"D","votes":37012}
+      ]
+    },
+    {
+      "id": "nc-house-032",
+      "category": "nc-house",
+      "title": "NC House District 32",
+      "district": 32,
+      "contest": "NC HOUSE OF REPRESENTATIVES DISTRICT 032",
+      "area": "2 counties",
+      "statewide": false,
+      "candidates": [
+        {"name":"Bryan K. Cohn","party":"D","votes":18410},
+        {"name":"Frank Sossamon","party":"R","votes":14827}
+      ]
+    },
+    {
+      "id": "nc-house-033",
+      "category": "nc-house",
+      "title": "NC House District 33",
+      "district": 33,
+      "contest": "NC HOUSE OF REPRESENTATIVES DISTRICT 033",
+      "area": "Wake County",
+      "statewide": false,
+      "candidates": [
+        {"name":"Monika Johnson-Hostler","party":"D","votes":29474},
+        {"name":"Matthew Orr","party":"R","votes":7793}
+      ]
+    },
+    {
+      "id": "nc-house-034",
+      "category": "nc-house",
+      "title": "NC House District 34",
+      "district": 34,
+      "contest": "NC HOUSE OF REPRESENTATIVES DISTRICT 034",
+      "area": "Wake County",
+      "statewide": false,
+      "candidates": [
+        {"name":"Tim Longest","party":"D","votes":29813},
+        {"name":"Ed George","party":"L","votes":6731}
+      ]
+    },
+    {
+      "id": "nc-house-035",
+      "category": "nc-house",
+      "title": "NC House District 35",
+      "district": 35,
+      "contest": "NC HOUSE OF REPRESENTATIVES DISTRICT 035",
+      "area": "Wake County",
+      "statewide": false,
+      "candidates": [
+        {"name":"Evonne S. Hopkins","party":"D","votes":25607},
+        {"name":"Mike Schietzelt","party":"R","votes":20994}
+      ]
+    },
+    {
+      "id": "nc-house-036",
+      "category": "nc-house",
+      "title": "NC House District 36",
+      "district": 36,
+      "contest": "NC HOUSE OF REPRESENTATIVES DISTRICT 036",
+      "area": "Wake County",
+      "statewide": false,
+      "candidates": [
+        {"name":"Julie von Haefen","party":"D","votes":26677},
+        {"name":"Mary Insprucker","party":"R","votes":15686}
+      ]
+    },
+    {
+      "id": "nc-house-037",
+      "category": "nc-house",
+      "title": "NC House District 37",
+      "district": 37,
+      "contest": "NC HOUSE OF REPRESENTATIVES DISTRICT 037",
+      "area": "Wake County",
+      "statewide": false,
+      "candidates": [
+        {"name":"Winn Decker","party":"D","votes":26678},
+        {"name":"Erin Pare","party":"R","votes":22074}
+      ]
+    },
+    {
+      "id": "nc-house-038",
+      "category": "nc-house",
+      "title": "NC House District 38",
+      "district": 38,
+      "contest": "NC HOUSE OF REPRESENTATIVES DISTRICT 038",
+      "area": "Wake County",
+      "statewide": false,
+      "candidates": [
+        {"name":"Abe Jones","party":"D","votes":27817}
+      ]
+    },
+    {
+      "id": "nc-house-039",
+      "category": "nc-house",
+      "title": "NC House District 39",
+      "district": 39,
+      "contest": "NC HOUSE OF REPRESENTATIVES DISTRICT 039",
+      "area": "Wake County",
+      "statewide": false,
+      "candidates": [
+        {"name":"James A. Roberson","party":"D","votes":29894},
+        {"name":"Jorge Cordova","party":"R","votes":10332},
+        {"name":"Wayne Cockrell","party":"L","votes":962}
+      ]
+    },
+    {
+      "id": "nc-house-040",
+      "category": "nc-house",
+      "title": "NC House District 40",
+      "district": 40,
+      "contest": "NC HOUSE OF REPRESENTATIVES DISTRICT 040",
+      "area": "Wake County",
+      "statewide": false,
+      "candidates": [
+        {"name":"Phil Rubin","party":"D","votes":31473},
+        {"name":"Lucas Everett Jones","party":"L","votes":7478}
+      ]
+    },
+    {
+      "id": "nc-house-041",
+      "category": "nc-house",
+      "title": "NC House District 41",
+      "district": 41,
+      "contest": "NC HOUSE OF REPRESENTATIVES DISTRICT 041",
+      "area": "Wake County",
+      "statewide": false,
+      "candidates": [
+        {"name":"Maria Cervania","party":"D","votes":27656},
+        {"name":"Bruce Forster","party":"R","votes":8619}
+      ]
+    },
+    {
+      "id": "nc-house-042",
+      "category": "nc-house",
+      "title": "NC House District 42",
+      "district": 42,
+      "contest": "NC HOUSE OF REPRESENTATIVES DISTRICT 042",
+      "area": "Cumberland County",
+      "statewide": false,
+      "candidates": [
+        {"name":"Mike Colvin","party":"D","votes":14691}
+      ]
+    },
+    {
+      "id": "nc-house-043",
+      "category": "nc-house",
+      "title": "NC House District 43",
+      "district": 43,
+      "contest": "NC HOUSE OF REPRESENTATIVES DISTRICT 043",
+      "area": "Cumberland County",
+      "statewide": false,
+      "candidates": [
+        {"name":"Janene Ackles","party":"D","votes":15814},
+        {"name":"Diane Wheatley","party":"R","votes":14530}
+      ]
+    },
+    {
+      "id": "nc-house-044",
+      "category": "nc-house",
+      "title": "NC House District 44",
+      "district": 44,
+      "contest": "NC HOUSE OF REPRESENTATIVES DISTRICT 044",
+      "area": "Cumberland County",
+      "statewide": false,
+      "candidates": [
+        {"name":"Charles Smith","party":"D","votes":17814}
+      ]
+    },
+    {
+      "id": "nc-house-045",
+      "category": "nc-house",
+      "title": "NC House District 45",
+      "district": 45,
+      "contest": "NC HOUSE OF REPRESENTATIVES DISTRICT 045",
+      "area": "Cumberland County",
+      "statewide": false,
+      "candidates": [
+        {"name":"Frances Jackson","party":"D","votes":17968}
+      ]
+    },
+    {
+      "id": "nc-house-046",
+      "category": "nc-house",
+      "title": "NC House District 46",
+      "district": 46,
+      "contest": "NC HOUSE OF REPRESENTATIVES DISTRICT 046",
+      "area": "2 counties",
+      "statewide": false,
+      "candidates": [
+        {"name":"Brenden H. Jones","party":"R","votes":15074},
+        {"name":"Brittany Newton","party":"D","votes":10273}
+      ]
+    },
+    {
+      "id": "nc-house-047",
+      "category": "nc-house",
+      "title": "NC House District 47",
+      "district": 47,
+      "contest": "NC HOUSE OF REPRESENTATIVES DISTRICT 047",
+      "area": "Robeson County",
+      "statewide": false,
+      "candidates": [
+        {"name":"John L. Lowery","party":"R","votes":11173},
+        {"name":"Eshonda Hooper","party":"D","votes":9531}
+      ]
+    },
+    {
+      "id": "nc-house-048",
+      "category": "nc-house",
+      "title": "NC House District 48",
+      "district": 48,
+      "contest": "NC HOUSE OF REPRESENTATIVES DISTRICT 048",
+      "area": "2 counties",
+      "statewide": false,
+      "candidates": [
+        {"name":"Garland E. Pierce","party":"D","votes":15926},
+        {"name":"Ralph Carter","party":"R","votes":10324}
+      ]
+    },
+    {
+      "id": "nc-house-049",
+      "category": "nc-house",
+      "title": "NC House District 49",
+      "district": 49,
+      "contest": "NC HOUSE OF REPRESENTATIVES DISTRICT 049",
+      "area": "Wake County",
+      "statewide": false,
+      "candidates": [
+        {"name":"Cynthia Ball","party":"D","votes":25262},
+        {"name":"Daran Thomas","party":"R","votes":6711}
+      ]
+    },
+    {
+      "id": "nc-house-050",
+      "category": "nc-house",
+      "title": "NC House District 50",
+      "district": 50,
+      "contest": "NC HOUSE OF REPRESENTATIVES DISTRICT 050",
+      "area": "2 counties",
+      "statewide": false,
+      "candidates": [
+        {"name":"Renee A. Price","party":"D","votes":29976}
+      ]
+    },
+    {
+      "id": "nc-house-051",
+      "category": "nc-house",
+      "title": "NC House District 51",
+      "district": 51,
+      "contest": "NC HOUSE OF REPRESENTATIVES DISTRICT 051",
+      "area": "2 counties",
+      "statewide": false,
+      "candidates": [
+        {"name":"April Montgomery","party":"U","votes":13919},
+        {"name":"Charles M. Taylor","party":"R","votes":13537}
+      ]
+    },
+    {
+      "id": "nc-house-052",
+      "category": "nc-house",
+      "title": "NC House District 52",
+      "district": 52,
+      "contest": "NC HOUSE OF REPRESENTATIVES DISTRICT 052",
+      "area": "2 counties",
+      "statewide": false,
+      "candidates": [
+        {"name":"Ben Moss","party":"R","votes":15889},
+        {"name":"Joe Parfitt","party":"D","votes":14841}
+      ]
+    },
+    {
+      "id": "nc-house-053",
+      "category": "nc-house",
+      "title": "NC House District 53",
+      "district": 53,
+      "contest": "NC HOUSE OF REPRESENTATIVES DISTRICT 053",
+      "area": "2 counties",
+      "statewide": false,
+      "candidates": [
+        {"name":"Howard L. Penny, Jr.","party":"R","votes":17570},
+        {"name":"Kevin G. Thurman","party":"D","votes":15787},
+        {"name":"Christopher Sessions","party":"L","votes":722}
+      ]
+    },
+    {
+      "id": "nc-house-054",
+      "category": "nc-house",
+      "title": "NC House District 54",
+      "district": 54,
+      "contest": "NC HOUSE OF REPRESENTATIVES DISTRICT 054",
+      "area": "2 counties",
+      "statewide": false,
+      "candidates": [
+        {"name":"Robert T. Reives II","party":"D","votes":30519}
+      ]
+    },
+    {
+      "id": "nc-house-055",
+      "category": "nc-house",
+      "title": "NC House District 55",
+      "district": 55,
+      "contest": "NC HOUSE OF REPRESENTATIVES DISTRICT 055",
+      "area": "2 counties",
+      "statewide": false,
+      "candidates": [
+        {"name":"Clancy Baucom","party":"R","votes":15907},
+        {"name":"John J. Kirkpatrick IV","party":"D","votes":12594}
+      ]
+    },
+    {
+      "id": "nc-house-056",
+      "category": "nc-house",
+      "title": "NC House District 56",
+      "district": 56,
+      "contest": "NC HOUSE OF REPRESENTATIVES DISTRICT 056",
+      "area": "Orange County",
+      "statewide": false,
+      "candidates": [
+        {"name":"Allen Buansi","party":"D","votes":35365},
+        {"name":"Matthew P. Clements","party":"L","votes":2616}
+      ]
+    },
+    {
+      "id": "nc-house-057",
+      "category": "nc-house",
+      "title": "NC House District 57",
+      "district": 57,
+      "contest": "NC HOUSE OF REPRESENTATIVES DISTRICT 057",
+      "area": "Guilford County",
+      "statewide": false,
+      "candidates": [
+        {"name":"Tracy Clark","party":"D","votes":28829}
+      ]
+    },
+    {
+      "id": "nc-house-058",
+      "category": "nc-house",
+      "title": "NC House District 58",
+      "district": 58,
+      "contest": "NC HOUSE OF REPRESENTATIVES DISTRICT 058",
+      "area": "Guilford County",
+      "statewide": false,
+      "candidates": [
+        {"name":"Amos Quick","party":"D","votes":24991}
+      ]
+    },
+    {
+      "id": "nc-house-059",
+      "category": "nc-house",
+      "title": "NC House District 59",
+      "district": 59,
+      "contest": "NC HOUSE OF REPRESENTATIVES DISTRICT 059",
+      "area": "Guilford County",
+      "statewide": false,
+      "candidates": [
+        {"name":"Elma Hairston","party":"D","votes":22405},
+        {"name":"Alan Branson","party":"R","votes":20812}
+      ]
+    },
+    {
+      "id": "nc-house-060",
+      "category": "nc-house",
+      "title": "NC House District 60",
+      "district": 60,
+      "contest": "NC HOUSE OF REPRESENTATIVES DISTRICT 060",
+      "area": "Guilford County",
+      "statewide": false,
+      "candidates": [
+        {"name":"Amanda Cook","party":"D","votes":20212},
+        {"name":"Joseph Perrotta","party":"R","votes":7650}
+      ]
+    },
+    {
+      "id": "nc-house-061",
+      "category": "nc-house",
+      "title": "NC House District 61",
+      "district": 61,
+      "contest": "NC HOUSE OF REPRESENTATIVES DISTRICT 061",
+      "area": "Guilford County",
+      "statewide": false,
+      "candidates": [
+        {"name":"Mary Price (Pricey) Harrison","party":"D","votes":28790}
+      ]
+    },
+    {
+      "id": "nc-house-062",
+      "category": "nc-house",
+      "title": "NC House District 62",
+      "district": 62,
+      "contest": "NC HOUSE OF REPRESENTATIVES DISTRICT 062",
+      "area": "Guilford County",
+      "statewide": false,
+      "candidates": [
+        {"name":"Shelly Headen","party":"D","votes":21367},
+        {"name":"John M. Blust","party":"R","votes":21134}
+      ]
+    },
+    {
+      "id": "nc-house-063",
+      "category": "nc-house",
+      "title": "NC House District 63",
+      "district": 63,
+      "contest": "NC HOUSE OF REPRESENTATIVES DISTRICT 063",
+      "area": "Alamance County",
+      "statewide": false,
+      "candidates": [
+        {"name":"Ian Baltutis","party":"D","votes":16479},
+        {"name":"Ryan Moffitt","party":"R","votes":16243}
+      ]
+    },
+    {
+      "id": "nc-house-064",
+      "category": "nc-house",
+      "title": "NC House District 64",
+      "district": 64,
+      "contest": "NC HOUSE OF REPRESENTATIVES DISTRICT 064",
+      "area": "Alamance County",
+      "statewide": false,
+      "candidates": [
+        {"name":"LeVon Barnes","party":"D","votes":18261},
+        {"name":"Dennis Riddell","party":"R","votes":16373}
+      ]
+    },
+    {
+      "id": "nc-house-065",
+      "category": "nc-house",
+      "title": "NC House District 65",
+      "district": 65,
+      "contest": "NC HOUSE OF REPRESENTATIVES DISTRICT 065",
+      "area": "Rockingham County",
+      "statewide": false,
+      "candidates": [
+        {"name":"Seth Woodall","party":"R","votes":21413},
+        {"name":"Gavin McGaughey","party":"D","votes":12456}
+      ]
+    },
+    {
+      "id": "nc-house-066",
+      "category": "nc-house",
+      "title": "NC House District 66",
+      "district": 66,
+      "contest": "NC HOUSE OF REPRESENTATIVES DISTRICT 066",
+      "area": "Wake County",
+      "statewide": false,
+      "candidates": [
+        {"name":"Sarah Crawford","party":"D","votes":29620}
+      ]
+    },
+    {
+      "id": "nc-house-067",
+      "category": "nc-house",
+      "title": "NC House District 67",
+      "district": 67,
+      "contest": "NC HOUSE OF REPRESENTATIVES DISTRICT 067",
+      "area": "2 counties",
+      "statewide": false,
+      "candidates": [
+        {"name":"Cody Huneycutt","party":"R","votes":22475},
+        {"name":"Jocelyn Torres","party":"D","votes":10631}
+      ]
+    },
+    {
+      "id": "nc-house-068",
+      "category": "nc-house",
+      "title": "NC House District 68",
+      "district": 68,
+      "contest": "NC HOUSE OF REPRESENTATIVES DISTRICT 068",
+      "area": "Union County",
+      "statewide": false,
+      "candidates": [
+        {"name":"David Willis","party":"R","votes":21658},
+        {"name":"Derek Warriner","party":"D","votes":19017}
+      ]
+    },
+    {
+      "id": "nc-house-069",
+      "category": "nc-house",
+      "title": "NC House District 69",
+      "district": 69,
+      "contest": "NC HOUSE OF REPRESENTATIVES DISTRICT 069",
+      "area": "Union County",
+      "statewide": false,
+      "candidates": [
+        {"name":"Dean Arp","party":"R","votes":20575},
+        {"name":"Heidi Sinsley","party":"D","votes":17920}
+      ]
+    },
+    {
+      "id": "nc-house-070",
+      "category": "nc-house",
+      "title": "NC House District 70",
+      "district": 70,
+      "contest": "NC HOUSE OF REPRESENTATIVES DISTRICT 070",
+      "area": "Randolph County",
+      "statewide": false,
+      "candidates": [
+        {"name":"Brian Biggs","party":"R","votes":18928},
+        {"name":"William (Bill) McCaskill","party":"D","votes":9291}
+      ]
+    },
+    {
+      "id": "nc-house-071",
+      "category": "nc-house",
+      "title": "NC House District 71",
+      "district": 71,
+      "contest": "NC HOUSE OF REPRESENTATIVES DISTRICT 071",
+      "area": "Forsyth County",
+      "statewide": false,
+      "candidates": [
+        {"name":"Kanika Brown","party":"D","votes":25156},
+        {"name":"Mathew Mena","party":"G","votes":3410}
+      ]
+    },
+    {
+      "id": "nc-house-072",
+      "category": "nc-house",
+      "title": "NC House District 72",
+      "district": 72,
+      "contest": "NC HOUSE OF REPRESENTATIVES DISTRICT 072",
+      "area": "Forsyth County",
+      "statewide": false,
+      "candidates": [
+        {"name":"Amber M. Baker","party":"D","votes":24655}
+      ]
+    },
+    {
+      "id": "nc-house-073",
+      "category": "nc-house",
+      "title": "NC House District 73",
+      "district": 73,
+      "contest": "NC HOUSE OF REPRESENTATIVES DISTRICT 073",
+      "area": "Cabarrus County",
+      "statewide": false,
+      "candidates": [
+        {"name":"Thomas J. Monks","party":"D","votes":17333},
+        {"name":"Jonathan Almond","party":"R","votes":14884}
+      ]
+    },
+    {
+      "id": "nc-house-074",
+      "category": "nc-house",
+      "title": "NC House District 74",
+      "district": 74,
+      "contest": "NC HOUSE OF REPRESENTATIVES DISTRICT 074",
+      "area": "Forsyth County",
+      "statewide": false,
+      "candidates": [
+        {"name":"Amy Taylor North","party":"D","votes":23443},
+        {"name":"Jeff Zenger","party":"R","votes":17638}
+      ]
+    },
+    {
+      "id": "nc-house-075",
+      "category": "nc-house",
+      "title": "NC House District 75",
+      "district": 75,
+      "contest": "NC HOUSE OF REPRESENTATIVES DISTRICT 075",
+      "area": "Forsyth County",
+      "statewide": false,
+      "candidates": [
+        {"name":"Jen Wiles","party":"D","votes":18503},
+        {"name":"Donny C. Lambeth","party":"R","votes":15782}
+      ]
+    },
+    {
+      "id": "nc-house-076",
+      "category": "nc-house",
+      "title": "NC House District 76",
+      "district": 76,
+      "contest": "NC HOUSE OF REPRESENTATIVES DISTRICT 076",
+      "area": "Rowan County",
+      "statewide": false,
+      "candidates": [
+        {"name":"Greg Edds","party":"R","votes":16091},
+        {"name":"Scott Huffman","party":"D","votes":14166}
+      ]
+    },
+    {
+      "id": "nc-house-077",
+      "category": "nc-house",
+      "title": "NC House District 77",
+      "district": 77,
+      "contest": "NC HOUSE OF REPRESENTATIVES DISTRICT 077",
+      "area": "3 counties",
+      "statewide": false,
+      "candidates": [
+        {"name":"Julia Howard","party":"R","votes":25470},
+        {"name":"Sabrina Harris","party":"D","votes":10511}
+      ]
+    },
+    {
+      "id": "nc-house-078",
+      "category": "nc-house",
+      "title": "NC House District 78",
+      "district": 78,
+      "contest": "NC HOUSE OF REPRESENTATIVES DISTRICT 078",
+      "area": "2 counties",
+      "statewide": false,
+      "candidates": [
+        {"name":"Neal Jackson","party":"R","votes":24521},
+        {"name":"Matt Holway","party":"D","votes":11430}
+      ]
+    },
+    {
+      "id": "nc-house-079",
+      "category": "nc-house",
+      "title": "NC House District 79",
+      "district": 79,
+      "contest": "NC HOUSE OF REPRESENTATIVES DISTRICT 079",
+      "area": "4 counties",
+      "statewide": false,
+      "candidates": [
+        {"name":"Darren Armstrong","party":"R","votes":26370}
+      ]
+    },
+    {
+      "id": "nc-house-080",
+      "category": "nc-house",
+      "title": "NC House District 80",
+      "district": 80,
+      "contest": "NC HOUSE OF REPRESENTATIVES DISTRICT 080",
+      "area": "Davidson County",
+      "statewide": false,
+      "candidates": [
+        {"name":"Sam Watford","party":"R","votes":19706},
+        {"name":"JacQuez Johnson","party":"D","votes":9272}
+      ]
+    },
+    {
+      "id": "nc-house-081",
+      "category": "nc-house",
+      "title": "NC House District 81",
+      "district": 81,
+      "contest": "NC HOUSE OF REPRESENTATIVES DISTRICT 081",
+      "area": "Davidson County",
+      "statewide": false,
+      "candidates": [
+        {"name":"Larry W. Potts","party":"R","votes":19943},
+        {"name":"Dylan R. Tucker","party":"D","votes":11521}
+      ]
+    },
+    {
+      "id": "nc-house-082",
+      "category": "nc-house",
+      "title": "NC House District 82",
+      "district": 82,
+      "contest": "NC HOUSE OF REPRESENTATIVES DISTRICT 082",
+      "area": "Cabarrus County",
+      "statewide": false,
+      "candidates": [
+        {"name":"Chris Bishopp","party":"D","votes":20956},
+        {"name":"Brian Echevarria","party":"R","votes":16481}
+      ]
+    },
+    {
+      "id": "nc-house-083",
+      "category": "nc-house",
+      "title": "NC House District 83",
+      "district": 83,
+      "contest": "NC HOUSE OF REPRESENTATIVES DISTRICT 083",
+      "area": "2 counties",
+      "statewide": false,
+      "candidates": [
+        {"name":"Grant Campbell","party":"R","votes":18240},
+        {"name":"Johnnie Jones","party":"D","votes":14126}
+      ]
+    },
+    {
+      "id": "nc-house-084",
+      "category": "nc-house",
+      "title": "NC House District 84",
+      "district": 84,
+      "contest": "NC HOUSE OF REPRESENTATIVES DISTRICT 084",
+      "area": "Iredell County",
+      "statewide": false,
+      "candidates": [
+        {"name":"Jeffrey C. McNeely","party":"R","votes":22235}
+      ]
+    },
+    {
+      "id": "nc-house-085",
+      "category": "nc-house",
+      "title": "NC House District 85",
+      "district": 85,
+      "contest": "NC HOUSE OF REPRESENTATIVES DISTRICT 085",
+      "area": "4 counties",
+      "statewide": false,
+      "candidates": [
+        {"name":"Dudley Greene","party":"R","votes":23012},
+        {"name":"Suzanne Gavenus","party":"D","votes":12416}
+      ]
+    },
+    {
+      "id": "nc-house-086",
+      "category": "nc-house",
+      "title": "NC House District 86",
+      "district": 86,
+      "contest": "NC HOUSE OF REPRESENTATIVES DISTRICT 086",
+      "area": "Burke County",
+      "statewide": false,
+      "candidates": [
+        {"name":"Hugh Blackwell","party":"R","votes":19007},
+        {"name":"Wesley E. Hendrix","party":"D","votes":10965}
+      ]
+    },
+    {
+      "id": "nc-house-087",
+      "category": "nc-house",
+      "title": "NC House District 87",
+      "district": 87,
+      "contest": "NC HOUSE OF REPRESENTATIVES DISTRICT 087",
+      "area": "2 counties",
+      "statewide": false,
+      "candidates": [
+        {"name":"Destin Hall","party":"R","votes":19635},
+        {"name":"Iris Bender","party":"D","votes":9834}
+      ]
+    },
+    {
+      "id": "nc-house-088",
+      "category": "nc-house",
+      "title": "NC House District 88",
+      "district": 88,
+      "contest": "NC HOUSE OF REPRESENTATIVES DISTRICT 088",
+      "area": "Mecklenburg County",
+      "statewide": false,
+      "candidates": [
+        {"name":"Mary Belk","party":"D","votes":23537},
+        {"name":"Ray Craig","party":"R","votes":6640}
+      ]
+    },
+    {
+      "id": "nc-house-089",
+      "category": "nc-house",
+      "title": "NC House District 89",
+      "district": 89,
+      "contest": "NC HOUSE OF REPRESENTATIVES DISTRICT 089",
+      "area": "2 counties",
+      "statewide": false,
+      "candidates": [
+        {"name":"Mitchell Smith Setzer","party":"R","votes":23905},
+        {"name":"Robert (Spider) Thompson","party":"D","votes":11488}
+      ]
+    },
+    {
+      "id": "nc-house-090",
+      "category": "nc-house",
+      "title": "NC House District 90",
+      "district": 90,
+      "contest": "NC HOUSE OF REPRESENTATIVES DISTRICT 090",
+      "area": "2 counties",
+      "statewide": false,
+      "candidates": [
+        {"name":"Dan Kiger","party":"R","votes":21120},
+        {"name":"Ken Badgett","party":"D","votes":8703}
+      ]
+    },
+    {
+      "id": "nc-house-091",
+      "category": "nc-house",
+      "title": "NC House District 91",
+      "district": 91,
+      "contest": "NC HOUSE OF REPRESENTATIVES DISTRICT 091",
+      "area": "2 counties",
+      "statewide": false,
+      "candidates": [
+        {"name":"Kyle Hall","party":"R","votes":18405},
+        {"name":"Lucille Puckett","party":"D","votes":12693}
+      ]
+    },
+    {
+      "id": "nc-house-092",
+      "category": "nc-house",
+      "title": "NC House District 92",
+      "district": 92,
+      "contest": "NC HOUSE OF REPRESENTATIVES DISTRICT 092",
+      "area": "Mecklenburg County",
+      "statewide": false,
+      "candidates": [
+        {"name":"Terry Brown","party":"D","votes":29574}
+      ]
+    },
+    {
+      "id": "nc-house-093",
+      "category": "nc-house",
+      "title": "NC House District 93",
+      "district": 93,
+      "contest": "NC HOUSE OF REPRESENTATIVES DISTRICT 093",
+      "area": "3 counties",
+      "statewide": false,
+      "candidates": [
+        {"name":"Charlie Wallin","party":"D","votes":18875},
+        {"name":"Ray Pickett","party":"R","votes":18647}
+      ]
+    },
+    {
+      "id": "nc-house-094",
+      "category": "nc-house",
+      "title": "NC House District 94",
+      "district": 94,
+      "contest": "NC HOUSE OF REPRESENTATIVES DISTRICT 094",
+      "area": "2 counties",
+      "statewide": false,
+      "candidates": [
+        {"name":"Blair Eddins","party":"R","votes":22432},
+        {"name":"Andy Warren","party":"D","votes":8479}
+      ]
+    },
+    {
+      "id": "nc-house-095",
+      "category": "nc-house",
+      "title": "NC House District 95",
+      "district": 95,
+      "contest": "NC HOUSE OF REPRESENTATIVES DISTRICT 095",
+      "area": "Iredell County",
+      "statewide": false,
+      "candidates": [
+        {"name":"Richard (Todd) Carver","party":"R","votes":19963},
+        {"name":"Michael Robinson","party":"D","votes":15767}
+      ]
+    },
+    {
+      "id": "nc-house-096",
+      "category": "nc-house",
+      "title": "NC House District 96",
+      "district": 96,
+      "contest": "NC HOUSE OF REPRESENTATIVES DISTRICT 096",
+      "area": "Catawba County",
+      "statewide": false,
+      "candidates": [
+        {"name":"Jay Adams","party":"R","votes":17288},
+        {"name":"Park Inglefield","party":"D","votes":14351}
+      ]
+    },
+    {
+      "id": "nc-house-097",
+      "category": "nc-house",
+      "title": "NC House District 97",
+      "district": 97,
+      "contest": "NC HOUSE OF REPRESENTATIVES DISTRICT 097",
+      "area": "Lincoln County",
+      "statewide": false,
+      "candidates": [
+        {"name":"Heather Rhyne","party":"R","votes":25490},
+        {"name":"Greg McBryde","party":"D","votes":12545}
+      ]
+    },
+    {
+      "id": "nc-house-098",
+      "category": "nc-house",
+      "title": "NC House District 98",
+      "district": 98,
+      "contest": "NC HOUSE OF REPRESENTATIVES DISTRICT 098",
+      "area": "Mecklenburg County",
+      "statewide": false,
+      "candidates": [
+        {"name":"Beth Helfrich","party":"D","votes":23447},
+        {"name":"John Rhodes","party":"R","votes":15589}
+      ]
+    },
+    {
+      "id": "nc-house-099",
+      "category": "nc-house",
+      "title": "NC House District 99",
+      "district": 99,
+      "contest": "NC HOUSE OF REPRESENTATIVES DISTRICT 099",
+      "area": "Mecklenburg County",
+      "statewide": false,
+      "candidates": [
+        {"name":"Veleria M. Levy","party":"D","votes":23971}
+      ]
+    },
+    {
+      "id": "nc-house-100",
+      "category": "nc-house",
+      "title": "NC House District 100",
+      "district": 100,
+      "contest": "NC HOUSE OF REPRESENTATIVES DISTRICT 100",
+      "area": "Mecklenburg County",
+      "statewide": false,
+      "candidates": [
+        {"name":"Julia Greenfield","party":"D","votes":22364}
+      ]
+    },
+    {
+      "id": "nc-house-101",
+      "category": "nc-house",
+      "title": "NC House District 101",
+      "district": 101,
+      "contest": "NC HOUSE OF REPRESENTATIVES DISTRICT 101",
+      "area": "Mecklenburg County",
+      "statewide": false,
+      "candidates": [
+        {"name":"Carolyn G. Logan","party":"D","votes":27021}
+      ]
+    },
+    {
+      "id": "nc-house-102",
+      "category": "nc-house",
+      "title": "NC House District 102",
+      "district": 102,
+      "contest": "NC HOUSE OF REPRESENTATIVES DISTRICT 102",
+      "area": "Mecklenburg County",
+      "statewide": false,
+      "candidates": [
+        {"name":"Becky Carney","party":"D","votes":31920}
+      ]
+    },
+    {
+      "id": "nc-house-103",
+      "category": "nc-house",
+      "title": "NC House District 103",
+      "district": 103,
+      "contest": "NC HOUSE OF REPRESENTATIVES DISTRICT 103",
+      "area": "Mecklenburg County",
+      "statewide": false,
+      "candidates": [
+        {"name":"Laura Budd","party":"D","votes":25645}
+      ]
+    },
+    {
+      "id": "nc-house-104",
+      "category": "nc-house",
+      "title": "NC House District 104",
+      "district": 104,
+      "contest": "NC HOUSE OF REPRESENTATIVES DISTRICT 104",
+      "area": "Mecklenburg County",
+      "statewide": false,
+      "candidates": [
+        {"name":"Brandon Lofton","party":"D","votes":24901},
+        {"name":"Trina Boyd","party":"R","votes":13432}
+      ]
+    },
+    {
+      "id": "nc-house-105",
+      "category": "nc-house",
+      "title": "NC House District 105",
+      "district": 105,
+      "contest": "NC HOUSE OF REPRESENTATIVES DISTRICT 105",
+      "area": "Mecklenburg County",
+      "statewide": false,
+      "candidates": [
+        {"name":"Ken McCool","party":"D","votes":24608},
+        {"name":"Tricia Ann Cotham","party":"R","votes":18479}
+      ]
+    },
+    {
+      "id": "nc-house-106",
+      "category": "nc-house",
+      "title": "NC House District 106",
+      "district": 106,
+      "contest": "NC HOUSE OF REPRESENTATIVES DISTRICT 106",
+      "area": "Mecklenburg County",
+      "statewide": false,
+      "candidates": [
+        {"name":"Rodney Sadler","party":"D","votes":33231}
+      ]
+    },
+    {
+      "id": "nc-house-107",
+      "category": "nc-house",
+      "title": "NC House District 107",
+      "district": 107,
+      "contest": "NC HOUSE OF REPRESENTATIVES DISTRICT 107",
+      "area": "Mecklenburg County",
+      "statewide": false,
+      "candidates": [
+        {"name":"Aisha O. Dew","party":"D","votes":29696}
+      ]
+    },
+    {
+      "id": "nc-house-108",
+      "category": "nc-house",
+      "title": "NC House District 108",
+      "district": 108,
+      "contest": "NC HOUSE OF REPRESENTATIVES DISTRICT 108",
+      "area": "Gaston County",
+      "statewide": false,
+      "candidates": [
+        {"name":"John A. Torbett","party":"R","votes":16794},
+        {"name":"Sydnie Hutchinson","party":"D","votes":14304}
+      ]
+    },
+    {
+      "id": "nc-house-109",
+      "category": "nc-house",
+      "title": "NC House District 109",
+      "district": 109,
+      "contest": "NC HOUSE OF REPRESENTATIVES DISTRICT 109",
+      "area": "Gaston County",
+      "statewide": false,
+      "candidates": [
+        {"name":"Mark D. Carver","party":"D","votes":18775},
+        {"name":"Donnie Loftis","party":"R","votes":17598}
+      ]
+    },
+    {
+      "id": "nc-house-110",
+      "category": "nc-house",
+      "title": "NC House District 110",
+      "district": 110,
+      "contest": "NC HOUSE OF REPRESENTATIVES DISTRICT 110",
+      "area": "2 counties",
+      "statewide": false,
+      "candidates": [
+        {"name":"Caroline Eason","party":"R","votes":16704},
+        {"name":"Mary Silver","party":"D","votes":12081}
+      ]
+    },
+    {
+      "id": "nc-house-111",
+      "category": "nc-house",
+      "title": "NC House District 111",
+      "district": 111,
+      "contest": "NC HOUSE OF REPRESENTATIVES DISTRICT 111",
+      "area": "2 counties",
+      "statewide": false,
+      "candidates": [
+        {"name":"Paul Scott","party":"R","votes":18619},
+        {"name":"Jerry Blake","party":"D","votes":9598}
+      ]
+    },
+    {
+      "id": "nc-house-112",
+      "category": "nc-house",
+      "title": "NC House District 112",
+      "district": 112,
+      "contest": "NC HOUSE OF REPRESENTATIVES DISTRICT 112",
+      "area": "Mecklenburg County",
+      "statewide": false,
+      "candidates": [
+        {"name":"Jordan Lopez","party":"D","votes":26324}
+      ]
+    },
+    {
+      "id": "nc-house-113",
+      "category": "nc-house",
+      "title": "NC House District 113",
+      "district": 113,
+      "contest": "NC HOUSE OF REPRESENTATIVES DISTRICT 113",
+      "area": "4 counties",
+      "statewide": false,
+      "candidates": [
+        {"name":"Jake Johnson","party":"R","votes":23090},
+        {"name":"John Morgan","party":"D","votes":16343}
+      ]
+    },
+    {
+      "id": "nc-house-114",
+      "category": "nc-house",
+      "title": "NC House District 114",
+      "district": 114,
+      "contest": "NC HOUSE OF REPRESENTATIVES DISTRICT 114",
+      "area": "Buncombe County",
+      "statewide": false,
+      "candidates": [
+        {"name":"Eric Ager","party":"D","votes":32833}
+      ]
+    },
+    {
+      "id": "nc-house-115",
+      "category": "nc-house",
+      "title": "NC House District 115",
+      "district": 115,
+      "contest": "NC HOUSE OF REPRESENTATIVES DISTRICT 115",
+      "area": "Buncombe County",
+      "statewide": false,
+      "candidates": [
+        {"name":"Lindsey Prather","party":"D","votes":24407},
+        {"name":"Anthony J. Penland","party":"R","votes":16236}
+      ]
+    },
+    {
+      "id": "nc-house-116",
+      "category": "nc-house",
+      "title": "NC House District 116",
+      "district": 116,
+      "contest": "NC HOUSE OF REPRESENTATIVES DISTRICT 116",
+      "area": "Buncombe County",
+      "statewide": false,
+      "candidates": [
+        {"name":"Brian Turner","party":"D","votes":38732}
+      ]
+    },
+    {
+      "id": "nc-house-117",
+      "category": "nc-house",
+      "title": "NC House District 117",
+      "district": 117,
+      "contest": "NC HOUSE OF REPRESENTATIVES DISTRICT 117",
+      "area": "Henderson County",
+      "statewide": false,
+      "candidates": [
+        {"name":"Lynne Russo","party":"D","votes":22710},
+        {"name":"Chelsea Walsh","party":"R","votes":21180}
+      ]
+    },
+    {
+      "id": "nc-house-118",
+      "category": "nc-house",
+      "title": "NC House District 118",
+      "district": 118,
+      "contest": "NC HOUSE OF REPRESENTATIVES DISTRICT 118",
+      "area": "2 counties",
+      "statewide": false,
+      "candidates": [
+        {"name":"James M. (Jimmy) Rogers","party":"R","votes":19525},
+        {"name":"Danny E. Davis","party":"D","votes":18920}
+      ]
+    },
+    {
+      "id": "nc-house-119",
+      "category": "nc-house",
+      "title": "NC House District 119",
+      "district": 119,
+      "contest": "NC HOUSE OF REPRESENTATIVES DISTRICT 119",
+      "area": "3 counties",
+      "statewide": false,
+      "candidates": [
+        {"name":"Mark Burrows","party":"D","votes":19523},
+        {"name":"Anna Ferguson","party":"R","votes":17726}
+      ]
+    },
+    {
+      "id": "nc-house-120",
+      "category": "nc-house",
+      "title": "NC House District 120",
+      "district": 120,
+      "contest": "NC HOUSE OF REPRESENTATIVES DISTRICT 120",
+      "area": "4 counties",
+      "statewide": false,
+      "candidates": [
+        {"name":"Karl Gillespie","party":"R","votes":25619},
+        {"name":"Caleb Brown","party":"D","votes":12120}
       ]
     }
   ]

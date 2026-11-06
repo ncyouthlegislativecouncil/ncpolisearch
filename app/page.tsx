@@ -59,11 +59,11 @@ export default async function Home() {
           <div className="mt-6 rounded-md border border-white/10 bg-white/[0.06] px-4 py-2 font-mono text-xs text-skyblue">
             Tracking{" "}
             <span className="font-semibold text-[#4ac4a0]">
-              {stats.totalBills.toLocaleString()}
+              {stats.totalBills.toLocaleString("en-US")}
             </span>{" "}
             bills &nbsp;·&nbsp;{" "}
             <span className="font-semibold text-[#4ac4a0]">
-              {stats.introduced.toLocaleString()}
+              {stats.introduced.toLocaleString("en-US")}
             </span>{" "}
             introduced &nbsp;·&nbsp; 2025–2026 session
           </div>
@@ -136,7 +136,7 @@ export default async function Home() {
             href="/bills"
             className="inline-flex items-center gap-2 rounded-md bg-navy px-6 py-3 text-sm font-semibold text-white transition-all hover:bg-navylight"
           >
-            View All {stats.totalBills.toLocaleString()} Bills →
+            View All {stats.totalBills.toLocaleString("en-US")} Bills →
           </Link>
         </div>
       </section>

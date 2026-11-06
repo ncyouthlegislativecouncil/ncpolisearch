@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 import Link from "next/link";
 import InteractiveBallot from "../../components/ballot/InteractiveBallot";
-import { CURRENT_ELECTION } from "../../lib/elections";
+import { CURRENT_ELECTION, amendmentVotes } from "../../lib/elections";
 import { electionResults } from "../../lib/data/store";
 
 export const metadata: Metadata = {
@@ -46,7 +46,7 @@ export default function BallotPage() {
             amendment to slide the ballot aside and reveal its result and full
             breakdown. */}
         <div>
-          <InteractiveBallot votes={results?.amendments ?? []} certified={certified} />
+          <InteractiveBallot votes={amendmentVotes(results)} certified={certified} />
         </div>
 
         {/* BOTTOM CTA — gold card. */}
