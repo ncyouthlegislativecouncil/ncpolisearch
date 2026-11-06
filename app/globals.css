@@ -90,6 +90,9 @@ body {
 /* Leaflet district map — tooltip + base font to match the site. */
 .leaflet-container {
   font-family: var(--font-ibm-plex-sans), system-ui, sans-serif;
+  /* Keep Leaflet's high z-indexes inside the map so it never draws over the
+     sticky site header. */
+  isolation: isolate;
 }
 
 .district-tip.leaflet-tooltip {
@@ -153,4 +156,29 @@ body {
 
 .leaflet-control-zoom a:first-child {
   border-bottom: 1px solid #e5e7eb;
+}
+
+/* Printing (the race reports at /results/<race>/report): letter paper, keep
+   the map and party colors, white background. */
+@media print {
+  @page {
+    size: letter;
+    margin: 0.5in;
+  }
+  html,
+  body {
+    background: #ffffff !important;
+  }
+  * {
+    -webkit-print-color-adjust: exact;
+    print-color-adjust: exact;
+  }
+  .leaflet-precincts-pane {
+    filter: none;
+  }
+  /* Never print mid-way through the page fade-in. */
+  .page-transition {
+    opacity: 1 !important;
+    transform: none !important;
+  }
 }

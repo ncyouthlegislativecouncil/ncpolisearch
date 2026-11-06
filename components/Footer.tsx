@@ -9,7 +9,7 @@ const QUICK_LINKS = [
 
 export default function Footer() {
   return (
-    <footer className="mt-16 bg-navy text-white">
+    <footer className="mt-16 bg-navy text-white print:hidden">
       {/* Gold hairline across the top — governmental accent. */}
       <div className="h-1 w-full bg-gradient-to-r from-gold via-goldlight to-gold" />
 

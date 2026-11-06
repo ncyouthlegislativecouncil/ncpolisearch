@@ -37,7 +37,7 @@ export default function Navbar() {
   }, [pathname]);
 
   return (
-    <header className="sticky top-0 z-50 bg-navy text-white">
+    <header className="sticky top-0 z-50 bg-navy text-white print:hidden">
       <nav className="mx-auto flex max-w-[1600px] items-center justify-between px-6 py-3">
         <Link href="/" className="flex items-center gap-3" onClick={() => setOpen(false)}>
           <span className="flex h-9 w-9 items-center justify-center rounded-md bg-badge font-mono text-sm font-bold text-navy">

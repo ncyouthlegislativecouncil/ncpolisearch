@@ -2,100 +2,51 @@ import type { Metadata } from "next";
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import { Suspense } from "react";
-import { existsSync, readFileSync } from "fs";
-import { join } from "path";
 import RaceCard, { partyColor } from "../../../components/results/RaceCard";
-import PrecinctExplorer, { type PrecinctRow } from "../../../components/results/PrecinctExplorer";
+import PrecinctExplorer from "../../../components/results/PrecinctExplorer";
 import TurnoutCard from "../../../components/results/TurnoutCard";
-import { raceTurnout, statewideTurnout } from "../../../lib/turnout";
-import { CURRENT_ELECTION, raceView } from "../../../lib/elections";
-import { electionResults } from "../../../lib/data/store";
-import { METHODS, type MethodVotes, type RacePrecincts } from "../../../lib/precincts";
+import { legislativeRaceIds, loadRaceData } from "../../../lib/race-data";
 
 // One page per NC House / NC Senate race, pre-built at deploy time.
 export function generateStaticParams() {
-  const results = electionResults(CURRENT_ELECTION);
-  return (results?.races ?? [])
-    .filter((r) => r.category === "nc-house" || r.category === "nc-senate")
-    .map((r) => ({ raceId: r.id }));
+  return legislativeRaceIds().map((raceId) => ({ raceId }));
 }
 
 export const dynamicParams = false;
 
-function loadRace(raceId: string) {
-  const race = electionResults(CURRENT_ELECTION)?.races.find((r) => r.id === raceId);
-  if (!race || (race.category !== "nc-house" && race.category !== "nc-senate")) return null;
-  const votesFile = join(process.cwd(), "public", "elections", "2026-general", `${raceId}.json`);
-  const mapFile = join(process.cwd(), "public", "maps", "precincts", `${raceId}.geojson`);
-  if (!existsSync(votesFile)) return null;
-  const precincts = JSON.parse(readFileSync(votesFile, "utf8")) as RacePrecincts;
-  const names = new Map<string, string>();
-  if (existsSync(mapFile)) {
-    const map = JSON.parse(readFileSync(mapFile, "utf8"));
-    for (const f of Array.isArray(map.features) ? map.features : []) names.set(f.properties.key, f.properties.name);
-  }
-  return { race, precincts, names };
-}
-
 export function generateMetadata({ params }: { params: { raceId: string } }): Metadata {
-  const loaded = loadRace(params.raceId);
-  if (!loaded) return { title: "Race not found — NCPoliSearch" };
+  const d = loadRaceData(params.raceId);
+  if (!d) return { title: "Race not found — NCPoliSearch" };
   return {
-    title: `${loaded.race.title} precinct results — NCPoliSearch`,
-    description: `Precinct-by-precinct 2026 general election results for ${loaded.race.title}, with early voting, Election Day, and mail breakdowns.`,
+    title: `${d.race.title} precinct results — NCPoliSearch`,
+    description: `Precinct-by-precinct 2026 general election results for ${d.race.title}, with early voting, Election Day, and mail breakdowns.`,
   };
 }
 
-const sum4 = (v: MethodVotes) => v[0] + v[1] + v[2] + v[3];
-
 export default function RacePrecinctPage({ params }: { params: { raceId: string } }) {
-  const loaded = loadRace(params.raceId);
-  if (!loaded) notFound();
-  const { race, precincts, names } = loaded;
-  const view = raceView(race);
-  const cands = precincts.candidates;
-
-  // Votes by method across every row (precincts plus early-voting sites,
-  // absentee, provisional, and transfer tallies), per candidate.
-  const allRows = [...precincts.precincts, ...precincts.other];
-  const byMethod = METHODS.map((label, m) => {
-    const votes = cands.map((_, i) => allRows.reduce((n, r) => n + r.votes[i][m], 0));
-    return { label, votes, total: votes.reduce((a, b) => a + b, 0) };
-  }).filter((m) => m.total > 0);
-  const grandTotal = byMethod.reduce((n, m) => n + m.total, 0);
-
-  const rows: PrecinctRow[] = precincts.precincts.map((p) => ({
-    key: p.key,
-    name: names.get(p.key) ?? `Precinct ${p.precinct}`,
-    county: p.county.charAt(0) + p.county.slice(1).toLowerCase(),
-    onMap: names.has(p.key),
-    votes: p.votes,
-  }));
-  const offMapVotes =
-    precincts.other.reduce((n, r) => n + r.votes.reduce((a, v) => a + sum4(v), 0), 0) +
-    precincts.precincts.filter((p) => !names.has(p.key)).reduce((n, r) => n + r.votes.reduce((a, v) => a + sum4(v), 0), 0);
-  const offMapPct = grandTotal > 0 ? (100 * offMapVotes) / grandTotal : 0;
-
-  const senate = electionResults(CURRENT_ELECTION)?.races.find((r) => r.id === "us-senate");
-  const statewide = statewideTurnout(senate ? senate.candidates.reduce((n, c) => n + c.votes, 0) : 0);
-  const raceVotes = race.candidates.reduce((n, c) => n + c.votes, 0);
-
-  // "Baltutis led early voting by 9.0 pts; Moffitt led Election Day by 7.2 pts."
-  const methodSummary = byMethod
-    .filter((m) => m.label !== "Provisional")
-    .map((m) => {
-      const order = m.votes.map((v, i) => ({ v, i })).sort((a, b) => b.v - a.v);
-      const margin = order.length > 1 ? (100 * (order[0].v - order[1].v)) / m.total : 100;
-      return `${cands[order[0].i].name.split(" ").slice(-1)[0]} led ${m.label.toLowerCase()} by ${margin.toFixed(1)} pts`;
-    })
-    .join("; ");
+  const d = loadRaceData(params.raceId);
+  if (!d) notFound();
+  const { race, view, cands, byMethod, grandTotal, rows, offMapPct, statewide, raceVotes, turnout, methodSummary, certified } = d;
 
   return (
     <main className="bg-pagebg">
       <div className="mx-auto max-w-[1400px] px-4 py-6 sm:px-6">
-        <Link href="/results" className="text-sm text-navylight hover:text-skyblue">
-          ← All results
-        </Link>
+        <div className="flex flex-wrap items-center justify-between gap-2">
+          <Link href="/results" className="text-sm text-navylight hover:text-skyblue">
+            ← All results
+          </Link>
+          <a
+            href={`/results/${race.id}/report?print=1`}
+            target="_blank"
+            rel="noopener"
+            className="inline-flex items-center gap-2 rounded-full border border-navy bg-white px-4 py-1.5 text-sm font-semibold text-navy transition-colors hover:bg-navy hover:text-white"
+          >
+            <svg viewBox="0 0 24 24" className="h-4 w-4" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" aria-hidden="true">
+              <path d="M12 3v12m0 0-4-4m4 4 4-4M5 21h14" />
+            </svg>
+            Download PDF report
+          </a>
+        </div>
 
         <div className="mt-3 grid gap-4 md:grid-cols-2 xl:grid-cols-3">
           <div>
@@ -104,7 +55,7 @@ export default function RacePrecinctPage({ params }: { params: { raceId: string 
 
           <TurnoutCard
             votes={raceVotes}
-            turnout={raceTurnout(race.id)}
+            turnout={turnout}
             statewide={statewide}
             unopposed={view.status === "unopposed"}
           />
@@ -161,7 +112,7 @@ export default function RacePrecinctPage({ params }: { params: { raceId: string 
 
         <p className="mx-auto mt-8 max-w-3xl text-center text-xs italic leading-relaxed text-gray-500">
           Precinct results from the NC State Board of Elections
-          {electionResults(CURRENT_ELECTION)?.certified ? "" : ", unofficial until certified"}. Precinct boundaries
+          {certified ? "" : ", unofficial until certified"}. Precinct boundaries
           from the State Board&apos;s July 2024 precinct file, trimmed to the district line where a precinct is split
           between districts. Shading shows who led each precinct and by how many points. Registered voters from
           the State Board&apos;s Election Day voter counts; for a precinct split between districts, they&apos;re shared

@@ -5,6 +5,7 @@ import dynamic from "next/dynamic";
 import { useSearchParams } from "next/navigation";
 import type { MethodVotes } from "../../lib/precincts";
 import { partyColor } from "./RaceCard";
+import { NO_VOTES, SHADES, shadeOf, tallyVotes } from "../../lib/precinct-shade";
 
 const PrecinctMap = dynamic(() => import("./PrecinctMap"), {
   ssr: false,
@@ -21,14 +22,6 @@ export type PrecinctRow = {
 
 type Mode = "all" | "ed";
 type SortKey = "name" | "margin" | "total";
-
-// Shades by who leads the precinct and by how much (percentage points).
-const SHADES: Record<string, string[]> = {
-  D: ["#dbeafe", "#93c5fd", "#3b82f6", "#1d4ed8"],
-  R: ["#fee2e2", "#fca5a5", "#ef4444", "#b91c1c"],
-  other: ["#e5e7eb", "#c4c6d8", "#9a9dc4", "#7a7eb8"],
-};
-const BIN_EDGES = [5, 15, 30]; // < 5, 5–15, 15–30, 30+
 
 const sumVotes = (v: MethodVotes) => v[0] + v[1] + v[2] + v[3];
 const lastName = (name: string) => name.split(" ").slice(-1)[0];
@@ -54,14 +47,7 @@ export default function PrecinctExplorer({
   const rowEls = useRef(new Map<string, HTMLTableRowElement>());
 
   const tally = useCallback(
-    (row: PrecinctRow) => {
-      const votes = row.votes.map((v) => (mode === "all" ? sumVotes(v) : v[0]));
-      const total = votes.reduce((a, b) => a + b, 0);
-      const order = votes.map((v, i) => ({ v, i })).sort((a, b) => b.v - a.v);
-      const lead = order[0];
-      const margin = total > 0 && order.length > 1 ? (100 * (order[0].v - order[1].v)) / total : total > 0 ? 100 : 0;
-      return { votes, total, leader: total > 0 ? lead.i : -1, margin };
-    },
+    (row: PrecinctRow) => tallyVotes(row.votes.map((v) => (mode === "all" ? sumVotes(v) : v[0]))),
     [mode]
   );
 
@@ -70,13 +56,7 @@ export default function PrecinctExplorer({
   const shadeFor = useCallback(
     (key: string) => {
       const row = byKey.get(key);
-      if (!row) return "#f3f4f6";
-      const t = tally(row);
-      if (t.leader < 0) return "#f3f4f6";
-      const party = candidates[t.leader].party;
-      const ramp = SHADES[party === "D" || party === "R" ? party : "other"];
-      const bin = BIN_EDGES.filter((e) => t.margin >= e).length;
-      return ramp[bin];
+      return row ? shadeOf(tally(row), candidates) : NO_VOTES;
     },
     [byKey, tally, candidates]
   );
