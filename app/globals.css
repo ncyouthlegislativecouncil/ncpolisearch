@@ -118,6 +118,15 @@ body {
   filter: drop-shadow(0 6px 14px rgba(26, 31, 143, 0.18));
 }
 
+/* Clicking a map shape shouldn't leave the browser's focus box around it. */
+.leaflet-container path:focus {
+  outline: none;
+}
+
+.leaflet-precincts-pane {
+  filter: drop-shadow(0 4px 10px rgba(26, 31, 143, 0.16));
+}
+
 /* Round and tint the zoom controls to match the site chrome. */
 .leaflet-control-zoom {
   border: none !important;

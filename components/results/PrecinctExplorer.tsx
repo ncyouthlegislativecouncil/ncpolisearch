@@ -110,7 +110,7 @@ export default function PrecinctExplorer({
             shadeFor={shadeFor}
             selectedKey={picked}
             onPick={setPicked}
-            version={`${mode}|${picked ?? ""}`}
+            version={mode}
           />
         </div>
 

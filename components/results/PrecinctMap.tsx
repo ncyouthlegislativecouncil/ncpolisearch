@@ -1,12 +1,10 @@
 "use client";
 
 import { useEffect, useMemo, useState } from "react";
-import { GeoJSON, MapContainer, useMap } from "react-leaflet";
+import { GeoJSON, MapContainer, Pane, useMap } from "react-leaflet";
 import type { Feature, FeatureCollection } from "geojson";
 import L from "leaflet";
 import "leaflet/dist/leaflet.css";
-
-export type PrecinctShade = { fill: string; label: string };
 
 function FitBounds({ data }: { data: FeatureCollection }) {
   const map = useMap();
@@ -25,9 +23,16 @@ function FitBounds({ data }: { data: FeatureCollection }) {
   return null;
 }
 
+// Outline for the selected precinct: a white halo under a navy line, so it
+// stands out on both dark and light fills.
+const HALO: L.PathOptions = { color: "#ffffff", weight: 6, opacity: 1, fill: false, lineJoin: "round" };
+const LINE: L.PathOptions = { color: "#0b0b45", weight: 2.5, opacity: 1, fill: false, lineJoin: "round" };
+
 // The district's precincts, each filled by `shadeFor(key)`. Hovering or
-// tapping a precinct reports it through onPick; `selectedKey` gets a heavy
-// outline. No basemap tiles — just the shapes.
+// tapping a precinct reports it through onPick. No basemap tiles — just the
+// shapes. The selected precinct's outline is drawn on its own layer above all
+// the precincts; drawn on the precinct itself, its neighbors would paint over
+// half of the line on the sides they share.
 export default function PrecinctMap({
   url,
   shadeFor,
@@ -39,7 +44,7 @@ export default function PrecinctMap({
   shadeFor: (key: string) => string;
   selectedKey: string | null;
   onPick: (key: string) => void;
-  version: string; // changes when shading or selection changes, to re-style
+  version: string; // changes when the shading changes, to re-style
 }) {
   const [data, setData] = useState<FeatureCollection | null>(null);
   const [failed, setFailed] = useState(false);
@@ -52,18 +57,22 @@ export default function PrecinctMap({
   }, [url]);
 
   const style = useMemo(
-    () => (feature?: Feature): L.PathOptions => {
-      const key = String(feature?.properties?.key ?? "");
-      const selected = key === selectedKey;
-      return {
-        fillColor: shadeFor(key),
-        fillOpacity: 1,
-        color: selected ? "#0b0b45" : "#ffffff",
-        weight: selected ? 3 : 1,
-      };
-    },
-    [shadeFor, selectedKey]
+    () => (feature?: Feature): L.PathOptions => ({
+      fillColor: shadeFor(String(feature?.properties?.key ?? "")),
+      fillOpacity: 1,
+      color: "#ffffff",
+      weight: 0.8,
+      opacity: 1,
+      lineJoin: "round",
+    }),
+    [shadeFor]
   );
+
+  const selected = useMemo<FeatureCollection | null>(() => {
+    if (!data || !selectedKey || !Array.isArray(data.features)) return null;
+    const features = data.features.filter((f) => f.properties?.key === selectedKey);
+    return features.length ? { type: "FeatureCollection", features } : null;
+  }, [data, selectedKey]);
 
   if (failed) return <p className="p-6 text-center text-sm text-navymuted">The precinct map couldn&apos;t load.</p>;
   if (!data) return <div className="h-full w-full animate-pulse rounded bg-gray-100" />;
@@ -87,15 +96,27 @@ export default function PrecinctMap({
       attributionControl={false}
     >
       <FitBounds data={data} />
-      <GeoJSON
-        key={version}
-        data={data}
-        style={style}
-        onEachFeature={(feature, layer) => {
-          const key = String(feature.properties?.key ?? "");
-          layer.on({ mouseover: () => onPick(key), click: () => onPick(key) });
-        }}
-      />
+      {/* Precincts sit in their own pane with a soft drop-shadow (see
+          .leaflet-precincts-pane in globals.css). */}
+      <Pane name="precincts" style={{ zIndex: 400 }}>
+        <GeoJSON
+          key={version}
+          data={data}
+          style={style}
+          onEachFeature={(feature, layer) => {
+            const key = String(feature.properties?.key ?? "");
+            layer.on({ mouseover: () => onPick(key), click: () => onPick(key) });
+          }}
+        />
+      </Pane>
+      <Pane name="precinct-highlight" style={{ zIndex: 450, pointerEvents: "none" }}>
+        {selected && (
+          <>
+            <GeoJSON key={`halo-${selectedKey}`} data={selected} style={() => HALO} interactive={false} />
+            <GeoJSON key={`line-${selectedKey}`} data={selected} style={() => LINE} interactive={false} />
+          </>
+        )}
+      </Pane>
     </MapContainer>
   );
 }

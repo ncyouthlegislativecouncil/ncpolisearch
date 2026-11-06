@@ -1,6 +1,6 @@
 "use client";
 
-import { useEffect, useRef } from "react";
+import { useEffect, useMemo, useRef, useState } from "react";
 import { MapContainer, GeoJSON, Pane } from "react-leaflet";
 import type {
   Feature,
@@ -47,6 +47,14 @@ function districtOf(feature: Feature | undefined): number | null {
   return Number.isFinite(n) ? n : null;
 }
 
+// Outlines for the selected and hovered districts are drawn on their own layer
+// above every district. Drawn on the district itself, its neighbors paint over
+// half of the line on the sides they share, so it looks thick on some edges
+// and thin on others.
+const HALO: L.PathOptions = { color: "#ffffff", weight: 6, opacity: 1, fill: false, lineJoin: "round" };
+const SELECTED_LINE: L.PathOptions = { color: NAVY, weight: 2.5, opacity: 1, fill: false, lineJoin: "round" };
+const HOVER_LINE: L.PathOptions = { color: NAVY, weight: 2, opacity: 1, fill: false, lineJoin: "round" };
+
 const OUTLINE_STYLE: L.PathOptions = {
   fillColor: "#ffffff",
   fillOpacity: 1,
@@ -78,6 +86,17 @@ export default function DistrictMap({
   // Tracks the district currently showing the hover highlight so we can clear it
   // even when its own mouseout event is missed (see onEachFeature).
   const hoveredRef = useRef<L.Path | null>(null);
+  const [hovered, setHovered] = useState<number | null>(null);
+
+  const outlineOf = (d: number | null): FeatureCollection | null => {
+    if (d == null || !geojson) return null;
+    const features = geojson.features.filter((f) => districtOf(f) === d);
+    return features.length ? { type: "FeatureCollection", features } : null;
+  };
+  // eslint-disable-next-line react-hooks/exhaustive-deps
+  const selectedShape = useMemo(() => outlineOf(selectedDistrict), [geojson, selectedDistrict]);
+  // eslint-disable-next-line react-hooks/exhaustive-deps
+  const hoveredShape = useMemo(() => (hovered === selectedDistrict ? null : outlineOf(hovered)), [geojson, hovered, selectedDistrict]);
 
   const styleFn = (feature?: Feature<Geometry, GeoJsonProperties>): L.PathOptions => {
     const d = districtOf(feature);
@@ -86,9 +105,10 @@ export default function DistrictMap({
     return {
       fillColor: fillColor(party, selected),
       fillOpacity: selected ? 0.85 : 0.55,
-      color: borderColor(party, selected),
-      weight: selected ? 3 : 1.5,
-      opacity: selected ? 1 : 0.85,
+      color: borderColor(party, false),
+      weight: 1,
+      opacity: 0.7,
+      lineJoin: "round",
     };
   };
 
@@ -119,18 +139,15 @@ export default function DistrictMap({
         const prev = hoveredRef.current;
         if (prev && prev !== path) geoRef.current?.resetStyle(prev);
         hoveredRef.current = path;
+        setHovered(d);
         if (d === selectedRef.current) return;
-        path.setStyle({
-          fillColor: SELECTED,
-          fillOpacity: 0.7,
-          color: NAVY,
-          weight: 2,
-          opacity: 1,
-        });
-        path.bringToFront();
+        path.setStyle({ fillColor: SELECTED, fillOpacity: 0.7 });
       },
       mouseout: () => {
-        if (hoveredRef.current === path) hoveredRef.current = null;
+        if (hoveredRef.current === path) {
+          hoveredRef.current = null;
+          setHovered(null);
+        }
         if (d === selectedRef.current) return;
         geoRef.current?.resetStyle(path);
       },
@@ -170,6 +187,17 @@ export default function DistrictMap({
           onEachFeature={onEachFeature}
         />
       )}
+      <Pane name="district-highlight" style={{ zIndex: 450, pointerEvents: "none" }}>
+        {hoveredShape && (
+          <GeoJSON key={`hover-${chamber}-${hovered}`} data={hoveredShape} style={() => HOVER_LINE} interactive={false} />
+        )}
+        {selectedShape && (
+          <>
+            <GeoJSON key={`halo-${chamber}-${selectedDistrict}`} data={selectedShape} style={() => HALO} interactive={false} />
+            <GeoJSON key={`sel-${chamber}-${selectedDistrict}`} data={selectedShape} style={() => SELECTED_LINE} interactive={false} />
+          </>
+        )}
+      </Pane>
     </MapContainer>
   );
 }
