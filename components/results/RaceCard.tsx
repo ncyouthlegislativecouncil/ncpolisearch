@@ -133,7 +133,7 @@ export default function RaceCard({
         ))}
       </ul>
 
-      {(footer || race.flip || precinctLink) && (
+      {(footer || race.flip) && (
         <footer className="flex items-baseline justify-between gap-2 border-t border-gray-100 px-4 py-2.5 text-xs text-navymuted">
           <span>
             {race.flip && (
@@ -144,12 +144,21 @@ export default function RaceCard({
             )}
             {footer}
           </span>
-          {precinctLink && (
-            <Link href={`/results/${race.id}`} className="shrink-0 font-semibold text-navy hover:text-skyblue">
-              Precincts ›
-            </Link>
-          )}
         </footer>
+      )}
+
+      {precinctLink && (
+        <Link
+          href={`/results/${race.id}`}
+          className="group flex items-center justify-center gap-2 rounded-b-lg bg-navy px-4 py-3 text-sm font-semibold text-white transition-colors hover:bg-navylight"
+        >
+          <svg viewBox="0 0 24 24" className="h-4 w-4" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" aria-hidden="true">
+            <path d="M9 4 3 6v14l6-2 6 2 6-2V4l-6 2-6-2Z" />
+            <path d="M9 4v14M15 6v14" />
+          </svg>
+          Precinct map &amp; voting breakdown
+          <span className="transition-transform group-hover:translate-x-0.5" aria-hidden="true">→</span>
+        </Link>
       )}
     </article>
   );
