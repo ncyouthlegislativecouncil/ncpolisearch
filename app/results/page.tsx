@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import ResultsExplorer from "../../components/results/ResultsExplorer";
 import FindMyPrecinct from "../../components/results/FindMyPrecinct";
+import { statewideTurnout } from "../../lib/turnout";
 import { partyColor } from "../../components/results/RaceCard";
 import { CURRENT_ELECTION, chamberTally, raceView, type ChamberTally, type RaceView } from "../../lib/elections";
 import { electionResults } from "../../lib/data/store";
@@ -121,6 +122,8 @@ export default function ResultsPage() {
   }
 
   const races = results.races.map(raceView);
+  const senateRace = results.races.find((r) => r.id === "us-senate");
+  const turnout = statewideTurnout(senateRace ? senateRace.candidates.reduce((n, c) => n + c.votes, 0) : 0);
   const updated = new Date(results.sourceUpdated).toLocaleString("en-US", {
     month: "short",
     day: "numeric",
@@ -166,6 +169,23 @@ export default function ResultsPage() {
             recountSeats={races.filter((r) => r.category === "nc-senate" && r.status === "recount").length}
             flips={flipSummary(races, "nc-senate")}
           />
+        </div>
+
+        {/* Statewide turnout next to the last two general elections. */}
+        <div className="mt-4 flex flex-wrap items-center gap-x-6 gap-y-2 rounded-lg border border-gray-200 bg-white px-5 py-3 text-sm shadow-sm">
+          <span className="section-label">Turnout</span>
+          {turnout
+            .slice()
+            .reverse()
+            .map((t) => (
+              <span key={t.year} className={t.year === 2026 ? "font-semibold text-navy" : "text-navymuted"}>
+                <span className={t.year === 2026 ? "font-serif text-xl font-bold" : "font-mono"}>{t.pct.toFixed(1)}%</span>{" "}
+                {t.year} <span className="text-xs font-normal">({t.kind.toLowerCase()})</span>
+              </span>
+            ))}
+          <span className="w-full text-xs text-navymuted lg:ml-auto lg:w-auto">
+            Share of registered voters who voted in the top race ({turnout.map((t) => `${t.year}: ${t.top}`).join(", ")}).
+          </span>
         </div>
 
         <div className="mt-8">

@@ -1,0 +1,1403 @@
+{
+ "note": "Built by scripts/build-turnout.ts from State Board of Elections voter_stats and results files.",
+ "statewide": [
+  {
+   "year": 2022,
+   "kind": "Midterm",
+   "top": "US Senate",
+   "registered": 7422396,
+   "votes": 3773924
+  },
+  {
+   "year": 2024,
+   "kind": "Presidential",
+   "top": "President",
+   "registered": 7854464,
+   "votes": 5699141
+  },
+  {
+   "year": 2026,
+   "kind": "Midterm",
+   "top": "US Senate",
+   "registered": 7902361,
+   "votes": null
+  }
+ ],
+ "races": {
+  "nc-house-001": {
+   "registered": 69528,
+   "prev": {
+    "year": 2024,
+    "votes": 49110,
+    "registered": 70339,
+    "unopposed": false
+   }
+  },
+  "nc-house-002": {
+   "registered": 65016,
+   "prev": {
+    "year": 2024,
+    "votes": 49206,
+    "registered": 65482,
+    "unopposed": false
+   }
+  },
+  "nc-house-003": {
+   "registered": 68200,
+   "prev": {
+    "year": 2024,
+    "votes": 48355,
+    "registered": 69256,
+    "unopposed": false
+   }
+  },
+  "nc-house-004": {
+   "registered": 52876,
+   "prev": {
+    "year": 2024,
+    "votes": 35054,
+    "registered": 52351,
+    "unopposed": false
+   }
+  },
+  "nc-house-005": {
+   "registered": 62637,
+   "prev": {
+    "year": 2024,
+    "votes": 41281,
+    "registered": 63721,
+    "unopposed": false
+   }
+  },
+  "nc-house-006": {
+   "registered": 65091,
+   "prev": null
+  },
+  "nc-house-007": {
+   "registered": 68426,
+   "prev": {
+    "year": 2024,
+    "votes": 48985,
+    "registered": 66383,
+    "unopposed": false
+   }
+  },
+  "nc-house-008": {
+   "registered": 61319,
+   "prev": {
+    "year": 2024,
+    "votes": 35486,
+    "registered": 62118,
+    "unopposed": false
+   }
+  },
+  "nc-house-009": {
+   "registered": 67017,
+   "prev": {
+    "year": 2024,
+    "votes": 48061,
+    "registered": 66874,
+    "unopposed": false
+   }
+  },
+  "nc-house-010": {
+   "registered": 57482,
+   "prev": {
+    "year": 2024,
+    "votes": 40264,
+    "registered": 58374,
+    "unopposed": false
+   }
+  },
+  "nc-house-011": {
+   "registered": 63998,
+   "prev": {
+    "year": 2024,
+    "votes": 49014,
+    "registered": 65750,
+    "unopposed": false
+   }
+  },
+  "nc-house-012": {
+   "registered": 56725,
+   "prev": {
+    "year": 2024,
+    "votes": 40358,
+    "registered": 58210,
+    "unopposed": false
+   }
+  },
+  "nc-house-013": {
+   "registered": 68138,
+   "prev": {
+    "year": 2024,
+    "votes": 50339,
+    "registered": 69359,
+    "unopposed": false
+   }
+  },
+  "nc-house-014": {
+   "registered": 48895,
+   "prev": {
+    "year": 2024,
+    "votes": 25498,
+    "registered": 49261,
+    "unopposed": false
+   }
+  },
+  "nc-house-015": {
+   "registered": 65660,
+   "prev": {
+    "year": 2024,
+    "votes": 37877,
+    "registered": 67036,
+    "unopposed": false
+   }
+  },
+  "nc-house-016": {
+   "registered": 77581,
+   "prev": null
+  },
+  "nc-house-017": {
+   "registered": 100025,
+   "prev": {
+    "year": 2024,
+    "votes": 67569,
+    "registered": 91607,
+    "unopposed": false
+   }
+  },
+  "nc-house-018": {
+   "registered": 73973,
+   "prev": {
+    "year": 2024,
+    "votes": 39930,
+    "registered": 74041,
+    "unopposed": false
+   }
+  },
+  "nc-house-019": {
+   "registered": 91174,
+   "prev": {
+    "year": 2024,
+    "votes": 67148,
+    "registered": 88952,
+    "unopposed": false
+   }
+  },
+  "nc-house-020": {
+   "registered": 78005,
+   "prev": {
+    "year": 2024,
+    "votes": 57283,
+    "registered": 77324,
+    "unopposed": false
+   }
+  },
+  "nc-house-021": {
+   "registered": 66828,
+   "prev": null
+  },
+  "nc-house-022": {
+   "registered": 62070,
+   "prev": {
+    "year": 2024,
+    "votes": 42905,
+    "registered": 63179,
+    "unopposed": false
+   }
+  },
+  "nc-house-023": {
+   "registered": 66176,
+   "prev": {
+    "year": 2024,
+    "votes": 44530,
+    "registered": 66139,
+    "unopposed": false
+   }
+  },
+  "nc-house-024": {
+   "registered": 58918,
+   "prev": {
+    "year": 2024,
+    "votes": 41768,
+    "registered": 60253,
+    "unopposed": false
+   }
+  },
+  "nc-house-025": {
+   "registered": 69033,
+   "prev": {
+    "year": 2024,
+    "votes": 48905,
+    "registered": 67725,
+    "unopposed": false
+   }
+  },
+  "nc-house-026": {
+   "registered": 77541,
+   "prev": {
+    "year": 2024,
+    "votes": 54346,
+    "registered": 73609,
+    "unopposed": false
+   }
+  },
+  "nc-house-027": {
+   "registered": 62110,
+   "prev": {
+    "year": 2024,
+    "votes": 31914,
+    "registered": 63295,
+    "unopposed": true
+   }
+  },
+  "nc-house-028": {
+   "registered": 61843,
+   "prev": null
+  },
+  "nc-house-029": {
+   "registered": 71591,
+   "prev": null
+  },
+  "nc-house-030": {
+   "registered": 71101,
+   "prev": {
+    "year": 2024,
+    "votes": 41916,
+    "registered": 72645,
+    "unopposed": true
+   }
+  },
+  "nc-house-031": {
+   "registered": 74775,
+   "prev": {
+    "year": 2024,
+    "votes": 43291,
+    "registered": 71339,
+    "unopposed": true
+   }
+  },
+  "nc-house-032": {
+   "registered": 59782,
+   "prev": null
+  },
+  "nc-house-033": {
+   "registered": 66323,
+   "prev": {
+    "year": 2024,
+    "votes": 42114,
+    "registered": 64715,
+    "unopposed": false
+   }
+  },
+  "nc-house-034": {
+   "registered": 66088,
+   "prev": {
+    "year": 2024,
+    "votes": 44647,
+    "registered": 67325,
+    "unopposed": false
+   }
+  },
+  "nc-house-035": {
+   "registered": 74935,
+   "prev": null
+  },
+  "nc-house-036": {
+   "registered": 67419,
+   "prev": {
+    "year": 2024,
+    "votes": 52514,
+    "registered": 67100,
+    "unopposed": false
+   }
+  },
+  "nc-house-037": {
+   "registered": 79525,
+   "prev": null
+  },
+  "nc-house-038": {
+   "registered": 60862,
+   "prev": {
+    "year": 2024,
+    "votes": 32854,
+    "registered": 61556,
+    "unopposed": true
+   }
+  },
+  "nc-house-039": {
+   "registered": 71678,
+   "prev": null
+  },
+  "nc-house-040": {
+   "registered": 67393,
+   "prev": {
+    "year": 2024,
+    "votes": 52927,
+    "registered": 68720,
+    "unopposed": false
+   }
+  },
+  "nc-house-041": {
+   "registered": 61308,
+   "prev": null
+  },
+  "nc-house-042": {
+   "registered": 47453,
+   "prev": {
+    "year": 2024,
+    "votes": 24633,
+    "registered": 48467,
+    "unopposed": false
+   }
+  },
+  "nc-house-043": {
+   "registered": 64764,
+   "prev": {
+    "year": 2024,
+    "votes": 43175,
+    "registered": 64476,
+    "unopposed": false
+   }
+  },
+  "nc-house-044": {
+   "registered": 58210,
+   "prev": {
+    "year": 2024,
+    "votes": 33624,
+    "registered": 59350,
+    "unopposed": false
+   }
+  },
+  "nc-house-045": {
+   "registered": 57120,
+   "prev": {
+    "year": 2024,
+    "votes": 25090,
+    "registered": 57967,
+    "unopposed": true
+   }
+  },
+  "nc-house-046": {
+   "registered": 60044,
+   "prev": null
+  },
+  "nc-house-047": {
+   "registered": 55779,
+   "prev": {
+    "year": 2024,
+    "votes": 31610,
+    "registered": 57127,
+    "unopposed": false
+   }
+  },
+  "nc-house-048": {
+   "registered": 60030,
+   "prev": {
+    "year": 2024,
+    "votes": 36298,
+    "registered": 60080,
+    "unopposed": false
+   }
+  },
+  "nc-house-049": {
+   "registered": 57069,
+   "prev": {
+    "year": 2024,
+    "votes": 32814,
+    "registered": 60787,
+    "unopposed": true
+   }
+  },
+  "nc-house-050": {
+   "registered": 65824,
+   "prev": {
+    "year": 2024,
+    "votes": 35367,
+    "registered": 65944,
+    "unopposed": true
+   }
+  },
+  "nc-house-051": {
+   "registered": 57917,
+   "prev": {
+    "year": 2024,
+    "votes": 40168,
+    "registered": 56331,
+    "unopposed": false
+   }
+  },
+  "nc-house-052": {
+   "registered": 62321,
+   "prev": null
+  },
+  "nc-house-053": {
+   "registered": 66583,
+   "prev": {
+    "year": 2024,
+    "votes": 45874,
+    "registered": 62942,
+    "unopposed": false
+   }
+  },
+  "nc-house-054": {
+   "registered": 70074,
+   "prev": null
+  },
+  "nc-house-055": {
+   "registered": 56730,
+   "prev": {
+    "year": 2024,
+    "votes": 38847,
+    "registered": 57090,
+    "unopposed": false
+   }
+  },
+  "nc-house-056": {
+   "registered": 64294,
+   "prev": {
+    "year": 2024,
+    "votes": 45726,
+    "registered": 65523,
+    "unopposed": false
+   }
+  },
+  "nc-house-057": {
+   "registered": 67012,
+   "prev": {
+    "year": 2024,
+    "votes": 46941,
+    "registered": 67178,
+    "unopposed": false
+   }
+  },
+  "nc-house-058": {
+   "registered": 59218,
+   "prev": {
+    "year": 2024,
+    "votes": 32379,
+    "registered": 59516,
+    "unopposed": true
+   }
+  },
+  "nc-house-059": {
+   "registered": 73399,
+   "prev": {
+    "year": 2024,
+    "votes": 55468,
+    "registered": 71720,
+    "unopposed": false
+   }
+  },
+  "nc-house-060": {
+   "registered": 57677,
+   "prev": {
+    "year": 2024,
+    "votes": 37827,
+    "registered": 58692,
+    "unopposed": false
+   }
+  },
+  "nc-house-061": {
+   "registered": 67343,
+   "prev": {
+    "year": 2024,
+    "votes": 42862,
+    "registered": 68416,
+    "unopposed": false
+   }
+  },
+  "nc-house-062": {
+   "registered": 73165,
+   "prev": {
+    "year": 2024,
+    "votes": 54986,
+    "registered": 72185,
+    "unopposed": false
+   }
+  },
+  "nc-house-063": {
+   "registered": 59470,
+   "prev": {
+    "year": 2024,
+    "votes": 43272,
+    "registered": 59136,
+    "unopposed": false
+   }
+  },
+  "nc-house-064": {
+   "registered": 62635,
+   "prev": {
+    "year": 2024,
+    "votes": 44753,
+    "registered": 60629,
+    "unopposed": false
+   }
+  },
+  "nc-house-065": {
+   "registered": 64560,
+   "prev": null
+  },
+  "nc-house-066": {
+   "registered": 66457,
+   "prev": null
+  },
+  "nc-house-067": {
+   "registered": 64926,
+   "prev": {
+    "year": 2024,
+    "votes": 48457,
+    "registered": 64481,
+    "unopposed": false
+   }
+  },
+  "nc-house-068": {
+   "registered": 74433,
+   "prev": {
+    "year": 2024,
+    "votes": 54097,
+    "registered": 74127,
+    "unopposed": false
+   }
+  },
+  "nc-house-069": {
+   "registered": 71704,
+   "prev": {
+    "year": 2024,
+    "votes": 51887,
+    "registered": 70840,
+    "unopposed": false
+   }
+  },
+  "nc-house-070": {
+   "registered": 60664,
+   "prev": {
+    "year": 2024,
+    "votes": 44137,
+    "registered": 60892,
+    "unopposed": false
+   }
+  },
+  "nc-house-071": {
+   "registered": 60846,
+   "prev": {
+    "year": 2024,
+    "votes": 31755,
+    "registered": 62240,
+    "unopposed": true
+   }
+  },
+  "nc-house-072": {
+   "registered": 60334,
+   "prev": {
+    "year": 2024,
+    "votes": 31479,
+    "registered": 61788,
+    "unopposed": true
+   }
+  },
+  "nc-house-073": {
+   "registered": 63549,
+   "prev": {
+    "year": 2024,
+    "votes": 43977,
+    "registered": 63531,
+    "unopposed": false
+   }
+  },
+  "nc-house-074": {
+   "registered": 67494,
+   "prev": {
+    "year": 2024,
+    "votes": 51923,
+    "registered": 66607,
+    "unopposed": false
+   }
+  },
+  "nc-house-075": {
+   "registered": 63645,
+   "prev": {
+    "year": 2024,
+    "votes": 45861,
+    "registered": 62894,
+    "unopposed": false
+   }
+  },
+  "nc-house-076": {
+   "registered": 62282,
+   "prev": {
+    "year": 2024,
+    "votes": 43389,
+    "registered": 62092,
+    "unopposed": false
+   }
+  },
+  "nc-house-077": {
+   "registered": 67904,
+   "prev": {
+    "year": 2024,
+    "votes": 52147,
+    "registered": 67414,
+    "unopposed": false
+   }
+  },
+  "nc-house-078": {
+   "registered": 66998,
+   "prev": {
+    "year": 2024,
+    "votes": 50913,
+    "registered": 66030,
+    "unopposed": false
+   }
+  },
+  "nc-house-079": {
+   "registered": 68105,
+   "prev": {
+    "year": 2024,
+    "votes": 50778,
+    "registered": 70231,
+    "unopposed": false
+   }
+  },
+  "nc-house-080": {
+   "registered": 60179,
+   "prev": {
+    "year": 2024,
+    "votes": 44781,
+    "registered": 59610,
+    "unopposed": false
+   }
+  },
+  "nc-house-081": {
+   "registered": 63579,
+   "prev": {
+    "year": 2024,
+    "votes": 47264,
+    "registered": 62146,
+    "unopposed": false
+   }
+  },
+  "nc-house-082": {
+   "registered": 67811,
+   "prev": {
+    "year": 2024,
+    "votes": 49614,
+    "registered": 66703,
+    "unopposed": false
+   }
+  },
+  "nc-house-083": {
+   "registered": 65240,
+   "prev": {
+    "year": 2024,
+    "votes": 46104,
+    "registered": 64051,
+    "unopposed": false
+   }
+  },
+  "nc-house-084": {
+   "registered": 65009,
+   "prev": {
+    "year": 2024,
+    "votes": 45738,
+    "registered": 63355,
+    "unopposed": false
+   }
+  },
+  "nc-house-085": {
+   "registered": 65973,
+   "prev": {
+    "year": 2024,
+    "votes": 48719,
+    "registered": 66900,
+    "unopposed": false
+   }
+  },
+  "nc-house-086": {
+   "registered": 60849,
+   "prev": {
+    "year": 2024,
+    "votes": 44601,
+    "registered": 61320,
+    "unopposed": false
+   }
+  },
+  "nc-house-087": {
+   "registered": 60022,
+   "prev": {
+    "year": 2024,
+    "votes": 45329,
+    "registered": 60423,
+    "unopposed": false
+   }
+  },
+  "nc-house-088": {
+   "registered": 60608,
+   "prev": {
+    "year": 2024,
+    "votes": 33555,
+    "registered": 59187,
+    "unopposed": true
+   }
+  },
+  "nc-house-089": {
+   "registered": 70470,
+   "prev": {
+    "year": 2024,
+    "votes": 50166,
+    "registered": 67362,
+    "unopposed": false
+   }
+  },
+  "nc-house-090": {
+   "registered": 60841,
+   "prev": {
+    "year": 2024,
+    "votes": 45793,
+    "registered": 61248,
+    "unopposed": false
+   }
+  },
+  "nc-house-091": {
+   "registered": 60075,
+   "prev": {
+    "year": 2024,
+    "votes": 44402,
+    "registered": 60311,
+    "unopposed": false
+   }
+  },
+  "nc-house-092": {
+   "registered": 71085,
+   "prev": {
+    "year": 2024,
+    "votes": 37214,
+    "registered": 68930,
+    "unopposed": true
+   }
+  },
+  "nc-house-093": {
+   "registered": 70062,
+   "prev": {
+    "year": 2024,
+    "votes": 50593,
+    "registered": 71570,
+    "unopposed": false
+   }
+  },
+  "nc-house-094": {
+   "registered": 59289,
+   "prev": {
+    "year": 2024,
+    "votes": 45902,
+    "registered": 59791,
+    "unopposed": false
+   }
+  },
+  "nc-house-095": {
+   "registered": 72287,
+   "prev": {
+    "year": 2024,
+    "votes": 50257,
+    "registered": 70138,
+    "unopposed": false
+   }
+  },
+  "nc-house-096": {
+   "registered": 63610,
+   "prev": {
+    "year": 2024,
+    "votes": 43666,
+    "registered": 63054,
+    "unopposed": false
+   }
+  },
+  "nc-house-097": {
+   "registered": 71027,
+   "prev": {
+    "year": 2024,
+    "votes": 43332,
+    "registered": 70666,
+    "unopposed": true
+   }
+  },
+  "nc-house-098": {
+   "registered": 69839,
+   "prev": {
+    "year": 2024,
+    "votes": 51883,
+    "registered": 69150,
+    "unopposed": false
+   }
+  },
+  "nc-house-099": {
+   "registered": 56678,
+   "prev": {
+    "year": 2024,
+    "votes": 32145,
+    "registered": 54986,
+    "unopposed": false
+   }
+  },
+  "nc-house-100": {
+   "registered": 56650,
+   "prev": {
+    "year": 2024,
+    "votes": 28937,
+    "registered": 57698,
+    "unopposed": true
+   }
+  },
+  "nc-house-101": {
+   "registered": 62993,
+   "prev": {
+    "year": 2024,
+    "votes": 34424,
+    "registered": 61865,
+    "unopposed": true
+   }
+  },
+  "nc-house-102": {
+   "registered": 70956,
+   "prev": {
+    "year": 2024,
+    "votes": 39811,
+    "registered": 70338,
+    "unopposed": true
+   }
+  },
+  "nc-house-103": {
+   "registered": 65199,
+   "prev": {
+    "year": 2024,
+    "votes": 44381,
+    "registered": 65636,
+    "unopposed": false
+   }
+  },
+  "nc-house-104": {
+   "registered": 65771,
+   "prev": {
+    "year": 2024,
+    "votes": 49377,
+    "registered": 66802,
+    "unopposed": false
+   }
+  },
+  "nc-house-105": {
+   "registered": 70923,
+   "prev": {
+    "year": 2024,
+    "votes": 54385,
+    "registered": 70584,
+    "unopposed": false
+   }
+  },
+  "nc-house-106": {
+   "registered": 69233,
+   "prev": {
+    "year": 2024,
+    "votes": 40633,
+    "registered": 66635,
+    "unopposed": true
+   }
+  },
+  "nc-house-107": {
+   "registered": 72223,
+   "prev": {
+    "year": 2024,
+    "votes": 38603,
+    "registered": 71219,
+    "unopposed": true
+   }
+  },
+  "nc-house-108": {
+   "registered": 63983,
+   "prev": null
+  },
+  "nc-house-109": {
+   "registered": 69820,
+   "prev": null
+  },
+  "nc-house-110": {
+   "registered": 61025,
+   "prev": null
+  },
+  "nc-house-111": {
+   "registered": 59784,
+   "prev": {
+    "year": 2024,
+    "votes": 42544,
+    "registered": 60382,
+    "unopposed": false
+   }
+  },
+  "nc-house-112": {
+   "registered": 59613,
+   "prev": {
+    "year": 2024,
+    "votes": 32721,
+    "registered": 59112,
+    "unopposed": true
+   }
+  },
+  "nc-house-113": {
+   "registered": 71439,
+   "prev": {
+    "year": 2024,
+    "votes": 51690,
+    "registered": 71687,
+    "unopposed": false
+   }
+  },
+  "nc-house-114": {
+   "registered": 76175,
+   "prev": {
+    "year": 2024,
+    "votes": 54346,
+    "registered": 75282,
+    "unopposed": false
+   }
+  },
+  "nc-house-115": {
+   "registered": 69839,
+   "prev": {
+    "year": 2024,
+    "votes": 50923,
+    "registered": 68868,
+    "unopposed": false
+   }
+  },
+  "nc-house-116": {
+   "registered": 74775,
+   "prev": {
+    "year": 2024,
+    "votes": 42815,
+    "registered": 73267,
+    "unopposed": true
+   }
+  },
+  "nc-house-117": {
+   "registered": 72654,
+   "prev": {
+    "year": 2024,
+    "votes": 52993,
+    "registered": 72164,
+    "unopposed": false
+   }
+  },
+  "nc-house-118": {
+   "registered": 66604,
+   "prev": null
+  },
+  "nc-house-119": {
+   "registered": 68584,
+   "prev": {
+    "year": 2024,
+    "votes": 48512,
+    "registered": 69152,
+    "unopposed": false
+   }
+  },
+  "nc-house-120": {
+   "registered": 71599,
+   "prev": {
+    "year": 2024,
+    "votes": 50612,
+    "registered": 70854,
+    "unopposed": false
+   }
+  },
+  "nc-senate-01": {
+   "registered": 159750,
+   "prev": {
+    "year": 2024,
+    "votes": 109784,
+    "registered": 162550,
+    "unopposed": false
+   }
+  },
+  "nc-senate-02": {
+   "registered": 156268,
+   "prev": {
+    "year": 2024,
+    "votes": 112413,
+    "registered": 158385,
+    "unopposed": false
+   }
+  },
+  "nc-senate-03": {
+   "registered": 150780,
+   "prev": {
+    "year": 2024,
+    "votes": 106729,
+    "registered": 154431,
+    "unopposed": false
+   }
+  },
+  "nc-senate-04": {
+   "registered": 144242,
+   "prev": {
+    "year": 2024,
+    "votes": 100485,
+    "registered": 146208,
+    "unopposed": false
+   }
+  },
+  "nc-senate-05": {
+   "registered": 164934,
+   "prev": {
+    "year": 2024,
+    "votes": 107909,
+    "registered": 165534,
+    "unopposed": false
+   }
+  },
+  "nc-senate-06": {
+   "registered": 137003,
+   "prev": {
+    "year": 2024,
+    "votes": 77442,
+    "registered": 137626,
+    "unopposed": false
+   }
+  },
+  "nc-senate-07": {
+   "registered": 167005,
+   "prev": {
+    "year": 2024,
+    "votes": 121073,
+    "registered": 166905,
+    "unopposed": false
+   }
+  },
+  "nc-senate-08": {
+   "registered": 213715,
+   "prev": null
+  },
+  "nc-senate-09": {
+   "registered": 154263,
+   "prev": null
+  },
+  "nc-senate-10": {
+   "registered": 173061,
+   "prev": null
+  },
+  "nc-senate-11": {
+   "registered": 158463,
+   "prev": null
+  },
+  "nc-senate-12": {
+   "registered": 143054,
+   "prev": null
+  },
+  "nc-senate-13": {
+   "registered": 169621,
+   "prev": {
+    "year": 2024,
+    "votes": 127603,
+    "registered": 163661,
+    "unopposed": false
+   }
+  },
+  "nc-senate-14": {
+   "registered": 152010,
+   "prev": null
+  },
+  "nc-senate-15": {
+   "registered": 141614,
+   "prev": {
+    "year": 2024,
+    "votes": 102137,
+    "registered": 145911,
+    "unopposed": false
+   }
+  },
+  "nc-senate-16": {
+   "registered": 145697,
+   "prev": {
+    "year": 2024,
+    "votes": 84424,
+    "registered": 149558,
+    "unopposed": true
+   }
+  },
+  "nc-senate-17": {
+   "registered": 141024,
+   "prev": null
+  },
+  "nc-senate-18": {
+   "registered": 162103,
+   "prev": {
+    "year": 2024,
+    "votes": 123112,
+    "registered": 158751,
+    "unopposed": false
+   }
+  },
+  "nc-senate-19": {
+   "registered": 151649,
+   "prev": {
+    "year": 2024,
+    "votes": 88586,
+    "registered": 153983,
+    "unopposed": false
+   }
+  },
+  "nc-senate-20": {
+   "registered": 168652,
+   "prev": null
+  },
+  "nc-senate-21": {
+   "registered": 158108,
+   "prev": {
+    "year": 2024,
+    "votes": 107546,
+    "registered": 155703,
+    "unopposed": false
+   }
+  },
+  "nc-senate-22": {
+   "registered": 150366,
+   "prev": {
+    "year": 2024,
+    "votes": 97518,
+    "registered": 150122,
+    "unopposed": false
+   }
+  },
+  "nc-senate-23": {
+   "registered": 158590,
+   "prev": {
+    "year": 2024,
+    "votes": 117157,
+    "registered": 160216,
+    "unopposed": false
+   }
+  },
+  "nc-senate-24": {
+   "registered": 138310,
+   "prev": {
+    "year": 2024,
+    "votes": 80925,
+    "registered": 139250,
+    "unopposed": false
+   }
+  },
+  "nc-senate-25": {
+   "registered": 154420,
+   "prev": {
+    "year": 2024,
+    "votes": 112473,
+    "registered": 152375,
+    "unopposed": false
+   }
+  },
+  "nc-senate-26": {
+   "registered": 165381,
+   "prev": null
+  },
+  "nc-senate-27": {
+   "registered": 150476,
+   "prev": {
+    "year": 2024,
+    "votes": 107157,
+    "registered": 152946,
+    "unopposed": false
+   }
+  },
+  "nc-senate-28": {
+   "registered": 146517,
+   "prev": {
+    "year": 2024,
+    "votes": 78876,
+    "registered": 147793,
+    "unopposed": true
+   }
+  },
+  "nc-senate-29": {
+   "registered": 147288,
+   "prev": null
+  },
+  "nc-senate-30": {
+   "registered": 157784,
+   "prev": {
+    "year": 2024,
+    "votes": 118636,
+    "registered": 155458,
+    "unopposed": false
+   }
+  },
+  "nc-senate-31": {
+   "registered": 166083,
+   "prev": {
+    "year": 2024,
+    "votes": 125657,
+    "registered": 164571,
+    "unopposed": false
+   }
+  },
+  "nc-senate-32": {
+   "registered": 146311,
+   "prev": {
+    "year": 2024,
+    "votes": 97331,
+    "registered": 149269,
+    "unopposed": false
+   }
+  },
+  "nc-senate-33": {
+   "registered": 150468,
+   "prev": {
+    "year": 2024,
+    "votes": 108624,
+    "registered": 148636,
+    "unopposed": false
+   }
+  },
+  "nc-senate-34": {
+   "registered": 155305,
+   "prev": {
+    "year": 2024,
+    "votes": 109895,
+    "registered": 153929,
+    "unopposed": false
+   }
+  },
+  "nc-senate-35": {
+   "registered": 177868,
+   "prev": {
+    "year": 2024,
+    "votes": 129516,
+    "registered": 175609,
+    "unopposed": false
+   }
+  },
+  "nc-senate-36": {
+   "registered": 145928,
+   "prev": {
+    "year": 2024,
+    "votes": 111546,
+    "registered": 146801,
+    "unopposed": false
+   }
+  },
+  "nc-senate-37": {
+   "registered": 180915,
+   "prev": {
+    "year": 2024,
+    "votes": 127961,
+    "registered": 175822,
+    "unopposed": false
+   }
+  },
+  "nc-senate-38": {
+   "registered": 170593,
+   "prev": {
+    "year": 2024,
+    "votes": 94162,
+    "registered": 165989,
+    "unopposed": true
+   }
+  },
+  "nc-senate-39": {
+   "registered": 165529,
+   "prev": {
+    "year": 2024,
+    "votes": 88183,
+    "registered": 162383,
+    "unopposed": true
+   }
+  },
+  "nc-senate-40": {
+   "registered": 143126,
+   "prev": {
+    "year": 2024,
+    "votes": 85223,
+    "registered": 143389,
+    "unopposed": false
+   }
+  },
+  "nc-senate-41": {
+   "registered": 176036,
+   "prev": {
+    "year": 2024,
+    "votes": 95805,
+    "registered": 173928,
+    "unopposed": true
+   }
+  },
+  "nc-senate-42": {
+   "registered": 166904,
+   "prev": {
+    "year": 2024,
+    "votes": 124311,
+    "registered": 167198,
+    "unopposed": false
+   }
+  },
+  "nc-senate-43": {
+   "registered": 155123,
+   "prev": null
+  },
+  "nc-senate-44": {
+   "registered": 152602,
+   "prev": null
+  },
+  "nc-senate-45": {
+   "registered": 159650,
+   "prev": {
+    "year": 2024,
+    "votes": 113873,
+    "registered": 157312,
+    "unopposed": false
+   }
+  },
+  "nc-senate-46": {
+   "registered": 143889,
+   "prev": {
+    "year": 2024,
+    "votes": 105279,
+    "registered": 143921,
+    "unopposed": false
+   }
+  },
+  "nc-senate-47": {
+   "registered": 160581,
+   "prev": {
+    "year": 2024,
+    "votes": 117854,
+    "registered": 162787,
+    "unopposed": false
+   }
+  },
+  "nc-senate-48": {
+   "registered": 158269,
+   "prev": {
+    "year": 2024,
+    "votes": 114772,
+    "registered": 158301,
+    "unopposed": false
+   }
+  },
+  "nc-senate-49": {
+   "registered": 169157,
+   "prev": {
+    "year": 2024,
+    "votes": 117325,
+    "registered": 166319,
+    "unopposed": false
+   }
+  },
+  "nc-senate-50": {
+   "registered": 174987,
+   "prev": {
+    "year": 2024,
+    "votes": 125320,
+    "registered": 174417,
+    "unopposed": false
+   }
+  }
+ }
+}

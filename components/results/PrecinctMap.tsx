@@ -43,7 +43,7 @@ export default function PrecinctMap({
   url: string;
   shadeFor: (key: string) => string;
   selectedKey: string | null;
-  onPick: (key: string) => void;
+  onPick: (key: string, how: "hover" | "click") => void;
   version: string; // changes when the shading changes, to re-style
 }) {
   const [data, setData] = useState<FeatureCollection | null>(null);
@@ -105,7 +105,7 @@ export default function PrecinctMap({
           style={style}
           onEachFeature={(feature, layer) => {
             const key = String(feature.properties?.key ?? "");
-            layer.on({ mouseover: () => onPick(key), click: () => onPick(key) });
+            layer.on({ mouseover: () => onPick(key, "hover"), click: () => onPick(key, "click") });
           }}
         />
       </Pane>

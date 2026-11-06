@@ -45,6 +45,7 @@ All site data is committed to this repo:
 - `data/bills/<billId>.json` — one file per bill: details, AI summary/arguments/topic, sponsors (in LegiScan's official order), and every roll call with each member's vote.
 - `data/legislators.json` — every legislator on file, including their photo path.
 - `public/elections/2026-general/<raceId>.json` and `public/maps/precincts/<raceId>.geojson` — precinct-by-precinct votes (by voting method) and precinct shapes for each NC House/Senate race, used by the race pages (`/results/<raceId>`) and Find my precinct. The vote files are written by `scripts/update-election-results.ts`; the shapes are built once by `scripts/build-precinct-maps.ts` from the State Board's precinct shapefile.
+- `data/elections/2026-general-turnout.json` — registered voters per NC House/Senate district, the same district in 2024, and statewide turnout for 2022–2026, built once by `scripts/build-turnout.ts` from the State Board's voter_stats and results files. Turnout = votes cast in a race / registered voters.
 - `data/elections/2026-general.json` — State Board of Elections results for the 2026 general election (the constitutional amendments and all 170 legislative races). Powers the ballot results page and the re-elected / lost / leaving badges on legislator profiles.
 - `lib/legislator-emails.json` — official @ncleg.gov emails (refresh with `npx tsx scripts/backfill-emails.ts --write`).
 
