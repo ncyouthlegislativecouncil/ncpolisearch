@@ -2,7 +2,7 @@
   "election": "2026-11-03",
   "name": "2026 General Election",
   "source": "https://s3.amazonaws.com/dl.ncsbe.gov/ENRS/2026_11_03/results_pct_20261103.zip",
-  "sourceUpdated": "2026-11-08T12:30:46.000Z",
+  "sourceUpdated": "2026-11-09T20:40:43.000Z",
   "certified": false,
   "races": [
     {
@@ -15,10 +15,10 @@
       "statewide": true,
       "previousParty": "R",
       "candidates": [
-        {"name":"Roy Cooper","party":"D","votes":2467972},
-        {"name":"Michael Whatley","party":"R","votes":1643114},
-        {"name":"Shannon W. Bray","party":"L","votes":55727},
-        {"name":"Michael Dublin","party":"G","votes":36405}
+        {"name":"Roy Cooper","party":"D","votes":2467962},
+        {"name":"Michael Whatley","party":"R","votes":1643094},
+        {"name":"Shannon W. Bray","party":"L","votes":55712},
+        {"name":"Michael Dublin","party":"G","votes":36400}
       ]
     },
     {
@@ -180,9 +180,9 @@
       "statewide": false,
       "previousParty": "R",
       "candidates": [
-        {"name":"Jamie Ager","party":"D","votes":195637},
-        {"name":"Jennifer Capps Balkcom","party":"R","votes":141427},
-        {"name":"Travis Groo","party":"L","votes":5345}
+        {"name":"Jamie Ager","party":"D","votes":195627},
+        {"name":"Jennifer Capps Balkcom","party":"R","votes":141422},
+        {"name":"Travis Groo","party":"L","votes":5330}
       ]
     },
     {
@@ -238,8 +238,8 @@
       "statewide": true,
       "previousParty": "D",
       "candidates": [
-        {"name":"Anita Earls","party":"D","votes":2456852},
-        {"name":"Sarah Stevens","party":"R","votes":1717053}
+        {"name":"Anita Earls","party":"D","votes":2456847},
+        {"name":"Sarah Stevens","party":"R","votes":1717043}
       ]
     },
     {
@@ -252,8 +252,8 @@
       "statewide": true,
       "previousParty": null,
       "candidates": [
-        {"name":"John S. Arrowood","party":"D","votes":2362168},
-        {"name":"Michael C. Byrne","party":"R","votes":1798829}
+        {"name":"John S. Arrowood","party":"D","votes":2362158},
+        {"name":"Michael C. Byrne","party":"R","votes":1798824}
       ]
     },
     {
@@ -266,8 +266,8 @@
       "statewide": true,
       "previousParty": null,
       "candidates": [
-        {"name":"Tobias (Toby) Hampson","party":"D","votes":2360509},
-        {"name":"George Cooper Bell","party":"R","votes":1796406}
+        {"name":"Tobias (Toby) Hampson","party":"D","votes":2360499},
+        {"name":"George Cooper Bell","party":"R","votes":1796401}
       ]
     },
     {
@@ -280,8 +280,8 @@
       "statewide": true,
       "previousParty": null,
       "candidates": [
-        {"name":"Christine Marie Walczyk","party":"D","votes":2372422},
-        {"name":"Craig Collins","party":"R","votes":1780905}
+        {"name":"Christine Marie Walczyk","party":"D","votes":2372412},
+        {"name":"Craig Collins","party":"R","votes":1780900}
       ]
     },
     {
@@ -294,8 +294,8 @@
       "statewide": true,
       "previousParty": null,
       "candidates": [
-        {"name":"For","party":null,"votes":2559771},
-        {"name":"Against","party":null,"votes":1574261}
+        {"name":"For","party":null,"votes":2559766},
+        {"name":"Against","party":null,"votes":1574251}
       ]
     },
     {
@@ -308,8 +308,8 @@
       "statewide": true,
       "previousParty": null,
       "candidates": [
-        {"name":"For","party":null,"votes":2492920},
-        {"name":"Against","party":null,"votes":1632776}
+        {"name":"For","party":null,"votes":2492915},
+        {"name":"Against","party":null,"votes":1632766}
       ]
     },
     {
@@ -322,8 +322,8 @@
       "statewide": true,
       "previousParty": null,
       "candidates": [
-        {"name":"For","party":null,"votes":2463308},
-        {"name":"Against","party":null,"votes":1669768}
+        {"name":"For","party":null,"votes":2463303},
+        {"name":"Against","party":null,"votes":1669758}
       ]
     },
     {
@@ -1023,8 +1023,8 @@
       "statewide": false,
       "previousParty": "R",
       "candidates": [
-        {"name":"Kevin Corbin","party":"R","votes":55374},
-        {"name":"Tom Downing","party":"D","votes":39781}
+        {"name":"Kevin Corbin","party":"R","votes":55364},
+        {"name":"Tom Downing","party":"D","votes":39776}
       ]
     },
     {
@@ -2678,8 +2678,8 @@
       "statewide": false,
       "previousParty": "R",
       "candidates": [
-        {"name":"Karl Gillespie","party":"R","votes":25619},
-        {"name":"Caleb Brown","party":"D","votes":12120}
+        {"name":"Karl Gillespie","party":"R","votes":25609},
+        {"name":"Caleb Brown","party":"D","votes":12115}
       ]
     }
   ]
