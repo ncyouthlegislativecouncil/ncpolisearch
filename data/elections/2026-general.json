@@ -2,7 +2,7 @@
   "election": "2026-11-03",
   "name": "2026 General Election",
   "source": "https://s3.amazonaws.com/dl.ncsbe.gov/ENRS/2026_11_03/results_pct_20261103.zip",
-  "sourceUpdated": "2026-11-11T00:55:48.000Z",
+  "sourceUpdated": "2026-11-11T18:10:48.000Z",
   "certified": false,
   "races": [
     {
@@ -15,10 +15,10 @@
       "statewide": true,
       "previousParty": "R",
       "candidates": [
-        {"name":"Roy Cooper","party":"D","votes":2478251},
-        {"name":"Michael Whatley","party":"R","votes":1647802},
-        {"name":"Shannon W. Bray","party":"L","votes":56026},
-        {"name":"Michael Dublin","party":"G","votes":36657}
+        {"name":"Roy Cooper","party":"D","votes":2481017},
+        {"name":"Michael Whatley","party":"R","votes":1648945},
+        {"name":"Shannon W. Bray","party":"L","votes":56091},
+        {"name":"Michael Dublin","party":"G","votes":36716}
       ]
     },
     {
@@ -31,8 +31,8 @@
       "statewide": false,
       "previousParty": "D",
       "candidates": [
-        {"name":"Don Davis","party":"D","votes":157489},
-        {"name":"Laurie Buckhout","party":"R","votes":146700},
+        {"name":"Don Davis","party":"D","votes":157506},
+        {"name":"Laurie Buckhout","party":"R","votes":146706},
         {"name":"Tom Bailey","party":"L","votes":9945}
       ]
     },
@@ -46,10 +46,10 @@
       "statewide": false,
       "previousParty": "D",
       "candidates": [
-        {"name":"Deborah K. Ross","party":"D","votes":245402},
-        {"name":"Eugene F. Douglass","party":"R","votes":76763},
-        {"name":"Matthew Laszacs","party":"L","votes":4267},
-        {"name":"Write-In (Miscellaneous)","party":null,"votes":530}
+        {"name":"Deborah K. Ross","party":"D","votes":246476},
+        {"name":"Eugene F. Douglass","party":"R","votes":76980},
+        {"name":"Matthew Laszacs","party":"L","votes":4298},
+        {"name":"Write-In (Miscellaneous)","party":null,"votes":535}
       ]
     },
     {
@@ -77,9 +77,9 @@
       "statewide": false,
       "previousParty": "D",
       "candidates": [
-        {"name":"Valerie P. Foushee","party":"D","votes":284475},
-        {"name":"Mahesh (Max) Ganorkar","party":"R","votes":67974},
-        {"name":"Guy Meilleur","party":"L","votes":6995}
+        {"name":"Valerie P. Foushee","party":"D","votes":284629},
+        {"name":"Mahesh (Max) Ganorkar","party":"R","votes":68025},
+        {"name":"Guy Meilleur","party":"L","votes":7005}
       ]
     },
     {
@@ -92,9 +92,9 @@
       "statewide": false,
       "previousParty": "R",
       "candidates": [
-        {"name":"Chuck Hubbard","party":"D","votes":139672},
-        {"name":"Virginia Foxx","party":"R","votes":139347},
-        {"name":"Robert B. Luffman","party":"L","votes":7574}
+        {"name":"Chuck Hubbard","party":"D","votes":139788},
+        {"name":"Virginia Foxx","party":"R","votes":139453},
+        {"name":"Robert B. Luffman","party":"L","votes":7579}
       ]
     },
     {
@@ -107,8 +107,8 @@
       "statewide": false,
       "previousParty": "R",
       "candidates": [
-        {"name":"Cyril Jefferson","party":"D","votes":140598},
-        {"name":"Addison McDowell","party":"R","votes":134071}
+        {"name":"Cyril Jefferson","party":"D","votes":140727},
+        {"name":"Addison McDowell","party":"R","votes":134108}
       ]
     },
     {
@@ -121,9 +121,9 @@
       "statewide": false,
       "previousParty": "R",
       "candidates": [
-        {"name":"David Rouzer","party":"R","votes":160605},
-        {"name":"Kimberly Hardy","party":"D","votes":158227},
-        {"name":"Maad Abu-Ghazalah","party":"L","votes":3165}
+        {"name":"David Rouzer","party":"R","votes":160701},
+        {"name":"Kimberly Hardy","party":"D","votes":158431},
+        {"name":"Maad Abu-Ghazalah","party":"L","votes":3175}
       ]
     },
     {
@@ -136,9 +136,9 @@
       "statewide": false,
       "previousParty": "R",
       "candidates": [
-        {"name":"Mark Harris","party":"R","votes":147616},
-        {"name":"Colby Watson","party":"D","votes":142539},
-        {"name":"Bo Whitehead","party":"G","votes":2903}
+        {"name":"Mark Harris","party":"R","votes":147687},
+        {"name":"Colby Watson","party":"D","votes":142672},
+        {"name":"Bo Whitehead","party":"G","votes":2909}
       ]
     },
     {
@@ -151,8 +151,8 @@
       "statewide": false,
       "previousParty": "R",
       "candidates": [
-        {"name":"Richard N. Ojeda II","party":"D","votes":139124},
-        {"name":"Richard Hudson","party":"R","votes":132906}
+        {"name":"Richard N. Ojeda II","party":"D","votes":139486},
+        {"name":"Richard Hudson","party":"R","votes":133196}
       ]
     },
     {
@@ -180,8 +180,8 @@
       "statewide": false,
       "previousParty": "R",
       "candidates": [
-        {"name":"Jamie Ager","party":"D","votes":196285},
-        {"name":"Jennifer Capps Balkcom","party":"R","votes":141890},
+        {"name":"Jamie Ager","party":"D","votes":196291},
+        {"name":"Jennifer Capps Balkcom","party":"R","votes":141897},
         {"name":"Travis Groo","party":"L","votes":5367}
       ]
     },
@@ -209,9 +209,9 @@
       "statewide": false,
       "previousParty": "R",
       "candidates": [
-        {"name":"Paul Barringer","party":"D","votes":160445},
-        {"name":"Brad Knott","party":"R","votes":152570},
-        {"name":"Steven Swinton","party":"L","votes":4491}
+        {"name":"Paul Barringer","party":"D","votes":160839},
+        {"name":"Brad Knott","party":"R","votes":152855},
+        {"name":"Steven Swinton","party":"L","votes":4510}
       ]
     },
     {
@@ -238,8 +238,8 @@
       "statewide": true,
       "previousParty": "D",
       "candidates": [
-        {"name":"Anita Earls","party":"D","votes":2467095},
-        {"name":"Sarah Stevens","party":"R","votes":1722129}
+        {"name":"Anita Earls","party":"D","votes":2469828},
+        {"name":"Sarah Stevens","party":"R","votes":1723367}
       ]
     },
     {
@@ -252,8 +252,8 @@
       "statewide": true,
       "previousParty": null,
       "candidates": [
-        {"name":"John S. Arrowood","party":"D","votes":2372203},
-        {"name":"Michael C. Byrne","party":"R","votes":1804052}
+        {"name":"John S. Arrowood","party":"D","votes":2374879},
+        {"name":"Michael C. Byrne","party":"R","votes":1805339}
       ]
     },
     {
@@ -266,8 +266,8 @@
       "statewide": true,
       "previousParty": null,
       "candidates": [
-        {"name":"Tobias (Toby) Hampson","party":"D","votes":2370489},
-        {"name":"George Cooper Bell","party":"R","votes":1801657}
+        {"name":"Tobias (Toby) Hampson","party":"D","votes":2373153},
+        {"name":"George Cooper Bell","party":"R","votes":1802952}
       ]
     },
     {
@@ -280,8 +280,8 @@
       "statewide": true,
       "previousParty": null,
       "candidates": [
-        {"name":"Christine Marie Walczyk","party":"D","votes":2382469},
-        {"name":"Craig Collins","party":"R","votes":1786083}
+        {"name":"Christine Marie Walczyk","party":"D","votes":2385154},
+        {"name":"Craig Collins","party":"R","votes":1787342}
       ]
     },
     {
@@ -294,8 +294,8 @@
       "statewide": true,
       "previousParty": null,
       "candidates": [
-        {"name":"For","party":null,"votes":2569116},
-        {"name":"Against","party":null,"votes":1579688}
+        {"name":"For","party":null,"votes":2571609},
+        {"name":"Against","party":null,"votes":1581047}
       ]
     },
     {
@@ -308,8 +308,8 @@
       "statewide": true,
       "previousParty": null,
       "candidates": [
-        {"name":"For","party":null,"votes":2501461},
-        {"name":"Against","party":null,"votes":1638920}
+        {"name":"For","party":null,"votes":2503763},
+        {"name":"Against","party":null,"votes":1640445}
       ]
     },
     {
@@ -322,8 +322,8 @@
       "statewide": true,
       "previousParty": null,
       "candidates": [
-        {"name":"For","party":null,"votes":2472425},
-        {"name":"Against","party":null,"votes":1675412}
+        {"name":"For","party":null,"votes":2474819},
+        {"name":"Against","party":null,"votes":1676843}
       ]
     },
     {
@@ -350,8 +350,8 @@
       "statewide": false,
       "previousParty": "R",
       "candidates": [
-        {"name":"Norman Sanderson","party":"R","votes":47309},
-        {"name":"Roy Surrett","party":"D","votes":40694}
+        {"name":"Norman Sanderson","party":"R","votes":47316},
+        {"name":"Roy Surrett","party":"D","votes":40710}
       ]
     },
     {
@@ -492,8 +492,8 @@
       "statewide": false,
       "previousParty": "R",
       "candidates": [
-        {"name":"Jim Burgin","party":"R","votes":34801},
-        {"name":"Tanya White Anderson","party":"D","votes":32426}
+        {"name":"Jim Burgin","party":"R","votes":35025},
+        {"name":"Tanya White Anderson","party":"D","votes":32700}
       ]
     },
     {
@@ -506,8 +506,8 @@
       "statewide": false,
       "previousParty": "D",
       "candidates": [
-        {"name":"Lisa Grafstein","party":"D","votes":63834},
-        {"name":"Robert van Brederode","party":"R","votes":41169}
+        {"name":"Lisa Grafstein","party":"D","votes":63974},
+        {"name":"Robert van Brederode","party":"R","votes":41252}
       ]
     },
     {
@@ -520,8 +520,8 @@
       "statewide": false,
       "previousParty": "D",
       "candidates": [
-        {"name":"Dan Blue","party":"D","votes":67944},
-        {"name":"Angela B. McCarty","party":"R","votes":14912}
+        {"name":"Dan Blue","party":"D","votes":68334},
+        {"name":"Angela B. McCarty","party":"R","votes":14976}
       ]
     },
     {
@@ -534,8 +534,8 @@
       "statewide": false,
       "previousParty": "D",
       "candidates": [
-        {"name":"Jay J. Chaudhuri","party":"D","votes":61375},
-        {"name":"David Bankert","party":"R","votes":20368}
+        {"name":"Jay J. Chaudhuri","party":"D","votes":61610},
+        {"name":"David Bankert","party":"R","votes":20418}
       ]
     },
     {
@@ -548,9 +548,9 @@
       "statewide": false,
       "previousParty": "D",
       "candidates": [
-        {"name":"Gale Adcock","party":"D","votes":66706},
-        {"name":"Philip Hensley","party":"R","votes":20952},
-        {"name":"Jonathan D. Miller","party":"L","votes":1748}
+        {"name":"Gale Adcock","party":"D","votes":66862},
+        {"name":"Philip Hensley","party":"R","votes":21002},
+        {"name":"Jonathan D. Miller","party":"L","votes":1765}
       ]
     },
     {
@@ -563,9 +563,9 @@
       "statewide": false,
       "previousParty": "D",
       "candidates": [
-        {"name":"Mrs. Sydney Batch","party":"D","votes":61644},
-        {"name":"Shirley Johnson","party":"R","votes":21392},
-        {"name":"Patrick J. Bowersox","party":"L","votes":1763}
+        {"name":"Mrs. Sydney Batch","party":"D","votes":61777},
+        {"name":"Shirley Johnson","party":"R","votes":21424},
+        {"name":"Patrick J. Bowersox","party":"L","votes":1769}
       ]
     },
     {
@@ -578,9 +578,9 @@
       "statewide": false,
       "previousParty": "D",
       "candidates": [
-        {"name":"Haseeb Fatmi","party":"D","votes":54262},
-        {"name":"Chris Stock","party":"R","votes":42357},
-        {"name":"Brad Hessel","party":"L","votes":2410}
+        {"name":"Haseeb Fatmi","party":"D","votes":54365},
+        {"name":"Chris Stock","party":"R","votes":42404},
+        {"name":"Brad Hessel","party":"L","votes":2414}
       ]
     },
     {
@@ -593,8 +593,8 @@
       "statewide": false,
       "previousParty": "D",
       "candidates": [
-        {"name":"Val Applewhite","party":"D","votes":45421},
-        {"name":"Venus de la Cruz","party":"R","votes":16327}
+        {"name":"Val Applewhite","party":"D","votes":45730},
+        {"name":"Venus de la Cruz","party":"R","votes":16406}
       ]
     },
     {
@@ -620,8 +620,8 @@
       "statewide": false,
       "previousParty": "R",
       "candidates": [
-        {"name":"Tom McInnis","party":"R","votes":41905},
-        {"name":"Paul Taylor","party":"D","votes":35158}
+        {"name":"Tom McInnis","party":"R","votes":42087},
+        {"name":"Paul Taylor","party":"D","votes":35334}
       ]
     },
     {
@@ -648,8 +648,8 @@
       "statewide": false,
       "previousParty": "D",
       "candidates": [
-        {"name":"Jonah Garson","party":"D","votes":69476},
-        {"name":"Laura Pichardo","party":"R","votes":26257}
+        {"name":"Jonah Garson","party":"D","votes":69490},
+        {"name":"Laura Pichardo","party":"R","votes":26263}
       ]
     },
     {
@@ -676,8 +676,8 @@
       "statewide": false,
       "previousParty": "R",
       "candidates": [
-        {"name":"Amy Scott Galey","party":"R","votes":42744},
-        {"name":"Southey Blanton","party":"D","votes":40292}
+        {"name":"Amy Scott Galey","party":"R","votes":42777},
+        {"name":"Southey Blanton","party":"D","votes":40313}
       ]
     },
     {
@@ -690,8 +690,8 @@
       "statewide": false,
       "previousParty": "R",
       "candidates": [
-        {"name":"Sam Page","party":"R","votes":50268},
-        {"name":"Steve Luking","party":"D","votes":43296}
+        {"name":"Sam Page","party":"R","votes":50371},
+        {"name":"Steve Luking","party":"D","votes":43417}
       ]
     },
     {
@@ -730,8 +730,8 @@
       "statewide": false,
       "previousParty": "R",
       "candidates": [
-        {"name":"Dave Craven","party":"R","votes":43184},
-        {"name":"Judy Little","party":"D","votes":27711}
+        {"name":"Dave Craven","party":"R","votes":43271},
+        {"name":"Judy Little","party":"D","votes":27768}
       ]
     },
     {
@@ -801,8 +801,8 @@
       "statewide": false,
       "previousParty": "R",
       "candidates": [
-        {"name":"April Cook","party":"D","votes":46750},
-        {"name":"Kevin Crutchfield","party":"R","votes":34328}
+        {"name":"April Cook","party":"D","votes":47034},
+        {"name":"Kevin Crutchfield","party":"R","votes":34437}
       ]
     },
     {
@@ -815,8 +815,8 @@
       "statewide": false,
       "previousParty": "R",
       "candidates": [
-        {"name":"Todd Johnson","party":"R","votes":52236},
-        {"name":"Christine E. Winward","party":"D","votes":44511}
+        {"name":"Todd Johnson","party":"R","votes":52240},
+        {"name":"Christine E. Winward","party":"D","votes":44517}
       ]
     },
     {
@@ -1023,8 +1023,8 @@
       "statewide": false,
       "previousParty": "R",
       "candidates": [
-        {"name":"Kevin Corbin","party":"R","votes":55520},
-        {"name":"Tom Downing","party":"D","votes":39921}
+        {"name":"Kevin Corbin","party":"R","votes":55528},
+        {"name":"Tom Downing","party":"D","votes":39927}
       ]
     },
     {
@@ -1107,8 +1107,8 @@
       "statewide": false,
       "previousParty": "R",
       "candidates": [
-        {"name":"Joe Pike","party":"R","votes":14489},
-        {"name":"Tony Spears","party":"D","votes":13887}
+        {"name":"Joe Pike","party":"R","votes":14621},
+        {"name":"Tony Spears","party":"D","votes":14068}
       ]
     },
     {
@@ -1177,8 +1177,8 @@
       "statewide": false,
       "previousParty": "D",
       "candidates": [
-        {"name":"Allison A. Dahle","party":"D","votes":30013},
-        {"name":"Matthew Kordon","party":"L","votes":6854}
+        {"name":"Allison A. Dahle","party":"D","votes":30074},
+        {"name":"Matthew Kordon","party":"L","votes":6871}
       ]
     },
     {
@@ -1316,8 +1316,8 @@
       "statewide": false,
       "previousParty": "D",
       "candidates": [
-        {"name":"Ya Liu","party":"D","votes":29171},
-        {"name":"Bryson Johnson","party":"R","votes":11722}
+        {"name":"Ya Liu","party":"D","votes":29222},
+        {"name":"Bryson Johnson","party":"R","votes":11744}
       ]
     },
     {
@@ -1400,8 +1400,8 @@
       "statewide": false,
       "previousParty": "D",
       "candidates": [
-        {"name":"Rodney D. Pierce","party":"D","votes":20743},
-        {"name":"David Woodson","party":"R","votes":11898}
+        {"name":"Rodney D. Pierce","party":"D","votes":20759},
+        {"name":"David Woodson","party":"R","votes":11904}
       ]
     },
     {
@@ -1482,8 +1482,8 @@
       "statewide": false,
       "previousParty": "D",
       "candidates": [
-        {"name":"Monika Johnson-Hostler","party":"D","votes":29474},
-        {"name":"Matthew Orr","party":"R","votes":7793}
+        {"name":"Monika Johnson-Hostler","party":"D","votes":29606},
+        {"name":"Matthew Orr","party":"R","votes":7816}
       ]
     },
     {
@@ -1496,8 +1496,8 @@
       "statewide": false,
       "previousParty": "D",
       "candidates": [
-        {"name":"Tim Longest","party":"D","votes":29813},
-        {"name":"Ed George","party":"L","votes":6731}
+        {"name":"Tim Longest","party":"D","votes":29903},
+        {"name":"Ed George","party":"L","votes":6743}
       ]
     },
     {
@@ -1510,8 +1510,8 @@
       "statewide": false,
       "previousParty": "R",
       "candidates": [
-        {"name":"Evonne S. Hopkins","party":"D","votes":25607},
-        {"name":"Mike Schietzelt","party":"R","votes":20994}
+        {"name":"Evonne S. Hopkins","party":"D","votes":25663},
+        {"name":"Mike Schietzelt","party":"R","votes":21028}
       ]
     },
     {
@@ -1524,8 +1524,8 @@
       "statewide": false,
       "previousParty": "D",
       "candidates": [
-        {"name":"Julie von Haefen","party":"D","votes":26677},
-        {"name":"Mary Insprucker","party":"R","votes":15686}
+        {"name":"Julie von Haefen","party":"D","votes":26716},
+        {"name":"Mary Insprucker","party":"R","votes":15700}
       ]
     },
     {
@@ -1538,8 +1538,8 @@
       "statewide": false,
       "previousParty": "R",
       "candidates": [
-        {"name":"Winn Decker","party":"D","votes":26678},
-        {"name":"Erin Pare","party":"R","votes":22074}
+        {"name":"Winn Decker","party":"D","votes":26742},
+        {"name":"Erin Pare","party":"R","votes":22120}
       ]
     },
     {
@@ -1552,7 +1552,7 @@
       "statewide": false,
       "previousParty": "D",
       "candidates": [
-        {"name":"Abe Jones","party":"D","votes":27817}
+        {"name":"Abe Jones","party":"D","votes":27996}
       ]
     },
     {
@@ -1565,9 +1565,9 @@
       "statewide": false,
       "previousParty": "D",
       "candidates": [
-        {"name":"James A. Roberson","party":"D","votes":29894},
-        {"name":"Jorge Cordova","party":"R","votes":10332},
-        {"name":"Wayne Cockrell","party":"L","votes":962}
+        {"name":"James A. Roberson","party":"D","votes":30027},
+        {"name":"Jorge Cordova","party":"R","votes":10367},
+        {"name":"Wayne Cockrell","party":"L","votes":968}
       ]
     },
     {
@@ -1580,8 +1580,8 @@
       "statewide": false,
       "previousParty": "D",
       "candidates": [
-        {"name":"Phil Rubin","party":"D","votes":31473},
-        {"name":"Lucas Everett Jones","party":"L","votes":7478}
+        {"name":"Phil Rubin","party":"D","votes":31530},
+        {"name":"Lucas Everett Jones","party":"L","votes":7493}
       ]
     },
     {
@@ -1594,8 +1594,8 @@
       "statewide": false,
       "previousParty": "D",
       "candidates": [
-        {"name":"Maria Cervania","party":"D","votes":27656},
-        {"name":"Bruce Forster","party":"R","votes":8619}
+        {"name":"Maria Cervania","party":"D","votes":27720},
+        {"name":"Bruce Forster","party":"R","votes":8633}
       ]
     },
     {
@@ -1608,7 +1608,7 @@
       "statewide": false,
       "previousParty": "D",
       "candidates": [
-        {"name":"Mike Colvin","party":"D","votes":14696}
+        {"name":"Mike Colvin","party":"D","votes":14795}
       ]
     },
     {
@@ -1621,8 +1621,8 @@
       "statewide": false,
       "previousParty": "R",
       "candidates": [
-        {"name":"Janene Ackles","party":"D","votes":15821},
-        {"name":"Diane Wheatley","party":"R","votes":14534}
+        {"name":"Janene Ackles","party":"D","votes":15900},
+        {"name":"Diane Wheatley","party":"R","votes":14590}
       ]
     },
     {
@@ -1635,7 +1635,7 @@
       "statewide": false,
       "previousParty": "D",
       "candidates": [
-        {"name":"Charles Smith","party":"D","votes":17820}
+        {"name":"Charles Smith","party":"D","votes":17937}
       ]
     },
     {
@@ -1648,7 +1648,7 @@
       "statewide": false,
       "previousParty": "D",
       "candidates": [
-        {"name":"Frances Jackson","party":"D","votes":17975}
+        {"name":"Frances Jackson","party":"D","votes":18076}
       ]
     },
     {
@@ -1703,8 +1703,8 @@
       "statewide": false,
       "previousParty": "D",
       "candidates": [
-        {"name":"Cynthia Ball","party":"D","votes":25262},
-        {"name":"Daran Thomas","party":"R","votes":6711}
+        {"name":"Cynthia Ball","party":"D","votes":25373},
+        {"name":"Daran Thomas","party":"R","votes":6730}
       ]
     },
     {
@@ -1717,7 +1717,7 @@
       "statewide": false,
       "previousParty": "D",
       "candidates": [
-        {"name":"Renee A. Price","party":"D","votes":30027}
+        {"name":"Renee A. Price","party":"D","votes":30040}
       ]
     },
     {
@@ -1730,8 +1730,8 @@
       "statewide": false,
       "previousParty": "R",
       "candidates": [
-        {"name":"April Montgomery","party":"U","votes":13974},
-        {"name":"Charles M. Taylor","party":"R","votes":13554}
+        {"name":"April Montgomery","party":"U","votes":13988},
+        {"name":"Charles M. Taylor","party":"R","votes":13578}
       ]
     },
     {
@@ -1744,8 +1744,8 @@
       "statewide": false,
       "previousParty": "R",
       "candidates": [
-        {"name":"Ben Moss","party":"R","votes":15916},
-        {"name":"Joe Parfitt","party":"D","votes":14888}
+        {"name":"Ben Moss","party":"R","votes":15959},
+        {"name":"Joe Parfitt","party":"D","votes":14920}
       ]
     },
     {
@@ -1758,9 +1758,9 @@
       "statewide": false,
       "previousParty": "R",
       "candidates": [
-        {"name":"Howard L. Penny, Jr.","party":"R","votes":17591},
-        {"name":"Kevin G. Thurman","party":"D","votes":15823},
-        {"name":"Christopher Sessions","party":"L","votes":724}
+        {"name":"Howard L. Penny, Jr.","party":"R","votes":17676},
+        {"name":"Kevin G. Thurman","party":"D","votes":15914},
+        {"name":"Christopher Sessions","party":"L","votes":729}
       ]
     },
     {
@@ -1773,7 +1773,7 @@
       "statewide": false,
       "previousParty": "D",
       "candidates": [
-        {"name":"Robert T. Reives II","party":"D","votes":30604}
+        {"name":"Robert T. Reives II","party":"D","votes":30616}
       ]
     },
     {
@@ -1923,8 +1923,8 @@
       "statewide": false,
       "previousParty": "R",
       "candidates": [
-        {"name":"Seth Woodall","party":"R","votes":21413},
-        {"name":"Gavin McGaughey","party":"D","votes":12456}
+        {"name":"Seth Woodall","party":"R","votes":21523},
+        {"name":"Gavin McGaughey","party":"D","votes":12570}
       ]
     },
     {
@@ -1937,7 +1937,7 @@
       "statewide": false,
       "previousParty": "D",
       "candidates": [
-        {"name":"Sarah Crawford","party":"D","votes":29620}
+        {"name":"Sarah Crawford","party":"D","votes":29719}
       ]
     },
     {
@@ -1992,8 +1992,8 @@
       "statewide": false,
       "previousParty": "R",
       "candidates": [
-        {"name":"Brian Biggs","party":"R","votes":18928},
-        {"name":"William (Bill) McCaskill","party":"D","votes":9291}
+        {"name":"Brian Biggs","party":"R","votes":18993},
+        {"name":"William (Bill) McCaskill","party":"D","votes":9344}
       ]
     },
     {
@@ -2033,8 +2033,8 @@
       "statewide": false,
       "previousParty": "R",
       "candidates": [
-        {"name":"Thomas J. Monks","party":"D","votes":17333},
-        {"name":"Jonathan Almond","party":"R","votes":14884}
+        {"name":"Thomas J. Monks","party":"D","votes":17436},
+        {"name":"Jonathan Almond","party":"R","votes":14937}
       ]
     },
     {
@@ -2103,8 +2103,8 @@
       "statewide": false,
       "previousParty": "R",
       "candidates": [
-        {"name":"Neal Jackson","party":"R","votes":24521},
-        {"name":"Matt Holway","party":"D","votes":11430}
+        {"name":"Neal Jackson","party":"R","votes":24618},
+        {"name":"Matt Holway","party":"D","votes":11471}
       ]
     },
     {
@@ -2158,8 +2158,8 @@
       "statewide": false,
       "previousParty": "R",
       "candidates": [
-        {"name":"Chris Bishopp","party":"D","votes":20956},
-        {"name":"Brian Echevarria","party":"R","votes":16481}
+        {"name":"Chris Bishopp","party":"D","votes":21047},
+        {"name":"Brian Echevarria","party":"R","votes":16526}
       ]
     },
     {
@@ -2172,8 +2172,8 @@
       "statewide": false,
       "previousParty": "R",
       "candidates": [
-        {"name":"Grant Campbell","party":"R","votes":18261},
-        {"name":"Johnnie Jones","party":"D","votes":14151}
+        {"name":"Grant Campbell","party":"R","votes":18277},
+        {"name":"Johnnie Jones","party":"D","votes":14212}
       ]
     },
     {
@@ -2678,8 +2678,8 @@
       "statewide": false,
       "previousParty": "R",
       "candidates": [
-        {"name":"Karl Gillespie","party":"R","votes":25663},
-        {"name":"Caleb Brown","party":"D","votes":12162}
+        {"name":"Karl Gillespie","party":"R","votes":25670},
+        {"name":"Caleb Brown","party":"D","votes":12168}
       ]
     }
   ]

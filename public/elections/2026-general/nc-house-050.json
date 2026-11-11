@@ -9,7 +9,7 @@
       "county": "CASWELL",
       "precinct": "ANDE",
       "votes": [
-        [103,120,4,0]
+        [103,120,4,2]
       ]
     },
     {
@@ -17,7 +17,7 @@
       "county": "CASWELL",
       "precinct": "LEAS",
       "votes": [
-        [107,114,4,0]
+        [107,114,4,1]
       ]
     },
     {
@@ -25,7 +25,7 @@
       "county": "CASWELL",
       "precinct": "LOCU",
       "votes": [
-        [257,548,10,0]
+        [257,548,10,1]
       ]
     },
     {
@@ -33,7 +33,7 @@
       "county": "CASWELL",
       "precinct": "MILT",
       "votes": [
-        [300,434,11,0]
+        [300,434,11,2]
       ]
     },
     {
@@ -41,7 +41,7 @@
       "county": "CASWELL",
       "precinct": "PELH",
       "votes": [
-        [336,464,19,0]
+        [336,464,19,2]
       ]
     },
     {
@@ -49,7 +49,7 @@
       "county": "CASWELL",
       "precinct": "PH",
       "votes": [
-        [231,378,11,0]
+        [231,378,11,2]
       ]
     },
     {
@@ -57,7 +57,7 @@
       "county": "CASWELL",
       "precinct": "PROVI",
       "votes": [
-        [90,156,1,0]
+        [90,156,1,2]
       ]
     },
     {
@@ -73,7 +73,7 @@
       "county": "CASWELL",
       "precinct": "YANC",
       "votes": [
-        [184,590,13,0]
+        [184,590,13,1]
       ]
     },
     {

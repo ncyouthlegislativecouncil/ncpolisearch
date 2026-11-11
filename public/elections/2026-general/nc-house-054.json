@@ -153,7 +153,7 @@
       "county": "RANDOLPH",
       "precinct": "LB",
       "votes": [
-        [391,354,16,0]
+        [391,354,16,6]
       ]
     },
     {
@@ -161,7 +161,7 @@
       "county": "RANDOLPH",
       "precinct": "ST",
       "votes": [
-        [246,189,10,0]
+        [246,189,11,5]
       ]
     }
   ],

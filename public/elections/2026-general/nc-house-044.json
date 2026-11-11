@@ -9,7 +9,7 @@
       "county": "CUMBERLAND",
       "precinct": "CC01",
       "votes": [
-        [242,529,14,0]
+        [242,529,14,12]
       ]
     },
     {
@@ -17,7 +17,7 @@
       "county": "CUMBERLAND",
       "precinct": "CC03",
       "votes": [
-        [150,261,15,0]
+        [150,261,15,1]
       ]
     },
     {
@@ -33,7 +33,7 @@
       "county": "CUMBERLAND",
       "precinct": "CC06",
       "votes": [
-        [148,203,14,0]
+        [148,203,14,2]
       ]
     },
     {
@@ -57,7 +57,7 @@
       "county": "CUMBERLAND",
       "precinct": "CC10",
       "votes": [
-        [181,193,6,0]
+        [181,193,6,1]
       ]
     },
     {
@@ -65,7 +65,7 @@
       "county": "CUMBERLAND",
       "precinct": "CC12",
       "votes": [
-        [265,382,23,0]
+        [265,382,23,2]
       ]
     },
     {
@@ -73,7 +73,7 @@
       "county": "CUMBERLAND",
       "precinct": "CC13",
       "votes": [
-        [151,496,17,0]
+        [151,496,17,14]
       ]
     },
     {
@@ -81,7 +81,7 @@
       "county": "CUMBERLAND",
       "precinct": "CC14",
       "votes": [
-        [247,575,22,0]
+        [247,575,22,7]
       ]
     },
     {
@@ -89,7 +89,7 @@
       "county": "CUMBERLAND",
       "precinct": "CC15",
       "votes": [
-        [340,518,27,0]
+        [340,518,27,2]
       ]
     },
     {
@@ -97,7 +97,7 @@
       "county": "CUMBERLAND",
       "precinct": "CC17",
       "votes": [
-        [246,684,21,0]
+        [246,684,21,5]
       ]
     },
     {
@@ -105,7 +105,7 @@
       "county": "CUMBERLAND",
       "precinct": "CC18",
       "votes": [
-        [191,303,12,0]
+        [191,303,12,3]
       ]
     },
     {
@@ -113,7 +113,7 @@
       "county": "CUMBERLAND",
       "precinct": "CC21",
       "votes": [
-        [404,771,28,0]
+        [404,771,28,5]
       ]
     },
     {
@@ -121,7 +121,7 @@
       "county": "CUMBERLAND",
       "precinct": "CC24",
       "votes": [
-        [183,293,14,0]
+        [183,293,14,1]
       ]
     },
     {
@@ -129,7 +129,7 @@
       "county": "CUMBERLAND",
       "precinct": "CC25",
       "votes": [
-        [244,408,26,0]
+        [244,408,26,3]
       ]
     },
     {
@@ -137,7 +137,7 @@
       "county": "CUMBERLAND",
       "precinct": "CC26",
       "votes": [
-        [436,839,34,0]
+        [436,839,34,7]
       ]
     },
     {
@@ -145,7 +145,7 @@
       "county": "CUMBERLAND",
       "precinct": "CC29",
       "votes": [
-        [217,414,20,0]
+        [217,414,20,9]
       ]
     },
     {
@@ -153,7 +153,7 @@
       "county": "CUMBERLAND",
       "precinct": "CC31",
       "votes": [
-        [226,319,12,0]
+        [226,319,12,2]
       ]
     },
     {
@@ -161,7 +161,7 @@
       "county": "CUMBERLAND",
       "precinct": "CC32",
       "votes": [
-        [152,285,12,0]
+        [152,285,12,4]
       ]
     },
     {
@@ -169,7 +169,7 @@
       "county": "CUMBERLAND",
       "precinct": "CC33",
       "votes": [
-        [305,534,24,0]
+        [305,534,24,7]
       ]
     },
     {
@@ -177,7 +177,7 @@
       "county": "CUMBERLAND",
       "precinct": "CC34",
       "votes": [
-        [247,443,14,0]
+        [247,443,14,2]
       ]
     },
     {
@@ -185,7 +185,7 @@
       "county": "CUMBERLAND",
       "precinct": "CC519",
       "votes": [
-        [96,168,3,0]
+        [96,168,3,1]
       ]
     },
     {
@@ -193,7 +193,7 @@
       "county": "CUMBERLAND",
       "precinct": "G2E-2",
       "votes": [
-        [282,639,6,0]
+        [282,639,6,7]
       ]
     },
     {
@@ -201,7 +201,7 @@
       "county": "CUMBERLAND",
       "precinct": "G4A",
       "votes": [
-        [202,252,12,0]
+        [202,252,12,3]
       ]
     },
     {
@@ -209,7 +209,7 @@
       "county": "CUMBERLAND",
       "precinct": "G4B",
       "votes": [
-        [231,228,7,0]
+        [231,228,7,5]
       ]
     },
     {
@@ -217,7 +217,7 @@
       "county": "CUMBERLAND",
       "precinct": "MR02",
       "votes": [
-        [345,627,29,0]
+        [345,627,29,12]
       ]
     }
   ],
