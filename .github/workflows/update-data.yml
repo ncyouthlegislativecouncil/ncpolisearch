@@ -59,7 +59,9 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data
+          # public/elections holds the per-race precinct vote files written by
+          # update-election-results.ts (race pages and Find my precinct).
+          git add data public/elections
           if git diff --cached --quiet; then
             echo "No data changes today."
             echo "changed=false" >> "$GITHUB_OUTPUT"

@@ -398,16 +398,16 @@
       "county": "MECKLENBURG",
       "label": "ABSENTEE BY MAIL",
       "votes": [
-        [0,0,1327,0],
-        [0,0,293,0]
+        [0,0,1328,0],
+        [0,0,295,0]
       ]
     },
     {
       "county": "MECKLENBURG",
       "label": "PROVISIONALS",
       "votes": [
-        [0,0,0,0],
-        [0,0,0,0]
+        [0,0,0,309],
+        [0,0,0,37]
       ]
     },
     {

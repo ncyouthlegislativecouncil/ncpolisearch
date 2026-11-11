@@ -65,7 +65,7 @@
       "county": "DURHAM",
       "precinct": "41",
       "votes": [
-        [214,0,0,0]
+        [215,0,0,0]
       ]
     },
     {
@@ -130,7 +130,7 @@
       "county": "DURHAM",
       "label": "ABSENTEE",
       "votes": [
-        [0,0,1298,0]
+        [0,0,1303,0]
       ]
     },
     {
@@ -207,7 +207,7 @@
       "county": "DURHAM",
       "label": "PROVISIONAL",
       "votes": [
-        [0,0,0,0]
+        [0,0,0,199]
       ]
     },
     {

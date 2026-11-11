@@ -25,7 +25,7 @@
       "county": "CUMBERLAND",
       "precinct": "G10A",
       "votes": [
-        [388,1371,64,0]
+        [388,1371,65,0]
       ]
     },
     {
@@ -33,7 +33,7 @@
       "county": "CUMBERLAND",
       "precinct": "G10B",
       "votes": [
-        [361,574,28,0]
+        [361,574,29,0]
       ]
     },
     {
@@ -41,7 +41,7 @@
       "county": "CUMBERLAND",
       "precinct": "G10C",
       "votes": [
-        [367,957,39,0]
+        [367,957,41,0]
       ]
     },
     {
@@ -49,7 +49,7 @@
       "county": "CUMBERLAND",
       "precinct": "G3A-1",
       "votes": [
-        [394,856,25,0]
+        [394,856,26,0]
       ]
     },
     {
@@ -65,7 +65,7 @@
       "county": "CUMBERLAND",
       "precinct": "G5A-1",
       "votes": [
-        [374,715,24,0]
+        [374,715,25,0]
       ]
     },
     {
@@ -105,7 +105,7 @@
       "county": "CUMBERLAND",
       "precinct": "G8B",
       "votes": [
-        [343,699,26,0]
+        [343,699,27,0]
       ]
     },
     {

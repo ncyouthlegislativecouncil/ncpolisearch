@@ -138,14 +138,14 @@
       "county": "MECKLENBURG",
       "label": "ABSENTEE BY MAIL",
       "votes": [
-        [0,0,582,0]
+        [0,0,583,0]
       ]
     },
     {
       "county": "MECKLENBURG",
       "label": "PROVISIONALS",
       "votes": [
-        [0,0,0,0]
+        [0,0,0,107]
       ]
     },
     {

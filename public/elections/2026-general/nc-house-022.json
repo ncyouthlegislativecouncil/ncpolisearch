@@ -17,7 +17,7 @@
       "county": "BLADEN",
       "precinct": "P15",
       "votes": [
-        [536,532,11,0]
+        [536,532,11,4]
       ]
     },
     {
@@ -25,7 +25,7 @@
       "county": "BLADEN",
       "precinct": "P201",
       "votes": [
-        [272,305,2,0]
+        [272,305,2,2]
       ]
     },
     {
@@ -33,7 +33,7 @@
       "county": "BLADEN",
       "precinct": "P202",
       "votes": [
-        [344,518,5,0]
+        [344,518,5,1]
       ]
     },
     {
@@ -49,7 +49,7 @@
       "county": "BLADEN",
       "precinct": "P30",
       "votes": [
-        [63,115,1,0]
+        [63,115,1,1]
       ]
     },
     {
@@ -57,7 +57,7 @@
       "county": "BLADEN",
       "precinct": "P35",
       "votes": [
-        [50,88,1,0]
+        [50,88,1,1]
       ]
     },
     {
@@ -65,7 +65,7 @@
       "county": "BLADEN",
       "precinct": "P40",
       "votes": [
-        [346,361,0,0]
+        [346,361,0,7]
       ]
     },
     {
@@ -81,7 +81,7 @@
       "county": "BLADEN",
       "precinct": "P501",
       "votes": [
-        [226,539,15,0]
+        [226,539,15,5]
       ]
     },
     {
@@ -89,7 +89,7 @@
       "county": "BLADEN",
       "precinct": "P502",
       "votes": [
-        [133,298,10,0]
+        [133,298,10,3]
       ]
     },
     {
@@ -97,7 +97,7 @@
       "county": "BLADEN",
       "precinct": "P55",
       "votes": [
-        [160,33,0,0]
+        [160,33,0,2]
       ]
     },
     {
@@ -105,7 +105,7 @@
       "county": "BLADEN",
       "precinct": "P60",
       "votes": [
-        [283,136,11,0]
+        [283,136,11,1]
       ]
     },
     {
@@ -113,7 +113,7 @@
       "county": "BLADEN",
       "precinct": "P65",
       "votes": [
-        [163,109,3,0]
+        [163,109,3,2]
       ]
     },
     {
@@ -137,7 +137,7 @@
       "county": "BLADEN",
       "precinct": "P80",
       "votes": [
-        [185,213,2,0]
+        [185,213,2,1]
       ]
     },
     {
@@ -145,7 +145,7 @@
       "county": "SAMPSON",
       "precinct": "AUTR",
       "votes": [
-        [379,234,8,0]
+        [379,234,8,2]
       ]
     },
     {
@@ -161,7 +161,7 @@
       "county": "SAMPSON",
       "precinct": "CLEA",
       "votes": [
-        [270,417,3,0]
+        [270,417,3,2]
       ]
     },
     {
@@ -169,7 +169,7 @@
       "county": "SAMPSON",
       "precinct": "CLEM",
       "votes": [
-        [417,178,3,0]
+        [417,178,3,2]
       ]
     },
     {
@@ -177,7 +177,7 @@
       "county": "SAMPSON",
       "precinct": "CLNE",
       "votes": [
-        [210,421,2,0]
+        [210,421,2,2]
       ]
     },
     {
@@ -185,7 +185,7 @@
       "county": "SAMPSON",
       "precinct": "CLSW",
       "votes": [
-        [153,287,4,0]
+        [153,287,4,1]
       ]
     },
     {
@@ -193,7 +193,7 @@
       "county": "SAMPSON",
       "precinct": "CLWE",
       "votes": [
-        [265,431,4,0]
+        [265,431,4,5]
       ]
     },
     {
@@ -201,7 +201,7 @@
       "county": "SAMPSON",
       "precinct": "GARL",
       "votes": [
-        [200,108,5,0]
+        [200,108,5,2]
       ]
     },
     {
@@ -209,7 +209,7 @@
       "county": "SAMPSON",
       "precinct": "GIDD",
       "votes": [
-        [177,174,3,0]
+        [177,174,3,2]
       ]
     },
     {
@@ -225,7 +225,7 @@
       "county": "SAMPSON",
       "precinct": "HERR",
       "votes": [
-        [218,139,5,0]
+        [218,139,5,2]
       ]
     },
     {
@@ -233,7 +233,7 @@
       "county": "SAMPSON",
       "precinct": "INGO",
       "votes": [
-        [132,173,3,0]
+        [132,173,3,2]
       ]
     },
     {
@@ -241,7 +241,7 @@
       "county": "SAMPSON",
       "precinct": "KEEN",
       "votes": [
-        [257,221,0,0]
+        [257,221,0,2]
       ]
     },
     {
@@ -249,7 +249,7 @@
       "county": "SAMPSON",
       "precinct": "KFRK",
       "votes": [
-        [180,397,12,0]
+        [180,397,12,1]
       ]
     },
     {
@@ -257,7 +257,7 @@
       "county": "SAMPSON",
       "precinct": "LAKE",
       "votes": [
-        [262,330,7,0]
+        [262,330,7,3]
       ]
     },
     {
@@ -265,7 +265,7 @@
       "county": "SAMPSON",
       "precinct": "MING",
       "votes": [
-        [599,388,9,0]
+        [599,388,9,5]
       ]
     },
     {
@@ -273,7 +273,7 @@
       "county": "SAMPSON",
       "precinct": "NGRV",
       "votes": [
-        [248,263,2,0]
+        [248,263,2,3]
       ]
     },
     {
@@ -281,7 +281,7 @@
       "county": "SAMPSON",
       "precinct": "PLVW",
       "votes": [
-        [685,419,5,0]
+        [685,419,5,1]
       ]
     },
     {
@@ -289,7 +289,7 @@
       "county": "SAMPSON",
       "precinct": "ROSE",
       "votes": [
-        [288,149,2,0]
+        [288,149,2,1]
       ]
     },
     {
@@ -297,7 +297,7 @@
       "county": "SAMPSON",
       "precinct": "ROWA",
       "votes": [
-        [194,287,1,0]
+        [194,287,1,2]
       ]
     },
     {
@@ -305,7 +305,7 @@
       "county": "SAMPSON",
       "precinct": "SBRG",
       "votes": [
-        [255,125,4,0]
+        [255,125,4,2]
       ]
     },
     {
@@ -313,7 +313,7 @@
       "county": "SAMPSON",
       "precinct": "TURK",
       "votes": [
-        [182,137,4,0]
+        [182,137,4,7]
       ]
     },
     {
@@ -321,7 +321,7 @@
       "county": "SAMPSON",
       "precinct": "WBRK",
       "votes": [
-        [281,259,1,0]
+        [281,259,1,3]
       ]
     }
   ],

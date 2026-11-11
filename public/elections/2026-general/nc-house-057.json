@@ -242,7 +242,7 @@
       "county": "GUILFORD",
       "label": "ABSENTEE",
       "votes": [
-        [0,0,669,0]
+        [0,0,676,0]
       ]
     },
     {
@@ -256,7 +256,7 @@
       "county": "GUILFORD",
       "label": "PROVISIONAL",
       "votes": [
-        [0,0,0,0]
+        [0,0,0,82]
       ]
     },
     {

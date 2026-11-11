@@ -110,7 +110,7 @@
       "county": "MECKLENBURG",
       "label": "ABSENTEE BY MAIL",
       "votes": [
-        [0,0,1086,0],
+        [0,0,1090,0],
         [0,0,337,0]
       ]
     },
@@ -118,8 +118,8 @@
       "county": "MECKLENBURG",
       "label": "PROVISIONALS",
       "votes": [
-        [0,0,0,0],
-        [0,0,0,0]
+        [0,0,0,49],
+        [0,0,0,25]
       ]
     },
     {

@@ -73,7 +73,7 @@
       "county": "PERSON",
       "precinct": "ALVI",
       "votes": [
-        [320,454,18,1]
+        [320,454,18,3]
       ]
     },
     {
@@ -89,7 +89,7 @@
       "county": "PERSON",
       "precinct": "FLHE",
       "votes": [
-        [537,1130,42,2]
+        [537,1130,42,3]
       ]
     },
     {
@@ -97,7 +97,7 @@
       "county": "PERSON",
       "precinct": "HLWY",
       "votes": [
-        [178,192,8,0]
+        [178,192,8,1]
       ]
     },
     {
@@ -105,7 +105,7 @@
       "county": "PERSON",
       "precinct": "MTTZ",
       "votes": [
-        [303,491,16,1]
+        [303,491,16,3]
       ]
     },
     {
@@ -113,7 +113,7 @@
       "county": "PERSON",
       "precinct": "OLHI",
       "votes": [
-        [176,385,11,0]
+        [176,385,11,1]
       ]
     },
     {
@@ -121,7 +121,7 @@
       "county": "PERSON",
       "precinct": "PNTH",
       "votes": [
-        [376,1073,34,6]
+        [376,1073,34,10]
       ]
     },
     {
@@ -129,7 +129,7 @@
       "county": "PERSON",
       "precinct": "RCOB",
       "votes": [
-        [408,1232,28,2]
+        [408,1232,28,6]
       ]
     },
     {
@@ -137,7 +137,7 @@
       "county": "PERSON",
       "precinct": "ROXL",
       "votes": [
-        [214,540,8,2]
+        [214,540,8,4]
       ]
     },
     {
@@ -145,7 +145,7 @@
       "county": "PERSON",
       "precinct": "SWST",
       "votes": [
-        [289,391,12,0]
+        [289,391,12,1]
       ]
     },
     {
@@ -153,7 +153,7 @@
       "county": "PERSON",
       "precinct": "WDSD",
       "votes": [
-        [172,267,11,3]
+        [172,267,11,6]
       ]
     }
   ],
@@ -162,7 +162,7 @@
       "county": "DURHAM",
       "label": "ABSENTEE",
       "votes": [
-        [0,0,413,0]
+        [0,0,415,0]
       ]
     },
     {
@@ -239,7 +239,7 @@
       "county": "DURHAM",
       "label": "PROVISIONAL",
       "votes": [
-        [0,0,0,0]
+        [0,0,0,111]
       ]
     },
     {

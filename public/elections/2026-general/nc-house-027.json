@@ -407,8 +407,8 @@
       "county": "HALIFAX",
       "label": "ABSENTEE",
       "votes": [
-        [0,0,151,0],
-        [0,0,52,0]
+        [0,0,153,0],
+        [0,0,54,0]
       ]
     },
     {
@@ -447,8 +447,8 @@
       "county": "HALIFAX",
       "label": "PROVISIONAL",
       "votes": [
-        [0,0,0,0],
-        [0,0,0,0]
+        [0,0,0,62],
+        [0,0,0,17]
       ]
     },
     {
@@ -463,7 +463,7 @@
       "county": "NORTHAMPTON",
       "label": "ABSENTEE",
       "votes": [
-        [0,0,50,0],
+        [0,0,51,0],
         [0,0,20,0]
       ]
     },
@@ -495,8 +495,8 @@
       "county": "NORTHAMPTON",
       "label": "PROVISIONAL",
       "votes": [
-        [0,0,0,0],
-        [0,0,0,0]
+        [0,0,0,21],
+        [0,0,0,15]
       ]
     },
     {

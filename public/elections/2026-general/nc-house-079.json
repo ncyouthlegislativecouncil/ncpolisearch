@@ -390,14 +390,14 @@
       "county": "BEAUFORT",
       "label": "EV-CHO",
       "votes": [
-        [0,2138,0,0]
+        [0,2139,0,0]
       ]
     },
     {
       "county": "BEAUFORT",
       "label": "PROVISIONAL",
       "votes": [
-        [0,0,0,0]
+        [0,0,0,52]
       ]
     },
     {
@@ -446,7 +446,7 @@
       "county": "DARE",
       "label": "PROVISIONAL",
       "votes": [
-        [0,0,0,0]
+        [0,0,0,20]
       ]
     },
     {
@@ -488,7 +488,7 @@
       "county": "HYDE",
       "label": "PROVISIONAL",
       "votes": [
-        [0,0,0,0]
+        [0,0,0,11]
       ]
     },
     {
