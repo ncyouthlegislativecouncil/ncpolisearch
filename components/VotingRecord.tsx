@@ -1,3 +1,6 @@
+"use client";
+
+import { useRef, useState } from "react";
 import Link from "next/link";
 import type { LegislatorVoteRow, LegislatorVoteSummary } from "../lib/votes";
 import { voteInfo } from "../lib/vote-display";
@@ -62,74 +65,97 @@ function VoteRow({ row }: { row: LegislatorVoteRow }) {
   );
 }
 
+// Pager. Buttons, not links: pages switch in the browser, so there are no
+// per-page URLs for crawlers to follow and no server work per click.
 function Pagination({
-  peopleId,
   page,
   totalPages,
+  busy,
+  onGo,
 }: {
-  peopleId: number;
   page: number;
   totalPages: number;
+  busy: boolean;
+  onGo: (page: number) => void;
 }) {
   if (totalPages <= 1) return null;
 
-  const href = (p: number) => `/legislators/${peopleId}?vpage=${p}#voting-record`;
+  const on =
+    "rounded-md border border-gray-200 bg-white px-3 py-1.5 text-sm font-medium text-navy hover:border-skyblue hover:text-skyblue disabled:opacity-60";
+  const off = "rounded-md border border-gray-100 bg-gray-50 px-3 py-1.5 text-sm text-gray-300";
 
   return (
     <div className="mt-6 flex items-center justify-between">
       {page > 1 ? (
-        <Link
-          href={href(page - 1)}
-          className="rounded-md border border-gray-200 bg-white px-3 py-1.5 text-sm font-medium text-navy hover:border-skyblue hover:text-skyblue"
-        >
+        <button type="button" disabled={busy} onClick={() => onGo(page - 1)} className={on}>
           ← Newer
-        </Link>
+        </button>
       ) : (
-        <span className="rounded-md border border-gray-100 bg-gray-50 px-3 py-1.5 text-sm text-gray-300">
-          ← Newer
-        </span>
+        <span className={off}>← Newer</span>
       )}
 
       <span className="font-mono text-xs text-navymuted">
-        Page {page} of {totalPages}
+        {busy ? "Loading…" : `Page ${page} of ${totalPages}`}
       </span>
 
       {page < totalPages ? (
-        <Link
-          href={href(page + 1)}
-          className="rounded-md border border-gray-200 bg-white px-3 py-1.5 text-sm font-medium text-navy hover:border-skyblue hover:text-skyblue"
-        >
+        <button type="button" disabled={busy} onClick={() => onGo(page + 1)} className={on}>
           Older →
-        </Link>
+        </button>
       ) : (
-        <span className="rounded-md border border-gray-100 bg-gray-50 px-3 py-1.5 text-sm text-gray-300">
-          Older →
-        </span>
+        <span className={off}>Older →</span>
       )}
     </div>
   );
 }
 
+// `rows` is the first page (newest votes), built into the page. The rest load
+// once from this legislator's pre-built votes file the first time the pager is
+// used, then every page switch is instant.
 export default function VotingRecord({
   peopleId,
   summary,
   rows,
-  page,
   pageSize,
   total,
 }: {
   peopleId: number;
   summary: LegislatorVoteSummary;
   rows: LegislatorVoteRow[];
-  page: number;
   pageSize: number;
   total: number;
 }) {
   const totalPages = Math.max(1, Math.ceil(total / pageSize));
+  const [page, setPage] = useState(1);
+  const [all, setAll] = useState<LegislatorVoteRow[] | null>(null);
+  const [busy, setBusy] = useState(false);
+  const [failed, setFailed] = useState(false);
+  const sectionRef = useRef<HTMLElement>(null);
+
+  const go = async (next: number) => {
+    setFailed(false);
+    if (!all && next !== 1) {
+      setBusy(true);
+      try {
+        const res = await fetch(`/api/legislator-votes/${peopleId}`);
+        if (!res.ok) throw new Error(String(res.status));
+        setAll((await res.json()) as LegislatorVoteRow[]);
+      } catch {
+        setFailed(true);
+        setBusy(false);
+        return;
+      }
+      setBusy(false);
+    }
+    setPage(next);
+    sectionRef.current?.scrollIntoView({ behavior: "smooth", block: "start" });
+  };
+
+  const shown = all ? all.slice((page - 1) * pageSize, page * pageSize) : rows;
   const participationPct = `${Math.round(summary.participation * 100)}%`;
 
   return (
-    <section id="voting-record" className="mt-10 scroll-mt-6">
+    <section ref={sectionRef} id="voting-record" className="mt-10 scroll-mt-24">
       <h2 className="font-serif text-xl font-bold text-navy">
         Voting Record{" "}
         <span className="text-base font-normal text-navymuted">({summary.total})</span>
@@ -151,12 +177,15 @@ export default function VotingRecord({
 
           {/* Vote list (one page). */}
           <ul className="mt-4 divide-y divide-gray-100 rounded-md border border-gray-200 bg-white px-4">
-            {rows.map((row) => (
+            {shown.map((row) => (
               <VoteRow key={row.rollCallId} row={row} />
             ))}
           </ul>
 
-          <Pagination peopleId={peopleId} page={page} totalPages={totalPages} />
+          <Pagination page={page} totalPages={totalPages} busy={busy} onGo={go} />
+          {failed && (
+            <p className="mt-2 text-center text-xs text-ncred">Couldn&apos;t load more votes. Try again.</p>
+          )}
         </>
       )}
     </section>

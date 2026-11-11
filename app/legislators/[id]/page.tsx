@@ -6,6 +6,7 @@ import LegislatorAvatar from "../../../components/LegislatorAvatar";
 import NcOutline from "../../../components/NcOutline";
 import DistrictBadgeModal from "../../../components/DistrictBadgeModal";
 import { getLegislator, getLegislatorBills } from "../../../lib/legislators";
+import { allLegislators } from "../../../lib/data/store";
 import {
   getLegislatorVotes,
   getLegislatorVoteSummary,
@@ -26,6 +27,19 @@ import {
 import emails from "../../../lib/legislator-emails.json";
 
 const VOTES_PER_PAGE = 10;
+
+// Every profile is pre-built at deploy time and served straight from Vercel's
+// CDN, like the bill pages. Rendering these on demand was ~95% of the site's
+// Fast Origin Transfer (crawlers load them constantly). Data only changes when
+// the daily update commits new files, which triggers a fresh deploy. The page
+// must not read searchParams, or it becomes server-rendered again; the voting
+// record pages in the browser instead (see VotingRecord).
+export function generateStaticParams() {
+  return allLegislators().map((l) => ({ id: String(l.peopleId) }));
+}
+
+// Ids not in the data files are a plain 404 rather than an on-demand render.
+export const dynamicParams = false;
 
 function EmailLink({ email }: { email: string }) {
   return (
@@ -55,10 +69,8 @@ function StatCard({
 
 export default async function LegislatorProfilePage({
   params,
-  searchParams,
 }: {
   params: { id: string };
-  searchParams: { vpage?: string };
 }) {
   const peopleId = Number(params.id);
   if (!Number.isInteger(peopleId)) notFound();
@@ -66,15 +78,11 @@ export default async function LegislatorProfilePage({
   const legislator = await getLegislator(peopleId);
   if (!legislator) notFound();
 
-  const parsedPage = Number(searchParams.vpage);
-  const votePage =
-    Number.isInteger(parsedPage) && parsedPage > 0 ? parsedPage : 1;
-
   const [{ sponsored, cosponsored }, voteSummary, voteData, unity] =
     await Promise.all([
       getLegislatorBills(peopleId),
       getLegislatorVoteSummary(peopleId),
-      getLegislatorVotes(peopleId, votePage, VOTES_PER_PAGE),
+      getLegislatorVotes(peopleId, 1, VOTES_PER_PAGE),
       getPartyUnity(peopleId),
     ]);
   const party = partyInfo(legislator.party);
@@ -258,7 +266,6 @@ export default async function LegislatorProfilePage({
         peopleId={peopleId}
         summary={voteSummary}
         rows={voteData.rows}
-        page={voteData.page}
         pageSize={voteData.pageSize}
         total={voteData.total}
       />

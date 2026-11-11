@@ -67,20 +67,28 @@ export async function getLegislatorVotes(
   pageSize = 20
 ): Promise<{ rows: LegislatorVoteRow[]; total: number; page: number; pageSize: number }> {
   const all = votesNewestFirst(peopleId);
-  const rows = all.slice((page - 1) * pageSize, page * pageSize).map(({ rc, vote }) => {
-    const bill = billById(rc.billId);
-    return {
-      rollCallId: rc.rollCallId,
-      billId: rc.billId,
-      billNumber: bill?.billNumber ?? null,
-      billTitle: bill?.title ?? null,
-      date: rc.date,
-      chamber: rc.chamber,
-      passed: rc.passed,
-      vote,
-    };
-  });
+  const rows = all.slice((page - 1) * pageSize, page * pageSize).map(toVoteRow);
   return { rows, total: all.length, page, pageSize };
+}
+
+function toVoteRow({ rc, vote }: { rc: RollCallMeta; vote: string | null }): LegislatorVoteRow {
+  const bill = billById(rc.billId);
+  return {
+    rollCallId: rc.rollCallId,
+    billId: rc.billId,
+    billNumber: bill?.billNumber ?? null,
+    billTitle: bill?.title ?? null,
+    date: rc.date,
+    chamber: rc.chamber,
+    passed: rc.passed,
+    vote,
+  };
+}
+
+// Every vote this legislator cast, most recent first. Used to pre-build the
+// per-legislator votes file the profile page's pager reads in the browser.
+export function getAllLegislatorVotes(peopleId: number): LegislatorVoteRow[] {
+  return votesNewestFirst(peopleId).map(toVoteRow);
 }
 
 // The last N decisive (Yea/Nay) votes this legislator cast, newest first.
