@@ -2,7 +2,7 @@
   "election": "2026-11-03",
   "name": "2026 General Election",
   "source": "https://s3.amazonaws.com/dl.ncsbe.gov/ENRS/2026_11_03/results_pct_20261103.zip",
-  "sourceUpdated": "2026-11-11T18:10:48.000Z",
+  "sourceUpdated": "2026-11-12T18:10:51.000Z",
   "certified": false,
   "races": [
     {
@@ -15,9 +15,9 @@
       "statewide": true,
       "previousParty": "R",
       "candidates": [
-        {"name":"Roy Cooper","party":"D","votes":2481017},
-        {"name":"Michael Whatley","party":"R","votes":1648945},
-        {"name":"Shannon W. Bray","party":"L","votes":56091},
+        {"name":"Roy Cooper","party":"D","votes":2481018},
+        {"name":"Michael Whatley","party":"R","votes":1648946},
+        {"name":"Shannon W. Bray","party":"L","votes":56090},
         {"name":"Michael Dublin","party":"G","votes":36716}
       ]
     },
@@ -32,7 +32,7 @@
       "previousParty": "D",
       "candidates": [
         {"name":"Don Davis","party":"D","votes":157506},
-        {"name":"Laurie Buckhout","party":"R","votes":146706},
+        {"name":"Laurie Buckhout","party":"R","votes":146707},
         {"name":"Tom Bailey","party":"L","votes":9945}
       ]
     },
@@ -239,7 +239,7 @@
       "previousParty": "D",
       "candidates": [
         {"name":"Anita Earls","party":"D","votes":2469828},
-        {"name":"Sarah Stevens","party":"R","votes":1723367}
+        {"name":"Sarah Stevens","party":"R","votes":1723368}
       ]
     },
     {
@@ -253,7 +253,7 @@
       "previousParty": null,
       "candidates": [
         {"name":"John S. Arrowood","party":"D","votes":2374879},
-        {"name":"Michael C. Byrne","party":"R","votes":1805339}
+        {"name":"Michael C. Byrne","party":"R","votes":1805340}
       ]
     },
     {
@@ -266,7 +266,7 @@
       "statewide": true,
       "previousParty": null,
       "candidates": [
-        {"name":"Tobias (Toby) Hampson","party":"D","votes":2373153},
+        {"name":"Tobias (Toby) Hampson","party":"D","votes":2373154},
         {"name":"George Cooper Bell","party":"R","votes":1802952}
       ]
     },
@@ -280,7 +280,7 @@
       "statewide": true,
       "previousParty": null,
       "candidates": [
-        {"name":"Christine Marie Walczyk","party":"D","votes":2385154},
+        {"name":"Christine Marie Walczyk","party":"D","votes":2385155},
         {"name":"Craig Collins","party":"R","votes":1787342}
       ]
     },
@@ -295,7 +295,7 @@
       "previousParty": null,
       "candidates": [
         {"name":"For","party":null,"votes":2571609},
-        {"name":"Against","party":null,"votes":1581047}
+        {"name":"Against","party":null,"votes":1581048}
       ]
     },
     {
@@ -309,7 +309,7 @@
       "previousParty": null,
       "candidates": [
         {"name":"For","party":null,"votes":2503763},
-        {"name":"Against","party":null,"votes":1640445}
+        {"name":"Against","party":null,"votes":1640446}
       ]
     },
     {
@@ -323,7 +323,7 @@
       "previousParty": null,
       "candidates": [
         {"name":"For","party":null,"votes":2474819},
-        {"name":"Against","party":null,"votes":1676843}
+        {"name":"Against","party":null,"votes":1676844}
       ]
     },
     {
@@ -351,7 +351,7 @@
       "previousParty": "R",
       "candidates": [
         {"name":"Norman Sanderson","party":"R","votes":47316},
-        {"name":"Roy Surrett","party":"D","votes":40710}
+        {"name":"Roy Surrett","party":"D","votes":40711}
       ]
     },
     {
@@ -1400,7 +1400,7 @@
       "statewide": false,
       "previousParty": "D",
       "candidates": [
-        {"name":"Rodney D. Pierce","party":"D","votes":20759},
+        {"name":"Rodney D. Pierce","party":"D","votes":20760},
         {"name":"David Woodson","party":"R","votes":11904}
       ]
     },
