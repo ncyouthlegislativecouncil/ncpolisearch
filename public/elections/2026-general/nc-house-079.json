@@ -193,7 +193,7 @@
       "county": "DARE",
       "precinct": "CHCA",
       "votes": [
-        [138,0,0,0]
+        [137,0,0,0]
       ]
     },
     {
@@ -390,7 +390,7 @@
       "county": "BEAUFORT",
       "label": "EV-CHO",
       "votes": [
-        [0,2139,0,0]
+        [0,2137,0,0]
       ]
     },
     {

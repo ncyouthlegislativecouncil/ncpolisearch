@@ -113,7 +113,7 @@
       "county": "MECKLENBURG",
       "precinct": "061",
       "votes": [
-        [317,908,0,0]
+        [317,907,0,0]
       ]
     },
     {
@@ -138,7 +138,7 @@
       "county": "MECKLENBURG",
       "label": "ABSENTEE BY MAIL",
       "votes": [
-        [0,0,583,0]
+        [0,0,582,0]
       ]
     },
     {

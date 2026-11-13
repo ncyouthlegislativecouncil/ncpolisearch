@@ -33,7 +33,7 @@
       "county": "CASWELL",
       "precinct": "MILT",
       "votes": [
-        [300,434,11,2]
+        [300,433,11,2]
       ]
     },
     {
@@ -49,7 +49,7 @@
       "county": "CASWELL",
       "precinct": "PH",
       "votes": [
-        [231,378,11,2]
+        [231,377,11,2]
       ]
     },
     {
@@ -234,14 +234,14 @@
       "county": "ORANGE",
       "label": "ABSENTEE",
       "votes": [
-        [0,0,961,0]
+        [0,0,960,0]
       ]
     },
     {
       "county": "ORANGE",
       "label": "EV CHL",
       "votes": [
-        [0,1016,0,0]
+        [0,1015,0,0]
       ]
     },
     {
@@ -262,14 +262,14 @@
       "county": "ORANGE",
       "label": "EV EFC",
       "votes": [
-        [0,3701,0,0]
+        [0,3698,0,0]
       ]
     },
     {
       "county": "ORANGE",
       "label": "EV OW",
       "votes": [
-        [0,9838,0,0]
+        [0,9837,0,0]
       ]
     },
     {

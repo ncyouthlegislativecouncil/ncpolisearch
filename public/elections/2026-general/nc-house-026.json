@@ -119,15 +119,15 @@
       "county": "JOHNSTON",
       "label": "ABS-SUPPLEMENTAL",
       "votes": [
-        [0,0,0,0],
-        [0,0,0,0]
+        [0,0,18,0],
+        [0,0,6,0]
       ]
     },
     {
       "county": "JOHNSTON",
       "label": "ABSENTEE",
       "votes": [
-        [0,0,637,0],
+        [0,0,636,0],
         [0,0,271,0]
       ]
     },
@@ -135,7 +135,7 @@
       "county": "JOHNSTON",
       "label": "EV-ARCHER LODGE",
       "votes": [
-        [0,6141,0,0],
+        [0,6140,0,0],
         [0,5342,0,0]
       ]
     },
@@ -151,8 +151,8 @@
       "county": "JOHNSTON",
       "label": "EV-CLAYTON",
       "votes": [
-        [0,7736,0,0],
-        [0,4720,0,0]
+        [0,7734,0,0],
+        [0,4719,0,0]
       ]
     },
     {
@@ -167,7 +167,7 @@
       "county": "JOHNSTON",
       "label": "EV-SMITHFIELD",
       "votes": [
-        [0,319,0,0],
+        [0,318,0,0],
         [0,286,0,0]
       ]
     },

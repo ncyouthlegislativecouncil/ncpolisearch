@@ -475,7 +475,7 @@
       "county": "ROCKINGHAM",
       "label": "ABSENTEE",
       "votes": [
-        [0,0,134,0],
+        [0,0,135,0],
         [0,0,267,0]
       ]
     },
@@ -491,15 +491,15 @@
       "county": "ROCKINGHAM",
       "label": "EARLY VOTING 2",
       "votes": [
-        [0,3410,0,0],
-        [0,3873,0,0]
+        [0,3409,0,0],
+        [0,3871,0,0]
       ]
     },
     {
       "county": "ROCKINGHAM",
       "label": "EARLY VOTING 3",
       "votes": [
-        [0,2941,0,0],
+        [0,2940,0,0],
         [0,1380,0,0]
       ]
     },

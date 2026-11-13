@@ -326,31 +326,31 @@
       "county": "NEW HANOVER",
       "label": "ABSENTEE MAIL",
       "votes": [
-        [0,0,2073,0],
-        [0,0,831,0]
+        [0,0,2067,0],
+        [0,0,830,0]
       ]
     },
     {
       "county": "NEW HANOVER",
       "label": "EV BOE",
       "votes": [
-        [0,6511,0,0],
-        [0,4773,0,0]
+        [0,6503,0,0],
+        [0,4772,0,0]
       ]
     },
     {
       "county": "NEW HANOVER",
       "label": "EV CAB",
       "votes": [
-        [0,4512,0,0],
-        [0,5256,0,0]
+        [0,4510,0,0],
+        [0,5255,0,0]
       ]
     },
     {
       "county": "NEW HANOVER",
       "label": "EV MLK",
       "votes": [
-        [0,2454,0,0],
+        [0,2450,0,0],
         [0,383,0,0]
       ]
     },
@@ -358,15 +358,15 @@
       "county": "NEW HANOVER",
       "label": "EV NLB",
       "votes": [
-        [0,9673,0,0],
-        [0,8626,0,0]
+        [0,9667,0,0],
+        [0,8625,0,0]
       ]
     },
     {
       "county": "NEW HANOVER",
       "label": "EV PVL",
       "votes": [
-        [0,10603,0,0],
+        [0,10598,0,0],
         [0,7167,0,0]
       ]
     },

@@ -49,7 +49,7 @@
       "county": "MECKLENBURG",
       "precinct": "230",
       "votes": [
-        [1544,3734,0,0]
+        [1544,3733,0,0]
       ]
     },
     {
@@ -65,7 +65,7 @@
       "county": "MECKLENBURG",
       "precinct": "039",
       "votes": [
-        [413,843,0,0]
+        [413,842,0,0]
       ]
     },
     {
@@ -82,7 +82,7 @@
       "county": "MECKLENBURG",
       "label": "ABSENTEE BY MAIL",
       "votes": [
-        [0,0,802,0]
+        [0,0,801,0]
       ]
     },
     {

@@ -164,7 +164,7 @@
       "county": "NEW HANOVER",
       "label": "ABSENTEE MAIL",
       "votes": [
-        [0,0,1019,0],
+        [0,0,1018,0],
         [0,0,411,0]
       ]
     },
@@ -172,7 +172,7 @@
       "county": "NEW HANOVER",
       "label": "EV BOE",
       "votes": [
-        [0,4156,0,0],
+        [0,4155,0,0],
         [0,3724,0,0]
       ]
     },
@@ -196,7 +196,7 @@
       "county": "NEW HANOVER",
       "label": "EV NLB",
       "votes": [
-        [0,8329,0,0],
+        [0,8327,0,0],
         [0,7731,0,0]
       ]
     },
