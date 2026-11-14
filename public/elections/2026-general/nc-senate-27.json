@@ -249,7 +249,7 @@
       "county": "GUILFORD",
       "precinct": "G48",
       "votes": [
-        [679,0,0,0]
+        [678,0,0,0]
       ]
     },
     {
@@ -441,7 +441,7 @@
       "county": "GUILFORD",
       "precinct": "H20A",
       "votes": [
-        [151,0,0,0]
+        [150,0,0,0]
       ]
     },
     {
@@ -594,21 +594,21 @@
       "county": "GUILFORD",
       "label": "ABSENTEE",
       "votes": [
-        [0,0,1662,0]
+        [0,0,1664,0]
       ]
     },
     {
       "county": "GUILFORD",
       "label": "EARLYVOTE",
       "votes": [
-        [0,40863,0,0]
+        [0,40859,0,0]
       ]
     },
     {
       "county": "GUILFORD",
       "label": "PROVISIONAL",
       "votes": [
-        [0,0,0,187]
+        [0,0,0,192]
       ]
     },
     {

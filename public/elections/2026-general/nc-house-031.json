@@ -146,7 +146,7 @@
       "county": "DURHAM",
       "label": "ABSENTEE",
       "votes": [
-        [0,0,881,0]
+        [0,0,882,0]
       ]
     },
     {
@@ -174,7 +174,7 @@
       "county": "DURHAM",
       "label": "EV ERL",
       "votes": [
-        [0,11632,0,0]
+        [0,11627,0,0]
       ]
     },
     {
@@ -188,14 +188,14 @@
       "county": "DURHAM",
       "label": "EV MAIN",
       "votes": [
-        [0,2881,0,0]
+        [0,2878,0,0]
       ]
     },
     {
       "county": "DURHAM",
       "label": "EV NCCU",
       "votes": [
-        [0,3045,0,0]
+        [0,3037,0,0]
       ]
     },
     {
@@ -216,14 +216,14 @@
       "county": "DURHAM",
       "label": "EV SRL",
       "votes": [
-        [0,6066,0,0]
+        [0,6063,0,0]
       ]
     },
     {
       "county": "DURHAM",
       "label": "PROVISIONAL",
       "votes": [
-        [0,0,0,286]
+        [0,0,0,287]
       ]
     },
     {

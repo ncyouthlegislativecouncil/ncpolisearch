@@ -190,7 +190,7 @@
       "county": "GUILFORD",
       "precinct": "H20A",
       "votes": [
-        [139,0,0,0],
+        [138,0,0,0],
         [97,0,0,0]
       ]
     },
@@ -289,15 +289,15 @@
       "county": "GUILFORD",
       "label": "EARLYVOTE",
       "votes": [
-        [0,13793,0,0],
-        [0,4444,0,0]
+        [0,13791,0,0],
+        [0,4443,0,0]
       ]
     },
     {
       "county": "GUILFORD",
       "label": "PROVISIONAL",
       "votes": [
-        [0,0,0,88],
+        [0,0,0,90],
         [0,0,0,15]
       ]
     },

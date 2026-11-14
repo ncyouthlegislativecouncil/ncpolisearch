@@ -169,7 +169,7 @@
       "county": "GUILFORD",
       "precinct": "G45",
       "votes": [
-        [337,0,0,0]
+        [336,0,0,0]
       ]
     },
     {
@@ -177,7 +177,7 @@
       "county": "GUILFORD",
       "precinct": "G48",
       "votes": [
-        [676,0,0,0]
+        [675,0,0,0]
       ]
     },
     {
@@ -266,21 +266,21 @@
       "county": "GUILFORD",
       "label": "ABSENTEE",
       "votes": [
-        [0,0,764,0]
+        [0,0,762,0]
       ]
     },
     {
       "county": "GUILFORD",
       "label": "EARLYVOTE",
       "votes": [
-        [0,18470,0,0]
+        [0,18465,0,0]
       ]
     },
     {
       "county": "GUILFORD",
       "label": "PROVISIONAL",
       "votes": [
-        [0,0,0,135]
+        [0,0,0,137]
       ]
     },
     {

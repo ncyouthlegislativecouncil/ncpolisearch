@@ -202,21 +202,21 @@
       "county": "GUILFORD",
       "label": "ABSENTEE",
       "votes": [
-        [0,0,354,0]
+        [0,0,353,0]
       ]
     },
     {
       "county": "GUILFORD",
       "label": "EARLYVOTE",
       "votes": [
-        [0,16530,0,0]
+        [0,16524,0,0]
       ]
     },
     {
       "county": "GUILFORD",
       "label": "PROVISIONAL",
       "votes": [
-        [0,0,0,115]
+        [0,0,0,116]
       ]
     },
     {
